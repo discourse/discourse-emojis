@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-module DiscourseFonts
+module DiscourseEmojis
   VERSION = "0.0.1"
 
-  def self.path_for_fonts
-    File.expand_path("../../vendor/assets/emojis", __FILE__)
+  def self.path_for_emojis
+    File.expand_path("../../vendor/emoji", __FILE__)
   end
 end

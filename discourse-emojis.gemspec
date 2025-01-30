@@ -1,16 +1,16 @@
 # frozen_string_literal: true
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) if !$LOAD_PATH.include?(lib)
-require "discourse_fonts"
+require "discourse_emojis"
 
 Gem::Specification.new do |s|
-  s.name = "discourse-fonts"
-  s.version = DiscourseFonts::VERSION
-  s.summary = "Bundle of customizable Discourse fonts"
+  s.name = "discourse-emojis"
+  s.version = DiscourseEmojis::VERSION
+  s.summary = "Bundle of emojis sets for Discourse"
   s.description =
-    "Bundle of fonts which can be used to customize the look of Discourse"
-  s.authors = ["Bianca Nenciu"]
-  s.email = "bianca.nenciu@discourse.org"
+    "Bundle of emojis sets for Discourse"
+  s.authors = ["Joffrey Jaffeux"]
+  s.email = "joffrey.jaffeux@discourse.org"
   s.files =
     Dir[
       "lib/*.rb",
