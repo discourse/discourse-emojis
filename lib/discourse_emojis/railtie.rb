@@ -14,6 +14,31 @@ module DiscourseEmojis
         File.expand_path("../../../vendor/groups.json", __FILE__),
         File.join(app.config.root, "lib/emoji/groups.json"),
       )
+
+      Discourse::Utils.atomic_ln_s(
+        File.expand_path("../../../vendor/emojis.json", __FILE__),
+        File.join(app.config.root, "lib/emoji/emojis.json"),
+      )
+
+      Discourse::Utils.atomic_ln_s(
+        File.expand_path("../../../vendor/translations.json", __FILE__),
+        File.join(app.config.root, "lib/emoji/translations.json"),
+      )
+
+      Discourse::Utils.atomic_ln_s(
+        File.expand_path("../../../vendor/tonable_emojis.json", __FILE__),
+        File.join(app.config.root, "lib/emoji/tonable_emojis.json"),
+      )
+
+      Discourse::Utils.atomic_ln_s(
+        File.expand_path("../../../vendor/aliases.json", __FILE__),
+        File.join(app.config.root, "lib/emoji/aliases.json"),
+      )
+
+      Discourse::Utils.atomic_ln_s(
+        File.expand_path("../../../vendor/search_aliases.json", __FILE__),
+        File.join(app.config.root, "lib/emoji/search_aliases.json"),
+      )
     end
   end
 end
