@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+require_relative "constants"
 require "open-uri"
 require "zip"
 require "fileutils"
@@ -6,24 +9,15 @@ require "json"
 
 module DiscourseEmojis
   class EmojiProcessor
-    FITZPATRICK_SCALE = {
-      "1f3fb" => 1,
-      "1f3fc" => 2,
-      "1f3fd" => 3,
-      "1f3fe" => 4,
-      "1f3ff" => 5,
-    }.freeze
-
-    def self.process(name, url, asset_subdir, db_path, output_dir)
+    def self.process(name, url, asset_subdir, output_dir)
       zip_path = File.join(Dir.tmpdir, "#{name}.zip")
       extract_path = Dir.mktmpdir
 
       begin
-        db = JSON.parse(File.read(db_path))
         download_zip(url, zip_path)
         extract_zip(zip_path, extract_path)
         asset_path = File.join(extract_path, asset_subdir)
-        process_images(asset_path, db, output_dir)
+        process_images(asset_path, output_dir)
       ensure
         FileUtils.remove_entry(extract_path)
         FileUtils.remove_entry(zip_path)
@@ -44,7 +38,15 @@ module DiscourseEmojis
       end
     end
 
-    def self.process_images(asset_path, db, output_dir)
+    def self.image_output_path(output_dir, emoji_name, fitzpatrick_level)
+      if fitzpatrick_level.nil? || fitzpatrick_level == 1
+        File.join(output_dir, "#{emoji_name}.png")
+      else
+        File.join(output_dir, emoji_name, "#{fitzpatrick_level}.png")
+      end
+    end
+
+    def self.process_images(asset_path, output_dir)
       Dir
         .glob(File.join(asset_path, "*.png"))
         .each do |file|
@@ -64,21 +66,22 @@ module DiscourseEmojis
 
           base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
           emoji = base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
-          emoji_name = db[emoji] if emoji && db.key?(emoji)
+          emoji_name = SUPPORTED_EMOJIS[emoji] if emoji && SUPPORTED_EMOJIS.key?(emoji)
 
           next unless emoji_name
 
-          output_path =
-            (
-              if fitzpatrick_level.nil? || fitzpatrick_level == 1
-                File.join(output_dir, "#{emoji_name}.png")
-              else
-                File.join(output_dir, emoji_name, "#{fitzpatrick_level}.png")
-              end
-            )
-
+          output_path = image_output_path(output_dir, emoji_name, fitzpatrick_level)
           FileUtils.mkdir_p(File.dirname(output_path))
           FileUtils.cp(file, output_path)
+
+          if EMOJI_ALIASES.key?(emoji_name)
+            EMOJI_ALIASES[emoji_name].each do |alias_name|
+              alias_output_path = image_output_path(output_dir, alias_name, fitzpatrick_level)
+              FileUtils.mkdir_p(File.dirname(alias_output_path))
+              FileUtils.cp(file, alias_output_path)
+            end
+          end
+
           puts "Saved: #{output_path}"
         end
     end
