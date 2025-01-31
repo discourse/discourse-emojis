@@ -5,7 +5,7 @@ Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |r| load r }
 
 desc "Generate all emoji sets"
 task :generate do
-  # Rake::Task["openmoji"].invoke
+  Rake::Task["openmoji"].invoke
   Rake::Task["twemoji"].invoke
 end
 
