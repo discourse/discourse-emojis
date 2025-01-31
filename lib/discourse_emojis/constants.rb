@@ -3,6 +3,18 @@
 module DiscourseEmojis
   FITZPATRICK_SCALE = { "1f3fb" => 1, "1f3fc" => 2, "1f3fd" => 3, "1f3fe" => 4, "1f3ff" => 5 }
 
+  EMOJI_GROUPS = {
+    "smileys_&_emotion" => "grinning",
+    "people_&_body" => "wave",
+    "animals_&_nature" => "evergreen_tree",
+    "food_&_drink" => "hamburger",
+    "travel_&_places" => "airplane",
+    "activities" => "soccer",
+    "objects" => "eyeglasses",
+    "symbols" => "white_check_mark",
+    "flags" => "checkered_flag",
+  }
+
   EMOJI_ALIASES = {
     "right_anger_bubble" => ["anger_right"],
     "ballot_box" => ["ballot_box_with_ballot"],

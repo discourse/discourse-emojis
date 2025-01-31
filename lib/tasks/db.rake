@@ -94,7 +94,7 @@ end
 def generate_groups(output_file)
   tonable_emojis =
     JSON.parse(File.read(File.expand_path("../../vendor/tonable_emojis.json", __dir__)))
-  emoji_groups = Hash.new { |h, k| h[k] = [] }
+  emoji_groups = []
 
   URI.open("https://unicode.org/Public/emoji/16.0/emoji-test.txt") do |file|
     current_group = nil
@@ -105,7 +105,12 @@ def generate_groups(output_file)
       next if line.include?("skin tone")
 
       if line.start_with?("# group: ")
-        current_group = line.sub("# group: ", "").strip
+        if current_group && current_group[:icons].any?
+          current_group[:tabicon] = DiscourseEmojis::EMOJI_GROUPS[current_group[:name]]
+          emoji_groups << current_group
+        end
+
+        current_group = { name: line.sub("# group: ", "").strip.downcase.gsub(/ /, "_"), icons: [] }
       elsif !line.start_with?("#") && !line.empty?
         before_comment, after_comment = line.split("#", 2)
         next unless after_comment
@@ -118,7 +123,7 @@ def generate_groups(output_file)
 
         # Check if the base emoji is tonable using your list
         tonable = tonable_emojis.include?(name)
-        emoji_groups[current_group] << { name:, tonable: tonable }
+        current_group[:icons] << { name:, tonable: tonable }
       end
     end
   end

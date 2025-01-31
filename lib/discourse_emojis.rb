@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+require "rails/railtie"
+
+require "discourse_emojis/railtie"
+
 module DiscourseEmojis
   VERSION = "0.0.1"
 
