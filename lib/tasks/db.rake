@@ -2,23 +2,75 @@
 require "nokogiri"
 require "open-uri"
 require "discourse_emojis/constants"
+require "i18n"
 
-def generate_emoji_list(output_file)
-  emoji_list =
-    DiscourseEmojis::SUPPORTED_EMOJIS.map do |emoji, name|
-      { "code" => emoji.codepoints.map { |cp| cp.to_s(16) }.join("-"), "name" => name }
+def generate_emoji_lists(emoji_to_name_file, emojis_file)
+  I18n.available_locales = [:en]
+
+  mapping = {}
+  emojis = []
+
+  Dir
+    .glob("./vendor/emoji-list.html")
+    .each do |html_file|
+      doc = File.open(html_file) { |f| Nokogiri.HTML(f) }
+
+      doc
+        .xpath("//tr")
+        .each do |row|
+          # Extract codepoint
+          code_td = row.xpath("./td[2]").first
+          next unless code_td
+          link = code_td.at_xpath(".//a")
+          next unless link
+          codepoint = link["name"]
+          next unless codepoint
+
+          # Extract name
+          name_td = row.xpath("./td[9]").first
+          next unless name_td
+          name = name_td.text.strip
+
+          # Extract emoji character
+          chars_td = row.xpath("./td[3]").first
+          next unless chars_td
+          emoji_char = chars_td.text.strip
+
+          name =
+            name
+              .downcase
+              .gsub("’", "_")
+              .gsub("!", "")
+              .gsub(": ", "_")
+              .gsub(" ", "_")
+              .gsub("-", "_")
+              .gsub("(", "")
+              .gsub(")", "")
+              .gsub(",_", "_")
+              .gsub("___", "_")
+              .gsub(".", "")
+              .gsub("”", "")
+              .gsub("“", "")
+              .gsub("⊛_", "")
+              .gsub("flag_", "")
+              .gsub("_&_", "_")
+
+          mapping[emoji_char] = I18n.transliterate(name)
+
+          emojis << { name:, code: codepoint }
+        end
     end
 
-  File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(emoji_list)) }
+  File.open(emoji_to_name_file, "w") { |file| file.write(JSON.pretty_generate(mapping)) }
+  puts "Saved to#{emoji_to_name_file}"
 
-  puts "Saved to #{output_file}"
+  File.open(emojis_file, "w") { |file| file.write(JSON.pretty_generate(emojis)) }
+  puts "Saved to #{emojis_file}"
 end
 
 def generate_tonable_emoji_list(output_file)
-  url = "https://unicode.org/Public/emoji/16.0/emoji-sequences.txt"
-
-  # Download the file
-  content = URI.open(url).read
+  content = File.read("./vendor/emoji-sequences.txt")
+  supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
 
   # Extract the last section: RGI_Emoji_Modifier_Sequence
   sections = content.split("# ================================================")
@@ -39,22 +91,17 @@ def generate_tonable_emoji_list(output_file)
     end
 
   File.open(output_file, "w") do |file|
-    file.write(
-      JSON.pretty_generate(
-        emojis.uniq!.map { |emoji| DiscourseEmojis::SUPPORTED_EMOJIS[emoji] }.compact,
-      ),
-    )
+    file.write(JSON.pretty_generate(emojis.uniq!.map { |emoji| supported_emojis[emoji] }.compact))
   end
 
   puts "Saved to #{output_file}"
 end
 
 def generate_search_aliases(output_file)
-  list = "https://raw.githubusercontent.com/unicode-org/cldr/main/common/annotations/en.xml"
-
   aliases = {}
+  supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
 
-  list = URI.open(list).read
+  list = File.read("./vendor/cldr-annotations.xml")
   doc = Nokogiri.XML(list)
   doc
     .xpath("//annotation[not(@type='tts')]")
@@ -62,7 +109,7 @@ def generate_search_aliases(output_file)
       emoji = node.attr("cp")
       next if emoji.nil? || emoji.strip.empty?
 
-      name = DiscourseEmojis::SUPPORTED_EMOJIS[emoji]
+      name = supported_emojis[emoji]
       next if name.nil?
 
       aliases[name] ||= []
@@ -92,39 +139,39 @@ def generate_aliases(output_file)
 end
 
 def generate_groups(output_file)
-  tonable_emojis =
-    JSON.parse(File.read(File.expand_path("../../vendor/tonable_emojis.json", __dir__)))
+  supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
+  tonable_emojis = JSON.parse(File.read("./dist/tonable_emojis.json"))
   emoji_groups = []
 
-  URI.open("https://unicode.org/Public/emoji/16.0/emoji-test.txt") do |file|
-    current_group = nil
+  file = File.open("./vendor/emoji-test.txt")
 
-    file.each_line do |line|
-      line.chomp!
+  current_group = nil
 
-      next if line.include?("skin tone")
+  file.each_line do |line|
+    line.chomp!
 
-      if line.start_with?("# group: ")
-        if current_group && current_group[:icons].any?
-          current_group[:tabicon] = DiscourseEmojis::EMOJI_GROUPS[current_group[:name]]
-          emoji_groups << current_group
-        end
+    next if line.include?("skin tone")
 
-        current_group = { name: line.sub("# group: ", "").strip.downcase.gsub(/ /, "_"), icons: [] }
-      elsif !line.start_with?("#") && !line.empty?
-        before_comment, after_comment = line.split("#", 2)
-        next unless after_comment
-
-        emoji = after_comment.strip.split.first
-        next unless emoji && current_group
-
-        name = DiscourseEmojis::SUPPORTED_EMOJIS[emoji]
-        next if name.nil?
-
-        # Check if the base emoji is tonable using your list
-        tonable = tonable_emojis.include?(name)
-        current_group[:icons] << { name:, tonable: tonable }
+    if line.start_with?("# group: ")
+      if current_group && current_group[:icons].any?
+        current_group[:tabicon] = DiscourseEmojis::EMOJI_GROUPS[current_group[:name]]
+        emoji_groups << current_group
       end
+
+      current_group = { name: line.sub("# group: ", "").strip.downcase.gsub(/ /, "_"), icons: [] }
+    elsif !line.start_with?("#") && !line.empty?
+      before_comment, after_comment = line.split("#", 2)
+      next unless after_comment
+
+      emoji = after_comment.strip.split.first
+      next unless emoji && current_group
+
+      name = supported_emojis[emoji]
+      next if name.nil?
+
+      # Check if the base emoji is tonable using your list
+      tonable = tonable_emojis.include?(name)
+      current_group[:icons] << { name:, tonable: tonable }
     end
   end
 
@@ -135,10 +182,10 @@ def generate_groups(output_file)
 end
 
 task :db do
-  generate_emoji_list(File.expand_path("../../vendor/emojis.json", __dir__))
-  generate_tonable_emoji_list(File.expand_path("../../vendor/tonable_emojis.json", __dir__))
-  generate_search_aliases(File.expand_path("../../vendor/search_aliases.json", __dir__))
-  generate_translations(File.expand_path("../../vendor/translations.json", __dir__))
-  generate_groups(File.expand_path("../../vendor/groups.json", __dir__))
-  generate_aliases(File.expand_path("../../vendor/aliases.json", __dir__))
+  generate_emoji_lists("./dist/emoji_to_name.json", "./dist/emojis.json")
+  generate_tonable_emoji_list("./dist/tonable_emojis.json")
+  generate_search_aliases("./dist/search_aliases.json")
+  generate_translations("./dist/translations.json")
+  generate_groups("./dist/groups.json")
+  generate_aliases("./dist/aliases.json")
 end

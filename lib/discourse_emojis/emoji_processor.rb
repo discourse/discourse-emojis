@@ -47,11 +47,13 @@ module DiscourseEmojis
     end
 
     def self.process_images(asset_path, output_dir)
+      supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
+
       Dir
         .glob(File.join(asset_path, "*.png"))
         .each do |file|
-          filename = File.basename(file, ".png").downcase
-          codepoints = filename.split("-")
+          filename = File.basename(file, ".png").downcase.gsub("emoji_u", "").gsub("-", "_")
+          codepoints = filename.split("_")
 
           fitzpatrick_level = nil
           base_codepoints =
@@ -66,7 +68,7 @@ module DiscourseEmojis
 
           base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
           emoji = base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
-          emoji_name = SUPPORTED_EMOJIS[emoji] if emoji && SUPPORTED_EMOJIS.key?(emoji)
+          emoji_name = supported_emojis[emoji] if emoji && supported_emojis.key?(emoji)
 
           next unless emoji_name
 

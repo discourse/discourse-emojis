@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module DiscourseEmojis
-  class Railtie < Rails::Railtie
+  class Railtie < ::Rails::Railtie
     initializer "discourse_emojis.configure_application" do |app|
       emojis_path = File.join(app.config.root, "public/images/emoji")
       if !File.exist?(emojis_path) || File.realpath(emojis_path) != DiscourseEmojis.path_for_emojis
@@ -11,32 +11,27 @@ module DiscourseEmojis
       end
 
       Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/groups.json", __FILE__),
-        File.join(app.config.root, "lib/emoji/groups.json"),
-      )
-
-      Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/emojis.json", __FILE__),
+        File.expand_path("../../../dist/emojis.json", __FILE__),
         File.join(app.config.root, "lib/emoji/emojis.json"),
       )
 
       Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/translations.json", __FILE__),
+        File.expand_path("../../../dist/translations.json", __FILE__),
         File.join(app.config.root, "lib/emoji/translations.json"),
       )
 
       Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/tonable_emojis.json", __FILE__),
+        File.expand_path("../../../dist/tonable_emojis.json", __FILE__),
         File.join(app.config.root, "lib/emoji/tonable_emojis.json"),
       )
 
       Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/aliases.json", __FILE__),
+        File.expand_path("../../../dist/aliases.json", __FILE__),
         File.join(app.config.root, "lib/emoji/aliases.json"),
       )
 
       Discourse::Utils.atomic_ln_s(
-        File.expand_path("../../../vendor/search_aliases.json", __FILE__),
+        File.expand_path("../../../dist/search_aliases.json", __FILE__),
         File.join(app.config.root, "lib/emoji/search_aliases.json"),
       )
     end
