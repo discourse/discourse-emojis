@@ -3,7 +3,7 @@
 require "discourse_emojis"
 
 task :fluentui_emoji do
-  url = File.join(DiscourseEmojis.root, "vendor/fluentui-emoji-main.zip")
+  url = "https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip"
   asset_subdir = File.join("fluentui-emoji-main", "assets")
   supported_emojis =
     JSON.parse(File.read(File.join(DiscourseEmojis.dist_path, "emoji_to_name.json")))
