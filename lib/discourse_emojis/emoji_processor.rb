@@ -1,91 +1,102 @@
 # frozen_string_literal: true
 
 require_relative "constants"
-require "open-uri"
-require "zip"
+require_relative "zip_processor"
 require "fileutils"
 require "tmpdir"
 require "json"
 
 module DiscourseEmojis
   class EmojiProcessor
-    def self.process(name, url, asset_subdir, output_dir)
-      zip_path = File.join(Dir.tmpdir, "#{name}.zip")
-      extract_path = Dir.mktmpdir
+    EMOJI_TO_NAME_PATH = "./dist/emoji_to_name.json"
 
-      begin
-        download_zip(url, zip_path)
-        extract_zip(zip_path, extract_path)
-        asset_path = File.join(extract_path, asset_subdir)
-        process_images(asset_path, output_dir)
-      ensure
-        FileUtils.remove_entry(extract_path)
-        FileUtils.remove_entry(zip_path)
-      end
-    end
-
-    def self.download_zip(url, zip_path)
-      URI.open(url) { |download| File.open(zip_path, "wb") { |file| file.write(download.read) } }
-    end
-
-    def self.extract_zip(zip_path, extract_path)
-      Zip::File.open(zip_path) do |zip_file|
-        zip_file.each do |entry|
-          target_file = File.join(extract_path, entry.name)
-          FileUtils.mkdir_p(File.dirname(target_file))
-          zip_file.extract(entry, target_file) unless File.exist?(target_file)
+    class << self
+      def process(name, url, asset_subdir, output_dir)
+        ZipProcessor.with_extracted_files(url) do |extract_path|
+          asset_path = File.join(extract_path, asset_subdir)
+          process_images(asset_path, output_dir)
         end
       end
-    end
 
-    def self.image_output_path(output_dir, emoji_name, fitzpatrick_level)
-      if fitzpatrick_level.nil? || fitzpatrick_level == 1
-        File.join(output_dir, "#{emoji_name}.png")
-      else
-        File.join(output_dir, emoji_name, "#{fitzpatrick_level}.png")
+      private
+
+      def image_output_path(output_dir, emoji_name, fitzpatrick_level)
+        if fitzpatrick_level.nil?
+          File.join(output_dir, "#{emoji_name}.png")
+        else
+          File.join(output_dir, emoji_name, "#{fitzpatrick_level}.png")
+        end
       end
-    end
 
-    def self.process_images(asset_path, output_dir)
-      supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
+      def process_images(asset_path, output_dir)
+        supported_emojis = load_supported_emojis
+        process_image_files(asset_path, output_dir, supported_emojis)
+      end
 
-      Dir
-        .glob(File.join(asset_path, "*.png"))
-        .each do |file|
-          filename = File.basename(file, ".png").downcase.gsub("emoji_u", "").gsub("-", "_")
-          codepoints = filename.split("_")
+      def load_supported_emojis
+        JSON.parse(File.read(EMOJI_TO_NAME_PATH))
+      rescue JSON::ParserError, Errno::ENOENT => e
+        raise "Failed to load emoji mapping: #{e.message}"
+      end
 
-          fitzpatrick_level = nil
-          base_codepoints =
-            codepoints.reject do |cp|
-              if FITZPATRICK_SCALE.key?(cp)
-                fitzpatrick_level = FITZPATRICK_SCALE[cp]
-                true
-              else
-                false
-              end
-            end
+      def process_image_files(asset_path, output_dir, supported_emojis)
+        Dir
+          .glob(File.join(asset_path, "*.png"))
+          .each { |file| process_single_image(file, output_dir, supported_emojis) }
+      end
 
-          base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
-          emoji = base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
-          emoji_name = supported_emojis[emoji] if emoji && supported_emojis.key?(emoji)
+      def process_single_image(file, output_dir, supported_emojis)
+        filename = normalize_filename(file)
+        codepoints = filename.split("_")
 
-          next unless emoji_name
+        fitzpatrick_level, base_codepoints = extract_fitzpatrick_scale(codepoints)
+        emoji = convert_to_emoji(base_codepoints)
+        emoji_name = supported_emojis[emoji]
 
-          output_path = image_output_path(output_dir, emoji_name, fitzpatrick_level)
-          FileUtils.mkdir_p(File.dirname(output_path))
-          FileUtils.cp(file, output_path)
+        return unless emoji_name
 
-          if EMOJI_ALIASES.key?(emoji_name)
-            EMOJI_ALIASES[emoji_name].each do |alias_name|
-              alias_output_path = image_output_path(output_dir, alias_name, fitzpatrick_level)
-              FileUtils.mkdir_p(File.dirname(alias_output_path))
-              FileUtils.cp(file, alias_output_path)
+        save_emoji_image(file, output_dir, emoji_name, fitzpatrick_level)
+        process_aliases(file, output_dir, emoji_name, fitzpatrick_level)
+      end
+
+      def normalize_filename(file)
+        File.basename(file, ".png").downcase.gsub("emoji_u", "").gsub("-", "_")
+      end
+
+      def extract_fitzpatrick_scale(codepoints)
+        fitzpatrick_level = nil
+        base_codepoints =
+          codepoints.reject do |cp|
+            if FITZPATRICK_SCALE.key?(cp)
+              fitzpatrick_level = FITZPATRICK_SCALE[cp]
+              true
+            else
+              false
             end
           end
+        [fitzpatrick_level, base_codepoints]
+      end
 
-          puts "Saved: #{output_path}"
+      def convert_to_emoji(base_codepoints)
+        base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
+        base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
+      end
+
+      def save_emoji_image(source_file, output_dir, emoji_name, fitzpatrick_level)
+        output_path = image_output_path(output_dir, emoji_name, fitzpatrick_level)
+        FileUtils.mkdir_p(File.dirname(output_path))
+        FileUtils.cp(source_file, output_path)
+      end
+
+      def process_aliases(source_file, output_dir, emoji_name, fitzpatrick_level)
+        return unless EMOJI_ALIASES.key?(emoji_name)
+
+        EMOJI_ALIASES[emoji_name].each do |alias_name|
+          alias_output_path = image_output_path(output_dir, alias_name, fitzpatrick_level)
+          FileUtils.mkdir_p(File.dirname(alias_output_path))
+          FileUtils.cp(source_file, alias_output_path)
         end
+      end
     end
   end
 end

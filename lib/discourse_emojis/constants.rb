@@ -797,4 +797,6 @@ module DiscourseEmojis
     ":$" => "blush",
     ":-$" => "blush",
   }
+
+  EMOJI_DIST_PATH = "dist/emoji".freeze
 end

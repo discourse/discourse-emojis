@@ -1,14 +1,22 @@
+# frozen_string_literal: true
+
 require "rake"
 
-# Load all tasks from lib/tasks/
-Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |r| load r }
+Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |task| require_relative(task) }
 
 desc "Generate all emoji sets"
 task :generate do
+  FileUtils.rm_rf("dist")
+  FileUtils.mkdir_p("dist")
+
   Rake::Task["db"].invoke
 
-  Rake::Task["noto_emoji"].invoke
+  # needs to be run first as we use the standard
+  # if it doesn't exist in the set
   Rake::Task["unicode"].invoke
+
+  Rake::Task["fluentui_emoji"].invoke
+  Rake::Task["noto_emoji"].invoke
   Rake::Task["twemoji"].invoke
   Rake::Task["openmoji"].invoke
 end
