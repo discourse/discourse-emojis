@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "discourse_emojis/emoji_processor"
+require "discourse_emojis/codepoints_emoji_processor"
 
 task :noto_emoji do
   name = "noto"
 
-  DiscourseEmojis::EmojiProcessor.process(
+  DiscourseEmojis::CodepointsEmojiProcessor.process(
     name,
     "https://github.com/googlefonts/noto-emoji/archive/refs/tags/v2.047.zip",
     File.join("noto-emoji-2.047", "png", "72", "**"),

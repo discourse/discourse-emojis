@@ -7,7 +7,7 @@ require "tmpdir"
 require "json"
 
 module DiscourseEmojis
-  class EmojiProcessor
+  class CodepointsEmojiProcessor
     EMOJI_TO_NAME_PATH = "./dist/emoji_to_name.json"
 
     class << self
