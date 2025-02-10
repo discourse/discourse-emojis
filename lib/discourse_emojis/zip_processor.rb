@@ -3,6 +3,7 @@
 require "zip"
 require "open-uri"
 require "fileutils"
+require "net/http"
 
 module DiscourseEmojis
   class ZipProcessor
@@ -22,12 +23,14 @@ module DiscourseEmojis
 
     def self.download(url, destination)
       if url.start_with?("http", "https")
-        URI.open(url) { |remote_file| File.binwrite(destination, remote_file.read) }
+        response = Net::HTTP.get_response(URI(url))
+        unless response.is_a?(Net::HTTPSuccess)
+          raise "Failed to download: #{response.code} #{response.message}"
+        end
+        File.binwrite(destination, response.body)
       else
         FileUtils.cp(url, destination)
       end
-    rescue OpenURI::HTTPError => e
-      raise "Failed to download from #{url}: #{e.message}"
     rescue StandardError => e
       raise "Error downloading file: #{e.message}"
     end
