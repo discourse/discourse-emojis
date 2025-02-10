@@ -2,7 +2,7 @@
 
 require "rake"
 
-Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |task| require_relative(task) }
+Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |task| import(task) }
 
 desc "Generate all emoji sets"
 task :generate do
