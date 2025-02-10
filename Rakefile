@@ -19,4 +19,6 @@ task :generate do
   Rake::Task["noto_emoji"].invoke
   Rake::Task["twemoji"].invoke
   Rake::Task["openmoji"].invoke
+
+  Rake::Task["missing_emojis"].invoke
 end
