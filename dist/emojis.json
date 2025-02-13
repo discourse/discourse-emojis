@@ -169,7 +169,7 @@
   },
   {
     "name": "face_in_clouds",
-    "code": "1f636_200d_1f32b_fe0f"
+    "code": "1f636-200d-1f32b-fe0f"
   },
   {
     "name": "smirking_face",
@@ -189,7 +189,7 @@
   },
   {
     "name": "face_exhaling",
-    "code": "1f62e_200d_1f4a8"
+    "code": "1f62e-200d-1f4a8"
   },
   {
     "name": "lying_face",
@@ -201,11 +201,11 @@
   },
   {
     "name": "head_shaking_horizontally",
-    "code": "1f642_200d_2194_fe0f"
+    "code": "1f642-200d-2194-fe0f"
   },
   {
     "name": "head_shaking_vertically",
-    "code": "1f642_200d_2195_fe0f"
+    "code": "1f642-200d-2195-fe0f"
   },
   {
     "name": "relieved_face",
@@ -273,7 +273,7 @@
   },
   {
     "name": "face_with_spiral_eyes",
-    "code": "1f635_200d_1f4ab"
+    "code": "1f635-200d-1f4ab"
   },
   {
     "name": "exploding_head",
@@ -565,11 +565,11 @@
   },
   {
     "name": "heart_on_fire",
-    "code": "2764_fe0f_200d_1f525"
+    "code": "2764-fe0f-200d-1f525"
   },
   {
     "name": "mending_heart",
-    "code": "2764_fe0f_200d_1fa79"
+    "code": "2764-fe0f-200d-1fa79"
   },
   {
     "name": "red_heart",
@@ -657,7 +657,7 @@
   },
   {
     "name": "eye_in_speech_bubble",
-    "code": "1f441_fe0f_200d_1f5e8_fe0f"
+    "code": "1f441-fe0f-200d-1f5e8-fe0f"
   },
   {
     "name": "left_speech_bubble",
@@ -953,27 +953,27 @@
   },
   {
     "name": "man_beard",
-    "code": "1f9d4_200d_2642_fe0f"
+    "code": "1f9d4-200d-2642-fe0f"
   },
   {
     "name": "woman_beard",
-    "code": "1f9d4_200d_2640_fe0f"
+    "code": "1f9d4-200d-2640-fe0f"
   },
   {
     "name": "man_red_hair",
-    "code": "1f468_200d_1f9b0"
+    "code": "1f468-200d-1f9b0"
   },
   {
     "name": "man_curly_hair",
-    "code": "1f468_200d_1f9b1"
+    "code": "1f468-200d-1f9b1"
   },
   {
     "name": "man_white_hair",
-    "code": "1f468_200d_1f9b3"
+    "code": "1f468-200d-1f9b3"
   },
   {
     "name": "man_bald",
-    "code": "1f468_200d_1f9b2"
+    "code": "1f468-200d-1f9b2"
   },
   {
     "name": "woman",
@@ -981,43 +981,43 @@
   },
   {
     "name": "woman_red_hair",
-    "code": "1f469_200d_1f9b0"
+    "code": "1f469-200d-1f9b0"
   },
   {
     "name": "person_red_hair",
-    "code": "1f9d1_200d_1f9b0"
+    "code": "1f9d1-200d-1f9b0"
   },
   {
     "name": "woman_curly_hair",
-    "code": "1f469_200d_1f9b1"
+    "code": "1f469-200d-1f9b1"
   },
   {
     "name": "person_curly_hair",
-    "code": "1f9d1_200d_1f9b1"
+    "code": "1f9d1-200d-1f9b1"
   },
   {
     "name": "woman_white_hair",
-    "code": "1f469_200d_1f9b3"
+    "code": "1f469-200d-1f9b3"
   },
   {
     "name": "person_white_hair",
-    "code": "1f9d1_200d_1f9b3"
+    "code": "1f9d1-200d-1f9b3"
   },
   {
     "name": "woman_bald",
-    "code": "1f469_200d_1f9b2"
+    "code": "1f469-200d-1f9b2"
   },
   {
     "name": "person_bald",
-    "code": "1f9d1_200d_1f9b2"
+    "code": "1f9d1-200d-1f9b2"
   },
   {
     "name": "woman_blond_hair",
-    "code": "1f471_200d_2640_fe0f"
+    "code": "1f471-200d-2640-fe0f"
   },
   {
     "name": "man_blond_hair",
-    "code": "1f471_200d_2642_fe0f"
+    "code": "1f471-200d-2642-fe0f"
   },
   {
     "name": "older_person",
@@ -1037,11 +1037,11 @@
   },
   {
     "name": "man_frowning",
-    "code": "1f64d_200d_2642_fe0f"
+    "code": "1f64d-200d-2642-fe0f"
   },
   {
     "name": "woman_frowning",
-    "code": "1f64d_200d_2640_fe0f"
+    "code": "1f64d-200d-2640-fe0f"
   },
   {
     "name": "person_pouting",
@@ -1049,11 +1049,11 @@
   },
   {
     "name": "man_pouting",
-    "code": "1f64e_200d_2642_fe0f"
+    "code": "1f64e-200d-2642-fe0f"
   },
   {
     "name": "woman_pouting",
-    "code": "1f64e_200d_2640_fe0f"
+    "code": "1f64e-200d-2640-fe0f"
   },
   {
     "name": "person_gesturing_no",
@@ -1061,11 +1061,11 @@
   },
   {
     "name": "man_gesturing_no",
-    "code": "1f645_200d_2642_fe0f"
+    "code": "1f645-200d-2642-fe0f"
   },
   {
     "name": "woman_gesturing_no",
-    "code": "1f645_200d_2640_fe0f"
+    "code": "1f645-200d-2640-fe0f"
   },
   {
     "name": "person_gesturing_ok",
@@ -1073,11 +1073,11 @@
   },
   {
     "name": "man_gesturing_ok",
-    "code": "1f646_200d_2642_fe0f"
+    "code": "1f646-200d-2642-fe0f"
   },
   {
     "name": "woman_gesturing_ok",
-    "code": "1f646_200d_2640_fe0f"
+    "code": "1f646-200d-2640-fe0f"
   },
   {
     "name": "person_tipping_hand",
@@ -1085,11 +1085,11 @@
   },
   {
     "name": "man_tipping_hand",
-    "code": "1f481_200d_2642_fe0f"
+    "code": "1f481-200d-2642-fe0f"
   },
   {
     "name": "woman_tipping_hand",
-    "code": "1f481_200d_2640_fe0f"
+    "code": "1f481-200d-2640-fe0f"
   },
   {
     "name": "person_raising_hand",
@@ -1097,11 +1097,11 @@
   },
   {
     "name": "man_raising_hand",
-    "code": "1f64b_200d_2642_fe0f"
+    "code": "1f64b-200d-2642-fe0f"
   },
   {
     "name": "woman_raising_hand",
-    "code": "1f64b_200d_2640_fe0f"
+    "code": "1f64b-200d-2640-fe0f"
   },
   {
     "name": "deaf_person",
@@ -1109,11 +1109,11 @@
   },
   {
     "name": "deaf_man",
-    "code": "1f9cf_200d_2642_fe0f"
+    "code": "1f9cf-200d-2642-fe0f"
   },
   {
     "name": "deaf_woman",
-    "code": "1f9cf_200d_2640_fe0f"
+    "code": "1f9cf-200d-2640-fe0f"
   },
   {
     "name": "person_bowing",
@@ -1121,11 +1121,11 @@
   },
   {
     "name": "man_bowing",
-    "code": "1f647_200d_2642_fe0f"
+    "code": "1f647-200d-2642-fe0f"
   },
   {
     "name": "woman_bowing",
-    "code": "1f647_200d_2640_fe0f"
+    "code": "1f647-200d-2640-fe0f"
   },
   {
     "name": "person_facepalming",
@@ -1133,11 +1133,11 @@
   },
   {
     "name": "man_facepalming",
-    "code": "1f926_200d_2642_fe0f"
+    "code": "1f926-200d-2642-fe0f"
   },
   {
     "name": "woman_facepalming",
-    "code": "1f926_200d_2640_fe0f"
+    "code": "1f926-200d-2640-fe0f"
   },
   {
     "name": "person_shrugging",
@@ -1145,203 +1145,203 @@
   },
   {
     "name": "man_shrugging",
-    "code": "1f937_200d_2642_fe0f"
+    "code": "1f937-200d-2642-fe0f"
   },
   {
     "name": "woman_shrugging",
-    "code": "1f937_200d_2640_fe0f"
+    "code": "1f937-200d-2640-fe0f"
   },
   {
     "name": "health_worker",
-    "code": "1f9d1_200d_2695_fe0f"
+    "code": "1f9d1-200d-2695-fe0f"
   },
   {
     "name": "man_health_worker",
-    "code": "1f468_200d_2695_fe0f"
+    "code": "1f468-200d-2695-fe0f"
   },
   {
     "name": "woman_health_worker",
-    "code": "1f469_200d_2695_fe0f"
+    "code": "1f469-200d-2695-fe0f"
   },
   {
     "name": "student",
-    "code": "1f9d1_200d_1f393"
+    "code": "1f9d1-200d-1f393"
   },
   {
     "name": "man_student",
-    "code": "1f468_200d_1f393"
+    "code": "1f468-200d-1f393"
   },
   {
     "name": "woman_student",
-    "code": "1f469_200d_1f393"
+    "code": "1f469-200d-1f393"
   },
   {
     "name": "teacher",
-    "code": "1f9d1_200d_1f3eb"
+    "code": "1f9d1-200d-1f3eb"
   },
   {
     "name": "man_teacher",
-    "code": "1f468_200d_1f3eb"
+    "code": "1f468-200d-1f3eb"
   },
   {
     "name": "woman_teacher",
-    "code": "1f469_200d_1f3eb"
+    "code": "1f469-200d-1f3eb"
   },
   {
     "name": "judge",
-    "code": "1f9d1_200d_2696_fe0f"
+    "code": "1f9d1-200d-2696-fe0f"
   },
   {
     "name": "man_judge",
-    "code": "1f468_200d_2696_fe0f"
+    "code": "1f468-200d-2696-fe0f"
   },
   {
     "name": "woman_judge",
-    "code": "1f469_200d_2696_fe0f"
+    "code": "1f469-200d-2696-fe0f"
   },
   {
     "name": "farmer",
-    "code": "1f9d1_200d_1f33e"
+    "code": "1f9d1-200d-1f33e"
   },
   {
     "name": "man_farmer",
-    "code": "1f468_200d_1f33e"
+    "code": "1f468-200d-1f33e"
   },
   {
     "name": "woman_farmer",
-    "code": "1f469_200d_1f33e"
+    "code": "1f469-200d-1f33e"
   },
   {
     "name": "cook",
-    "code": "1f9d1_200d_1f373"
+    "code": "1f9d1-200d-1f373"
   },
   {
     "name": "man_cook",
-    "code": "1f468_200d_1f373"
+    "code": "1f468-200d-1f373"
   },
   {
     "name": "woman_cook",
-    "code": "1f469_200d_1f373"
+    "code": "1f469-200d-1f373"
   },
   {
     "name": "mechanic",
-    "code": "1f9d1_200d_1f527"
+    "code": "1f9d1-200d-1f527"
   },
   {
     "name": "man_mechanic",
-    "code": "1f468_200d_1f527"
+    "code": "1f468-200d-1f527"
   },
   {
     "name": "woman_mechanic",
-    "code": "1f469_200d_1f527"
+    "code": "1f469-200d-1f527"
   },
   {
     "name": "factory_worker",
-    "code": "1f9d1_200d_1f3ed"
+    "code": "1f9d1-200d-1f3ed"
   },
   {
     "name": "man_factory_worker",
-    "code": "1f468_200d_1f3ed"
+    "code": "1f468-200d-1f3ed"
   },
   {
     "name": "woman_factory_worker",
-    "code": "1f469_200d_1f3ed"
+    "code": "1f469-200d-1f3ed"
   },
   {
     "name": "office_worker",
-    "code": "1f9d1_200d_1f4bc"
+    "code": "1f9d1-200d-1f4bc"
   },
   {
     "name": "man_office_worker",
-    "code": "1f468_200d_1f4bc"
+    "code": "1f468-200d-1f4bc"
   },
   {
     "name": "woman_office_worker",
-    "code": "1f469_200d_1f4bc"
+    "code": "1f469-200d-1f4bc"
   },
   {
     "name": "scientist",
-    "code": "1f9d1_200d_1f52c"
+    "code": "1f9d1-200d-1f52c"
   },
   {
     "name": "man_scientist",
-    "code": "1f468_200d_1f52c"
+    "code": "1f468-200d-1f52c"
   },
   {
     "name": "woman_scientist",
-    "code": "1f469_200d_1f52c"
+    "code": "1f469-200d-1f52c"
   },
   {
     "name": "technologist",
-    "code": "1f9d1_200d_1f4bb"
+    "code": "1f9d1-200d-1f4bb"
   },
   {
     "name": "man_technologist",
-    "code": "1f468_200d_1f4bb"
+    "code": "1f468-200d-1f4bb"
   },
   {
     "name": "woman_technologist",
-    "code": "1f469_200d_1f4bb"
+    "code": "1f469-200d-1f4bb"
   },
   {
     "name": "singer",
-    "code": "1f9d1_200d_1f3a4"
+    "code": "1f9d1-200d-1f3a4"
   },
   {
     "name": "man_singer",
-    "code": "1f468_200d_1f3a4"
+    "code": "1f468-200d-1f3a4"
   },
   {
     "name": "woman_singer",
-    "code": "1f469_200d_1f3a4"
+    "code": "1f469-200d-1f3a4"
   },
   {
     "name": "artist",
-    "code": "1f9d1_200d_1f3a8"
+    "code": "1f9d1-200d-1f3a8"
   },
   {
     "name": "man_artist",
-    "code": "1f468_200d_1f3a8"
+    "code": "1f468-200d-1f3a8"
   },
   {
     "name": "woman_artist",
-    "code": "1f469_200d_1f3a8"
+    "code": "1f469-200d-1f3a8"
   },
   {
     "name": "pilot",
-    "code": "1f9d1_200d_2708_fe0f"
+    "code": "1f9d1-200d-2708-fe0f"
   },
   {
     "name": "man_pilot",
-    "code": "1f468_200d_2708_fe0f"
+    "code": "1f468-200d-2708-fe0f"
   },
   {
     "name": "woman_pilot",
-    "code": "1f469_200d_2708_fe0f"
+    "code": "1f469-200d-2708-fe0f"
   },
   {
     "name": "astronaut",
-    "code": "1f9d1_200d_1f680"
+    "code": "1f9d1-200d-1f680"
   },
   {
     "name": "man_astronaut",
-    "code": "1f468_200d_1f680"
+    "code": "1f468-200d-1f680"
   },
   {
     "name": "woman_astronaut",
-    "code": "1f469_200d_1f680"
+    "code": "1f469-200d-1f680"
   },
   {
     "name": "firefighter",
-    "code": "1f9d1_200d_1f692"
+    "code": "1f9d1-200d-1f692"
   },
   {
     "name": "man_firefighter",
-    "code": "1f468_200d_1f692"
+    "code": "1f468-200d-1f692"
   },
   {
     "name": "woman_firefighter",
-    "code": "1f469_200d_1f692"
+    "code": "1f469-200d-1f692"
   },
   {
     "name": "police_officer",
@@ -1349,11 +1349,11 @@
   },
   {
     "name": "man_police_officer",
-    "code": "1f46e_200d_2642_fe0f"
+    "code": "1f46e-200d-2642-fe0f"
   },
   {
     "name": "woman_police_officer",
-    "code": "1f46e_200d_2640_fe0f"
+    "code": "1f46e-200d-2640-fe0f"
   },
   {
     "name": "detective",
@@ -1361,11 +1361,11 @@
   },
   {
     "name": "man_detective",
-    "code": "1f575_fe0f_200d_2642_fe0f"
+    "code": "1f575-fe0f-200d-2642-fe0f"
   },
   {
     "name": "woman_detective",
-    "code": "1f575_fe0f_200d_2640_fe0f"
+    "code": "1f575-fe0f-200d-2640-fe0f"
   },
   {
     "name": "guard",
@@ -1373,11 +1373,11 @@
   },
   {
     "name": "man_guard",
-    "code": "1f482_200d_2642_fe0f"
+    "code": "1f482-200d-2642-fe0f"
   },
   {
     "name": "woman_guard",
-    "code": "1f482_200d_2640_fe0f"
+    "code": "1f482-200d-2640-fe0f"
   },
   {
     "name": "ninja",
@@ -1389,11 +1389,11 @@
   },
   {
     "name": "man_construction_worker",
-    "code": "1f477_200d_2642_fe0f"
+    "code": "1f477-200d-2642-fe0f"
   },
   {
     "name": "woman_construction_worker",
-    "code": "1f477_200d_2640_fe0f"
+    "code": "1f477-200d-2640-fe0f"
   },
   {
     "name": "person_with_crown",
@@ -1413,11 +1413,11 @@
   },
   {
     "name": "man_wearing_turban",
-    "code": "1f473_200d_2642_fe0f"
+    "code": "1f473-200d-2642-fe0f"
   },
   {
     "name": "woman_wearing_turban",
-    "code": "1f473_200d_2640_fe0f"
+    "code": "1f473-200d-2640-fe0f"
   },
   {
     "name": "person_with_skullcap",
@@ -1433,11 +1433,11 @@
   },
   {
     "name": "man_in_tuxedo",
-    "code": "1f935_200d_2642_fe0f"
+    "code": "1f935-200d-2642-fe0f"
   },
   {
     "name": "woman_in_tuxedo",
-    "code": "1f935_200d_2640_fe0f"
+    "code": "1f935-200d-2640-fe0f"
   },
   {
     "name": "person_with_veil",
@@ -1445,11 +1445,11 @@
   },
   {
     "name": "man_with_veil",
-    "code": "1f470_200d_2642_fe0f"
+    "code": "1f470-200d-2642-fe0f"
   },
   {
     "name": "woman_with_veil",
-    "code": "1f470_200d_2640_fe0f"
+    "code": "1f470-200d-2640-fe0f"
   },
   {
     "name": "pregnant_woman",
@@ -1469,15 +1469,15 @@
   },
   {
     "name": "woman_feeding_baby",
-    "code": "1f469_200d_1f37c"
+    "code": "1f469-200d-1f37c"
   },
   {
     "name": "man_feeding_baby",
-    "code": "1f468_200d_1f37c"
+    "code": "1f468-200d-1f37c"
   },
   {
     "name": "person_feeding_baby",
-    "code": "1f9d1_200d_1f37c"
+    "code": "1f9d1-200d-1f37c"
   },
   {
     "name": "baby_angel",
@@ -1493,7 +1493,7 @@
   },
   {
     "name": "mx_claus",
-    "code": "1f9d1_200d_1f384"
+    "code": "1f9d1-200d-1f384"
   },
   {
     "name": "superhero",
@@ -1501,11 +1501,11 @@
   },
   {
     "name": "man_superhero",
-    "code": "1f9b8_200d_2642_fe0f"
+    "code": "1f9b8-200d-2642-fe0f"
   },
   {
     "name": "woman_superhero",
-    "code": "1f9b8_200d_2640_fe0f"
+    "code": "1f9b8-200d-2640-fe0f"
   },
   {
     "name": "supervillain",
@@ -1513,11 +1513,11 @@
   },
   {
     "name": "man_supervillain",
-    "code": "1f9b9_200d_2642_fe0f"
+    "code": "1f9b9-200d-2642-fe0f"
   },
   {
     "name": "woman_supervillain",
-    "code": "1f9b9_200d_2640_fe0f"
+    "code": "1f9b9-200d-2640-fe0f"
   },
   {
     "name": "mage",
@@ -1525,11 +1525,11 @@
   },
   {
     "name": "man_mage",
-    "code": "1f9d9_200d_2642_fe0f"
+    "code": "1f9d9-200d-2642-fe0f"
   },
   {
     "name": "woman_mage",
-    "code": "1f9d9_200d_2640_fe0f"
+    "code": "1f9d9-200d-2640-fe0f"
   },
   {
     "name": "fairy",
@@ -1537,11 +1537,11 @@
   },
   {
     "name": "man_fairy",
-    "code": "1f9da_200d_2642_fe0f"
+    "code": "1f9da-200d-2642-fe0f"
   },
   {
     "name": "woman_fairy",
-    "code": "1f9da_200d_2640_fe0f"
+    "code": "1f9da-200d-2640-fe0f"
   },
   {
     "name": "vampire",
@@ -1549,11 +1549,11 @@
   },
   {
     "name": "man_vampire",
-    "code": "1f9db_200d_2642_fe0f"
+    "code": "1f9db-200d-2642-fe0f"
   },
   {
     "name": "woman_vampire",
-    "code": "1f9db_200d_2640_fe0f"
+    "code": "1f9db-200d-2640-fe0f"
   },
   {
     "name": "merperson",
@@ -1561,11 +1561,11 @@
   },
   {
     "name": "merman",
-    "code": "1f9dc_200d_2642_fe0f"
+    "code": "1f9dc-200d-2642-fe0f"
   },
   {
     "name": "mermaid",
-    "code": "1f9dc_200d_2640_fe0f"
+    "code": "1f9dc-200d-2640-fe0f"
   },
   {
     "name": "elf",
@@ -1573,11 +1573,11 @@
   },
   {
     "name": "man_elf",
-    "code": "1f9dd_200d_2642_fe0f"
+    "code": "1f9dd-200d-2642-fe0f"
   },
   {
     "name": "woman_elf",
-    "code": "1f9dd_200d_2640_fe0f"
+    "code": "1f9dd-200d-2640-fe0f"
   },
   {
     "name": "genie",
@@ -1585,11 +1585,11 @@
   },
   {
     "name": "man_genie",
-    "code": "1f9de_200d_2642_fe0f"
+    "code": "1f9de-200d-2642-fe0f"
   },
   {
     "name": "woman_genie",
-    "code": "1f9de_200d_2640_fe0f"
+    "code": "1f9de-200d-2640-fe0f"
   },
   {
     "name": "zombie",
@@ -1597,11 +1597,11 @@
   },
   {
     "name": "man_zombie",
-    "code": "1f9df_200d_2642_fe0f"
+    "code": "1f9df-200d-2642-fe0f"
   },
   {
     "name": "woman_zombie",
-    "code": "1f9df_200d_2640_fe0f"
+    "code": "1f9df-200d-2640-fe0f"
   },
   {
     "name": "troll",
@@ -1613,11 +1613,11 @@
   },
   {
     "name": "man_getting_massage",
-    "code": "1f486_200d_2642_fe0f"
+    "code": "1f486-200d-2642-fe0f"
   },
   {
     "name": "woman_getting_massage",
-    "code": "1f486_200d_2640_fe0f"
+    "code": "1f486-200d-2640-fe0f"
   },
   {
     "name": "person_getting_haircut",
@@ -1625,11 +1625,11 @@
   },
   {
     "name": "man_getting_haircut",
-    "code": "1f487_200d_2642_fe0f"
+    "code": "1f487-200d-2642-fe0f"
   },
   {
     "name": "woman_getting_haircut",
-    "code": "1f487_200d_2640_fe0f"
+    "code": "1f487-200d-2640-fe0f"
   },
   {
     "name": "person_walking",
@@ -1637,11 +1637,11 @@
   },
   {
     "name": "man_walking",
-    "code": "1f6b6_200d_2642_fe0f"
+    "code": "1f6b6-200d-2642-fe0f"
   },
   {
     "name": "woman_walking",
-    "code": "1f6b6_200d_2640_fe0f"
+    "code": "1f6b6-200d-2640-fe0f"
   },
   {
     "name": "person_standing",
@@ -1649,11 +1649,11 @@
   },
   {
     "name": "man_standing",
-    "code": "1f9cd_200d_2642_fe0f"
+    "code": "1f9cd-200d-2642-fe0f"
   },
   {
     "name": "woman_standing",
-    "code": "1f9cd_200d_2640_fe0f"
+    "code": "1f9cd-200d-2640-fe0f"
   },
   {
     "name": "person_kneeling",
@@ -1661,47 +1661,47 @@
   },
   {
     "name": "man_kneeling",
-    "code": "1f9ce_200d_2642_fe0f"
+    "code": "1f9ce-200d-2642-fe0f"
   },
   {
     "name": "woman_kneeling",
-    "code": "1f9ce_200d_2640_fe0f"
+    "code": "1f9ce-200d-2640-fe0f"
   },
   {
     "name": "person_with_white_cane",
-    "code": "1f9d1_200d_1f9af"
+    "code": "1f9d1-200d-1f9af"
   },
   {
     "name": "man_with_white_cane",
-    "code": "1f468_200d_1f9af"
+    "code": "1f468-200d-1f9af"
   },
   {
     "name": "woman_with_white_cane",
-    "code": "1f469_200d_1f9af"
+    "code": "1f469-200d-1f9af"
   },
   {
     "name": "person_in_motorized_wheelchair",
-    "code": "1f9d1_200d_1f9bc"
+    "code": "1f9d1-200d-1f9bc"
   },
   {
     "name": "man_in_motorized_wheelchair",
-    "code": "1f468_200d_1f9bc"
+    "code": "1f468-200d-1f9bc"
   },
   {
     "name": "woman_in_motorized_wheelchair",
-    "code": "1f469_200d_1f9bc"
+    "code": "1f469-200d-1f9bc"
   },
   {
     "name": "person_in_manual_wheelchair",
-    "code": "1f9d1_200d_1f9bd"
+    "code": "1f9d1-200d-1f9bd"
   },
   {
     "name": "man_in_manual_wheelchair",
-    "code": "1f468_200d_1f9bd"
+    "code": "1f468-200d-1f9bd"
   },
   {
     "name": "woman_in_manual_wheelchair",
-    "code": "1f469_200d_1f9bd"
+    "code": "1f469-200d-1f9bd"
   },
   {
     "name": "person_running",
@@ -1709,11 +1709,11 @@
   },
   {
     "name": "man_running",
-    "code": "1f3c3_200d_2642_fe0f"
+    "code": "1f3c3-200d-2642-fe0f"
   },
   {
     "name": "woman_running",
-    "code": "1f3c3_200d_2640_fe0f"
+    "code": "1f3c3-200d-2640-fe0f"
   },
   {
     "name": "woman_dancing",
@@ -1733,11 +1733,11 @@
   },
   {
     "name": "men_with_bunny_ears",
-    "code": "1f46f_200d_2642_fe0f"
+    "code": "1f46f-200d-2642-fe0f"
   },
   {
     "name": "women_with_bunny_ears",
-    "code": "1f46f_200d_2640_fe0f"
+    "code": "1f46f-200d-2640-fe0f"
   },
   {
     "name": "person_in_steamy_room",
@@ -1745,11 +1745,11 @@
   },
   {
     "name": "man_in_steamy_room",
-    "code": "1f9d6_200d_2642_fe0f"
+    "code": "1f9d6-200d-2642-fe0f"
   },
   {
     "name": "woman_in_steamy_room",
-    "code": "1f9d6_200d_2640_fe0f"
+    "code": "1f9d6-200d-2640-fe0f"
   },
   {
     "name": "person_climbing",
@@ -1757,11 +1757,11 @@
   },
   {
     "name": "man_climbing",
-    "code": "1f9d7_200d_2642_fe0f"
+    "code": "1f9d7-200d-2642-fe0f"
   },
   {
     "name": "woman_climbing",
-    "code": "1f9d7_200d_2640_fe0f"
+    "code": "1f9d7-200d-2640-fe0f"
   },
   {
     "name": "person_fencing",
@@ -1785,11 +1785,11 @@
   },
   {
     "name": "man_golfing",
-    "code": "1f3cc_fe0f_200d_2642_fe0f"
+    "code": "1f3cc-fe0f-200d-2642-fe0f"
   },
   {
     "name": "woman_golfing",
-    "code": "1f3cc_fe0f_200d_2640_fe0f"
+    "code": "1f3cc-fe0f-200d-2640-fe0f"
   },
   {
     "name": "person_surfing",
@@ -1797,11 +1797,11 @@
   },
   {
     "name": "man_surfing",
-    "code": "1f3c4_200d_2642_fe0f"
+    "code": "1f3c4-200d-2642-fe0f"
   },
   {
     "name": "woman_surfing",
-    "code": "1f3c4_200d_2640_fe0f"
+    "code": "1f3c4-200d-2640-fe0f"
   },
   {
     "name": "person_rowing_boat",
@@ -1809,11 +1809,11 @@
   },
   {
     "name": "man_rowing_boat",
-    "code": "1f6a3_200d_2642_fe0f"
+    "code": "1f6a3-200d-2642-fe0f"
   },
   {
     "name": "woman_rowing_boat",
-    "code": "1f6a3_200d_2640_fe0f"
+    "code": "1f6a3-200d-2640-fe0f"
   },
   {
     "name": "person_swimming",
@@ -1821,11 +1821,11 @@
   },
   {
     "name": "man_swimming",
-    "code": "1f3ca_200d_2642_fe0f"
+    "code": "1f3ca-200d-2642-fe0f"
   },
   {
     "name": "woman_swimming",
-    "code": "1f3ca_200d_2640_fe0f"
+    "code": "1f3ca-200d-2640-fe0f"
   },
   {
     "name": "person_bouncing_ball",
@@ -1833,11 +1833,11 @@
   },
   {
     "name": "man_bouncing_ball",
-    "code": "26f9_fe0f_200d_2642_fe0f"
+    "code": "26f9-fe0f-200d-2642-fe0f"
   },
   {
     "name": "woman_bouncing_ball",
-    "code": "26f9_fe0f_200d_2640_fe0f"
+    "code": "26f9-fe0f-200d-2640-fe0f"
   },
   {
     "name": "person_lifting_weights",
@@ -1845,11 +1845,11 @@
   },
   {
     "name": "man_lifting_weights",
-    "code": "1f3cb_fe0f_200d_2642_fe0f"
+    "code": "1f3cb-fe0f-200d-2642-fe0f"
   },
   {
     "name": "woman_lifting_weights",
-    "code": "1f3cb_fe0f_200d_2640_fe0f"
+    "code": "1f3cb-fe0f-200d-2640-fe0f"
   },
   {
     "name": "person_biking",
@@ -1857,11 +1857,11 @@
   },
   {
     "name": "man_biking",
-    "code": "1f6b4_200d_2642_fe0f"
+    "code": "1f6b4-200d-2642-fe0f"
   },
   {
     "name": "woman_biking",
-    "code": "1f6b4_200d_2640_fe0f"
+    "code": "1f6b4-200d-2640-fe0f"
   },
   {
     "name": "person_mountain_biking",
@@ -1869,11 +1869,11 @@
   },
   {
     "name": "man_mountain_biking",
-    "code": "1f6b5_200d_2642_fe0f"
+    "code": "1f6b5-200d-2642-fe0f"
   },
   {
     "name": "woman_mountain_biking",
-    "code": "1f6b5_200d_2640_fe0f"
+    "code": "1f6b5-200d-2640-fe0f"
   },
   {
     "name": "person_cartwheeling",
@@ -1881,11 +1881,11 @@
   },
   {
     "name": "man_cartwheeling",
-    "code": "1f938_200d_2642_fe0f"
+    "code": "1f938-200d-2642-fe0f"
   },
   {
     "name": "woman_cartwheeling",
-    "code": "1f938_200d_2640_fe0f"
+    "code": "1f938-200d-2640-fe0f"
   },
   {
     "name": "people_wrestling",
@@ -1893,11 +1893,11 @@
   },
   {
     "name": "men_wrestling",
-    "code": "1f93c_200d_2642_fe0f"
+    "code": "1f93c-200d-2642-fe0f"
   },
   {
     "name": "women_wrestling",
-    "code": "1f93c_200d_2640_fe0f"
+    "code": "1f93c-200d-2640-fe0f"
   },
   {
     "name": "person_playing_water_polo",
@@ -1905,11 +1905,11 @@
   },
   {
     "name": "man_playing_water_polo",
-    "code": "1f93d_200d_2642_fe0f"
+    "code": "1f93d-200d-2642-fe0f"
   },
   {
     "name": "woman_playing_water_polo",
-    "code": "1f93d_200d_2640_fe0f"
+    "code": "1f93d-200d-2640-fe0f"
   },
   {
     "name": "person_playing_handball",
@@ -1917,11 +1917,11 @@
   },
   {
     "name": "man_playing_handball",
-    "code": "1f93e_200d_2642_fe0f"
+    "code": "1f93e-200d-2642-fe0f"
   },
   {
     "name": "woman_playing_handball",
-    "code": "1f93e_200d_2640_fe0f"
+    "code": "1f93e-200d-2640-fe0f"
   },
   {
     "name": "person_juggling",
@@ -1929,11 +1929,11 @@
   },
   {
     "name": "man_juggling",
-    "code": "1f939_200d_2642_fe0f"
+    "code": "1f939-200d-2642-fe0f"
   },
   {
     "name": "woman_juggling",
-    "code": "1f939_200d_2640_fe0f"
+    "code": "1f939-200d-2640-fe0f"
   },
   {
     "name": "person_in_lotus_position",
@@ -1941,11 +1941,11 @@
   },
   {
     "name": "man_in_lotus_position",
-    "code": "1f9d8_200d_2642_fe0f"
+    "code": "1f9d8-200d-2642-fe0f"
   },
   {
     "name": "woman_in_lotus_position",
-    "code": "1f9d8_200d_2640_fe0f"
+    "code": "1f9d8-200d-2640-fe0f"
   },
   {
     "name": "person_taking_bath",
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "people_holding_hands",
-    "code": "1f9d1_200d_1f91d_200d_1f9d1"
+    "code": "1f9d1-200d-1f91d-200d-1f9d1"
   },
   {
     "name": "women_holding_hands",
@@ -1977,15 +1977,15 @@
   },
   {
     "name": "kiss_woman_man",
-    "code": "1f469_200d_2764_fe0f_200d_1f48b_200d_1f468"
+    "code": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
   },
   {
     "name": "kiss_man_man",
-    "code": "1f468_200d_2764_fe0f_200d_1f48b_200d_1f468"
+    "code": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
   },
   {
     "name": "kiss_woman_woman",
-    "code": "1f469_200d_2764_fe0f_200d_1f48b_200d_1f469"
+    "code": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
   },
   {
     "name": "couple_with_heart",
@@ -1993,115 +1993,115 @@
   },
   {
     "name": "couple_with_heart_woman_man",
-    "code": "1f469_200d_2764_fe0f_200d_1f468"
+    "code": "1f469-200d-2764-fe0f-200d-1f468"
   },
   {
     "name": "couple_with_heart_man_man",
-    "code": "1f468_200d_2764_fe0f_200d_1f468"
+    "code": "1f468-200d-2764-fe0f-200d-1f468"
   },
   {
     "name": "couple_with_heart_woman_woman",
-    "code": "1f469_200d_2764_fe0f_200d_1f469"
+    "code": "1f469-200d-2764-fe0f-200d-1f469"
   },
   {
     "name": "family_man_woman_boy",
-    "code": "1f468_200d_1f469_200d_1f466"
+    "code": "1f468-200d-1f469-200d-1f466"
   },
   {
     "name": "family_man_woman_girl",
-    "code": "1f468_200d_1f469_200d_1f467"
+    "code": "1f468-200d-1f469-200d-1f467"
   },
   {
     "name": "family_man_woman_girl_boy",
-    "code": "1f468_200d_1f469_200d_1f467_200d_1f466"
+    "code": "1f468-200d-1f469-200d-1f467-200d-1f466"
   },
   {
     "name": "family_man_woman_boy_boy",
-    "code": "1f468_200d_1f469_200d_1f466_200d_1f466"
+    "code": "1f468-200d-1f469-200d-1f466-200d-1f466"
   },
   {
     "name": "family_man_woman_girl_girl",
-    "code": "1f468_200d_1f469_200d_1f467_200d_1f467"
+    "code": "1f468-200d-1f469-200d-1f467-200d-1f467"
   },
   {
     "name": "family_man_man_boy",
-    "code": "1f468_200d_1f468_200d_1f466"
+    "code": "1f468-200d-1f468-200d-1f466"
   },
   {
     "name": "family_man_man_girl",
-    "code": "1f468_200d_1f468_200d_1f467"
+    "code": "1f468-200d-1f468-200d-1f467"
   },
   {
     "name": "family_man_man_girl_boy",
-    "code": "1f468_200d_1f468_200d_1f467_200d_1f466"
+    "code": "1f468-200d-1f468-200d-1f467-200d-1f466"
   },
   {
     "name": "family_man_man_boy_boy",
-    "code": "1f468_200d_1f468_200d_1f466_200d_1f466"
+    "code": "1f468-200d-1f468-200d-1f466-200d-1f466"
   },
   {
     "name": "family_man_man_girl_girl",
-    "code": "1f468_200d_1f468_200d_1f467_200d_1f467"
+    "code": "1f468-200d-1f468-200d-1f467-200d-1f467"
   },
   {
     "name": "family_woman_woman_boy",
-    "code": "1f469_200d_1f469_200d_1f466"
+    "code": "1f469-200d-1f469-200d-1f466"
   },
   {
     "name": "family_woman_woman_girl",
-    "code": "1f469_200d_1f469_200d_1f467"
+    "code": "1f469-200d-1f469-200d-1f467"
   },
   {
     "name": "family_woman_woman_girl_boy",
-    "code": "1f469_200d_1f469_200d_1f467_200d_1f466"
+    "code": "1f469-200d-1f469-200d-1f467-200d-1f466"
   },
   {
     "name": "family_woman_woman_boy_boy",
-    "code": "1f469_200d_1f469_200d_1f466_200d_1f466"
+    "code": "1f469-200d-1f469-200d-1f466-200d-1f466"
   },
   {
     "name": "family_woman_woman_girl_girl",
-    "code": "1f469_200d_1f469_200d_1f467_200d_1f467"
+    "code": "1f469-200d-1f469-200d-1f467-200d-1f467"
   },
   {
     "name": "family_man_boy",
-    "code": "1f468_200d_1f466"
+    "code": "1f468-200d-1f466"
   },
   {
     "name": "family_man_boy_boy",
-    "code": "1f468_200d_1f466_200d_1f466"
+    "code": "1f468-200d-1f466-200d-1f466"
   },
   {
     "name": "family_man_girl",
-    "code": "1f468_200d_1f467"
+    "code": "1f468-200d-1f467"
   },
   {
     "name": "family_man_girl_boy",
-    "code": "1f468_200d_1f467_200d_1f466"
+    "code": "1f468-200d-1f467-200d-1f466"
   },
   {
     "name": "family_man_girl_girl",
-    "code": "1f468_200d_1f467_200d_1f467"
+    "code": "1f468-200d-1f467-200d-1f467"
   },
   {
     "name": "family_woman_boy",
-    "code": "1f469_200d_1f466"
+    "code": "1f469-200d-1f466"
   },
   {
     "name": "family_woman_boy_boy",
-    "code": "1f469_200d_1f466_200d_1f466"
+    "code": "1f469-200d-1f466-200d-1f466"
   },
   {
     "name": "family_woman_girl",
-    "code": "1f469_200d_1f467"
+    "code": "1f469-200d-1f467"
   },
   {
     "name": "family_woman_girl_boy",
-    "code": "1f469_200d_1f467_200d_1f466"
+    "code": "1f469-200d-1f467-200d-1f466"
   },
   {
     "name": "family_woman_girl_girl",
-    "code": "1f469_200d_1f467_200d_1f467"
+    "code": "1f469-200d-1f467-200d-1f467"
   },
   {
     "name": "speaking_head",
@@ -2125,19 +2125,19 @@
   },
   {
     "name": "family_adult_adult_child",
-    "code": "1f9d1_200d_1f9d1_200d_1f9d2"
+    "code": "1f9d1-200d-1f9d1-200d-1f9d2"
   },
   {
     "name": "family_adult_adult_child_child",
-    "code": "1f9d1_200d_1f9d1_200d_1f9d2_200d_1f9d2"
+    "code": "1f9d1-200d-1f9d1-200d-1f9d2-200d-1f9d2"
   },
   {
     "name": "family_adult_child",
-    "code": "1f9d1_200d_1f9d2"
+    "code": "1f9d1-200d-1f9d2"
   },
   {
     "name": "family_adult_child_child",
-    "code": "1f9d1_200d_1f9d2_200d_1f9d2"
+    "code": "1f9d1-200d-1f9d2-200d-1f9d2"
   },
   {
     "name": "footprints",
@@ -2193,7 +2193,7 @@
   },
   {
     "name": "service_dog",
-    "code": "1f415_200d_1f9ba"
+    "code": "1f415-200d-1f9ba"
   },
   {
     "name": "poodle",
@@ -2221,7 +2221,7 @@
   },
   {
     "name": "black_cat",
-    "code": "1f408_200d_2b1b"
+    "code": "1f408-200d-2b1b"
   },
   {
     "name": "lion",
@@ -2393,7 +2393,7 @@
   },
   {
     "name": "polar_bear",
-    "code": "1f43b_200d_2744_fe0f"
+    "code": "1f43b-200d-2744-fe0f"
   },
   {
     "name": "koala",
@@ -2505,7 +2505,7 @@
   },
   {
     "name": "black_bird",
-    "code": "1f426_200d_2b1b"
+    "code": "1f426-200d-2b1b"
   },
   {
     "name": "goose",
@@ -2513,7 +2513,7 @@
   },
   {
     "name": "phoenix",
-    "code": "1f426_200d_1f525"
+    "code": "1f426-200d-1f525"
   },
   {
     "name": "frog",
@@ -2821,7 +2821,7 @@
   },
   {
     "name": "lime",
-    "code": "1f34b_200d_1f7e9"
+    "code": "1f34b-200d-1f7e9"
   },
   {
     "name": "banana",
@@ -2949,7 +2949,7 @@
   },
   {
     "name": "brown_mushroom",
-    "code": "1f344_200d_1f7eb"
+    "code": "1f344-200d-1f7eb"
   },
   {
     "name": "root_vegetable",
@@ -5373,7 +5373,7 @@
   },
   {
     "name": "broken_chain",
-    "code": "26d3_fe0f_200d_1f4a5"
+    "code": "26d3-fe0f-200d-1f4a5"
   },
   {
     "name": "chains",
@@ -6145,51 +6145,51 @@
   },
   {
     "name": "keycap_#",
-    "code": "0023_fe0f_20e3"
+    "code": "0023-fe0f-20e3"
   },
   {
     "name": "keycap_*",
-    "code": "002a_fe0f_20e3"
+    "code": "002a-fe0f-20e3"
   },
   {
     "name": "keycap_0",
-    "code": "0030_fe0f_20e3"
+    "code": "0030-fe0f-20e3"
   },
   {
     "name": "keycap_1",
-    "code": "0031_fe0f_20e3"
+    "code": "0031-fe0f-20e3"
   },
   {
     "name": "keycap_2",
-    "code": "0032_fe0f_20e3"
+    "code": "0032-fe0f-20e3"
   },
   {
     "name": "keycap_3",
-    "code": "0033_fe0f_20e3"
+    "code": "0033-fe0f-20e3"
   },
   {
     "name": "keycap_4",
-    "code": "0034_fe0f_20e3"
+    "code": "0034-fe0f-20e3"
   },
   {
     "name": "keycap_5",
-    "code": "0035_fe0f_20e3"
+    "code": "0035-fe0f-20e3"
   },
   {
     "name": "keycap_6",
-    "code": "0036_fe0f_20e3"
+    "code": "0036-fe0f-20e3"
   },
   {
     "name": "keycap_7",
-    "code": "0037_fe0f_20e3"
+    "code": "0037-fe0f-20e3"
   },
   {
     "name": "keycap_8",
-    "code": "0038_fe0f_20e3"
+    "code": "0038-fe0f-20e3"
   },
   {
     "name": "keycap_9",
-    "code": "0039_fe0f_20e3"
+    "code": "0039-fe0f-20e3"
   },
   {
     "name": "keycap_10",
@@ -6509,1058 +6509,1058 @@
   },
   {
     "name": "rainbow_flag",
-    "code": "1f3f3_fe0f_200d_1f308"
+    "code": "1f3f3-fe0f-200d-1f308"
   },
   {
     "name": "transgender_flag",
-    "code": "1f3f3_fe0f_200d_26a7_fe0f"
+    "code": "1f3f3-fe0f-200d-26a7-fe0f"
   },
   {
     "name": "pirate_flag",
-    "code": "1f3f4_200d_2620_fe0f"
+    "code": "1f3f4-200d-2620-fe0f"
   },
   {
     "name": "ascension_island",
-    "code": "1f1e6_1f1e8"
+    "code": "1f1e6-1f1e8"
   },
   {
     "name": "andorra",
-    "code": "1f1e6_1f1e9"
+    "code": "1f1e6-1f1e9"
   },
   {
     "name": "united_arab_emirates",
-    "code": "1f1e6_1f1ea"
+    "code": "1f1e6-1f1ea"
   },
   {
     "name": "afghanistan",
-    "code": "1f1e6_1f1eb"
+    "code": "1f1e6-1f1eb"
   },
   {
     "name": "antigua_barbuda",
-    "code": "1f1e6_1f1ec"
+    "code": "1f1e6-1f1ec"
   },
   {
     "name": "anguilla",
-    "code": "1f1e6_1f1ee"
+    "code": "1f1e6-1f1ee"
   },
   {
     "name": "albania",
-    "code": "1f1e6_1f1f1"
+    "code": "1f1e6-1f1f1"
   },
   {
     "name": "armenia",
-    "code": "1f1e6_1f1f2"
+    "code": "1f1e6-1f1f2"
   },
   {
     "name": "angola",
-    "code": "1f1e6_1f1f4"
+    "code": "1f1e6-1f1f4"
   },
   {
     "name": "antarctica",
-    "code": "1f1e6_1f1f6"
+    "code": "1f1e6-1f1f6"
   },
   {
     "name": "argentina",
-    "code": "1f1e6_1f1f7"
+    "code": "1f1e6-1f1f7"
   },
   {
     "name": "american_samoa",
-    "code": "1f1e6_1f1f8"
+    "code": "1f1e6-1f1f8"
   },
   {
     "name": "austria",
-    "code": "1f1e6_1f1f9"
+    "code": "1f1e6-1f1f9"
   },
   {
     "name": "australia",
-    "code": "1f1e6_1f1fa"
+    "code": "1f1e6-1f1fa"
   },
   {
     "name": "aruba",
-    "code": "1f1e6_1f1fc"
+    "code": "1f1e6-1f1fc"
   },
   {
     "name": "åland_islands",
-    "code": "1f1e6_1f1fd"
+    "code": "1f1e6-1f1fd"
   },
   {
     "name": "azerbaijan",
-    "code": "1f1e6_1f1ff"
+    "code": "1f1e6-1f1ff"
   },
   {
     "name": "bosnia_herzegovina",
-    "code": "1f1e7_1f1e6"
+    "code": "1f1e7-1f1e6"
   },
   {
     "name": "barbados",
-    "code": "1f1e7_1f1e7"
+    "code": "1f1e7-1f1e7"
   },
   {
     "name": "bangladesh",
-    "code": "1f1e7_1f1e9"
+    "code": "1f1e7-1f1e9"
   },
   {
     "name": "belgium",
-    "code": "1f1e7_1f1ea"
+    "code": "1f1e7-1f1ea"
   },
   {
     "name": "burkina_faso",
-    "code": "1f1e7_1f1eb"
+    "code": "1f1e7-1f1eb"
   },
   {
     "name": "bulgaria",
-    "code": "1f1e7_1f1ec"
+    "code": "1f1e7-1f1ec"
   },
   {
     "name": "bahrain",
-    "code": "1f1e7_1f1ed"
+    "code": "1f1e7-1f1ed"
   },
   {
     "name": "burundi",
-    "code": "1f1e7_1f1ee"
+    "code": "1f1e7-1f1ee"
   },
   {
     "name": "benin",
-    "code": "1f1e7_1f1ef"
+    "code": "1f1e7-1f1ef"
   },
   {
     "name": "st_barthélemy",
-    "code": "1f1e7_1f1f1"
+    "code": "1f1e7-1f1f1"
   },
   {
     "name": "bermuda",
-    "code": "1f1e7_1f1f2"
+    "code": "1f1e7-1f1f2"
   },
   {
     "name": "brunei",
-    "code": "1f1e7_1f1f3"
+    "code": "1f1e7-1f1f3"
   },
   {
     "name": "bolivia",
-    "code": "1f1e7_1f1f4"
+    "code": "1f1e7-1f1f4"
   },
   {
     "name": "caribbean_netherlands",
-    "code": "1f1e7_1f1f6"
+    "code": "1f1e7-1f1f6"
   },
   {
     "name": "brazil",
-    "code": "1f1e7_1f1f7"
+    "code": "1f1e7-1f1f7"
   },
   {
     "name": "bahamas",
-    "code": "1f1e7_1f1f8"
+    "code": "1f1e7-1f1f8"
   },
   {
     "name": "bhutan",
-    "code": "1f1e7_1f1f9"
+    "code": "1f1e7-1f1f9"
   },
   {
     "name": "bouvet_island",
-    "code": "1f1e7_1f1fb"
+    "code": "1f1e7-1f1fb"
   },
   {
     "name": "botswana",
-    "code": "1f1e7_1f1fc"
+    "code": "1f1e7-1f1fc"
   },
   {
     "name": "belarus",
-    "code": "1f1e7_1f1fe"
+    "code": "1f1e7-1f1fe"
   },
   {
     "name": "belize",
-    "code": "1f1e7_1f1ff"
+    "code": "1f1e7-1f1ff"
   },
   {
     "name": "canada",
-    "code": "1f1e8_1f1e6"
+    "code": "1f1e8-1f1e6"
   },
   {
     "name": "cocos_keeling_islands",
-    "code": "1f1e8_1f1e8"
+    "code": "1f1e8-1f1e8"
   },
   {
     "name": "congo_kinshasa",
-    "code": "1f1e8_1f1e9"
+    "code": "1f1e8-1f1e9"
   },
   {
     "name": "central_african_republic",
-    "code": "1f1e8_1f1eb"
+    "code": "1f1e8-1f1eb"
   },
   {
     "name": "congo_brazzaville",
-    "code": "1f1e8_1f1ec"
+    "code": "1f1e8-1f1ec"
   },
   {
     "name": "switzerland",
-    "code": "1f1e8_1f1ed"
+    "code": "1f1e8-1f1ed"
   },
   {
     "name": "côte_d_ivoire",
-    "code": "1f1e8_1f1ee"
+    "code": "1f1e8-1f1ee"
   },
   {
     "name": "cook_islands",
-    "code": "1f1e8_1f1f0"
+    "code": "1f1e8-1f1f0"
   },
   {
     "name": "chile",
-    "code": "1f1e8_1f1f1"
+    "code": "1f1e8-1f1f1"
   },
   {
     "name": "cameroon",
-    "code": "1f1e8_1f1f2"
+    "code": "1f1e8-1f1f2"
   },
   {
     "name": "china",
-    "code": "1f1e8_1f1f3"
+    "code": "1f1e8-1f1f3"
   },
   {
     "name": "colombia",
-    "code": "1f1e8_1f1f4"
+    "code": "1f1e8-1f1f4"
   },
   {
     "name": "clipperton_island",
-    "code": "1f1e8_1f1f5"
+    "code": "1f1e8-1f1f5"
   },
   {
     "name": "costa_rica",
-    "code": "1f1e8_1f1f7"
+    "code": "1f1e8-1f1f7"
   },
   {
     "name": "cuba",
-    "code": "1f1e8_1f1fa"
+    "code": "1f1e8-1f1fa"
   },
   {
     "name": "cape_verde",
-    "code": "1f1e8_1f1fb"
+    "code": "1f1e8-1f1fb"
   },
   {
     "name": "curaçao",
-    "code": "1f1e8_1f1fc"
+    "code": "1f1e8-1f1fc"
   },
   {
     "name": "christmas_island",
-    "code": "1f1e8_1f1fd"
+    "code": "1f1e8-1f1fd"
   },
   {
     "name": "cyprus",
-    "code": "1f1e8_1f1fe"
+    "code": "1f1e8-1f1fe"
   },
   {
     "name": "czechia",
-    "code": "1f1e8_1f1ff"
+    "code": "1f1e8-1f1ff"
   },
   {
     "name": "germany",
-    "code": "1f1e9_1f1ea"
+    "code": "1f1e9-1f1ea"
   },
   {
     "name": "diego_garcia",
-    "code": "1f1e9_1f1ec"
+    "code": "1f1e9-1f1ec"
   },
   {
     "name": "djibouti",
-    "code": "1f1e9_1f1ef"
+    "code": "1f1e9-1f1ef"
   },
   {
     "name": "denmark",
-    "code": "1f1e9_1f1f0"
+    "code": "1f1e9-1f1f0"
   },
   {
     "name": "dominica",
-    "code": "1f1e9_1f1f2"
+    "code": "1f1e9-1f1f2"
   },
   {
     "name": "dominican_republic",
-    "code": "1f1e9_1f1f4"
+    "code": "1f1e9-1f1f4"
   },
   {
     "name": "algeria",
-    "code": "1f1e9_1f1ff"
+    "code": "1f1e9-1f1ff"
   },
   {
     "name": "ceuta_melilla",
-    "code": "1f1ea_1f1e6"
+    "code": "1f1ea-1f1e6"
   },
   {
     "name": "ecuador",
-    "code": "1f1ea_1f1e8"
+    "code": "1f1ea-1f1e8"
   },
   {
     "name": "estonia",
-    "code": "1f1ea_1f1ea"
+    "code": "1f1ea-1f1ea"
   },
   {
     "name": "egypt",
-    "code": "1f1ea_1f1ec"
+    "code": "1f1ea-1f1ec"
   },
   {
     "name": "western_sahara",
-    "code": "1f1ea_1f1ed"
+    "code": "1f1ea-1f1ed"
   },
   {
     "name": "eritrea",
-    "code": "1f1ea_1f1f7"
+    "code": "1f1ea-1f1f7"
   },
   {
     "name": "spain",
-    "code": "1f1ea_1f1f8"
+    "code": "1f1ea-1f1f8"
   },
   {
     "name": "ethiopia",
-    "code": "1f1ea_1f1f9"
+    "code": "1f1ea-1f1f9"
   },
   {
     "name": "european_union",
-    "code": "1f1ea_1f1fa"
+    "code": "1f1ea-1f1fa"
   },
   {
     "name": "finland",
-    "code": "1f1eb_1f1ee"
+    "code": "1f1eb-1f1ee"
   },
   {
     "name": "fiji",
-    "code": "1f1eb_1f1ef"
+    "code": "1f1eb-1f1ef"
   },
   {
     "name": "falkland_islands",
-    "code": "1f1eb_1f1f0"
+    "code": "1f1eb-1f1f0"
   },
   {
     "name": "micronesia",
-    "code": "1f1eb_1f1f2"
+    "code": "1f1eb-1f1f2"
   },
   {
     "name": "faroe_islands",
-    "code": "1f1eb_1f1f4"
+    "code": "1f1eb-1f1f4"
   },
   {
     "name": "france",
-    "code": "1f1eb_1f1f7"
+    "code": "1f1eb-1f1f7"
   },
   {
     "name": "gabon",
-    "code": "1f1ec_1f1e6"
+    "code": "1f1ec-1f1e6"
   },
   {
     "name": "united_kingdom",
-    "code": "1f1ec_1f1e7"
+    "code": "1f1ec-1f1e7"
   },
   {
     "name": "grenada",
-    "code": "1f1ec_1f1e9"
+    "code": "1f1ec-1f1e9"
   },
   {
     "name": "georgia",
-    "code": "1f1ec_1f1ea"
+    "code": "1f1ec-1f1ea"
   },
   {
     "name": "french_guiana",
-    "code": "1f1ec_1f1eb"
+    "code": "1f1ec-1f1eb"
   },
   {
     "name": "guernsey",
-    "code": "1f1ec_1f1ec"
+    "code": "1f1ec-1f1ec"
   },
   {
     "name": "ghana",
-    "code": "1f1ec_1f1ed"
+    "code": "1f1ec-1f1ed"
   },
   {
     "name": "gibraltar",
-    "code": "1f1ec_1f1ee"
+    "code": "1f1ec-1f1ee"
   },
   {
     "name": "greenland",
-    "code": "1f1ec_1f1f1"
+    "code": "1f1ec-1f1f1"
   },
   {
     "name": "gambia",
-    "code": "1f1ec_1f1f2"
+    "code": "1f1ec-1f1f2"
   },
   {
     "name": "guinea",
-    "code": "1f1ec_1f1f3"
+    "code": "1f1ec-1f1f3"
   },
   {
     "name": "guadeloupe",
-    "code": "1f1ec_1f1f5"
+    "code": "1f1ec-1f1f5"
   },
   {
     "name": "equatorial_guinea",
-    "code": "1f1ec_1f1f6"
+    "code": "1f1ec-1f1f6"
   },
   {
     "name": "greece",
-    "code": "1f1ec_1f1f7"
+    "code": "1f1ec-1f1f7"
   },
   {
     "name": "south_georgia_south_sandwich_islands",
-    "code": "1f1ec_1f1f8"
+    "code": "1f1ec-1f1f8"
   },
   {
     "name": "guatemala",
-    "code": "1f1ec_1f1f9"
+    "code": "1f1ec-1f1f9"
   },
   {
     "name": "guam",
-    "code": "1f1ec_1f1fa"
+    "code": "1f1ec-1f1fa"
   },
   {
     "name": "guinea_bissau",
-    "code": "1f1ec_1f1fc"
+    "code": "1f1ec-1f1fc"
   },
   {
     "name": "guyana",
-    "code": "1f1ec_1f1fe"
+    "code": "1f1ec-1f1fe"
   },
   {
     "name": "hong_kong_sar_china",
-    "code": "1f1ed_1f1f0"
+    "code": "1f1ed-1f1f0"
   },
   {
     "name": "heard_mcdonald_islands",
-    "code": "1f1ed_1f1f2"
+    "code": "1f1ed-1f1f2"
   },
   {
     "name": "honduras",
-    "code": "1f1ed_1f1f3"
+    "code": "1f1ed-1f1f3"
   },
   {
     "name": "croatia",
-    "code": "1f1ed_1f1f7"
+    "code": "1f1ed-1f1f7"
   },
   {
     "name": "haiti",
-    "code": "1f1ed_1f1f9"
+    "code": "1f1ed-1f1f9"
   },
   {
     "name": "hungary",
-    "code": "1f1ed_1f1fa"
+    "code": "1f1ed-1f1fa"
   },
   {
     "name": "canary_islands",
-    "code": "1f1ee_1f1e8"
+    "code": "1f1ee-1f1e8"
   },
   {
     "name": "indonesia",
-    "code": "1f1ee_1f1e9"
+    "code": "1f1ee-1f1e9"
   },
   {
     "name": "ireland",
-    "code": "1f1ee_1f1ea"
+    "code": "1f1ee-1f1ea"
   },
   {
     "name": "israel",
-    "code": "1f1ee_1f1f1"
+    "code": "1f1ee-1f1f1"
   },
   {
     "name": "isle_of_man",
-    "code": "1f1ee_1f1f2"
+    "code": "1f1ee-1f1f2"
   },
   {
     "name": "india",
-    "code": "1f1ee_1f1f3"
+    "code": "1f1ee-1f1f3"
   },
   {
     "name": "british_indian_ocean_territory",
-    "code": "1f1ee_1f1f4"
+    "code": "1f1ee-1f1f4"
   },
   {
     "name": "iraq",
-    "code": "1f1ee_1f1f6"
+    "code": "1f1ee-1f1f6"
   },
   {
     "name": "iran",
-    "code": "1f1ee_1f1f7"
+    "code": "1f1ee-1f1f7"
   },
   {
     "name": "iceland",
-    "code": "1f1ee_1f1f8"
+    "code": "1f1ee-1f1f8"
   },
   {
     "name": "italy",
-    "code": "1f1ee_1f1f9"
+    "code": "1f1ee-1f1f9"
   },
   {
     "name": "jersey",
-    "code": "1f1ef_1f1ea"
+    "code": "1f1ef-1f1ea"
   },
   {
     "name": "jamaica",
-    "code": "1f1ef_1f1f2"
+    "code": "1f1ef-1f1f2"
   },
   {
     "name": "jordan",
-    "code": "1f1ef_1f1f4"
+    "code": "1f1ef-1f1f4"
   },
   {
     "name": "japan",
-    "code": "1f1ef_1f1f5"
+    "code": "1f1ef-1f1f5"
   },
   {
     "name": "kenya",
-    "code": "1f1f0_1f1ea"
+    "code": "1f1f0-1f1ea"
   },
   {
     "name": "kyrgyzstan",
-    "code": "1f1f0_1f1ec"
+    "code": "1f1f0-1f1ec"
   },
   {
     "name": "cambodia",
-    "code": "1f1f0_1f1ed"
+    "code": "1f1f0-1f1ed"
   },
   {
     "name": "kiribati",
-    "code": "1f1f0_1f1ee"
+    "code": "1f1f0-1f1ee"
   },
   {
     "name": "comoros",
-    "code": "1f1f0_1f1f2"
+    "code": "1f1f0-1f1f2"
   },
   {
     "name": "st_kitts_nevis",
-    "code": "1f1f0_1f1f3"
+    "code": "1f1f0-1f1f3"
   },
   {
     "name": "north_korea",
-    "code": "1f1f0_1f1f5"
+    "code": "1f1f0-1f1f5"
   },
   {
     "name": "south_korea",
-    "code": "1f1f0_1f1f7"
+    "code": "1f1f0-1f1f7"
   },
   {
     "name": "kuwait",
-    "code": "1f1f0_1f1fc"
+    "code": "1f1f0-1f1fc"
   },
   {
     "name": "cayman_islands",
-    "code": "1f1f0_1f1fe"
+    "code": "1f1f0-1f1fe"
   },
   {
     "name": "kazakhstan",
-    "code": "1f1f0_1f1ff"
+    "code": "1f1f0-1f1ff"
   },
   {
     "name": "laos",
-    "code": "1f1f1_1f1e6"
+    "code": "1f1f1-1f1e6"
   },
   {
     "name": "lebanon",
-    "code": "1f1f1_1f1e7"
+    "code": "1f1f1-1f1e7"
   },
   {
     "name": "st_lucia",
-    "code": "1f1f1_1f1e8"
+    "code": "1f1f1-1f1e8"
   },
   {
     "name": "liechtenstein",
-    "code": "1f1f1_1f1ee"
+    "code": "1f1f1-1f1ee"
   },
   {
     "name": "sri_lanka",
-    "code": "1f1f1_1f1f0"
+    "code": "1f1f1-1f1f0"
   },
   {
     "name": "liberia",
-    "code": "1f1f1_1f1f7"
+    "code": "1f1f1-1f1f7"
   },
   {
     "name": "lesotho",
-    "code": "1f1f1_1f1f8"
+    "code": "1f1f1-1f1f8"
   },
   {
     "name": "lithuania",
-    "code": "1f1f1_1f1f9"
+    "code": "1f1f1-1f1f9"
   },
   {
     "name": "luxembourg",
-    "code": "1f1f1_1f1fa"
+    "code": "1f1f1-1f1fa"
   },
   {
     "name": "latvia",
-    "code": "1f1f1_1f1fb"
+    "code": "1f1f1-1f1fb"
   },
   {
     "name": "libya",
-    "code": "1f1f1_1f1fe"
+    "code": "1f1f1-1f1fe"
   },
   {
     "name": "morocco",
-    "code": "1f1f2_1f1e6"
+    "code": "1f1f2-1f1e6"
   },
   {
     "name": "monaco",
-    "code": "1f1f2_1f1e8"
+    "code": "1f1f2-1f1e8"
   },
   {
     "name": "moldova",
-    "code": "1f1f2_1f1e9"
+    "code": "1f1f2-1f1e9"
   },
   {
     "name": "montenegro",
-    "code": "1f1f2_1f1ea"
+    "code": "1f1f2-1f1ea"
   },
   {
     "name": "st_martin",
-    "code": "1f1f2_1f1eb"
+    "code": "1f1f2-1f1eb"
   },
   {
     "name": "madagascar",
-    "code": "1f1f2_1f1ec"
+    "code": "1f1f2-1f1ec"
   },
   {
     "name": "marshall_islands",
-    "code": "1f1f2_1f1ed"
+    "code": "1f1f2-1f1ed"
   },
   {
     "name": "north_macedonia",
-    "code": "1f1f2_1f1f0"
+    "code": "1f1f2-1f1f0"
   },
   {
     "name": "mali",
-    "code": "1f1f2_1f1f1"
+    "code": "1f1f2-1f1f1"
   },
   {
     "name": "myanmar_burma",
-    "code": "1f1f2_1f1f2"
+    "code": "1f1f2-1f1f2"
   },
   {
     "name": "mongolia",
-    "code": "1f1f2_1f1f3"
+    "code": "1f1f2-1f1f3"
   },
   {
     "name": "macao_sar_china",
-    "code": "1f1f2_1f1f4"
+    "code": "1f1f2-1f1f4"
   },
   {
     "name": "northern_mariana_islands",
-    "code": "1f1f2_1f1f5"
+    "code": "1f1f2-1f1f5"
   },
   {
     "name": "martinique",
-    "code": "1f1f2_1f1f6"
+    "code": "1f1f2-1f1f6"
   },
   {
     "name": "mauritania",
-    "code": "1f1f2_1f1f7"
+    "code": "1f1f2-1f1f7"
   },
   {
     "name": "montserrat",
-    "code": "1f1f2_1f1f8"
+    "code": "1f1f2-1f1f8"
   },
   {
     "name": "malta",
-    "code": "1f1f2_1f1f9"
+    "code": "1f1f2-1f1f9"
   },
   {
     "name": "mauritius",
-    "code": "1f1f2_1f1fa"
+    "code": "1f1f2-1f1fa"
   },
   {
     "name": "maldives",
-    "code": "1f1f2_1f1fb"
+    "code": "1f1f2-1f1fb"
   },
   {
     "name": "malawi",
-    "code": "1f1f2_1f1fc"
+    "code": "1f1f2-1f1fc"
   },
   {
     "name": "mexico",
-    "code": "1f1f2_1f1fd"
+    "code": "1f1f2-1f1fd"
   },
   {
     "name": "malaysia",
-    "code": "1f1f2_1f1fe"
+    "code": "1f1f2-1f1fe"
   },
   {
     "name": "mozambique",
-    "code": "1f1f2_1f1ff"
+    "code": "1f1f2-1f1ff"
   },
   {
     "name": "namibia",
-    "code": "1f1f3_1f1e6"
+    "code": "1f1f3-1f1e6"
   },
   {
     "name": "new_caledonia",
-    "code": "1f1f3_1f1e8"
+    "code": "1f1f3-1f1e8"
   },
   {
     "name": "niger",
-    "code": "1f1f3_1f1ea"
+    "code": "1f1f3-1f1ea"
   },
   {
     "name": "norfolk_island",
-    "code": "1f1f3_1f1eb"
+    "code": "1f1f3-1f1eb"
   },
   {
     "name": "nigeria",
-    "code": "1f1f3_1f1ec"
+    "code": "1f1f3-1f1ec"
   },
   {
     "name": "nicaragua",
-    "code": "1f1f3_1f1ee"
+    "code": "1f1f3-1f1ee"
   },
   {
     "name": "netherlands",
-    "code": "1f1f3_1f1f1"
+    "code": "1f1f3-1f1f1"
   },
   {
     "name": "norway",
-    "code": "1f1f3_1f1f4"
+    "code": "1f1f3-1f1f4"
   },
   {
     "name": "nepal",
-    "code": "1f1f3_1f1f5"
+    "code": "1f1f3-1f1f5"
   },
   {
     "name": "nauru",
-    "code": "1f1f3_1f1f7"
+    "code": "1f1f3-1f1f7"
   },
   {
     "name": "niue",
-    "code": "1f1f3_1f1fa"
+    "code": "1f1f3-1f1fa"
   },
   {
     "name": "new_zealand",
-    "code": "1f1f3_1f1ff"
+    "code": "1f1f3-1f1ff"
   },
   {
     "name": "oman",
-    "code": "1f1f4_1f1f2"
+    "code": "1f1f4-1f1f2"
   },
   {
     "name": "panama",
-    "code": "1f1f5_1f1e6"
+    "code": "1f1f5-1f1e6"
   },
   {
     "name": "peru",
-    "code": "1f1f5_1f1ea"
+    "code": "1f1f5-1f1ea"
   },
   {
     "name": "french_polynesia",
-    "code": "1f1f5_1f1eb"
+    "code": "1f1f5-1f1eb"
   },
   {
     "name": "papua_new_guinea",
-    "code": "1f1f5_1f1ec"
+    "code": "1f1f5-1f1ec"
   },
   {
     "name": "philippines",
-    "code": "1f1f5_1f1ed"
+    "code": "1f1f5-1f1ed"
   },
   {
     "name": "pakistan",
-    "code": "1f1f5_1f1f0"
+    "code": "1f1f5-1f1f0"
   },
   {
     "name": "poland",
-    "code": "1f1f5_1f1f1"
+    "code": "1f1f5-1f1f1"
   },
   {
     "name": "st_pierre_miquelon",
-    "code": "1f1f5_1f1f2"
+    "code": "1f1f5-1f1f2"
   },
   {
     "name": "pitcairn_islands",
-    "code": "1f1f5_1f1f3"
+    "code": "1f1f5-1f1f3"
   },
   {
     "name": "puerto_rico",
-    "code": "1f1f5_1f1f7"
+    "code": "1f1f5-1f1f7"
   },
   {
     "name": "palestinian_territories",
-    "code": "1f1f5_1f1f8"
+    "code": "1f1f5-1f1f8"
   },
   {
     "name": "portugal",
-    "code": "1f1f5_1f1f9"
+    "code": "1f1f5-1f1f9"
   },
   {
     "name": "palau",
-    "code": "1f1f5_1f1fc"
+    "code": "1f1f5-1f1fc"
   },
   {
     "name": "paraguay",
-    "code": "1f1f5_1f1fe"
+    "code": "1f1f5-1f1fe"
   },
   {
     "name": "qatar",
-    "code": "1f1f6_1f1e6"
+    "code": "1f1f6-1f1e6"
   },
   {
     "name": "réunion",
-    "code": "1f1f7_1f1ea"
+    "code": "1f1f7-1f1ea"
   },
   {
     "name": "romania",
-    "code": "1f1f7_1f1f4"
+    "code": "1f1f7-1f1f4"
   },
   {
     "name": "serbia",
-    "code": "1f1f7_1f1f8"
+    "code": "1f1f7-1f1f8"
   },
   {
     "name": "russia",
-    "code": "1f1f7_1f1fa"
+    "code": "1f1f7-1f1fa"
   },
   {
     "name": "rwanda",
-    "code": "1f1f7_1f1fc"
+    "code": "1f1f7-1f1fc"
   },
   {
     "name": "saudi_arabia",
-    "code": "1f1f8_1f1e6"
+    "code": "1f1f8-1f1e6"
   },
   {
     "name": "solomon_islands",
-    "code": "1f1f8_1f1e7"
+    "code": "1f1f8-1f1e7"
   },
   {
     "name": "seychelles",
-    "code": "1f1f8_1f1e8"
+    "code": "1f1f8-1f1e8"
   },
   {
     "name": "sudan",
-    "code": "1f1f8_1f1e9"
+    "code": "1f1f8-1f1e9"
   },
   {
     "name": "sweden",
-    "code": "1f1f8_1f1ea"
+    "code": "1f1f8-1f1ea"
   },
   {
     "name": "singapore",
-    "code": "1f1f8_1f1ec"
+    "code": "1f1f8-1f1ec"
   },
   {
     "name": "st_helena",
-    "code": "1f1f8_1f1ed"
+    "code": "1f1f8-1f1ed"
   },
   {
     "name": "slovenia",
-    "code": "1f1f8_1f1ee"
+    "code": "1f1f8-1f1ee"
   },
   {
     "name": "svalbard_jan_mayen",
-    "code": "1f1f8_1f1ef"
+    "code": "1f1f8-1f1ef"
   },
   {
     "name": "slovakia",
-    "code": "1f1f8_1f1f0"
+    "code": "1f1f8-1f1f0"
   },
   {
     "name": "sierra_leone",
-    "code": "1f1f8_1f1f1"
+    "code": "1f1f8-1f1f1"
   },
   {
     "name": "san_marino",
-    "code": "1f1f8_1f1f2"
+    "code": "1f1f8-1f1f2"
   },
   {
     "name": "senegal",
-    "code": "1f1f8_1f1f3"
+    "code": "1f1f8-1f1f3"
   },
   {
     "name": "somalia",
-    "code": "1f1f8_1f1f4"
+    "code": "1f1f8-1f1f4"
   },
   {
     "name": "suriname",
-    "code": "1f1f8_1f1f7"
+    "code": "1f1f8-1f1f7"
   },
   {
     "name": "south_sudan",
-    "code": "1f1f8_1f1f8"
+    "code": "1f1f8-1f1f8"
   },
   {
     "name": "são_tomé_príncipe",
-    "code": "1f1f8_1f1f9"
+    "code": "1f1f8-1f1f9"
   },
   {
     "name": "el_salvador",
-    "code": "1f1f8_1f1fb"
+    "code": "1f1f8-1f1fb"
   },
   {
     "name": "sint_maarten",
-    "code": "1f1f8_1f1fd"
+    "code": "1f1f8-1f1fd"
   },
   {
     "name": "syria",
-    "code": "1f1f8_1f1fe"
+    "code": "1f1f8-1f1fe"
   },
   {
     "name": "eswatini",
-    "code": "1f1f8_1f1ff"
+    "code": "1f1f8-1f1ff"
   },
   {
     "name": "tristan_da_cunha",
-    "code": "1f1f9_1f1e6"
+    "code": "1f1f9-1f1e6"
   },
   {
     "name": "turks_caicos_islands",
-    "code": "1f1f9_1f1e8"
+    "code": "1f1f9-1f1e8"
   },
   {
     "name": "chad",
-    "code": "1f1f9_1f1e9"
+    "code": "1f1f9-1f1e9"
   },
   {
     "name": "french_southern_territories",
-    "code": "1f1f9_1f1eb"
+    "code": "1f1f9-1f1eb"
   },
   {
     "name": "togo",
-    "code": "1f1f9_1f1ec"
+    "code": "1f1f9-1f1ec"
   },
   {
     "name": "thailand",
-    "code": "1f1f9_1f1ed"
+    "code": "1f1f9-1f1ed"
   },
   {
     "name": "tajikistan",
-    "code": "1f1f9_1f1ef"
+    "code": "1f1f9-1f1ef"
   },
   {
     "name": "tokelau",
-    "code": "1f1f9_1f1f0"
+    "code": "1f1f9-1f1f0"
   },
   {
     "name": "timor_leste",
-    "code": "1f1f9_1f1f1"
+    "code": "1f1f9-1f1f1"
   },
   {
     "name": "turkmenistan",
-    "code": "1f1f9_1f1f2"
+    "code": "1f1f9-1f1f2"
   },
   {
     "name": "tunisia",
-    "code": "1f1f9_1f1f3"
+    "code": "1f1f9-1f1f3"
   },
   {
     "name": "tonga",
-    "code": "1f1f9_1f1f4"
+    "code": "1f1f9-1f1f4"
   },
   {
     "name": "türkiye",
-    "code": "1f1f9_1f1f7"
+    "code": "1f1f9-1f1f7"
   },
   {
     "name": "trinidad_tobago",
-    "code": "1f1f9_1f1f9"
+    "code": "1f1f9-1f1f9"
   },
   {
     "name": "tuvalu",
-    "code": "1f1f9_1f1fb"
+    "code": "1f1f9-1f1fb"
   },
   {
     "name": "taiwan",
-    "code": "1f1f9_1f1fc"
+    "code": "1f1f9-1f1fc"
   },
   {
     "name": "tanzania",
-    "code": "1f1f9_1f1ff"
+    "code": "1f1f9-1f1ff"
   },
   {
     "name": "ukraine",
-    "code": "1f1fa_1f1e6"
+    "code": "1f1fa-1f1e6"
   },
   {
     "name": "uganda",
-    "code": "1f1fa_1f1ec"
+    "code": "1f1fa-1f1ec"
   },
   {
     "name": "us_outlying_islands",
-    "code": "1f1fa_1f1f2"
+    "code": "1f1fa-1f1f2"
   },
   {
     "name": "united_nations",
-    "code": "1f1fa_1f1f3"
+    "code": "1f1fa-1f1f3"
   },
   {
     "name": "united_states",
-    "code": "1f1fa_1f1f8"
+    "code": "1f1fa-1f1f8"
   },
   {
     "name": "uruguay",
-    "code": "1f1fa_1f1fe"
+    "code": "1f1fa-1f1fe"
   },
   {
     "name": "uzbekistan",
-    "code": "1f1fa_1f1ff"
+    "code": "1f1fa-1f1ff"
   },
   {
     "name": "vatican_city",
-    "code": "1f1fb_1f1e6"
+    "code": "1f1fb-1f1e6"
   },
   {
     "name": "st_vincent_grenadines",
-    "code": "1f1fb_1f1e8"
+    "code": "1f1fb-1f1e8"
   },
   {
     "name": "venezuela",
-    "code": "1f1fb_1f1ea"
+    "code": "1f1fb-1f1ea"
   },
   {
     "name": "british_virgin_islands",
-    "code": "1f1fb_1f1ec"
+    "code": "1f1fb-1f1ec"
   },
   {
     "name": "us_virgin_islands",
-    "code": "1f1fb_1f1ee"
+    "code": "1f1fb-1f1ee"
   },
   {
     "name": "vietnam",
-    "code": "1f1fb_1f1f3"
+    "code": "1f1fb-1f1f3"
   },
   {
     "name": "vanuatu",
-    "code": "1f1fb_1f1fa"
+    "code": "1f1fb-1f1fa"
   },
   {
     "name": "wallis_futuna",
-    "code": "1f1fc_1f1eb"
+    "code": "1f1fc-1f1eb"
   },
   {
     "name": "samoa",
-    "code": "1f1fc_1f1f8"
+    "code": "1f1fc-1f1f8"
   },
   {
     "name": "kosovo",
-    "code": "1f1fd_1f1f0"
+    "code": "1f1fd-1f1f0"
   },
   {
     "name": "yemen",
-    "code": "1f1fe_1f1ea"
+    "code": "1f1fe-1f1ea"
   },
   {
     "name": "mayotte",
-    "code": "1f1fe_1f1f9"
+    "code": "1f1fe-1f1f9"
   },
   {
     "name": "south_africa",
-    "code": "1f1ff_1f1e6"
+    "code": "1f1ff-1f1e6"
   },
   {
     "name": "zambia",
-    "code": "1f1ff_1f1f2"
+    "code": "1f1ff-1f1f2"
   },
   {
     "name": "zimbabwe",
-    "code": "1f1ff_1f1fc"
+    "code": "1f1ff-1f1fc"
   },
   {
     "name": "england",
-    "code": "1f3f4_e0067_e0062_e0065_e006e_e0067_e007f"
+    "code": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f"
   },
   {
     "name": "scotland",
-    "code": "1f3f4_e0067_e0062_e0073_e0063_e0074_e007f"
+    "code": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f"
   },
   {
     "name": "wales",
-    "code": "1f3f4_e0067_e0062_e0077_e006c_e0073_e007f"
+    "code": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
   }
 ]

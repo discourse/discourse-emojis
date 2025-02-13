@@ -57,7 +57,7 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
 
           mapping[emoji_char] = I18n.transliterate(name)
 
-          emojis << { name:, code: codepoint }
+          emojis << { name:, code: codepoint.gsub("_", "-") }
         end
     end
 
@@ -176,7 +176,7 @@ def generate_groups(output_file)
   end
 
   # Print the result in the desired format
-  File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(emoji_groups)) }
+  File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
 
   puts "Saved to #{output_file}"
 end

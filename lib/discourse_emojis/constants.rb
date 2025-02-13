@@ -16,6 +16,7 @@ module DiscourseEmojis
   }
 
   EMOJI_ALIASES = {
+    "x_ray" => ["xray"],
     "right_anger_bubble" => ["anger_right"],
     "ballot_box" => ["ballot_box_with_ballot"],
     "basketball_man" => %w[basketball_player person_with_ball],
@@ -706,7 +707,7 @@ module DiscourseEmojis
     "keycap_7" => ["seven"],
     "keycap_8" => ["eight"],
     "keycap_9" => ["nine"],
-    "keycap_10" => ["keycap_ten"],
+    "keycap_10" => ["ten"],
     "input_latin_uppercase" => ["capital_abcd"],
     "input_latin_lowercase" => ["abcd"],
     "input_numbers" => ["1234"],

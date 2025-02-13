@@ -47,6 +47,7 @@ module DiscourseEmojis
 
       def process_single_image(file, output_dir, supported_emojis)
         filename = normalize_filename(file)
+
         codepoints = filename.split("_")
 
         fitzpatrick_level, base_codepoints = extract_fitzpatrick_scale(codepoints)
@@ -79,7 +80,22 @@ module DiscourseEmojis
 
       def convert_to_emoji(base_codepoints)
         base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
+
+        # Add VS16 (0xFE0F) after the base character if needed
+        # This is needed for emoji that can have both text and emoji presentation
+        base_unicode.insert(1, 0xFE0F) if needs_variation_selector?(base_unicode.first)
+
         base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
+      end
+
+      def needs_variation_selector?(codepoint)
+        [
+          (0x30..0x39).to_a, # Digits 0-9
+          (0x23..0x23).to_a, # Hash (#)
+          (0x2A..0x2A).to_a, # Asterisk (*)
+          (0x2600..0x26FF).to_a, # Miscellaneous Symbols
+          (0x2700..0x27BF).to_a, # Dingbats
+        ].any? { |range| range.include?(codepoint) }
       end
 
       def save_emoji_image(source_file, output_dir, emoji_name, fitzpatrick_level)

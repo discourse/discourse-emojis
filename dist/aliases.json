@@ -1,4 +1,7 @@
 {
+  "x_ray": [
+    "xray"
+  ],
   "right_anger_bubble": [
     "anger_right"
   ],
@@ -2111,7 +2114,7 @@
     "nine"
   ],
   "keycap_10": [
-    "keycap_ten"
+    "ten"
   ],
   "input_latin_uppercase": [
     "capital_abcd"
