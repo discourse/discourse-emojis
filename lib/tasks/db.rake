@@ -114,7 +114,7 @@ def generate_search_aliases(output_file)
 
       aliases[name] ||= []
       aliases[name] << node.text.split("|").map(&:strip).reject { |a| a.gsub(" ", "_") == name }
-      aliases[name].uniq!
+      aliases[name].flatten!.uniq!
     end
 
   File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(aliases)) }
