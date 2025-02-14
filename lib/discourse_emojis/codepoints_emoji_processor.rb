@@ -57,7 +57,6 @@ module DiscourseEmojis
         return unless emoji_name
 
         save_emoji_image(file, output_dir, emoji_name, fitzpatrick_level)
-        process_aliases(file, output_dir, emoji_name, fitzpatrick_level)
       end
 
       def normalize_filename(file)
@@ -102,16 +101,6 @@ module DiscourseEmojis
         output_path = image_output_path(output_dir, emoji_name, fitzpatrick_level)
         FileUtils.mkdir_p(File.dirname(output_path))
         FileUtils.cp(source_file, output_path)
-      end
-
-      def process_aliases(source_file, output_dir, emoji_name, fitzpatrick_level)
-        return unless EMOJI_ALIASES.key?(emoji_name)
-
-        EMOJI_ALIASES[emoji_name].each do |alias_name|
-          alias_output_path = image_output_path(output_dir, alias_name, fitzpatrick_level)
-          FileUtils.mkdir_p(File.dirname(alias_output_path))
-          FileUtils.cp(source_file, alias_output_path)
-        end
       end
     end
   end
