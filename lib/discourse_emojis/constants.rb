@@ -708,7 +708,7 @@ module DiscourseEmojis
     "keycap_7" => ["seven"],
     "keycap_8" => ["eight"],
     "keycap_9" => ["nine"],
-    "keycap_10" => ["ten"],
+    "keycap_10" => %w[keycap_ten ten],
     "input_latin_uppercase" => ["capital_abcd"],
     "input_latin_lowercase" => ["abcd"],
     "input_numbers" => ["1234"],
