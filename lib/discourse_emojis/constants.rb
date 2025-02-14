@@ -16,6 +16,7 @@ module DiscourseEmojis
   }
 
   EMOJI_ALIASES = {
+    "pinata" => ["piñata"],
     "x_ray" => ["xray"],
     "right_anger_bubble" => ["anger_right"],
     "ballot_box" => ["ballot_box_with_ballot"],
