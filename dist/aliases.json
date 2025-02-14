@@ -2182,11 +2182,22 @@
   "vs_button": [
     "vs"
   ],
+  "japanese_vacancy_button": [
+    "u7a7a"
+  ],
+  "japanese_discount_button": [
+    "u5272"
+  ],
   "japanese_here_button": [
     "koko"
   ],
-  "japanese_service_charge_button": [
-    "sa"
+  "japanese_not_free_of_charge_button": [
+    "sa",
+    "u6709",
+    "japanese_service_charge_button"
+  ],
+  "japanese_application_button": [
+    "u7533"
   ],
   "japanese_bargain_button": [
     "ideograph_advantage"
@@ -2195,13 +2206,32 @@
     "u7981"
   ],
   "japanese_acceptable_button": [
-    "accept"
+    "accept",
+    "u6709"
   ],
   "japanese_congratulations_button": [
     "congratulations"
   ],
   "japanese_secret_button": [
     "secret"
+  ],
+  "japanese_open_for_business_button": [
+    "u55b6"
+  ],
+  "japanese_monthly_amount_button": [
+    "u6708"
+  ],
+  "japanese_passing_grade_button": [
+    "u5408"
+  ],
+  "japanese_no_vacancy_button": [
+    "u6e80"
+  ],
+  "japanese_free_of_charge_button": [
+    "u7121"
+  ],
+  "japanese_reserved_button": [
+    "u6307"
   ],
   "blue_circle": [
     "large_blue_circle"
