@@ -11,7 +11,7 @@ task :generate do
 
   Rake::Task["db"].invoke
 
-  # Rake::Task["fluentui_emoji"].invoke
+  Rake::Task["fluentui_emoji"].invoke
   Rake::Task["noto_emoji"].invoke
   Rake::Task["twemoji"].invoke
   Rake::Task["openmoji"].invoke
