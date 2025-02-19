@@ -6,6 +6,29 @@ require "json"
 
 module DiscourseEmojis
   class CodepointsEmojiProcessor
+    # The CodepointsEmojiProcessor class is responsible for processing emoji images
+    # based on their Unicode codepoints. It extracts emoji assets, maps them to
+    # their respective names, and organizes them into the appropriate output
+    # directory structure.
+    #
+    # Constants:
+    # - EMOJI_TO_NAME_PATH: Path to the JSON file mapping emoji to names.
+    # - TONABLE_EMOJIS_PATH: Path to the JSON file listing tonable emojis.
+    #
+    # Usage:
+    # To process emoji images, call the `process` method with the necessary parameters:
+    #
+    # CodepointsEmojiProcessor.process(name, url, asset_subdir, output_dir)
+    #
+    # Parameters:
+    # - name: The name of the emoji set being processed.
+    # - url: The URL of the ZIP file containing the emoji assets.
+    # - asset_subdir: The subdirectory within the extracted files where emoji images are located.
+    # - output_dir: The directory where processed emoji images should be saved.
+    #
+    # Example:
+    # CodepointsEmojiProcessor.process("twemoji", "https://example.com/twemoji.zip", "assets", "./output")
+
     EMOJI_TO_NAME_PATH = "./dist/emoji_to_name.json"
     TONABLE_EMOJIS_PATH = "./dist/tonable_emojis.json"
 

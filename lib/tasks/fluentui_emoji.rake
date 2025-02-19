@@ -8,9 +8,7 @@ task :fluentui_emoji do
 
   DiscourseEmojis::ZipProcessor.with_extracted_files(url) do |extract_path|
     assets_dir = File.join(extract_path, asset_subdir)
-    output_dir = File.join(DiscourseEmojis.emoji_dist_path, "fluentui")
-    processor =
-      DiscourseEmojis::FluentUIEmojiProcessor.new(assets_dir, supported_emojis, output_dir)
+    processor = DiscourseEmojis::FluentUIEmojiProcessor.new(assets_dir, supported_emojis)
     processor.process_all
   end
 end

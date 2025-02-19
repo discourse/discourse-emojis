@@ -1,15 +1,19 @@
 # frozen_string_literal: true
 
-# The EmojiSynchronizer is responsible for ensuring all emoji sets have a complete
-# collection of emoji images. It copies any missing emoji files from the unicode
-# directory (which serves as the source of truth) to other emoji set directories.
-# This includes both base emoji images and their skin tone variations.
-#
-# Usage:
-#   DiscourseEmojis::EmojiSynchronizer.sync_missing_emojis
-#
 module DiscourseEmojis
   class EmojiSynchronizer
+    # The EmojiSynchronizer class is responsible for synchronizing missing emoji
+    # files across different directories. It ensures that all non-Unicode emoji
+    # directories contain the necessary emoji files from the Unicode directory.
+    #
+    # Constants:
+    # - UNICODE_DIR: The directory where Unicode emoji files are stored.
+    #
+    # Usage:
+    # To synchronize missing emoji files, call the `sync_missing_emojis` method:
+    #
+    # DiscourseEmojis::EmojiSynchronizer.sync_missing_emojis
+
     UNICODE_DIR = "dist/emoji/unicode"
 
     def self.sync_missing_emojis

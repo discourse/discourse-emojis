@@ -13,6 +13,7 @@ module DiscourseEmojis
   # The extractor handles two types of files:
   # 1. emoji-list.html - Contains base emoji images
   # 2. emoji-modifier-sequences.html - Contains emoji variations (e.g., skin tones)
+
   class UnicodeEmojiExtractor
     UNICODE_EMOJI_DIR = "dist/emoji/unicode"
     EMOJI_LIST_FILE = "vendor/emoji-list.html"

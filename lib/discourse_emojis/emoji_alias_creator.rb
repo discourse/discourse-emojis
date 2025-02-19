@@ -6,8 +6,10 @@ module DiscourseEmojis
   # and tonable emojis.
   #
   # Usage:
-  #   DiscourseEmojis::EmojiAliasCreator.create_aliases
+  # To create emoji alias files, call the `create_aliases` method:
   #
+  # DiscourseEmojis::EmojiAliasCreator.create_aliases
+
   class EmojiAliasCreator
     def self.create_aliases
       new.create_aliases

@@ -1,7 +1,32 @@
 # frozen_string_literal: true
 
+require "fileutils"
+require "json"
+
 module DiscourseEmojis
   class FluentUIEmojiProcessor
+    # The FluentUIEmojiProcessor class processes Fluent UI emoji assets and converts
+    # them into PNG format for use in the application. It supports both regular and
+    # skin-tone variations of emojis.
+    #
+    # Constants:
+    # - SKIN_TONE_LEVELS: A mapping of skin tone names to numerical levels used for file naming.
+    # - OUTPUT_DIR: The directory where processed PNG files will be saved.
+    #
+    # Usage:
+    # To process all Fluent UI emojis from an assets directory, instantiate the class
+    # and call the `process_all` method:
+    #
+    # processor = DiscourseEmojis::FluentUIEmojiProcessor.new(assets_dir, supported_emojis)
+    # processor.process_all
+    #
+    # Parameters:
+    # - assets_dir: The directory containing Fluent UI emoji assets.
+    # - supported_emojis: A mapping of supported emoji names.
+    #
+    # This method will iterate over each emoji asset, check if it has skin-tone variations,
+    # and convert the SVG files into properly formatted PNG images.
+
     SKIN_TONE_LEVELS = {
       "Light" => 1,
       "Medium-Light" => 2,
@@ -10,10 +35,11 @@ module DiscourseEmojis
       "Dark" => 5,
     }
 
-    def initialize(assets_dir, supported_emojis, output_dir = "dist/emoji/fluentui")
+    OUTPUT_DIR = "dist/emoji/fluentui"
+
+    def initialize(assets_dir, supported_emojis)
       @assets_dir = assets_dir
       @supported_emojis = supported_emojis
-      @output_dir = output_dir
     end
 
     def process_all
@@ -56,22 +82,20 @@ module DiscourseEmojis
     end
 
     def process_skin_tone_emoji(emoji_dir, emoji_name)
-      # Process default version
       default_svg = Dir.glob(File.join(emoji_dir, "Default", "Color", "*.svg")).first
       if File.exist?(default_svg)
-        output_path = File.join(@output_dir, "#{emoji_name}.png")
+        output_path = File.join(OUTPUT_DIR, "#{emoji_name}.png")
         FileUtils.mkdir_p(File.dirname(output_path))
         convert_svg_to_png(default_svg, output_path)
       end
 
-      # Process skin tone variations
-      base_output_dir = File.join(@output_dir, emoji_name)
+      base_output_dir = File.join(OUTPUT_DIR, emoji_name)
       FileUtils.mkdir_p(base_output_dir)
 
       SKIN_TONE_LEVELS.each do |tone, level|
         svg_path = Dir.glob(File.join(emoji_dir, tone, "Color", "*.svg")).first
-
         next unless File.exist?(svg_path)
+
         output_path = File.join(base_output_dir, "#{level}.png")
         convert_svg_to_png(svg_path, output_path)
       end
@@ -79,20 +103,15 @@ module DiscourseEmojis
 
     def process_regular_emoji(emoji_dir, emoji_name)
       svg_path = Dir.glob(File.join(emoji_dir, "Color", "*.svg")).first
-
       return unless File.exist?(svg_path)
 
-      output_path = File.join(@output_dir, "#{emoji_name}.png")
+      output_path = File.join(OUTPUT_DIR, "#{emoji_name}.png")
       FileUtils.mkdir_p(File.dirname(output_path))
       convert_svg_to_png(svg_path, output_path)
     end
 
-    require "fileutils"
-
     def convert_svg_to_png(svg_path, output_png)
       FileUtils.mkdir_p(File.dirname(output_png))
-
-      # Step 1: Convert SVG to a larger PNG
       intermediate_png = "#{output_png}.tmp.png"
       step1_result =
         system(
@@ -108,21 +127,13 @@ module DiscourseEmojis
       unless step1_result
         status = $?.nil? ? "unknown" : $?.exitstatus
         puts "Conversion step 1 failed with status: #{status}"
-        puts "Note: This requires librsvg2-bin to be installed."
-        puts "Install with: brew install librsvg  # on macOS"
-        puts "Or: sudo apt-get install librsvg2-bin  # on Ubuntu/Debian"
         return
       end
 
-      # Step 2: Resize down to 72x72 using ImageMagick for smoother edges
       step2_result = system("magick", intermediate_png, "-resize", "72x72", output_png)
-
       unless step2_result
         status = $?.nil? ? "unknown" : $?.exitstatus
         puts "Conversion step 2 (resize) failed with status: #{status}"
-        puts "Note: This requires ImageMagick to be installed."
-        puts "Install with: brew install imagemagick  # on macOS"
-        puts "Or: sudo apt-get install imagemagick  # on Ubuntu/Debian"
         return
       end
 
