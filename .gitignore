@@ -1,2 +1,8 @@
 Gemfile.lock
 .DS_Store
+
+dist/emoji/apple
+dist/emoji/google
+dist/emoji/google_classic
+dist/emoji/win10
+dist/emoji/facebook_messenger
