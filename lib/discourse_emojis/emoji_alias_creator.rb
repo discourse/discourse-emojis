@@ -3,7 +3,7 @@
 module DiscourseEmojis
   # The EmojiAliasCreator is responsible for creating alias files for emojis
   # based on the aliases defined in EMOJI_ALIASES. It handles both regular emojis
-  # and tonable emojis (those with skin tone variations).
+  # and tonable emojis.
   #
   # Usage:
   #   DiscourseEmojis::EmojiAliasCreator.create_aliases
@@ -37,13 +37,11 @@ module DiscourseEmojis
     end
 
     def create_alias_files(dir, original_name, alias_name)
-      # Create the base emoji alias
       source_file = File.join(dir, "#{original_name}.png")
       target_file = File.join(dir, "#{alias_name}.png")
 
       FileUtils.cp(source_file, target_file)
 
-      # Handle skin tone variations if they exist
       variations_dir = File.join(dir, original_name)
       return unless File.directory?(variations_dir)
 
@@ -59,7 +57,6 @@ module DiscourseEmojis
         .each do |variation_file|
           variation_name = File.basename(variation_file)
           target_variation_file = File.join(target_variations_dir, variation_name)
-
           FileUtils.cp(variation_file, target_variation_file)
         end
     end

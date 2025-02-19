@@ -92,8 +92,7 @@ module DiscourseEmojis
     def convert_svg_to_png(svg_path, output_png)
       FileUtils.mkdir_p(File.dirname(output_png))
 
-      # Step 1: Convert SVG to a larger PNG (e.g., 288x288).
-      # This uses rsvg-convert at a higher resolution.
+      # Step 1: Convert SVG to a larger PNG
       intermediate_png = "#{output_png}.tmp.png"
       step1_result =
         system(
@@ -115,7 +114,7 @@ module DiscourseEmojis
         return
       end
 
-      # Step 2: Resize down to 72x72 using ImageMagick for smoother edges.
+      # Step 2: Resize down to 72x72 using ImageMagick for smoother edges
       step2_result = system("magick", intermediate_png, "-resize", "72x72", output_png)
 
       unless step2_result
@@ -127,7 +126,6 @@ module DiscourseEmojis
         return
       end
 
-      # Remove the temporary larger PNG
       FileUtils.rm_f(intermediate_png)
     end
   end

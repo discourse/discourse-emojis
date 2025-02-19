@@ -3,7 +3,7 @@
 # The EmojiSynchronizer is responsible for ensuring all emoji sets have a complete
 # collection of emoji images. It copies any missing emoji files from the unicode
 # directory (which serves as the source of truth) to other emoji set directories.
-# This includes both base emoji images and their variations (e.g., skin tone variants).
+# This includes both base emoji images and their skin tone variations.
 #
 # Usage:
 #   DiscourseEmojis::EmojiSynchronizer.sync_missing_emojis
@@ -68,7 +68,6 @@ module DiscourseEmojis
 
       return if File.exist?(target_variation_file)
 
-      puts "Copying #{base_name}/#{variation_filename} from unicode to #{File.basename(target_dir)}"
       FileUtils.cp(variation_file, target_variation_file)
     end
   end

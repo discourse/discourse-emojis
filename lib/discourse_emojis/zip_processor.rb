@@ -43,19 +43,18 @@ module DiscourseEmojis
 
     def self.download_remote_file(url, destination)
       uri = URI(url)
-      response =
-        Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == "https") do |http|
-          http.request(Net::HTTP::Get.new(uri)) do |response|
-            case response
-            when Net::HTTPRedirection
-              return download_remote_file(response["location"], destination)
-            when Net::HTTPSuccess
-              File.binwrite(destination, response.body)
-            else
-              raise DownloadError, "Failed to download: #{response.code} #{response.message}"
-            end
+      Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == "https") do |http|
+        http.request(Net::HTTP::Get.new(uri)) do |response|
+          case response
+          when Net::HTTPRedirection
+            return download_remote_file(response["location"], destination)
+          when Net::HTTPSuccess
+            File.binwrite(destination, response.body)
+          else
+            raise DownloadError, "Failed to download: #{response.code} #{response.message}"
           end
         end
+      end
     end
 
     def self.extract(zip_path, destination)

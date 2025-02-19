@@ -11,7 +11,7 @@ task :generate do
 
   Rake::Task["db"].invoke
 
-  Rake::Task["fluentui_emoji"].invoke
+  # Rake::Task["fluentui_emoji"].invoke
   Rake::Task["noto_emoji"].invoke
   Rake::Task["twemoji"].invoke
   Rake::Task["openmoji"].invoke
@@ -19,4 +19,5 @@ task :generate do
 
   Rake::Task["aliases"].invoke
   Rake::Task["missing_emojis"].invoke
+  Rake::Task["deprecated_symlinks"].invoke
 end
