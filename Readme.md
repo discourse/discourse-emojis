@@ -1,4 +1,21 @@
-## Current source of files
+# discourse-emojis
+
+A Discourse gem to provide all the necessary emoji data:
+
+- emoji names
+- toned emojis
+- images for sets (noto, twemoji, openmoji, fluentui...)
+- aliases
+- search aliases
+- groups
+
+## Updating the emojis
+
+The process sadly involves multiple manual steps ATM as the remote sources can be very slow to download. Depending on what you want to update, you will have to update the files in vendor/ and/or the URLs in each set rake task (fluentui, noto, openmoji, twemoji...).
+
+Once this is done, you should run the rake rask: `bundle exec rake generate`, this command should take few minutes. If the generated diff looks correct you can update the gem version and push the commit. The new gem verison will be auto released. You now just have to update discourse.
+
+## Current source of vendor files
 
 ### cldr-annotations.xml
 
