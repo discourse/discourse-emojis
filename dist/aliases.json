@@ -278,9 +278,9 @@
     "hugging_face",
     "hugs"
   ],
-  "roll_eyes": [
-    "rolling_eyes",
-    "face_with_rolling_eyes"
+  "face_with_rolling_eyes": [
+    "roll_eyes",
+    "rolling_eyes"
   ],
   "slightly_frowning_face": [
     "frowning",
@@ -602,9 +602,6 @@
   ],
   "unamused_face": [
     "unamused"
-  ],
-  "face_with_rolling_eyes": [
-    "roll_eyes"
   ],
   "grimacing_face": [
     "grimacing"

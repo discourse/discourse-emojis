@@ -7539,7 +7539,19 @@
         "tonable": false
       },
       {
+        "name": "keycap_#",
+        "tonable": false
+      },
+      {
         "name": "keycap_*",
+        "tonable": false
+      },
+      {
+        "name": "keycap_*",
+        "tonable": false
+      },
+      {
+        "name": "keycap_0",
         "tonable": false
       },
       {
@@ -7551,7 +7563,19 @@
         "tonable": false
       },
       {
+        "name": "keycap_1",
+        "tonable": false
+      },
+      {
         "name": "keycap_2",
+        "tonable": false
+      },
+      {
+        "name": "keycap_2",
+        "tonable": false
+      },
+      {
+        "name": "keycap_3",
         "tonable": false
       },
       {
@@ -7563,7 +7587,19 @@
         "tonable": false
       },
       {
+        "name": "keycap_4",
+        "tonable": false
+      },
+      {
         "name": "keycap_5",
+        "tonable": false
+      },
+      {
+        "name": "keycap_5",
+        "tonable": false
+      },
+      {
+        "name": "keycap_6",
         "tonable": false
       },
       {
@@ -7575,7 +7611,19 @@
         "tonable": false
       },
       {
+        "name": "keycap_7",
+        "tonable": false
+      },
+      {
         "name": "keycap_8",
+        "tonable": false
+      },
+      {
+        "name": "keycap_8",
+        "tonable": false
+      },
+      {
+        "name": "keycap_9",
         "tonable": false
       },
       {
