@@ -43,7 +43,6 @@ module DiscourseEmojis
 
       return if File.exist?(target_file)
 
-      puts "Copying #{filename} from unicode to #{File.basename(target_dir)}"
       FileUtils.cp(unicode_file, target_file)
     end
 

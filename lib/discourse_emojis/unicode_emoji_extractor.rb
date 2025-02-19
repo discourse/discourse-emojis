@@ -59,13 +59,14 @@ module DiscourseEmojis
         full_codepoint = extract_codepoint(row)
         next unless full_codepoint&.include?("_")
 
-        base_part, modifier_part = full_codepoint.downcase.split("_", 2)
-        next unless FITZPATRICK_SCALE.key?(modifier_part)
+        parts = full_codepoint.split("_")
+        modifier = parts.find { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }
+        base = parts.reject { |part| part == modifier }.join("_")
 
         image_data = extract_image_data(row)
         next unless image_data
 
-        variations << { base: base_part, modifier: modifier_part, image: image_data }
+        variations << { base:, modifier:, image: image_data }
       end
 
       variations
@@ -109,7 +110,7 @@ module DiscourseEmojis
     def save_emojis(base_emojis, variations)
       base_emojis.each do |codepoint, data|
         emoji_char = data[:char]
-        emoji_name = @supported_emojis[emoji_char]
+        emoji_name = @supported_emojis[DiscourseEmojis::Utils.force_emoji_presentation(emoji_char)]
         next unless emoji_name
 
         save_base_emoji(emoji_name, data[:image])

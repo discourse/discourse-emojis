@@ -9,6 +9,7 @@ require "json"
 module DiscourseEmojis
   class CodepointsEmojiProcessor
     EMOJI_TO_NAME_PATH = "./dist/emoji_to_name.json"
+    TONABLE_EMOJIS_PATH = "./dist/tonable_emojis.json"
 
     class << self
       def process(name, url, asset_subdir, output_dir)
@@ -30,7 +31,8 @@ module DiscourseEmojis
 
       def process_images(asset_path, output_dir)
         supported_emojis = load_supported_emojis
-        process_image_files(asset_path, output_dir, supported_emojis)
+        tonable_emojis = load_tonable_emojis
+        process_image_files(asset_path, output_dir, supported_emojis, tonable_emojis)
       end
 
       def load_supported_emojis
@@ -39,15 +41,20 @@ module DiscourseEmojis
         raise "Failed to load emoji mapping: #{e.message}"
       end
 
-      def process_image_files(asset_path, output_dir, supported_emojis)
-        Dir
-          .glob(File.join(asset_path, "*.png"))
-          .each { |file| process_single_image(file, output_dir, supported_emojis) }
+      def load_tonable_emojis
+        JSON.parse(File.read(TONABLE_EMOJIS_PATH))
+      rescue JSON::ParserError, Errno::ENOENT => e
+        raise "Failed to load emoji mapping: #{e.message}"
       end
 
-      def process_single_image(file, output_dir, supported_emojis)
-        filename = normalize_filename(file)
+      def process_image_files(asset_path, output_dir, supported_emojis, tonable_emojis)
+        Dir
+          .glob(File.join(asset_path, "*.png"))
+          .each { |file| process_single_image(file, output_dir, supported_emojis, tonable_emojis) }
+      end
 
+      def process_single_image(file, output_dir, supported_emojis, tonable_emojis)
+        filename = normalize_filename(file)
         codepoints = filename.split("_")
 
         fitzpatrick_level, base_codepoints = extract_fitzpatrick_scale(codepoints)
@@ -55,6 +62,7 @@ module DiscourseEmojis
         emoji_name = supported_emojis[emoji]
 
         return unless emoji_name
+        return if fitzpatrick_level && !tonable_emojis.include?(emoji_name)
 
         save_emoji_image(file, output_dir, emoji_name, fitzpatrick_level)
       end
@@ -78,27 +86,14 @@ module DiscourseEmojis
       end
 
       def convert_to_emoji(base_codepoints)
-        base_unicode = base_codepoints.map { |cp| cp.to_i(16) }
-
-        # Add VS16 (0xFE0F) after the base character if needed
-        # This is needed for emoji that can have both text and emoji presentation
-        base_unicode.insert(1, 0xFE0F) if needs_variation_selector?(base_unicode.first)
-
-        base_unicode.pack("U*") if base_unicode.all? { |cp| cp <= 0x10FFFF }
-      end
-
-      def needs_variation_selector?(codepoint)
-        [
-          (0x30..0x39).to_a, # Digits 0-9
-          (0x23..0x23).to_a, # Hash (#)
-          (0x2A..0x2A).to_a, # Asterisk (*)
-          (0x2600..0x26FF).to_a, # Miscellaneous Symbols
-          (0x2700..0x27BF).to_a, # Dingbats
-        ].any? { |range| range.include?(codepoint) }
+        DiscourseEmojis::Utils.force_emoji_presentation(
+          base_codepoints.map { |cp| cp.to_i(16) }.pack("U*"),
+        )
       end
 
       def save_emoji_image(source_file, output_dir, emoji_name, fitzpatrick_level)
         output_path = image_output_path(output_dir, emoji_name, fitzpatrick_level)
+
         FileUtils.mkdir_p(File.dirname(output_path))
         FileUtils.cp(source_file, output_path)
       end

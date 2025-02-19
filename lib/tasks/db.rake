@@ -2,6 +2,7 @@
 require "nokogiri"
 require "open-uri"
 require "discourse_emojis/constants"
+require "discourse_emojis/utils"
 require "i18n"
 
 def generate_emoji_lists(emoji_to_name_file, emojis_file)
@@ -34,7 +35,8 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
           # Extract emoji character
           chars_td = row.xpath("./td[3]").first
           next unless chars_td
-          emoji_char = chars_td.text.strip
+
+          emoji_char = DiscourseEmojis::Utils.force_emoji_presentation(chars_td.text.strip)
 
           name =
             name
@@ -69,31 +71,14 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
 end
 
 def generate_tonable_emoji_list(output_file)
-  content = File.read("./vendor/emoji-sequences.txt")
   supported_emojis = JSON.parse(File.read("./dist/emoji_to_name.json"))
+  fitzpatrick_emojis = []
 
-  # Extract the last section: RGI_Emoji_Modifier_Sequence
-  sections = content.split("# ================================================")
-  last_section = sections.last
-
-  # Extract lines with emoji sequences
-  emoji_lines =
-    last_section.each_line.select do |line|
-      line.match?(/^[0-9A-F\s]+;\s*RGI_Emoji_Modifier_Sequence/)
-    end
-
-  # Extract base emoji (before the space separator in the sequence)
-  emojis =
-    emoji_lines.map do |line|
-      hex_codes = line.split(";").first.strip.split
-      base_emoji_hex = hex_codes.first # Get only the first part of the sequence
-      [base_emoji_hex.to_i(16)].pack("U*") # Convert hex to Unicode character
-    end
-
-  File.open(output_file, "w") do |file|
-    file.write(JSON.pretty_generate(emojis.uniq!.map { |emoji| supported_emojis[emoji] }.compact))
+  supported_emojis.each do |emoji, name|
+    fitzpatrick_emojis << name if DiscourseEmojis::Utils.can_be_toned?(emoji)
   end
 
+  File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(fitzpatrick_emojis.uniq)) }
   puts "Saved to #{output_file}"
 end
 

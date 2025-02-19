@@ -20,7 +20,7 @@ module DiscourseEmojis
     private
 
     def emoji_dirs
-      Dir.glob("#{EMOJI_DIST_PATH}/*").select { |d| File.directory?(d) && !d.end_with?("/unicode") }
+      Dir.glob("#{EMOJI_DIST_PATH}/*").select { |d| File.directory?(d) }
     end
 
     def create_aliases_for_directory(dir)
@@ -41,8 +41,6 @@ module DiscourseEmojis
       source_file = File.join(dir, "#{original_name}.png")
       target_file = File.join(dir, "#{alias_name}.png")
 
-      return if File.exist?(target_file)
-
       FileUtils.cp(source_file, target_file)
 
       # Handle skin tone variations if they exist
@@ -61,8 +59,6 @@ module DiscourseEmojis
         .each do |variation_file|
           variation_name = File.basename(variation_file)
           target_variation_file = File.join(target_variations_dir, variation_name)
-
-          next if File.exist?(target_variation_file)
 
           FileUtils.cp(variation_file, target_variation_file)
         end

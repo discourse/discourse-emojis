@@ -11,17 +11,12 @@
   "ballot_box": [
     "ballot_box_with_ballot"
   ],
-  "basketball_man": [
-    "basketball_player",
-    "person_with_ball"
+  "man_bouncing_ball": [
+    "basketball_man"
   ],
-  "beach_umbrella": [
-    "umbrella_on_ground",
-    "beach",
-    "beach_with_umbrella"
-  ],
-  "parasol_on_ground": [
-    "umbrella_on_ground"
+  "person_bouncing_ball": [
+    "person_with_ball",
+    "basketball_player"
   ],
   "bellhop_bell": [
     "bellhop"
@@ -45,7 +40,8 @@
   "cheese": [
     "cheese_wedge"
   ],
-  "city_sunset": [
+  "cityscape_at_dusk": [
+    "city_sunset",
     "city_dusk"
   ],
   "couch_and_lamp": [
@@ -54,7 +50,8 @@
   "crayon": [
     "lower_left_crayon"
   ],
-  "cricket_bat_and_ball": [
+  "cricket_game": [
+    "cricket_bat_and_ball",
     "cricket_bat_ball"
   ],
   "latin_cross": [
@@ -82,44 +79,9 @@
     "flag_black",
     "waving_black_flag"
   ],
-  "cn": [
-    "flag_cn"
-  ],
-  "de": [
-    "flag_de"
-  ],
-  "es": [
-    "flag_es"
-  ],
-  "fr": [
-    "flag_fr"
-  ],
-  "uk": [
-    "gb",
-    "flag_gb"
-  ],
-  "it": [
-    "flag_it"
-  ],
-  "jp": [
-    "flag_jp"
-  ],
-  "kr": [
-    "flag_kr"
-  ],
-  "ru": [
-    "flag_ru"
-  ],
-  "us": [
-    "flag_us"
-  ],
   "white_flag": [
     "flag_white",
     "waving_white_flag"
-  ],
-  "plate_with_cutlery": [
-    "fork_knife_plate",
-    "fork_and_knife_with_plate"
   ],
   "framed_picture": [
     "frame_photo",
@@ -127,10 +89,6 @@
   ],
   "hammer_and_pick": [
     "hammer_pick"
-  ],
-  "heavy_heart_exclamation": [
-    "heart_exclamation",
-    "heavy_heart_exclamation_mark_ornament"
   ],
   "houses": [
     "homes",
@@ -149,26 +107,22 @@
   "old_key": [
     "key2"
   ],
-  "laughing": [
-    "satisfied"
-  ],
-  "business_suit_levitating": [
-    "levitate",
-    "man_in_business_suit_levitating"
-  ],
-  "weight_lifting_man": [
+  "person_lifting_weights": [
     "lifter",
     "weight_lifter"
   ],
-  "medal_sports": [
-    "medal",
-    "sports_medal"
+  "military_medal": [
+    "medal_military"
   ],
-  "metal": [
-    "sign_of_the_horns"
+  "sports_medal": [
+    "medal_sports",
+    "medal"
   ],
-  "fu": [
-    "middle_finger",
+  "sign_of_the_horns": [
+    "metal"
+  ],
+  "middle_finger": [
+    "fu",
     "reversed_hand_with_middle_finger_extended"
   ],
   "motorcycle": [
@@ -177,10 +131,6 @@
   "mountain_snow": [
     "snow_capped_mountain"
   ],
-  "newspaper_roll": [
-    "newspaper2",
-    "rolled_up_newspaper"
-  ],
   "spiral_notepad": [
     "notepad_spiral",
     "spiral_note_pad"
@@ -188,8 +138,13 @@
   "oil_drum": [
     "oil"
   ],
-  "older_woman": [
-    "grandma"
+  "old_woman": [
+    "grandma",
+    "older_woman"
+  ],
+  "old_man": [
+    "older_man",
+    "grandpa"
   ],
   "paintbrush": [
     "lower_left_paintbrush"
@@ -213,10 +168,11 @@
   "place_of_worship": [
     "worship_symbol"
   ],
-  "poop": [
+  "pile_of_poo": [
+    "poop",
     "shit",
-    "hankey",
-    "poo"
+    "poo",
+    "hankey"
   ],
   "radioactive": [
     "radioactive_sign"
@@ -236,18 +192,13 @@
   "speaking_head": [
     "speaking_head_in_silhouette"
   ],
-  "male_detective": [
+  "man_detective": [
     "spy",
-    "sleuth_or_spy"
+    "sleuth_or_spy",
+    "male_detective"
   ],
   "thinking": [
     "thinking_face"
-  ],
-  "-1": [
-    "thumbsdown"
-  ],
-  "+1": [
-    "thumbsup"
   ],
   "cloud_with_lightning_and_rain": [
     "thunder_cloud_rain",
@@ -259,10 +210,6 @@
   "next_track_button": [
     "track_next",
     "next_track"
-  ],
-  "previous_track_button": [
-    "track_previous",
-    "previous_track"
   ],
   "unicorn": [
     "unicorn_face"
@@ -278,12 +225,16 @@
     "white_sun_rain_cloud",
     "white_sun_behind_cloud_with_rain"
   ],
-  "partly_sunny": [
+  "sun_behind_cloud": [
+    "partly_sunny"
+  ],
+  "sun_behind_small_cloud": [
     "white_sun_small_cloud",
     "white_sun_with_small_cloud"
   ],
-  "open_umbrella": [
-    "umbrella2"
+  "umbrella": [
+    "umbrella2",
+    "open_umbrella"
   ],
   "hammer_and_wrench": [
     "tools"
@@ -296,13 +247,6 @@
   ],
   "keycap_ten": [
     "ten"
-  ],
-  "memo": [
-    "pencil"
-  ],
-  "rescue_worker_helmet": [
-    "helmet_with_cross",
-    "helmet_with_white_cross"
   ],
   "slightly_smiling_face": [
     "slightly_smiling",
@@ -320,9 +264,10 @@
   "nerd_face": [
     "nerd"
   ],
-  "hugs": [
+  "smiling_face_with_open_hands": [
     "hugging",
-    "hugging_face"
+    "hugging_face",
+    "hugs"
   ],
   "roll_eyes": [
     "rolling_eyes",
@@ -342,7 +287,8 @@
   "face_with_head_bandage": [
     "head_bandage"
   ],
-  "raised_hand_with_fingers_splayed": [
+  "hand_with_fingers_splayed": [
+    "raised_hand_with_fingers_splayed",
     "hand_splayed"
   ],
   "raised_hand": [
@@ -352,44 +298,19 @@
     "vulcan",
     "raised_hand_with_part_between_middle_and_ring_fingers"
   ],
-  "policeman": [
+  "police_officer": [
+    "policeman",
     "cop"
   ],
-  "running_man": [
-    "runner"
+  "man_walking": [
+    "walking_man"
   ],
-  "walking_man": [
+  "person_walking": [
     "walking"
   ],
-  "bowing_man": [
-    "bow"
-  ],
-  "no_good_woman": [
-    "no_good"
-  ],
-  "raising_hand_woman": [
-    "raising_hand"
-  ],
-  "pouting_woman": [
-    "person_with_pouting_face"
-  ],
-  "frowning_woman": [
-    "person_frowning"
-  ],
-  "haircut_woman": [
-    "haircut"
-  ],
-  "massage_woman": [
-    "massage"
-  ],
-  "tshirt": [
-    "shirt"
-  ],
-  "biking_man": [
-    "bicyclist"
-  ],
-  "mountain_biking_man": [
-    "mountain_bicyclist"
+  "man_bowing": [
+    "bow",
+    "bowing_man"
   ],
   "passenger_ship": [
     "cruise_ship"
@@ -459,26 +380,8 @@
   "cloud_with_snow": [
     "cloud_snow"
   ],
-  "asterisk": [
-    "keycap_star"
-  ],
   "studio_microphone": [
     "microphone2"
-  ],
-  "medal_military": [
-    "military_medal"
-  ],
-  "couple_with_heart_woman_woman": [
-    "female_couple_with_heart"
-  ],
-  "couple_with_heart_man_man": [
-    "male_couple_with_heart"
-  ],
-  "couplekiss_woman_woman": [
-    "female_couplekiss"
-  ],
-  "couplekiss_man_man": [
-    "male_couplekiss"
   ],
   "honeybee": [
     "bee"
@@ -486,27 +389,20 @@
   "lion": [
     "lion_face"
   ],
-  "artificial_satellite": [
+  "satellite": [
+    "artificial_satellite",
     "satellite_orbital"
   ],
   "computer_mouse": [
     "mouse_three_button",
     "three_button_mouse"
   ],
-  "hocho": [
-    "knife"
-  ],
-  "swimming_man": [
-    "swimmer"
-  ],
   "wind_face": [
     "wind_blowing_face"
   ],
-  "golfing_man": [
-    "golfer"
-  ],
-  "facepunch": [
-    "punch"
+  "man_golfing": [
+    "golfer",
+    "golfing_man"
   ],
   "building_construction": [
     "construction_site"
@@ -516,9 +412,6 @@
   ],
   "ice_hockey": [
     "hockey"
-  ],
-  "snowman_with_snow": [
-    "snowman2"
   ],
   "play_or_pause_button": [
     "play_pause"
@@ -542,12 +435,9 @@
     "pen_ballpoint",
     "lower_left_ballpoint_pen"
   ],
-  "email": [
-    "envelope",
-    "e-mail"
-  ],
-  "phone": [
-    "telephone"
+  "e-mail": [
+    "e_mail",
+    "email"
   ],
   "atom_symbol": [
     "atom"
@@ -564,35 +454,44 @@
   "balance_scale": [
     "scales"
   ],
-  "surfing_man": [
+  "person_surfing": [
     "surfer"
   ],
-  "couplekiss_man_woman": [
+  "man_surfing": [
+    "surfing_man"
+  ],
+  "couple_with_heart_man_man": [
+    "male_couple_with_heart",
+    "kiss_man_man",
+    "male_couplekiss",
+    "couplekiss_man_man"
+  ],
+  "couple_with_heart": [
+    "kiss",
+    "couple_with_heart_woman_man",
+    "couplekiss_man_woman",
     "couplekiss"
   ],
-  "couple_with_heart_woman_man": [
-    "couple_with_heart"
+  "couple_with_heart_woman_woman": [
+    "female_couple_with_heart",
+    "couplekiss_woman_woman",
+    "female_couplekiss",
+    "kiss_woman_woman"
   ],
   "clamp": [
     "compression"
   ],
-  "dancing_women": [
-    "dancers"
-  ],
-  "blonde_man": [
-    "person_with_blond_hair"
-  ],
-  "sleeping_bed": [
-    "sleeping_accommodation"
+  "person_in_bed": [
+    "sleeping_accommodation",
+    "sleeping_bed"
   ],
   "om": [
     "om_symbol"
   ],
-  "tipping_hand_woman": [
-    "information_desk_person"
-  ],
-  "rowing_man": [
-    "rowboat"
+  "man_rowing_boat": [
+    "rowing_boat",
+    "rowboat",
+    "rowing_man"
   ],
   "new_moon": [
     "moon"
@@ -626,7 +525,8 @@
     "grin"
   ],
   "grinning_squinting_face": [
-    "laughing"
+    "laughing",
+    "satisfied"
   ],
   "grinning_face_with_sweat": [
     "sweat_smile"
@@ -679,9 +579,6 @@
   "squinting_face_with_tongue": [
     "stuck_out_tongue_closed_eyes"
   ],
-  "smiling_face_with_open_hands": [
-    "hugs"
-  ],
   "thinking_face": [
     "thinking"
   ],
@@ -720,9 +617,6 @@
   ],
   "face_with_crossed_out_eyes": [
     "dizzy_face"
-  ],
-  "smiling_face_with_sunglasses": [
-    "sunglasses"
   ],
   "confused_face": [
     "confused"
@@ -799,9 +693,6 @@
   "angry_face_with_horns": [
     "imp"
   ],
-  "pile_of_poo": [
-    "poop"
-  ],
   "ogre": [
     "japanese_ogre"
   ],
@@ -854,13 +745,11 @@
     "heartbeat"
   ],
   "heart_exclamation": [
-    "heavy_heart_exclamation"
+    "heavy_heart_exclamation",
+    "heavy_heart_exclamation_mark_ornament"
   ],
   "red_heart": [
     "heart"
-  ],
-  "kiss_mark": [
-    "kiss"
   ],
   "hundred_points": [
     "100"
@@ -880,14 +769,8 @@
   "waving_hand": [
     "wave"
   ],
-  "hand_with_fingers_splayed": [
-    "raised_hand_with_fingers_splayed"
-  ],
   "victory_hand": [
     "v"
-  ],
-  "sign_of_the_horns": [
-    "metal"
   ],
   "backhand_index_pointing_left": [
     "point_left"
@@ -898,9 +781,6 @@
   "backhand_index_pointing_up": [
     "point_up_2"
   ],
-  "middle_finger": [
-    "fu"
-  ],
   "backhand_index_pointing_down": [
     "point_down"
   ],
@@ -908,16 +788,19 @@
     "point_up"
   ],
   "thumbs_up": [
-    "+1"
+    "+1",
+    "thumbsup"
   ],
   "thumbs_down": [
-    "-1"
+    "-1",
+    "thumbsdown"
   ],
   "raised_fist": [
     "fist"
   ],
   "oncoming_fist": [
-    "facepunch"
+    "facepunch",
+    "punch"
   ],
   "left_facing_fist": [
     "fist_left"
@@ -950,7 +833,7 @@
     "adult"
   ],
   "person_blond_hair": [
-    "blonde_man"
+    "person_with_blond_hair"
   ],
   "person_beard": [
     "bearded_person"
@@ -976,14 +859,12 @@
   "woman_blond_hair": [
     "blonde_woman"
   ],
+  "man_blond_hair": [
+    "blonde_man"
+  ],
   "older_person": [
+    "old_person",
     "older_adult"
-  ],
-  "old_man": [
-    "older_man"
-  ],
-  "old_woman": [
-    "older_woman"
   ],
   "man_frowning": [
     "frowning_man"
@@ -1003,6 +884,9 @@
   "woman_gesturing_no": [
     "no_good_woman"
   ],
+  "person_gesturing_no": [
+    "no_good"
+  ],
   "man_gesturing_ok": [
     "ok_man"
   ],
@@ -1015,26 +899,23 @@
   "woman_tipping_hand": [
     "tipping_hand_woman"
   ],
+  "person_tipping_hand": [
+    "information_desk_person"
+  ],
   "man_raising_hand": [
     "raising_hand_man"
   ],
   "woman_raising_hand": [
     "raising_hand_woman"
   ],
-  "person_bowing": [
-    "bowing_man"
+  "person_raising_hand": [
+    "raising_hand"
   ],
   "woman_bowing": [
     "bowing_woman"
   ],
-  "police_officer": [
-    "policeman"
-  ],
   "woman_police_officer": [
     "policewoman"
-  ],
-  "detective": [
-    "male_detective"
   ],
   "woman_detective": [
     "female_detective"
@@ -1045,23 +926,20 @@
   "woman_guard": [
     "guardswoman"
   ],
+  "person_with_skullcap": [
+    "man_with_gua_pi_mao"
+  ],
   "construction_worker": [
     "construction_worker_man"
   ],
   "woman_construction_worker": [
     "construction_worker_woman"
   ],
-  "person_wearing_turban": [
-    "man_with_turban"
-  ],
   "woman_wearing_turban": [
     "woman_with_turban"
   ],
-  "person_with_skullcap": [
-    "man_with_gua_pi_mao"
-  ],
-  "person_in_tuxedo": [
-    "man_in_tuxedo"
+  "man_wearing_turban": [
+    "man_with_turban"
   ],
   "person_with_veil": [
     "bride_with_veil"
@@ -1079,16 +957,17 @@
     "massage_man"
   ],
   "woman_getting_massage": [
-    "massage_woman"
+    "massage_woman",
+    "massage"
+  ],
+  "person_getting_haircut": [
+    "haircut"
   ],
   "man_getting_haircut": [
     "haircut_man"
   ],
   "woman_getting_haircut": [
     "haircut_woman"
-  ],
-  "person_walking": [
-    "walking_man"
   ],
   "woman_walking": [
     "walking_woman"
@@ -1099,77 +978,69 @@
   "woman_with_white_cane": [
     "woman_with_probing_cane"
   ],
-  "person_running": [
-    "running_man"
-  ],
   "woman_running": [
     "running_woman"
+  ],
+  "man_running": [
+    "running_man",
+    "runner"
   ],
   "woman_dancing": [
     "dancer"
   ],
-  "person_in_suit_levitating": [
-    "business_suit_levitating"
-  ],
   "people_with_bunny_ears": [
-    "dancing_women"
+    "dancing_women",
+    "dancers"
+  ],
+  "person_in_suit_levitating": [
+    "business_suit_levitating",
+    "man_in_business_suit_levitating",
+    "levitate"
   ],
   "men_with_bunny_ears": [
     "dancing_men"
   ],
-  "person_golfing": [
-    "golfing_man"
-  ],
   "woman_golfing": [
     "golfing_woman"
-  ],
-  "person_surfing": [
-    "surfing_man"
   ],
   "woman_surfing": [
     "surfing_woman"
   ],
-  "person_rowing_boat": [
-    "rowing_man"
-  ],
   "woman_rowing_boat": [
     "rowing_woman"
-  ],
-  "person_swimming": [
-    "swimming_man"
   ],
   "woman_swimming": [
     "swimming_woman"
   ],
-  "person_bouncing_ball": [
-    "basketball_man"
+  "man_swimming": [
+    "swimming_man",
+    "swimmer"
   ],
   "woman_bouncing_ball": [
     "basketball_woman"
   ],
-  "person_lifting_weights": [
-    "weight_lifting_man"
-  ],
   "woman_lifting_weights": [
     "weight_lifting_woman"
   ],
-  "person_biking": [
-    "biking_man"
+  "man_lifting_weights": [
+    "weight_lifting_man"
+  ],
+  "man_biking": [
+    "biking_man",
+    "bicyclist"
   ],
   "woman_biking": [
     "biking_woman"
   ],
-  "person_mountain_biking": [
-    "mountain_biking_man"
-  ],
   "woman_mountain_biking": [
     "mountain_biking_woman"
   ],
+  "man_mountain_biking": [
+    "mountain_biking_man",
+    "mountain_bicyclist"
+  ],
   "person_taking_bath": [
     "bath"
-  ],
-  "person_in_bed": [
-    "sleeping_bed"
   ],
   "women_holding_hands": [
     "two_women_holding_hands"
@@ -1179,18 +1050,6 @@
   ],
   "men_holding_hands": [
     "two_men_holding_hands"
-  ],
-  "kiss": [
-    "couplekiss_man_woman"
-  ],
-  "kiss_man_man": [
-    "couplekiss_man_man"
-  ],
-  "kiss_woman_woman": [
-    "couplekiss_woman_woman"
-  ],
-  "couple_with_heart": [
-    "couple_with_heart_woman_man"
   ],
   "family": [
     "family_man_woman_boy"
@@ -1269,9 +1128,6 @@
   ],
   "spiral_shell": [
     "shell"
-  ],
-  "lady_beetle": [
-    "beetle"
   ],
   "sheaf_of_rice": [
     "ear_of_rice"
@@ -1355,10 +1211,12 @@
     "ice_cube"
   ],
   "fork_and_knife_with_plate": [
+    "fork_knife_plate",
     "plate_with_cutlery"
   ],
   "kitchen_knife": [
-    "hocho"
+    "hocho",
+    "knife"
   ],
   "globe_showing_europe_africa": [
     "earth_africa"
@@ -1369,29 +1227,21 @@
   "globe_showing_asia_australia": [
     "earth_asia"
   ],
-  "map_of_japan": [
-    "japan"
-  ],
   "snow_capped_mountain": [
     "mountain_snow"
   ],
   "beach_with_umbrella": [
-    "beach_umbrella"
+    "beach_umbrella",
+    "parasol_on_ground"
   ],
   "office_building": [
     "office"
-  ],
-  "japanese_post_office": [
-    "post_office"
   ],
   "post_office": [
     "european_post_office"
   ],
   "castle": [
     "european_castle"
-  ],
-  "cityscape_at_dusk": [
-    "city_sunset"
   ],
   "sunset": [
     "city_sunrise"
@@ -1445,10 +1295,8 @@
     "flight_departure"
   ],
   "airplane_arrival": [
-    "flight_arrival"
-  ],
-  "satellite": [
-    "artificial_satellite"
+    "flight_arrival",
+    "airplane_arriving"
   ],
   "hourglass_done": [
     "hourglass"
@@ -1552,18 +1400,6 @@
   "shooting_star": [
     "stars"
   ],
-  "sun_behind_cloud": [
-    "partly_sunny"
-  ],
-  "umbrella": [
-    "open_umbrella"
-  ],
-  "umbrella_with_rain_drops": [
-    "umbrella"
-  ],
-  "umbrella_on_ground": [
-    "parasol_on_ground"
-  ],
   "high_voltage": [
     "zap"
   ],
@@ -1571,7 +1407,7 @@
     "snowman_with_snow"
   ],
   "snowman_without_snow": [
-    "snowman"
+    "snowman2"
   ],
   "water_wave": [
     "ocean"
@@ -1600,20 +1436,11 @@
   "admission_tickets": [
     "tickets"
   ],
-  "military_medal": [
-    "medal_military"
-  ],
-  "sports_medal": [
-    "medal_sports"
-  ],
   "soccer_ball": [
     "soccer"
   ],
   "american_football": [
     "football"
-  ],
-  "cricket_game": [
-    "cricket_bat_and_ball"
   ],
   "in_hole": [
     "golf"
@@ -1670,7 +1497,8 @@
     "dark_sunglasses"
   ],
   "t_shirt": [
-    "tshirt"
+    "tshirt",
+    "shirt"
   ],
   "woman_s_clothes": [
     "womans_clothes"
@@ -1709,7 +1537,9 @@
     "mortar_board"
   ],
   "rescue_worker_s_helmet": [
-    "rescue_worker_helmet"
+    "rescue_worker_helmet",
+    "helmet_with_cross",
+    "helmet_with_white_cross"
   ],
   "gem_stone": [
     "gem"
@@ -1787,7 +1617,8 @@
     "izakaya_lantern"
   ],
   "rolled_up_newspaper": [
-    "newspaper_roll"
+    "newspaper_roll",
+    "newspaper2"
   ],
   "money_bag": [
     "moneybag"
@@ -1806,12 +1637,6 @@
   ],
   "chart_increasing_with_yen": [
     "chart"
-  ],
-  "envelope": [
-    "email"
-  ],
-  "e_mail": [
-    "e-mail"
   ],
   "closed_mailbox_with_raised_flag": [
     "mailbox"
@@ -1860,9 +1685,6 @@
   ],
   "white_cane": [
     "probing_cane"
-  ],
-  "satellite_antenna": [
-    "satellite"
   ],
   "roll_of_paper": [
     "roll_of_toilet_paper"
@@ -1991,7 +1813,9 @@
     "rewind"
   ],
   "last_track_button": [
-    "previous_track_button"
+    "previous_track_button",
+    "track_previous",
+    "previous_track"
   ],
   "upwards_button": [
     "arrow_up_small"
@@ -2084,7 +1908,8 @@
     "hash"
   ],
   "keycap_*": [
-    "asterisk"
+    "asterisk",
+    "keycap_star"
   ],
   "keycap_0": [
     "zero"
@@ -2265,7 +2090,8 @@
     "cote_divoire"
   ],
   "china": [
-    "cn"
+    "cn",
+    "flag_cn"
   ],
   "curaçao": [
     "curacao"
@@ -2274,22 +2100,22 @@
     "czech_republic"
   ],
   "germany": [
-    "de"
+    "de",
+    "flag_de"
   ],
   "ceuta_melilla": [
     "ceuta_and_melilla"
   ],
   "spain": [
-    "es"
+    "es",
+    "flag_es"
   ],
   "european_union": [
     "eu"
   ],
   "france": [
-    "fr"
-  ],
-  "united_kingdom": [
-    "uk"
+    "fr",
+    "flag_fr"
   ],
   "hong_kong_sar_china": [
     "hong_kong"
@@ -2298,13 +2124,16 @@
     "heard_and_mc_donald_islands"
   ],
   "italy": [
-    "it"
+    "it",
+    "flag_it"
   ],
   "japan": [
-    "jp"
+    "jp",
+    "flag_jp"
   ],
   "south_korea": [
-    "kr"
+    "kr",
+    "flag_kr"
   ],
   "north_macedonia": [
     "macedonia"
@@ -2316,7 +2145,8 @@
     "macau"
   ],
   "russia": [
-    "ru"
+    "ru",
+    "flag_ru"
   ],
   "svalbard_jan_mayen": [
     "svalbard_and_jan_mayen"
@@ -2328,6 +2158,12 @@
     "tr"
   ],
   "united_states": [
-    "us"
+    "us",
+    "flag_us"
+  ],
+  "united_kingdom": [
+    "uk",
+    "gb",
+    "flag_gb"
   ]
 }

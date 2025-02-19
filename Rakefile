@@ -11,14 +11,12 @@ task :generate do
 
   Rake::Task["db"].invoke
 
-  # needs to be run first as we use the standard
-  # if it doesn't exist in the set
-  Rake::Task["unicode"].invoke
-
   Rake::Task["fluentui_emoji"].invoke
   Rake::Task["noto_emoji"].invoke
   Rake::Task["twemoji"].invoke
   Rake::Task["openmoji"].invoke
+  Rake::Task["unicode"].invoke # used as fallback for other sets
 
+  Rake::Task["aliases"].invoke
   Rake::Task["missing_emojis"].invoke
 end

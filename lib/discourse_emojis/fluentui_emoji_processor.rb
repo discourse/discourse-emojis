@@ -24,9 +24,9 @@ module DiscourseEmojis
 
     def process_emoji(emoji_dir)
       metadata = load_metadata(emoji_dir)
-      return unless valid_metadata?(metadata)
+      emoji_name = valid_metadata?(metadata)
 
-      emoji_name = @supported_emojis[metadata["glyph"]]
+      return unless emoji_name
 
       if supports_skin_tones?(emoji_dir)
         process_skin_tone_emoji(emoji_dir, emoji_name)
@@ -47,8 +47,7 @@ module DiscourseEmojis
     def valid_metadata?(metadata)
       return false if metadata.nil?
       return false unless metadata["glyph"]
-
-      @supported_emojis.key?(metadata["glyph"])
+      @supported_emojis[DiscourseEmojis::Utils.force_emoji_presentation(metadata["glyph"])]
     end
 
     def supports_skin_tones?(emoji_dir)
@@ -58,7 +57,7 @@ module DiscourseEmojis
 
     def process_skin_tone_emoji(emoji_dir, emoji_name)
       # Process default version
-      default_svg = File.join(emoji_dir, "Default", "Color", "#{emoji_name}.svg")
+      default_svg = Dir.glob(File.join(emoji_dir, "Default", "Color", "*.svg")).first
       if File.exist?(default_svg)
         output_path = File.join(@output_dir, "#{emoji_name}.png")
         FileUtils.mkdir_p(File.dirname(output_path))
@@ -70,9 +69,7 @@ module DiscourseEmojis
       FileUtils.mkdir_p(base_output_dir)
 
       SKIN_TONE_LEVELS.each do |tone, level|
-        tone_name = tone.downcase
-        svg_name = "#{emoji_name}_color_#{tone_name}.svg"
-        svg_path = File.join(emoji_dir, tone, "Color", svg_name)
+        svg_path = Dir.glob(File.join(emoji_dir, tone, "Color", "*.svg")).first
 
         next unless File.exist?(svg_path)
         output_path = File.join(base_output_dir, "#{level}.png")
@@ -81,11 +78,8 @@ module DiscourseEmojis
     end
 
     def process_regular_emoji(emoji_dir, emoji_name)
-      # Try both with and without _color suffix
-      svg_path = File.join(emoji_dir, "Color", "#{emoji_name}.svg")
-      svg_path = File.join(emoji_dir, "Color", "#{emoji_name}_color.svg") unless File.exist?(
-        svg_path,
-      )
+      svg_path = Dir.glob(File.join(emoji_dir, "Color", "*.svg")).first
+
       return unless File.exist?(svg_path)
 
       output_path = File.join(@output_dir, "#{emoji_name}.png")
@@ -93,33 +87,48 @@ module DiscourseEmojis
       convert_svg_to_png(svg_path, output_path)
     end
 
+    require "fileutils"
+
     def convert_svg_to_png(svg_path, output_png)
       FileUtils.mkdir_p(File.dirname(output_png))
 
-      result =
+      # Step 1: Convert SVG to a larger PNG (e.g., 288x288).
+      # This uses rsvg-convert at a higher resolution.
+      intermediate_png = "#{output_png}.tmp.png"
+      step1_result =
         system(
           "rsvg-convert",
-          "-w",
-          "72",
-          "-h",
-          "72",
-          "--keep-aspect-ratio",
-          "--dpi-x",
-          "300",
-          "--dpi-y",
-          "300",
-          "-o",
-          output_png,
+          "--background-color=none",
+          "--width=288",
+          "--height=288",
+          "--output",
+          intermediate_png,
           svg_path,
         )
 
-      unless result
+      unless step1_result
         status = $?.nil? ? "unknown" : $?.exitstatus
-        puts "Conversion failed with status: #{status}"
+        puts "Conversion step 1 failed with status: #{status}"
         puts "Note: This requires librsvg2-bin to be installed."
         puts "Install with: brew install librsvg  # on macOS"
         puts "Or: sudo apt-get install librsvg2-bin  # on Ubuntu/Debian"
+        return
       end
+
+      # Step 2: Resize down to 72x72 using ImageMagick for smoother edges.
+      step2_result = system("magick", intermediate_png, "-resize", "72x72", output_png)
+
+      unless step2_result
+        status = $?.nil? ? "unknown" : $?.exitstatus
+        puts "Conversion step 2 (resize) failed with status: #{status}"
+        puts "Note: This requires ImageMagick to be installed."
+        puts "Install with: brew install imagemagick  # on macOS"
+        puts "Or: sudo apt-get install imagemagick  # on Ubuntu/Debian"
+        return
+      end
+
+      # Remove the temporary larger PNG
+      FileUtils.rm_f(intermediate_png)
     end
   end
 end
