@@ -13,7 +13,9 @@ require_relative "discourse_emojis/emoji_synchronizer"
 require_relative "discourse_emojis/unicode_emoji_extractor"
 require_relative "discourse_emojis/codepoints_emoji_processor"
 require_relative "discourse_emojis/fluentui_emoji_processor"
+require_relative "discourse_emojis/emoji_alias_creator"
 require_relative "discourse_emojis/utils"
+
 require_relative "discourse_emojis/railtie" if defined?(Rails)
 
 module DiscourseEmojis

@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require "discourse_emojis"
-
 task :fluentui_emoji do
   url = "https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip"
   asset_subdir = File.join("fluentui-emoji-main", "assets")

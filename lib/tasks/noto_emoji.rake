@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require "discourse_emojis/codepoints_emoji_processor"
-
 task :noto_emoji do
   name = "noto"
 

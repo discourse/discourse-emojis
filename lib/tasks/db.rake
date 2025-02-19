@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 require "nokogiri"
 require "open-uri"
-require "discourse_emojis/constants"
-require "discourse_emojis/utils"
 require "i18n"
+require "discourse_emojis"
 
 def generate_emoji_lists(emoji_to_name_file, emojis_file)
   I18n.available_locales = [:en]
@@ -66,10 +65,7 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
     end
 
   File.open(emoji_to_name_file, "w") { |file| file.write(JSON.pretty_generate(mapping)) }
-  puts "Saved to#{emoji_to_name_file}"
-
   File.open(emojis_file, "w") { |file| file.write(JSON.pretty_generate(emojis)) }
-  puts "Saved to #{emojis_file}"
 end
 
 def generate_tonable_emoji_list(output_file)
@@ -81,7 +77,6 @@ def generate_tonable_emoji_list(output_file)
   end
 
   File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(fitzpatrick_emojis.uniq)) }
-  puts "Saved to #{output_file}"
 end
 
 def generate_search_aliases(output_file)
@@ -105,24 +100,18 @@ def generate_search_aliases(output_file)
     end
 
   File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(aliases)) }
-
-  puts "Saved to #{output_file}"
 end
 
 def generate_translations(output_file)
   File.open(output_file, "w") do |file|
     file.write(JSON.pretty_generate(DiscourseEmojis::TRANSLATIONS))
   end
-
-  puts "Saved to #{output_file}"
 end
 
 def generate_aliases(output_file)
   File.open(output_file, "w") do |file|
     file.write(JSON.pretty_generate(DiscourseEmojis::EMOJI_ALIASES))
   end
-
-  puts "Saved to #{output_file}"
 end
 
 def generate_groups(output_file)
@@ -155,22 +144,15 @@ def generate_groups(output_file)
       next unless emoji && current_group
 
       name = supported_emojis[emoji]
-
       next if name.nil?
 
-      # Check if the base emoji is tonable using your list
-      tonable = tonable_emojis.include?(name)
-
-      current_group[:icons] << { name:, tonable: tonable }
+      current_group[:icons] << { name:, tonable: tonable_emojis.include?(name) }
     end
   end
 
   emoji_groups << current_group
 
-  # Print the result in the desired format
   File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
-
-  puts "Saved to #{output_file}"
 end
 
 task :db do

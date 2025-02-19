@@ -9,8 +9,3 @@ group :development do
   gem "rubocop-discourse"
   gem "syntax_tree"
 end
-
-group :development, :test do
-  gem "rspec-rails"
-  gem "rails-controller-testing"
-end
