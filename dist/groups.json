@@ -7936,5 +7936,1110 @@
       }
     ],
     "tabicon": "white_check_mark"
+  },
+  {
+    "name": "flags",
+    "icons": [
+      {
+        "name": "chequered_flag",
+        "tonable": false
+      },
+      {
+        "name": "triangular_flag",
+        "tonable": false
+      },
+      {
+        "name": "crossed_flags",
+        "tonable": false
+      },
+      {
+        "name": "black_flag",
+        "tonable": false
+      },
+      {
+        "name": "white_flag",
+        "tonable": false
+      },
+      {
+        "name": "white_flag",
+        "tonable": false
+      },
+      {
+        "name": "rainbow_flag",
+        "tonable": false
+      },
+      {
+        "name": "rainbow_flag",
+        "tonable": false
+      },
+      {
+        "name": "transgender_flag",
+        "tonable": false
+      },
+      {
+        "name": "transgender_flag",
+        "tonable": false
+      },
+      {
+        "name": "transgender_flag",
+        "tonable": false
+      },
+      {
+        "name": "transgender_flag",
+        "tonable": false
+      },
+      {
+        "name": "pirate_flag",
+        "tonable": false
+      },
+      {
+        "name": "pirate_flag",
+        "tonable": false
+      },
+      {
+        "name": "ascension_island",
+        "tonable": false
+      },
+      {
+        "name": "andorra",
+        "tonable": false
+      },
+      {
+        "name": "united_arab_emirates",
+        "tonable": false
+      },
+      {
+        "name": "afghanistan",
+        "tonable": false
+      },
+      {
+        "name": "antigua_barbuda",
+        "tonable": false
+      },
+      {
+        "name": "anguilla",
+        "tonable": false
+      },
+      {
+        "name": "albania",
+        "tonable": false
+      },
+      {
+        "name": "armenia",
+        "tonable": false
+      },
+      {
+        "name": "angola",
+        "tonable": false
+      },
+      {
+        "name": "antarctica",
+        "tonable": false
+      },
+      {
+        "name": "argentina",
+        "tonable": false
+      },
+      {
+        "name": "american_samoa",
+        "tonable": false
+      },
+      {
+        "name": "austria",
+        "tonable": false
+      },
+      {
+        "name": "australia",
+        "tonable": false
+      },
+      {
+        "name": "aruba",
+        "tonable": false
+      },
+      {
+        "name": "aland_islands",
+        "tonable": false
+      },
+      {
+        "name": "azerbaijan",
+        "tonable": false
+      },
+      {
+        "name": "bosnia_herzegovina",
+        "tonable": false
+      },
+      {
+        "name": "barbados",
+        "tonable": false
+      },
+      {
+        "name": "bangladesh",
+        "tonable": false
+      },
+      {
+        "name": "belgium",
+        "tonable": false
+      },
+      {
+        "name": "burkina_faso",
+        "tonable": false
+      },
+      {
+        "name": "bulgaria",
+        "tonable": false
+      },
+      {
+        "name": "bahrain",
+        "tonable": false
+      },
+      {
+        "name": "burundi",
+        "tonable": false
+      },
+      {
+        "name": "benin",
+        "tonable": false
+      },
+      {
+        "name": "st_barthelemy",
+        "tonable": false
+      },
+      {
+        "name": "bermuda",
+        "tonable": false
+      },
+      {
+        "name": "brunei",
+        "tonable": false
+      },
+      {
+        "name": "bolivia",
+        "tonable": false
+      },
+      {
+        "name": "caribbean_netherlands",
+        "tonable": false
+      },
+      {
+        "name": "brazil",
+        "tonable": false
+      },
+      {
+        "name": "bahamas",
+        "tonable": false
+      },
+      {
+        "name": "bhutan",
+        "tonable": false
+      },
+      {
+        "name": "bouvet_island",
+        "tonable": false
+      },
+      {
+        "name": "botswana",
+        "tonable": false
+      },
+      {
+        "name": "belarus",
+        "tonable": false
+      },
+      {
+        "name": "belize",
+        "tonable": false
+      },
+      {
+        "name": "canada",
+        "tonable": false
+      },
+      {
+        "name": "cocos_keeling_islands",
+        "tonable": false
+      },
+      {
+        "name": "congo_kinshasa",
+        "tonable": false
+      },
+      {
+        "name": "central_african_republic",
+        "tonable": false
+      },
+      {
+        "name": "congo_brazzaville",
+        "tonable": false
+      },
+      {
+        "name": "switzerland",
+        "tonable": false
+      },
+      {
+        "name": "cote_d_ivoire",
+        "tonable": false
+      },
+      {
+        "name": "cook_islands",
+        "tonable": false
+      },
+      {
+        "name": "chile",
+        "tonable": false
+      },
+      {
+        "name": "cameroon",
+        "tonable": false
+      },
+      {
+        "name": "china",
+        "tonable": false
+      },
+      {
+        "name": "colombia",
+        "tonable": false
+      },
+      {
+        "name": "clipperton_island",
+        "tonable": false
+      },
+      {
+        "name": "costa_rica",
+        "tonable": false
+      },
+      {
+        "name": "cuba",
+        "tonable": false
+      },
+      {
+        "name": "cape_verde",
+        "tonable": false
+      },
+      {
+        "name": "curacao",
+        "tonable": false
+      },
+      {
+        "name": "christmas_island",
+        "tonable": false
+      },
+      {
+        "name": "cyprus",
+        "tonable": false
+      },
+      {
+        "name": "czechia",
+        "tonable": false
+      },
+      {
+        "name": "germany",
+        "tonable": false
+      },
+      {
+        "name": "diego_garcia",
+        "tonable": false
+      },
+      {
+        "name": "djibouti",
+        "tonable": false
+      },
+      {
+        "name": "denmark",
+        "tonable": false
+      },
+      {
+        "name": "dominica",
+        "tonable": false
+      },
+      {
+        "name": "dominican_republic",
+        "tonable": false
+      },
+      {
+        "name": "algeria",
+        "tonable": false
+      },
+      {
+        "name": "ceuta_melilla",
+        "tonable": false
+      },
+      {
+        "name": "ecuador",
+        "tonable": false
+      },
+      {
+        "name": "estonia",
+        "tonable": false
+      },
+      {
+        "name": "egypt",
+        "tonable": false
+      },
+      {
+        "name": "western_sahara",
+        "tonable": false
+      },
+      {
+        "name": "eritrea",
+        "tonable": false
+      },
+      {
+        "name": "spain",
+        "tonable": false
+      },
+      {
+        "name": "ethiopia",
+        "tonable": false
+      },
+      {
+        "name": "european_union",
+        "tonable": false
+      },
+      {
+        "name": "finland",
+        "tonable": false
+      },
+      {
+        "name": "fiji",
+        "tonable": false
+      },
+      {
+        "name": "falkland_islands",
+        "tonable": false
+      },
+      {
+        "name": "micronesia",
+        "tonable": false
+      },
+      {
+        "name": "faroe_islands",
+        "tonable": false
+      },
+      {
+        "name": "france",
+        "tonable": false
+      },
+      {
+        "name": "gabon",
+        "tonable": false
+      },
+      {
+        "name": "united_kingdom",
+        "tonable": false
+      },
+      {
+        "name": "grenada",
+        "tonable": false
+      },
+      {
+        "name": "georgia",
+        "tonable": false
+      },
+      {
+        "name": "french_guiana",
+        "tonable": false
+      },
+      {
+        "name": "guernsey",
+        "tonable": false
+      },
+      {
+        "name": "ghana",
+        "tonable": false
+      },
+      {
+        "name": "gibraltar",
+        "tonable": false
+      },
+      {
+        "name": "greenland",
+        "tonable": false
+      },
+      {
+        "name": "gambia",
+        "tonable": false
+      },
+      {
+        "name": "guinea",
+        "tonable": false
+      },
+      {
+        "name": "guadeloupe",
+        "tonable": false
+      },
+      {
+        "name": "equatorial_guinea",
+        "tonable": false
+      },
+      {
+        "name": "greece",
+        "tonable": false
+      },
+      {
+        "name": "south_georgia_south_sandwich_islands",
+        "tonable": false
+      },
+      {
+        "name": "guatemala",
+        "tonable": false
+      },
+      {
+        "name": "guam",
+        "tonable": false
+      },
+      {
+        "name": "guinea_bissau",
+        "tonable": false
+      },
+      {
+        "name": "guyana",
+        "tonable": false
+      },
+      {
+        "name": "hong_kong_sar_china",
+        "tonable": false
+      },
+      {
+        "name": "heard_mcdonald_islands",
+        "tonable": false
+      },
+      {
+        "name": "honduras",
+        "tonable": false
+      },
+      {
+        "name": "croatia",
+        "tonable": false
+      },
+      {
+        "name": "haiti",
+        "tonable": false
+      },
+      {
+        "name": "hungary",
+        "tonable": false
+      },
+      {
+        "name": "canary_islands",
+        "tonable": false
+      },
+      {
+        "name": "indonesia",
+        "tonable": false
+      },
+      {
+        "name": "ireland",
+        "tonable": false
+      },
+      {
+        "name": "israel",
+        "tonable": false
+      },
+      {
+        "name": "isle_of_man",
+        "tonable": false
+      },
+      {
+        "name": "india",
+        "tonable": false
+      },
+      {
+        "name": "british_indian_ocean_territory",
+        "tonable": false
+      },
+      {
+        "name": "iraq",
+        "tonable": false
+      },
+      {
+        "name": "iran",
+        "tonable": false
+      },
+      {
+        "name": "iceland",
+        "tonable": false
+      },
+      {
+        "name": "italy",
+        "tonable": false
+      },
+      {
+        "name": "jersey",
+        "tonable": false
+      },
+      {
+        "name": "jamaica",
+        "tonable": false
+      },
+      {
+        "name": "jordan",
+        "tonable": false
+      },
+      {
+        "name": "japan",
+        "tonable": false
+      },
+      {
+        "name": "kenya",
+        "tonable": false
+      },
+      {
+        "name": "kyrgyzstan",
+        "tonable": false
+      },
+      {
+        "name": "cambodia",
+        "tonable": false
+      },
+      {
+        "name": "kiribati",
+        "tonable": false
+      },
+      {
+        "name": "comoros",
+        "tonable": false
+      },
+      {
+        "name": "st_kitts_nevis",
+        "tonable": false
+      },
+      {
+        "name": "north_korea",
+        "tonable": false
+      },
+      {
+        "name": "south_korea",
+        "tonable": false
+      },
+      {
+        "name": "kuwait",
+        "tonable": false
+      },
+      {
+        "name": "cayman_islands",
+        "tonable": false
+      },
+      {
+        "name": "kazakhstan",
+        "tonable": false
+      },
+      {
+        "name": "laos",
+        "tonable": false
+      },
+      {
+        "name": "lebanon",
+        "tonable": false
+      },
+      {
+        "name": "st_lucia",
+        "tonable": false
+      },
+      {
+        "name": "liechtenstein",
+        "tonable": false
+      },
+      {
+        "name": "sri_lanka",
+        "tonable": false
+      },
+      {
+        "name": "liberia",
+        "tonable": false
+      },
+      {
+        "name": "lesotho",
+        "tonable": false
+      },
+      {
+        "name": "lithuania",
+        "tonable": false
+      },
+      {
+        "name": "luxembourg",
+        "tonable": false
+      },
+      {
+        "name": "latvia",
+        "tonable": false
+      },
+      {
+        "name": "libya",
+        "tonable": false
+      },
+      {
+        "name": "morocco",
+        "tonable": false
+      },
+      {
+        "name": "monaco",
+        "tonable": false
+      },
+      {
+        "name": "moldova",
+        "tonable": false
+      },
+      {
+        "name": "montenegro",
+        "tonable": false
+      },
+      {
+        "name": "st_martin",
+        "tonable": false
+      },
+      {
+        "name": "madagascar",
+        "tonable": false
+      },
+      {
+        "name": "marshall_islands",
+        "tonable": false
+      },
+      {
+        "name": "north_macedonia",
+        "tonable": false
+      },
+      {
+        "name": "mali",
+        "tonable": false
+      },
+      {
+        "name": "myanmar_burma",
+        "tonable": false
+      },
+      {
+        "name": "mongolia",
+        "tonable": false
+      },
+      {
+        "name": "macao_sar_china",
+        "tonable": false
+      },
+      {
+        "name": "northern_mariana_islands",
+        "tonable": false
+      },
+      {
+        "name": "martinique",
+        "tonable": false
+      },
+      {
+        "name": "mauritania",
+        "tonable": false
+      },
+      {
+        "name": "montserrat",
+        "tonable": false
+      },
+      {
+        "name": "malta",
+        "tonable": false
+      },
+      {
+        "name": "mauritius",
+        "tonable": false
+      },
+      {
+        "name": "maldives",
+        "tonable": false
+      },
+      {
+        "name": "malawi",
+        "tonable": false
+      },
+      {
+        "name": "mexico",
+        "tonable": false
+      },
+      {
+        "name": "malaysia",
+        "tonable": false
+      },
+      {
+        "name": "mozambique",
+        "tonable": false
+      },
+      {
+        "name": "namibia",
+        "tonable": false
+      },
+      {
+        "name": "new_caledonia",
+        "tonable": false
+      },
+      {
+        "name": "niger",
+        "tonable": false
+      },
+      {
+        "name": "norfolk_island",
+        "tonable": false
+      },
+      {
+        "name": "nigeria",
+        "tonable": false
+      },
+      {
+        "name": "nicaragua",
+        "tonable": false
+      },
+      {
+        "name": "netherlands",
+        "tonable": false
+      },
+      {
+        "name": "norway",
+        "tonable": false
+      },
+      {
+        "name": "nepal",
+        "tonable": false
+      },
+      {
+        "name": "nauru",
+        "tonable": false
+      },
+      {
+        "name": "niue",
+        "tonable": false
+      },
+      {
+        "name": "new_zealand",
+        "tonable": false
+      },
+      {
+        "name": "oman",
+        "tonable": false
+      },
+      {
+        "name": "panama",
+        "tonable": false
+      },
+      {
+        "name": "peru",
+        "tonable": false
+      },
+      {
+        "name": "french_polynesia",
+        "tonable": false
+      },
+      {
+        "name": "papua_new_guinea",
+        "tonable": false
+      },
+      {
+        "name": "philippines",
+        "tonable": false
+      },
+      {
+        "name": "pakistan",
+        "tonable": false
+      },
+      {
+        "name": "poland",
+        "tonable": false
+      },
+      {
+        "name": "st_pierre_miquelon",
+        "tonable": false
+      },
+      {
+        "name": "pitcairn_islands",
+        "tonable": false
+      },
+      {
+        "name": "puerto_rico",
+        "tonable": false
+      },
+      {
+        "name": "palestinian_territories",
+        "tonable": false
+      },
+      {
+        "name": "portugal",
+        "tonable": false
+      },
+      {
+        "name": "palau",
+        "tonable": false
+      },
+      {
+        "name": "paraguay",
+        "tonable": false
+      },
+      {
+        "name": "qatar",
+        "tonable": false
+      },
+      {
+        "name": "reunion",
+        "tonable": false
+      },
+      {
+        "name": "romania",
+        "tonable": false
+      },
+      {
+        "name": "serbia",
+        "tonable": false
+      },
+      {
+        "name": "russia",
+        "tonable": false
+      },
+      {
+        "name": "rwanda",
+        "tonable": false
+      },
+      {
+        "name": "saudi_arabia",
+        "tonable": false
+      },
+      {
+        "name": "solomon_islands",
+        "tonable": false
+      },
+      {
+        "name": "seychelles",
+        "tonable": false
+      },
+      {
+        "name": "sudan",
+        "tonable": false
+      },
+      {
+        "name": "sweden",
+        "tonable": false
+      },
+      {
+        "name": "singapore",
+        "tonable": false
+      },
+      {
+        "name": "st_helena",
+        "tonable": false
+      },
+      {
+        "name": "slovenia",
+        "tonable": false
+      },
+      {
+        "name": "svalbard_jan_mayen",
+        "tonable": false
+      },
+      {
+        "name": "slovakia",
+        "tonable": false
+      },
+      {
+        "name": "sierra_leone",
+        "tonable": false
+      },
+      {
+        "name": "san_marino",
+        "tonable": false
+      },
+      {
+        "name": "senegal",
+        "tonable": false
+      },
+      {
+        "name": "somalia",
+        "tonable": false
+      },
+      {
+        "name": "suriname",
+        "tonable": false
+      },
+      {
+        "name": "south_sudan",
+        "tonable": false
+      },
+      {
+        "name": "sao_tome_principe",
+        "tonable": false
+      },
+      {
+        "name": "el_salvador",
+        "tonable": false
+      },
+      {
+        "name": "sint_maarten",
+        "tonable": false
+      },
+      {
+        "name": "syria",
+        "tonable": false
+      },
+      {
+        "name": "eswatini",
+        "tonable": false
+      },
+      {
+        "name": "tristan_da_cunha",
+        "tonable": false
+      },
+      {
+        "name": "turks_caicos_islands",
+        "tonable": false
+      },
+      {
+        "name": "chad",
+        "tonable": false
+      },
+      {
+        "name": "french_southern_territories",
+        "tonable": false
+      },
+      {
+        "name": "togo",
+        "tonable": false
+      },
+      {
+        "name": "thailand",
+        "tonable": false
+      },
+      {
+        "name": "tajikistan",
+        "tonable": false
+      },
+      {
+        "name": "tokelau",
+        "tonable": false
+      },
+      {
+        "name": "timor_leste",
+        "tonable": false
+      },
+      {
+        "name": "turkmenistan",
+        "tonable": false
+      },
+      {
+        "name": "tunisia",
+        "tonable": false
+      },
+      {
+        "name": "tonga",
+        "tonable": false
+      },
+      {
+        "name": "turkiye",
+        "tonable": false
+      },
+      {
+        "name": "trinidad_tobago",
+        "tonable": false
+      },
+      {
+        "name": "tuvalu",
+        "tonable": false
+      },
+      {
+        "name": "taiwan",
+        "tonable": false
+      },
+      {
+        "name": "tanzania",
+        "tonable": false
+      },
+      {
+        "name": "ukraine",
+        "tonable": false
+      },
+      {
+        "name": "uganda",
+        "tonable": false
+      },
+      {
+        "name": "us_outlying_islands",
+        "tonable": false
+      },
+      {
+        "name": "united_nations",
+        "tonable": false
+      },
+      {
+        "name": "united_states",
+        "tonable": false
+      },
+      {
+        "name": "uruguay",
+        "tonable": false
+      },
+      {
+        "name": "uzbekistan",
+        "tonable": false
+      },
+      {
+        "name": "vatican_city",
+        "tonable": false
+      },
+      {
+        "name": "st_vincent_grenadines",
+        "tonable": false
+      },
+      {
+        "name": "venezuela",
+        "tonable": false
+      },
+      {
+        "name": "british_virgin_islands",
+        "tonable": false
+      },
+      {
+        "name": "us_virgin_islands",
+        "tonable": false
+      },
+      {
+        "name": "vietnam",
+        "tonable": false
+      },
+      {
+        "name": "vanuatu",
+        "tonable": false
+      },
+      {
+        "name": "wallis_futuna",
+        "tonable": false
+      },
+      {
+        "name": "samoa",
+        "tonable": false
+      },
+      {
+        "name": "kosovo",
+        "tonable": false
+      },
+      {
+        "name": "yemen",
+        "tonable": false
+      },
+      {
+        "name": "mayotte",
+        "tonable": false
+      },
+      {
+        "name": "south_africa",
+        "tonable": false
+      },
+      {
+        "name": "zambia",
+        "tonable": false
+      },
+      {
+        "name": "zimbabwe",
+        "tonable": false
+      },
+      {
+        "name": "england",
+        "tonable": false
+      },
+      {
+        "name": "scotland",
+        "tonable": false
+      },
+      {
+        "name": "wales",
+        "tonable": false
+      }
+    ]
   }
 ]

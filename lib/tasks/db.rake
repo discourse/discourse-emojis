@@ -146,19 +146,24 @@ def generate_groups(output_file)
       current_group = { name: line.sub("# group: ", "").strip.downcase.gsub(/ /, "_"), icons: [] }
     elsif !line.start_with?("#") && !line.empty?
       before_comment, after_comment = line.split("#", 2)
+
       next unless after_comment
 
       emoji = DiscourseEmojis::Utils.force_emoji_presentation(after_comment.strip.split.first)
       next unless emoji && current_group
 
       name = supported_emojis[emoji]
+
       next if name.nil?
 
       # Check if the base emoji is tonable using your list
       tonable = tonable_emojis.include?(name)
+
       current_group[:icons] << { name:, tonable: tonable }
     end
   end
+
+  emoji_groups << current_group
 
   # Print the result in the desired format
   File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
