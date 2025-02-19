@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "rake"
+require "bundler/gem_tasks"
 
 Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |task| import(task) }
 
