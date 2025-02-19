@@ -19,5 +19,4 @@ task :generate do
 
   Rake::Task["aliases"].invoke
   Rake::Task["missing_emojis"].invoke
-  Rake::Task["deprecated_symlinks"].invoke
 end
