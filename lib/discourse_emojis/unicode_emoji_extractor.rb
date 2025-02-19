@@ -7,7 +7,7 @@ require_relative "constants"
 
 module DiscourseEmojis
   # The UnicodeEmojiExtractor processes HTML files containing emoji data from the Unicode consortium.
-  # It extracts emoji images and their variations (like skin tones) from base64-encoded images in
+  # It extracts emoji images and their skin tones variations from base64-encoded images in
   # the HTML files and saves them to the appropriate directories in the project's emoji system.
   #
   # The extractor handles two types of files:

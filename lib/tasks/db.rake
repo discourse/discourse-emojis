@@ -148,7 +148,7 @@ def generate_groups(output_file)
       before_comment, after_comment = line.split("#", 2)
       next unless after_comment
 
-      emoji = after_comment.strip.split.first
+      emoji = DiscourseEmojis::Utils.force_emoji_presentation(after_comment.strip.split.first)
       next unless emoji && current_group
 
       name = supported_emojis[emoji]
