@@ -16,7 +16,10 @@ module DiscourseEmojis
   }
 
   EMOJI_ALIASES = {
+    "st_barthelemy" => ["st_barthélemy"],
     "pinata" => ["piñata"],
+    "reunion" => ["réunion"],
+    "sao_tome_principe" => ["são_tomé_príncipe"],
     "x_ray" => ["xray"],
     "right_anger_bubble" => ["anger_right"],
     "ballot_box" => ["ballot_box_with_ballot"],
@@ -147,7 +150,7 @@ module DiscourseEmojis
     "national_park" => ["park"],
     "world_map" => ["map"],
     "pen" => %w[pen_ballpoint lower_left_ballpoint_pen],
-    "e-mail" => %w[e_mail email],
+    "e_mail" => %w[e-mail email],
     "atom_symbol" => ["atom"],
     "mantelpiece_clock" => ["clock"],
     "camera_flash" => ["camera_with_flash"],

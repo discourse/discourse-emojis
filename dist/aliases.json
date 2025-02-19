@@ -1,6 +1,15 @@
 {
+  "st_barthelemy": [
+    "st_barthélemy"
+  ],
   "pinata": [
     "piñata"
+  ],
+  "reunion": [
+    "réunion"
+  ],
+  "sao_tome_principe": [
+    "são_tomé_príncipe"
   ],
   "x_ray": [
     "xray"
@@ -435,8 +444,8 @@
     "pen_ballpoint",
     "lower_left_ballpoint_pen"
   ],
-  "e-mail": [
-    "e_mail",
+  "e_mail": [
+    "e-mail",
     "email"
   ],
   "atom_symbol": [
