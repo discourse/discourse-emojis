@@ -57,7 +57,9 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
               .gsub("flag_", "")
               .gsub("_&_", "_")
 
-          mapping[emoji_char] = I18n.transliterate(name)
+          name = I18n.transliterate(name)
+
+          mapping[emoji_char] = name
 
           emojis << { name:, code: codepoint.gsub("_", "-") }
         end
