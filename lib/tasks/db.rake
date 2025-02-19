@@ -2,7 +2,6 @@
 require "nokogiri"
 require "open-uri"
 require "i18n"
-require "discourse_emojis"
 
 def generate_emoji_lists(emoji_to_name_file, emojis_file)
   I18n.available_locales = [:en]
