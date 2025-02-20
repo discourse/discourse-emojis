@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
 module DiscourseEmojis
-  FITZPATRICK_SCALE = { "1f3fb" => 1, "1f3fc" => 2, "1f3fd" => 3, "1f3fe" => 4, "1f3ff" => 5 }
+  # 1 is default
+  FITZPATRICK_SCALE = { "1f3fb" => 2, "1f3fc" => 3, "1f3fd" => 4, "1f3fe" => 5, "1f3ff" => 6 }
 
   EMOJI_GROUPS = {
     "smileys_&_emotion" => "grinning",

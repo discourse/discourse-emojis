@@ -28,11 +28,11 @@ module DiscourseEmojis
     # and convert the SVG files into properly formatted PNG images.
 
     SKIN_TONE_LEVELS = {
-      "Light" => 1,
-      "Medium-Light" => 2,
-      "Medium" => 3,
-      "Medium-Dark" => 4,
-      "Dark" => 5,
+      "Light" => 2,
+      "Medium-Light" => 3,
+      "Medium" => 4,
+      "Medium-Dark" => 5,
+      "Dark" => 6,
     }
 
     OUTPUT_DIR = "dist/emoji/fluentui"
