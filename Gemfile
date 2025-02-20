@@ -9,3 +9,7 @@ group :development do
   gem "rubocop-discourse"
   gem "syntax_tree"
 end
+
+group :test do
+  gem 'rspec'
+end
