@@ -16,6 +16,7 @@ module DiscourseEmojis
         "google" => "noto",
         "google_classic" => "noto",
         "win10" => "fluentui",
+        "emoji_one" => "twitter",
       }
 
       DEPRECATED_SYMLINKS.each do |target, source|
