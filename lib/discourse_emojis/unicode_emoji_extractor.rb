@@ -39,13 +39,13 @@ module DiscourseEmojis
 
       process_file(EMOJI_LIST_FILE) do |row|
         codepoint = extract_codepoint(row)
-        next unless codepoint
+        next if !codepoint
 
         emoji_char = extract_emoji_char(row)
-        next unless emoji_char
+        next if !emoji_char
 
         image_data = extract_image_data(row)
-        next unless image_data
+        next if !image_data
 
         base_emojis[codepoint] = { char: emoji_char, image: image_data }
       end
@@ -58,14 +58,14 @@ module DiscourseEmojis
 
       process_file(EMOJI_MODIFIER_FILE) do |row|
         full_codepoint = extract_codepoint(row)
-        next unless full_codepoint&.include?("_")
+        next if !full_codepoint&.include?("_")
 
         parts = full_codepoint.split("_")
         modifier = parts.find { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }
         base = parts.reject { |part| part == modifier }.join("_")
 
         image_data = extract_image_data(row)
-        next unless image_data
+        next if !image_data
 
         variations << { base:, modifier:, image: image_data }
       end
@@ -84,7 +84,7 @@ module DiscourseEmojis
 
     def extract_codepoint(row)
       code_td = row.xpath("./td[2]").first
-      return unless code_td
+      return if !code_td
 
       link = code_td.at_xpath(".//a")
       link&.[]("name")
@@ -97,13 +97,13 @@ module DiscourseEmojis
 
     def extract_image_data(row)
       img_td = row.xpath("./td[4]").first
-      return unless img_td
+      return if !img_td
 
       img = img_td.at_xpath(".//img")
-      return unless img
+      return if !img
 
       src = img["src"]
-      return unless src&.start_with?("data:image/png;base64,")
+      return if !src&.start_with?("data:image/png;base64,")
 
       Base64.decode64(src.split(",").last)
     end
@@ -112,7 +112,7 @@ module DiscourseEmojis
       base_emojis.each do |codepoint, data|
         emoji_char = data[:char]
         emoji_name = @supported_emojis[DiscourseEmojis::Utils.force_emoji_presentation(emoji_char)]
-        next unless emoji_name
+        next if !emoji_name
 
         save_base_emoji(emoji_name, data[:image])
         save_variations(emoji_name, codepoint, variations)

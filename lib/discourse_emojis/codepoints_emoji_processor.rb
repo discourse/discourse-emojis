@@ -82,7 +82,7 @@ module DiscourseEmojis
         emoji = convert_to_emoji(base_codepoints)
         emoji_name = supported_emojis[emoji]
 
-        return unless emoji_name
+        return if !emoji_name
         return if fitzpatrick_level && !tonable_emojis.include?(emoji_name)
 
         save_emoji_image(file, output_dir, emoji_name, fitzpatrick_level)

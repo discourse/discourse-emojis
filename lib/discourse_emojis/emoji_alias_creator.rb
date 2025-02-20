@@ -22,7 +22,7 @@ module DiscourseEmojis
     private
 
     def emoji_dirs
-      Dir.glob("#{EMOJI_DIST_PATH}/*").select { |d| File.directory?(d) }
+      Dir.glob("#{DiscourseEmojis.path_for_emojis}/*").select { |d| File.directory?(d) }
     end
 
     def create_aliases_for_directory(dir)
@@ -45,7 +45,7 @@ module DiscourseEmojis
       FileUtils.cp(source_file, target_file)
 
       variations_dir = File.join(dir, original_name)
-      return unless File.directory?(variations_dir)
+      return if !File.directory?(variations_dir)
 
       create_tone_variations(dir, variations_dir, alias_name)
     end

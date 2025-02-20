@@ -54,7 +54,7 @@ module DiscourseEmojis
       base_name = File.basename(unicode_file, ".png")
       unicode_variations_dir = File.join(UNICODE_DIR, base_name)
 
-      return unless File.directory?(unicode_variations_dir)
+      return if !File.directory?(unicode_variations_dir)
 
       target_variations_dir = File.join(target_dir, base_name)
       FileUtils.mkdir_p(target_variations_dir)

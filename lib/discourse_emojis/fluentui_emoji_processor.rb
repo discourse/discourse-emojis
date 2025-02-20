@@ -52,7 +52,7 @@ module DiscourseEmojis
       metadata = load_metadata(emoji_dir)
       emoji_name = valid_metadata?(metadata)
 
-      return unless emoji_name
+      return if !emoji_name
 
       if supports_skin_tones?(emoji_dir)
         process_skin_tone_emoji(emoji_dir, emoji_name)
@@ -63,7 +63,7 @@ module DiscourseEmojis
 
     def load_metadata(emoji_dir)
       metadata_path = File.join(emoji_dir, "metadata.json")
-      return unless File.exist?(metadata_path)
+      return if !File.exist?(metadata_path)
 
       JSON.parse(File.read(metadata_path))
     rescue JSON::ParserError
@@ -72,7 +72,7 @@ module DiscourseEmojis
 
     def valid_metadata?(metadata)
       return false if metadata.nil?
-      return false unless metadata["glyph"]
+      return false if !metadata["glyph"]
       @supported_emojis[DiscourseEmojis::Utils.force_emoji_presentation(metadata["glyph"])]
     end
 
@@ -94,7 +94,7 @@ module DiscourseEmojis
 
       SKIN_TONE_LEVELS.each do |tone, level|
         svg_path = Dir.glob(File.join(emoji_dir, tone, "Color", "*.svg")).first
-        next unless File.exist?(svg_path)
+        next if !File.exist?(svg_path)
 
         output_path = File.join(base_output_dir, "#{level}.png")
         convert_svg_to_png(svg_path, output_path)
@@ -103,7 +103,7 @@ module DiscourseEmojis
 
     def process_regular_emoji(emoji_dir, emoji_name)
       svg_path = Dir.glob(File.join(emoji_dir, "Color", "*.svg")).first
-      return unless File.exist?(svg_path)
+      return if !File.exist?(svg_path)
 
       output_path = File.join(OUTPUT_DIR, "#{emoji_name}.png")
       FileUtils.mkdir_p(File.dirname(output_path))
@@ -124,14 +124,14 @@ module DiscourseEmojis
           svg_path,
         )
 
-      unless step1_result
+      if !step1_result
         status = $?.nil? ? "unknown" : $?.exitstatus
         puts "Conversion step 1 failed with status: #{status}"
         return
       end
 
       step2_result = system("magick", intermediate_png, "-resize", "72x72", output_png)
-      unless step2_result
+      if !step2_result
         status = $?.nil? ? "unknown" : $?.exitstatus
         puts "Conversion step 2 (resize) failed with status: #{status}"
         return

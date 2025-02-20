@@ -31,10 +31,6 @@ module DiscourseEmojis
     File.join(root, "dist")
   end
 
-  def self.emoji_dist_path
-    File.join(dist_path, "emoji")
-  end
-
   def self.paths
     {
       emojis: File.join(dist_path, "emojis.json"),

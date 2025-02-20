@@ -2,22 +2,25 @@
 
 require "rake"
 require "bundler/gem_tasks"
+require "discourse_emojis"
 
 Dir.glob(File.expand_path("lib/tasks/**/*.rake", __dir__)).each { |task| import(task) }
 
-desc "Generate all emoji sets"
-task :generate do
-  FileUtils.rm_rf("dist")
-  FileUtils.mkdir_p("dist")
+namespace :emojis do
+  desc "Generate all emoji sets"
+  task :generate do
+    FileUtils.rm_rf("dist")
+    FileUtils.mkdir_p("dist")
 
-  Rake::Task["db"].invoke
+    Rake::Task["emojis:db"].invoke
 
-  Rake::Task["fluentui_emoji"].invoke
-  Rake::Task["noto_emoji"].invoke
-  Rake::Task["twemoji"].invoke
-  Rake::Task["openmoji"].invoke
-  Rake::Task["unicode"].invoke # used as fallback for other sets
+    Rake::Task["emojis:fluentui_emoji"].invoke
+    Rake::Task["emojis:noto_emoji"].invoke
+    Rake::Task["emojis:twemoji"].invoke
+    Rake::Task["emojis:openmoji"].invoke
+    Rake::Task["emojis:unicode"].invoke # used as fallback for other sets
 
-  Rake::Task["aliases"].invoke
-  Rake::Task["missing_emojis"].invoke
+    Rake::Task["emojis:aliases"].invoke
+    Rake::Task["emojis:missing_emojis"].invoke
+  end
 end

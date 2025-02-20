@@ -9,11 +9,37 @@ A Discourse gem to provide all the necessary emoji data:
 - search aliases
 - groups
 
+## Setup
+
+You need to have [rsvg-convert](https://github.com/bvibber/librsvg) and [imagemagick](https://imagemagick.org/script/download.php) available on your system to run the rake task.
+
+### imagemagick
+
+On Debian or Ubuntu install:
+sudo apt-get install -y imagemagick
+
+On Fedora, CentOS or RHEL:
+sudo yum install imagemagick
+
+On OS-X:
+brew install imagemagick
+
+### librsvg
+
+On Debian or Ubuntu:
+sudo apt-get install -y librsvg2-dev
+
+On Fedora, CentOS or RHEL:
+sudo yum install librsvg2-devel
+
+On OS-X:
+brew install librsvg
+
 ## Updating the emojis
 
 The process sadly involves multiple manual steps ATM as the remote sources can be very slow to download. Depending on what you want to update, you will have to update the files in vendor/ and/or the URLs in each set rake task (fluentui, noto, openmoji, twemoji...).
 
-Once this is done, you should run the rake rask: `bundle exec rake generate`, this command should take few minutes. If the generated diff looks correct you can update the gem version and push the commit. The new gem verison will be auto released. You now just have to update discourse.
+Once this is done, you should run the rake rask: `bundle exec rake emojis:generate`, this command should take few minutes. If the generated diff looks correct you can update the gem version and push the commit. The new gem verison will be auto released. You now just have to update discourse.
 
 ## Current source of vendor files
 

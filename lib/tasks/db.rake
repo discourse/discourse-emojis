@@ -19,20 +19,20 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
         .each do |row|
           # Extract codepoint
           code_td = row.xpath("./td[2]").first
-          next unless code_td
+          next if !code_td
           link = code_td.at_xpath(".//a")
-          next unless link
+          next if !link
           codepoint = link["name"]
-          next unless codepoint
+          next if !codepoint
 
           # Extract name
           name_td = row.xpath("./td[9]").first
-          next unless name_td
+          next if !name_td
           name = name_td.text.strip
 
           # Extract emoji character
           chars_td = row.xpath("./td[3]").first
-          next unless chars_td
+          next if !chars_td
 
           emoji_char = DiscourseEmojis::Utils.force_emoji_presentation(chars_td.text.strip)
 
@@ -137,10 +137,10 @@ def generate_groups(output_file)
     elsif !line.start_with?("#") && !line.empty?
       before_comment, after_comment = line.split("#", 2)
 
-      next unless after_comment
+      next if !after_comment
 
       emoji = DiscourseEmojis::Utils.force_emoji_presentation(after_comment.strip.split.first)
-      next unless emoji && current_group
+      next if !emoji || !current_group
 
       name = supported_emojis[emoji]
       next if name.nil?
@@ -154,11 +154,14 @@ def generate_groups(output_file)
   File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
 end
 
-task :db do
-  generate_emoji_lists("./dist/emoji_to_name.json", "./dist/emojis.json")
-  generate_tonable_emoji_list("./dist/tonable_emojis.json")
-  generate_search_aliases("./dist/search_aliases.json")
-  generate_translations("./dist/translations.json")
-  generate_groups("./dist/groups.json")
-  generate_aliases("./dist/aliases.json")
+namespace :emojis do
+  desc "Generate specific lists of supported emoji data (aliases, translations, search aliases, names, groups, etc)"
+  task :db do
+    generate_emoji_lists("./dist/emoji_to_name.json", "./dist/emojis.json")
+    generate_tonable_emoji_list("./dist/tonable_emojis.json")
+    generate_search_aliases("./dist/search_aliases.json")
+    generate_translations("./dist/translations.json")
+    generate_groups("./dist/groups.json")
+    generate_aliases("./dist/aliases.json")
+  end
 end
