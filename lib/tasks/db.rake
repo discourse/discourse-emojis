@@ -153,6 +153,9 @@ def generate_groups(output_file)
 
   emoji_groups << current_group
 
+  # component is not a real group, it's only used in combination with other emojis
+  emoji_groups.delete_if { |hash| hash[:name] == "component" }
+
   File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
 end
 

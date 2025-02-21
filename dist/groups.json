@@ -2804,28 +2804,6 @@
     "tabicon": "wave"
   },
   {
-    "name": "component",
-    "icons": [
-      {
-        "name": "red_hair",
-        "tonable": false
-      },
-      {
-        "name": "curly_hair",
-        "tonable": false
-      },
-      {
-        "name": "white_hair",
-        "tonable": false
-      },
-      {
-        "name": "bald",
-        "tonable": false
-      }
-    ],
-    "tabicon": null
-  },
-  {
     "name": "animals_&_nature",
     "icons": [
       {
