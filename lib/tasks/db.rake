@@ -90,7 +90,7 @@ def generate_search_aliases(output_file)
       emoji = node.attr("cp")
       next if emoji.nil? || emoji.strip.empty?
 
-      name = supported_emojis[emoji]
+      name = supported_emojis[DiscourseEmojis::Utils.force_emoji_presentation(emoji)]
       next if name.nil?
 
       aliases[name] ||= []
