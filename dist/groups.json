@@ -2154,23 +2154,23 @@
       },
       {
         "name": "people_with_bunny_ears",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "men_with_bunny_ears",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "men_with_bunny_ears",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "women_with_bunny_ears",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "women_with_bunny_ears",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "person_in_steamy_room",
@@ -2474,23 +2474,23 @@
       },
       {
         "name": "people_wrestling",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "men_wrestling",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "men_wrestling",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "women_wrestling",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "women_wrestling",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "person_playing_water_polo",
@@ -2714,7 +2714,7 @@
       },
       {
         "name": "family_man_boy",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_man_boy_boy",
@@ -2722,7 +2722,7 @@
       },
       {
         "name": "family_man_girl",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_man_girl_boy",
@@ -2734,7 +2734,7 @@
       },
       {
         "name": "family_woman_boy",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_woman_boy_boy",
@@ -2742,7 +2742,7 @@
       },
       {
         "name": "family_woman_girl",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_woman_girl_boy",
@@ -2774,7 +2774,7 @@
       },
       {
         "name": "family",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_adult_adult_child",
@@ -2786,7 +2786,7 @@
       },
       {
         "name": "family_adult_child",
-        "tonable": true
+        "tonable": false
       },
       {
         "name": "family_adult_child_child",
@@ -7535,19 +7535,19 @@
         "tonable": false
       },
       {
-        "name": "keycap_#",
+        "name": "keycap_hash",
         "tonable": false
       },
       {
-        "name": "keycap_#",
+        "name": "keycap_hash",
         "tonable": false
       },
       {
-        "name": "keycap_*",
+        "name": "keycap_asterisk",
         "tonable": false
       },
       {
-        "name": "keycap_*",
+        "name": "keycap_asterisk",
         "tonable": false
       },
       {

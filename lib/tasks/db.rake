@@ -54,6 +54,8 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
               .gsub("⊛_", "")
               .gsub("flag_", "")
               .gsub("_&_", "_")
+              .gsub("keycap_#", "keycap_hash") # keycap_# can create issue with regexes
+              .gsub("keycap_*", "keycap_asterisk") # for parity with keycap_hash
 
           name = I18n.transliterate(name)
 

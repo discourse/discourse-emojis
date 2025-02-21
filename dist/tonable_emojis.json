@@ -243,9 +243,6 @@
   "woman_dancing",
   "man_dancing",
   "person_in_suit_levitating",
-  "people_with_bunny_ears",
-  "men_with_bunny_ears",
-  "women_with_bunny_ears",
   "person_in_steamy_room",
   "man_in_steamy_room",
   "woman_in_steamy_room",
@@ -281,9 +278,6 @@
   "person_cartwheeling",
   "man_cartwheeling",
   "woman_cartwheeling",
-  "people_wrestling",
-  "men_wrestling",
-  "women_wrestling",
   "person_playing_water_polo",
   "man_playing_water_polo",
   "woman_playing_water_polo",
@@ -308,11 +302,5 @@
   "couple_with_heart",
   "couple_with_heart_woman_man",
   "couple_with_heart_man_man",
-  "couple_with_heart_woman_woman",
-  "family_man_boy",
-  "family_man_girl",
-  "family_woman_boy",
-  "family_woman_girl",
-  "family",
-  "family_adult_child"
+  "couple_with_heart_woman_woman"
 ]

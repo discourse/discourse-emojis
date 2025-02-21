@@ -1910,10 +1910,12 @@
   "trade_mark": [
     "tm"
   ],
-  "keycap_#": [
-    "hash"
+  "keycap_hash": [
+    "hash",
+    "keycap_#"
   ],
-  "keycap_*": [
+  "keycap_asterisk": [
+    "keycap_*",
     "asterisk",
     "keycap_star"
   ],

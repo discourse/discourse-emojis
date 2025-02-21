@@ -7,14 +7,22 @@ module DiscourseEmojis
 
   class Utils
     def self.can_be_toned?(emoji)
-      two_family_emojis = %w[👩‍👦 👩‍👧 👨‍👧 👨‍👦].to_set
+      # these are only supported on a few platforms
+      not_widely_supported = %w[👨️‍👦️ 👨️‍👧️ 👩️‍👦️ 👩️‍👧️ 👪️ 🧑️‍🧒️].to_set
+
+      # Draft only. If approved by Unicode in late 2025,
+      # this emoji is likely to arrive on most platforms in 2026.
+      only_draft = %w[👯️ 👯️‍♂️ 👯️‍♀️ 🤼️ 🤼️‍♂️ 🤼️‍♀️].to_set
 
       emoji = emoji.gsub(/[#{SKIN_TONE_RANGE}]/, "")
 
       emoji_base_modifier_regex = /\p{Emoji_Modifier_Base}/
       modifiable_components = emoji.scan(emoji_base_modifier_regex).length
 
-      return false if modifiable_components > 2 || two_family_emojis.include?(emoji)
+      if modifiable_components > 2 || not_widely_supported.include?(emoji) ||
+           only_draft.include?(emoji)
+        return false
+      end
 
       emoji.chars.any? { |code_point| code_point.match?(emoji_base_modifier_regex) }
     end
