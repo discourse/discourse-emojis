@@ -11,12 +11,13 @@ module DiscourseEmojis
 
       # All the sets are defined in core discourse at app/models/emoji_set_site_setting.rb
       DEPRECATED_SYMLINKS = {
-        "apple" => "unicode",
+        "apple" => "twemoji",
         "facebook_messenger" => "unicode",
         "google" => "noto",
         "google_classic" => "noto",
         "win10" => "fluentui",
-        "emoji_one" => "twitter",
+        "emoji_one" => "twemoji",
+        "twitter" => "twemoji",
       }
 
       DEPRECATED_SYMLINKS.each do |target, source|

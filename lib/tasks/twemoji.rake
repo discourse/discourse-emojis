@@ -7,7 +7,7 @@ namespace :emojis do
       "twemoji",
       "https://github.com/jdecked/twemoji/archive/refs/tags/v15.1.0.zip",
       File.join("twemoji-15.1.0", "assets", "72x72"),
-      File.expand_path("../../dist/emoji/twitter", __dir__),
+      File.expand_path("../../dist/emoji/twemoji", __dir__),
     )
   end
 end
