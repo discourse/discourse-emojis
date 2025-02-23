@@ -22,5 +22,6 @@ namespace :emojis do
 
     Rake::Task["emojis:aliases"].invoke
     Rake::Task["emojis:missing_emojis"].invoke
+    Rake::Task["emojis:deprecated_symlinks"].invoke
   end
 end
