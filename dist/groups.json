@@ -869,11 +869,11 @@
         "tonable": true
       },
       {
-        "name": "thumbs_up",
+        "name": "+1",
         "tonable": true
       },
       {
-        "name": "thumbs_down",
+        "name": "-1",
         "tonable": true
       },
       {
