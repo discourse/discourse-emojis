@@ -46,7 +46,7 @@ module DiscourseEmojis
         next if !char
 
         image = extract_image_data(row)
-        next if image
+        next if !image
 
         base_emojis[codepoint] = { char:, image: }
       end

@@ -251,7 +251,7 @@ module DiscourseEmojis
     "growing_heart" => ["heartpulse"],
     "beating_heart" => ["heartbeat"],
     "heart_exclamation" => %w[heavy_heart_exclamation heavy_heart_exclamation_mark_ornament],
-    "red_heart" => ["heart"],
+    "heart" => ["red_heart"],
     "hundred_points" => ["100"],
     "anger_symbol" => ["anger"],
     "collision" => ["boom"],
