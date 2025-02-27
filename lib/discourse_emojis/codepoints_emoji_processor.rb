@@ -33,7 +33,9 @@ module DiscourseEmojis
     TONABLE_EMOJIS_PATH = "./dist/tonable_emojis.json"
 
     class << self
-      def process(name, url, asset_subdir, output_dir)
+      def process(name, url, asset_subdir)
+        output_dir = File.join(DiscourseEmojis.path_for_emojis, name)
+
         ZipProcessor.with_extracted_files(url) do |extract_path|
           asset_path = File.join(extract_path, asset_subdir)
           process_images(asset_path, output_dir)
