@@ -863,11 +863,11 @@
   "woman_white_hair": [
     "woman_white_haired"
   ],
-  "woman_blond_hair": [
-    "blonde_woman"
+  "blonde_woman": [
+    "woman_blond_hair"
   ],
-  "man_blond_hair": [
-    "blonde_man"
+  "blonde_man": [
+    "man_blond_hair"
   ],
   "older_person": [
     "old_person",

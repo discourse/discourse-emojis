@@ -59,6 +59,8 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
               .gsub("red_heart", "heart") # for legacy reasons
               .gsub("thumbs_up", "+1") # for legacy reasons
               .gsub("thumbs_down", "-1") # for legacy reasons
+              .gsub("woman_blond_hair", "blonde_woman") # for legacy reasons
+              .gsub("man_blond_hair", "blonde_man") # for legacy reasons
 
           name = I18n.transliterate(name)
 
