@@ -607,7 +607,8 @@
     "grimacing"
   ],
   "relieved_face": [
-    "relieved"
+    "relieved",
+    "relaxed"
   ],
   "pensive_face": [
     "pensive"
@@ -883,6 +884,9 @@
   ],
   "woman_pouting": [
     "pouting_woman"
+  ],
+  "person_pouting": [
+    "person_with_pouting_face"
   ],
   "man_gesturing_no": [
     "no_good_man"
@@ -1183,6 +1187,9 @@
   "ice": [
     "ice_cube"
   ],
+  "shushing_face": [
+    "sushing_face"
+  ],
   "fork_and_knife_with_plate": [
     "fork_knife_plate",
     "plate_with_cutlery"
@@ -1205,7 +1212,8 @@
   ],
   "beach_with_umbrella": [
     "beach_umbrella",
-    "parasol_on_ground"
+    "parasol_on_ground",
+    "beach"
   ],
   "office_building": [
     "office"

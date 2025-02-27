@@ -39,15 +39,16 @@ module DiscourseEmojis
 
       process_file(EMOJI_LIST_FILE) do |row|
         codepoint = extract_codepoint(row)
+
         next if !codepoint
 
-        emoji_char = extract_emoji_char(row)
-        next if !emoji_char
+        char = extract_emoji_char(row)
+        next if !char
 
-        image_data = extract_image_data(row)
-        next if !image_data
+        image = extract_image_data(row)
+        next if image
 
-        base_emojis[codepoint] = { char: emoji_char, image: image_data }
+        base_emojis[codepoint] = { char:, image: }
       end
 
       base_emojis
@@ -56,18 +57,69 @@ module DiscourseEmojis
     def parse_modifier_variations
       variations = []
 
+      needs_fe0f_base_code =
+        Set.new(
+          File
+            .readlines("./vendor/emoji-variation-sequences.txt")
+            .grep(/FE0F\s*;\s*emoji style;/)
+            .map { |line| line[/^([0-9A-F]+)/, 1].downcase },
+        )
+
       process_file(EMOJI_MODIFIER_FILE) do |row|
         full_codepoint = extract_codepoint(row)
-        next if !full_codepoint&.include?("_")
+        next unless full_codepoint&.include?("_")
 
-        parts = full_codepoint.split("_")
-        modifier = parts.find { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }
-        base = parts.reject { |part| part == modifier }.join("_")
+        # If the emoji is compound (i.e. includes a ZWJ, represented as "200d")
+        if full_codepoint.include?("200d")
+          segments = full_codepoint.split("_200d_")
+          processed_segments =
+            segments.map do |segment|
+              parts = segment.split("_")
+              # Find any Fitzpatrick modifier in this segment
+              segment_modifier = parts.find { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }
+              if parts.length > 2 && needs_fe0f_base_code.include?(parts.first)
+                if segment_modifier
+                  # Already has a Fitzpatrick modifier – preserve the segment as is.
+                  segment
+                else
+                  # No skin tone is present but this base needs FE0F,
+                  # so ensure that "fe0f" appears immediately after the base.
+                  parts.insert(1, "fe0f") unless parts[1] == "fe0f"
+                  parts.join("_")
+                end
+              else
+                # For segments that are not “tonable” (or that don’t need fe0f),
+                # remove any Fitzpatrick modifier that might be present.
+                parts.reject { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }.join("_")
+              end
+            end
+          base = processed_segments.join("_200d_")
+          # For compound sequences, pick the first Fitzpatrick modifier found (if any)
+          modifier =
+            segments
+              .map { |seg| seg.split("_").find { |p| DiscourseEmojis::FITZPATRICK_SCALE.key?(p) } }
+              .compact
+              .first
+        else
+          # Non compound sequences
+          parts = full_codepoint.split("_")
+          modifier = parts.find { |part| DiscourseEmojis::FITZPATRICK_SCALE.key?(part) }
+          if parts.length > 2 && needs_fe0f_base_code.include?(parts.first)
+            if modifier
+              # Replace the modifier with "fe0f" if present
+              base = parts.map { |part| part == modifier ? "fe0f" : part }.join("_")
+            else
+              base = parts.join("_")
+            end
+          else
+            base = parts.reject { |part| part == modifier }.join("_")
+          end
+        end
 
-        image_data = extract_image_data(row)
-        next if !image_data
+        image = extract_image_data(row)
+        next if !image
 
-        variations << { base:, modifier:, image: image_data }
+        variations << { base:, modifier:, image: }
       end
 
       variations
