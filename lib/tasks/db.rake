@@ -162,6 +162,8 @@ end
 namespace :emojis do
   desc "Generate specific lists of supported emoji data (aliases, translations, search aliases, names, groups, etc)"
   task :db do
+    puts "Generating emoji lists..."
+
     generate_emoji_lists("./dist/emoji_to_name.json", "./dist/emojis.json")
     generate_tonable_emoji_list("./dist/tonable_emojis.json")
     generate_search_aliases("./dist/search_aliases.json")

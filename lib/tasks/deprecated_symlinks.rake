@@ -3,6 +3,8 @@
 namespace :emojis do
   desc "Symlinks deprecated emoji sets to the new ones"
   task :deprecated_symlinks do
+    puts "Creating deprecated symlinks..."
+
     # All the sets are defined in core discourse at app/models/emoji_set_site_setting.rb
     DEPRECATED_SYMLINKS = {
       "apple" => "twemoji",

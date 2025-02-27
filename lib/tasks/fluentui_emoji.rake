@@ -3,6 +3,8 @@
 namespace :emojis do
   desc "Generate open moji fluentui emoji set from remote zip file"
   task :fluentui_emoji do
+    puts "Processing fluentui emoji set..."
+
     url = "https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip"
     asset_subdir = File.join("fluentui-emoji-main", "assets")
     supported_emojis =
