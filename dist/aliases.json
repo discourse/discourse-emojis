@@ -469,23 +469,27 @@
   "man_surfing": [
     "surfing_man"
   ],
+  "kiss_woman_man": [
+    "kiss",
+    "couplekiss",
+    "couplekiss_man_woman"
+  ],
+  "kiss_woman_woman": [
+    "couplekiss_woman_woman",
+    "female_couplekiss"
+  ],
+  "kiss_man_man": [
+    "couplekiss_man_man",
+    "male_couplekiss"
+  ],
   "couple_with_heart_man_man": [
-    "male_couple_with_heart",
-    "kiss_man_man",
-    "male_couplekiss",
-    "couplekiss_man_man"
+    "male_couple_with_heart"
   ],
   "couple_with_heart": [
-    "kiss",
-    "couple_with_heart_woman_man",
-    "couplekiss_man_woman",
-    "couplekiss"
+    "couple_with_heart_woman_man"
   ],
   "couple_with_heart_woman_woman": [
-    "female_couple_with_heart",
-    "couplekiss_woman_woman",
-    "female_couplekiss",
-    "kiss_woman_woman"
+    "female_couple_with_heart"
   ],
   "clamp": [
     "compression"
@@ -504,10 +508,6 @@
   ],
   "new_moon": [
     "moon"
-  ],
-  "oncoming_automobile": [
-    "car",
-    "automobile"
   ],
   "fleur_de_lis": [
     "fleur-de-lis"
@@ -1060,41 +1060,20 @@
   "family": [
     "family_man_woman_boy"
   ],
-  "dog_face": [
-    "dog"
-  ],
   "dog": [
     "dog2"
-  ],
-  "fox": [
-    "fox_face"
-  ],
-  "cat_face": [
-    "cat"
   ],
   "cat": [
     "cat2"
   ],
-  "tiger_face": [
-    "tiger"
-  ],
   "tiger": [
     "tiger2"
-  ],
-  "horse_face": [
-    "horse"
   ],
   "horse": [
     "racehorse"
   ],
-  "cow_face": [
-    "cow"
-  ],
   "cow": [
     "cow2"
-  ],
-  "pig_face": [
-    "pig"
   ],
   "pig": [
     "pig2"
@@ -1105,17 +1084,8 @@
   "camel": [
     "dromedary_camel"
   ],
-  "two_hump_camel": [
-    "camel"
-  ],
-  "mouse_face": [
-    "mouse"
-  ],
   "mouse": [
     "mouse2"
-  ],
-  "rabbit_face": [
-    "rabbit"
   ],
   "rabbit": [
     "rabbit2"
@@ -1127,9 +1097,6 @@
     "hatched_chick"
   ],
   "spouting_whale": [
-    "whale"
-  ],
-  "whale": [
     "whale2"
   ],
   "spiral_shell": [
@@ -1270,11 +1237,9 @@
   "train": [
     "train2"
   ],
-  "tram_car": [
-    "train"
-  ],
   "automobile": [
-    "red_car"
+    "red_car",
+    "car"
   ],
   "sport_utility_vehicle": [
     "blue_car"
