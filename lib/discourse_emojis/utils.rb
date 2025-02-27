@@ -27,6 +27,9 @@ module DiscourseEmojis
       emoji.chars.any? { |code_point| code_point.match?(emoji_base_modifier_regex) }
     end
 
+    # The various emoji sets we use have different ways of representing skin tones in text
+    # most of the times the filenames don't include the ZWJ sequences for example
+    # this method will try to normalize the emoji to a common representation
     def self.force_emoji_presentation(emoji)
       emoji
         .scan(/\X/) # Splits into grapheme clusters
