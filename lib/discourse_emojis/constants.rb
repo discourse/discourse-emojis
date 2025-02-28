@@ -42,6 +42,7 @@ module DiscourseEmojis
     "keycap_8" => "eight",
     "keycap_9" => "nine",
     "keycap_10" => "ten",
+    "calendar" => "date",
   }
 
   EMOJI_ALIASES = {
@@ -570,7 +571,7 @@ module DiscourseEmojis
     "open_mailbox_with_lowered_flag" => ["mailbox_with_no_mail"],
     "ballot_box_with_ballot" => ["ballot_box"],
     "pencil" => ["pencil2"],
-    "calendar" => ["date"],
+    "date" => ["calendar"],
     "tear_off_calendar" => ["calendar"],
     "chart_increasing" => ["chart_with_upwards_trend"],
     "chart_decreasing" => ["chart_with_downwards_trend"],
