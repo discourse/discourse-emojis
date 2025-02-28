@@ -51,6 +51,8 @@ module DiscourseEmojis
     "keycap_*" => "asterisk",
     "smiling_face_with_smiling_eyes" => "blush",
     "thinking_face" => "thinking",
+    "man_construction_worker" => "construction_worker_man",
+    "woman_construction_worker" => "construction_worker_woman",
   }
 
   EMOJI_ALIASES = {
@@ -131,7 +133,6 @@ module DiscourseEmojis
     "face_with_thermometer" => ["thermometer_face"],
     "timer_clock" => ["timer"],
     "slightly_smiling_face" => %w[slightly_smiling slight_smile],
-    "construction_worker_man" => ["construction_worker"],
     "upside_down_face" => ["upside_down"],
     "money_mouth_face" => ["money_mouth"],
     "nerd_face" => ["nerd"],
@@ -348,8 +349,8 @@ module DiscourseEmojis
     "guard" => ["guardsman"],
     "woman_guard" => ["guardswoman"],
     "person_with_skullcap" => ["man_with_gua_pi_mao"],
-    "construction_worker" => ["construction_worker_man"],
-    "woman_construction_worker" => ["construction_worker_woman"],
+    "construction_worker_man" => ["man_construction_worker"],
+    "construction_worker_woman" => ["woman_construction_worker"],
     "woman_wearing_turban" => ["woman_with_turban"],
     "man_wearing_turban" => ["man_with_turban"],
     "person_with_veil" => ["bride_with_veil"],

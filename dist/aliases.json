@@ -255,9 +255,6 @@
     "slightly_smiling",
     "slight_smile"
   ],
-  "construction_worker_man": [
-    "construction_worker"
-  ],
   "upside_down_face": [
     "upside_down"
   ],
@@ -936,11 +933,11 @@
   "person_with_skullcap": [
     "man_with_gua_pi_mao"
   ],
-  "construction_worker": [
-    "construction_worker_man"
+  "construction_worker_man": [
+    "man_construction_worker"
   ],
-  "woman_construction_worker": [
-    "construction_worker_woman"
+  "construction_worker_woman": [
+    "woman_construction_worker"
   ],
   "woman_wearing_turban": [
     "woman_with_turban"

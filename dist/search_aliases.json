@@ -3456,7 +3456,7 @@
     "work",
     "worker"
   ],
-  "man_construction_worker": [
+  "construction_worker_man": [
     "build",
     "construction",
     "fix",
@@ -3469,7 +3469,7 @@
     "work",
     "worker"
   ],
-  "woman_construction_worker": [
+  "construction_worker_woman": [
     "build",
     "construction",
     "fix",
