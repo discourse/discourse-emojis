@@ -54,7 +54,7 @@
     "smiling",
     "teeth"
   ],
-  "grinning_squinting_face": [
+  "laughing": [
     "closed",
     "eyes",
     "face",
@@ -393,7 +393,7 @@
     "mouth",
     "paid"
   ],
-  "smiling_face_with_open_hands": [
+  "hugs": [
     "face",
     "hands",
     "hug",
@@ -1304,9 +1304,8 @@
     "unhappy",
     "upset"
   ],
-  "angry_face": [
+  "angry": [
     "anger",
-    "angry",
     "blame",
     "face",
     "feels",
@@ -2327,11 +2326,10 @@
     "right-facing",
     "rightwards"
   ],
-  "clapping_hands": [
+  "clap": [
     "applause",
     "approval",
     "awesome",
-    "clap",
     "congrats",
     "congratulations",
     "excited",

@@ -273,10 +273,10 @@
   "nerd_face": [
     "nerd"
   ],
-  "smiling_face_with_open_hands": [
+  "hugs": [
     "hugging",
     "hugging_face",
-    "hugs"
+    "smiling_face_with_open_hands"
   ],
   "face_with_rolling_eyes": [
     "roll_eyes",
@@ -533,8 +533,8 @@
   "beaming_face_with_smiling_eyes": [
     "grin"
   ],
-  "grinning_squinting_face": [
-    "laughing",
+  "laughing": [
+    "grinning_squinting_face",
     "satisfied"
   ],
   "grinning_face_with_sweat": [
@@ -688,8 +688,8 @@
   "enraged_face": [
     "rage"
   ],
-  "angry_face": [
-    "angry"
+  "angry": [
+    "angry_face"
   ],
   "face_with_symbols_on_mouth": [
     "face_with_symbols_over_mouth"
@@ -815,8 +815,8 @@
   "right_facing_fist": [
     "fist_right"
   ],
-  "clapping_hands": [
-    "clap"
+  "clap": [
+    "clapping_hands"
   ],
   "raising_hands": [
     "raised_hands"
