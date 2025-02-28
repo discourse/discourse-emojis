@@ -1082,6 +1082,9 @@
   "pig": [
     "pig2"
   ],
+  "fox": [
+    "fox_face"
+  ],
   "ewe": [
     "sheep"
   ],
@@ -1892,39 +1895,39 @@
     "asterisk",
     "keycap_star"
   ],
-  "keycap_0": [
-    "zero"
+  "zero": [
+    "keycap_0"
   ],
-  "keycap_1": [
-    "one"
+  "one": [
+    "keycap_1"
   ],
-  "keycap_2": [
-    "two"
+  "two": [
+    "keycap_2"
   ],
-  "keycap_3": [
-    "three"
+  "three": [
+    "keycap_3"
   ],
-  "keycap_4": [
-    "four"
+  "four": [
+    "keycap_4"
   ],
-  "keycap_5": [
-    "five"
+  "five": [
+    "keycap_5"
   ],
-  "keycap_6": [
-    "six"
+  "six": [
+    "keycap_6"
   ],
-  "keycap_7": [
-    "seven"
+  "seven": [
+    "keycap_7"
   ],
-  "keycap_8": [
-    "eight"
+  "eight": [
+    "keycap_8"
   ],
-  "keycap_9": [
-    "nine"
+  "nine": [
+    "keycap_9"
   ],
-  "keycap_10": [
-    "keycap_ten",
-    "ten"
+  "ten": [
+    "keycap_10",
+    "keycap_ten"
   ],
   "input_latin_uppercase": [
     "capital_abcd"
