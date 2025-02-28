@@ -206,9 +206,6 @@
     "sleuth_or_spy",
     "male_detective"
   ],
-  "thinking": [
-    "thinking_face"
-  ],
   "cloud_with_lightning_and_rain": [
     "thunder_cloud_rain",
     "thunder_cloud_and_rain"
@@ -253,9 +250,6 @@
   ],
   "timer_clock": [
     "timer"
-  ],
-  "keycap_ten": [
-    "ten"
   ],
   "slightly_smiling_face": [
     "slightly_smiling",
@@ -549,8 +543,8 @@
   "wink": [
     "winking_face"
   ],
-  "smiling_face_with_smiling_eyes": [
-    "blush"
+  "blush": [
+    "smiling_face_with_smiling_eyes"
   ],
   "smiling_face_with_halo": [
     "innocent"
@@ -588,8 +582,8 @@
   "squinting_face_with_tongue": [
     "stuck_out_tongue_closed_eyes"
   ],
-  "thinking_face": [
-    "thinking"
+  "thinking": [
+    "thinking_face"
   ],
   "expressionless_face": [
     "expressionless"
@@ -1889,13 +1883,13 @@
   "trade_mark": [
     "tm"
   ],
-  "keycap_hash": [
-    "hash",
+  "hash": [
+    "keycap_hash",
     "keycap_#"
   ],
-  "keycap_asterisk": [
+  "asterisk": [
+    "keycap_asterisk",
     "keycap_*",
-    "asterisk",
     "keycap_star"
   ],
   "zero": [
