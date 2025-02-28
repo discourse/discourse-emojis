@@ -1002,7 +1002,7 @@
     "frown",
     "sad"
   ],
-  "face_with_open_mouth": [
+  "open_mouth": [
     "believe",
     "face",
     "forgot",
@@ -1152,9 +1152,8 @@
     "time",
     "whew"
   ],
-  "crying_face": [
+  "cry": [
     "awful",
-    "cry",
     "crying",
     "face",
     "feels",

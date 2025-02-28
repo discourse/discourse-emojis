@@ -47,6 +47,8 @@ module DiscourseEmojis
     "grinning_squinting_face" => "laughing",
     "angry_face" => "angry",
     "clapping_hands" => "clap",
+    "face_with_open_mouth" => "open_mouth",
+    "crying_face" => "cry",
   }
 
   EMOJI_ALIASES = {
@@ -243,7 +245,7 @@ module DiscourseEmojis
     "face_with_crossed_out_eyes" => ["dizzy_face"],
     "confused_face" => ["confused"],
     "worried_face" => ["worried"],
-    "face_with_open_mouth" => ["open_mouth"],
+    "open_mouth" => ["face_with_open_mouth"],
     "hushed_face" => ["hushed"],
     "astonished_face" => ["astonished"],
     "flushed_face" => ["flushed"],
@@ -253,6 +255,7 @@ module DiscourseEmojis
     "anxious_face_with_sweat" => ["cold_sweat"],
     "sad_but_relieved_face" => ["disappointed_relieved"],
     "crying_face" => ["cry"],
+    "cry" => ["crying_face"],
     "loudly_crying_face" => ["sob"],
     "face_screaming_in_fear" => ["scream"],
     "confounded_face" => ["confounded"],

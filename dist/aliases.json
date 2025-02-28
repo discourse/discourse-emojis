@@ -631,8 +631,8 @@
   "worried_face": [
     "worried"
   ],
-  "face_with_open_mouth": [
-    "open_mouth"
+  "open_mouth": [
+    "face_with_open_mouth"
   ],
   "hushed_face": [
     "hushed"
@@ -660,6 +660,9 @@
   ],
   "crying_face": [
     "cry"
+  ],
+  "cry": [
+    "crying_face"
   ],
   "loudly_crying_face": [
     "sob"
