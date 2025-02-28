@@ -283,10 +283,10 @@
     "rolling_eyes"
   ],
   "slightly_frowning_face": [
-    "frowning",
     "slight_frown"
   ],
-  "frowning_face": [
+  "frowning": [
+    "frowning_face",
     "frowning2",
     "white_frowning_face"
   ],
@@ -546,8 +546,8 @@
   "face_with_tears_of_joy": [
     "joy"
   ],
-  "winking_face": [
-    "wink"
+  "wink": [
+    "winking_face"
   ],
   "smiling_face_with_smiling_eyes": [
     "blush"
@@ -1932,8 +1932,8 @@
   "input_latin_lowercase": [
     "abcd"
   ],
-  "input_numbers": [
-    "1234"
+  "1234": [
+    "input_numbers"
   ],
   "input_symbols": [
     "symbols"
@@ -1959,8 +1959,8 @@
   "free_button": [
     "free"
   ],
-  "information": [
-    "information_source"
+  "information_source": [
+    "information"
   ],
   "id_button": [
     "id"

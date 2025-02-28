@@ -54,17 +54,10 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
               .gsub("⊛_", "")
               .gsub("flag_", "")
               .gsub("_&_", "_")
-              .gsub("keycap_#", "keycap_hash") # keycap_# can create issue with regexes
-              .gsub("keycap_*", "keycap_asterisk") # for parity with keycap_hash
-              .gsub("red_heart", "heart") # for legacy reasons
-              .gsub("thumbs_up", "+1") # for legacy reasons
-              .gsub("thumbs_down", "-1") # for legacy reasons
-              .gsub("woman_blond_hair", "blonde_woman") # for legacy reasons
-              .gsub("man_blond_hair", "blonde_man") # for legacy reasons
 
-          name = I18n.transliterate(name)
+          name = DiscourseEmojis::EMOJI_RENAMES.key?(name) ? DiscourseEmojis::EMOJI_RENAMES[name] : name
 
-          mapping[emoji_char] = name
+          mapping[emoji_char] = I18n.transliterate(name)
 
           emojis << { name:, code: codepoint.gsub("_", "-") }
         end

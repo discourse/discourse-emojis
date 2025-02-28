@@ -149,14 +149,13 @@
     "sarcasm",
     "sarcastic"
   ],
-  "winking_face": [
+  "wink": [
     "face",
     "flirt",
     "heartbreaker",
     "sexy",
     "slide",
     "tease",
-    "wink",
     "winking",
     "winks"
   ],
@@ -998,10 +997,9 @@
     "sad",
     "slightly"
   ],
-  "frowning_face": [
+  "frowning": [
     "face",
     "frown",
-    "frowning",
     "sad"
   ],
   "face_with_open_mouth": [
@@ -11866,8 +11864,7 @@
     "letters",
     "lowercase"
   ],
-  "input_numbers": [
-    "1234",
+  "1234": [
     "input",
     "numbers"
   ],
@@ -11915,8 +11912,9 @@
     "button",
     "FREE"
   ],
-  "information": [
-    "I"
+  "information_source": [
+    "I",
+    "information"
   ],
   "id_button": [
     "button",

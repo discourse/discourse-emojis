@@ -16,6 +16,23 @@ module DiscourseEmojis
     "flags" => "checkered_flag",
   }
 
+  # for legacy reasons we have to keep the old names as the main name
+  # and the new name as the alias, when adding to this list make sure
+  # to update the EMOJI_ALIASES list
+  EMOJI_RENAMES = {
+    "keycap_#" => "keycap_hash",
+    "keycap_*" => "keycap_asterisk",
+    "red_heart" => "heart",
+    "thumbs_up" => "+1" ,
+    "thumbs_down" => "-1" ,
+    "woman_blond_hair" => "blonde_woman",
+    "man_blond_hair" => "blonde_man",
+    "frowning_face" => "frowning",
+    "winking_face" => "wink",
+    "information" => "information_source",
+    "input_numbers" => "1234",
+  }
+
   EMOJI_ALIASES = {
     "st_barthelemy" => ["st_barthélemy"],
     "pinata" => ["piñata"],
@@ -101,8 +118,8 @@ module DiscourseEmojis
     "nerd_face" => ["nerd"],
     "smiling_face_with_open_hands" => %w[hugging hugging_face hugs],
     "face_with_rolling_eyes" => %w[roll_eyes rolling_eyes],
-    "slightly_frowning_face" => %w[frowning slight_frown],
-    "frowning_face" => %w[frowning2 white_frowning_face],
+    "slightly_frowning_face" => %w[slight_frown],
+    "frowning" => %w[frowning_face frowning2 white_frowning_face],
     "zipper_mouth_face" => ["zipper_mouth"],
     "face_with_head_bandage" => ["head_bandage"],
     "hand_with_fingers_splayed" => %w[raised_hand_with_fingers_splayed hand_splayed],
@@ -182,7 +199,7 @@ module DiscourseEmojis
     "grinning_face_with_sweat" => ["sweat_smile"],
     "rolling_on_the_floor_laughing" => ["rofl"],
     "face_with_tears_of_joy" => ["joy"],
-    "winking_face" => ["wink"],
+    "wink" => ["winking_face"],
     "smiling_face_with_smiling_eyes" => ["blush"],
     "smiling_face_with_halo" => ["innocent"],
     "smiling_face_with_hearts" => ["smiling_face_with_three_hearts"],
@@ -638,7 +655,7 @@ module DiscourseEmojis
     "keycap_10" => %w[keycap_ten ten],
     "input_latin_uppercase" => ["capital_abcd"],
     "input_latin_lowercase" => ["abcd"],
-    "input_numbers" => ["1234"],
+    "1234" => ["input_numbers"],
     "input_symbols" => ["symbols"],
     "input_latin_letters" => ["abc"],
     "a_button_blood_type" => ["a"],
@@ -647,7 +664,7 @@ module DiscourseEmojis
     "cl_button" => ["cl"],
     "cool_button" => ["cool"],
     "free_button" => ["free"],
-    "information" => ["information_source"],
+    "information_source" => ["information"],
     "id_button" => ["id"],
     "circled_m" => ["m"],
     "new_button" => ["new"],
