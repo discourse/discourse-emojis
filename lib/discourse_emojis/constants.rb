@@ -53,6 +53,7 @@ module DiscourseEmojis
     "thinking_face" => "thinking",
     "man_construction_worker" => "construction_worker_man",
     "woman_construction_worker" => "construction_worker_woman",
+    "grimacing_face" => "grimacing",
   }
 
   EMOJI_ALIASES = {
@@ -238,7 +239,7 @@ module DiscourseEmojis
     "face_without_mouth" => ["no_mouth"],
     "smirking_face" => ["smirk"],
     "unamused_face" => ["unamused"],
-    "grimacing_face" => ["grimacing"],
+    "grimacing" => ["grimacing_face"],
     "relieved_face" => %w[relieved relaxed],
     "pensive_face" => ["pensive"],
     "sleepy_face" => ["sleepy"],
