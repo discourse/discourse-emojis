@@ -206,6 +206,9 @@
     "sleuth_or_spy",
     "male_detective"
   ],
+  "thinking": [
+    "thinking_face"
+  ],
   "cloud_with_lightning_and_rain": [
     "thunder_cloud_rain",
     "thunder_cloud_and_rain"
@@ -578,9 +581,6 @@
   ],
   "squinting_face_with_tongue": [
     "stuck_out_tongue_closed_eyes"
-  ],
-  "thinking": [
-    "thinking_face"
   ],
   "expressionless_face": [
     "expressionless"
@@ -1385,8 +1385,8 @@
   "snowman_without_snow": [
     "snowman2"
   ],
-  "water_wave": [
-    "ocean"
+  "ocean": [
+    "water_wave"
   ],
   "party_popper": [
     "tada"

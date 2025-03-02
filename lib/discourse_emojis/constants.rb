@@ -54,6 +54,7 @@ module DiscourseEmojis
     "man_construction_worker" => "construction_worker_man",
     "woman_construction_worker" => "construction_worker_woman",
     "grimacing_face" => "grimacing",
+    "water_wave" => "ocean",
   }
 
   EMOJI_ALIASES = {
@@ -234,7 +235,6 @@ module DiscourseEmojis
     "winking_face_with_tongue" => ["stuck_out_tongue_winking_eye"],
     "zany_face" => ["crazy_face"],
     "squinting_face_with_tongue" => ["stuck_out_tongue_closed_eyes"],
-    "thinking" => ["thinking_face"],
     "expressionless_face" => ["expressionless"],
     "face_without_mouth" => ["no_mouth"],
     "smirking_face" => ["smirk"],
@@ -500,7 +500,7 @@ module DiscourseEmojis
     "high_voltage" => ["zap"],
     "snowman" => ["snowman_with_snow"],
     "snowman_without_snow" => ["snowman2"],
-    "water_wave" => ["ocean"],
+    "ocean" => ["water_wave"],
     "party_popper" => ["tada"],
     "pine_decoration" => ["bamboo"],
     "japanese_dolls" => ["dolls"],
