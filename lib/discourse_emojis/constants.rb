@@ -60,6 +60,7 @@ module DiscourseEmojis
     "réunion" => "reunion",
     "st_barthélemy" => "st_barthelemy",
     "são_tomé_príncipe" => "sao_tome_principe",
+    "hundred_points" => "100",
   }
 
   EMOJI_ALIASES = {
@@ -296,7 +297,7 @@ module DiscourseEmojis
     "beating_heart" => ["heartbeat"],
     "heart_exclamation" => %w[heavy_heart_exclamation heavy_heart_exclamation_mark_ornament],
     "heart" => ["red_heart"],
-    "hundred_points" => ["100"],
+    "100" => ["hundred_points"],
     "anger_symbol" => ["anger"],
     "collision" => ["boom"],
     "sweat_droplets" => ["sweat_drops"],
