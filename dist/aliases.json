@@ -524,15 +524,15 @@
   "grinning_face_with_smiling_eyes": [
     "smile"
   ],
-  "beaming_face_with_smiling_eyes": [
-    "grin"
+  "grin": [
+    "beaming_face_with_smiling_eyes"
   ],
   "laughing": [
     "grinning_squinting_face",
     "satisfied"
   ],
-  "grinning_face_with_sweat": [
-    "sweat_smile"
+  "sweat_smile": [
+    "grinning_face_with_sweat"
   ],
   "rolling_on_the_floor_laughing": [
     "rofl"
@@ -658,8 +658,8 @@
   "loudly_crying_face": [
     "sob"
   ],
-  "face_screaming_in_fear": [
-    "scream"
+  "scream": [
+    "face_screaming_in_fear"
   ],
   "confounded_face": [
     "confounded"
@@ -1856,8 +1856,8 @@
   "hollow_red_circle": [
     "o"
   ],
-  "check_mark_button": [
-    "white_check_mark"
+  "white_check_mark": [
+    "check_mark_button"
   ],
   "check_box_with_check": [
     "ballot_box_with_check"

@@ -41,12 +41,11 @@
     "smile",
     "smiling"
   ],
-  "beaming_face_with_smiling_eyes": [
+  "grin": [
     "beaming",
     "eye",
     "eyes",
     "face",
-    "grin",
     "grinning",
     "happy",
     "nice",
@@ -71,7 +70,7 @@
     "smiling",
     "squinting"
   ],
-  "grinning_face_with_sweat": [
+  "sweat_smile": [
     "cold",
     "dejected",
     "excited",
@@ -1172,14 +1171,13 @@
     "tears",
     "unhappy"
   ],
-  "face_screaming_in_fear": [
+  "scream": [
     "epic",
     "face",
     "fear",
     "fearful",
     "munch",
     "scared",
-    "scream",
     "screamer",
     "screaming",
     "shocked",
@@ -11738,7 +11736,7 @@
     "o",
     "red"
   ],
-  "check_mark_button": [
+  "white_check_mark": [
     "✓",
     "button",
     "check",
