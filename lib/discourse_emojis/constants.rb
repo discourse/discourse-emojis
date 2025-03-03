@@ -57,6 +57,9 @@ module DiscourseEmojis
     "water_wave" => "ocean",
     "pile_of_poo" => "poop",
     "middle_finger" => "fu",
+    "réunion" => "reunion",
+    "st_barthélemy" => "st_barthelemy",
+    "são_tomé_príncipe" => "sao_tome_principe",
   }
 
   EMOJI_ALIASES = {
