@@ -55,6 +55,7 @@ module DiscourseEmojis
     "woman_construction_worker" => "construction_worker_woman",
     "grimacing_face" => "grimacing",
     "water_wave" => "ocean",
+    "pile_of_poo" => "poo",
   }
 
   EMOJI_ALIASES = {
@@ -112,7 +113,7 @@ module DiscourseEmojis
     "fountain_pen" => %w[pen_fountain lower_left_fountain_pen],
     "ping_pong" => ["table_tennis"],
     "place_of_worship" => ["worship_symbol"],
-    "pile_of_poo" => %w[poop shit poo hankey],
+    "poo" => %w[poop shit pile_of_poo hankey],
     "radioactive" => ["radioactive_sign"],
     "railway_track" => ["railroad_track"],
     "robot" => ["robot_face"],
