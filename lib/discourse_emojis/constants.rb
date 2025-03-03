@@ -55,7 +55,8 @@ module DiscourseEmojis
     "woman_construction_worker" => "construction_worker_woman",
     "grimacing_face" => "grimacing",
     "water_wave" => "ocean",
-    "pile_of_poo" => "poo",
+    "pile_of_poo" => "poop",
+    "middle_finger" => "fu",
   }
 
   EMOJI_ALIASES = {
@@ -99,7 +100,7 @@ module DiscourseEmojis
     "military_medal" => ["medal_military"],
     "sports_medal" => %w[medal_sports medal],
     "sign_of_the_horns" => ["metal"],
-    "middle_finger" => %w[fu reversed_hand_with_middle_finger_extended],
+    "fu" => %w[middle_finger reversed_hand_with_middle_finger_extended],
     "motorcycle" => ["racing_motorcycle"],
     "mountain_snow" => ["snow_capped_mountain"],
     "spiral_notepad" => %w[notepad_spiral spiral_note_pad],
@@ -113,7 +114,7 @@ module DiscourseEmojis
     "fountain_pen" => %w[pen_fountain lower_left_fountain_pen],
     "ping_pong" => ["table_tennis"],
     "place_of_worship" => ["worship_symbol"],
-    "poo" => %w[poop shit pile_of_poo hankey],
+    "poop" => %w[poo shit pile_of_poo hankey],
     "radioactive" => ["radioactive_sign"],
     "railway_track" => ["railroad_track"],
     "robot" => ["robot_face"],
