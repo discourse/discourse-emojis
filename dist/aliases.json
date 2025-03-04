@@ -272,8 +272,8 @@
     "hugging_face",
     "smiling_face_with_open_hands"
   ],
-  "face_with_rolling_eyes": [
-    "roll_eyes",
+  "roll_eyes": [
+    "face_with_rolling_eyes",
     "rolling_eyes"
   ],
   "slightly_frowning_face": [
@@ -534,11 +534,11 @@
   "sweat_smile": [
     "grinning_face_with_sweat"
   ],
-  "rolling_on_the_floor_laughing": [
-    "rofl"
+  "rofl": [
+    "rolling_on_the_floor_laughing"
   ],
-  "face_with_tears_of_joy": [
-    "joy"
+  "joy": [
+    "face_with_tears_of_joy"
   ],
   "wink": [
     "winking_face"
@@ -546,14 +546,14 @@
   "blush": [
     "smiling_face_with_smiling_eyes"
   ],
-  "smiling_face_with_halo": [
-    "innocent"
+  "innocent": [
+    "smiling_face_with_halo"
   ],
-  "smiling_face_with_hearts": [
-    "smiling_face_with_three_hearts"
+  "smiling_face_with_three_hearts": [
+    "smiling_face_with_hearts"
   ],
-  "smiling_face_with_heart_eyes": [
-    "heart_eyes"
+  "heart_eyes": [
+    "smiling_face_with_heart_eyes"
   ],
   "face_blowing_a_kiss": [
     "kissing_heart"
@@ -616,11 +616,11 @@
   "face_with_crossed_out_eyes": [
     "dizzy_face"
   ],
-  "confused_face": [
-    "confused"
+  "confused": [
+    "confused_face"
   ],
-  "worried_face": [
-    "worried"
+  "worried": [
+    "worried_face"
   ],
   "open_mouth": [
     "face_with_open_mouth"
@@ -640,8 +640,8 @@
   "anguished_face": [
     "anguished"
   ],
-  "fearful_face": [
-    "fearful"
+  "fearful": [
+    "fearful_face"
   ],
   "anxious_face_with_sweat": [
     "cold_sweat"
@@ -649,14 +649,11 @@
   "sad_but_relieved_face": [
     "disappointed_relieved"
   ],
-  "crying_face": [
-    "cry"
-  ],
   "cry": [
     "crying_face"
   ],
-  "loudly_crying_face": [
-    "sob"
+  "sob": [
+    "loudly_crying_face"
   ],
   "scream": [
     "face_screaming_in_fear"
@@ -709,8 +706,8 @@
   "grinning_cat_with_smiling_eyes": [
     "smile_cat"
   ],
-  "cat_with_tears_of_joy": [
-    "joy_cat"
+  "joy_cat": [
+    "cat_with_tears_of_joy"
   ],
   "smiling_cat_with_heart_eyes": [
     "heart_eyes_cat"
@@ -1433,8 +1430,8 @@
   "bullseye": [
     "dart"
   ],
-  "yo_yo": [
-    "yo-yo"
+  "yo-yo": [
+    "yo_yo"
   ],
   "water_pistol": [
     "gun"

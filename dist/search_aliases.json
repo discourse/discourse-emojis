@@ -85,7 +85,7 @@
     "stressed",
     "sweat"
   ],
-  "rolling_on_the_floor_laughing": [
+  "rofl": [
     "crying",
     "face",
     "floor",
@@ -98,12 +98,11 @@
     "laugh",
     "lmao",
     "lol",
-    "rofl",
     "roflmao",
     "rolling",
     "tear"
   ],
-  "face_with_tears_of_joy": [
+  "joy": [
     "crying",
     "face",
     "feels",
@@ -112,7 +111,6 @@
     "happy",
     "hehe",
     "hilarious",
-    "joy",
     "laugh",
     "lmao",
     "lol",
@@ -167,7 +165,7 @@
     "smile",
     "smiling"
   ],
-  "smiling_face_with_halo": [
+  "innocent": [
     "angel",
     "angelic",
     "angels",
@@ -178,14 +176,13 @@
     "fantasy",
     "halo",
     "happy",
-    "innocent",
     "peaceful",
     "smile",
     "smiling",
     "spirit",
     "tale"
   ],
-  "smiling_face_with_hearts": [
+  "smiling_face_with_three_hearts": [
     "3",
     "adore",
     "crush",
@@ -199,7 +196,7 @@
     "smiling",
     "you"
   ],
-  "smiling_face_with_heart_eyes": [
+  "heart_eyes": [
     "143",
     "bae",
     "eye",
@@ -607,7 +604,7 @@
     "weird",
     "whatever"
   ],
-  "face_with_rolling_eyes": [
+  "roll_eyes": [
     "eyeroll",
     "eyes",
     "face",
@@ -942,9 +939,8 @@
     "stuffy",
     "wealthy"
   ],
-  "confused_face": [
+  "confused": [
     "befuddled",
-    "confused",
     "confusing",
     "dunno",
     "face",
@@ -973,7 +969,7 @@
     "whatever",
     "wtv"
   ],
-  "worried_face": [
+  "worried": [
     "anxious",
     "butterflies",
     "face",
@@ -983,7 +979,6 @@
     "stress",
     "stressed",
     "surprised",
-    "worried",
     "worry"
   ],
   "slightly_frowning_face": [
@@ -1110,13 +1105,12 @@
     "what",
     "wow"
   ],
-  "fearful_face": [
+  "fearful": [
     "afraid",
     "anxious",
     "blame",
     "face",
     "fear",
-    "fearful",
     "scared",
     "worried"
   ],
@@ -1159,14 +1153,13 @@
     "triste",
     "unhappy"
   ],
-  "loudly_crying_face": [
+  "sob": [
     "bawling",
     "cry",
     "crying",
     "face",
     "loudly",
     "sad",
-    "sob",
     "tear",
     "tears",
     "unhappy"
@@ -1489,7 +1482,7 @@
     "smile",
     "smiling"
   ],
-  "cat_with_tears_of_joy": [
+  "joy_cat": [
     "animal",
     "cat",
     "face",
