@@ -76,6 +76,7 @@ module DiscourseEmojis
     "worried_face" => "worried",
     "loudly_crying_face" => "sob",
     "cat_with_tears_of_joy" => "joy_cat",
+    "yo_yo" => "yoyo",
   }
 
   EMOJI_ALIASES = {
@@ -536,7 +537,7 @@ module DiscourseEmojis
     "running_shirt" => ["running_shirt_with_sash"],
     "skis" => ["ski"],
     "bullseye" => ["dart"],
-    "yo-yo" => ["yo_yo"],
+    "yoyo" => %w[yo_yo yo-yo],
     "water_pistol" => ["gun"],
     "pool_8_ball" => ["8ball"],
     "puzzle_piece" => ["jigsaw"],

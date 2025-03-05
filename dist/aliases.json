@@ -1430,8 +1430,9 @@
   "bullseye": [
     "dart"
   ],
-  "yo-yo": [
-    "yo_yo"
+  "yoyo": [
+    "yo_yo",
+    "yo-yo"
   ],
   "water_pistol": [
     "gun"

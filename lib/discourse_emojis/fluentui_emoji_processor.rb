@@ -2,6 +2,8 @@
 
 require "fileutils"
 require "json"
+require "selenium-webdriver"
+require "uri"
 
 module DiscourseEmojis
   class FluentUIEmojiProcessor
@@ -40,13 +42,31 @@ module DiscourseEmojis
     def initialize(assets_dir, supported_emojis)
       @assets_dir = assets_dir
       @supported_emojis = supported_emojis
+      @driver = init_driver
     end
 
     def process_all
       Dir.glob(File.join(@assets_dir, "*")).each { |emoji_dir| process_emoji(emoji_dir) }
+    ensure
+      @driver.quit
     end
 
     private
+
+    def init_driver
+      options = Selenium::WebDriver::Chrome::Options.new
+      options.add_argument("--headless=new")
+      options.add_argument("--disable-gpu")
+      options.add_argument("--no-sandbox")
+      options.add_argument("--disable-dev-shm-usage")
+      options.add_argument("--force-device-scale-factor=2")
+      driver = Selenium::WebDriver.for(:chrome, options: options)
+      driver.execute_cdp(
+        "Emulation.setDefaultBackgroundColorOverride",
+        **{ "color" => { "r" => 0, "g" => 0, "b" => 0, "a" => 0 } },
+      )
+      driver
+    end
 
     def process_emoji(emoji_dir)
       metadata = load_metadata(emoji_dir)
@@ -111,33 +131,31 @@ module DiscourseEmojis
     end
 
     def convert_svg_to_png(svg_path, output_png)
-      FileUtils.mkdir_p(File.dirname(output_png))
-      intermediate_png = "#{output_png}.tmp.png"
-      step1_result =
-        system(
-          "rsvg-convert",
-          "--background-color=none",
-          "--width=288",
-          "--height=288",
-          "--output",
-          intermediate_png,
-          svg_path,
-        )
+      @driver.navigate.to(
+        URI.join("file://", URI::DEFAULT_PARSER.escape(File.expand_path(svg_path)).to_s),
+      )
+      bbox = @driver.execute_script("return document.querySelector('svg').getBBox();")
+      new_viewBox = "#{bbox["x"]} #{bbox["y"]} #{bbox["width"]} #{bbox["height"]}"
 
-      if !step1_result
-        status = $?.nil? ? "unknown" : $?.exitstatus
-        puts "Conversion step 1 failed with status: #{status}"
-        return
+      @driver.execute_script(<<~JS, new_viewBox)
+          const svg = document.querySelector('svg');
+          svg.setAttribute('viewBox', arguments[0]);
+          svg.removeAttribute('width');
+          svg.removeAttribute('height');
+          svg.style.width = "288px"
+          svg.style.height = '288px';
+          svg.style.background = 'transparent';
+        JS
+
+      svg_element = @driver.find_element(:css, "svg")
+      png_data = svg_element.screenshot_as(:png)
+      File.binwrite(output_png, png_data)
+
+      resize_cmd = ["magick", output_png, "-resize", "72x72", output_png]
+      unless system(*resize_cmd)
+        puts "Error resizing image with ImageMagick."
+        exit 1
       end
-
-      step2_result = system("magick", intermediate_png, "-resize", "72x72", output_png)
-      if !step2_result
-        status = $?.nil? ? "unknown" : $?.exitstatus
-        puts "Conversion step 2 (resize) failed with status: #{status}"
-        return
-      end
-
-      FileUtils.rm_f(intermediate_png)
     end
   end
 end

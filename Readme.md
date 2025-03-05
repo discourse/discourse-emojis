@@ -11,7 +11,7 @@ A Discourse gem to provide all the necessary emoji data:
 
 ## Setup
 
-You need to have [rsvg-convert](https://github.com/bvibber/librsvg) and [imagemagick](https://imagemagick.org/script/download.php) available on your system to run the rake task.
+You need to have [imagemagick](https://imagemagick.org/script/download.php) available on your system to run the rake task.
 
 ### imagemagick
 
@@ -23,17 +23,6 @@ sudo yum install imagemagick
 
 On OS-X:
 brew install imagemagick
-
-### librsvg
-
-On Debian or Ubuntu:
-sudo apt-get install -y librsvg2-dev
-
-On Fedora, CentOS or RHEL:
-sudo yum install librsvg2-devel
-
-On OS-X:
-brew install librsvg
 
 ## Updating the emojis
 
