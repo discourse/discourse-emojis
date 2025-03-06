@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 module DiscourseEmojis
-  # The EmojiAliasCreator is responsible for creating alias files for emojis
+  # The EmojiAliasCreator is responsible for creating alias symlinks for emojis
   # based on the aliases defined in EMOJI_ALIASES. It handles both regular emojis
   # and tonable emojis.
   #
   # Usage:
-  # To create emoji alias files, call the `create_aliases` method:
+  # To create emoji alias symlinks, call the `create_aliases` method:
   #
   # DiscourseEmojis::EmojiAliasCreator.create_aliases
 
@@ -39,28 +39,25 @@ module DiscourseEmojis
     end
 
     def create_alias_files(dir, original_name, alias_name)
-      source_file = File.join(dir, "#{original_name}.png")
-      target_file = File.join(dir, "#{alias_name}.png")
+      FileUtils.cd(dir) do
+        FileUtils.ln_s("#{original_name}.png", "#{alias_name}.png")
 
-      FileUtils.cp(source_file, target_file)
+        variations_dir = File.join(dir, original_name)
+        return if !File.directory?(variations_dir)
 
-      variations_dir = File.join(dir, original_name)
-      return if !File.directory?(variations_dir)
-
-      create_tone_variations(dir, variations_dir, alias_name)
+        create_tone_variations(original_name, alias_name)
+      end
     end
 
-    def create_tone_variations(dir, variations_dir, alias_name)
-      target_variations_dir = File.join(dir, alias_name)
-      FileUtils.mkdir_p(target_variations_dir)
+    def create_tone_variations(original_name, alias_name)
+      FileUtils.mkdir_p(alias_name)
 
-      Dir
-        .glob("#{variations_dir}/*.png")
-        .each do |variation_file|
-          variation_name = File.basename(variation_file)
-          target_variation_file = File.join(target_variations_dir, variation_name)
-          FileUtils.cp(variation_file, target_variation_file)
-        end
+      (2..6).each do |tone|
+        FileUtils.ln_s(
+          File.join("..", original_name, "#{tone}.png"),
+          File.join(alias_name, "#{tone}.png"),
+        )
+      end
     end
   end
 end
