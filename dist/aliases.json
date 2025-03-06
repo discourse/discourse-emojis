@@ -410,9 +410,6 @@
   "building_construction": [
     "construction_site"
   ],
-  "family_man_woman_girl_boy": [
-    "family"
-  ],
   "ice_hockey": [
     "hockey"
   ],
@@ -464,7 +461,6 @@
     "surfing_man"
   ],
   "kiss_woman_man": [
-    "kiss",
     "couplekiss",
     "couplekiss_man_woman"
   ],
@@ -951,9 +947,6 @@
   "santa_claus": [
     "santa"
   ],
-  "merperson": [
-    "mermaid"
-  ],
   "man_getting_massage": [
     "massage_man"
   ],
@@ -1051,9 +1044,6 @@
   ],
   "men_holding_hands": [
     "two_men_holding_hands"
-  ],
-  "family": [
-    "family_man_woman_boy"
   ],
   "dog": [
     "dog2"
@@ -1633,9 +1623,6 @@
   "date": [
     "calendar"
   ],
-  "tear_off_calendar": [
-    "calendar"
-  ],
   "chart_increasing": [
     "chart_with_upwards_trend"
   ],
@@ -1998,8 +1985,7 @@
   ],
   "japanese_not_free_of_charge_button": [
     "sa",
-    "u6709",
-    "japanese_service_charge_button"
+    "u6709"
   ],
   "japanese_application_button": [
     "u7533"
@@ -2011,8 +1997,7 @@
     "u7981"
   ],
   "japanese_acceptable_button": [
-    "accept",
-    "u6709"
+    "accept"
   ],
   "japanese_congratulations_button": [
     "congratulations"

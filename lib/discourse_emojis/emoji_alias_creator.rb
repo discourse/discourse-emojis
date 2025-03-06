@@ -39,28 +39,18 @@ module DiscourseEmojis
     end
 
     def create_alias_files(dir, original_name, alias_name)
-      source_file = File.join(dir, "#{original_name}.png")
-      target_file = File.join(dir, "#{alias_name}.png")
+      FileUtils.cd(dir) do
+        FileUtils.ln_s("#{original_name}.png", "#{alias_name}.png")
 
-      FileUtils.cp(source_file, target_file)
+        variations_dir = File.join(dir, original_name)
+        return if !File.directory?(variations_dir)
 
-      variations_dir = File.join(dir, original_name)
-      return if !File.directory?(variations_dir)
-
-      create_tone_variations(dir, variations_dir, alias_name)
+        create_tone_variations(original_name, alias_name)
+      end
     end
 
-    def create_tone_variations(dir, variations_dir, alias_name)
-      target_variations_dir = File.join(dir, alias_name)
-      FileUtils.mkdir_p(target_variations_dir)
-
-      Dir
-        .glob("#{variations_dir}/*.png")
-        .each do |variation_file|
-          variation_name = File.basename(variation_file)
-          target_variation_file = File.join(target_variations_dir, variation_name)
-          FileUtils.cp(variation_file, target_variation_file)
-        end
+    def create_tone_variations(original_name, alias_name)
+      FileUtils.ln_s(original_name, alias_name, force: true)
     end
   end
 end
