@@ -5,6 +5,6 @@ namespace :emojis do
   task :unicode do
     puts "Processing unicode emoji set..."
 
-    DiscourseEmojis::UnicodeEmojiExtractor.new.extract_and_save
+    DiscourseEmojis::UnicodeEmojiProcessor.new.extract_and_save
   end
 end

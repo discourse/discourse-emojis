@@ -1,21 +1,6 @@
 # frozen_string_literal: true
 
-require "fileutils"
-require "tmpdir"
-require "json"
-require "zip"
-require "open-uri"
-
 require_relative File.join(File.dirname(__FILE__), "discourse_emojis", "version")
-require_relative "discourse_emojis/constants"
-require_relative "discourse_emojis/zip_processor"
-require_relative "discourse_emojis/emoji_synchronizer"
-require_relative "discourse_emojis/unicode_emoji_extractor"
-require_relative "discourse_emojis/codepoints_emoji_processor"
-require_relative "discourse_emojis/fluentui_emoji_processor"
-require_relative "discourse_emojis/emoji_alias_creator"
-require_relative "discourse_emojis/utils"
-
 require_relative "discourse_emojis/railtie" if defined?(Rails)
 
 module DiscourseEmojis

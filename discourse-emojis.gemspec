@@ -17,7 +17,4 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">= 3.2.0"
 
   s.add_development_dependency "rake", "~> 13.0"
-  s.add_development_dependency "rubyzip", "~> 2.4"
-  s.add_development_dependency "nokogiri", "~> 1.8"
-  s.add_development_dependency "selenium-webdriver", "~> 4.25"
 end

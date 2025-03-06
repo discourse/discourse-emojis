@@ -3,10 +3,9 @@
 require "nokogiri"
 require "base64"
 require "fileutils"
-require_relative "constants"
 
 module DiscourseEmojis
-  # The UnicodeEmojiExtractor processes HTML files containing emoji data from the Unicode consortium.
+  # The UnicodeEmojiProcessor processes HTML files containing emoji data from the Unicode consortium.
   # It extracts emoji images and their skin tones variations from base64-encoded images in
   # the HTML files and saves them to the appropriate directories in the project's emoji system.
   #
@@ -14,7 +13,7 @@ module DiscourseEmojis
   # 1. emoji-list.html - Contains base emoji images
   # 2. emoji-modifier-sequences.html - Contains emoji variations (e.g., skin tones)
 
-  class UnicodeEmojiExtractor
+  class UnicodeEmojiProcessor
     UNICODE_EMOJI_DIR = "dist/emoji/unicode"
     EMOJI_LIST_FILE = "vendor/emoji-list.html"
     EMOJI_MODIFIER_FILE = "vendor/emoji-modifier-sequences.html"

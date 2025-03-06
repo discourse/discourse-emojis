@@ -1914,7 +1914,9 @@
     "running",
     "smoke"
   ],
-  "hole": [],
+  "hole": [
+
+  ],
   "speech_balloon": [
     "balloon",
     "bubble",
@@ -7140,7 +7142,9 @@
     "snow",
     "snow-capped"
   ],
-  "mountain": [],
+  "mountain": [
+
+  ],
   "volcano": [
     "eruption",
     "mountain",
@@ -7152,12 +7156,16 @@
     "mountain",
     "nature"
   ],
-  "camping": [],
+  "camping": [
+
+  ],
   "beach_with_umbrella": [
     "beach",
     "umbrella"
   ],
-  "desert": [],
+  "desert": [
+
+  ],
   "desert_island": [
     "desert",
     "island"
@@ -7166,7 +7174,9 @@
     "national",
     "park"
   ],
-  "stadium": [],
+  "stadium": [
+
+  ],
   "classical_building": [
     "building",
     "classical"
@@ -7353,7 +7363,9 @@
     "religion",
     "umrah"
   ],
-  "fountain": [],
+  "fountain": [
+
+  ],
   "tent": [
     "camping"
   ],
@@ -9690,7 +9702,9 @@
     "fax",
     "machine"
   ],
-  "battery": [],
+  "battery": [
+
+  ],
   "low_battery": [
     "battery",
     "drained",
@@ -9931,7 +9945,9 @@
     "school",
     "study"
   ],
-  "notebook": [],
+  "notebook": [
+
+  ],
   "ledger": [
     "notebook"
   ],
@@ -10190,7 +10206,9 @@
     "ballot",
     "box"
   ],
-  "pencil": [],
+  "pencil": [
+
+  ],
   "black_nib": [
     "black",
     "nib",
@@ -10206,7 +10224,9 @@
   "paintbrush": [
     "painting"
   ],
-  "crayon": [],
+  "crayon": [
+
+  ],
   "memo": [
     "communication",
     "media",
@@ -10298,7 +10318,9 @@
     "pushpin",
     "round"
   ],
-  "paperclip": [],
+  "paperclip": [
+
+  ],
   "linked_paperclips": [
     "link",
     "linked",
