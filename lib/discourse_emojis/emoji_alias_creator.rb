@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 module DiscourseEmojis
-  # The EmojiAliasCreator is responsible for creating alias files for emojis
+  # The EmojiAliasCreator is responsible for creating alias symlinks for emojis
   # based on the aliases defined in EMOJI_ALIASES. It handles both regular emojis
   # and tonable emojis.
   #
   # Usage:
-  # To create emoji alias files, call the `create_aliases` method:
+  # To create emoji alias symlinks, call the `create_aliases` method:
   #
   # DiscourseEmojis::EmojiAliasCreator.create_aliases
 
@@ -50,7 +50,14 @@ module DiscourseEmojis
     end
 
     def create_tone_variations(original_name, alias_name)
-      FileUtils.ln_s(original_name, alias_name, force: true)
+      FileUtils.mkdir_p(alias_name)
+
+      (2..6).each do |tone|
+        FileUtils.ln_s(
+          File.join("..", original_name, "#{tone}.png"),
+          File.join(alias_name, "#{tone}.png"),
+        )
+      end
     end
   end
 end
