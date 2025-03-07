@@ -63,7 +63,11 @@ module DiscourseEmojis
         next if !File.exist?(source)
         next if File.exist?(target)
         FileUtils.mkdir_p(base_name)
-        FileUtils.ln_s(source, target)
+
+        # we checked that unicode has the file, so we can safely link
+        # but at this point we are one level deeper in the directory
+        # so we need to go back one level
+        FileUtils.ln_s(File.join("..", source), target)
       end
     end
   end
