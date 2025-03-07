@@ -83,10 +83,6 @@ module DiscourseEmojis
   }
 
   EMOJI_ALIASES = {
-    "st_barthelemy" => ["st_barthélemy"],
-    "pinata" => ["piñata"],
-    "reunion" => ["réunion"],
-    "sao_tome_principe" => ["são_tomé_príncipe"],
     "x_ray" => ["xray"],
     "right_anger_bubble" => ["anger_right"],
     "ballot_box" => ["ballot_box_with_ballot"],
