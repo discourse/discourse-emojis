@@ -78,6 +78,8 @@ module DiscourseEmojis
     "cat_with_tears_of_joy" => "joy_cat",
     "yo_yo" => "yoyo",
     "couple_with_heart_woman_man" => "couple_with_heart",
+    "party_popper" => "tada",
+    "grinning_face_with_big_eyes" => "smiley",
   }
 
   EMOJI_ALIASES = {
@@ -236,7 +238,7 @@ module DiscourseEmojis
     "smile" => ["grinning_face_with_smiling_eyes"],
     "frowning_with_open_mouth" => ["frowning_face_with_open_mouth"],
     "grinning_face" => ["grinning"],
-    "grinning_face_with_big_eyes" => ["smiley"],
+    "smiley" => ["grinning_face_with_big_eyes"],
     "grinning_face_with_smiling_eyes" => ["smile"],
     "grin" => ["beaming_face_with_smiling_eyes"],
     "laughing" => %w[grinning_squinting_face satisfied],
@@ -520,7 +522,7 @@ module DiscourseEmojis
     "snowman" => ["snowman_with_snow"],
     "snowman_without_snow" => ["snowman2"],
     "ocean" => ["water_wave"],
-    "party_popper" => ["tada"],
+    "tada" => ["party_popper"],
     "pine_decoration" => ["bamboo"],
     "japanese_dolls" => ["dolls"],
     "carp_streamer" => ["flags"],

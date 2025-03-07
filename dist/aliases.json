@@ -514,8 +514,8 @@
   "grinning_face": [
     "grinning"
   ],
-  "grinning_face_with_big_eyes": [
-    "smiley"
+  "smiley": [
+    "grinning_face_with_big_eyes"
   ],
   "grinning_face_with_smiling_eyes": [
     "smile"
@@ -1375,8 +1375,8 @@
   "ocean": [
     "water_wave"
   ],
-  "party_popper": [
-    "tada"
+  "tada": [
+    "party_popper"
   ],
   "pine_decoration": [
     "bamboo"
