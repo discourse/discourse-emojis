@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 namespace :emojis do
-  desc "Generate open moji fluentui emoji set from remote zip file"
+  desc "Generate fluentui emoji set from remote zip file"
   task :fluentui_emoji do
     puts "Processing fluentui emoji set..."
 

@@ -16,19 +16,28 @@ You need to have [imagemagick](https://imagemagick.org/script/download.php) avai
 ### imagemagick
 
 On Debian or Ubuntu install:
+
+```sh
 sudo apt-get install -y imagemagick
+```
 
 On Fedora, CentOS or RHEL:
-sudo yum install imagemagick
 
-On OS-X:
+```sh
+sudo yum install imagemagick
+```
+
+On macOS:
+
+```sh
 brew install imagemagick
+```
 
 ## Updating the emojis
 
 The process sadly involves multiple manual steps ATM as the remote sources can be very slow to download. Depending on what you want to update, you will have to update the files in vendor/ and/or the URLs in each set rake task (fluentui, noto, openmoji, twemoji...).
 
-Once this is done, you should run the rake rask: `bundle exec rake emojis:generate`, this command should take few minutes. If the generated diff looks correct you can update the gem version and push the commit. The new gem verison will be auto released. You now just have to update discourse.
+Once this is done, you should run the rake rask: `bundle exec rake emojis:generate`, this command should take few minutes. If the generated diff looks correct you can update the gem version and push the commit. The new gem version will be auto released. You now just have to update discourse.
 
 ## Current source of vendor files
 

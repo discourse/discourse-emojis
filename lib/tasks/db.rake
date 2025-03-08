@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "nokogiri"
 require "open-uri"
 require "i18n"
@@ -55,7 +56,8 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
               .gsub("flag_", "")
               .gsub("_&_", "_")
 
-          name = DiscourseEmojis::EMOJI_RENAMES.key?(name) ? DiscourseEmojis::EMOJI_RENAMES[name] : name
+          name =
+            DiscourseEmojis::EMOJI_RENAMES.key?(name) ? DiscourseEmojis::EMOJI_RENAMES[name] : name
 
           mapping[emoji_char] = I18n.transliterate(name)
 
@@ -135,7 +137,7 @@ def generate_groups(output_file)
 
       current_group = { name: line.sub("# group: ", "").strip.downcase.gsub(/ /, "_"), icons: [] }
     elsif !line.start_with?("#") && !line.empty?
-      before_comment, after_comment = line.split("#", 2)
+      _before_comment, after_comment = line.split("#", 2)
 
       next if !after_comment
 
