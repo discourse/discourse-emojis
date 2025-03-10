@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require "rspec"
-require "set"
 require "discourse_emojis"
 
 RSpec.describe DiscourseEmojis::Utils do

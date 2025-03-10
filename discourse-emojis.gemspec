@@ -1,6 +1,7 @@
 # frozen_string_literal: true
+
 lib = File.expand_path("../lib", __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+$LOAD_PATH.unshift(lib) if !$LOAD_PATH.include?(lib)
 require File.expand_path("../lib/discourse_emojis/version", __FILE__)
 
 Gem::Specification.new do |s|
