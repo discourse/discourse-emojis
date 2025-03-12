@@ -16,6 +16,10 @@ module DiscourseEmojis
     "flags" => "checkered_flag",
   }
 
+  # for various reasons we might want to exclude an emoji from the list
+  # for examples emojis which are only present in the components group
+  EMOJI_EXCLUDES = %w[white_hair curly_hair bald red_hair]
+
   # for legacy reasons we have to keep the old names as the main name
   # and the new name as the alias, when adding to this list make sure
   # to update the EMOJI_ALIASES list

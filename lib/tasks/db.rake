@@ -59,6 +59,8 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
           name =
             DiscourseEmojis::EMOJI_RENAMES.key?(name) ? DiscourseEmojis::EMOJI_RENAMES[name] : name
 
+          next if DiscourseEmojis::EMOJI_EXCLUDES.include?(name)
+
           mapping[emoji_char] = I18n.transliterate(name)
 
           emojis << { name:, code: codepoint.gsub("_", "-") }
