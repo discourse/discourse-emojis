@@ -334,7 +334,7 @@ module DiscourseEmojis
     "right_facing_fist" => ["fist_right"],
     "clap" => ["clapping_hands"],
     "raising_hands" => ["raised_hands"],
-    "folded_hands" => ["pray"],
+    "folded_hands" => %w[pray high_five],
     "nail_polish" => ["nail_care"],
     "flexed_biceps" => ["muscle"],
     "ear_with_hearing_aid" => ["hear_with_hearing_aid"],
