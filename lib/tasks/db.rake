@@ -61,7 +61,7 @@ def generate_emoji_lists(emoji_to_name_file, emojis_file)
 
           next if DiscourseEmojis::EMOJI_EXCLUDES.include?(name)
 
-          mapping[emoji_char] = I18n.transliterate(name)
+          mapping[emoji_char] = name
 
           emojis << { name:, code: codepoint.gsub("_", "-") }
         end
