@@ -2033,11 +2033,15 @@
   "åland_islands": [
     "aland_islands"
   ],
+  "piñata": [
+    "pinata"
+  ],
   "cocos_keeling_islands": [
     "cocos_islands"
   ],
-  "cote_d_ivoire": [
-    "cote_divoire"
+  "côte_d_ivoire": [
+    "cote_divoire",
+    "cote_d_ivoire"
   ],
   "china": [
     "cn",
@@ -2048,6 +2052,11 @@
   ],
   "czechia": [
     "czech_republic"
+  ],
+  "türkiye": [
+    "turkiye",
+    "tr",
+    "flag_tr"
   ],
   "germany": [
     "de",
@@ -2103,9 +2112,6 @@
   ],
   "eswatini": [
     "swaziland"
-  ],
-  "turkiye": [
-    "tr"
   ],
   "united_states": [
     "us",
