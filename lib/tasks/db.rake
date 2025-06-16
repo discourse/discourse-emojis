@@ -102,6 +102,12 @@ def generate_search_aliases(output_file)
       aliases[name].flatten!.uniq!
     end
 
+  DiscourseEmojis::SEARCH_ALIASES.each do |name, search_aliases|
+    aliases[name] ||= []
+    aliases[name] << search_aliases
+    aliases[name].flatten!.uniq!
+  end
+
   File.open(output_file, "w") { |file| file.write(JSON.pretty_generate(aliases)) }
 end
 
