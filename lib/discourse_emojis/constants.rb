@@ -16,6 +16,14 @@ module DiscourseEmojis
     "flags" => "checkered_flag",
   }
 
+  SEARCH_ALIASES = {
+    "côte_d_ivoire" => ["cote_d_ivoire"],
+    "piñata" => ["pinata"],
+    "åland_islands" => ["aland_islands"],
+    "curaçao" => ["curacao"],
+    "türkiye" => ["turkiye"],
+  }
+
   # for various reasons we might want to exclude an emoji from the list
   # for examples emojis which are only present in the components group
   EMOJI_EXCLUDES = %w[white_hair curly_hair bald red_hair]
