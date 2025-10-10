@@ -7,8 +7,8 @@ namespace :emojis do
 
     DiscourseEmojis::CodepointsEmojiProcessor.process(
       "noto",
-      "https://github.com/googlefonts/noto-emoji/archive/refs/tags/v2.047.zip",
-      File.join("noto-emoji-2.047", "png", "72", "**"),
+      "https://github.com/googlefonts/noto-emoji/archive/refs/tags/v2.051.zip",
+      File.join("noto-emoji-2.051", "png", "72", "**"),
     )
   end
 end

@@ -7,8 +7,8 @@ namespace :emojis do
 
     DiscourseEmojis::CodepointsEmojiProcessor.process(
       "twemoji",
-      "https://github.com/jdecked/twemoji/archive/refs/tags/v15.1.0.zip",
-      File.join("twemoji-15.1.0", "assets", "72x72"),
+      "https://github.com/jdecked/twemoji/archive/refs/tags/v16.0.1.zip",
+      File.join("twemoji-16.0.1", "assets", "72x72"),
     )
   end
 end

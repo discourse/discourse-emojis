@@ -363,6 +363,10 @@
         "tonable": false
       },
       {
+        "name": "distorted_face",
+        "tonable": false
+      },
+      {
         "name": "pleading_face",
         "tonable": false
       },
@@ -672,6 +676,10 @@
       },
       {
         "name": "anger_symbol",
+        "tonable": false
+      },
+      {
+        "name": "fight_cloud",
         "tonable": false
       },
       {
@@ -1981,6 +1989,10 @@
         "tonable": false
       },
       {
+        "name": "hairy_creature",
+        "tonable": false
+      },
+      {
         "name": "person_getting_massage",
         "tonable": true
       },
@@ -2134,6 +2146,10 @@
       },
       {
         "name": "woman_running",
+        "tonable": true
+      },
+      {
+        "name": "ballet_dancer",
         "tonable": true
       },
       {
@@ -3219,6 +3235,10 @@
         "tonable": false
       },
       {
+        "name": "orca",
+        "tonable": false
+      },
+      {
         "name": "seal",
         "tonable": false
       },
@@ -4060,6 +4080,10 @@
       },
       {
         "name": "mountain",
+        "tonable": false
+      },
+      {
+        "name": "landslide",
         "tonable": false
       },
       {
@@ -5767,6 +5791,14 @@
         "tonable": false
       },
       {
+        "name": "trumpet",
+        "tonable": false
+      },
+      {
+        "name": "trombone",
+        "tonable": false
+      },
+      {
         "name": "accordion",
         "tonable": false
       },
@@ -5776,10 +5808,6 @@
       },
       {
         "name": "musical_keyboard",
-        "tonable": false
-      },
-      {
-        "name": "trumpet",
         "tonable": false
       },
       {
@@ -6067,11 +6095,15 @@
         "tonable": false
       },
       {
+        "name": "coin",
+        "tonable": false
+      },
+      {
         "name": "money_bag",
         "tonable": false
       },
       {
-        "name": "coin",
+        "name": "treasure_chest",
         "tonable": false
       },
       {

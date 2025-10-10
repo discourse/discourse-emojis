@@ -51,28 +51,27 @@ https://raw.githubusercontent.com/unicode-org/cldr/main/common/annotations/en.xm
 
 This is used to list all the tonable emojis.
 
-https://unicode.org/Public/emoji/16.0/emoji-sequences.txt (v16.0)
+https://unicode.org/Public/emoji/17.0/emoji-sequences.txt (v17.0)
 
 ### emoji-test.txt
 
 This is used to put the emojis in the correct groups.
 
-https://unicode.org/Public/emoji/16.0/emoji-test.txt (v16.0)
+https://unicode.org/Public/emoji/17.0/emoji-test.txt (v17.0)
 
 ### emoji-list.html
 
 The local file is a save of the remote page without the extra files, just the html document as the images are hardcoded in base64. It's used to get all the images of the unicode standard without the emoji modifiers.
 
-https://unicode.org/emoji/charts/full-emoji-list.html (v16.0)
+https://unicode.org/emoji/charts/full-emoji-list.html (v17.0)
 
 ### emoji-modifier-sequences.html
 
 The local file is a save of the remote page without the extra files, just the html document as the images are hardcoded in base64. It's used to get all the images of the unicode standard for emoji modifiers.
 
-https://unicode.org/emoji/charts/full-emoji-modifiers.html (v16.0)
+https://unicode.org/emoji/charts/full-emoji-modifiers.html (v17.0)
 
 ## Future improvements
 
-- each run is creating a slightly different version of fluentui images, even though they have the same source. It's due to our svg -> png conversion with is not idempotent
 - we have a large emoji regex in core, which should be generated in this gem, atm you need to remember to update this regex when new emojis are released
 - refactor unicode extractor, especially variations part

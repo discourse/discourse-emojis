@@ -1047,6 +1047,14 @@
     "what",
     "wow"
   ],
+  "distorted_face": [
+    "anxiety",
+    "bloated",
+    "panic",
+    "shocked",
+    "surprised",
+    "vulnerable"
+  ],
   "pleading_face": [
     "begging",
     "big",
@@ -1872,6 +1880,15 @@
     "symbol",
     "upset"
   ],
+  "fight_cloud": [
+    "argument",
+    "brawl",
+    "debate",
+    "disagreement",
+    "fight",
+    "ruckus",
+    "wrestle"
+  ],
   "collision": [
     "bomb",
     "boom",
@@ -1914,9 +1931,7 @@
     "running",
     "smoke"
   ],
-  "hole": [
-
-  ],
+  "hole": [],
   "speech_balloon": [
     "balloon",
     "bubble",
@@ -3967,6 +3982,16 @@
     "tale",
     "trolling"
   ],
+  "hairy_creature": [
+    "bigfoot",
+    "cryptid",
+    "forest",
+    "giant",
+    "hairy",
+    "sasquatch",
+    "woodwose",
+    "yeti"
+  ],
   "person_getting_massage": [
     "face",
     "getting",
@@ -4225,6 +4250,10 @@
     "rush",
     "speed",
     "woman"
+  ],
+  "ballet_dancer": [
+    "ballet",
+    "dancer"
   ],
   "woman_dancing": [
     "dance",
@@ -5742,6 +5771,11 @@
     "flipper",
     "ocean"
   ],
+  "orca": [
+    "marine",
+    "ocean",
+    "whale"
+  ],
   "seal": [
     "animal",
     "lion",
@@ -7117,8 +7151,15 @@
     "snow",
     "snow-capped"
   ],
-  "mountain": [
-
+  "mountain": [],
+  "landslide": [
+    "avalanche",
+    "danger",
+    "disaster",
+    "earthquake",
+    "mountain",
+    "mudslide",
+    "rocks"
   ],
   "volcano": [
     "eruption",
@@ -7131,16 +7172,12 @@
     "mountain",
     "nature"
   ],
-  "camping": [
-
-  ],
+  "camping": [],
   "beach_with_umbrella": [
     "beach",
     "umbrella"
   ],
-  "desert": [
-
-  ],
+  "desert": [],
   "desert_island": [
     "desert",
     "island"
@@ -7149,9 +7186,7 @@
     "national",
     "park"
   ],
-  "stadium": [
-
-  ],
+  "stadium": [],
   "classical_building": [
     "building",
     "classical"
@@ -7338,9 +7373,7 @@
     "religion",
     "umrah"
   ],
-  "fountain": [
-
-  ],
+  "fountain": [],
   "tent": [
     "camping"
   ],
@@ -9565,6 +9598,18 @@
     "music",
     "sax"
   ],
+  "trumpet": [
+    "instrument",
+    "music"
+  ],
+  "trombone": [
+    "brass",
+    "instrument",
+    "jazz",
+    "music",
+    "sad",
+    "slide"
+  ],
   "accordion": [
     "box",
     "concertina",
@@ -9584,10 +9629,6 @@
     "music",
     "musical",
     "piano"
-  ],
-  "trumpet": [
-    "instrument",
-    "music"
   ],
   "violin": [
     "instrument",
@@ -9676,9 +9717,7 @@
     "fax",
     "machine"
   ],
-  "battery": [
-
-  ],
+  "battery": [],
   "low_battery": [
     "battery",
     "drained",
@@ -9919,9 +9958,7 @@
     "school",
     "study"
   ],
-  "notebook": [
-
-  ],
+  "notebook": [],
   "ledger": [
     "notebook"
   ],
@@ -9965,6 +10002,16 @@
   "label": [
     "tag"
   ],
+  "coin": [
+    "dollar",
+    "euro",
+    "gold",
+    "metal",
+    "money",
+    "rich",
+    "silver",
+    "treasure"
+  ],
   "money_bag": [
     "bag",
     "bank",
@@ -9983,15 +10030,16 @@
     "rich",
     "win"
   ],
-  "coin": [
-    "dollar",
-    "euro",
+  "treasure_chest": [
+    "gem",
     "gold",
-    "metal",
+    "jewels",
+    "loot",
     "money",
-    "rich",
+    "prize",
     "silver",
-    "treasure"
+    "valuables",
+    "wealth"
   ],
   "yen_banknote": [
     "bank",
@@ -10180,9 +10228,7 @@
     "ballot",
     "box"
   ],
-  "pencil": [
-
-  ],
+  "pencil": [],
   "black_nib": [
     "black",
     "nib",
@@ -10198,9 +10244,7 @@
   "paintbrush": [
     "painting"
   ],
-  "crayon": [
-
-  ],
+  "crayon": [],
   "memo": [
     "communication",
     "media",
@@ -10292,9 +10336,7 @@
     "pushpin",
     "round"
   ],
-  "paperclip": [
-
-  ],
+  "paperclip": [],
   "linked_paperclips": [
     "link",
     "linked",
@@ -12304,6 +12346,46 @@
     "plunder",
     "Roger",
     "treasure"
+  ],
+  "zero": [
+    "0",
+    "keycap"
+  ],
+  "one": [
+    "1",
+    "keycap"
+  ],
+  "two": [
+    "2",
+    "keycap"
+  ],
+  "three": [
+    "3",
+    "keycap"
+  ],
+  "four": [
+    "4",
+    "keycap"
+  ],
+  "five": [
+    "5",
+    "keycap"
+  ],
+  "six": [
+    "6",
+    "keycap"
+  ],
+  "seven": [
+    "7",
+    "keycap"
+  ],
+  "eight": [
+    "8",
+    "keycap"
+  ],
+  "nine": [
+    "9",
+    "keycap"
   ],
   "côte_d_ivoire": [
     "cote_d_ivoire"

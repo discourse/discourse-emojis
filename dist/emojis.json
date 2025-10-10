@@ -340,6 +340,10 @@
     "code": "1f633"
   },
   {
+    "name": "distorted_face",
+    "code": "1faea"
+  },
+  {
     "name": "pleading_face",
     "code": "1f97a"
   },
@@ -630,6 +634,10 @@
   {
     "name": "anger_symbol",
     "code": "1f4a2"
+  },
+  {
+    "name": "fight_cloud",
+    "code": "1faef"
   },
   {
     "name": "collision",
@@ -1608,6 +1616,10 @@
     "code": "1f9cc"
   },
   {
+    "name": "hairy_creature",
+    "code": "1fac8"
+  },
+  {
     "name": "person_getting_massage",
     "code": "1f486"
   },
@@ -1714,6 +1726,10 @@
   {
     "name": "woman_running",
     "code": "1f3c3-200d-2640-fe0f"
+  },
+  {
+    "name": "ballet_dancer",
+    "code": "1f9d1-200d-1fa70"
   },
   {
     "name": "woman_dancing",
@@ -2548,6 +2564,10 @@
     "code": "1f42c"
   },
   {
+    "name": "orca",
+    "code": "1facd"
+  },
+  {
     "name": "seal",
     "code": "1f9ad"
   },
@@ -3342,6 +3362,10 @@
   {
     "name": "mountain",
     "code": "26f0"
+  },
+  {
+    "name": "landslide",
+    "code": "1f6d8"
   },
   {
     "name": "volcano",
@@ -4784,6 +4808,14 @@
     "code": "1f3b7"
   },
   {
+    "name": "trumpet",
+    "code": "1f3ba"
+  },
+  {
+    "name": "trombone",
+    "code": "1fa8a"
+  },
+  {
     "name": "accordion",
     "code": "1fa97"
   },
@@ -4794,10 +4826,6 @@
   {
     "name": "musical_keyboard",
     "code": "1f3b9"
-  },
-  {
-    "name": "trumpet",
-    "code": "1f3ba"
   },
   {
     "name": "violin",
@@ -5040,12 +5068,16 @@
     "code": "1f3f7"
   },
   {
+    "name": "coin",
+    "code": "1fa99"
+  },
+  {
     "name": "money_bag",
     "code": "1f4b0"
   },
   {
-    "name": "coin",
-    "code": "1fa99"
+    "name": "treasure_chest",
+    "code": "1fa8e"
   },
   {
     "name": "yen_banknote",

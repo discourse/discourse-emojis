@@ -6,7 +6,7 @@ namespace :emojis do
     puts "Processing openmoji emoji set..."
     DiscourseEmojis::CodepointsEmojiProcessor.process(
       "openmoji",
-      "https://github.com/hfg-gmuend/openmoji/releases/download/15.1.0/openmoji-72x72-color.zip",
+      "https://github.com/hfg-gmuend/openmoji/releases/download/16.0.0/openmoji-72x72-color.zip",
       File.join("**"),
     )
   end

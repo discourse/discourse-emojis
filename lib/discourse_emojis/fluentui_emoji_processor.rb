@@ -2,7 +2,6 @@
 
 require "fileutils"
 require "json"
-require "selenium-webdriver"
 require "uri"
 
 module DiscourseEmojis
@@ -42,31 +41,13 @@ module DiscourseEmojis
     def initialize(assets_dir, supported_emojis)
       @assets_dir = assets_dir
       @supported_emojis = supported_emojis
-      @driver = init_driver
     end
 
     def process_all
       Dir.glob(File.join(@assets_dir, "*")).each { |emoji_dir| process_emoji(emoji_dir) }
-    ensure
-      @driver.quit
     end
 
     private
-
-    def init_driver
-      options = Selenium::WebDriver::Chrome::Options.new
-      options.add_argument("--headless=new")
-      options.add_argument("--disable-gpu")
-      options.add_argument("--no-sandbox")
-      options.add_argument("--disable-dev-shm-usage")
-      options.add_argument("--force-device-scale-factor=2")
-      driver = Selenium::WebDriver.for(:chrome, options: options)
-      driver.execute_cdp(
-        "Emulation.setDefaultBackgroundColorOverride",
-        **{ "color" => { "r" => 0, "g" => 0, "b" => 0, "a" => 0 } },
-      )
-      driver
-    end
 
     def process_emoji(emoji_dir)
       metadata = load_metadata(emoji_dir)
@@ -102,56 +83,47 @@ module DiscourseEmojis
     end
 
     def process_skin_tone_emoji(emoji_dir, emoji_name)
-      default_svg = Dir.glob(File.join(emoji_dir, "Default", "Color", "*.svg")).first
-      if File.exist?(default_svg)
+      default_png = Dir.glob(File.join(emoji_dir, "Default", "3D", "*.png")).first
+      if File.exist?(default_png)
         output_path = File.join(OUTPUT_DIR, "#{emoji_name}.png")
         FileUtils.mkdir_p(File.dirname(output_path))
-        convert_svg_to_png(default_svg, output_path)
+        resize_png(default_png, output_path)
       end
 
       base_output_dir = File.join(OUTPUT_DIR, emoji_name)
       FileUtils.mkdir_p(base_output_dir)
 
       SKIN_TONE_LEVELS.each do |tone, level|
-        svg_path = Dir.glob(File.join(emoji_dir, tone, "Color", "*.svg")).first
-        next if !File.exist?(svg_path)
+        png_path = Dir.glob(File.join(emoji_dir, tone, "3D", "*.png")).first
+        next if !File.exist?(png_path)
 
         output_path = File.join(base_output_dir, "#{level}.png")
-        convert_svg_to_png(svg_path, output_path)
+        resize_png(png_path, output_path)
       end
     end
 
     def process_regular_emoji(emoji_dir, emoji_name)
-      svg_path = Dir.glob(File.join(emoji_dir, "Color", "*.svg")).first
-      return if !File.exist?(svg_path)
+      png_path = Dir.glob(File.join(emoji_dir, "3D", "*.png")).first
+      return if !File.exist?(png_path)
 
       output_path = File.join(OUTPUT_DIR, "#{emoji_name}.png")
       FileUtils.mkdir_p(File.dirname(output_path))
-      convert_svg_to_png(svg_path, output_path)
+      resize_png(png_path, output_path)
     end
 
-    def convert_svg_to_png(svg_path, output_png)
-      @driver.navigate.to(
-        URI.join("file://", URI::DEFAULT_PARSER.escape(File.expand_path(svg_path)).to_s),
-      )
-      bbox = @driver.execute_script("return document.querySelector('svg').getBBox();")
-      new_viewBox = "#{bbox["x"]} #{bbox["y"]} #{bbox["width"]} #{bbox["height"]}"
-
-      @driver.execute_script(<<~JS, new_viewBox)
-          const svg = document.querySelector('svg');
-          svg.setAttribute('viewBox', arguments[0]);
-          svg.removeAttribute('width');
-          svg.removeAttribute('height');
-          svg.style.width = "288px"
-          svg.style.height = '288px';
-          svg.style.background = 'transparent';
-        JS
-
-      svg_element = @driver.find_element(:css, "svg")
-      png_data = svg_element.screenshot_as(:png)
-      File.binwrite(output_png, png_data)
-
-      resize_cmd = ["magick", output_png, "-resize", "72x72", output_png]
+    def resize_png(png_path, output_png)
+      resize_cmd = [
+        "magick",
+        png_path,
+        "-trim",
+        "-resize",
+        "72x72",
+        "-gravity",
+        "center",
+        "-extent",
+        "72x72",
+        output_png,
+      ]
       unless system(*resize_cmd)
         puts "Error resizing image with ImageMagick."
         exit 1
