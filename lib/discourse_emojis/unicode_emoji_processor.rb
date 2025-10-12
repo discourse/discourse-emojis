@@ -171,7 +171,9 @@ module DiscourseEmojis
     end
 
     def save_base_emoji(emoji_name, image_data)
-      File.open("#{UNICODE_EMOJI_DIR}/#{emoji_name}.png", "wb") { |f| f.write(image_data) }
+      output_path = "#{UNICODE_EMOJI_DIR}/#{emoji_name}.png"
+      File.open(output_path, "wb") { |f| f.write(image_data) }
+      resize_png(output_path)
     end
 
     def save_variations(emoji_name, codepoint, variations)
@@ -185,6 +187,18 @@ module DiscourseEmojis
         level = FITZPATRICK_SCALE[var[:modifier]]
         filename = "#{variation_dir}/#{level}.png"
         File.open(filename, "wb") { |f| f.write(var[:image]) }
+        resize_png(filename)
+      end
+    end
+
+    def resize_png(png_path)
+      dimensions = `magick identify -format "%wx%h" #{png_path}`.strip
+      return if dimensions == "72x72"
+
+      resize_cmd = ["magick", png_path, "-resize", "72x72>", png_path]
+      unless system(*resize_cmd)
+        puts "Error resizing image with ImageMagick."
+        exit 1
       end
     end
   end
