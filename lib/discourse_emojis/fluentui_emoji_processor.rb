@@ -120,6 +120,8 @@ module DiscourseEmojis
         "72x72",
         "-gravity",
         "center",
+        "-background",
+        "transparent",
         "-extent",
         "72x72",
         output_png,
