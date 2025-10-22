@@ -683,7 +683,7 @@ module DiscourseEmojis
     "trident_emblem" => ["trident"],
     "japanese_symbol_for_beginner" => ["beginner"],
     "hollow_red_circle" => ["o"],
-    "white_check_mark" => %w[check_mark_button lgtm green_check_mark],
+    "white_check_mark" => %w[check_mark_button green_check_mark],
     "check_box_with_check" => ["ballot_box_with_check"],
     "check_mark" => ["heavy_check_mark"],
     "cross_mark" => ["x"],
