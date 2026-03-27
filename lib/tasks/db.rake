@@ -167,6 +167,21 @@ def generate_groups(output_file)
   File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(emoji_groups)) }
 end
 
+def validate_aliases(emojis_file)
+  real_emojis = JSON.parse(File.read(emojis_file)).map { |e| e["name"] }.to_set
+  all_alias_values = DiscourseEmojis::EMOJI_ALIASES.values.flatten.to_set
+
+  phantoms =
+    DiscourseEmojis::EMOJI_ALIASES.keys.select do |key|
+      !real_emojis.include?(key) && all_alias_values.include?(key)
+    end
+
+  if phantoms.any?
+    abort "ERROR: Phantom alias keys found in EMOJI_ALIASES: #{phantoms.join(", ")}\n" \
+            "These keys are not real emojis and already exist as aliases for other entries. Remove them."
+  end
+end
+
 namespace :emojis do
   desc "Generate specific lists of supported emoji data (aliases, translations, search aliases, names, groups, etc)"
   task :db do
@@ -178,5 +193,6 @@ namespace :emojis do
     generate_translations("./dist/translations.json")
     generate_groups("./dist/groups.json")
     generate_aliases("./dist/aliases.json")
+    validate_aliases("./dist/emojis.json")
   end
 end
