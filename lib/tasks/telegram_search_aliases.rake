@@ -53,6 +53,55 @@ def build_locale_search_aliases(keywords, emoji_to_name)
   aliases.sort.to_h
 end
 
+# Maps Telegram locale codes to Discourse locale codes.
+# Only locales that Discourse supports are included.
+TELEGRAM_TO_DISCOURSE_LOCALE = {
+  "ar" => "ar",
+  "be" => "be",
+  "bg" => "bg",
+  "ca" => "ca",
+  "cs" => "cs",
+  "da" => "da",
+  "de" => "de",
+  "el" => "el",
+  "en" => "en",
+  "es" => "es",
+  "et" => "et",
+  "fa" => "fa_IR",
+  "fi" => "fi",
+  "fr" => "fr",
+  "gl" => "gl",
+  "he" => "he",
+  "hr" => "hr",
+  "hu" => "hu",
+  "hy" => "hy",
+  "id" => "id",
+  "it" => "it",
+  "ja" => "ja",
+  "ko" => "ko",
+  "lt" => "lt",
+  "lv" => "lv",
+  "nb" => "nb_NO",
+  "nl" => "nl",
+  "pl" => "pl_PL",
+  "pt-br" => "pt_BR",
+  "ro" => "ro",
+  "ru" => "ru",
+  "sk" => "sk",
+  "sl" => "sl",
+  "sq" => "sq",
+  "sr" => "sr",
+  "sv" => "sv",
+  "sw" => "sw",
+  "th" => "th",
+  "tr" => "tr_TR",
+  "uk" => "uk",
+  "ur" => "ur",
+  "vi" => "vi",
+  "zh-hans" => "zh_CN",
+  "zh-hant" => "zh_TW",
+}.freeze
+
 def available_telegram_locales
   html = URI.open("https://translations.telegram.org/en/emoji").read
   match = html.match(/ajInit\((\{.+\})\)/)
@@ -70,7 +119,10 @@ namespace :emojis do
       puts "Fetching available locales..."
       locales = available_telegram_locales
       puts "#{locales.size} locales available:"
-      locales.each { |l| puts "  #{l}" }
+      locales.each do |l|
+        discourse = TELEGRAM_TO_DISCOURSE_LOCALE[l]
+        puts "  #{l}#{discourse ? " -> #{discourse}" : " (no Discourse equivalent)"}"
+      end
     end
 
     desc "Import Telegram emoji search aliases for given locales (comma-separated, or 'all')"
@@ -90,11 +142,18 @@ namespace :emojis do
           locales_arg.split(",").map(&:strip)
         end
 
-      locales.each do |locale|
-        print "Importing #{locale}... "
+      locales.each do |telegram_locale|
+        discourse_locale = TELEGRAM_TO_DISCOURSE_LOCALE[telegram_locale]
+
+        unless discourse_locale
+          puts "Skipping #{telegram_locale} (no Discourse equivalent)"
+          next
+        end
+
+        print "Importing #{telegram_locale} -> #{discourse_locale}... "
 
         begin
-          keywords = fetch_telegram_keywords(locale)
+          keywords = fetch_telegram_keywords(telegram_locale)
           aliases = build_locale_search_aliases(keywords, emoji_to_name)
 
           if aliases.size < min_emojis
@@ -102,7 +161,7 @@ namespace :emojis do
             next
           end
 
-          output_file = File.join(output_dir, "#{locale}.json")
+          output_file = File.join(output_dir, "#{discourse_locale}.json")
           File.open(output_file, "w") { |f| f.write(JSON.pretty_generate(aliases)) }
 
           puts "done (#{aliases.size} emojis with aliases)"
