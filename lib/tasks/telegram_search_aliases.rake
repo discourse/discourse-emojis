@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
-require "open-uri"
+require "net/http"
 require "json"
 require "fileutils"
 
 def fetch_telegram_keywords(locale)
-  url = "https://translations.telegram.org/#{locale}/emoji"
-  html = URI.open(url).read
+  url = URI("https://translations.telegram.org/#{locale}/emoji")
+  html = Net::HTTP.get(url)
 
   match = html.match(/ajInit\((\{.+\})\)/)
   raise "Could not find ajInit data in Telegram page for locale '#{locale}'" unless match
@@ -46,7 +46,7 @@ def build_locale_search_aliases(keywords, emoji_to_name)
       next if keyword.gsub(" ", "_") == name
 
       aliases[name] ||= []
-      aliases[name] << keyword unless aliases[name].include?(keyword)
+      aliases[name] << keyword if !aliases[name].include?(keyword) # rubocop:disable Style/InvertibleUnlessCondition
     end
   end
 
@@ -103,7 +103,7 @@ TELEGRAM_TO_DISCOURSE_LOCALE = {
 }.freeze
 
 def available_telegram_locales
-  html = URI.open("https://translations.telegram.org/en/emoji").read
+  html = Net::HTTP.get(URI("https://translations.telegram.org/en/emoji"))
   match = html.match(/ajInit\((\{.+\})\)/)
   return [] unless match
 
