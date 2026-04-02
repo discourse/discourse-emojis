@@ -1,0 +1,2679 @@
+{
+  "+1": [
+    "いいね",
+    "よくやった",
+    "はい",
+    "納得",
+    "幸運",
+    "グッドラック",
+    "グッジョブ"
+  ],
+  "-1": [
+    "不満",
+    "拒否",
+    "いいえ"
+  ],
+  "100": [
+    "満点",
+    "百点",
+    "１００点"
+  ],
+  "1st_place_medal": [
+    "優勝",
+    "金メダル",
+    "1番",
+    "1位"
+  ],
+  "2nd_place_medal": [
+    "銀メダル",
+    "準優勝",
+    "2番",
+    "2位"
+  ],
+  "3rd_place_medal": [
+    "銅メダル",
+    "3位",
+    "3番"
+  ],
+  "admission_tickets": [
+    "チケット"
+  ],
+  "airplane": [
+    "飛行機",
+    "ジェット機"
+  ],
+  "airplane_arrival": [
+    "飛行機",
+    "到着",
+    "着陸"
+  ],
+  "airplane_departure": [
+    "飛行機",
+    "出発",
+    "離陸"
+  ],
+  "alien": [
+    "宇宙人"
+  ],
+  "alien_monster": [
+    "モンスター",
+    "スペースインベーダー"
+  ],
+  "ambulance": [
+    "救急車"
+  ],
+  "american_football": [
+    "アメリカンフットボール"
+  ],
+  "anchor": [
+    "アンカー"
+  ],
+  "angry": [
+    "怒り",
+    "怒ってる"
+  ],
+  "angry_face_with_horns": [
+    "悪魔"
+  ],
+  "anguished_face": [
+    "唖然",
+    "表情",
+    "あぜん"
+  ],
+  "anxious_face_with_sweat": [
+    "ショック",
+    "唖然",
+    "悲しい",
+    "ヤバい"
+  ],
+  "articulated_lorry": [
+    "軽トラ",
+    "自動車"
+  ],
+  "artist_palette": [
+    "絵描き",
+    "パレット",
+    "画材"
+  ],
+  "astonished_face": [
+    "びっくり",
+    "えーっ"
+  ],
+  "atm_sign": [
+    "標識",
+    "atm"
+  ],
+  "australia": [
+    "国旗",
+    "オーストラリア"
+  ],
+  "automobile": [
+    "クルマ",
+    "車",
+    "自動車"
+  ],
+  "avocado": [
+    "アボカド"
+  ],
+  "baby": [
+    "赤ちゃん",
+    "赤子"
+  ],
+  "baby_bottle": [
+    "ミルク",
+    "哺乳瓶"
+  ],
+  "backhand_index_pointing_down": [
+    "指",
+    "手"
+  ],
+  "backhand_index_pointing_left": [
+    "指",
+    "手"
+  ],
+  "backhand_index_pointing_right": [
+    "指",
+    "手"
+  ],
+  "backhand_index_pointing_up": [
+    "指",
+    "手"
+  ],
+  "backpack": [
+    "リュックサック"
+  ],
+  "bacon": [
+    "食べ物",
+    "ベーコン"
+  ],
+  "badger": [
+    "ラクーン"
+  ],
+  "badminton": [
+    "バドミントン"
+  ],
+  "baguette_bread": [
+    "バケット"
+  ],
+  "bangladesh": [
+    "バングラデシュ"
+  ],
+  "bank": [
+    "銀行"
+  ],
+  "barber_pole": [
+    "ポールサイン",
+    "美容院",
+    "散髪",
+    "床屋",
+    "バーバー"
+  ],
+  "baseball": [
+    "ボール",
+    "スポーツ",
+    "野球"
+  ],
+  "basketball": [
+    "バスケットボール"
+  ],
+  "beer_mug": [
+    "ビール"
+  ],
+  "bento_box": [
+    "お弁当"
+  ],
+  "bicycle": [
+    "自転車",
+    "チャリ"
+  ],
+  "bikini": [
+    "ビキニ",
+    "水着"
+  ],
+  "billed_cap": [
+    "帽子",
+    "キャップ"
+  ],
+  "birthday_cake": [
+    "食べ物",
+    "ケーキ",
+    "ホールケーキ"
+  ],
+  "blush": [
+    "幸せ",
+    "スマイル",
+    "笑顔",
+    "照れる"
+  ],
+  "bow_and_arrow": [
+    "アーチェリー",
+    "弓矢"
+  ],
+  "bowl_with_spoon": [
+    "食器",
+    "ボウル"
+  ],
+  "bowling": [
+    "スポーツ",
+    "ボウリング"
+  ],
+  "boxing_glove": [
+    "ボクシンググローブ"
+  ],
+  "boy": [
+    "子供",
+    "男の子",
+    "こども"
+  ],
+  "brazil": [
+    "ブラジル"
+  ],
+  "bread": [
+    "食パン"
+  ],
+  "bridge_at_night": [
+    "ゴールデンゲートブリッジ",
+    "夜景"
+  ],
+  "briefcase": [
+    "鞄",
+    "かばん",
+    "オフィスバッグ",
+    "カバン"
+  ],
+  "broccoli": [
+    "ブロッコリー"
+  ],
+  "broken_heart": [
+    "失恋"
+  ],
+  "building_construction": [
+    "工事現場",
+    "クレーン"
+  ],
+  "bullet_train": [
+    "新幹線"
+  ],
+  "bullseye": [
+    "ダーツ",
+    "的中"
+  ],
+  "burrito": [
+    "食べ物"
+  ],
+  "bus": [
+    "バス",
+    "クルマ",
+    "車",
+    "自動車"
+  ],
+  "bust_in_silhouette": [
+    "シルエット",
+    "人間"
+  ],
+  "busts_in_silhouette": [
+    "人々",
+    "シルエット"
+  ],
+  "butterfly": [
+    "蝶",
+    "ちょうちょ"
+  ],
+  "call_me_hand": [
+    "指",
+    "手",
+    "電話"
+  ],
+  "camping": [
+    "テント",
+    "キャンプ",
+    "アウトドア"
+  ],
+  "candy": [
+    "アメ",
+    "飴",
+    "あめ",
+    "キャンディ"
+  ],
+  "canned_food": [
+    "缶詰"
+  ],
+  "canoe": [
+    "ボート",
+    "舟",
+    "カヌー",
+    "カヤック"
+  ],
+  "carousel_horse": [
+    "木馬"
+  ],
+  "castle": [
+    "ヨーロッパ",
+    "城"
+  ],
+  "cat_face": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "cat_with_wry_smile": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "cheese_wedge": [
+    "チーズ"
+  ],
+  "cherries": [
+    "食べ物",
+    "サクランボ",
+    "さくらんぼ"
+  ],
+  "chess_pawn": [
+    "ポーン",
+    "チェス"
+  ],
+  "chestnut": [
+    "栗"
+  ],
+  "chicken": [
+    "ニワトリ",
+    "鶏"
+  ],
+  "child": [
+    "子供",
+    "男の子"
+  ],
+  "children_crossing": [
+    "子供",
+    "警戒",
+    "標識",
+    "注意"
+  ],
+  "china": [
+    "中国",
+    "国旗"
+  ],
+  "chocolate_bar": [
+    "チョコレート"
+  ],
+  "chopsticks": [
+    "おはし",
+    "箸"
+  ],
+  "church": [
+    "教会"
+  ],
+  "circus_tent": [
+    "サーカス"
+  ],
+  "cityscape": [
+    "摩天楼"
+  ],
+  "cityscape_at_dusk": [
+    "日の入り",
+    "夕暮れ",
+    "日没"
+  ],
+  "clap": [
+    "拍手"
+  ],
+  "clapper_board": [
+    "ムービー",
+    "フイルム",
+    "映画",
+    "カチンコ"
+  ],
+  "classical_building": [
+    "古代建築"
+  ],
+  "clinking_beer_mugs": [
+    "ビール",
+    "乾杯"
+  ],
+  "clinking_glasses": [
+    "乾杯",
+    "シャンパン"
+  ],
+  "closed_umbrella": [
+    "傘"
+  ],
+  "clown_face": [
+    "ピエロ"
+  ],
+  "clutch_bag": [
+    "バッグ",
+    "鞄",
+    "クラッチバッグ",
+    "かばん",
+    "ポーチ"
+  ],
+  "coat": [
+    "コート"
+  ],
+  "cocktail_glass": [
+    "グラス",
+    "カクテル"
+  ],
+  "coconut": [
+    "ココナッツ"
+  ],
+  "cold_face": [
+    "悪寒",
+    "震える",
+    "寒い"
+  ],
+  "compass": [
+    "コンパス",
+    "方位磁石"
+  ],
+  "confounded_face": [
+    "悲しみ",
+    "なげき",
+    "疲れ"
+  ],
+  "confused": [
+    "納得いかない",
+    "微妙"
+  ],
+  "construction": [
+    "通行止め"
+  ],
+  "convenience_store": [
+    "スーパー",
+    "建物",
+    "24時間営業",
+    "コンビニ",
+    "年中無休"
+  ],
+  "cooked_rice": [
+    "ごはん",
+    "白米",
+    "どんぶり"
+  ],
+  "cookie": [
+    "クッキー"
+  ],
+  "cooking": [
+    "目玉焼き",
+    "料理"
+  ],
+  "cowboy_hat_face": [
+    "カウボーイ"
+  ],
+  "crab": [
+    "かに",
+    "蟹",
+    "カニ"
+  ],
+  "crayon": [
+    "マーカー",
+    "ペン"
+  ],
+  "credit_card": [
+    "カード"
+  ],
+  "crescent_moon": [
+    "月",
+    "三日月"
+  ],
+  "cricket_game": [
+    "クリケット"
+  ],
+  "croissant": [
+    "食べ物",
+    "パン",
+    "クロワッサン"
+  ],
+  "crossed_fingers": [
+    "指",
+    "手",
+    "幸運",
+    "クロスフィンガー"
+  ],
+  "crossed_flags": [
+    "日本",
+    "旗",
+    "祝日"
+  ],
+  "crown": [
+    "王冠"
+  ],
+  "cry": [
+    "悲しみ",
+    "しくしく",
+    "涙"
+  ],
+  "crying_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "cucumber": [
+    "キュウリ",
+    "きゅうり",
+    "胡瓜"
+  ],
+  "cup_with_straw": [
+    "ドリンク"
+  ],
+  "cupcake": [
+    "食べ物",
+    "スイーツ",
+    "カップケーキ"
+  ],
+  "curling_stone": [
+    "スポーツ",
+    "カーリング"
+  ],
+  "curry_rice": [
+    "カレーライス"
+  ],
+  "custard": [
+    "プリン"
+  ],
+  "cut_of_meat": [
+    "食べ物",
+    "お肉",
+    "生肉"
+  ],
+  "dango": [
+    "食べ物",
+    "だんご",
+    "団子"
+  ],
+  "delivery_truck": [
+    "軽トラ",
+    "自動車",
+    "トラック"
+  ],
+  "department_store": [
+    "デパート"
+  ],
+  "derelict_house": [
+    "古家",
+    "壊れた家"
+  ],
+  "desert_island": [
+    "ビーチ",
+    "オアシス",
+    "南の島"
+  ],
+  "disappointed_face": [
+    "悲しみ",
+    "なげき"
+  ],
+  "divide": [
+    "割り算"
+  ],
+  "dizzy": [
+    "めまい",
+    "ハロー",
+    "星"
+  ],
+  "dog_face": [
+    "犬"
+  ],
+  "dotted_line_face": [
+    "サイレント"
+  ],
+  "doughnut": [
+    "ドーナツ"
+  ],
+  "downcast_face_with_sweat": [
+    "うーん",
+    "汗",
+    "難儀",
+    "苦笑い"
+  ],
+  "dragon": [
+    "龍",
+    "ドラゴン",
+    "竜"
+  ],
+  "dragon_face": [
+    "龍",
+    "ドラゴン",
+    "竜"
+  ],
+  "dress": [
+    "ドレス"
+  ],
+  "drooling_face": [
+    "おいしそう",
+    "よだれ"
+  ],
+  "droplet": [
+    "水滴",
+    "雨"
+  ],
+  "drum": [
+    "ジャズ",
+    "ドラム"
+  ],
+  "dumpling": [
+    "ギョウザ",
+    "ぎょうざ",
+    "餃子"
+  ],
+  "ear": [
+    "聴く",
+    "聞く",
+    "耳"
+  ],
+  "ear_of_corn": [
+    "食べ物",
+    "とうもろこし",
+    "コーン"
+  ],
+  "egg": [
+    "卵",
+    "玉子",
+    "たまご"
+  ],
+  "eggplant": [
+    "茄子",
+    "なす",
+    "ナス"
+  ],
+  "enraged_face": [
+    "怒り",
+    "怒ってる"
+  ],
+  "exploding_head": [
+    "激怒",
+    "怒り",
+    "ブチ切れ"
+  ],
+  "expressionless_face": [
+    "無表情",
+    "疑わしい",
+    "疲れた",
+    "理不尽"
+  ],
+  "eye": [
+    "見る",
+    "眼",
+    "目"
+  ],
+  "eyes": [
+    "見る",
+    "眼",
+    "目"
+  ],
+  "face_blowing_a_kiss": [
+    "キス",
+    "恋愛",
+    "愛",
+    "キス顔",
+    "恋",
+    "チュー"
+  ],
+  "face_savoring_food": [
+    "おいしい",
+    "食べる"
+  ],
+  "face_vomiting": [
+    "吐きそうな顔",
+    "嘔吐"
+  ],
+  "face_with_crossed_out_eyes": [
+    "病気",
+    "もうだめ"
+  ],
+  "face_with_hand_over_mouth": [
+    "しずかに"
+  ],
+  "face_with_head_bandage": [
+    "包帯"
+  ],
+  "face_with_medical_mask": [
+    "病気",
+    "風邪",
+    "マスク",
+    "かぜ"
+  ],
+  "face_with_steam_from_nose": [
+    "鼻息",
+    "不機嫌"
+  ],
+  "face_with_symbols_on_mouth": [
+    "怒り",
+    "怒ってる"
+  ],
+  "face_with_thermometer": [
+    "熱っぽい"
+  ],
+  "face_with_tongue": [
+    "あっかんべー"
+  ],
+  "face_without_mouth": [
+    "静かに"
+  ],
+  "factory": [
+    "工場"
+  ],
+  "fairy": [
+    "妖精"
+  ],
+  "fearful": [
+    "唖然",
+    "恐れ",
+    "大変",
+    "心配",
+    "ヤバい",
+    "どうしよう"
+  ],
+  "ferris_wheel": [
+    "観覧車"
+  ],
+  "ferry": [
+    "船",
+    "フェリー"
+  ],
+  "field_hockey": [
+    "フィールドホッケー"
+  ],
+  "fire_engine": [
+    "消防車"
+  ],
+  "fireworks": [
+    "花火"
+  ],
+  "fish_cake_with_swirl": [
+    "なると"
+  ],
+  "fishing_pole": [
+    "フィッシング",
+    "魚釣り"
+  ],
+  "flashlight": [
+    "懐中電灯",
+    "ライト"
+  ],
+  "flat_shoe": [
+    "シューズ",
+    "靴"
+  ],
+  "flexed_biceps": [
+    "腕",
+    "筋肉"
+  ],
+  "flower_playing_cards": [
+    "花札"
+  ],
+  "flushed_face": [
+    "びっくり",
+    "照れる",
+    "痛"
+  ],
+  "flying_disc": [
+    "フライングディスク",
+    "フリスビー"
+  ],
+  "flying_saucer": [
+    "ufo",
+    "未確認飛行物体"
+  ],
+  "foggy": [
+    "赤富士",
+    "霧",
+    "もや"
+  ],
+  "folded_hands": [
+    "手",
+    "あわせ"
+  ],
+  "foot": [
+    "足の裏",
+    "足",
+    "足裏"
+  ],
+  "footprints": [
+    "足跡",
+    "あしあと"
+  ],
+  "fork_and_knife": [
+    "食器",
+    "フォーク",
+    "ナイフ"
+  ],
+  "fork_and_knife_with_plate": [
+    "食器",
+    "フォーク",
+    "ナイフ",
+    "皿"
+  ],
+  "fortune_cookie": [
+    "クッキー"
+  ],
+  "fountain": [
+    "噴水"
+  ],
+  "four_leaf_clover": [
+    "植物",
+    "クローバー"
+  ],
+  "fox": [
+    "きつね",
+    "狐",
+    "キツネ"
+  ],
+  "france": [
+    "フランス"
+  ],
+  "french_fries": [
+    "フレンチフライ",
+    "フライドポテト"
+  ],
+  "fried_shrimp": [
+    "エビフライ"
+  ],
+  "frog": [
+    "カエル",
+    "かえる",
+    "蛙"
+  ],
+  "frowning": [
+    "不満",
+    "むっとする"
+  ],
+  "frowning_face_with_open_mouth": [
+    "うわ"
+  ],
+  "fu": [
+    "指",
+    "手"
+  ],
+  "fuel_pump": [
+    "給油"
+  ],
+  "full_moon": [
+    "月",
+    "満月"
+  ],
+  "game_die": [
+    "さいころ",
+    "サイコロ",
+    "賽"
+  ],
+  "gem_stone": [
+    "ブリリアント",
+    "ジェム",
+    "宝石",
+    "ダイヤモンド"
+  ],
+  "germany": [
+    "ドイツ",
+    "国旗"
+  ],
+  "ghost": [
+    "おばけ"
+  ],
+  "girl": [
+    "子供",
+    "女の子"
+  ],
+  "glass_of_milk": [
+    "ミルク",
+    "牛乳"
+  ],
+  "glasses": [
+    "めがね",
+    "眼鏡",
+    "メガネ"
+  ],
+  "globe_showing_americas": [
+    "アメリカ",
+    "地球"
+  ],
+  "globe_showing_asia_australia": [
+    "日本",
+    "地球",
+    "オーストラリア",
+    "アジア"
+  ],
+  "globe_showing_europe_africa": [
+    "ヨーロッパ",
+    "地球",
+    "アフリカ"
+  ],
+  "gloves": [
+    "手袋"
+  ],
+  "goal_net": [
+    "ゴールネット"
+  ],
+  "goblin": [
+    "天狗",
+    "鼻高々",
+    "ゴブリン"
+  ],
+  "goggles": [
+    "めがね",
+    "眼鏡",
+    "メガネ",
+    "ゴーグル"
+  ],
+  "graduation_cap": [
+    "帽子",
+    "学生帽",
+    "角帽"
+  ],
+  "green_salad": [
+    "サラダ"
+  ],
+  "grin": [
+    "幸せ",
+    "スマイル",
+    "笑顔",
+    "笑い",
+    "にんまり"
+  ],
+  "grinning_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "grinning_face": [
+    "幸せ",
+    "笑い",
+    "にんまり"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "幸せ",
+    "スマイル",
+    "笑顔",
+    "笑い"
+  ],
+  "guitar": [
+    "音楽",
+    "ギター"
+  ],
+  "hamburger": [
+    "チーズバーガー",
+    "ハンバーガー"
+  ],
+  "hamster": [
+    "ハムスター"
+  ],
+  "hand_with_fingers_splayed": [
+    "手",
+    "開"
+  ],
+  "hand_with_index_finger_and_thumb_crossed": [
+    "指ハート"
+  ],
+  "handbag": [
+    "鞄",
+    "かばん",
+    "カバン",
+    "ハンドバッグ"
+  ],
+  "handshake": [
+    "握手",
+    "あいさつ"
+  ],
+  "headphone": [
+    "ヘッドホン",
+    "音楽"
+  ],
+  "hear_no_evil_monkey": [
+    "聞かざる"
+  ],
+  "heart_eyes": [
+    "愛",
+    "ラブ",
+    "恋",
+    "love",
+    "ハート"
+  ],
+  "heart_hands": [
+    "指ハート"
+  ],
+  "helicopter": [
+    "ヘリコプター"
+  ],
+  "hibiscus": [
+    "花",
+    "ハイビスカス"
+  ],
+  "high_heeled_shoe": [
+    "ハイヒール",
+    "靴"
+  ],
+  "high_speed_train": [
+    "新幹線"
+  ],
+  "hiking_boot": [
+    "シューズ",
+    "靴",
+    "ハイキング",
+    "ブーツ"
+  ],
+  "honey_pot": [
+    "ハチミツ",
+    "はちみつ",
+    "蜂蜜"
+  ],
+  "honeybee": [
+    "蜂"
+  ],
+  "horse_face": [
+    "馬",
+    "ウマ",
+    "うま"
+  ],
+  "horse_racing": [
+    "馬",
+    "乗馬",
+    "スポーツ",
+    "競走馬",
+    "競馬"
+  ],
+  "hospital": [
+    "病院"
+  ],
+  "hot_beverage": [
+    "珈琲",
+    "コーヒー"
+  ],
+  "hot_dog": [
+    "食べ物",
+    "ホットドッグ"
+  ],
+  "hot_face": [
+    "暑い"
+  ],
+  "hot_pepper": [
+    "食べ物",
+    "とうがらし"
+  ],
+  "hot_springs": [
+    "温泉",
+    "お湯",
+    "湯治"
+  ],
+  "hotel": [
+    "ホテル"
+  ],
+  "house": [
+    "自宅",
+    "お家"
+  ],
+  "house_with_garden": [
+    "自宅",
+    "お家"
+  ],
+  "houses": [
+    "お家",
+    "団地",
+    "邸宅"
+  ],
+  "hugs": [
+    "笑顔",
+    "抱きしめる",
+    "ハグ"
+  ],
+  "hushed_face": [
+    "びっくり"
+  ],
+  "ice_cream": [
+    "食べ物",
+    "アイスクリーム"
+  ],
+  "ice_hockey": [
+    "アイスホッケー"
+  ],
+  "ice_skate": [
+    "スケート"
+  ],
+  "in_hole": [
+    "ホール",
+    "ゴルフ",
+    "スポーツ"
+  ],
+  "index_pointing_up": [
+    "指",
+    "手"
+  ],
+  "innocent": [
+    "スマイル",
+    "笑顔",
+    "天使の環",
+    "尊い",
+    "天使",
+    "潔白"
+  ],
+  "jack_o_lantern": [
+    "お祝い",
+    "ジャック・オー・ランタン",
+    "かぼちゃ",
+    "ハロウィン"
+  ],
+  "japan": [
+    "日本",
+    "旗"
+  ],
+  "japanese_application_button": [
+    "申請",
+    "申し込み"
+  ],
+  "japanese_bargain_button": [
+    "お得"
+  ],
+  "japanese_castle": [
+    "お城",
+    "建物"
+  ],
+  "japanese_congratulations_button": [
+    "祝賀",
+    "お祝い",
+    "慶祝",
+    "おめでたい"
+  ],
+  "japanese_free_of_charge_button": [
+    "無料",
+    "なし",
+    "無",
+    "無し"
+  ],
+  "japanese_here_button": [
+    "場所",
+    "ここ"
+  ],
+  "japanese_monthly_amount_button": [
+    "月"
+  ],
+  "japanese_no_vacancy_button": [
+    "満車",
+    "満員"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "有り",
+    "あり",
+    "有",
+    "有料"
+  ],
+  "japanese_open_for_business_button": [
+    "営業中"
+  ],
+  "japanese_passing_grade_button": [
+    "合格"
+  ],
+  "japanese_post_office": [
+    "郵便局"
+  ],
+  "japanese_reserved_button": [
+    "指定"
+  ],
+  "japanese_secret_button": [
+    "マル秘",
+    "秘密",
+    "内緒"
+  ],
+  "japanese_service_charge_button": [
+    "サービス"
+  ],
+  "japanese_symbol_for_beginner": [
+    "初心者マーク"
+  ],
+  "japanese_vacancy_button": [
+    "空き",
+    "空室",
+    "空車"
+  ],
+  "jeans": [
+    "ジーンズ",
+    "ズボン"
+  ],
+  "joy": [
+    "幸せ",
+    "うれし泣き",
+    "泣き笑い"
+  ],
+  "joy_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "kaaba": [
+    "建物",
+    "カアバ",
+    "宗教"
+  ],
+  "kick_scooter": [
+    "キックスクーター",
+    "キックボード"
+  ],
+  "kimono": [
+    "着物",
+    "振り袖"
+  ],
+  "kiss_mark": [
+    "くちびる",
+    "唇"
+  ],
+  "kissing_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "kissing_face": [
+    "キス顔"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "キス顔"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "スマイル",
+    "キス",
+    "キス顔"
+  ],
+  "kiwi_fruit": [
+    "キウイフルーツ"
+  ],
+  "lacrosse": [
+    "ラクロス"
+  ],
+  "lady_beetle": [
+    "てんとう虫"
+  ],
+  "laughing": [
+    "スマイル",
+    "笑顔",
+    "笑",
+    "爆笑"
+  ],
+  "leafy_green": [
+    "レタス"
+  ],
+  "left_facing_fist": [
+    "拳",
+    "左拳"
+  ],
+  "leg": [
+    "脚"
+  ],
+  "leopard": [
+    "ヒョウ"
+  ],
+  "light_rail": [
+    "鉄道",
+    "ライトレール"
+  ],
+  "lion": [
+    "ライオン"
+  ],
+  "lipstick": [
+    "口紅"
+  ],
+  "locomotive": [
+    "鉄道",
+    "蒸気機関車",
+    "sl"
+  ],
+  "lollipop": [
+    "アメ",
+    "飴",
+    "あめ",
+    "キャンディ"
+  ],
+  "love_you_gesture": [
+    "指",
+    "手",
+    "愛してる"
+  ],
+  "luggage": [
+    "スーツケース",
+    "かばん"
+  ],
+  "lying_face": [
+    "嘘",
+    "うそ",
+    "ピノキオ"
+  ],
+  "man_artist": [
+    "画家"
+  ],
+  "man_astronaut": [
+    "宇宙飛行士"
+  ],
+  "man_biking": [
+    "自転車",
+    "マウンテンバイク"
+  ],
+  "man_bouncing_ball": [
+    "ドリブル",
+    "バスケットボール"
+  ],
+  "man_bowing": [
+    "謝罪",
+    "すみません"
+  ],
+  "man_cartwheeling": [
+    "新体操"
+  ],
+  "man_climbing": [
+    "ロッククライミング"
+  ],
+  "man_cook": [
+    "コック",
+    "チーフ",
+    "料理人"
+  ],
+  "man_dancing": [
+    "男性",
+    "ダンス",
+    "スーツ"
+  ],
+  "man_elf": [
+    "妖精"
+  ],
+  "man_facepalming": [
+    "失敗",
+    "あちゃー"
+  ],
+  "man_factory_worker": [
+    "作業員"
+  ],
+  "man_fairy": [
+    "妖精"
+  ],
+  "man_farmer": [
+    "農業"
+  ],
+  "man_firefighter": [
+    "消防士"
+  ],
+  "man_frowning": [
+    "人間",
+    "男性"
+  ],
+  "man_genie": [
+    "ランプ",
+    "妖精"
+  ],
+  "man_gesturing_no": [
+    "バツ",
+    "いいえ",
+    "ダメ"
+  ],
+  "man_gesturing_ok": [
+    "許可",
+    "はい",
+    "まる"
+  ],
+  "man_getting_haircut": [
+    "男性",
+    "散髪"
+  ],
+  "man_getting_massage": [
+    "人間",
+    "男性",
+    "マッサージ"
+  ],
+  "man_golfing": [
+    "ゴルファー"
+  ],
+  "man_in_lotus_position": [
+    "瞑想",
+    "ヨガ"
+  ],
+  "man_in_steamy_room": [
+    "人間",
+    "湯上がり",
+    "バスローブ",
+    "おふろ",
+    "男性",
+    "風呂"
+  ],
+  "man_judge": [
+    "裁判官"
+  ],
+  "man_juggling": [
+    "曲芸",
+    "サーカス",
+    "ジャグラー",
+    "ジャグリング"
+  ],
+  "man_lifting_weights": [
+    "重量挙げ"
+  ],
+  "man_mechanic": [
+    "作業員"
+  ],
+  "man_playing_handball": [
+    "ハンドボール"
+  ],
+  "man_playing_water_polo": [
+    "水球"
+  ],
+  "man_pouting": [
+    "人間",
+    "男性"
+  ],
+  "man_raising_hand": [
+    "手",
+    "呼びかけ"
+  ],
+  "man_rowing_boat": [
+    "ボート"
+  ],
+  "man_running": [
+    "スポーツ",
+    "ランニング",
+    "走る",
+    "ジョギング",
+    "急ぐ"
+  ],
+  "man_s_shoe": [
+    "シューズ",
+    "靴",
+    "ブーツ"
+  ],
+  "man_scientist": [
+    "化学者"
+  ],
+  "man_shrugging": [
+    "納得できない",
+    "なんで",
+    "何それ"
+  ],
+  "man_superhero": [
+    "スーパーマン"
+  ],
+  "man_surfing": [
+    "波乗り",
+    "サーフィン"
+  ],
+  "man_swimming": [
+    "競泳",
+    "水泳"
+  ],
+  "man_teacher": [
+    "先生",
+    "教師"
+  ],
+  "man_vampire": [
+    "ヴァンパイア",
+    "バンパイア",
+    "吸血鬼"
+  ],
+  "man_walking": [
+    "歩く",
+    "ウォーキング"
+  ],
+  "man_zombie": [
+    "ゾンビ"
+  ],
+  "mango": [
+    "マンゴー"
+  ],
+  "map_of_japan": [
+    "日本地図"
+  ],
+  "maple_leaf": [
+    "紅葉"
+  ],
+  "martial_arts_uniform": [
+    "スポーツ",
+    "胴着",
+    "柔道着",
+    "空手着"
+  ],
+  "meat_on_bone": [
+    "骨つき肉",
+    "お肉"
+  ],
+  "melon": [
+    "メロン"
+  ],
+  "men_wrestling": [
+    "レスリング"
+  ],
+  "mermaid": [
+    "マーメイド",
+    "人魚"
+  ],
+  "merman": [
+    "人魚"
+  ],
+  "metro": [
+    "電車",
+    "地下鉄"
+  ],
+  "microphone": [
+    "録音",
+    "歌う",
+    "マイク"
+  ],
+  "military_medal": [
+    "メダル"
+  ],
+  "milky_way": [
+    "天の川"
+  ],
+  "minibus": [
+    "バス"
+  ],
+  "moai": [
+    "モアイ像"
+  ],
+  "money_mouth_face": [
+    "舌",
+    "お金",
+    "金",
+    "金銭欲"
+  ],
+  "monkey_face": [
+    "サル",
+    "猿",
+    "さる"
+  ],
+  "monorail": [
+    "鉄道",
+    "モノレール"
+  ],
+  "moon_cake": [
+    "月餅"
+  ],
+  "moon_viewing_ceremony": [
+    "十五夜",
+    "月見",
+    "だんご",
+    "お月さま"
+  ],
+  "mosque": [
+    "モスク"
+  ],
+  "motor_scooter": [
+    "バイク",
+    "スクーター"
+  ],
+  "motorcycle": [
+    "オートバイ",
+    "オートレース",
+    "バイク"
+  ],
+  "motorway": [
+    "高速道路"
+  ],
+  "mount_fuji": [
+    "富士山"
+  ],
+  "mountain": [
+    "山脈"
+  ],
+  "mountain_railway": [
+    "電車",
+    "山岳鉄道"
+  ],
+  "mouse_face": [
+    "ねずみ",
+    "ネズミ",
+    "鼠"
+  ],
+  "mouth": [
+    "キス",
+    "口",
+    "唇"
+  ],
+  "mrs_claus": [
+    "サンタクロース"
+  ],
+  "musical_keyboard": [
+    "キーボード",
+    "音楽",
+    "ピアノ"
+  ],
+  "musical_score": [
+    "音楽",
+    "五線譜"
+  ],
+  "nail_polish": [
+    "マニキュア",
+    "ネイル"
+  ],
+  "national_park": [
+    "自然公園",
+    "国立公園"
+  ],
+  "nauseated_face": [
+    "苦しい",
+    "病気",
+    "吐きそう",
+    "吐きそうな顔"
+  ],
+  "necktie": [
+    "シャツ",
+    "ネクタイ",
+    "タイ",
+    "ワイシャツ"
+  ],
+  "nerd_face": [
+    "眼鏡",
+    "メガネ",
+    "オタク",
+    "知的"
+  ],
+  "night_with_stars": [
+    "夜景"
+  ],
+  "nose": [
+    "鼻",
+    "アロマ"
+  ],
+  "ocean": [
+    "津波",
+    "波"
+  ],
+  "oden": [
+    "おでん",
+    "食べ物"
+  ],
+  "office_building": [
+    "オフィスビル"
+  ],
+  "ogre": [
+    "鬼"
+  ],
+  "ok_hand": [
+    "わかりました",
+    "手",
+    "ok"
+  ],
+  "oncoming_fist": [
+    "グー",
+    "パンチ"
+  ],
+  "open_hands": [
+    "手",
+    "両手"
+  ],
+  "open_mouth": [
+    "表情"
+  ],
+  "owl": [
+    "梟",
+    "フクロウ",
+    "鳥"
+  ],
+  "palestinian_territories": [
+    "パレスチナ"
+  ],
+  "palms_up_together": [
+    "手",
+    "両手"
+  ],
+  "pancakes": [
+    "食べ物",
+    "パンケーキ"
+  ],
+  "panda": [
+    "パンダ"
+  ],
+  "partying_face": [
+    "幸せ",
+    "お祝い",
+    "パーティー"
+  ],
+  "peach": [
+    "ピーチ",
+    "食べ物",
+    "もも",
+    "桃"
+  ],
+  "peanuts": [
+    "ピーナッツ",
+    "落花生",
+    "ナッツ"
+  ],
+  "penguin": [
+    "ペンギン"
+  ],
+  "pensive_face": [
+    "悲しい"
+  ],
+  "persevering_face": [
+    "悲しみ",
+    "ショック",
+    "なげき",
+    "すっぱい",
+    "疲れ"
+  ],
+  "person": [
+    "人間",
+    "男性"
+  ],
+  "person_fencing": [
+    "フェンシング"
+  ],
+  "person_in_tuxedo": [
+    "結婚式",
+    "タキシード",
+    "花婿"
+  ],
+  "person_with_veil": [
+    "結婚式",
+    "ブライダル",
+    "花嫁"
+  ],
+  "pie": [
+    "食べ物",
+    "パイ"
+  ],
+  "pineapple": [
+    "パイナップル"
+  ],
+  "ping_pong": [
+    "スポーツ",
+    "卓球",
+    "ピンポン"
+  ],
+  "pizza": [
+    "ピザ"
+  ],
+  "pleading_face": [
+    "うるうる"
+  ],
+  "police_car": [
+    "パトカー"
+  ],
+  "police_car_light": [
+    "パトランプ",
+    "赤色灯",
+    "サイレン"
+  ],
+  "pool_8_ball": [
+    "ビリヤード"
+  ],
+  "popcorn": [
+    "ポップコーン"
+  ],
+  "post_office": [
+    "郵便局"
+  ],
+  "pot_of_food": [
+    "シチュー"
+  ],
+  "potable_water": [
+    "水道",
+    "蛇口"
+  ],
+  "potato": [
+    "食べ物",
+    "ジャガイモ",
+    "じゃがいも",
+    "ポテト"
+  ],
+  "poultry_leg": [
+    "食べ物",
+    "フライドチキン"
+  ],
+  "pouting_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "pretzel": [
+    "プレッツェル",
+    "ベーグル"
+  ],
+  "printer": [
+    "プリンター"
+  ],
+  "purse": [
+    "お財布",
+    "サイフ"
+  ],
+  "rabbit": [
+    "うさぎ"
+  ],
+  "raccoon": [
+    "ラクーン"
+  ],
+  "racing_car": [
+    "クルマ",
+    "車",
+    "f1"
+  ],
+  "railway_car": [
+    "鉄道",
+    "電車"
+  ],
+  "railway_track": [
+    "鉄道",
+    "線路"
+  ],
+  "raised_back_of_hand": [
+    "手",
+    "開"
+  ],
+  "raised_fist": [
+    "グー",
+    "げんこつ"
+  ],
+  "raised_hand": [
+    "手",
+    "開"
+  ],
+  "raising_hands": [
+    "万歳",
+    "ばんざい",
+    "バンザイ"
+  ],
+  "recycling_symbol": [
+    "リサイクル",
+    "再利用"
+  ],
+  "red_apple": [
+    "食べ物",
+    "りんご"
+  ],
+  "relieved_face": [
+    "ほっ",
+    "まったり"
+  ],
+  "reminder_ribbon": [
+    "リボン"
+  ],
+  "rescue_worker_s_helmet": [
+    "ヘルメット",
+    "安全帽"
+  ],
+  "rice_ball": [
+    "おむすび",
+    "おにぎり"
+  ],
+  "rice_cracker": [
+    "煎餅",
+    "おせんべい"
+  ],
+  "right_facing_fist": [
+    "拳",
+    "右拳"
+  ],
+  "ring": [
+    "指輪"
+  ],
+  "roasted_sweet_potato": [
+    "さつまいも",
+    "食べ物",
+    "スイートポテト",
+    "焼き芋"
+  ],
+  "robot": [
+    "ロボット"
+  ],
+  "rock": [
+    "岩石"
+  ],
+  "rocket": [
+    "ロケット"
+  ],
+  "rofl": [
+    "幸せ",
+    "うれし泣き",
+    "泣き笑い"
+  ],
+  "roller_coaster": [
+    "ローラーコースター",
+    "ジェットコースター"
+  ],
+  "rosette": [
+    "花",
+    "ロゼット"
+  ],
+  "rugby_football": [
+    "ラグビーボール"
+  ],
+  "running_shirt": [
+    "ランニングシャツ",
+    "スポーツ",
+    "たすき"
+  ],
+  "running_shoe": [
+    "運動靴",
+    "シューズ",
+    "靴",
+    "スニーカー"
+  ],
+  "russia": [
+    "ロシア連邦",
+    "国旗"
+  ],
+  "sad_but_relieved_face": [
+    "うら悲しい"
+  ],
+  "sake": [
+    "酒",
+    "日本酒",
+    "熱燗"
+  ],
+  "salt": [
+    "塩"
+  ],
+  "sandwich": [
+    "サンドイッチ"
+  ],
+  "santa_claus": [
+    "サンタクロース"
+  ],
+  "satellite": [
+    "人工衛星"
+  ],
+  "saxophone": [
+    "サックス",
+    "ジャズ",
+    "音楽",
+    "サキソフォン"
+  ],
+  "scarf": [
+    "スカーフ"
+  ],
+  "school": [
+    "学校"
+  ],
+  "scream": [
+    "ショック",
+    "恐れる",
+    "悲鳴",
+    "恐怖"
+  ],
+  "seat": [
+    "シート",
+    "座席"
+  ],
+  "see_no_evil_monkey": [
+    "見ざる"
+  ],
+  "selfie": [
+    "携帯",
+    "自撮り",
+    "腕"
+  ],
+  "shallow_pan_of_food": [
+    "パエリア"
+  ],
+  "shamrock": [
+    "植物",
+    "クローバー"
+  ],
+  "shaved_ice": [
+    "食べ物",
+    "かき氷"
+  ],
+  "sheaf_of_rice": [
+    "植物",
+    "稲穂"
+  ],
+  "shinto_shrine": [
+    "鳥居",
+    "神道",
+    "神社",
+    "宗教"
+  ],
+  "ship": [
+    "船"
+  ],
+  "shooting_star": [
+    "流れ星"
+  ],
+  "shopping_bags": [
+    "買い物袋"
+  ],
+  "shopping_cart": [
+    "ショッピングカート",
+    "買い物カート"
+  ],
+  "shortcake": [
+    "食べ物",
+    "ケーキ",
+    "ショートケーキ"
+  ],
+  "shrimp": [
+    "海老",
+    "えび",
+    "エビ",
+    "シュリンプ"
+  ],
+  "shushing_face": [
+    "お静かに",
+    "しーっ"
+  ],
+  "sign_of_the_horns": [
+    "yo",
+    "手"
+  ],
+  "skateboard": [
+    "スケートボード"
+  ],
+  "skier": [
+    "スキー"
+  ],
+  "skis": [
+    "スキー"
+  ],
+  "skull": [
+    "骨"
+  ],
+  "skull_and_crossbones": [
+    "骨"
+  ],
+  "sled": [
+    "ソリ"
+  ],
+  "sleeping_face": [
+    "眠い",
+    "寝る",
+    "睡眠",
+    "熟睡"
+  ],
+  "sleepy_face": [
+    "眠い"
+  ],
+  "slightly_frowning_face": [
+    "無表情",
+    "不満",
+    "むっとする"
+  ],
+  "slightly_smiling_face": [
+    "幸せ",
+    "スマイル"
+  ],
+  "slot_machine": [
+    "ギャンブル",
+    "スロットマシン",
+    "カジノ",
+    "777"
+  ],
+  "small_airplane": [
+    "飛行機"
+  ],
+  "smiley": [
+    "幸せ",
+    "スマイル",
+    "笑い",
+    "笑",
+    "楽しい"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "smiling_face": [
+    "赤らめる",
+    "照れる",
+    "照",
+    "リラックス"
+  ],
+  "smiling_face_with_horns": [
+    "ツノ",
+    "悪魔",
+    "悪魔笑い",
+    "邪悪",
+    "デビル"
+  ],
+  "smiling_face_with_sunglasses": [
+    "めがね",
+    "サングラス",
+    "スマイル",
+    "眼鏡",
+    "メガネ",
+    "クール"
+  ],
+  "smiling_face_with_three_hearts": [
+    "愛",
+    "ラブ",
+    "恋",
+    "love"
+  ],
+  "smirking_face": [
+    "ニヤリ",
+    "たぶん",
+    "含み笑い"
+  ],
+  "snail": [
+    "カタツムリ",
+    "かたつむり"
+  ],
+  "sneezing_face": [
+    "病気",
+    "風邪",
+    "かぜ",
+    "鼻水"
+  ],
+  "snow_capped_mountain": [
+    "山脈"
+  ],
+  "snowboarder": [
+    "スノーボード"
+  ],
+  "sob": [
+    "泣き",
+    "むせび泣き",
+    "感涙",
+    "涙",
+    "むせぶ"
+  ],
+  "soccer_ball": [
+    "サッカー",
+    "フットボール"
+  ],
+  "socks": [
+    "靴下"
+  ],
+  "soft_ice_cream": [
+    "食べ物",
+    "ソフトクリーム"
+  ],
+  "softball": [
+    "ソフトボール"
+  ],
+  "spaghetti": [
+    "スパゲティ"
+  ],
+  "sparkler": [
+    "光線"
+  ],
+  "speak_no_evil_monkey": [
+    "言わざる"
+  ],
+  "speaking_head": [
+    "シルエット",
+    "話す",
+    "叫ぶ"
+  ],
+  "spoon": [
+    "食器",
+    "スプーン"
+  ],
+  "sport_utility_vehicle": [
+    "クルマ",
+    "車",
+    "自動車",
+    "suv"
+  ],
+  "sports_medal": [
+    "メダル"
+  ],
+  "squinting_face_with_tongue": [
+    "舌出し"
+  ],
+  "st_martin": [
+    "セント・マーチン島"
+  ],
+  "stadium": [
+    "野球場",
+    "スタジアム"
+  ],
+  "star_struck": [
+    "幸せ",
+    "スマイル",
+    "お星さま"
+  ],
+  "station": [
+    "鉄道",
+    "電車",
+    "駅"
+  ],
+  "statue_of_liberty": [
+    "自由の女神",
+    "ウルトラクイズ"
+  ],
+  "steaming_bowl": [
+    "ラーメン"
+  ],
+  "strawberry": [
+    "食べ物",
+    "ストロベリー",
+    "苺",
+    "いちご"
+  ],
+  "stuffed_flatbread": [
+    "ピタ"
+  ],
+  "sunflower": [
+    "花",
+    "ひまわり"
+  ],
+  "sunglasses": [
+    "サングラス",
+    "眼鏡",
+    "メガネ",
+    "dark sunglasses",
+    "グラサン",
+    "glasses"
+  ],
+  "sunrise": [
+    "朝日",
+    "日の出",
+    "サンライズ",
+    "太陽"
+  ],
+  "sunrise_over_mountains": [
+    "夕日",
+    "日の入り",
+    "サンセット",
+    "太陽"
+  ],
+  "sunset": [
+    "日の入り",
+    "夕暮れ",
+    "日没"
+  ],
+  "sushi": [
+    "お寿司"
+  ],
+  "sweat_droplets": [
+    "汗",
+    "水滴",
+    "雨"
+  ],
+  "sweat_smile": [
+    "スマイル",
+    "笑顔",
+    "笑い",
+    "汗",
+    "汗つきスマイル"
+  ],
+  "synagogue": [
+    "シナゴーグ"
+  ],
+  "t_shirt": [
+    "tシャツ"
+  ],
+  "taco": [
+    "タコス"
+  ],
+  "taiwan": [
+    "国旗",
+    "中華民国",
+    "台湾"
+  ],
+  "takeout_box": [
+    "持ち帰り"
+  ],
+  "taxi": [
+    "クルマ",
+    "車",
+    "自動車",
+    "タクシー"
+  ],
+  "teacup_without_handle": [
+    "日本茶",
+    "緑茶"
+  ],
+  "telescope": [
+    "望遠鏡"
+  ],
+  "tennis": [
+    "テニス"
+  ],
+  "tent": [
+    "テント"
+  ],
+  "thinking": [
+    "うーん",
+    "考え中"
+  ],
+  "thread": [
+    "糸"
+  ],
+  "ticket": [
+    "チケット"
+  ],
+  "tiger_face": [
+    "虎",
+    "トラ",
+    "タイガー"
+  ],
+  "tired_face": [
+    "悲しみ",
+    "なげき",
+    "えー",
+    "嘆く"
+  ],
+  "tokyo_tower": [
+    "東京タワー"
+  ],
+  "tomato": [
+    "トマト"
+  ],
+  "tongue": [
+    "舌"
+  ],
+  "tooth": [
+    "歯"
+  ],
+  "top_hat": [
+    "帽子",
+    "シルクハット",
+    "トップハット"
+  ],
+  "tractor": [
+    "トラクター"
+  ],
+  "train": [
+    "鉄道",
+    "電車"
+  ],
+  "tram": [
+    "鉄道",
+    "トラム",
+    "路面電車"
+  ],
+  "tram_car": [
+    "トラム"
+  ],
+  "trolleybus": [
+    "トロリーバス"
+  ],
+  "trophy": [
+    "優勝",
+    "トロフィー",
+    "カップ"
+  ],
+  "tropical_drink": [
+    "トロピカルドリンク",
+    "飲み物"
+  ],
+  "trumpet": [
+    "ジャズ",
+    "トランペット",
+    "音楽"
+  ],
+  "tulip": [
+    "花",
+    "チューリップ"
+  ],
+  "tumbler_glass": [
+    "酒",
+    "ウィスキー",
+    "ウイスキー"
+  ],
+  "ukraine": [
+    "国旗",
+    "ウクライナ"
+  ],
+  "umbrella": [
+    "傘"
+  ],
+  "umbrella_with_rain_drops": [
+    "傘",
+    "雨"
+  ],
+  "unamused_face": [
+    "うーん",
+    "まぁまぁ",
+    "白けた",
+    "しらけた",
+    "いまいち"
+  ],
+  "unicorn": [
+    "ユニコーン"
+  ],
+  "united_states": [
+    "アメリカ合衆国",
+    "アメリカ",
+    "旗"
+  ],
+  "upside_down_face": [
+    "スマイル",
+    "逆さ"
+  ],
+  "victory_hand": [
+    "手指",
+    "ピースサイン",
+    "勝利",
+    "vサイン"
+  ],
+  "video_game": [
+    "コントローラー",
+    "ゲーム"
+  ],
+  "violin": [
+    "音楽",
+    "バイオリン"
+  ],
+  "volcano": [
+    "火山",
+    "ボルケーノ"
+  ],
+  "volleyball": [
+    "バレーボール"
+  ],
+  "vulcan_salute": [
+    "手",
+    "開"
+  ],
+  "watermelon": [
+    "食べ物",
+    "スイカ",
+    "すいか",
+    "西瓜"
+  ],
+  "waving_hand": [
+    "手",
+    "開",
+    "ふる"
+  ],
+  "weary_cat": [
+    "ネコ",
+    "ねこ",
+    "猫"
+  ],
+  "weary_face": [
+    "悲しみ",
+    "なげき",
+    "ため息",
+    "はぁ"
+  ],
+  "wedding": [
+    "教会"
+  ],
+  "white_flower": [
+    "大変よくできました"
+  ],
+  "wine_glass": [
+    "グラス",
+    "飲物",
+    "ワイン"
+  ],
+  "wink": [
+    "スマイル",
+    "ウインク"
+  ],
+  "winking_face_with_tongue": [
+    "変顔",
+    "ウインク"
+  ],
+  "woman": [
+    "人間",
+    "女性"
+  ],
+  "woman_artist": [
+    "画家"
+  ],
+  "woman_astronaut": [
+    "宇宙飛行士"
+  ],
+  "woman_bouncing_ball": [
+    "ドリブル",
+    "バスケットボール"
+  ],
+  "woman_cartwheeling": [
+    "新体操"
+  ],
+  "woman_climbing": [
+    "ロッククライミング"
+  ],
+  "woman_cook": [
+    "コック",
+    "チーフ",
+    "料理人"
+  ],
+  "woman_dancing": [
+    "ドレス",
+    "女性",
+    "ダンス"
+  ],
+  "woman_elf": [
+    "妖精"
+  ],
+  "woman_facepalming": [
+    "失敗",
+    "あちゃー"
+  ],
+  "woman_factory_worker": [
+    "作業員"
+  ],
+  "woman_fairy": [
+    "妖精"
+  ],
+  "woman_farmer": [
+    "農業"
+  ],
+  "woman_firefighter": [
+    "消防士"
+  ],
+  "woman_frowning": [
+    "人間",
+    "女性"
+  ],
+  "woman_genie": [
+    "ランプ",
+    "妖精"
+  ],
+  "woman_gesturing_no": [
+    "バツ",
+    "いいえ",
+    "ダメ"
+  ],
+  "woman_gesturing_ok": [
+    "許可",
+    "はい",
+    "まる"
+  ],
+  "woman_getting_haircut": [
+    "女性",
+    "散髪"
+  ],
+  "woman_getting_massage": [
+    "人間",
+    "女性",
+    "マッサージ"
+  ],
+  "woman_golfing": [
+    "ゴルファー"
+  ],
+  "woman_in_lotus_position": [
+    "瞑想",
+    "ヨガ"
+  ],
+  "woman_in_steamy_room": [
+    "人間",
+    "女性",
+    "湯上がり",
+    "バスローブ",
+    "おふろ",
+    "風呂"
+  ],
+  "woman_judge": [
+    "裁判官"
+  ],
+  "woman_juggling": [
+    "曲芸",
+    "サーカス",
+    "ジャグラー",
+    "ジャグリング"
+  ],
+  "woman_lifting_weights": [
+    "重量挙げ"
+  ],
+  "woman_mechanic": [
+    "作業員"
+  ],
+  "woman_mountain_biking": [
+    "自転車",
+    "マウンテンバイク"
+  ],
+  "woman_playing_handball": [
+    "ハンドボール"
+  ],
+  "woman_playing_water_polo": [
+    "水球"
+  ],
+  "woman_pouting": [
+    "人間",
+    "女性"
+  ],
+  "woman_raising_hand": [
+    "手",
+    "呼びかけ"
+  ],
+  "woman_rowing_boat": [
+    "ボート"
+  ],
+  "woman_running": [
+    "スポーツ",
+    "ランニング",
+    "走る",
+    "ジョギング",
+    "急ぐ"
+  ],
+  "woman_s_boot": [
+    "靴",
+    "ブーツ"
+  ],
+  "woman_s_hat": [
+    "帽子",
+    "ハット"
+  ],
+  "woman_s_sandal": [
+    "シューズ",
+    "靴",
+    "サンダル"
+  ],
+  "woman_scientist": [
+    "化学者"
+  ],
+  "woman_shrugging": [
+    "納得できない",
+    "なんで",
+    "何それ"
+  ],
+  "woman_superhero": [
+    "スーパーガール"
+  ],
+  "woman_surfing": [
+    "波乗り",
+    "サーフィン"
+  ],
+  "woman_swimming": [
+    "競泳",
+    "水泳"
+  ],
+  "woman_teacher": [
+    "先生",
+    "教師"
+  ],
+  "woman_vampire": [
+    "ヴァンパイア",
+    "バンパイア",
+    "吸血鬼"
+  ],
+  "woman_walking": [
+    "歩く",
+    "ウォーキング"
+  ],
+  "woman_with_headscarf": [
+    "ヒジャブ"
+  ],
+  "woman_zombie": [
+    "ゾンビ"
+  ],
+  "women_wrestling": [
+    "レスリング"
+  ],
+  "woozy_face": [
+    "ヘロヘロ"
+  ],
+  "world_map": [
+    "世界地図"
+  ],
+  "worried": [
+    "悲しみ",
+    "ショック",
+    "驚き"
+  ],
+  "wrapped_gift": [
+    "箱",
+    "プレゼント"
+  ],
+  "writing_hand": [
+    "メッセージ",
+    "ペン",
+    "書く"
+  ],
+  "yarn": [
+    "毛糸"
+  ],
+  "zany_face": [
+    "変顔"
+  ],
+  "zipper_mouth_face": [
+    "静かに",
+    "お口にチャック"
+  ],
+  "zzz": [
+    "眠い"
+  ]
+}

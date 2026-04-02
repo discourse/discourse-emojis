@@ -1,0 +1,467 @@
+{
+  "+1": [
+    "赞",
+    "顶",
+    "支持"
+  ],
+  "-1": [
+    "踩",
+    "鄙视"
+  ],
+  "alien": [
+    "外星人"
+  ],
+  "anguished_face": [
+    "震惊"
+  ],
+  "astonished_face": [
+    "震惊"
+  ],
+  "beer_mug": [
+    "啤酒"
+  ],
+  "blush": [
+    "快乐",
+    "笑",
+    "微笑",
+    "smile",
+    "高兴",
+    "开心",
+    "愉快",
+    "relaxed",
+    "glad",
+    "脸红",
+    "cute",
+    ":-)",
+    "^_^",
+    "happy",
+    "flushed"
+  ],
+  "butterfly": [
+    "蝴蝶"
+  ],
+  "china": [
+    "中国"
+  ],
+  "chopsticks": [
+    "筷子"
+  ],
+  "clown_face": [
+    "小丑脸",
+    "小丑"
+  ],
+  "cry": [
+    "哭"
+  ],
+  "crying_cat": [
+    "哭"
+  ],
+  "dog_face": [
+    "狗"
+  ],
+  "dragon_face": [
+    "龙头"
+  ],
+  "drooling_face": [
+    "流口水"
+  ],
+  "dumpling": [
+    "饺子"
+  ],
+  "enraged_face": [
+    "愤怒"
+  ],
+  "eyes": [
+    "震惊"
+  ],
+  "face_blowing_a_kiss": [
+    "<3",
+    ":*",
+    "亲",
+    "亲亲",
+    "亲嘴",
+    "=*",
+    "么么"
+  ],
+  "face_savoring_food": [
+    "吐舌"
+  ],
+  "face_with_crossed_out_eyes": [
+    "震惊"
+  ],
+  "face_with_medical_mask": [
+    "尴尬"
+  ],
+  "face_with_monocle": [
+    "震惊",
+    "眼镜",
+    "思考",
+    "怀疑",
+    "侦探",
+    "质疑"
+  ],
+  "face_with_raised_eyebrow": [
+    "思考",
+    "怀疑",
+    "挑眉",
+    "质疑"
+  ],
+  "face_with_thermometer": [
+    "发烧"
+  ],
+  "fearful": [
+    "震惊"
+  ],
+  "firecracker": [
+    "爆竹",
+    "鞭炮"
+  ],
+  "flushed_face": [
+    "震惊"
+  ],
+  "folded_hands": [
+    "祈祷",
+    "谢谢"
+  ],
+  "frowning_face_with_open_mouth": [
+    "震惊"
+  ],
+  "ghost": [
+    "鬼"
+  ],
+  "green_apple": [
+    "青苹果",
+    "苹果"
+  ],
+  "grimacing": [
+    "尴尬"
+  ],
+  "grin": [
+    "快乐",
+    "笑",
+    "开心 快乐 笑",
+    "高兴",
+    "开心"
+  ],
+  "grinning_face": [
+    "哈哈",
+    "快乐",
+    "笑",
+    "呵呵",
+    "开心 快乐 笑",
+    "微笑",
+    "开心",
+    "哈哈哈哈"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "快乐",
+    "笑",
+    "开心 快乐 笑",
+    "微笑",
+    "高兴",
+    "开心"
+  ],
+  "growing_heart": [
+    "<3"
+  ],
+  "hear_no_evil_monkey": [
+    "震惊"
+  ],
+  "heart_eyes": [
+    "爱心",
+    "爱心眼",
+    "喜欢"
+  ],
+  "horse_face": [
+    "马"
+  ],
+  "hot_face": [
+    "热"
+  ],
+  "hushed_face": [
+    "震惊"
+  ],
+  "innocent": [
+    "快乐",
+    "笑",
+    "开心",
+    "天使"
+  ],
+  "japanese_monthly_amount_button": [
+    "月"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "有"
+  ],
+  "joy": [
+    "哈哈",
+    "快乐",
+    "rofl",
+    "笑死",
+    "笑",
+    "开心 快乐 笑",
+    "smile",
+    "lol",
+    "lmao",
+    "tears",
+    "笑哭",
+    "开心",
+    "haha",
+    "cry",
+    "大笑",
+    "破涕为笑",
+    "lmfao",
+    "laugh",
+    "happy"
+  ],
+  "joy_cat": [
+    "笑哭"
+  ],
+  "kissing_face": [
+    "亲",
+    "亲亲",
+    "亲嘴"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "亲",
+    "亲亲",
+    "亲嘴"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "亲",
+    "亲亲",
+    "亲嘴"
+  ],
+  "laughing": [
+    "哈哈",
+    "快乐",
+    "笑死",
+    "笑",
+    "开心 快乐 笑",
+    "开心",
+    "大笑"
+  ],
+  "mahjong_red_dragon": [
+    "红中"
+  ],
+  "man_facepalming": [
+    "没眼看"
+  ],
+  "moon_cake": [
+    "月饼"
+  ],
+  "mouse": [
+    "老鼠"
+  ],
+  "mouse_face": [
+    "老鼠",
+    "耗子"
+  ],
+  "nerd_face": [
+    "眼镜",
+    "书呆子"
+  ],
+  "ok_hand": [
+    "好的"
+  ],
+  "open_mouth": [
+    "震惊"
+  ],
+  "panda": [
+    "熊猫"
+  ],
+  "peach": [
+    "桃子"
+  ],
+  "person_facepalming": [
+    "没眼看"
+  ],
+  "pig_face": [
+    "猪"
+  ],
+  "pig_nose": [
+    "猪",
+    "猪鼻子"
+  ],
+  "poop": [
+    "粑粑"
+  ],
+  "rat": [
+    "老鼠"
+  ],
+  "red_apple": [
+    "苹果",
+    "红苹果"
+  ],
+  "red_envelope": [
+    "红包"
+  ],
+  "red_paper_lantern": [
+    "灯笼"
+  ],
+  "relieved_face": [
+    "微笑"
+  ],
+  "revolving_hearts": [
+    "<3",
+    "想你"
+  ],
+  "robot": [
+    "机器人"
+  ],
+  "rofl": [
+    "哈哈",
+    "快乐",
+    "笑死",
+    "笑",
+    "开心 快乐 笑",
+    "smile",
+    "lol",
+    "lmao",
+    "tears",
+    "笑哭",
+    "开心",
+    "rolling on the floor laughing",
+    "haha",
+    "cry",
+    "大笑",
+    "破涕为笑",
+    "lmfao",
+    "laugh",
+    "laughing"
+  ],
+  "roll_eyes": [
+    "没眼看",
+    "尴尬",
+    "白眼"
+  ],
+  "scream": [
+    "震惊",
+    "惊"
+  ],
+  "see_no_evil_monkey": [
+    "没眼看",
+    "尴尬"
+  ],
+  "slightly_frowning_face": [
+    "=("
+  ],
+  "slightly_smiling_face": [
+    "呵呵",
+    "微笑",
+    "笑脸",
+    "=)",
+    ":)",
+    ":-)"
+  ],
+  "smiley": [
+    "快乐",
+    "笑",
+    "呵呵",
+    "开心 快乐 笑",
+    "微笑",
+    "开心"
+  ],
+  "smiling_face": [
+    "快乐",
+    "笑",
+    "微笑",
+    "开心",
+    "脸红"
+  ],
+  "smiling_face_with_sunglasses": [
+    "眼镜",
+    "酷",
+    "墨镜",
+    "帅"
+  ],
+  "smiling_face_with_three_hearts": [
+    "<3"
+  ],
+  "smirking_face": [
+    "笑",
+    "侧目",
+    "嘲讽",
+    "冷笑",
+    "斜眼"
+  ],
+  "sob": [
+    "哭"
+  ],
+  "speak_no_evil_monkey": [
+    "震惊"
+  ],
+  "squinting_face_with_tongue": [
+    "吐舌",
+    "略略略"
+  ],
+  "star_struck": [
+    "星星眼",
+    "兴奋"
+  ],
+  "sweat_smile": [
+    "尴尬",
+    "汗"
+  ],
+  "taiwan": [
+    "台湾"
+  ],
+  "tangerine": [
+    "橘子"
+  ],
+  "teacup_without_handle": [
+    "茶"
+  ],
+  "thinking": [
+    "思考"
+  ],
+  "trophy": [
+    "冠军",
+    "奖"
+  ],
+  "united_states": [
+    "美国"
+  ],
+  "upside_down_face": [
+    "呵呵",
+    "微笑",
+    "(=",
+    "笑脸",
+    "讽刺"
+  ],
+  "waving_hand": [
+    "你好"
+  ],
+  "weary_cat": [
+    "震惊"
+  ],
+  "wink": [
+    "微笑",
+    "眨眼",
+    ";-)",
+    ";)"
+  ],
+  "winking_face_with_tongue": [
+    "眨眼",
+    "吐舌"
+  ],
+  "woman_facepalming": [
+    "没眼看"
+  ],
+  "worried": [
+    "震惊"
+  ],
+  "yin_yang": [
+    "太极图"
+  ],
+  "zany_face": [
+    "尴尬",
+    "吐舌",
+    "略略略"
+  ],
+  "zero": [
+    "0",
+    "零",
+    "0 零"
+  ]
+}
