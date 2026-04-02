@@ -46,7 +46,7 @@ def build_locale_search_aliases(keywords, emoji_to_name)
       next if keyword.gsub(" ", "_") == name
 
       aliases[name] ||= []
-      aliases[name] << keyword if !aliases[name].include?(keyword) # rubocop:disable Style/InvertibleUnlessCondition
+      aliases[name] << keyword if !aliases[name].include?(keyword)
     end
   end
 
