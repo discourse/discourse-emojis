@@ -1,0 +1,513 @@
+{
+  "+1": [
+    "好",
+    "讚",
+    "不錯",
+    "是",
+    "聰明",
+    "正",
+    "沒錯",
+    "對"
+  ],
+  "american_football": [
+    "波"
+  ],
+  "angry": [
+    "憤怒",
+    "生氣"
+  ],
+  "anxious_face_with_sweat": [
+    "怕",
+    "汗"
+  ],
+  "baseball": [
+    "波"
+  ],
+  "basketball": [
+    "波"
+  ],
+  "bear": [
+    "熊"
+  ],
+  "blush": [
+    "高興",
+    "快樂",
+    "笑",
+    "耶",
+    "開心",
+    "微笑",
+    "爽",
+    "哈"
+  ],
+  "brain": [
+    "頭腦",
+    "大腦",
+    "腦袋",
+    "聰明",
+    "天才",
+    "腦"
+  ],
+  "canada": [
+    "楓葉國",
+    "ca",
+    "加拿大",
+    "flag",
+    "flag_ca"
+  ],
+  "cold_face": [
+    "凍",
+    "冷"
+  ],
+  "confounded_face": [
+    "累",
+    "悲哀",
+    "傷心"
+  ],
+  "confused": [
+    "困惑"
+  ],
+  "couple_with_heart_man_man": [
+    "愛"
+  ],
+  "couple_with_heart_woman_woman": [
+    "愛"
+  ],
+  "cry": [
+    "哭哭",
+    "哭",
+    "悲哀",
+    "眼淚",
+    "傷心"
+  ],
+  "crying_cat": [
+    "哭"
+  ],
+  "disappointed_face": [
+    "悲哀",
+    "失望",
+    "傷心"
+  ],
+  "downcast_face_with_sweat": [
+    "汗",
+    "傻眼"
+  ],
+  "eight": [
+    "數字"
+  ],
+  "enraged_face": [
+    "憤怒",
+    "怒",
+    "生氣"
+  ],
+  "exploding_head": [
+    "崩潰"
+  ],
+  "eye": [
+    "看"
+  ],
+  "face_blowing_a_kiss": [
+    "吻",
+    "愛",
+    "愛你",
+    "愛妳"
+  ],
+  "face_savoring_food": [
+    "美味",
+    "好味",
+    "好吃"
+  ],
+  "face_vomiting": [
+    "嘔"
+  ],
+  "face_with_monocle": [
+    "眼鏡"
+  ],
+  "face_with_peeking_eye": [
+    "偷看",
+    "成人",
+    "害怕",
+    "躲"
+  ],
+  "face_with_raised_eyebrow": [
+    "眉毛",
+    "可疑"
+  ],
+  "face_with_steam_from_nose": [
+    "憤怒",
+    "生氣"
+  ],
+  "face_with_symbols_on_mouth": [
+    "憤怒",
+    "屌",
+    "生氣"
+  ],
+  "face_with_tongue": [
+    "舌",
+    "伸出舌頭",
+    "舔"
+  ],
+  "fearful": [
+    "怕"
+  ],
+  "five": [
+    "數字"
+  ],
+  "flushed_face": [
+    "吃驚",
+    "臉紅"
+  ],
+  "four": [
+    "數字"
+  ],
+  "frowning": [
+    "悲哀",
+    "煩亂",
+    "皺眉"
+  ],
+  "ghost": [
+    "鬼"
+  ],
+  "grin": [
+    "高興",
+    "快樂",
+    "笑",
+    "耶",
+    "開心",
+    "爽",
+    "哈哈大笑",
+    "哈"
+  ],
+  "grinning_face": [
+    "哈哈",
+    "笑",
+    "smile",
+    "哈"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "高興",
+    "快樂",
+    "笑",
+    "耶",
+    "開心",
+    "lol",
+    "laugh",
+    "微笑",
+    "smile",
+    "爽",
+    "哈哈大笑",
+    "哈",
+    "lmao",
+    "happy",
+    "lmfao"
+  ],
+  "heart": [
+    "愛",
+    "我愛你"
+  ],
+  "heart_eyes": [
+    "開心",
+    ":*",
+    "愛",
+    "心心眼",
+    "sexy",
+    "喜愛",
+    "heart",
+    "love",
+    "正呀"
+  ],
+  "hibiscus": [
+    "大紅花",
+    "花"
+  ],
+  "hot_face": [
+    "熱"
+  ],
+  "innocent": [
+    "快樂",
+    "開心",
+    "天使"
+  ],
+  "japanese_passing_grade_button": [
+    "合"
+  ],
+  "joy": [
+    "哈哈",
+    "笑",
+    "哈哈哈",
+    "哭笑"
+  ],
+  "kiss_man_man": [
+    "愛"
+  ],
+  "kiss_woman_woman": [
+    "愛"
+  ],
+  "kissing_face": [
+    "開心"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "開心",
+    "吻"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "開心"
+  ],
+  "laughing": [
+    "高興",
+    "快樂",
+    "笑",
+    "耶",
+    "開心",
+    "爽",
+    "咪笑臉",
+    "哈哈大笑",
+    "大笑",
+    "哈",
+    "傻笑"
+  ],
+  "nauseated_face": [
+    "嘔"
+  ],
+  "nerd_face": [
+    "極客",
+    "眼鏡",
+    "書呆子"
+  ],
+  "new_moon_face": [
+    "新月",
+    "新月面",
+    "月亮"
+  ],
+  "nine": [
+    "數字"
+  ],
+  "ok_hand": [
+    "沒問題"
+  ],
+  "one": [
+    "數字"
+  ],
+  "partying_face": [
+    "慶典",
+    "派對",
+    "開玩笑"
+  ],
+  "pensive_face": [
+    "悲哀",
+    "失望",
+    "傷心"
+  ],
+  "persevering_face": [
+    "累",
+    "悲哀",
+    "傷心",
+    ">\"<"
+  ],
+  "pleading_face": [
+    "我想你",
+    "拜託",
+    "求情",
+    "懇求"
+  ],
+  "pool_8_ball": [
+    "波"
+  ],
+  "poop": [
+    "屎",
+    "大便"
+  ],
+  "relieved_face": [
+    "開心",
+    "滿足"
+  ],
+  "rofl": [
+    "哈哈",
+    "笑",
+    "笑歪",
+    "哭笑"
+  ],
+  "roll_eyes": [
+    "傻眼",
+    "白眼"
+  ],
+  "rugby_football": [
+    "波"
+  ],
+  "sad_but_relieved_face": [
+    "汗"
+  ],
+  "sauropod": [
+    "恐龍"
+  ],
+  "scream": [
+    "怕",
+    "害怕",
+    "吃驚",
+    "焦慮",
+    "恐懼"
+  ],
+  "seven": [
+    "數字"
+  ],
+  "shushing_face": [
+    "噓"
+  ],
+  "six": [
+    "數字"
+  ],
+  "slightly_frowning_face": [
+    "悲哀",
+    "煩亂",
+    "皺眉"
+  ],
+  "slightly_smiling_face": [
+    "高興",
+    "好",
+    "快樂",
+    "耶",
+    "開心",
+    "讚",
+    "不錯",
+    "微笑",
+    "爽",
+    "哈",
+    "對"
+  ],
+  "smiley": [
+    "高興",
+    "快樂",
+    "笑",
+    "耶",
+    "開心",
+    "lol",
+    "laugh",
+    "微笑",
+    "smile",
+    "爽",
+    "哈哈大笑",
+    "哈",
+    "happy"
+  ],
+  "smiling_face": [
+    "高興",
+    "快樂",
+    "耶",
+    "開心",
+    "滿足",
+    "爽",
+    "哈"
+  ],
+  "smiling_face_with_sunglasses": [
+    "笑",
+    "酷",
+    "墨鏡",
+    "帥"
+  ],
+  "smiling_face_with_three_hearts": [
+    "開心",
+    "戀愛",
+    "愛"
+  ],
+  "smirking_face": [
+    "奸笑"
+  ],
+  "sob": [
+    "哭哭",
+    "哭",
+    "眼淚",
+    "t_t",
+    "哭泣"
+  ],
+  "soccer_ball": [
+    "波"
+  ],
+  "softball": [
+    "波"
+  ],
+  "squinting_face_with_tongue": [
+    "舌",
+    "開心"
+  ],
+  "star_struck": [
+    "快樂",
+    "笑"
+  ],
+  "sweat_smile": [
+    "汗顏",
+    "汗",
+    "尷尬笑"
+  ],
+  "t_rex": [
+    "恐龍"
+  ],
+  "taiwan": [
+    "台灣"
+  ],
+  "ten": [
+    "數字"
+  ],
+  "tennis": [
+    "波"
+  ],
+  "three": [
+    "數字"
+  ],
+  "tiger": [
+    "老虎"
+  ],
+  "tired_face": [
+    "累",
+    "悲傷",
+    "傷心"
+  ],
+  "two": [
+    "數字"
+  ],
+  "unamused_face": [
+    "懊惱"
+  ],
+  "upside_down_face": [
+    "笑",
+    "開心"
+  ],
+  "volleyball": [
+    "波"
+  ],
+  "weary_cat": [
+    "怕"
+  ],
+  "weary_face": [
+    "累",
+    "悲傷",
+    "傷心",
+    "厭倦"
+  ],
+  "whale": [
+    "鯨魚"
+  ],
+  "wink": [
+    "開心",
+    "眨眼"
+  ],
+  "winking_face_with_tongue": [
+    "舌",
+    "開心",
+    "眨眼"
+  ],
+  "worried": [
+    "悲哀",
+    "失望",
+    "傷心",
+    "煩亂",
+    "擔心"
+  ],
+  "zany_face": [
+    "舌",
+    "開心",
+    "瘋狂的臉",
+    "瘋"
+  ],
+  "zero": [
+    "數字"
+  ]
+}

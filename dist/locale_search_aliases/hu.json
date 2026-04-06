@@ -1,0 +1,9246 @@
+{
+  "+1": [
+    "oké",
+    "remek",
+    "kéz",
+    "szép munka",
+    "siker",
+    "igen",
+    "rendben",
+    "sikeres",
+    "jó",
+    "szuper",
+    "egyetért"
+  ],
+  "-1": [
+    "kéz",
+    "ujjak",
+    "nem",
+    "nem jó",
+    "dehogy",
+    "hamis"
+  ],
+  "100": [
+    "egyszáz",
+    "száz"
+  ],
+  "1234": [
+    "számbevitel",
+    "számok"
+  ],
+  "1st_place_medal": [
+    "sport",
+    "aranyérem"
+  ],
+  "2nd_place_medal": [
+    "sport",
+    "ezüstérem"
+  ],
+  "3rd_place_medal": [
+    "sport",
+    "bronzérem"
+  ],
+  "a_button_blood_type": [
+    "vércsoport",
+    "vér",
+    "a gomb (vércsoport)",
+    "a vér",
+    "a"
+  ],
+  "ab_button_blood_type": [
+    "vércsoport",
+    "vér",
+    "ab gomb (vércsoport)",
+    "ab vér"
+  ],
+  "abacus": [
+    "abakusz"
+  ],
+  "accordion": [
+    "harmonika"
+  ],
+  "adhesive_bandage": [
+    "ragtapasz",
+    "tapasz",
+    "sebtapasz"
+  ],
+  "admission_tickets": [
+    "esemény",
+    "belépőjegy",
+    "jegy"
+  ],
+  "aerial_tramway": [
+    "libegő",
+    "felvonó",
+    "sílift"
+  ],
+  "afghanistan": [
+    "zászló",
+    "afganisztán",
+    "af"
+  ],
+  "airplane": [
+    "repülőgép",
+    "utazás",
+    "sugárhajtású"
+  ],
+  "airplane_arrival": [
+    "érkezés",
+    "repülőgép",
+    "utazás",
+    "érkező",
+    "sugárhajtású",
+    "leszállás"
+  ],
+  "airplane_departure": [
+    "repülőgép",
+    "felszáll",
+    "utazás",
+    "indulás",
+    "sugárhajtású"
+  ],
+  "alarm_clock": [
+    "óra",
+    "vekker",
+    "ébresztőóra"
+  ],
+  "albania": [
+    "zászló",
+    "al",
+    "albánia"
+  ],
+  "alembic": [
+    "tudomány",
+    "lombik"
+  ],
+  "algeria": [
+    "zászló",
+    "dz",
+    "algéria"
+  ],
+  "alien": [
+    "földönkívüli",
+    "ufó",
+    "idegen",
+    "betolakodó"
+  ],
+  "alien_monster": [
+    "szörnyeteg",
+    "űrinvázió",
+    "szörny",
+    "space invaders"
+  ],
+  "ambulance": [
+    "autó",
+    "mentő",
+    "mentőautó",
+    "rohammentő"
+  ],
+  "american_football": [
+    "sport",
+    "labda",
+    "futball",
+    "amerikai foci"
+  ],
+  "american_samoa": [
+    "zászló",
+    "as",
+    "amerikai szamoa"
+  ],
+  "amphora": [
+    "cserépedény",
+    "amfora"
+  ],
+  "anatomical_heart": [
+    "szív"
+  ],
+  "anchor": [
+    "horgony"
+  ],
+  "andorra": [
+    "zászló",
+    "ad"
+  ],
+  "anger_symbol": [
+    "dühös",
+    "düh",
+    "őrült"
+  ],
+  "angola": [
+    "zászló",
+    "ao"
+  ],
+  "angry": [
+    "dühös",
+    "mérges",
+    "ideges"
+  ],
+  "angry_face_with_horns": [
+    "szomorú",
+    "mérges",
+    "szarv",
+    "ördög"
+  ],
+  "anguilla": [
+    "ai",
+    "zászló"
+  ],
+  "anguished_face": [
+    "csalódott",
+    "ledöbbent",
+    "elkínzott",
+    "csodálkozó"
+  ],
+  "ant": [
+    "hangya",
+    "rovar"
+  ],
+  "antarctica": [
+    "zászló",
+    "aq",
+    "antarktisz"
+  ],
+  "antenna_bars": [
+    "mobiljel",
+    "mobilhálózat",
+    "jelerősség"
+  ],
+  "antigua_barbuda": [
+    "zászló",
+    "ag",
+    "antigua és barbuda"
+  ],
+  "anxious_face_with_sweat": [
+    "szomorú",
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "frász"
+  ],
+  "aquarius": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "vízöntő"
+  ],
+  "argentina": [
+    "zászló",
+    "argentína",
+    "ar"
+  ],
+  "aries": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "kos"
+  ],
+  "armenia": [
+    "zászló",
+    "am",
+    "örményország",
+    "örmények",
+    "hayastan"
+  ],
+  "articulated_lorry": [
+    "autó",
+    "teherautó",
+    "tehergépkocsi",
+    "furgon"
+  ],
+  "artist": [
+    "művész",
+    "festő"
+  ],
+  "artist_palette": [
+    "művészet",
+    "paletta",
+    "festőművész",
+    "festés",
+    "festékpaletta"
+  ],
+  "aruba": [
+    "zászló",
+    "aw"
+  ],
+  "asterisk": [
+    "csillag szimbólum",
+    "csillag",
+    "billentyűzet csillag"
+  ],
+  "astonished_face": [
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "csodálkozik",
+    "sokk",
+    "meglepődött",
+    "frász",
+    ":o",
+    "bámul",
+    "ámul",
+    "oh"
+  ],
+  "astronaut": [
+    "űrhajós",
+    "asztronauta"
+  ],
+  "atm_sign": [
+    "szimbólum",
+    "készpénzautomata",
+    "atm"
+  ],
+  "atom_symbol": [
+    "szimbólum",
+    "atom"
+  ],
+  "australia": [
+    "zászló",
+    "au",
+    "ausztrália"
+  ],
+  "austria": [
+    "zászló",
+    "at"
+  ],
+  "auto_rickshaw": [
+    "tuk-tuk",
+    "riksa"
+  ],
+  "automobile": [
+    "autó",
+    "kocsi",
+    "gépjármű"
+  ],
+  "avocado": [
+    "étel",
+    "gyümölcs",
+    "avokádó",
+    "afrodiziákum"
+  ],
+  "axe": [
+    "favágás",
+    "balta"
+  ],
+  "azerbaijan": [
+    "zászló",
+    "azerbajdzsán",
+    "az"
+  ],
+  "b_button_blood_type": [
+    "vércsoport",
+    "vér",
+    "b",
+    "vér b",
+    "b gomb (vércsoport)"
+  ],
+  "baby": [
+    "ember",
+    "személy",
+    "arc",
+    "gyerek",
+    "kisgyerek",
+    "csecsemő"
+  ],
+  "baby_angel": [
+    "angyal",
+    "bébi"
+  ],
+  "baby_bottle": [
+    "ital",
+    "frissítő",
+    "tej",
+    "cumisüveg"
+  ],
+  "baby_chick": [
+    "kiscsirke",
+    "csirke",
+    "kismadár",
+    "kiscsibe"
+  ],
+  "baby_symbol": [
+    "szimbólumok",
+    "szimbólum",
+    "baba szimbólum",
+    "szállítási jel"
+  ],
+  "backhand_index_pointing_down": [
+    "ujj",
+    "kéz",
+    "mutat",
+    "le"
+  ],
+  "backhand_index_pointing_left": [
+    "ujj",
+    "kéz",
+    "bal",
+    "mutat"
+  ],
+  "backhand_index_pointing_right": [
+    "ujj",
+    "kéz",
+    "mutat",
+    "jobb"
+  ],
+  "backhand_index_pointing_up": [
+    "ujj",
+    "kéz",
+    "középső",
+    "mutat"
+  ],
+  "backpack": [
+    "iskolatáska",
+    "hátizsák"
+  ],
+  "bacon": [
+    "étel",
+    "reggeli",
+    "szalonna"
+  ],
+  "badger": [
+    "mosómedve",
+    "borz"
+  ],
+  "badminton": [
+    "sport",
+    "tollaslabda"
+  ],
+  "bagel": [
+    "étel"
+  ],
+  "baggage_claim": [
+    "szimbólumok",
+    "szimbólum",
+    "poggyászfelvétel",
+    "poggyász",
+    "utasfelvétel"
+  ],
+  "baguette_bread": [
+    "étel",
+    "kenyér",
+    "francia kenyér",
+    "bagett"
+  ],
+  "bahamas": [
+    "zászló",
+    "bahamák",
+    "bs"
+  ],
+  "bahrain": [
+    "zászló",
+    "bh",
+    "bahrein"
+  ],
+  "balance_scale": [
+    "eszköz",
+    "mérleg",
+    "patikamérleg"
+  ],
+  "ballet_shoes": [
+    "balettcipő",
+    "balett"
+  ],
+  "balloon": [
+    "esemény",
+    "lufi",
+    "léggömb"
+  ],
+  "ballot_box_with_ballot": [
+    "szavazóurnát a szavazólappal",
+    "mail",
+    "szavazás"
+  ],
+  "banana": [
+    "étel",
+    "gyümölcs",
+    "banán"
+  ],
+  "bangladesh": [
+    "zászló",
+    "bd",
+    "banglades"
+  ],
+  "banjo": [
+    "bendzsó"
+  ],
+  "bank": [
+    "épület"
+  ],
+  "bar_chart": [
+    "iroda",
+    "szavazás",
+    "oszlopdiagram",
+    "diagram",
+    "statisztika"
+  ],
+  "barbados": [
+    "zászló",
+    "bb"
+  ],
+  "barber_pole": [
+    "hajvágás",
+    "frizura",
+    "fodrászat",
+    "borotválás",
+    "borbély",
+    "borbélybot"
+  ],
+  "baseball": [
+    "sport",
+    "labda"
+  ],
+  "basket": [
+    "ruháskosár",
+    "ruhakosár",
+    "kosár"
+  ],
+  "basketball": [
+    "sport",
+    "labda",
+    "kosárlabda"
+  ],
+  "bat": [
+    "denevér"
+  ],
+  "bathtub": [
+    "fürdőszoba",
+    "fürdés"
+  ],
+  "battery": [
+    "energia",
+    "töltés",
+    "feltöltés",
+    "akkumulátor"
+  ],
+  "beach_with_umbrella": [
+    "napernyő",
+    "tengerpart"
+  ],
+  "beans": [
+    "bab",
+    "babszemek",
+    "babszem"
+  ],
+  "bear": [
+    "mackó",
+    "medve"
+  ],
+  "beating_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "beaver": [
+    "állat",
+    "hód"
+  ],
+  "bed": [
+    "ágy",
+    "alvás"
+  ],
+  "beer_mug": [
+    "söröskorsó",
+    "sör",
+    "alkohol"
+  ],
+  "beetle": [
+    "rovar",
+    "bogár"
+  ],
+  "belarus": [
+    "zászló",
+    "fehéroroszország",
+    "by"
+  ],
+  "belgium": [
+    "zászló",
+    "be"
+  ],
+  "belize": [
+    "zászló",
+    "bz"
+  ],
+  "bell": [
+    "harang"
+  ],
+  "bell_pepper": [
+    "étel",
+    "zöldség",
+    "zöldpaprika",
+    "paprika",
+    "pritamin paprika"
+  ],
+  "bell_with_slash": [
+    "némítás",
+    "némítva",
+    "néma",
+    "csengő",
+    "nincs csengő"
+  ],
+  "bellhop_bell": [
+    "hotel",
+    "csengő"
+  ],
+  "benin": [
+    "zászló",
+    "bj"
+  ],
+  "bento_box": [
+    "étel",
+    "japán",
+    "bentó",
+    "bentó doboz"
+  ],
+  "bermuda": [
+    "zászló",
+    "bm"
+  ],
+  "beverage_box": [
+    "frissítő",
+    "gyümölcslé",
+    "üdítő"
+  ],
+  "bhutan": [
+    "zászló",
+    "bt",
+    "bhután"
+  ],
+  "bicycle": [
+    "bicikli",
+    "kerékpár",
+    "bicaj"
+  ],
+  "bikini": [
+    "fürdőruha"
+  ],
+  "billed_cap": [
+    "baseballsapka",
+    "sapka",
+    "kék sapka"
+  ],
+  "biohazard": [
+    "szimbólum",
+    "figyelmeztetés",
+    "biológiai veszély"
+  ],
+  "bird": [
+    "gerle",
+    "madár",
+    "galamb"
+  ],
+  "birthday_cake": [
+    "édesség",
+    "süti",
+    "torta",
+    "sütemény"
+  ],
+  "bison": [
+    "állat",
+    "bölény"
+  ],
+  "biting_lip": [
+    "ajak",
+    "ajkak",
+    "ajkak harapdálása",
+    "ajkába harap",
+    "mmm"
+  ],
+  "black_bird": [
+    "madár",
+    "rigó",
+    "feketerigó"
+  ],
+  "black_cat": [
+    "macska",
+    "állat",
+    "fekete macska"
+  ],
+  "black_flag": [
+    "zászló",
+    "gyász",
+    "fekete zászló"
+  ],
+  "black_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "black_nib": [
+    "írás",
+    "toll",
+    "tollhegy",
+    "töltőtoll",
+    "fekete tollhegy",
+    "írni"
+  ],
+  "blonde_man": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "blonde_woman": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "blossom": [
+    "virágzik",
+    "virágzás",
+    "virág"
+  ],
+  "blowfish": [
+    "hal",
+    "gömbhal"
+  ],
+  "blue_book": [
+    "könyv",
+    "kék könyv"
+  ],
+  "blue_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "blueberries": [
+    "bogyó",
+    "áfonya"
+  ],
+  "blush": [
+    "vidám",
+    "mosoly",
+    "mosolyog",
+    "boldog",
+    "örül"
+  ],
+  "boar": [
+    "disznó",
+    "vaddisznó"
+  ],
+  "bolivia": [
+    "zászló",
+    "bolívia",
+    "bo"
+  ],
+  "bomb": [
+    "bomba"
+  ],
+  "bone": [
+    "csont"
+  ],
+  "bookmark": [
+    "könyvjelző"
+  ],
+  "bookmark_tabs": [
+    "oldal",
+    "könyvjelző fülek",
+    "könyvjelzők"
+  ],
+  "books": [
+    "könyv",
+    "könyvek"
+  ],
+  "boomerang": [
+    "bumeráng"
+  ],
+  "bosnia_herzegovina": [
+    "zászló",
+    "bosznia-hercegovina",
+    "bosznia és hercegovina",
+    "ba"
+  ],
+  "botswana": [
+    "zászló",
+    "bw"
+  ],
+  "bottle_with_popping_cork": [
+    "ital",
+    "alkohol",
+    "pezsgő",
+    "pezsgősüveg"
+  ],
+  "bouquet": [
+    "virágzik",
+    "virágzás",
+    "virág",
+    "bokréta",
+    "virágcsokor"
+  ],
+  "bow_and_arrow": [
+    "nyíl",
+    "íj",
+    "fegyver"
+  ],
+  "bowl_with_spoon": [
+    "étel",
+    "tál",
+    "tányér"
+  ],
+  "bowling": [
+    "sport"
+  ],
+  "boxing_glove": [
+    "sport",
+    "bokszkesztyű",
+    "boksz"
+  ],
+  "boy": [
+    "ember",
+    "személy",
+    "arc",
+    "gyerek",
+    "gyermek",
+    "kölyök",
+    "fiú"
+  ],
+  "brain": [
+    "ész",
+    "agy"
+  ],
+  "brazil": [
+    "zászló",
+    "br",
+    "brazília"
+  ],
+  "bread": [
+    "étel",
+    "kenyér"
+  ],
+  "breast_feeding": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "brick": [
+    "téglák",
+    "tégla"
+  ],
+  "bridge_at_night": [
+    "aranykapu",
+    "éjszaka",
+    "híd",
+    "kalifornia",
+    "híd éjszaka"
+  ],
+  "briefcase": [
+    "táska",
+    "aktatáska",
+    "irattáska"
+  ],
+  "briefs": [
+    "alsógatya",
+    "fehérnemű",
+    "alsónadrág",
+    "fürdőnadrág"
+  ],
+  "bright_button": [
+    "nagy fényerő",
+    "fényerő",
+    "fényes gomb"
+  ],
+  "british_indian_ocean_territory": [
+    "zászló",
+    "io",
+    "brit indiai-óceáni terület"
+  ],
+  "british_virgin_islands": [
+    "zászló",
+    "vg",
+    "brit virgin-szigetek"
+  ],
+  "broccoli": [
+    "étel",
+    "zöldség",
+    "brokkoli"
+  ],
+  "broken_heart": [
+    "bánat",
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "csalódás",
+    "szeretlek",
+    "összetört szív"
+  ],
+  "broom": [
+    "seprű",
+    "takarít",
+    "seper"
+  ],
+  "brown_heart": [
+    "barna szív",
+    "szív"
+  ],
+  "brunei": [
+    "zászló",
+    "bn"
+  ],
+  "bubble_tea": [
+    "gyöngytejtea",
+    "buborék tea",
+    "tejes tea",
+    "boba",
+    "bobatea",
+    "buboréktejtea",
+    "bobadzsúz"
+  ],
+  "bubbles": [
+    "buborék",
+    "buborékok"
+  ],
+  "bucket": [
+    "vödör"
+  ],
+  "bug": [
+    "rovar",
+    "hernyó"
+  ],
+  "building_construction": [
+    "építkezés",
+    "daru"
+  ],
+  "bulgaria": [
+    "zászló",
+    "bulgária",
+    "bg"
+  ],
+  "bullet_train": [
+    "vasút",
+    "mágnesvasút"
+  ],
+  "bullseye": [
+    "sport",
+    "darts"
+  ],
+  "burkina_faso": [
+    "zászló",
+    "bf"
+  ],
+  "burrito": [
+    "étel",
+    "élelmiszer"
+  ],
+  "burundi": [
+    "zászló",
+    "bi"
+  ],
+  "bus": [
+    "gépjármű",
+    "busz"
+  ],
+  "bus_stop": [
+    "megálló",
+    "buszmegálló"
+  ],
+  "bust_in_silhouette": [
+    "személy",
+    "sziluett"
+  ],
+  "busts_in_silhouette": [
+    "személy",
+    "személyek",
+    "sziluett",
+    "sziluettek"
+  ],
+  "butter": [
+    "vaj"
+  ],
+  "butterfly": [
+    "rovar",
+    "pillangó",
+    "lepke"
+  ],
+  "cactus": [
+    "növény",
+    "kaktusz"
+  ],
+  "call_me_hand": [
+    "ujj",
+    "kéz",
+    "ujjak",
+    "hívás",
+    "hívj fel"
+  ],
+  "cambodia": [
+    "zászló",
+    "kh",
+    "khmer",
+    "kambodzsa"
+  ],
+  "camel": [
+    "teve",
+    "dromedár"
+  ],
+  "camera": [
+    "fényképezőgép",
+    "fényképező"
+  ],
+  "camera_with_flash": [
+    "fényképezőgép",
+    "kamera",
+    "fénykép",
+    "vaku"
+  ],
+  "cameroon": [
+    "zászló",
+    "kamerun",
+    "cm"
+  ],
+  "camping": [
+    "sátor",
+    "természet",
+    "kemping"
+  ],
+  "canada": [
+    "zászló",
+    "kanada"
+  ],
+  "canary_islands": [
+    "zászló",
+    "ic",
+    "kanári-szigetek"
+  ],
+  "cancer": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "rák"
+  ],
+  "candle": [
+    "gyertya",
+    "fény"
+  ],
+  "candy": [
+    "étel",
+    "édesség",
+    "cukor",
+    "cukorka"
+  ],
+  "canned_food": [
+    "étel",
+    "konzerv"
+  ],
+  "canoe": [
+    "kajak",
+    "csónak",
+    "kenu"
+  ],
+  "cape_verde": [
+    "zászló",
+    "cv",
+    "zöld-foki szigetek",
+    "zöld-foki köztársaság"
+  ],
+  "capricorn": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "bak"
+  ],
+  "card_file_box": [
+    "iroda",
+    "iratszekrény",
+    "irattartó"
+  ],
+  "card_index": [
+    "iroda",
+    "kártyatár"
+  ],
+  "card_index_dividers": [
+    "iroda",
+    "mappa",
+    "elválasztók"
+  ],
+  "carousel_horse": [
+    "ló",
+    "körhinta"
+  ],
+  "carp_streamer": [
+    "esemény",
+    "események",
+    "zászlók",
+    "ponty streamer"
+  ],
+  "carpentry_saw": [
+    "fűrész",
+    "kézifűrész",
+    "rókafarkú fűrész"
+  ],
+  "carrot": [
+    "étel",
+    "zöldség",
+    "répa"
+  ],
+  "castle": [
+    "épület",
+    "vár",
+    "kastély"
+  ],
+  "cat": [
+    "macska"
+  ],
+  "cat_face": [
+    "cica",
+    "macska",
+    "macskafej"
+  ],
+  "cat_with_wry_smile": [
+    "cica",
+    "macska"
+  ],
+  "cayman_islands": [
+    "zászló",
+    "ky",
+    "kajmán-szigetek"
+  ],
+  "central_african_republic": [
+    "zászló",
+    "cf",
+    "közép-afrikai köztársaság"
+  ],
+  "chad": [
+    "zászló",
+    "td"
+  ],
+  "chains": [
+    "lánc",
+    "láncok"
+  ],
+  "chair": [
+    "trónus",
+    "szék",
+    "trón"
+  ],
+  "chart_decreasing": [
+    "iroda",
+    "chart",
+    "diagram csökkenő tendenciával"
+  ],
+  "chart_increasing": [
+    "iroda",
+    "növekedés",
+    "diagram",
+    "vonaldiagram"
+  ],
+  "check_box_with_check": [
+    "ellenőrző mező",
+    "jelölőnégyzet",
+    "elfogadva",
+    "kész",
+    "ellenőrizve",
+    "elfogadható",
+    "pipa"
+  ],
+  "check_mark": [
+    "jelölődoboz",
+    "elfogadva",
+    "kész",
+    "vastag pipa",
+    "ellenőrizve",
+    "elfogadható",
+    "pipa"
+  ],
+  "cheese_wedge": [
+    "étel",
+    "sajt"
+  ],
+  "chequered_flag": [
+    "zászló",
+    "kockás zászló",
+    "célba érkezés"
+  ],
+  "cherries": [
+    "étel",
+    "gyümölcs",
+    "meggy",
+    "cseresznye"
+  ],
+  "cherry_blossom": [
+    "virágzik",
+    "virágzás",
+    "virág",
+    "cseresznyevirág"
+  ],
+  "chess_pawn": [
+    "játék",
+    "sakk"
+  ],
+  "chestnut": [
+    "étel",
+    "sült gesztenye",
+    "szelídgesztenye"
+  ],
+  "chicken": [
+    "madár",
+    "kakas"
+  ],
+  "child": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "children_crossing": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "gyermek átkelőhely"
+  ],
+  "chile": [
+    "zászló",
+    "chilei köztársaság",
+    "cl"
+  ],
+  "china": [
+    "zászló",
+    "kína",
+    "cn"
+  ],
+  "chipmunk": [
+    "mókus"
+  ],
+  "chocolate_bar": [
+    "étel",
+    "édesség",
+    "csokoládé"
+  ],
+  "chopsticks": [
+    "étkezés",
+    "evőpálcika"
+  ],
+  "christmas_island": [
+    "zászló",
+    "karácsony-sziget",
+    "cx"
+  ],
+  "christmas_tree": [
+    "karácsony",
+    "ünnep",
+    "fenyő"
+  ],
+  "church": [
+    "vallás",
+    "épület",
+    "templom"
+  ],
+  "cigarette": [
+    "füstöl",
+    "dohányzás",
+    "cigaretta"
+  ],
+  "cinema": [
+    "vetítés",
+    "mozi",
+    "filmszínház"
+  ],
+  "circled_m": [
+    "metrójárat",
+    "metró",
+    "metróvonal"
+  ],
+  "circus_tent": [
+    "cirkusz",
+    "cirkuszsátor"
+  ],
+  "cityscape": [
+    "épület",
+    "felhőkarcoló",
+    "városkép"
+  ],
+  "cityscape_at_dusk": [
+    "szürkület",
+    "város alkonyat",
+    "naplemente",
+    "város"
+  ],
+  "cl_button": [
+    "cl gomb",
+    "vér",
+    "tiszta",
+    "vér cl"
+  ],
+  "clamp": [
+    "satu",
+    "szerszám"
+  ],
+  "clap": [
+    "tenyér",
+    "kéz",
+    "tetszésnyilvánítás",
+    "tapsolás",
+    "taps"
+  ],
+  "clapper_board": [
+    "csapó",
+    "mozi",
+    "film",
+    "forgatás"
+  ],
+  "classical_building": [
+    "épület",
+    "ház"
+  ],
+  "clinking_beer_mugs": [
+    "söröskorsó",
+    "sör",
+    "alkohol"
+  ],
+  "clinking_glasses": [
+    "ital",
+    "koccint",
+    "pohár",
+    "alkohol",
+    "pezsgő",
+    "koccintás",
+    "egészségedre"
+  ],
+  "clipboard": [
+    "iroda",
+    "vágólap"
+  ],
+  "closed_book": [
+    "könyv",
+    "piros könyv",
+    "zárt könyv"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "mail",
+    "zárt postaláda leengedett zászlóval",
+    "postaláda",
+    "postaláda zárva"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "zárt postaláda felemelt zászlóval",
+    "mail",
+    "bejövő",
+    "postaláda",
+    "postafiók zárva"
+  ],
+  "closed_umbrella": [
+    "esernyő"
+  ],
+  "cloud": [
+    "felhős",
+    "időjárás",
+    "borongós"
+  ],
+  "cloud_with_lightning": [
+    "viharos",
+    "villámlás",
+    "időjárás",
+    "villám",
+    "vihar"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "eső",
+    "villámlás",
+    "időjárás",
+    "villám",
+    "csapadék",
+    "vihar"
+  ],
+  "cloud_with_rain": [
+    "eső",
+    "időjárás",
+    "esős"
+  ],
+  "cloud_with_snow": [
+    "időjárás",
+    "hófelhő",
+    "hóesés"
+  ],
+  "clown_face": [
+    "bohóc"
+  ],
+  "club_suit": [
+    "játék",
+    "kártyák",
+    "kártya",
+    "kártyajáték",
+    "treff"
+  ],
+  "clutch_bag": [
+    "táska"
+  ],
+  "coat": [
+    "kabát"
+  ],
+  "cockroach": [
+    "rovar",
+    "csótány"
+  ],
+  "cocktail_glass": [
+    "ital",
+    "pohár",
+    "alkohol",
+    "koktél"
+  ],
+  "coconut": [
+    "étel",
+    "gyümölcs",
+    "kókuszdió"
+  ],
+  "cocos_keeling_islands": [
+    "zászló",
+    "kókusz-szigetek",
+    "cc",
+    "keeling-szigetek"
+  ],
+  "coffin": [
+    "temetés",
+    "koporsó"
+  ],
+  "coin": [
+    "pénz",
+    "érme"
+  ],
+  "cold_face": [
+    "hideg",
+    "jéghideg",
+    "fagyos"
+  ],
+  "collision": [
+    "bumm",
+    "villanás",
+    "robbanás"
+  ],
+  "colombia": [
+    "zászló",
+    "co",
+    "kolumbia"
+  ],
+  "comet": [
+    "üstökös"
+  ],
+  "comoros": [
+    "zászló",
+    "comore-szigetek",
+    "km"
+  ],
+  "compass": [
+    "iránytű"
+  ],
+  "computer_disk": [
+    "lemez",
+    "minidiszk",
+    "cd lemez"
+  ],
+  "computer_mouse": [
+    "számítógép",
+    "egér",
+    "számítástechnika"
+  ],
+  "confetti_ball": [
+    "ünnep",
+    "buli",
+    "szilveszter",
+    "születésnap",
+    "szülinap"
+  ],
+  "confounded_face": [
+    "szomorú",
+    "bús"
+  ],
+  "confused": [
+    "elkeseredett",
+    "bánat",
+    "szomorú",
+    "csalódott",
+    "szomorúság",
+    "bánatos",
+    "sajnálom",
+    "elnézést",
+    "=/"
+  ],
+  "congo_brazzaville": [
+    "zászló",
+    "kongó",
+    "cg",
+    "brazzaville",
+    "kongói köztársaság"
+  ],
+  "congo_kinshasa": [
+    "zászló",
+    "kongó",
+    "cd",
+    "kongói demokratikus köztársaság",
+    "zaire",
+    "kinshasa"
+  ],
+  "construction": [
+    "útépítés",
+    "elterelés",
+    "építés"
+  ],
+  "construction_worker": [
+    "építőmunkás"
+  ],
+  "construction_worker_man": [
+    "ember",
+    "személy",
+    "arc",
+    "munkás",
+    "sisak"
+  ],
+  "construction_worker_woman": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "control_knobs": [
+    "konzol",
+    "tábla",
+    "panel",
+    "tűzhely"
+  ],
+  "convenience_store": [
+    "épület",
+    "szupermarket",
+    "hipermarket",
+    "bolt"
+  ],
+  "cook": [
+    "séf",
+    "szakács"
+  ],
+  "cook_islands": [
+    "zászló",
+    "ck",
+    "cook-szigetek"
+  ],
+  "cooked_rice": [
+    "étel",
+    "rizs",
+    "főtt rizs"
+  ],
+  "cookie": [
+    "étel",
+    "édesség",
+    "aprósütemény"
+  ],
+  "cooking": [
+    "étel",
+    "reggeli",
+    "tükörtojás",
+    "sütés"
+  ],
+  "cool_button": [
+    "cool gomb",
+    "cool"
+  ],
+  "copyright": [
+    "szerzői jog",
+    "(c)"
+  ],
+  "coral": [
+    "korál",
+    "tengeri korál"
+  ],
+  "costa_rica": [
+    "zászló",
+    "cr"
+  ],
+  "couch_and_lamp": [
+    "ülés",
+    "pihenés",
+    "dívány",
+    "kanapé"
+  ],
+  "couple_with_heart": [
+    "szív",
+    "pár",
+    "szerelmesek",
+    "szerelem",
+    "pár szívvel"
+  ],
+  "couple_with_heart_man_man": [
+    "szív",
+    "szív felkiáltás",
+    "meleg",
+    "szerelem",
+    "pár szívvel"
+  ],
+  "couple_with_heart_woman_woman": [
+    "szív",
+    "szeretet",
+    "pár",
+    "leszbikus",
+    "szerelem",
+    "pár szívvel"
+  ],
+  "cow": [
+    "tehén"
+  ],
+  "cow_face": [
+    "tehénfej",
+    "marha",
+    "tehén"
+  ],
+  "cowboy_hat_face": [
+    "kalap",
+    "kalapos",
+    "cowboy"
+  ],
+  "crab": [
+    "étel",
+    "tenger",
+    "tarisznyarák"
+  ],
+  "crayon": [
+    "írás",
+    "írja",
+    "festés"
+  ],
+  "credit_card": [
+    "pénz",
+    "bankkártya",
+    "hitelkártya"
+  ],
+  "crescent_moon": [
+    "hold",
+    "félhold"
+  ],
+  "cricket": [
+    "rovar",
+    "tücsök"
+  ],
+  "cricket_game": [
+    "sport",
+    "krikett"
+  ],
+  "croatia": [
+    "zászló",
+    "horvátország",
+    "hr"
+  ],
+  "crocodile": [
+    "hüllő",
+    "aligátor",
+    "krokodil"
+  ],
+  "croissant": [
+    "étel"
+  ],
+  "cross_mark": [
+    "kereszt",
+    "piros kereszt",
+    "törlés",
+    "keresztjel",
+    "piros x"
+  ],
+  "cross_mark_button": [
+    "fehér kereszt",
+    "cross",
+    "negatív négyzet keresztjel",
+    "keresztjel",
+    "kereszt jel gomb"
+  ],
+  "crossed_fingers": [
+    "ujj",
+    "szerencse",
+    "kéz",
+    "ujjak",
+    "sok szerencsét",
+    "szerencsét"
+  ],
+  "crossed_flags": [
+    "zászló",
+    "zászlók",
+    "keresztezett zászlók"
+  ],
+  "crossed_swords": [
+    "harc",
+    "vívás",
+    "kard",
+    "fegyver",
+    "kardok"
+  ],
+  "crown": [
+    "korona",
+    "király"
+  ],
+  "crutch": [
+    "mankó"
+  ],
+  "cry": [
+    "bánat",
+    "szomorú",
+    "sír",
+    "szomorúság",
+    "könnyek",
+    "könnyes",
+    "sírdogál"
+  ],
+  "crying_cat": [
+    "cica",
+    "macska"
+  ],
+  "crystal_ball": [
+    "jósol",
+    "jósda",
+    "kristálygömb"
+  ],
+  "cuba": [
+    "zászló",
+    "kuba",
+    "cu"
+  ],
+  "cucumber": [
+    "étel",
+    "zöldség",
+    "uborka",
+    "kígyóuborka"
+  ],
+  "cup_with_straw": [
+    "ital",
+    "szívószál"
+  ],
+  "cupcake": [
+    "étel",
+    "édesség",
+    "muffin"
+  ],
+  "curaçao": [
+    "zászló",
+    "cw"
+  ],
+  "curling_stone": [
+    "sport",
+    "curling"
+  ],
+  "curly_loop": [
+    "görbe hurok",
+    "tekervényes hurok"
+  ],
+  "currency_exchange": [
+    "kereskedelem",
+    "gazdaság",
+    "pénzváltás"
+  ],
+  "curry_rice": [
+    "étel",
+    "rizs",
+    "ázsia",
+    "curry",
+    "curry-s rizs"
+  ],
+  "custard": [
+    "étel",
+    "édesség",
+    "puding"
+  ],
+  "customs": [
+    "vám",
+    "szimbólum",
+    "piktogram"
+  ],
+  "cut_of_meat": [
+    "étel",
+    "hús"
+  ],
+  "cyclone": [
+    "spirál",
+    "örvény",
+    "tornádó",
+    "hurrikán",
+    "ciklon"
+  ],
+  "cyprus": [
+    "zászló",
+    "ciprus",
+    "cy"
+  ],
+  "czechia": [
+    "zászló",
+    "cz",
+    "cseh köztársaság"
+  ],
+  "côte_d_ivoire": [
+    "zászló",
+    "elefántcsontpart",
+    "ci"
+  ],
+  "dagger": [
+    "tőr",
+    "fegyver"
+  ],
+  "dango": [
+    "étel",
+    "ázsiai",
+    "kushi-dango"
+  ],
+  "dashing_away": [
+    "gőz",
+    "szél",
+    "elszállt",
+    "gyors"
+  ],
+  "date": [
+    "iroda",
+    "naptár",
+    "dátum"
+  ],
+  "deaf_man": [
+    "nagyothalló",
+    "nagyothall",
+    "süket"
+  ],
+  "deaf_person": [
+    "nagyothalló",
+    "nagyothall",
+    "süket"
+  ],
+  "deaf_woman": [
+    "nagyothalló",
+    "nagyothall",
+    "süket"
+  ],
+  "deciduous_tree": [
+    "növények",
+    "lombhullató",
+    "fa"
+  ],
+  "deer": [
+    "szarvas"
+  ],
+  "delivery_truck": [
+    "autó",
+    "teherautó",
+    "tehergépkocsi"
+  ],
+  "denmark": [
+    "zászló",
+    "skandináv kereszt",
+    "dánia",
+    "északi kereszt",
+    "dk"
+  ],
+  "department_store": [
+    "épület",
+    "ház"
+  ],
+  "derelict_house": [
+    "épület",
+    "ház"
+  ],
+  "desert": [
+    "sivatag"
+  ],
+  "desert_island": [
+    "sivatag",
+    "oázis",
+    "strand",
+    "lakatlan sziget",
+    "sziget"
+  ],
+  "desktop_computer": [
+    "számítógép",
+    "monitor"
+  ],
+  "detective": [
+    "nyomozó",
+    "sherlock",
+    "detektív"
+  ],
+  "diamond_suit": [
+    "játék",
+    "kártyák",
+    "kártya",
+    "kártyajáték",
+    "káró"
+  ],
+  "diamond_with_a_dot": [
+    "gyémánt egy ponttal",
+    "gyémánt alakú",
+    "belül egy ponttal",
+    "kawaii"
+  ],
+  "dim_button": [
+    "alacsony fényerő",
+    "fényerő",
+    "tompított gomb"
+  ],
+  "disappointed_face": [
+    "bánat",
+    "szomorú",
+    "csalódott",
+    "szomorúság"
+  ],
+  "disguised_face": [
+    "álarc",
+    "szemüveg",
+    "orr",
+    "inkognitó"
+  ],
+  "divide": [
+    "matematika",
+    "osztás",
+    "osztásjel"
+  ],
+  "diving_mask": [
+    "búvármaszk",
+    "maszk",
+    "könnyűbúvár"
+  ],
+  "diya_lamp": [
+    "diya lámpa",
+    "diya",
+    "lámpa",
+    "deepa",
+    "deya",
+    "diyo",
+    "divaa"
+  ],
+  "dizzy": [
+    "csillag",
+    "csillám",
+    "szikra",
+    "hullócsillag"
+  ],
+  "djibouti": [
+    "zászló",
+    "dzsibuti",
+    "dj"
+  ],
+  "dna": [
+    "tudomány",
+    "genetika",
+    "gén",
+    "dns"
+  ],
+  "dodo": [
+    "madár",
+    "dodó"
+  ],
+  "dog": [
+    "kutya",
+    "kutyus"
+  ],
+  "dog_face": [
+    "kutya",
+    "kutyus",
+    "kutyafej"
+  ],
+  "dollar_banknote": [
+    "bitcoin",
+    "$",
+    "készpénz",
+    "usd",
+    "pénz",
+    "bankjegy",
+    "kriptovaluta",
+    "dollár"
+  ],
+  "dolphin": [
+    "delfin"
+  ],
+  "dominica": [
+    "zászló",
+    "dominikai közösség",
+    "dm",
+    "dominika"
+  ],
+  "dominican_republic": [
+    "zászló",
+    "do",
+    "dominikai köztársaság"
+  ],
+  "door": [
+    "ajtó"
+  ],
+  "dotted_line_face": [
+    "rejtőzködik",
+    "láthatatlan",
+    "csendes",
+    "rejtőzik",
+    "rejtőzködő"
+  ],
+  "dotted_six_pointed_star": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "dávid pajzsa",
+    "dávid-csillag",
+    "hatágú csillag"
+  ],
+  "double_exclamation_mark": [
+    "felkiáltójel",
+    "dupla felkiáltójel",
+    "!",
+    "!!"
+  ],
+  "doughnut": [
+    "étel",
+    "édesség",
+    "fánk"
+  ],
+  "dove": [
+    "madár",
+    "galamb",
+    "békegalamb"
+  ],
+  "downcast_face_with_sweat": [
+    "bánat",
+    "szomorú",
+    "szomorúság",
+    "izzad"
+  ],
+  "dragon": [
+    "hüllő",
+    "mitológia",
+    "sárkány"
+  ],
+  "dragon_face": [
+    "hüllő",
+    "mitológia",
+    "sárkány"
+  ],
+  "dress": [
+    "ruha",
+    "dressz"
+  ],
+  "drooling_face": [
+    "éhes",
+    "nyáladzik",
+    "nyálas",
+    "nyáladzó"
+  ],
+  "drop_of_blood": [
+    "vércsepp",
+    "vér"
+  ],
+  "droplet": [
+    "eső",
+    "esőcsepp",
+    "csepp"
+  ],
+  "drum": [
+    "dobol",
+    "dob",
+    "dobos"
+  ],
+  "duck": [
+    "madár",
+    "vadkacsa",
+    "kacsa"
+  ],
+  "dumpling": [
+    "étel",
+    "ázsia",
+    "ázsiai gombóc",
+    "pirog"
+  ],
+  "dvd": [
+    "lemez"
+  ],
+  "e_mail": [
+    "levél",
+    "e-mail",
+    "email"
+  ],
+  "eagle": [
+    "madár",
+    "sas"
+  ],
+  "ear": [
+    "fül",
+    "hallás"
+  ],
+  "ear_of_corn": [
+    "étel",
+    "zöldség",
+    "kukoricacső",
+    "kukorica"
+  ],
+  "ear_with_hearing_aid": [
+    "hallókészülék",
+    "fül",
+    "süket",
+    "siket"
+  ],
+  "ecuador": [
+    "zászló",
+    "ec"
+  ],
+  "egg": [
+    "étel",
+    "húsvét",
+    "tojás"
+  ],
+  "eggplant": [
+    "étel",
+    "zöldség",
+    "növény",
+    "padlizsán"
+  ],
+  "egypt": [
+    "zászló",
+    "egyiptom"
+  ],
+  "eight": [
+    "8",
+    "nyolc"
+  ],
+  "eight_o_clock": [
+    "8 óra"
+  ],
+  "eight_pointed_star": [
+    "nyolcágú csillag",
+    "csillag"
+  ],
+  "eight_spoked_asterisk": [
+    "csillag szimbólum",
+    "nyolcágú csillag",
+    "csillag"
+  ],
+  "eject_button": [
+    "gomb",
+    "kiadás",
+    "kiadás gomb"
+  ],
+  "el_salvador": [
+    "zászló",
+    "sv",
+    "salvadori köztársaság",
+    "salvador"
+  ],
+  "electric_plug": [
+    "energia",
+    "töltés",
+    "feltöltés",
+    "dugó"
+  ],
+  "elephant": [
+    "elefánt"
+  ],
+  "elevator": [
+    "felvonó",
+    "lift"
+  ],
+  "eleven_o_clock": [
+    "11 óra"
+  ],
+  "elf": [
+    "legolas",
+    "tünde",
+    "manó"
+  ],
+  "empty_nest": [
+    "üres fészek",
+    "fészek"
+  ],
+  "england": [
+    "zászló",
+    "angol zászló",
+    "anglia",
+    "en",
+    "anglia zászlaja",
+    "szent györgy-kereszt"
+  ],
+  "enraged_face": [
+    "dühös",
+    "harag",
+    "düh",
+    "mérges",
+    "dühítő"
+  ],
+  "envelope": [
+    "levél",
+    "boríték"
+  ],
+  "envelope_with_arrow": [
+    "levél",
+    "boríték"
+  ],
+  "equatorial_guinea": [
+    "zászló",
+    "egyenlítői guinea",
+    "gq"
+  ],
+  "eritrea": [
+    "zászló",
+    "er"
+  ],
+  "estonia": [
+    "zászló",
+    "észtország",
+    "ee"
+  ],
+  "eswatini": [
+    "zászló",
+    "sz",
+    "szváziföldi királyság",
+    "szváziföld"
+  ],
+  "ethiopia": [
+    "zászló",
+    "etiópia",
+    "et"
+  ],
+  "euro_banknote": [
+    "készpénz",
+    "pénz",
+    "euró",
+    "bankjegy",
+    "€",
+    "valuta"
+  ],
+  "european_union": [
+    "zászló",
+    "európai unió",
+    "európa",
+    "eu"
+  ],
+  "evergreen_tree": [
+    "örökzöld",
+    "növény",
+    "fa",
+    "fenyő"
+  ],
+  "ewe": [
+    "birka"
+  ],
+  "exclamation_question_mark": [
+    "?!",
+    "?",
+    "interrobang",
+    "felkiáltó kérdőjel",
+    "!?"
+  ],
+  "exploding_head": [
+    "felrobban",
+    "eldobom az agyam",
+    "felrobbanok"
+  ],
+  "expressionless_face": [
+    "fáradt",
+    "kifejezéstelen",
+    "gyanús"
+  ],
+  "eye": [
+    "szem",
+    "néz"
+  ],
+  "eye_in_speech_bubble": [
+    "szem",
+    "szem a beszédbuborékban",
+    "néz",
+    "tanú",
+    "látás",
+    "tanú vagyok",
+    "nézés"
+  ],
+  "eyes": [
+    "szem",
+    "néz"
+  ],
+  "face_blowing_a_kiss": [
+    "szeretlek",
+    "puszi",
+    "csók",
+    "csókos"
+  ],
+  "face_exhaling": [
+    "csalódás",
+    "fáradt",
+    "phú",
+    "kilégzés",
+    "füst",
+    "oof"
+  ],
+  "face_holding_back_tears": [
+    "érzelmes",
+    "érzelgős",
+    "könnyes szem"
+  ],
+  "face_in_clouds": [
+    "arc a felhőben"
+  ],
+  "face_savoring_food": [
+    "boldog",
+    "finom",
+    "éhes",
+    "ízletes",
+    "étvágy",
+    "eszik"
+  ],
+  "face_vomiting": [
+    "beteg",
+    "hányás",
+    "gyomorbaj",
+    "okád"
+  ],
+  "face_with_crossed_out_eyes": [
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "frász"
+  ],
+  "face_with_diagonal_mouth": [
+    ":\\",
+    "hmm"
+  ],
+  "face_with_hand_over_mouth": [
+    "csendet",
+    "hallgass",
+    "pszt",
+    "maradj csendben"
+  ],
+  "face_with_head_bandage": [
+    "beteg",
+    "lázas",
+    "fejfájás"
+  ],
+  "face_with_medical_mask": [
+    "beteg"
+  ],
+  "face_with_monocle": [
+    "szemüveg",
+    "monokli",
+    "csakugyan"
+  ],
+  "face_with_open_eyes_and_hand_over_mouth": [
+    "pszt",
+    "psst"
+  ],
+  "face_with_peeking_eye": [
+    "rejtőzködik",
+    "szégyenlős",
+    "bujkál"
+  ],
+  "face_with_raised_eyebrow": [
+    "hmm"
+  ],
+  "face_with_spiral_eyes": [
+    "eltérített elme",
+    "hipnózis",
+    "hipnotizált"
+  ],
+  "face_with_steam_from_nose": [
+    "dühös",
+    "gőz",
+    "harag",
+    "mérges"
+  ],
+  "face_with_symbols_on_mouth": [
+    "harag",
+    "düh",
+    "őrült",
+    "mérges",
+    "basszus"
+  ],
+  "face_with_thermometer": [
+    "beteg",
+    "lázas"
+  ],
+  "face_with_tongue": [
+    "nyelvöltés",
+    "nyelv",
+    "nyelvet ölt"
+  ],
+  "face_without_mouth": [
+    "csendet",
+    "csitt",
+    "hallgass",
+    "pszt",
+    "néma",
+    "ne beszélj"
+  ],
+  "factory": [
+    "épület",
+    "gyár"
+  ],
+  "factory_worker": [
+    "munkás",
+    "dolgozó",
+    "melós"
+  ],
+  "fairy": [
+    "tündér"
+  ],
+  "falkland_islands": [
+    "zászló",
+    "falkland-szigetek",
+    "fk"
+  ],
+  "fallen_leaf": [
+    "növény",
+    "őszi falevél",
+    "hulló falevél",
+    "falevél"
+  ],
+  "family": [
+    "család",
+    "anya",
+    "apa",
+    "gyerek",
+    "kisgyerek"
+  ],
+  "family_man_boy": [
+    "család",
+    "csonka család"
+  ],
+  "family_man_boy_boy": [
+    "család",
+    "apa"
+  ],
+  "family_man_girl": [
+    "család",
+    "apa",
+    "lánya",
+    "csonka család"
+  ],
+  "family_man_girl_boy": [
+    "család",
+    "apa",
+    "gyerek",
+    "csonka család",
+    "lányai"
+  ],
+  "family_man_girl_girl": [
+    "család",
+    "lány",
+    "apa",
+    "apacsalád"
+  ],
+  "family_man_man_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerekek",
+    "meleg",
+    "szülők"
+  ],
+  "family_man_man_boy_boy": [
+    "anya",
+    "gyerekek",
+    "meleg",
+    "szülők"
+  ],
+  "family_man_man_girl": [
+    "család",
+    "anya",
+    "apa",
+    "lánya",
+    "gyerekek",
+    "meleg",
+    "szülők"
+  ],
+  "family_man_man_girl_boy": [
+    "család",
+    "anya",
+    "apa",
+    "lánya",
+    "gyerekek",
+    "meleg",
+    "szülők"
+  ],
+  "family_man_man_girl_girl": [
+    "anya",
+    "lánya",
+    "gyerekek",
+    "meleg",
+    "szülők",
+    "család mmgb"
+  ],
+  "family_man_woman_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerek"
+  ],
+  "family_man_woman_boy_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerekek",
+    "kisgyerekek"
+  ],
+  "family_man_woman_girl": [
+    "család",
+    "anya",
+    "apa",
+    "gyerek",
+    "kislány",
+    "kisgyerek"
+  ],
+  "family_man_woman_girl_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerekek",
+    "kisgyerekek"
+  ],
+  "family_man_woman_girl_girl": [
+    "család",
+    "anya",
+    "apa",
+    "gyerekek",
+    "kisgyerekek"
+  ],
+  "family_woman_boy": [
+    "család",
+    "anya",
+    "gyerek",
+    "szülő"
+  ],
+  "family_woman_boy_boy": [
+    "család",
+    "anya",
+    "gyerekek",
+    "testvérek"
+  ],
+  "family_woman_girl": [
+    "család",
+    "anya",
+    "gyerek",
+    "szülő"
+  ],
+  "family_woman_girl_boy": [
+    "család",
+    "gyerekek",
+    "testvérek"
+  ],
+  "family_woman_girl_girl": [
+    "család",
+    "gyerekek",
+    "testvérek"
+  ],
+  "family_woman_woman_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerek",
+    "leszbikus",
+    "kisgyerek",
+    "leszbi"
+  ],
+  "family_woman_woman_boy_boy": [
+    "család",
+    "anya",
+    "apa",
+    "gyerekek",
+    "leszbikus",
+    "family_wwbb",
+    "szülők",
+    "család wwwbb"
+  ],
+  "family_woman_woman_girl": [
+    "család",
+    "anya",
+    "lány",
+    "gyermek",
+    "szülők"
+  ],
+  "family_woman_woman_girl_boy": [
+    "család",
+    "anya",
+    "lánya",
+    "gyermekek",
+    "szülők",
+    "fia"
+  ],
+  "family_woman_woman_girl_girl": [
+    "család",
+    "anya",
+    "apa",
+    "lánya",
+    "gyerekek",
+    "leszbikus",
+    "szülők"
+  ],
+  "farmer": [
+    "falusi",
+    "paraszt"
+  ],
+  "faroe_islands": [
+    "zászló",
+    "skandináv kereszt",
+    "északi kereszt",
+    "fo",
+    "feröer-szigetek"
+  ],
+  "fax_machine": [
+    "telefon",
+    "fax"
+  ],
+  "fearful": [
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "frász"
+  ],
+  "feather": [
+    "toll",
+    "madártoll"
+  ],
+  "ferris_wheel": [
+    "óriáskerék"
+  ],
+  "ferry": [
+    "hajó",
+    "komp"
+  ],
+  "field_hockey": [
+    "sport",
+    "gyephoki"
+  ],
+  "fiji": [
+    "zászló",
+    "fj",
+    "fidzsi-szigetek"
+  ],
+  "file_cabinet": [
+    "iroda",
+    "iratszekrény"
+  ],
+  "file_folder": [
+    "iroda",
+    "irattartó mappa",
+    "mappa"
+  ],
+  "film_frames": [
+    "képkocka",
+    "film",
+    "filmtekercs"
+  ],
+  "film_projector": [
+    "vetítő",
+    "mozi",
+    "film",
+    "filmvetítő"
+  ],
+  "finland": [
+    "zászló",
+    "skandináv kereszt",
+    "északi kereszt",
+    "fi",
+    "finnország"
+  ],
+  "fire": [
+    "tűz"
+  ],
+  "fire_engine": [
+    "autó",
+    "kocsi",
+    "gépjármű",
+    "tűzoltóautó"
+  ],
+  "fire_extinguisher": [
+    "tűzoltó készülék"
+  ],
+  "firecracker": [
+    "robbanószer",
+    "petárda",
+    "dinamit"
+  ],
+  "firefighter": [
+    "tűzoltó"
+  ],
+  "fireworks": [
+    "tűzijáték",
+    "esemény",
+    "ünnep",
+    "ünnepség"
+  ],
+  "first_quarter_moon": [
+    "hold"
+  ],
+  "first_quarter_moon_face": [
+    "hold",
+    "növekvő hold",
+    "növőhold"
+  ],
+  "fish": [
+    "hal"
+  ],
+  "fish_cake_with_swirl": [
+    "étel",
+    "hal",
+    "halpogácsa",
+    "ázsia"
+  ],
+  "fishing_pole": [
+    "sport",
+    "hal",
+    "sporthorgász",
+    "horgászbot",
+    "horgászat"
+  ],
+  "five": [
+    "5",
+    "öt"
+  ],
+  "five_o_clock": [
+    "5 óra"
+  ],
+  "flamingo": [
+    "madár",
+    "flamingó"
+  ],
+  "flashlight": [
+    "zseblámpa",
+    "lámpa"
+  ],
+  "flat_shoe": [
+    "cipő"
+  ],
+  "flatbread": [
+    "kenyérlángos",
+    "lapos kenyér"
+  ],
+  "fleur_de_lis": [
+    "fleur-de-lis",
+    "cserkészek"
+  ],
+  "flexed_biceps": [
+    "súlyemelés",
+    "bicepsz",
+    "izom",
+    "kar"
+  ],
+  "floppy_disk": [
+    "floppy",
+    "floppylemez"
+  ],
+  "flower_playing_cards": [
+    "virágos játékkártyák",
+    "játékkártya",
+    "játék",
+    "kártya",
+    "játékkártyák",
+    "virág kártya",
+    "hanafuda"
+  ],
+  "flushed_face": [
+    "kipirult",
+    "vörösödik",
+    "elpirul",
+    "ciki",
+    "pirul"
+  ],
+  "fly": [
+    "rovar",
+    "légy"
+  ],
+  "flying_disc": [
+    "frizbi"
+  ],
+  "flying_saucer": [
+    "ufó",
+    "repülő csészealj"
+  ],
+  "fog": [
+    "pára",
+    "köd"
+  ],
+  "foggy": [
+    "pára",
+    "köd"
+  ],
+  "folded_hands": [
+    "kérlel",
+    "imádkozik",
+    "kéz",
+    "béke",
+    "nyugalom",
+    "ima",
+    "ájtatos",
+    "kezek"
+  ],
+  "fondue": [
+    "étel",
+    "élelmiszer",
+    "fondü"
+  ],
+  "foot": [
+    "talp"
+  ],
+  "footprints": [
+    "talp",
+    "lábnyom"
+  ],
+  "fork_and_knife": [
+    "villa",
+    "evés",
+    "evőeszköz",
+    "kés",
+    "villa és kés",
+    "étkészlet",
+    "táplálkozás"
+  ],
+  "fork_and_knife_with_plate": [
+    "villa",
+    "evőeszköz",
+    "kés",
+    "étkészlet",
+    "tányér",
+    "vacsora",
+    "ebéd"
+  ],
+  "fortune_cookie": [
+    "étel",
+    "szerencsesüti",
+    "aprósütemény",
+    "szerencsesütemény"
+  ],
+  "fountain": [
+    "szökőkút"
+  ],
+  "fountain_pen": [
+    "irodaszer",
+    "toll",
+    "töltőtoll"
+  ],
+  "four": [
+    "négy",
+    "4"
+  ],
+  "four_leaf_clover": [
+    "szerencse",
+    "növények",
+    "lóhere",
+    "négylevelű lóhere"
+  ],
+  "four_o_clock": [
+    "4 óra"
+  ],
+  "fox": [
+    "ravaszdi",
+    "ravasz",
+    "róka"
+  ],
+  "framed_picture": [
+    "művészet",
+    "festmény",
+    "kép"
+  ],
+  "france": [
+    "zászló",
+    "cp",
+    "clipperton-sziget",
+    "fr",
+    "francia"
+  ],
+  "free_button": [
+    "ingyenes gomb",
+    "ingyenes",
+    "szabad gomb",
+    "szabad"
+  ],
+  "french_fries": [
+    "étel",
+    "sült krumpli",
+    "sült burgonya"
+  ],
+  "french_polynesia": [
+    "zászló",
+    "francia polinézia",
+    "pf"
+  ],
+  "french_southern_territories": [
+    "zászló",
+    "francia déli területek",
+    "francia antarktiszi területek",
+    "tf"
+  ],
+  "fried_shrimp": [
+    "étel",
+    "sült garnéla"
+  ],
+  "frog": [
+    "hüllő",
+    "béka"
+  ],
+  "front_facing_baby_chick": [
+    "kiscsirke",
+    "csirke",
+    "kismadár",
+    "kiscsibe"
+  ],
+  "frowning": [
+    "elkeseredett",
+    "szomorú",
+    "bánatos",
+    ":(",
+    "komor",
+    "keserű"
+  ],
+  "frowning_face_with_open_mouth": [
+    "döbbent",
+    "sokk",
+    "elképedt",
+    "komor"
+  ],
+  "fu": [
+    "ujj",
+    "kéz",
+    "ujjak",
+    "középső ujj",
+    "bazdmeg",
+    "pont",
+    "durva",
+    "fasz"
+  ],
+  "fuel_pump": [
+    "töltőállomás",
+    "benzinkút"
+  ],
+  "full_moon": [
+    "hold",
+    "telihold"
+  ],
+  "full_moon_face": [
+    "hold",
+    "telihold"
+  ],
+  "funeral_urn": [
+    "temetés",
+    "hamvak",
+    "temetkezési urna"
+  ],
+  "gabon": [
+    "zászló",
+    "ga",
+    "gaboni köztársaság"
+  ],
+  "gambia": [
+    "zászló",
+    "gambiai köztársaság",
+    "gm"
+  ],
+  "game_die": [
+    "dobókocka",
+    "kocka",
+    "szerepjáték"
+  ],
+  "garlic": [
+    "fokhagyma"
+  ],
+  "gear": [
+    "fogaskerék"
+  ],
+  "gem_stone": [
+    "ékszer",
+    "drágakő",
+    "ragyogó",
+    "gyémánt"
+  ],
+  "gemini": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "ikrek"
+  ],
+  "genie": [
+    "dzsinn"
+  ],
+  "georgia": [
+    "zászló",
+    "grúzia",
+    "ge"
+  ],
+  "germany": [
+    "zászló",
+    "németország"
+  ],
+  "ghana": [
+    "zászló",
+    "ghánai köztársaság",
+    "ghána",
+    "gh"
+  ],
+  "ghost": [
+    "szörny",
+    "szellem",
+    "kísértet"
+  ],
+  "gibraltar": [
+    "zászló",
+    "gi",
+    "gibraltár"
+  ],
+  "giraffe": [
+    "zsiráf"
+  ],
+  "girl": [
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "gyerek",
+    "gyermek",
+    "kölyök"
+  ],
+  "glass_of_milk": [
+    "ital",
+    "italok",
+    "tej",
+    "pohár tej"
+  ],
+  "glasses": [
+    "szemüveg"
+  ],
+  "globe_showing_americas": [
+    "földgömb",
+    "bolygó",
+    "kontinensek",
+    "föld"
+  ],
+  "globe_showing_asia_australia": [
+    "földgömb",
+    "bolygó",
+    "kontinensek",
+    "föld"
+  ],
+  "globe_showing_europe_africa": [
+    "földgömb",
+    "bolygó",
+    "kontinensek",
+    "föld"
+  ],
+  "globe_with_meridians": [
+    "meridiánok",
+    "földgömb",
+    "párhuzamosok",
+    "föld",
+    "földgömb meridiánokkal",
+    "kesztyű meridiánokkal",
+    "www",
+    "böngésző",
+    "internet"
+  ],
+  "gloves": [
+    "kesztyű"
+  ],
+  "glowing_star": [
+    "csillag",
+    "fényes csillag"
+  ],
+  "goal_net": [
+    "sport",
+    "kapu",
+    "háló",
+    "gól"
+  ],
+  "goat": [
+    "állat",
+    "kecske"
+  ],
+  "goblin": [
+    "álarc",
+    "harag",
+    "szörnyeteg",
+    "busómaszk",
+    "maszk",
+    "busóálarc"
+  ],
+  "goggles": [
+    "szemüveg"
+  ],
+  "gorilla": [
+    "majom",
+    "főemlős"
+  ],
+  "graduation_cap": [
+    "hallgatói sapka",
+    "kalap",
+    "négyszögletű kalap"
+  ],
+  "grapes": [
+    "étel",
+    "gyümölcs",
+    "piros szőlő",
+    "szőlő"
+  ],
+  "greece": [
+    "zászló",
+    "görög",
+    "görögország"
+  ],
+  "green_apple": [
+    "étel",
+    "gyümölcs",
+    "alma",
+    "zöld alma"
+  ],
+  "green_book": [
+    "könyv",
+    "zöld könyv"
+  ],
+  "green_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "green_salad": [
+    "étel",
+    "saláta",
+    "franciasaláta",
+    "görög saláta"
+  ],
+  "greenland": [
+    "zászló",
+    "gl",
+    "grönland"
+  ],
+  "grenada": [
+    "zászló",
+    "gd"
+  ],
+  "grimacing": [
+    "grimaszol",
+    "vigyorog",
+    "fogcsikorgató",
+    "grimasz",
+    "fogcsikorgatás",
+    "vicsorog"
+  ],
+  "grin": [
+    "nevetés",
+    ":d",
+    "vidám",
+    "röhög",
+    "mosolyog",
+    "boldog",
+    "örül",
+    "nevet",
+    "^^",
+    "vigyor",
+    "vigyori"
+  ],
+  "grinning_cat": [
+    "cica",
+    "macska",
+    "vidám cica",
+    "nevető macska"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "cica",
+    "macska",
+    "vidám cica",
+    "nevető macska"
+  ],
+  "grinning_face": [
+    "nevetés",
+    ":d",
+    "vidám",
+    "röhög",
+    "mosolyog",
+    "boldog",
+    "vigyorog",
+    "örül",
+    "nevet",
+    "kacag"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "nevetés",
+    ":d",
+    "vidám",
+    "röhög",
+    "mosolyog",
+    "boldog",
+    "örül",
+    "nevet"
+  ],
+  "growing_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "guadeloupe": [
+    "zászló",
+    "gp"
+  ],
+  "guam": [
+    "zászló",
+    "gu"
+  ],
+  "guard": [
+    "díszőrség",
+    "díszegység"
+  ],
+  "guatemala": [
+    "zászló",
+    "gt"
+  ],
+  "guernsey": [
+    "zászló",
+    "gg"
+  ],
+  "guide_dog": [
+    "labrador",
+    "kutya",
+    "vakvezető kutya",
+    "munkakutya"
+  ],
+  "guinea": [
+    "zászló",
+    "gn",
+    "guineai köztársaság"
+  ],
+  "guinea_bissau": [
+    "zászló",
+    "gw",
+    "bissau-guineai köztársaság",
+    "bissau-guinea"
+  ],
+  "guitar": [
+    "elektromos gitár",
+    "zene",
+    "gitár"
+  ],
+  "guyana": [
+    "zászló",
+    "gy",
+    "guyanai szövetkezeti köztársaság"
+  ],
+  "haiti": [
+    "zászló",
+    "ht"
+  ],
+  "hamburger": [
+    "étel",
+    "szendvics",
+    "hambuci"
+  ],
+  "hammer": [
+    "eszköz",
+    "kalapács"
+  ],
+  "hammer_and_pick": [
+    "javít",
+    "kalapács",
+    "szerszám"
+  ],
+  "hammer_and_wrench": [
+    "csavarkulcs",
+    "javít",
+    "kalapács",
+    "szerszám"
+  ],
+  "hamsa": [
+    "amulett"
+  ],
+  "hamster": [
+    "aranyhörcsög",
+    "hörcsög"
+  ],
+  "hand_with_fingers_splayed": [
+    "kéz",
+    "ujjak",
+    "széttárt"
+  ],
+  "hand_with_index_finger_and_thumb_crossed": [
+    "szív",
+    "szeretet"
+  ],
+  "handbag": [
+    "kézitáska",
+    "táska"
+  ],
+  "handshake": [
+    "béke",
+    "üdvözlet",
+    "kezek",
+    "kézfogás"
+  ],
+  "hash": [
+    "kettős kereszt",
+    "#"
+  ],
+  "hatching_chick": [
+    "kiscsirke",
+    "csirke",
+    "kismadár",
+    "kiscsibe"
+  ],
+  "headphone": [
+    "zene",
+    "hang",
+    "fejhallgató",
+    "fülhallgató"
+  ],
+  "headstone": [
+    "sírkő",
+    "fejkő",
+    "sírtábla"
+  ],
+  "health_worker": [
+    "doktor",
+    "orvos",
+    "doki"
+  ],
+  "hear_no_evil_monkey": [
+    "majom",
+    "nem hallott semmit",
+    "nem hall"
+  ],
+  "heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek",
+    "szerelem",
+    "szeret"
+  ],
+  "heart_decoration": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "heart_exclamation": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "heart_eyes": [
+    "szeretet",
+    ":*",
+    "szerelem",
+    "szerelmes",
+    "szexi",
+    "szívek"
+  ],
+  "heart_hands": [
+    "szív",
+    "szívecske"
+  ],
+  "heart_on_fire": [
+    "szerelem",
+    "szerelmes",
+    "égő szív",
+    "lángoló szív"
+  ],
+  "heart_suit": [
+    "szív",
+    "szeretet",
+    "<3",
+    "játék",
+    "♡",
+    "szeretlek",
+    "kártyák",
+    "kártya",
+    "kártyajáték",
+    "kőr",
+    "szeretettel",
+    "piros",
+    "puszik",
+    "kedvesem"
+  ],
+  "heart_with_arrow": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "heart_with_ribbon": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "heavy_dollar_sign": [
+    "bitcoin",
+    "kereskedelem",
+    "$",
+    "usd",
+    "pénz",
+    "kriptovaluta",
+    "dollár",
+    "vastag dollár jel",
+    "bank"
+  ],
+  "heavy_equals_sign": [
+    "egyenlőség",
+    "egyenlő",
+    "egyenlőségjel",
+    "matematika"
+  ],
+  "hedgehog": [
+    "sün",
+    "süni",
+    "sündisznó"
+  ],
+  "helicopter": [
+    "helikopter"
+  ],
+  "herb": [
+    "növény",
+    "levelek"
+  ],
+  "hibiscus": [
+    "virág",
+    "hibiszkusz"
+  ],
+  "high_heeled_shoe": [
+    "cipő"
+  ],
+  "high_speed_train": [
+    "vonat",
+    "vasút",
+    "gyorsvasút"
+  ],
+  "high_voltage": [
+    "kisülés",
+    "villám",
+    "feszültség",
+    "magasfeszültség"
+  ],
+  "hiking_boot": [
+    "cipő"
+  ],
+  "hindu_temple": [
+    "templom",
+    "hindu templom",
+    "hindu",
+    "mandir"
+  ],
+  "hippopotamus": [
+    "víziló"
+  ],
+  "hole": [
+    "lyuk",
+    "luk"
+  ],
+  "hollow_red_circle": [
+    "vastag nagy kör",
+    "piros kör"
+  ],
+  "honduras": [
+    "zászló",
+    "hn"
+  ],
+  "honey_pot": [
+    "étel",
+    "édesség",
+    "mézes csupor",
+    "méz"
+  ],
+  "honeybee": [
+    "dongó",
+    "darázs",
+    "méhecske"
+  ],
+  "hong_kong_sar_china": [
+    "zászló",
+    "hk",
+    "hongkong"
+  ],
+  "hook": [
+    "horog"
+  ],
+  "horizontal_traffic_light": [
+    "közlekedési tábla",
+    "közlekedési lámpa"
+  ],
+  "horse": [
+    "ló",
+    "vágta",
+    "lóverseny",
+    "ügető"
+  ],
+  "horse_face": [
+    "ló",
+    "lófej"
+  ],
+  "horse_racing": [
+    "sport",
+    "ló",
+    "lóverseny",
+    "lovaglás",
+    "verseny"
+  ],
+  "hospital": [
+    "épület",
+    "kórház"
+  ],
+  "hot_beverage": [
+    "ital",
+    "cappuccino",
+    "koffein",
+    "kávé",
+    "espresso"
+  ],
+  "hot_dog": [
+    "étel",
+    "hot-dog"
+  ],
+  "hot_face": [
+    "meleg",
+    "forróság",
+    "hőség"
+  ],
+  "hot_pepper": [
+    "étel",
+    "zöldség",
+    "erőspaprika",
+    "paprika",
+    "csili"
+  ],
+  "hot_springs": [
+    "gőz",
+    "hőforrások",
+    "grillezés",
+    "meleg források",
+    "hő",
+    "bbq"
+  ],
+  "hotel": [
+    "épület"
+  ],
+  "hourglass_done": [
+    "idő",
+    "homokóra"
+  ],
+  "hourglass_not_done": [
+    "idő",
+    "homokóra"
+  ],
+  "house": [
+    "épület",
+    "ház"
+  ],
+  "house_with_garden": [
+    "épület",
+    "ház"
+  ],
+  "houses": [
+    "épület",
+    "ház"
+  ],
+  "hugs": [
+    "szeretet",
+    "kedvesség",
+    "ölelés"
+  ],
+  "hungary": [
+    "zászló",
+    "magyar",
+    "magyar zászló"
+  ],
+  "hushed_face": [
+    "döbbent",
+    "csodálkozik",
+    "sokk",
+    "meglepődött",
+    "ledöbbent",
+    ":o",
+    "csodálkozó"
+  ],
+  "hut": [
+    "kunyhó"
+  ],
+  "ice": [
+    "jégkocka",
+    "jég"
+  ],
+  "ice_cream": [
+    "étel",
+    "édesség",
+    "fagylaltkehely",
+    "jégkrém"
+  ],
+  "ice_hockey": [
+    "sport",
+    "jéghoki",
+    "hoki"
+  ],
+  "ice_skate": [
+    "sport",
+    "korcsolya"
+  ],
+  "iceland": [
+    "zászló",
+    "skandináv kereszt",
+    "izland",
+    "északi kereszt",
+    "is"
+  ],
+  "id_button": [
+    "id"
+  ],
+  "identification_card": [
+    "azonosító kártya",
+    "személyi",
+    "személyi igazolvány",
+    "igazolvány"
+  ],
+  "in_hole": [
+    "zászló",
+    "sport",
+    "golf"
+  ],
+  "inbox_tray": [
+    "posta",
+    "bejövő",
+    "tálca",
+    "postaláda"
+  ],
+  "incoming_envelope": [
+    "levél",
+    "posta",
+    "boríték",
+    "üzenet",
+    "beérkező levél"
+  ],
+  "index_pointing_at_the_viewer": [
+    "te!"
+  ],
+  "index_pointing_up": [
+    "ujj",
+    "kéz",
+    "fel",
+    "mutat"
+  ],
+  "india": [
+    "zászló"
+  ],
+  "indonesia": [
+    "zászló",
+    "indonézia",
+    "id"
+  ],
+  "infinity": [
+    "möbius-szalag",
+    "végtelen"
+  ],
+  "information_source": [
+    "információ"
+  ],
+  "innocent": [
+    "angyal",
+    "szent"
+  ],
+  "input_latin_letters": [
+    "latin betűk bevitele",
+    "abc"
+  ],
+  "input_latin_lowercase": [
+    "latin kisbetűs bevitel",
+    "abcd"
+  ],
+  "input_latin_uppercase": [
+    "tőke abcd",
+    "input latin nagybetű"
+  ],
+  "input_symbols": [
+    "szimbólumok",
+    "bemeneti szimbólumok"
+  ],
+  "iran": [
+    "zászló",
+    "irán",
+    "teherán",
+    "fárszi",
+    "iráni",
+    "perzsa",
+    "ir"
+  ],
+  "iraq": [
+    "zászló",
+    "irak",
+    "iq"
+  ],
+  "ireland": [
+    "zászló",
+    "ie",
+    "írország"
+  ],
+  "isle_of_man": [
+    "zászló",
+    "im",
+    "man-sziget",
+    "mannin",
+    "mann"
+  ],
+  "israel": [
+    "zászló",
+    "il",
+    "izrael"
+  ],
+  "italy": [
+    "zászló",
+    "it",
+    "olasz",
+    "olaszország"
+  ],
+  "jack_o_lantern": [
+    "töklámpás",
+    "halloween",
+    "töklámpa",
+    "tök"
+  ],
+  "jamaica": [
+    "zászló",
+    "jm"
+  ],
+  "japan": [
+    "zászló",
+    "japán",
+    "jp"
+  ],
+  "japanese_acceptable_button": [
+    "elfogadható"
+  ],
+  "japanese_application_button": [
+    "app",
+    "alkalmazás"
+  ],
+  "japanese_bargain_button": [
+    "japán akciógomb",
+    "japán akciós gomb"
+  ],
+  "japanese_castle": [
+    "épület",
+    "kastély",
+    "japán palota",
+    "palota"
+  ],
+  "japanese_congratulations_button": [
+    "gratulálok"
+  ],
+  "japanese_discount_button": [
+    "kedvezmény"
+  ],
+  "japanese_dolls": [
+    "esemény",
+    "események",
+    "japán",
+    "babák",
+    "japán babák"
+  ],
+  "japanese_free_of_charge_button": [
+    "díjmentes"
+  ],
+  "japanese_here_button": [
+    "japán itt gomb",
+    "itt",
+    "koko"
+  ],
+  "japanese_monthly_amount_button": [
+    "japán havi összeg gomb",
+    "havi"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "nem ingyenes",
+    "japán nem ingyenes gomb"
+  ],
+  "japanese_open_for_business_button": [
+    "nyitva"
+  ],
+  "japanese_passing_grade_button": [
+    "osztályzat",
+    "átmenő osztályzat"
+  ],
+  "japanese_post_office": [
+    "épület",
+    "ház"
+  ],
+  "japanese_prohibited_button": [
+    "tiltott",
+    "tiltás",
+    "tilos"
+  ],
+  "japanese_secret_button": [
+    "titok"
+  ],
+  "japanese_symbol_for_beginner": [
+    "kezdő",
+    "japán szimbólum kezdőknek",
+    "shoshinsha"
+  ],
+  "jar": [
+    "dunsztosüveg",
+    "üveg",
+    "befőttesüveg"
+  ],
+  "jeans": [
+    "farmer"
+  ],
+  "jersey": [
+    "zászló",
+    "je"
+  ],
+  "joker": [
+    "játék",
+    "kártyák",
+    "kártya",
+    "fekete joker"
+  ],
+  "jordan": [
+    "zászló",
+    "jordán hásimita királyság",
+    "jo",
+    "jordánia"
+  ],
+  "joy": [
+    "nevetés",
+    "rofl",
+    "röhög",
+    "mosoly",
+    "boldog",
+    "haha",
+    "örömkönnyek",
+    "sírva nevet"
+  ],
+  "joy_cat": [
+    "cica",
+    "macska",
+    "vidám cica",
+    "nevető macska"
+  ],
+  "joystick": [
+    "botkormány",
+    "videojáték"
+  ],
+  "judge": [
+    "bíró"
+  ],
+  "kaaba": [
+    "mekka",
+    "vallás",
+    "épület",
+    "kába",
+    "masjid al-haram",
+    "muszlim",
+    "iszlám"
+  ],
+  "kangaroo": [
+    "kenguru"
+  ],
+  "kazakhstan": [
+    "zászló",
+    "kz",
+    "kazahsztán"
+  ],
+  "kenya": [
+    "zászló",
+    "ke",
+    "kenyai köztársaság"
+  ],
+  "key": [
+    "kulcs"
+  ],
+  "keyboard": [
+    "billentyűzet",
+    "számítástechnika"
+  ],
+  "kick_scooter": [
+    "roller"
+  ],
+  "kimono": [
+    "kimonó"
+  ],
+  "kiribati": [
+    "zászló",
+    "ki",
+    "kiribati köztársaság"
+  ],
+  "kiss": [
+    "szív",
+    "pár szívvel",
+    "csók",
+    "házasság"
+  ],
+  "kiss_man_man": [
+    "szív",
+    "meleg",
+    "pár szívvel",
+    "pár csók mm",
+    "csók"
+  ],
+  "kiss_mark": [
+    "szeretet",
+    ":*",
+    "szeretlek",
+    "ajak",
+    "puszi",
+    "csók",
+    "pusszantlak"
+  ],
+  "kiss_woman_man": [
+    "szív",
+    "pár",
+    "szerelem",
+    "csók",
+    "csókolózás"
+  ],
+  "kiss_woman_woman": [
+    "szív",
+    "leszbikus",
+    "pár szívvel",
+    "csók",
+    "házasság"
+  ],
+  "kissing_cat": [
+    "cica",
+    "macska"
+  ],
+  "kissing_face": [
+    "puszi",
+    "csók",
+    "csücsörít"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "szeretlek",
+    "puszi",
+    "puszika",
+    "csók",
+    "csókol",
+    "csücsörít",
+    "csókollak"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "szeretet",
+    "szeretlek",
+    "puszi",
+    "csók",
+    "csókolózás",
+    "puszillak"
+  ],
+  "kitchen_knife": [
+    "evőeszköz",
+    "kés",
+    "étkészlet",
+    "konyhakés"
+  ],
+  "kite": [
+    "papírsárkány"
+  ],
+  "kiwi_fruit": [
+    "étel",
+    "gyümölcs",
+    "kivi"
+  ],
+  "knot": [
+    "csomó"
+  ],
+  "koala": [
+    "medve",
+    "maci"
+  ],
+  "kosovo": [
+    "zászló",
+    "xk",
+    "koszovó",
+    "koszovói köztársaság"
+  ],
+  "kuwait": [
+    "zászló",
+    "kuvait",
+    "kw"
+  ],
+  "kyrgyzstan": [
+    "zászló",
+    "kirgizisztán",
+    "kg"
+  ],
+  "lab_coat": [
+    "köpeny",
+    "kabát",
+    "tudós"
+  ],
+  "label": [
+    "címke"
+  ],
+  "lacrosse": [
+    "ütő",
+    "sport"
+  ],
+  "ladder": [
+    "létra"
+  ],
+  "lady_beetle": [
+    "katica",
+    "rovar",
+    "bogár"
+  ],
+  "laos": [
+    "zászló",
+    "la",
+    "laosz"
+  ],
+  "laptop": [
+    "számítógép"
+  ],
+  "last_quarter_moon": [
+    "hold"
+  ],
+  "last_quarter_moon_face": [
+    "hold",
+    "félhold",
+    "csökkenőhold"
+  ],
+  "latin_cross": [
+    "vallás",
+    "szimbólum",
+    "kereszt"
+  ],
+  "latvia": [
+    "zászló",
+    "lv",
+    "lett köztársaság",
+    "lettország"
+  ],
+  "laughing": [
+    "vidám",
+    "röhög",
+    "mosolyog",
+    "boldog",
+    "örül",
+    "nevet"
+  ],
+  "leaf_fluttering_in_wind": [
+    "növény",
+    "levelek a szélben",
+    "levelek"
+  ],
+  "leafy_green": [
+    "étel",
+    "zöldség",
+    "saláta"
+  ],
+  "lebanon": [
+    "zászló",
+    "lb",
+    "libanoni köztársaság",
+    "libanon"
+  ],
+  "ledger": [
+    "könyv",
+    "főkönyv",
+    "sárga könyv"
+  ],
+  "left_facing_fist": [
+    "ököl"
+  ],
+  "left_luggage": [
+    "szimbólumok",
+    "szimbólum",
+    "balra",
+    "szállítási jel",
+    "poggyász",
+    "bal oldali poggyász"
+  ],
+  "leftwards_hand": [
+    "tenyér",
+    "kéz"
+  ],
+  "leg": [
+    "láb"
+  ],
+  "lemon": [
+    "étel",
+    "gyümölcs",
+    "citrom",
+    "savanyú"
+  ],
+  "leo": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "oroszlán"
+  ],
+  "leopard": [
+    "leopárd"
+  ],
+  "lesotho": [
+    "zászló",
+    "lesothói királyság",
+    "ls"
+  ],
+  "level_slider": [
+    "csúszka",
+    "hangerő"
+  ],
+  "liberia": [
+    "zászló",
+    "lr",
+    "libériai köztársaság",
+    "libéria"
+  ],
+  "libra": [
+    "ekliptika",
+    "mérleg",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv"
+  ],
+  "libya": [
+    "zászló",
+    "líbia",
+    "líbia állam",
+    "ly"
+  ],
+  "liechtenstein": [
+    "zászló",
+    "liechtensteini hercegség",
+    "liechtensteini fejedelemség",
+    "li"
+  ],
+  "light_bulb": [
+    "villanykörte",
+    "égő",
+    "lámpa"
+  ],
+  "light_rail": [
+    "vonat",
+    "vasút",
+    "kisvasút"
+  ],
+  "link": [
+    "láncszem",
+    "lánc"
+  ],
+  "linked_paperclips": [
+    "irodaszer",
+    "gémkapocs"
+  ],
+  "lion": [
+    "oroszlán",
+    "oroszlánfej"
+  ],
+  "lipstick": [
+    "rúzs",
+    "szájfény"
+  ],
+  "lithuania": [
+    "zászló",
+    "lt",
+    "litvánia",
+    "litván köztársaság"
+  ],
+  "litter_in_bin_sign": [
+    "szimbólumok",
+    "kuka",
+    "szimbólum",
+    "szállítási jel",
+    "szemét",
+    "a szemetet a helyére tenni",
+    "szemetet a kukába tábla"
+  ],
+  "lizard": [
+    "hüllő",
+    "gyík"
+  ],
+  "llama": [
+    "láma"
+  ],
+  "lobster": [
+    "étel",
+    "tenger",
+    "homár"
+  ],
+  "locked": [
+    "zárt lakat",
+    "lakat"
+  ],
+  "locked_with_key": [
+    "zár",
+    "védelem",
+    "titkosítás"
+  ],
+  "locked_with_pen": [
+    "zár",
+    "rejtjel",
+    "titkosítás",
+    "jelzár"
+  ],
+  "locomotive": [
+    "gőzmozdony",
+    "vonat",
+    "mozdony"
+  ],
+  "lollipop": [
+    "étel",
+    "édesség",
+    "nyalóka"
+  ],
+  "long_drum": [
+    "hosszú dob"
+  ],
+  "lotion_bottle": [
+    "krémes flakon",
+    "testápoló"
+  ],
+  "lotus": [
+    "lótuszvirág",
+    "virág",
+    "vízililiom",
+    "lótusz"
+  ],
+  "loudspeaker": [
+    "tüntetés",
+    "megafon",
+    "hangosbeszélő"
+  ],
+  "love_hotel": [
+    "hotel",
+    "épület",
+    "szerelmi fészek"
+  ],
+  "love_letter": [
+    "levél",
+    "szív",
+    "szeretet",
+    "boríték"
+  ],
+  "love_you_gesture": [
+    "ujj",
+    "menő",
+    "rock",
+    "kéz",
+    "ujjak"
+  ],
+  "low_battery": [
+    "alacsony akkumulátor töltöttség",
+    "merül az elem",
+    "alacsony energia"
+  ],
+  "luggage": [
+    "utazás",
+    "bőrönd",
+    "poggyász"
+  ],
+  "lungs": [
+    "légzés",
+    "tüdő"
+  ],
+  "luxembourg": [
+    "zászló",
+    "luxemburg",
+    "lu"
+  ],
+  "lying_face": [
+    "pinokkió",
+    "hazug",
+    "hazugság",
+    "hazudós",
+    "füllent"
+  ],
+  "macao_sar_china": [
+    "zászló",
+    "makaó",
+    "mo"
+  ],
+  "madagascar": [
+    "zászló",
+    "mg",
+    "madagaszkár"
+  ],
+  "mage": [
+    "mágus",
+    "varázsló"
+  ],
+  "magic_wand": [
+    "mágia",
+    "varázslat",
+    "varázspálca"
+  ],
+  "magnet": [
+    "patkómágnes",
+    "mágnes"
+  ],
+  "magnifying_glass_tilted_left": [
+    "kézi nagyító",
+    "nagyítóüveg",
+    "nagyító"
+  ],
+  "magnifying_glass_tilted_right": [
+    "kézi nagyító",
+    "nagyítóüveg",
+    "nagyító"
+  ],
+  "mahjong_red_dragon": [
+    "kártya",
+    "mahjong"
+  ],
+  "malawi": [
+    "zászló",
+    "mw",
+    "malawi köztársaság"
+  ],
+  "malaysia": [
+    "zászló",
+    "my",
+    "malajzia"
+  ],
+  "maldives": [
+    "zászló",
+    "maldív köztársaság",
+    "mv",
+    "maldív-szigetek"
+  ],
+  "mali": [
+    "zászló",
+    "ml",
+    "mali köztársaság"
+  ],
+  "malta": [
+    "zászló",
+    "málta",
+    "mt",
+    "máltai köztársaság"
+  ],
+  "mammoth": [
+    "állat",
+    "mamut"
+  ],
+  "man": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_artist": [
+    "ember",
+    "személy",
+    "arc",
+    "művészet",
+    "művész",
+    "festő"
+  ],
+  "man_astronaut": [
+    "szkafander",
+    "űrhajós",
+    "ember",
+    "személy",
+    "arc",
+    "asztronauta",
+    "világűr",
+    "űrutazó"
+  ],
+  "man_bald": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_beard": [
+    "szakáll"
+  ],
+  "man_biking": [
+    "sport",
+    "bicikli",
+    "biciklizés",
+    "bicaj"
+  ],
+  "man_bouncing_ball": [
+    "sport",
+    "kosárlabda"
+  ],
+  "man_bowing": [
+    "meghajlás",
+    "meghajol",
+    "sajnálom"
+  ],
+  "man_cartwheeling": [
+    "sport",
+    "gimnasztika",
+    "cigánykerék",
+    "torna"
+  ],
+  "man_climbing": [
+    "mászás",
+    "sziklamászó",
+    "hegymászó",
+    "szikla"
+  ],
+  "man_cook": [
+    "ember",
+    "személy",
+    "arc",
+    "kukta",
+    "szakács",
+    "főzés"
+  ],
+  "man_curly_hair": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_dancing": [
+    "táncos",
+    "táncol",
+    "tánc"
+  ],
+  "man_detective": [
+    "nyomozó",
+    "sherlock",
+    "kém"
+  ],
+  "man_elf": [
+    "elf",
+    "tünde"
+  ],
+  "man_facepalming": [
+    "homlokára csap",
+    "szégyen",
+    "atyavilág",
+    "fejéhez kap"
+  ],
+  "man_factory_worker": [
+    "ember",
+    "személy",
+    "arc",
+    "munkás",
+    "gyári munkás"
+  ],
+  "man_fairy": [
+    "tündér",
+    "tündérke"
+  ],
+  "man_farmer": [
+    "ember",
+    "személy",
+    "arc",
+    "mezőgazdász",
+    "farmer",
+    "hobbikert"
+  ],
+  "man_feeding_baby": [
+    "csecsemőt etető férfi"
+  ],
+  "man_firefighter": [
+    "ember",
+    "személy",
+    "arc",
+    "tűzoltó",
+    "sisak",
+    "lánglovag",
+    "tűz",
+    "vészhelyzet"
+  ],
+  "man_frowning": [
+    "homlokráncolás",
+    "fintor",
+    "fintorgás"
+  ],
+  "man_genie": [
+    "dzsinn"
+  ],
+  "man_gesturing_no": [
+    "semmiképp",
+    "nem",
+    "soha",
+    "semmi esetre sem",
+    "semmiképpen sem"
+  ],
+  "man_gesturing_ok": [
+    "ölel",
+    "férfi okét mutat",
+    "személy okét mutat"
+  ],
+  "man_getting_haircut": [
+    "hajvágás",
+    "fodrász",
+    "olló"
+  ],
+  "man_getting_massage": [
+    "arcmasszázs",
+    "masszázs",
+    "masszírozás",
+    "fejmasszázs"
+  ],
+  "man_golfing": [
+    "sport",
+    "golfozás",
+    "golf",
+    "golfjátékos"
+  ],
+  "man_guard": [
+    "kucsma",
+    "gárdista",
+    "gárda",
+    "őrség"
+  ],
+  "man_health_worker": [
+    "ember",
+    "személy",
+    "arc",
+    "doktor",
+    "dr",
+    "orvos",
+    "vészhelyzet"
+  ],
+  "man_in_lotus_position": [
+    "sport",
+    "lótuszülés",
+    "béke",
+    "nyugalom",
+    "jóga",
+    "elmélkedés"
+  ],
+  "man_in_manual_wheelchair": [
+    "kerekesszék"
+  ],
+  "man_in_motorized_wheelchair": [
+    "kerekesszék"
+  ],
+  "man_in_steamy_room": [
+    "gőzfürdő",
+    "szauna",
+    "gőzkabin"
+  ],
+  "man_in_tuxedo": [
+    "szmoking",
+    "férfi"
+  ],
+  "man_judge": [
+    "ember",
+    "személy",
+    "arc",
+    "bíró",
+    "bíróság"
+  ],
+  "man_juggling": [
+    "cirkusz",
+    "zsonglőr"
+  ],
+  "man_kneeling": [
+    "imádkozni",
+    "térdelve",
+    "letérdelni",
+    "imádkozó"
+  ],
+  "man_lifting_weights": [
+    "sport",
+    "súlyemelés"
+  ],
+  "man_mage": [
+    "mágus",
+    "mágia",
+    "süveg",
+    "varázsló"
+  ],
+  "man_mechanic": [
+    "ember",
+    "személy",
+    "arc",
+    "munkás",
+    "dolgozó",
+    "gépész"
+  ],
+  "man_mountain_biking": [
+    "sport",
+    "bringázás",
+    "kerékpározás",
+    "hegyi kerékpározás",
+    "kerékpár",
+    "biciklis"
+  ],
+  "man_office_worker": [
+    "ember",
+    "személy",
+    "arc",
+    "iroda",
+    "dolgozó",
+    "irodista",
+    "biorobot"
+  ],
+  "man_pilot": [
+    "ember",
+    "személy",
+    "arc",
+    "kapitány",
+    "pilóta"
+  ],
+  "man_playing_handball": [
+    "sport",
+    "kézilabda",
+    "labdajáték"
+  ],
+  "man_playing_water_polo": [
+    "sport",
+    "vízilabda",
+    "vízilabdázás"
+  ],
+  "man_police_officer": [
+    "zsaru",
+    "ember",
+    "személy",
+    "arc",
+    "fakabát",
+    "rendőr"
+  ],
+  "man_pouting": [
+    "duzzog"
+  ],
+  "man_raising_hand": [
+    "jelentkezik"
+  ],
+  "man_red_hair": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_rowing_boat": [
+    "sport",
+    "kajak",
+    "kenu"
+  ],
+  "man_running": [
+    "sport",
+    "rohan",
+    "fut",
+    "futás",
+    "szalad",
+    "késik",
+    "futó"
+  ],
+  "man_s_shoe": [
+    "cipő"
+  ],
+  "man_scientist": [
+    "ember",
+    "személy",
+    "arc",
+    "tudomány",
+    "kutató",
+    "tudós",
+    "professzor",
+    "phd",
+    "mta"
+  ],
+  "man_shrugging": [
+    "vállvonogatás",
+    "vállvonás",
+    "vállat vont",
+    "mit tudom én",
+    "nem tudom",
+    "nemtom"
+  ],
+  "man_singer": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_standing": [
+    "ember",
+    "személy",
+    "álló alak"
+  ],
+  "man_student": [
+    "ember",
+    "személy",
+    "arc",
+    "sapka",
+    "diák"
+  ],
+  "man_superhero": [
+    "ember",
+    "személy",
+    "arc",
+    "hős",
+    "szuperhős"
+  ],
+  "man_supervillain": [
+    "ember",
+    "személy",
+    "arc",
+    "szupergonosz"
+  ],
+  "man_surfing": [
+    "sport",
+    "szörfözés",
+    "szörfös"
+  ],
+  "man_swimming": [
+    "sport",
+    "versenyúszás",
+    "úszás",
+    "úszik"
+  ],
+  "man_teacher": [
+    "ember",
+    "személy",
+    "tanár",
+    "arc",
+    "professzor",
+    "oktató"
+  ],
+  "man_technologist": [
+    "ember",
+    "személy",
+    "arc",
+    "iroda",
+    "programozó",
+    "it",
+    "technikus"
+  ],
+  "man_tipping_hand": [
+    "kéz",
+    "kezet nyújtó személy",
+    "nyúl",
+    "borravalót ad",
+    "kezet nyújt",
+    "welp"
+  ],
+  "man_vampire": [
+    "vámpír"
+  ],
+  "man_walking": [
+    "gyalogol",
+    "megy",
+    "sétál"
+  ],
+  "man_wearing_turban": [
+    "ember",
+    "személy",
+    "arc",
+    "turbán",
+    "fejfedő"
+  ],
+  "man_white_hair": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "man_with_veil": [
+    "ember fátyollal",
+    "fátyolos férfi",
+    "fátyolos ember",
+    "férfi fátyollal"
+  ],
+  "man_with_white_cane": [
+    "fehér bot",
+    "látássérült"
+  ],
+  "man_zombie": [
+    "ember",
+    "horror",
+    "zombi"
+  ],
+  "mango": [
+    "étel",
+    "gyümölcs",
+    "mangó"
+  ],
+  "mantelpiece_clock": [
+    "kandallóóra",
+    "idő",
+    "óra"
+  ],
+  "manual_wheelchair": [
+    "kerekesszék"
+  ],
+  "map_of_japan": [
+    "térkép",
+    "japán térképe"
+  ],
+  "maple_leaf": [
+    "növény",
+    "falevél",
+    "juharlevél"
+  ],
+  "marshall_islands": [
+    "zászló",
+    "mh",
+    "marshall-szigetek"
+  ],
+  "martial_arts_uniform": [
+    "sport",
+    "karate",
+    "kimonó",
+    "harcművészet"
+  ],
+  "mate": [
+    "kalácsa"
+  ],
+  "mauritania": [
+    "zászló",
+    "mauritánia",
+    "mauritániai iszlám köztársaság",
+    "mr"
+  ],
+  "mauritius": [
+    "zászló"
+  ],
+  "mayotte": [
+    "zászló",
+    "yt",
+    "majott"
+  ],
+  "meat_on_bone": [
+    "étel",
+    "hús",
+    "hús és csont"
+  ],
+  "mechanic": [
+    "gépész"
+  ],
+  "mechanical_arm": [
+    "kéz",
+    "bicepsz",
+    "izom",
+    "robot"
+  ],
+  "mechanical_leg": [
+    "láb",
+    "mechanikus",
+    "mech"
+  ],
+  "megaphone": [
+    "megafon",
+    "hangosítás"
+  ],
+  "melon": [
+    "étel",
+    "gyümölcs",
+    "sárgadinnye",
+    "dinnye"
+  ],
+  "melting_face": [
+    "elolvad",
+    "olvadozik"
+  ],
+  "memo": [
+    "írás",
+    "ceruza",
+    "jegyzet"
+  ],
+  "men_holding_hands": [
+    "pár",
+    "kézenfogva"
+  ],
+  "men_s_room": [
+    "szimbólumok",
+    "szimbólum",
+    "szállítási jel",
+    "férfi",
+    "férfi mosdó"
+  ],
+  "men_with_bunny_ears": [
+    "nyúlfülek",
+    "nyuszifülek",
+    "táncosok"
+  ],
+  "men_wrestling": [
+    "sport",
+    "birkózás"
+  ],
+  "mending_heart": [
+    "szív",
+    "kötés",
+    "bekötött"
+  ],
+  "menorah": [
+    "vallás",
+    "szimbólum",
+    "menóra"
+  ],
+  "mermaid": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy",
+    "sellő"
+  ],
+  "merman": [
+    "sellő",
+    "hableány"
+  ],
+  "merperson": [
+    "sellő"
+  ],
+  "metro": [
+    "metró",
+    "földalatti"
+  ],
+  "mexico": [
+    "zászló",
+    "mx",
+    "mexikó",
+    "mexikói"
+  ],
+  "microbe": [
+    "fertőzés",
+    "mikróba",
+    "trutyi",
+    "vírus"
+  ],
+  "micronesia": [
+    "zászló",
+    "mikronézia",
+    "fm"
+  ],
+  "microphone": [
+    "énekes",
+    "mikrofon",
+    "hangrögzítés",
+    "riporter"
+  ],
+  "microscope": [
+    "tudomány",
+    "mikroszkóp"
+  ],
+  "military_helmet": [
+    "katonai sisak",
+    "rohamsisak"
+  ],
+  "military_medal": [
+    "dicsőség",
+    "kitüntetés",
+    "medál"
+  ],
+  "milky_way": [
+    "világűr",
+    "tejút"
+  ],
+  "minibus": [
+    "autó",
+    "kocsi",
+    "gépjármű",
+    "minibusz"
+  ],
+  "minus": [
+    "mínusz",
+    "matematika",
+    "mínuszjel"
+  ],
+  "mirror": [
+    "tükör"
+  ],
+  "mirror_ball": [
+    "parti",
+    "diszkó",
+    "diszkógömb"
+  ],
+  "moai": [
+    "húsvét-sziget",
+    "moyai"
+  ],
+  "mobile_phone": [
+    "telefon",
+    "mobiltelefon",
+    "mobil",
+    "okos telefon"
+  ],
+  "mobile_phone_off": [
+    "mobiltelefon ki",
+    "mobil kikapcsolva",
+    "mobil ki",
+    "mobiltelefon kikapcsolva"
+  ],
+  "mobile_phone_with_arrow": [
+    "telefon",
+    "mobiltelefon",
+    "mobil",
+    "okostelefon",
+    "hívás"
+  ],
+  "moldova": [
+    "zászló",
+    "md"
+  ],
+  "monaco": [
+    "zászló",
+    "monacói hercegség",
+    "mc"
+  ],
+  "money_bag": [
+    "bitcoin",
+    "$",
+    "készpénz",
+    "pénz",
+    "pénzeszsák",
+    "kriptovaluta",
+    "dollár"
+  ],
+  "money_mouth_face": [
+    "$",
+    "készpénz",
+    "pénz",
+    "gazdag",
+    "nyelv",
+    "pénzéhes",
+    "korrupt",
+    "mohó"
+  ],
+  "money_with_wings": [
+    "bitcoin",
+    "gazdaság",
+    "$",
+    "gazdagság",
+    "készpénz",
+    "usd",
+    "pénz",
+    "gazdag",
+    "bankjegy",
+    "jövedelem",
+    "kriptovaluta",
+    "szárnyas pénz",
+    "dollár"
+  ],
+  "mongolia": [
+    "zászló",
+    "mn",
+    "mongólia"
+  ],
+  "monkey": [
+    "majom"
+  ],
+  "monkey_face": [
+    "majom",
+    "majomfej"
+  ],
+  "monorail": [
+    "vonat",
+    "vasút",
+    "mágnesvasút"
+  ],
+  "montenegro": [
+    "zászló",
+    "me",
+    "montenegró"
+  ],
+  "montserrat": [
+    "zászló",
+    "ms"
+  ],
+  "moon_cake": [
+    "étel",
+    "holdsütemény",
+    "torta",
+    "holdtorta"
+  ],
+  "moon_viewing_ceremony": [
+    "esemény",
+    "események",
+    "rizs jelenet",
+    "holdnéző ceremónia"
+  ],
+  "morocco": [
+    "zászló",
+    "ma",
+    "marokkói királyság",
+    "marokkó"
+  ],
+  "mosque": [
+    "vallás",
+    "épület",
+    "mecset"
+  ],
+  "mosquito": [
+    "rovar",
+    "szúnyog"
+  ],
+  "motor_boat": [
+    "hajó",
+    "jacht"
+  ],
+  "motor_scooter": [
+    "motor",
+    "robogó"
+  ],
+  "motorcycle": [
+    "motorbicikli",
+    "motorkerékpár",
+    "versenymotor"
+  ],
+  "motorized_wheelchair": [
+    "kerekesszék",
+    "motorosszék",
+    "tolószék",
+    "rokkantkocsi"
+  ],
+  "motorway": [
+    "gyorsforgalmi út",
+    "autóút",
+    "autópálya",
+    "országút",
+    "út"
+  ],
+  "mount_fuji": [
+    "hegy",
+    "fuji",
+    "hegység"
+  ],
+  "mountain": [
+    "hegy",
+    "hegység"
+  ],
+  "mountain_cableway": [
+    "felvonó",
+    "lanovka",
+    "kabinos lift",
+    "kabinos libegő"
+  ],
+  "mountain_railway": [
+    "vonat",
+    "fogaskerekű",
+    "hegyi vasút"
+  ],
+  "mouse": [
+    "egér",
+    "patkány",
+    "rágcsáló"
+  ],
+  "mouse_face": [
+    "egér"
+  ],
+  "mouse_trap": [
+    "élvefogó",
+    "egércsapda"
+  ],
+  "mouth": [
+    "ajak",
+    "száj",
+    "csók",
+    "érzéki"
+  ],
+  "movie_camera": [
+    "mozikamera",
+    "kamera",
+    "mozi",
+    "filmfelvevő"
+  ],
+  "mozambique": [
+    "zászló",
+    "mz",
+    "mozambiki köztársaság",
+    "mozambik"
+  ],
+  "mrs_claus": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "multiply": [
+    "szorzó",
+    "matematika",
+    "szorzásjel",
+    "szorzás"
+  ],
+  "mushroom": [
+    "galóca",
+    "gomba"
+  ],
+  "musical_keyboard": [
+    "billentyűs hangszer",
+    "zene",
+    "szórakozás",
+    "hangszer",
+    "zenei billentyűzet",
+    "zongora",
+    "piano"
+  ],
+  "musical_note": [
+    "zene",
+    "hangjegy"
+  ],
+  "musical_notes": [
+    "zene",
+    "hangjegy"
+  ],
+  "musical_score": [
+    "zene",
+    "violinkulcs",
+    "hangjegy"
+  ],
+  "muted_speaker": [
+    "némítás",
+    "némított hangszóró",
+    "hangszóró",
+    "elnémított hangszóró"
+  ],
+  "mx_claus": [
+    "karácsony",
+    "mikulás",
+    "télapó"
+  ],
+  "myanmar_burma": [
+    "zászló",
+    "mianmar",
+    "burma",
+    "mianmari szövetségi köztársaság",
+    "mm"
+  ],
+  "nail_polish": [
+    "kéz",
+    "körömápolás",
+    "körömlakk",
+    "körömfestés",
+    "manikűr"
+  ],
+  "name_badge": [
+    "névtábla",
+    "tűzjelző"
+  ],
+  "namibia": [
+    "zászló",
+    "namíbiai köztársaság",
+    "namíbia",
+    "na"
+  ],
+  "national_park": [
+    "park",
+    "nemzeti park"
+  ],
+  "nauru": [
+    "zászló",
+    "nr"
+  ],
+  "nauseated_face": [
+    "beteg",
+    "hányás",
+    "gyomorbaj",
+    "okád"
+  ],
+  "nazar_amulet": [
+    "amulett",
+    "nazar",
+    "szem-amulett",
+    "kék szem",
+    "kék amulett",
+    "szemmel verés"
+  ],
+  "necktie": [
+    "ing",
+    "nyakkendő"
+  ],
+  "nepal": [
+    "zászló",
+    "nepáli szövetségi demokratikus köztársaság",
+    "np",
+    "nepál"
+  ],
+  "nerd_face": [
+    "okoska",
+    "okos",
+    "okostojás",
+    "geek",
+    "szemüveges"
+  ],
+  "nest_with_eggs": [
+    "fészek",
+    "fészek tojással"
+  ],
+  "nesting_dolls": [
+    "matrjoska"
+  ],
+  "netherlands": [
+    "zászló",
+    "hollandia",
+    "holland királyság",
+    "nl"
+  ],
+  "neutral_face": [
+    ":-|",
+    "unalmas",
+    "semleges",
+    "csendes",
+    "sajnálom",
+    "szkeptikus",
+    "egykedvű",
+    "ez van",
+    "pókerarc"
+  ],
+  "new_button": [
+    "új"
+  ],
+  "new_caledonia": [
+    "zászló",
+    "új-kaledónia",
+    "kanaky",
+    "nc"
+  ],
+  "new_moon": [
+    "hold"
+  ],
+  "new_moon_face": [
+    "hold",
+    "újhold"
+  ],
+  "new_zealand": [
+    "zászló",
+    "nz",
+    "aotearoa",
+    "új-zéland"
+  ],
+  "newspaper": [
+    "újság",
+    "hírek"
+  ],
+  "next_track_button": [
+    "következő dal gomb",
+    "következő",
+    "következő gomb"
+  ],
+  "ng_button": [
+    "nem jó",
+    "ng gomb"
+  ],
+  "nicaragua": [
+    "zászló",
+    "ni"
+  ],
+  "niger": [
+    "zászló",
+    "ne",
+    "nijar",
+    "niiser"
+  ],
+  "nigeria": [
+    "zászló",
+    "nigéria",
+    "ng",
+    "nigériai szövetségi köztársaság"
+  ],
+  "night_with_stars": [
+    "csillagos éjszaka",
+    "csillagfény",
+    "csillagokkal teli éjszaka",
+    "éjszaka",
+    "csillagos égbolt",
+    "csillagok"
+  ],
+  "nine": [
+    "kilenc",
+    "9"
+  ],
+  "nine_o_clock": [
+    "9 óra"
+  ],
+  "ninja": [
+    "nindzsa"
+  ],
+  "niue": [
+    "zászló",
+    "nu"
+  ],
+  "no_bicycles": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "szállítási jel",
+    "kerékpárral tilos"
+  ],
+  "no_entry": [
+    "szimbólum",
+    "közlekedési tábla",
+    "tiltás",
+    "behajtani tilos"
+  ],
+  "no_littering": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "ne szemeteljen",
+    "szemetelés tilos"
+  ],
+  "no_mobile_phones": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "mobiltelefonok használata tilos"
+  ],
+  "no_one_under_eighteen": [
+    "szimbólum",
+    "figyelmeztetés",
+    "tizennyolc éven felülieknek",
+    "felnőtt",
+    "sex"
+  ],
+  "no_pedestrians": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "gyalogosok nélkül"
+  ],
+  "no_smoking": [
+    "szimbólum",
+    "tilos a dohányzás",
+    "figyelmeztetés"
+  ],
+  "non_potable_water": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "nem ivóvíz",
+    "szimbólum",
+    "figyelmeztetés"
+  ],
+  "norfolk_island": [
+    "zászló",
+    "nf",
+    "norfolk-sziget"
+  ],
+  "north_korea": [
+    "zászló",
+    "észak-korea",
+    "kp",
+    "koreai népi demokratikus köztársaság",
+    "korea"
+  ],
+  "north_macedonia": [
+    "zászló",
+    "macedónia",
+    "észak-macedón köztársaság",
+    "mk",
+    "észak-macedónia"
+  ],
+  "northern_mariana_islands": [
+    "zászló",
+    "északi mariana-szigetek",
+    "mp"
+  ],
+  "norway": [
+    "zászló",
+    "skandináv kereszt",
+    "északi kereszt",
+    "norvégia",
+    "bouvet-sziget",
+    "no",
+    "bv"
+  ],
+  "nose": [
+    "szaglás",
+    "orr",
+    "érzékszerv",
+    "illat"
+  ],
+  "notebook": [
+    "könyv",
+    "jegyzetfüzet",
+    "leckefüzet"
+  ],
+  "notebook_with_decorative_cover": [
+    "könyv",
+    "notebook",
+    "jegyzetfüzet díszes borítóval"
+  ],
+  "nut_and_bolt": [
+    "eszköz",
+    "menetes csavar",
+    "csavar"
+  ],
+  "o_button_blood_type": [
+    "vércsoport",
+    "vér o",
+    "vér",
+    "vér 0",
+    "o gomb (vércsoport)"
+  ],
+  "ocean": [
+    "tenger",
+    "hullám",
+    "cunami",
+    "óceán"
+  ],
+  "octopus": [
+    "polip"
+  ],
+  "oden": [
+    "étel",
+    "rablóhús",
+    "nyárs",
+    "saslik"
+  ],
+  "office_building": [
+    "épület",
+    "ház"
+  ],
+  "office_worker": [
+    "irodista"
+  ],
+  "ogre": [
+    "álarc",
+    "démon",
+    "szörnyeteg",
+    "busómaszk",
+    "maszk",
+    "ördög",
+    "busóálarc"
+  ],
+  "oil_drum": [
+    "olajoshordó"
+  ],
+  "ok_button": [
+    "oké",
+    "rendben",
+    "ok"
+  ],
+  "ok_hand": [
+    "tuti",
+    "tökéletes",
+    "rendben"
+  ],
+  "old_key": [
+    "kulcs"
+  ],
+  "old_man": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "old_woman": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "older_person": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "olive": [
+    "olíva",
+    "bogyó",
+    "olívabogyó"
+  ],
+  "om": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "hindu"
+  ],
+  "oman": [
+    "zászló",
+    "om",
+    "ománi szultanátus",
+    "omán"
+  ],
+  "oncoming_automobile": [
+    "autó",
+    "kocsi",
+    "gépjármű"
+  ],
+  "oncoming_bus": [
+    "autó",
+    "busz",
+    "szembejövő busz",
+    "kisteherautó"
+  ],
+  "oncoming_fist": [
+    "ököl",
+    "harc",
+    "tesó",
+    "box"
+  ],
+  "oncoming_police_car": [
+    "rendőrautó",
+    "autó",
+    "rendőrség"
+  ],
+  "oncoming_taxi": [
+    "autó",
+    "kocsi",
+    "gépjármű",
+    "taxi"
+  ],
+  "one": [
+    "egy",
+    "1"
+  ],
+  "one_o_clock": [
+    "1 óra"
+  ],
+  "one_piece_swimsuit": [
+    "fürdőruha",
+    "egyrészes fürdőruha"
+  ],
+  "onion": [
+    "hagyma"
+  ],
+  "open_book": [
+    "könyv",
+    "nyitott könyv",
+    "biblia"
+  ],
+  "open_file_folder": [
+    "iroda",
+    "mappa",
+    "nyitott fájl mappa"
+  ],
+  "open_hands": [
+    "tenyér",
+    "kéz"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "mail",
+    "nincs levél",
+    "postaláda",
+    "postaláda levél nélkül"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "mail",
+    "bejövő",
+    "postaláda levelekkel",
+    "postaláda"
+  ],
+  "open_mouth": [
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "frász"
+  ],
+  "ophiuchus": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "kígyótartó"
+  ],
+  "optical_disk": [
+    "cd",
+    "lemez"
+  ],
+  "orange_book": [
+    "könyv",
+    "narancssárga könyv"
+  ],
+  "orange_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "orangutan": [
+    "majom",
+    "főemlős",
+    "orangután"
+  ],
+  "orthodox_cross": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "kereszt",
+    "ortodox kereszt"
+  ],
+  "otter": [
+    "vidra"
+  ],
+  "outbox_tray": [
+    "posta",
+    "tálca"
+  ],
+  "owl": [
+    "madár",
+    "bagoly"
+  ],
+  "ox": [
+    "bivaly",
+    "ökör",
+    "marha"
+  ],
+  "oyster": [
+    "osztriga",
+    "kagyló"
+  ],
+  "p_button": [
+    "parkoló",
+    "parkolójel",
+    "parkolótábla",
+    "parkolás"
+  ],
+  "package": [
+    "csomag",
+    "küldemény"
+  ],
+  "page_facing_up": [
+    "oldal",
+    "felfelé néző oldal",
+    "dokumentum",
+    "lap"
+  ],
+  "page_with_curl": [
+    "oldal",
+    "dokumentum"
+  ],
+  "pager": [
+    "telefon",
+    "csipogó"
+  ],
+  "paintbrush": [
+    "írás",
+    "írja",
+    "ecset",
+    "festés"
+  ],
+  "pakistan": [
+    "zászló",
+    "pakisztán",
+    "pk",
+    "pakisztáni iszlám köztársaság"
+  ],
+  "palau": [
+    "zászló",
+    "pw"
+  ],
+  "palestinian_territories": [
+    "zászló",
+    "palesztin autonómia",
+    "palesztin területek",
+    "palesztin autonóm területek",
+    "ps"
+  ],
+  "palm_down_hand": [
+    "bal kéz",
+    "kéz le",
+    "bal kézfej",
+    "bal tenyér"
+  ],
+  "palm_tree": [
+    "növény",
+    "pálmafa",
+    "fa"
+  ],
+  "palm_up_hand": [
+    "jobb tenyér",
+    "kéz fel",
+    "tenyér fel",
+    "könyörög",
+    "kar fel"
+  ],
+  "palms_up_together": [
+    "tenyér",
+    "kéz"
+  ],
+  "panama": [
+    "zászló",
+    "pa"
+  ],
+  "pancakes": [
+    "étel",
+    "palacsinta"
+  ],
+  "panda": [
+    "mackó",
+    "medve"
+  ],
+  "paperclip": [
+    "gémkapocs"
+  ],
+  "papua_new_guinea": [
+    "zászló",
+    "pápua új-guinea független állam",
+    "pápua új-guinea",
+    "pg"
+  ],
+  "parachute": [
+    "ejtőernyő"
+  ],
+  "paraguay": [
+    "zászló",
+    "paraguayi köztársaság",
+    "py"
+  ],
+  "parrot": [
+    "madár",
+    "papagáj"
+  ],
+  "part_alternation_mark": [
+    "mcdonalds",
+    "bikacsapda",
+    "rész váltakozási jel"
+  ],
+  "partying_face": [
+    "vidám",
+    "parti",
+    "ünneplés"
+  ],
+  "passenger_ship": [
+    "hajó",
+    "utasszállító hajó"
+  ],
+  "passport_control": [
+    "vám",
+    "szimbólum",
+    "útlevél-ellenőrzés",
+    "ellenőrzés",
+    "útlevél"
+  ],
+  "pause_button": [
+    "pillanat állj",
+    "szünetgomb"
+  ],
+  "paw_prints": [
+    "láb",
+    "mancs nyomok",
+    "mancs",
+    "lábnyomok"
+  ],
+  "peace_symbol": [
+    "vallás",
+    "szimbólum",
+    "béke"
+  ],
+  "peach": [
+    "étel",
+    "sárgabarack",
+    "gyümölcs",
+    "kajszibarack",
+    "barack"
+  ],
+  "peacock": [
+    "madár",
+    "páva"
+  ],
+  "peanuts": [
+    "étel",
+    "földimogyoró"
+  ],
+  "pear": [
+    "étel",
+    "gyümölcs",
+    "körte"
+  ],
+  "pen": [
+    "irodaszer",
+    "toll",
+    "golyóstoll"
+  ],
+  "pencil": [
+    "írás",
+    "ceruza"
+  ],
+  "penguin": [
+    "madár",
+    "pingvin"
+  ],
+  "pensive_face": [
+    "bánat",
+    "szomorú",
+    "csalódott",
+    "szomorúság"
+  ],
+  "people_holding_hands": [
+    "ikrek"
+  ],
+  "people_hugging": [
+    "ölel",
+    "ölelés"
+  ],
+  "people_with_bunny_ears": [
+    "nyuszi lány",
+    "playboy",
+    "nyuszifül"
+  ],
+  "people_wrestling": [
+    "sport",
+    "súlyemelő",
+    "súlyemelés"
+  ],
+  "performing_arts": [
+    "művészet",
+    "színészet",
+    "színház",
+    "filmművészet"
+  ],
+  "persevering_face": [
+    "bánat",
+    "szomorú",
+    "fáradt",
+    "szomorúság"
+  ],
+  "person": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "person_bald": [
+    "borotvált fej",
+    "kopasz"
+  ],
+  "person_beard": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "person_biking": [
+    "bicikli",
+    "kerékpár",
+    "bringa"
+  ],
+  "person_blond_hair": [
+    "hajvágás",
+    "haj",
+    "fehér haj",
+    "szőke"
+  ],
+  "person_bouncing_ball": [
+    "cselezés",
+    "kosárlabda",
+    "kosaras",
+    "kosárlabdázó",
+    "pattogás",
+    "golyó"
+  ],
+  "person_bowing": [
+    "meghajlás",
+    "meghajol"
+  ],
+  "person_cartwheeling": [
+    "sport",
+    "gimnasztika",
+    "torna",
+    "talajtorna"
+  ],
+  "person_climbing": [
+    "sziklamászó",
+    "hegymászó",
+    "szikla"
+  ],
+  "person_curly_hair": [
+    "hajvágás",
+    "haj",
+    "göndör",
+    "fürtök"
+  ],
+  "person_facepalming": [
+    "face palm",
+    "értetlenkedik",
+    "facepalm",
+    "hihetetlen"
+  ],
+  "person_feeding_baby": [
+    "csecsemőt etető ember"
+  ],
+  "person_fencing": [
+    "sport",
+    "vívás",
+    "tőrvívás",
+    "párbajtőr"
+  ],
+  "person_frowning": [
+    "szomorú"
+  ],
+  "person_gesturing_no": [
+    "semmiképp",
+    "nem",
+    "felejtős"
+  ],
+  "person_gesturing_ok": [
+    "kör",
+    "gesztus",
+    "jel",
+    "ok"
+  ],
+  "person_getting_haircut": [
+    "hajvágás",
+    "fodrász",
+    "olló"
+  ],
+  "person_getting_massage": [
+    "arcmasszázs",
+    "masszázs",
+    "masszírozás",
+    "fejmasszázs"
+  ],
+  "person_golfing": [
+    "sport",
+    "golf",
+    "golfozó"
+  ],
+  "person_in_bed": [
+    "ágy",
+    "alvás"
+  ],
+  "person_in_lotus_position": [
+    "nirvána",
+    "jóga",
+    "meditáció",
+    "lótusz"
+  ],
+  "person_in_manual_wheelchair": [
+    "kerekesszék"
+  ],
+  "person_in_motorized_wheelchair": [
+    "kerekesszék"
+  ],
+  "person_in_steamy_room": [
+    "gőzfürdő",
+    "szauna",
+    "fürdő"
+  ],
+  "person_in_suit_levitating": [
+    "kalap",
+    "öltöny",
+    "férfi üzleti öltözékben lebeg"
+  ],
+  "person_in_tuxedo": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "person_juggling": [
+    "bohóc",
+    "zsonglőr"
+  ],
+  "person_kneeling": [
+    "imádkozni",
+    "térdelve",
+    "letérdelni",
+    "imádkozó",
+    "letérdel",
+    "térdel"
+  ],
+  "person_lifting_weights": [
+    "sport",
+    "súlyemelő",
+    "súlyemelés",
+    "testépítő"
+  ],
+  "person_mountain_biking": [
+    "bringázás",
+    "biciklista",
+    "kerékpározás",
+    "biciklizés",
+    "kerékpár",
+    "hegyi kerékpár",
+    "terepkerékpár",
+    "bringás",
+    "kerékpáros"
+  ],
+  "person_playing_handball": [
+    "sport",
+    "kézilabda"
+  ],
+  "person_playing_water_polo": [
+    "sport",
+    "vízilabda"
+  ],
+  "person_pouting": [
+    "duzzogás",
+    "duzzog",
+    "duzzogni",
+    "elegem van",
+    "duzzogó"
+  ],
+  "person_raising_hand": [
+    "kéz",
+    "jelentkezés",
+    "jelentkezik",
+    "gesztus",
+    "kézfelemelés"
+  ],
+  "person_red_hair": [
+    "hajvágás",
+    "haj",
+    "vörös haj",
+    "gyömbér"
+  ],
+  "person_rowing_boat": [
+    "evezők",
+    "csónak",
+    "evezés"
+  ],
+  "person_running": [
+    "maraton",
+    "fuss",
+    "futás",
+    "kocogás"
+  ],
+  "person_shrugging": [
+    "vállvonogatás",
+    "fogalmam sincs",
+    "fingom nincs",
+    "vállrándítás",
+    "nem értem",
+    "nem tudom"
+  ],
+  "person_standing": [
+    "ember",
+    "személy",
+    "valaki",
+    "ácsorog"
+  ],
+  "person_surfing": [
+    "szörfös",
+    "hullámlovas",
+    "szörf"
+  ],
+  "person_swimming": [
+    "úszó",
+    "úszás"
+  ],
+  "person_taking_bath": [
+    "fürdőszoba",
+    "fürdés"
+  ],
+  "person_tipping_hand": [
+    "kéz",
+    "információs pult",
+    "borravaló"
+  ],
+  "person_walking": [
+    "gyalogos",
+    "gyalogol",
+    "sétál"
+  ],
+  "person_wearing_turban": [
+    "turbán"
+  ],
+  "person_white_hair": [
+    "hajvágás",
+    "haj",
+    "fehér haj"
+  ],
+  "person_with_crown": [
+    "korona",
+    "királynő"
+  ],
+  "person_with_skullcap": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "person_with_veil": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "person_with_white_cane": [
+    "fehér bot",
+    "látássérült"
+  ],
+  "peru": [
+    "zászló",
+    "pe"
+  ],
+  "petri_dish": [
+    "tudomány",
+    "baktérium",
+    "kísérlet",
+    "petricsésze"
+  ],
+  "philippines": [
+    "zászló",
+    "ph",
+    "fülöp-szigetek"
+  ],
+  "pick": [
+    "eszköz",
+    "csákány"
+  ],
+  "pickup_truck": [
+    "teherautó",
+    "pickup"
+  ],
+  "pie": [
+    "étel",
+    "édesség",
+    "pite"
+  ],
+  "pig": [
+    "malac",
+    "disznó"
+  ],
+  "pig_face": [
+    "malac",
+    "disznó",
+    "röfi",
+    "malacka"
+  ],
+  "pig_nose": [
+    "malac",
+    "malac orr"
+  ],
+  "pill": [
+    "betegség",
+    "orvos",
+    "gyógyszer",
+    "pirula"
+  ],
+  "pilot": [
+    "pilóta"
+  ],
+  "pinched_fingers": [
+    "gyerünk",
+    "összeszorított ujjak"
+  ],
+  "pinching_hand": [
+    "csipetnyi",
+    "picike",
+    "csipet"
+  ],
+  "pine_decoration": [
+    "esemény",
+    "események",
+    "fenyődíszítés"
+  ],
+  "pineapple": [
+    "étel",
+    "zöldség",
+    "gyümölcs",
+    "ananász"
+  ],
+  "ping_pong": [
+    "sport",
+    "asztalitenisz",
+    "pingpong"
+  ],
+  "pirate_flag": [
+    "zászló",
+    "kalóz",
+    "kalózzászló"
+  ],
+  "pisces": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "halak"
+  ],
+  "pitcairn_islands": [
+    "zászló",
+    "pitcairn-szigetek",
+    "pn"
+  ],
+  "pizza": [
+    "étel",
+    "pizzaszelet"
+  ],
+  "piñata": [
+    "pinyáta",
+    "pinata"
+  ],
+  "placard": [
+    "tábla",
+    "pázsit tábla",
+    "plakát",
+    "tüntetés",
+    "tiltakozó tábla"
+  ],
+  "place_of_worship": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "imádat",
+    "kultuszhely"
+  ],
+  "play_button": [
+    "gomb",
+    "lejátszás",
+    "jobb",
+    "jobbra nyíl",
+    "lejátszás gomb"
+  ],
+  "play_or_pause_button": [
+    "gomb",
+    "lejátszás szünet gomb",
+    "szünet"
+  ],
+  "playground_slide": [
+    "csúszda"
+  ],
+  "pleading_face": [
+    "bánatos",
+    "kérlelő",
+    "könyörgő"
+  ],
+  "plunger": [
+    "pumpa"
+  ],
+  "plus": [
+    "pluszjel",
+    "plusz",
+    "matematika",
+    "+"
+  ],
+  "poland": [
+    "zászló",
+    "pl",
+    "lengyelország"
+  ],
+  "polar_bear": [
+    "jegesmedve",
+    "állat",
+    "medve"
+  ],
+  "police_car": [
+    "rendőrautó",
+    "autó"
+  ],
+  "police_car_light": [
+    "fényjelzés",
+    "villogó",
+    "sziréna"
+  ],
+  "police_officer": [
+    "zsaru",
+    "katona",
+    "rendőr",
+    "tiszt"
+  ],
+  "poodle": [
+    "uszkár",
+    "kutya",
+    "kutyus"
+  ],
+  "pool_8_ball": [
+    "sport",
+    "mágikus nyolcas golyó",
+    "8",
+    "biliárd 8 golyó",
+    "jövő",
+    "labda",
+    "mágikus 8 golyó",
+    "szavazás",
+    "8 golyó",
+    "nyolc"
+  ],
+  "poop": [
+    "fos",
+    "szar",
+    "kaka"
+  ],
+  "popcorn": [
+    "étel",
+    "pattogatott kukorica"
+  ],
+  "portugal": [
+    "zászló",
+    "portugália",
+    "pt"
+  ],
+  "post_office": [
+    "épület",
+    "ház"
+  ],
+  "postal_horn": [
+    "kürt",
+    "postáskürt"
+  ],
+  "postbox": [
+    "levél",
+    "postaláda"
+  ],
+  "pot_of_food": [
+    "étel",
+    "tányér",
+    "pörkölt",
+    "edény"
+  ],
+  "potable_water": [
+    "szimbólumok",
+    "szimbólum",
+    "ivóvíz",
+    "utazási jel",
+    "víz",
+    "iható víz"
+  ],
+  "potato": [
+    "étel",
+    "zöldség",
+    "burgonya",
+    "krumpli"
+  ],
+  "potted_plant": [
+    "szobanövény",
+    "cserepes növény"
+  ],
+  "poultry_leg": [
+    "étel",
+    "csirkecomb"
+  ],
+  "pound_banknote": [
+    "angol font",
+    "gazdagság",
+    "készpénz",
+    "pénz",
+    "gazdag",
+    "bankjegy",
+    "font",
+    "gbp",
+    "font szimbólum"
+  ],
+  "pouring_liquid": [
+    "kiömlött",
+    "kifröccsent",
+    "kilöttyent",
+    "kiönt",
+    "kilocsol"
+  ],
+  "pouting_cat": [
+    "cica",
+    "macska"
+  ],
+  "prayer_beads": [
+    "vallás",
+    "imádkozni",
+    "imádkozik",
+    "amulett",
+    "imádkozás",
+    "imagyöngyök",
+    "rózsafüzér"
+  ],
+  "pregnant_man": [
+    "várandós",
+    "terhes"
+  ],
+  "pregnant_person": [
+    "várandós",
+    "terhes"
+  ],
+  "pregnant_woman": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "pretzel": [
+    "étel",
+    "perec"
+  ],
+  "prince": [
+    "ember",
+    "személy",
+    "arc",
+    "korona",
+    "herceg",
+    "király"
+  ],
+  "princess": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "printer": [
+    "nyomtató"
+  ],
+  "prohibited": [
+    "szimbólumok",
+    "figyelmeztetések",
+    "szimbólum",
+    "figyelmeztetés",
+    "tiltott",
+    "tiltás",
+    "belépni tilos",
+    "tilos",
+    "belépni tilos tábla"
+  ],
+  "puerto_rico": [
+    "zászló",
+    "púerto rico",
+    "pr"
+  ],
+  "purple_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "purse": [
+    "szütyő",
+    "erszény"
+  ],
+  "pushpin": [
+    "iroda",
+    "pin"
+  ],
+  "puzzle_piece": [
+    "logikai játék",
+    "játék",
+    "kirakós"
+  ],
+  "qatar": [
+    "zászló",
+    "katari állam",
+    "katar",
+    "qa"
+  ],
+  "rabbit": [
+    "nyúl",
+    "nyulacska",
+    "nyuszi"
+  ],
+  "rabbit_face": [
+    "nyúl",
+    "nyuszi",
+    "rágcsáló"
+  ],
+  "raccoon": [
+    "mosómedve"
+  ],
+  "racing_car": [
+    "autó",
+    "kocsi",
+    "versenyautó",
+    "gépjármű"
+  ],
+  "radio": [
+    "rádió"
+  ],
+  "radio_button": [
+    "kör",
+    "nyomógomb",
+    "rádiógomb"
+  ],
+  "radioactive": [
+    "radioaktív",
+    "szimbólum",
+    "figyelmeztetés"
+  ],
+  "railway_car": [
+    "vonat",
+    "vasúti kocsi",
+    "vasút",
+    "villamos"
+  ],
+  "railway_track": [
+    "sín",
+    "vasút",
+    "vasúti sín",
+    "sínek"
+  ],
+  "rainbow": [
+    "időjárás"
+  ],
+  "rainbow_flag": [
+    "zászló",
+    "szivárványos zászló",
+    "lmbt",
+    "lmbtq"
+  ],
+  "raised_back_of_hand": [
+    "felemelt",
+    "kéz"
+  ],
+  "raised_fist": [
+    "ököl",
+    "elvtárs",
+    "szolidaritás",
+    "felemelt ököl"
+  ],
+  "raised_hand": [
+    "felemelt",
+    "kéz",
+    "ötös",
+    "pacsi"
+  ],
+  "raising_hands": [
+    "tenyér",
+    "bravó",
+    "kéz"
+  ],
+  "ram": [
+    "kos",
+    "birka"
+  ],
+  "rat": [
+    "egér",
+    "patkány",
+    "rágcsáló"
+  ],
+  "razor": [
+    "penge",
+    "borotva",
+    "borotvapenge"
+  ],
+  "receipt": [
+    "recept"
+  ],
+  "record_button": [
+    "rögzítés gomb",
+    "rögzítés",
+    "felvétel",
+    "felvétel gomb"
+  ],
+  "recycling_symbol": [
+    "újrahasznosít",
+    "újrahasznosítás",
+    "recycle"
+  ],
+  "red_apple": [
+    "étel",
+    "gyümölcs",
+    "piros alma",
+    "alma"
+  ],
+  "red_circle": [
+    "kör",
+    "vörös kör"
+  ],
+  "red_envelope": [
+    "esemény",
+    "események",
+    "boríték",
+    "piros boríték"
+  ],
+  "red_exclamation_mark": [
+    "piros felkiáltójel",
+    "fontos",
+    "felkiáltójel",
+    "!"
+  ],
+  "red_paper_lantern": [
+    "szaké",
+    "piros papír lámpa",
+    "lámpa",
+    "fény",
+    "izakaya lámpa"
+  ],
+  "red_question_mark": [
+    "kérdőjel",
+    "?",
+    "miért"
+  ],
+  "registered": [
+    "(r)"
+  ],
+  "relieved_face": [
+    "megkönnyebbülés",
+    "mosoly",
+    "ártatlan",
+    "békés"
+  ],
+  "reminder_ribbon": [
+    "esemény",
+    "emlékszalag",
+    "megemlékezés"
+  ],
+  "rescue_worker_s_helmet": [
+    "mentősisak",
+    "sisak",
+    "védőfelszerelés"
+  ],
+  "restroom": [
+    "szimbólumok",
+    "szimbólum",
+    "szállítási jel",
+    "mosdó"
+  ],
+  "revolving_hearts": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "rhinoceros": [
+    "rinocérosz",
+    "orrszarvú"
+  ],
+  "ribbon": [
+    "esemény",
+    "masni"
+  ],
+  "rice_ball": [
+    "rizs",
+    "japán",
+    "ázsiai",
+    "élelmiszer",
+    "onigiri",
+    "rizslabda",
+    "rizsgolyó"
+  ],
+  "rice_cracker": [
+    "rizs",
+    "japán",
+    "ázsiai",
+    "élelmiszer",
+    "rizs keksz",
+    "keksz"
+  ],
+  "right_anger_bubble": [
+    "beszéd",
+    "kiáltásbuborék",
+    "csevegés",
+    "hangbuborék"
+  ],
+  "right_facing_fist": [
+    "ököl"
+  ],
+  "rightwards_hand": [
+    "tenyér",
+    "kéz"
+  ],
+  "ring": [
+    "gyűrű",
+    "házasság",
+    "jegygyűrű"
+  ],
+  "ring_buoy": [
+    "mentőöv"
+  ],
+  "ringed_planet": [
+    "bolygó",
+    "szaturnusz"
+  ],
+  "roasted_sweet_potato": [
+    "étel",
+    "édesburgonya"
+  ],
+  "robot": [
+    "bot",
+    "gépember"
+  ],
+  "rock": [
+    "szikla"
+  ],
+  "rocket": [
+    "rakéta",
+    "világűr",
+    "űrhajó"
+  ],
+  "rofl": [
+    "nevetés",
+    "röhög",
+    "örömkönnyek",
+    "sírva nevet",
+    "sírva röhög"
+  ],
+  "roll_eyes": [
+    "szemforgató",
+    "szemforgatás"
+  ],
+  "roll_of_paper": [
+    "wc papír"
+  ],
+  "rolled_up_newspaper": [
+    "újság",
+    "hírek"
+  ],
+  "roller_coaster": [
+    "hullámvasút"
+  ],
+  "roller_skate": [
+    "görkori",
+    "görkorcsolya"
+  ],
+  "romania": [
+    "zászlók",
+    "ro",
+    "románia"
+  ],
+  "rooster": [
+    "madár",
+    "kakas",
+    "baromfi"
+  ],
+  "rose": [
+    "virág",
+    "rózsa"
+  ],
+  "rosette": [
+    "virágok",
+    "virág",
+    "bokréta"
+  ],
+  "round_pushpin": [
+    "iroda",
+    "kerek gombostű",
+    "pushpin",
+    "pin",
+    "hely"
+  ],
+  "rugby_football": [
+    "sport",
+    "labda",
+    "rögbi"
+  ],
+  "running_shirt": [
+    "atlétatrikó",
+    "trikó"
+  ],
+  "running_shoe": [
+    "cipő"
+  ],
+  "russia": [
+    "zászló",
+    "rf",
+    "orosz föderáció",
+    "ru",
+    "rus",
+    "oroszország"
+  ],
+  "rwanda": [
+    "zászló",
+    "rw",
+    "ruanda"
+  ],
+  "sad_but_relieved_face": [
+    "szomorú"
+  ],
+  "safety_pin": [
+    "biztosítótű",
+    "zichereis tű"
+  ],
+  "safety_vest": [
+    "mellény",
+    "védőmellény",
+    "mentőmellény"
+  ],
+  "sagittarius": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "nyilas"
+  ],
+  "sailboat": [
+    "hajó",
+    "vitorláshajó",
+    "vitorlás"
+  ],
+  "sake": [
+    "ital",
+    "szaké",
+    "italok",
+    "innivaló"
+  ],
+  "salt": [
+    "étel",
+    "sószóró",
+    "sózó",
+    "fűszer",
+    "só"
+  ],
+  "saluting_face": [
+    "tiszteleg",
+    "tisztelgés",
+    "szalutál",
+    "igen uram",
+    "értettem",
+    "tisztelegj",
+    "engedelmesség",
+    "szolgálat"
+  ],
+  "samoa": [
+    "zászló",
+    "szamoai független állam",
+    "szamoa",
+    "ws"
+  ],
+  "san_marino": [
+    "zászló",
+    "sm",
+    "san marino köztársaság"
+  ],
+  "sandwich": [
+    "étel",
+    "szendvics",
+    "kenyér"
+  ],
+  "santa_claus": [
+    "szakáll",
+    "mikulás",
+    "télapó"
+  ],
+  "sao_tome_principe": [
+    "zászló",
+    "são tomé és príncipe",
+    "st"
+  ],
+  "sari": [
+    "szári"
+  ],
+  "satellite": [
+    "világűr",
+    "műhold"
+  ],
+  "satellite_antenna": [
+    "tudomány",
+    "antenna",
+    "műholdvevő",
+    "műhold"
+  ],
+  "saudi_arabia": [
+    "zászló",
+    "szaúd-arábia",
+    "sa"
+  ],
+  "sauropod": [
+    "sauropoda",
+    "dinoszaurusz"
+  ],
+  "saxophone": [
+    "zene",
+    "szaxofon"
+  ],
+  "scarf": [
+    "sál"
+  ],
+  "school": [
+    "épület",
+    "ház"
+  ],
+  "scientist": [
+    "kutató",
+    "tudós"
+  ],
+  "scissors": [
+    "irodaszer",
+    "olló"
+  ],
+  "scorpio": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "skorpió"
+  ],
+  "scorpion": [
+    "rovar",
+    "skorpió"
+  ],
+  "scotland": [
+    "zászló",
+    "sco",
+    "alba",
+    "skótok",
+    "skócia"
+  ],
+  "scream": [
+    "döbbent",
+    "rémült",
+    "ijedt",
+    "szörnyűség",
+    "sokk",
+    "frász",
+    "félelem",
+    "sikoly",
+    "rémület"
+  ],
+  "screwdriver": [
+    "csavarhúzó"
+  ],
+  "scroll": [
+    "oldal",
+    "tekercs"
+  ],
+  "seal": [
+    "fóka",
+    "állat"
+  ],
+  "seat": [
+    "ülés",
+    "szék",
+    "fotel"
+  ],
+  "see_no_evil_monkey": [
+    "majom",
+    "nem lát",
+    "nem láttam"
+  ],
+  "seedling": [
+    "levél",
+    "növény",
+    "mag"
+  ],
+  "selfie": [
+    "kéz",
+    "selfi",
+    "szelfi"
+  ],
+  "senegal": [
+    "zászló",
+    "szenegáli köztársaság",
+    "sn",
+    "szenegál"
+  ],
+  "serbia": [
+    "zászló",
+    "szerbia",
+    "szerb köztársaság",
+    "rs"
+  ],
+  "service_dog": [
+    "kutya",
+    "munkakautya"
+  ],
+  "seven": [
+    "7",
+    "hét"
+  ],
+  "seven_o_clock": [
+    "7 óra"
+  ],
+  "sewing_needle": [
+    "cérna",
+    "varrótű"
+  ],
+  "seychelles": [
+    "zászló",
+    "seychelle köztársaság",
+    "sc",
+    "seychelle-szigetek"
+  ],
+  "shallow_pan_of_food": [
+    "étel",
+    "paella"
+  ],
+  "shamrock": [
+    "levél",
+    "növények",
+    "lóhere"
+  ],
+  "shark": [
+    "cápa"
+  ],
+  "shaved_ice": [
+    "ital",
+    "étel",
+    "jégkása"
+  ],
+  "sheaf_of_rice": [
+    "rizs",
+    "növény",
+    "rizsszár",
+    "magok",
+    "termés",
+    "bimbó"
+  ],
+  "shield": [
+    "pajzs",
+    "védelem",
+    "páncél"
+  ],
+  "shinto_shrine": [
+    "vallás",
+    "japán",
+    "sintó szentély"
+  ],
+  "ship": [
+    "hajó"
+  ],
+  "shooting_star": [
+    "csillag",
+    "sztár"
+  ],
+  "shopping_bags": [
+    "szatyor",
+    "bevásárló szatyor"
+  ],
+  "shopping_cart": [
+    "bevásárlás",
+    "bevásárlókosár",
+    "vásárlás"
+  ],
+  "shortcake": [
+    "édesség",
+    "süti",
+    "torta",
+    "sütemény"
+  ],
+  "shorts": [
+    "rövidnadrág",
+    "nadrág"
+  ],
+  "shower": [
+    "zuhany"
+  ],
+  "shrimp": [
+    "étel",
+    "tenger",
+    "garnéla",
+    "rákocska"
+  ],
+  "shushing_face": [
+    "csendet",
+    "csitt",
+    "hallgass",
+    "pszt",
+    "csendes",
+    "maradj csendben",
+    "elhallgattat"
+  ],
+  "sierra_leone": [
+    "zászló",
+    "freetown",
+    "sl"
+  ],
+  "sign_of_the_horns": [
+    "ujj",
+    "menő",
+    "rock",
+    "kéz",
+    "ujjak",
+    "metál"
+  ],
+  "singapore": [
+    "zászló",
+    "sg",
+    "szingapúr",
+    "szingapúri köztársaság"
+  ],
+  "singer": [
+    "énekes",
+    "művész",
+    "előadó"
+  ],
+  "sint_maarten": [
+    "zászló",
+    "sx"
+  ],
+  "six": [
+    "hat",
+    "6"
+  ],
+  "six_o_clock": [
+    "6 óra"
+  ],
+  "skateboard": [
+    "gördeszka"
+  ],
+  "skier": [
+    "sport",
+    "síelés",
+    "sí",
+    "síző"
+  ],
+  "skis": [
+    "sport",
+    "sí"
+  ],
+  "skull": [
+    "halálfej",
+    "koponya"
+  ],
+  "skull_and_crossbones": [
+    "halálfej",
+    "koponya"
+  ],
+  "skunk": [
+    "bűzös borz"
+  ],
+  "sled": [
+    "sport",
+    "szánkó"
+  ],
+  "sleeping_face": [
+    "jó éjszakát",
+    "álmos",
+    "alszik",
+    "alvás",
+    "zzz",
+    "alszom"
+  ],
+  "sleepy_face": [
+    "bánat",
+    "szomorú",
+    "szomorúság",
+    "álmos",
+    "stresszes",
+    "búbánat"
+  ],
+  "slightly_frowning_face": [
+    "bánat",
+    "szomorú",
+    "szomorúság",
+    "bánatos",
+    "komor"
+  ],
+  "slightly_smiling_face": [
+    "vidám",
+    "mosolyog",
+    "boldog",
+    "örül"
+  ],
+  "slot_machine": [
+    "játék",
+    "félkarú rabló",
+    "játékautomata",
+    "nyerőgép",
+    "videojáték"
+  ],
+  "sloth": [
+    "lajhár",
+    "lusta"
+  ],
+  "slovakia": [
+    "zászló",
+    "sk",
+    "szlovákia"
+  ],
+  "slovenia": [
+    "zászló",
+    "si",
+    "szlovén köztársaság",
+    "szlovénia"
+  ],
+  "small_airplane": [
+    "repülőgép",
+    "utazás",
+    "sugárhajtású",
+    "magángép"
+  ],
+  "smiley": [
+    "nevetés",
+    ":d",
+    "vidám",
+    "röhög",
+    "mosolyog",
+    "boldog",
+    "örül",
+    "nevet"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "cica",
+    "macska"
+  ],
+  "smiling_face": [
+    "kedves",
+    "mosoly",
+    "^ _ ^",
+    "boldog",
+    "aranyos",
+    "nyugis",
+    "békés",
+    "kipihent",
+    "somolyog"
+  ],
+  "smiling_face_with_horns": [
+    "mosoly",
+    "boldog",
+    "szarv",
+    "örödög"
+  ],
+  "smiling_face_with_sunglasses": [
+    "menő",
+    "mosoly",
+    "mosolyog",
+    "nevet",
+    "napszemüveg",
+    "laza"
+  ],
+  "smiling_face_with_tear": [
+    "könny",
+    "örömkönny",
+    "könnycsepp"
+  ],
+  "smiling_face_with_three_hearts": [
+    "kedves",
+    "szív",
+    "szeretet",
+    "szeretlek",
+    "szerelem",
+    "szerelmes",
+    "aranyos"
+  ],
+  "smirking_face": [
+    "önelégült",
+    "fintor",
+    "irónia",
+    "elmosolyodik",
+    "ironikus"
+  ],
+  "snail": [
+    "csiga"
+  ],
+  "snake": [
+    "hüllő",
+    "piton",
+    "kígyó"
+  ],
+  "sneezing_face": [
+    "beteg"
+  ],
+  "snow_capped_mountain": [
+    "hegy",
+    "hófödte hegycsúcs",
+    "havas hegycsúcs",
+    "hegyek",
+    "havas hegyek"
+  ],
+  "snowboarder": [
+    "sport",
+    "hódeszka",
+    "lesiklás"
+  ],
+  "snowflake": [
+    "időjárás",
+    "jegesedés",
+    "hideg",
+    "fagy"
+  ],
+  "snowman": [
+    "hóember"
+  ],
+  "snowman_without_snow": [
+    "hóember"
+  ],
+  "soap": [
+    "fürdés",
+    "szappan"
+  ],
+  "sob": [
+    "szomorú",
+    "sír",
+    "könnyek",
+    "zokog"
+  ],
+  "soccer_ball": [
+    "foci",
+    "futball",
+    "futball labda"
+  ],
+  "socks": [
+    "zokni"
+  ],
+  "soft_ice_cream": [
+    "étel",
+    "tölcséres fagylalt",
+    "édesség",
+    "fagyi",
+    "fagylalt"
+  ],
+  "softball": [
+    "tenisz",
+    "tenisz labda"
+  ],
+  "solomon_islands": [
+    "zászló",
+    "salamon-szigetek",
+    "sb"
+  ],
+  "somalia": [
+    "zászló",
+    "szomália szövetségi köztársasága",
+    "szomália",
+    "so"
+  ],
+  "sos_button": [
+    "segélykérés",
+    "sos",
+    "segítség"
+  ],
+  "south_africa": [
+    "zászló",
+    "dél-afrikai köztársaság",
+    "za",
+    "dél-afrika"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "zászló",
+    "déli-georgia és a déli-sandwich-szigetek",
+    "gs"
+  ],
+  "south_korea": [
+    "zászló",
+    "kr",
+    "dél-korea",
+    "koreai köztársaság",
+    "korea"
+  ],
+  "south_sudan": [
+    "zászló",
+    "ss",
+    "dél-szudáni köztársaság",
+    "dél-szudán"
+  ],
+  "spade_suit": [
+    "játék",
+    "kártyák",
+    "kártya",
+    "kártyajáték",
+    "társasjáték",
+    "pikk"
+  ],
+  "spaghetti": [
+    "étel",
+    "ázsia",
+    "vacsora",
+    "ebéd",
+    "spagetti"
+  ],
+  "spain": [
+    "zászló",
+    "spanyolország",
+    "es",
+    "spanyol királyság"
+  ],
+  "sparkle": [
+    "csillám",
+    "szikra",
+    "szikrázik",
+    "csillogás"
+  ],
+  "sparkler": [
+    "tűzijáték",
+    "ünnep"
+  ],
+  "sparkles": [
+    "csillámlik",
+    "csillám",
+    "csillog",
+    "fényes",
+    "csillogás"
+  ],
+  "sparkling_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "speak_no_evil_monkey": [
+    "majom",
+    "ne szólj szám",
+    "nem beszél",
+    "nem beszélt"
+  ],
+  "speaker_high_volume": [
+    "bömbölő hangerő",
+    "hangszóró",
+    "hangerő",
+    "dj",
+    "nagyon hangos",
+    "nagy hangerő",
+    "hangszóró nagy hangerő",
+    "lemezlovas",
+    "hangos"
+  ],
+  "speaker_low_volume": [
+    "hangszóró",
+    "hangerő",
+    "hangszóró alacsony hangerő",
+    "halkítás",
+    "alacsony hangerő"
+  ],
+  "speaker_medium_volume": [
+    "szórakozás",
+    "hangszóró",
+    "hang",
+    "hangerő",
+    "zenehallgatás",
+    "közepes hangerő"
+  ],
+  "speaking_head": [
+    "beszél",
+    "sziluett"
+  ],
+  "speech_balloon": [
+    "beszéd",
+    "megjegyzés",
+    "szöveg",
+    "csevegés",
+    "gépelés",
+    "beszédbuborék"
+  ],
+  "speedboat": [
+    "hajó",
+    "motorcsónak"
+  ],
+  "spider": [
+    "rovar",
+    "pók"
+  ],
+  "spider_web": [
+    "pókháló"
+  ],
+  "spiral_calendar": [
+    "iroda",
+    "naptár",
+    "naptár spirál"
+  ],
+  "spiral_notepad": [
+    "iroda",
+    "jegyzetfüzet"
+  ],
+  "spiral_shell": [
+    "csigaház",
+    "kürt"
+  ],
+  "sponge": [
+    "fürdés",
+    "szivacs"
+  ],
+  "spoon": [
+    "evőeszköz",
+    "kanál"
+  ],
+  "sport_utility_vehicle": [
+    "autó",
+    "kocsi",
+    "gépjármű",
+    "haszonjármű"
+  ],
+  "sports_medal": [
+    "sport",
+    "érem",
+    "díj",
+    "sportérem",
+    "bajnok"
+  ],
+  "spouting_whale": [
+    "bálna"
+  ],
+  "squid": [
+    "étel",
+    "tenger",
+    "tintahal"
+  ],
+  "squinting_face_with_tongue": [
+    "nyelv",
+    "nyelvet ölt"
+  ],
+  "sri_lanka": [
+    "zászló",
+    "ceylon",
+    "srí lanka",
+    "lk"
+  ],
+  "st_barthelemy": [
+    "zászló",
+    "saint-barthelemy",
+    "saint-barthélemy",
+    "bl"
+  ],
+  "st_helena": [
+    "zászló",
+    "szent ilona",
+    "sh",
+    "szent ilona-sziget"
+  ],
+  "st_kitts_nevis": [
+    "zászló",
+    "kn",
+    "st. kitts és nevis",
+    "saint christopher és nevis államszövetség"
+  ],
+  "st_lucia": [
+    "zászló",
+    "saint lucia",
+    "lc",
+    "st. lucia"
+  ],
+  "st_pierre_miquelon": [
+    "saint-pierre és miquelon",
+    "zászló",
+    "pm"
+  ],
+  "st_vincent_grenadines": [
+    "zászló",
+    "saint vincent és a grenadine-szigetek",
+    "vc"
+  ],
+  "stadium": [
+    "stadion",
+    "mutyi",
+    "aréna"
+  ],
+  "star": [
+    "csillag"
+  ],
+  "star_and_crescent": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "félhold és csillag"
+  ],
+  "star_of_david": [
+    "vallás",
+    "szimbólum",
+    "csillag",
+    "dávid-csillag",
+    "dávid csillag"
+  ],
+  "star_struck": [
+    "nevető",
+    "mosolygó",
+    "csillagszemű"
+  ],
+  "station": [
+    "vonat",
+    "vasút",
+    "állomás",
+    "megálló"
+  ],
+  "statue_of_liberty": [
+    "szabadságszobor"
+  ],
+  "steaming_bowl": [
+    "tál",
+    "ázsiai",
+    "élelmiszer",
+    "tésztaleves",
+    "rámen",
+    "ebéd",
+    "gőzölög",
+    "gőzölgő tál"
+  ],
+  "stethoscope": [
+    "sztetoszkóp"
+  ],
+  "stop_button": [
+    "gomb",
+    "stop",
+    "leállítás gomb",
+    "leállít"
+  ],
+  "stop_sign": [
+    "tábla",
+    "stop",
+    "közlekedési tábla",
+    "stoptábla"
+  ],
+  "stopwatch": [
+    "idő",
+    "stopper"
+  ],
+  "straight_ruler": [
+    "irodaszer",
+    "iroda",
+    "vonalzó"
+  ],
+  "strawberry": [
+    "étel",
+    "gyümölcs",
+    "eper"
+  ],
+  "student": [
+    "diploma",
+    "tanuló",
+    "vizsga"
+  ],
+  "studio_microphone": [
+    "mikrofon",
+    "stúdió mikrofon",
+    "rádiós mikrofon"
+  ],
+  "stuffed_flatbread": [
+    "étel",
+    "töltött pita",
+    "pita"
+  ],
+  "sudan": [
+    "zászló",
+    "szudáni köztársaság",
+    "sd",
+    "szudán"
+  ],
+  "sun": [
+    "időjárás",
+    "napsütés",
+    "nap"
+  ],
+  "sun_behind_cloud": [
+    "felhős",
+    "időjárás"
+  ],
+  "sun_behind_large_cloud": [
+    "felhős",
+    "időjárás"
+  ],
+  "sun_behind_rain_cloud": [
+    "eső",
+    "időjárás",
+    "napsütés",
+    "változékony idő"
+  ],
+  "sun_behind_small_cloud": [
+    "időjárás",
+    "napsütés",
+    "részben felhős",
+    "felszakadozó felhőzet"
+  ],
+  "sun_with_face": [
+    "napsütés",
+    "nap",
+    "mosolygós nap"
+  ],
+  "sunflower": [
+    "virág",
+    "napraforgó"
+  ],
+  "sunglasses": [
+    "szemüveg",
+    "napszemüveg"
+  ],
+  "sunrise": [
+    "napkelte"
+  ],
+  "sunrise_over_mountains": [
+    "hegy",
+    "napfelkelte",
+    "jó reggelt!",
+    "napfelkelte a hegyek felett"
+  ],
+  "sunset": [
+    "szürkület",
+    "naplemente"
+  ],
+  "superhero": [
+    "hős",
+    "szuperhős"
+  ],
+  "supervillain": [
+    "gonosztevő",
+    "szuper-gonosz"
+  ],
+  "suriname": [
+    "zászló",
+    "suriname köztársaság",
+    "sr"
+  ],
+  "sushi": [
+    "étel",
+    "rizs",
+    "japán",
+    "szusi"
+  ],
+  "suspension_railway": [
+    "vasút",
+    "függővasút"
+  ],
+  "swan": [
+    "madár",
+    "hattyú"
+  ],
+  "sweat_droplets": [
+    "eső",
+    "öntözés",
+    "sírás",
+    "könnyek",
+    "esőcseppek",
+    "vízcseppek"
+  ],
+  "sweat_smile": [
+    "nevetés",
+    "röhögés",
+    "röhög",
+    "mosoly",
+    "kacarászik",
+    "nevet",
+    "lmao"
+  ],
+  "sweden": [
+    "zászló",
+    "skandináv kereszt",
+    "északi kereszt",
+    "svéd",
+    "se"
+  ],
+  "switzerland": [
+    "zászló",
+    "svájc",
+    "ch",
+    "svájci államszövetség",
+    "svájci konföderáció",
+    "svájci esküszövetség"
+  ],
+  "synagogue": [
+    "vallás",
+    "épület",
+    "zsinagóga"
+  ],
+  "syria": [
+    "zászló",
+    "szíria"
+  ],
+  "syringe": [
+    "fecskendő",
+    "orvos",
+    "kezelés",
+    "injekció",
+    "gyógyszer"
+  ],
+  "t_rex": [
+    "hüllő",
+    "dinoszaurusz",
+    "t-rex"
+  ],
+  "t_shirt": [
+    "póló"
+  ],
+  "taco": [
+    "étel"
+  ],
+  "tada": [
+    "ünnep",
+    "buli",
+    "szilveszter",
+    "születésnap",
+    "szülinap"
+  ],
+  "taiwan": [
+    "zászló",
+    "tajvan",
+    "tw"
+  ],
+  "tajikistan": [
+    "zászló",
+    "tádzsik köztársaság",
+    "tádzsikisztán",
+    "tj"
+  ],
+  "takeout_box": [
+    "étel",
+    "gombóc",
+    "ázsia",
+    "doboz",
+    "elvitelre"
+  ],
+  "tamale": [
+    "tamal"
+  ],
+  "tanabata_tree": [
+    "esemény",
+    "japán",
+    "hetek éjszakája",
+    "tanabata",
+    "csillagfesztivál"
+  ],
+  "tangerine": [
+    "étel",
+    "gyümölcs",
+    "mandarin"
+  ],
+  "tanzania": [
+    "zászló",
+    "tanzánia",
+    "tz",
+    "tanzániai egyesült köztársaság"
+  ],
+  "taurus": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "bika"
+  ],
+  "taxi": [
+    "autó",
+    "kocsi",
+    "gépjármű"
+  ],
+  "teacher": [
+    "tanár",
+    "tanárnő",
+    "tanítónő",
+    "tanító"
+  ],
+  "teacup_without_handle": [
+    "ital",
+    "italok",
+    "teáscsésze",
+    "tea"
+  ],
+  "teapot": [
+    "teáskanna"
+  ],
+  "tear_off_calendar": [
+    "iroda",
+    "naptár",
+    "letéphető naptár"
+  ],
+  "technologist": [
+    "programozó",
+    "kódoló",
+    "tesztelő",
+    "fejlesztő"
+  ],
+  "teddy_bear": [
+    "mackó",
+    "játékmaci",
+    "plüssmaci",
+    "játékmackó",
+    "plüssmackó"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "telefon",
+    "telefonkagyló"
+  ],
+  "telescope": [
+    "tudomány",
+    "távcső",
+    "csillagászati távcső"
+  ],
+  "television": [
+    "tv",
+    "televízió",
+    "film",
+    "adás"
+  ],
+  "ten": [
+    "10",
+    "tíz"
+  ],
+  "ten_o_clock": [
+    "10 óra"
+  ],
+  "tennis": [
+    "sport",
+    "labda",
+    "tenisz",
+    "teniszlabda"
+  ],
+  "tent": [
+    "sátor"
+  ],
+  "test_tube": [
+    "tudomány",
+    "kémcső"
+  ],
+  "thailand": [
+    "zászló",
+    "thaiföldi királyság",
+    "thaiföld",
+    "th"
+  ],
+  "thermometer": [
+    "hőmérő",
+    "hőmérséklet"
+  ],
+  "thinking": [
+    "gondolkodik",
+    "töpreng",
+    "hmm"
+  ],
+  "thong_sandal": [
+    "szandál",
+    "papucs"
+  ],
+  "thought_balloon": [
+    "buborék",
+    "gondolat",
+    "gondolatballon",
+    "gondolkodás",
+    "gondolatbuborék"
+  ],
+  "thread": [
+    "cérna",
+    "spulni"
+  ],
+  "three": [
+    "három",
+    "3"
+  ],
+  "three_o_clock": [
+    "3 óra"
+  ],
+  "ticket": [
+    "esemény",
+    "jegy"
+  ],
+  "tiger": [
+    "tigris"
+  ],
+  "tiger_face": [
+    "tigris"
+  ],
+  "timer_clock": [
+    "idő",
+    "időzítő óra",
+    "időzítő"
+  ],
+  "timor_leste": [
+    "zászló",
+    "tl",
+    "kelet-timori demokratikus köztársaság",
+    "kelet-timor",
+    "timor-leste"
+  ],
+  "tired_face": [
+    "elkeseredett",
+    "bánat",
+    "szomorú",
+    "fáradt",
+    "szomorúság"
+  ],
+  "togo": [
+    "zászló",
+    "tg",
+    "togói köztársaság"
+  ],
+  "toilet": [
+    "vécécsésze",
+    "vécé"
+  ],
+  "tokelau": [
+    "zászló",
+    "tk",
+    "tokelau-szigetek"
+  ],
+  "tokyo_tower": [
+    "épület",
+    "tokió torony"
+  ],
+  "tomato": [
+    "étel",
+    "zöldség",
+    "paradicsom"
+  ],
+  "tonga": [
+    "zászló",
+    "to"
+  ],
+  "tongue": [
+    "nyal",
+    "nyelv",
+    "nyelvet ölt"
+  ],
+  "toolbox": [
+    "szerszám",
+    "szerszámosláda"
+  ],
+  "tooth": [
+    "fog",
+    "fogorvos",
+    "fogászat",
+    "fogász"
+  ],
+  "toothbrush": [
+    "fogkefe"
+  ],
+  "top_hat": [
+    "cilinder",
+    "kalap"
+  ],
+  "tornado": [
+    "időjárás"
+  ],
+  "trackball": [
+    "hanyattegér"
+  ],
+  "tractor": [
+    "traktor",
+    "haszonjármű"
+  ],
+  "trade_mark": [
+    "[tm]",
+    "védjegy"
+  ],
+  "train": [
+    "vonat",
+    "vasút",
+    "bullettrain orr"
+  ],
+  "tram": [
+    "vonat",
+    "vasút",
+    "villamos"
+  ],
+  "tram_car": [
+    "villamoskocsi",
+    "villamos",
+    "hév"
+  ],
+  "transgender_flag": [
+    "transzneműség",
+    "transznemű zászló",
+    "transznemű",
+    "transzszexualitás",
+    "transzszexuális"
+  ],
+  "transgender_symbol": [
+    "transzneműség",
+    "transznemű",
+    "transzszexualitás",
+    "transznemű szimbólum",
+    "transzszexuális",
+    "transznemű jel"
+  ],
+  "triangular_flag": [
+    "zászló",
+    "jelzőzászló"
+  ],
+  "triangular_ruler": [
+    "irodaszer",
+    "háromszög vonalzó",
+    "háromszögű vonalzó"
+  ],
+  "trident_emblem": [
+    "háromágú szigony"
+  ],
+  "trinidad_tobago": [
+    "zászló",
+    "tt",
+    "trinidad és tobago",
+    "trinidad és tobago köztársaság"
+  ],
+  "trolleybus": [
+    "autó",
+    "kocsi",
+    "gépjármű",
+    "trolibusz"
+  ],
+  "trophy": [
+    "sport",
+    "trófea",
+    "kupa",
+    "győzelem"
+  ],
+  "tropical_drink": [
+    "ital",
+    "alkohol",
+    "koktél",
+    "hűsítő",
+    "trópusi ital"
+  ],
+  "tropical_fish": [
+    "tengeri hal",
+    "hal"
+  ],
+  "trumpet": [
+    "zene",
+    "trombita"
+  ],
+  "tulip": [
+    "virág",
+    "tulipán"
+  ],
+  "tumbler_glass": [
+    "ital",
+    "whisky",
+    "pohár",
+    "italok",
+    "rum",
+    "alkohol",
+    "pálinka"
+  ],
+  "tunisia": [
+    "zászló",
+    "tunézia",
+    "tn",
+    "tunéziai köztársaság"
+  ],
+  "turkey": [
+    "madár",
+    "pulyka"
+  ],
+  "turkmenistan": [
+    "zászló",
+    "tm",
+    "türkmenisztán"
+  ],
+  "turks_caicos_islands": [
+    "zászló",
+    "tc",
+    "turks- és caicos-szigetek"
+  ],
+  "turtle": [
+    "hüllő",
+    "teknős",
+    "teknősbéka"
+  ],
+  "tuvalu": [
+    "zászló",
+    "tv"
+  ],
+  "twelve_o_clock": [
+    "12 óra"
+  ],
+  "two": [
+    "2",
+    "kettő"
+  ],
+  "two_hearts": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "two_hump_camel": [
+    "púpos teve",
+    "teve"
+  ],
+  "two_o_clock": [
+    "2 óra"
+  ],
+  "two_thirty": [
+    "idő",
+    "óra"
+  ],
+  "türkiye": [
+    "zászló",
+    "törökország",
+    "tr"
+  ],
+  "uganda": [
+    "zászló",
+    "ugandai köztársaság",
+    "ug"
+  ],
+  "ukraine": [
+    "zászló",
+    "ukrajna",
+    "ukrán",
+    "ua",
+    "україна"
+  ],
+  "umbrella": [
+    "esernyő"
+  ],
+  "umbrella_on_ground": [
+    "napernyő"
+  ],
+  "umbrella_with_rain_drops": [
+    "időjárás"
+  ],
+  "unamused_face": [
+    "unott",
+    "szomorkás",
+    "bosszús",
+    "kiábrándult"
+  ],
+  "unicorn": [
+    "egyszarvú",
+    "unikornis"
+  ],
+  "united_arab_emirates": [
+    "zászló",
+    "ae",
+    "arab emírségek",
+    "egyesült arab emirátusok",
+    "egyesült arab emírségek",
+    "eae",
+    "emírség"
+  ],
+  "united_kingdom": [
+    "zászló",
+    "brexit",
+    "egyesült királyság"
+  ],
+  "united_nations": [
+    "zászló",
+    "ensz",
+    "egyesült nemzetek"
+  ],
+  "united_states": [
+    "zászló",
+    "amerikai egyesült államok",
+    "amerika",
+    "usa"
+  ],
+  "unlocked": [
+    "lakat",
+    "nyitott lakat"
+  ],
+  "up_button": [
+    "fel",
+    "up! gomb"
+  ],
+  "upside_down_face": [
+    "mosoly",
+    "bolondos",
+    "nevet",
+    "szarkazmus"
+  ],
+  "uruguay": [
+    "zászló",
+    "uruguay keleti köztársaság",
+    "uy",
+    "uruguayi keleti köztársaság"
+  ],
+  "us_virgin_islands": [
+    "zászló",
+    "amerikai virgin-szigetek",
+    "vi"
+  ],
+  "uzbekistan": [
+    "zászló",
+    "uz",
+    "üzbegisztán"
+  ],
+  "vampire": [
+    "vámpír",
+    "drakula"
+  ],
+  "vanuatu": [
+    "zászló",
+    "új-hebridák",
+    "vu"
+  ],
+  "vatican_city": [
+    "zászló",
+    "vatikán város",
+    "vatikán"
+  ],
+  "venezuela": [
+    "zászló",
+    "ve",
+    "venezuelai bolivári köztársaság"
+  ],
+  "vertical_traffic_light": [
+    "közlekedési lámpa",
+    "villanyrendőr"
+  ],
+  "vibration_mode": [
+    "rezgő mód"
+  ],
+  "victory_hand": [
+    "kéz",
+    "győzelem"
+  ],
+  "video_camera": [
+    "kamera",
+    "videó",
+    "videokamera"
+  ],
+  "video_game": [
+    "konzol",
+    "gamepad",
+    "joypad"
+  ],
+  "videocassette": [
+    "szalag",
+    "vhs",
+    "videoszalag"
+  ],
+  "vietnam": [
+    "zászló",
+    "vietnám"
+  ],
+  "violin": [
+    "zene",
+    "hegedű",
+    "komolyzene"
+  ],
+  "virgo": [
+    "ekliptika",
+    "állatövi jegy",
+    "asztrológia",
+    "csillagjegy",
+    "állatöv",
+    "szűz"
+  ],
+  "volcano": [
+    "hegy",
+    "vulkán"
+  ],
+  "volleyball": [
+    "sport",
+    "labda",
+    "röplabda"
+  ],
+  "vs_button": [
+    "versus",
+    "vs gomb",
+    "különbség"
+  ],
+  "vulcan_salute": [
+    "vulkán",
+    "tartalmas életet",
+    "kéz",
+    "star trek",
+    "üdvözlet",
+    "üdvözöl"
+  ],
+  "waffle": [
+    "gofri"
+  ],
+  "wales": [
+    "zászló"
+  ],
+  "wallis_futuna": [
+    "zászló",
+    "wallis és futuna",
+    "wf"
+  ],
+  "waning_crescent_moon": [
+    "hold"
+  ],
+  "waning_gibbous_moon": [
+    "hold"
+  ],
+  "warning": [
+    "szimbólum",
+    "figyelmeztetés",
+    "figyelemfelhívás",
+    "figyelem"
+  ],
+  "wastebasket": [
+    "kuka",
+    "szemetes",
+    "papírkosár"
+  ],
+  "watch": [
+    "idő",
+    "óra",
+    "karóra"
+  ],
+  "water_buffalo": [
+    "bivaly",
+    "ökör",
+    "bizibivaly"
+  ],
+  "water_closet": [
+    "szimbólum",
+    "wc"
+  ],
+  "water_pistol": [
+    "fegyver",
+    "pisztoly",
+    "vízipisztoly"
+  ],
+  "watermelon": [
+    "étel",
+    "görögdinnye",
+    "dinnye"
+  ],
+  "waving_hand": [
+    "kéz",
+    "viszlát",
+    "tiszteleg",
+    "öt",
+    "integet",
+    "üdv",
+    "szia"
+  ],
+  "wavy_dash": [
+    "hullámos vonal",
+    "hullámos gondolatjel",
+    "hullámos kötőjel"
+  ],
+  "waxing_crescent_moon": [
+    "hold"
+  ],
+  "waxing_gibbous_moon": [
+    "hold"
+  ],
+  "weary_cat": [
+    "cica",
+    "macska"
+  ],
+  "weary_face": [
+    "bánat",
+    "szomorú",
+    "fáradt",
+    "szomorúság",
+    "elkínzott",
+    "jaj"
+  ],
+  "wedding": [
+    "esküvő",
+    "épület",
+    "templom"
+  ],
+  "western_sahara": [
+    "zászló",
+    "nyugat-szahara",
+    "eh",
+    "szaharai arab demokratikus köztársaság"
+  ],
+  "whale": [
+    "bálna"
+  ],
+  "wheel": [
+    "kerék",
+    "autógumi",
+    "autókerék",
+    "abroncs",
+    "gumiabroncs"
+  ],
+  "wheel_of_dharma": [
+    "szimbólumok",
+    "vallás",
+    "szimbólum",
+    "sorskerék",
+    "dharma",
+    "dharma kereke",
+    "sors kereke",
+    "dharmacsakra"
+  ],
+  "wheelchair_symbol": [
+    "szimbólum",
+    "kerekesszék"
+  ],
+  "white_cane": [
+    "fehér bot",
+    "bot",
+    "kutatóbot"
+  ],
+  "white_check_mark": [
+    "oké",
+    "jelölőnégyzet",
+    "kész",
+    "rendben",
+    "megvan"
+  ],
+  "white_circle": [
+    "kör",
+    "fehér kör"
+  ],
+  "white_exclamation_mark": [
+    "felkiáltójel",
+    "dupla felkiáltójel",
+    "!",
+    "fehér felkiáltójel",
+    "!!"
+  ],
+  "white_flag": [
+    "zászló",
+    "béke",
+    "fehér zászló",
+    "megadás"
+  ],
+  "white_flower": [
+    "virágok",
+    "virág",
+    "fehér virág"
+  ],
+  "white_heart": [
+    "szív",
+    "üres szív",
+    "fehér szív"
+  ],
+  "white_question_mark": [
+    "kérdés",
+    "?",
+    "fehér kérdőjel",
+    "szürke kérdőjel",
+    "miért"
+  ],
+  "wilted_flower": [
+    "virág",
+    "rózsa"
+  ],
+  "wind_chime": [
+    "esemény",
+    "szélharang"
+  ],
+  "wind_face": [
+    "szél",
+    "fúj"
+  ],
+  "window": [
+    "ablak"
+  ],
+  "wine_glass": [
+    "ital",
+    "bor",
+    "vörösbor",
+    "alkohol"
+  ],
+  "wink": [
+    "mosoly",
+    ";-)",
+    "pislog",
+    ";)",
+    "kacsint"
+  ],
+  "winking_face_with_tongue": [
+    "kacsintás",
+    "nyelv",
+    "nyelvet ölt",
+    "kacsint",
+    "felajzott"
+  ],
+  "wolf": [
+    "farkas"
+  ],
+  "woman": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_and_man_holding_hands": [
+    "pár",
+    "kézenfogva"
+  ],
+  "woman_artist": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_astronaut": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_bald": [
+    "ember",
+    "személy",
+    "arc"
+  ],
+  "woman_beard": [
+    "szakáll",
+    "szakállas nő"
+  ],
+  "woman_biking": [
+    "sport",
+    "bicikli",
+    "biciklizés",
+    "bicaj"
+  ],
+  "woman_bouncing_ball": [
+    "sport",
+    "kosárlabda"
+  ],
+  "woman_bowing": [
+    "meghajlás",
+    "meghajol",
+    "sajnálom"
+  ],
+  "woman_cartwheeling": [
+    "sport",
+    "gimnasztika",
+    "cigánykerék",
+    "torna"
+  ],
+  "woman_climbing": [
+    "mászás",
+    "sziklamászó",
+    "hegymászó",
+    "szikla"
+  ],
+  "woman_cook": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_curly_hair": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_dancing": [
+    "táncosnő",
+    "táncos",
+    "flamenco"
+  ],
+  "woman_detective": [
+    "nyomozó",
+    "sherlock",
+    "detektív",
+    "kém"
+  ],
+  "woman_elf": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_facepalming": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_factory_worker": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_fairy": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_farmer": [
+    "ember",
+    "személy",
+    "arc",
+    "mezőgazdász",
+    "farmer",
+    "hobbikert"
+  ],
+  "woman_feeding_baby": [
+    "nő szoptat",
+    "babát etető nő",
+    "szoptató nő",
+    "nő eteti a babát"
+  ],
+  "woman_firefighter": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_frowning": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_genie": [
+    "dzsinn"
+  ],
+  "woman_gesturing_no": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_gesturing_ok": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_getting_haircut": [
+    "asszony",
+    "hajvágás",
+    "nő",
+    "lány",
+    "hölgy",
+    "fodrász"
+  ],
+  "woman_getting_massage": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_golfing": [
+    "sport",
+    "golfozás",
+    "golf",
+    "golfjátékos"
+  ],
+  "woman_guard": [
+    "kucsma",
+    "gárdista",
+    "gárda",
+    "őrség"
+  ],
+  "woman_health_worker": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_in_lotus_position": [
+    "sport",
+    "lótuszülés",
+    "béke",
+    "nyugalom",
+    "jóga",
+    "elmélkedés"
+  ],
+  "woman_in_manual_wheelchair": [
+    "kerekesszék"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "kerekesszék"
+  ],
+  "woman_in_steamy_room": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_in_tuxedo": [
+    "nő",
+    "szmoking",
+    "smoking"
+  ],
+  "woman_judge": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_juggling": [
+    "cirkusz",
+    "zsonglőr"
+  ],
+  "woman_kneeling": [
+    "imádkozni",
+    "imádkozik",
+    "térdelve",
+    "letérdel",
+    "imádkozás",
+    "térdelni"
+  ],
+  "woman_lifting_weights": [
+    "sport",
+    "súlyemelés"
+  ],
+  "woman_mage": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_mechanic": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_mountain_biking": [
+    "sport",
+    "bringázás",
+    "kerékpározás",
+    "hegyi kerékpározás",
+    "kerékpár",
+    "biciklistalány",
+    "női bringás",
+    "biciklis"
+  ],
+  "woman_office_worker": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_pilot": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_playing_handball": [
+    "sport",
+    "kézilabda",
+    "labdajáték"
+  ],
+  "woman_playing_water_polo": [
+    "sport",
+    "vízilabda",
+    "vízilabdázás"
+  ],
+  "woman_police_officer": [
+    "zsaru",
+    "ember",
+    "személy",
+    "arc",
+    "fakabát",
+    "rendőr"
+  ],
+  "woman_pouting": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_raising_hand": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_red_hair": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_rowing_boat": [
+    "sport",
+    "kajak",
+    "kenu"
+  ],
+  "woman_running": [
+    "sport",
+    "rohan",
+    "fut",
+    "futás",
+    "szalad",
+    "késik",
+    "futó"
+  ],
+  "woman_s_boot": [
+    "cipő"
+  ],
+  "woman_s_clothes": [
+    "blúz",
+    "női ruha"
+  ],
+  "woman_s_hat": [
+    "kalap",
+    "szalmakalap",
+    "női kalap"
+  ],
+  "woman_s_sandal": [
+    "cipő"
+  ],
+  "woman_scientist": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_shrugging": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_singer": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_standing": [
+    "nő",
+    "ember",
+    "személy",
+    "áll"
+  ],
+  "woman_student": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_superhero": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_supervillain": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_surfing": [
+    "sport",
+    "szörfözés",
+    "szörfös"
+  ],
+  "woman_swimming": [
+    "sport",
+    "versenyúszás",
+    "úszás",
+    "úszik"
+  ],
+  "woman_teacher": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_technologist": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy",
+    "iroda",
+    "programozó",
+    "it",
+    "technikus"
+  ],
+  "woman_tipping_hand": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_vampire": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "woman_walking": [
+    "gyalogol",
+    "megy",
+    "sétál"
+  ],
+  "woman_wearing_turban": [
+    "ember",
+    "személy",
+    "arc",
+    "turbán",
+    "fejfedő"
+  ],
+  "woman_white_hair": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy"
+  ],
+  "woman_with_headscarf": [
+    "asszony",
+    "nő",
+    "lány",
+    "ember",
+    "személy",
+    "arc",
+    "hölgy",
+    "hijab",
+    "muszlim",
+    "burka"
+  ],
+  "woman_with_veil": [
+    "fátyol"
+  ],
+  "woman_with_white_cane": [
+    "fehér bot",
+    "látássérült"
+  ],
+  "woman_zombie": [
+    "asszony",
+    "nő",
+    "lány",
+    "hölgy"
+  ],
+  "women_holding_hands": [
+    "pár",
+    "kézenfogva"
+  ],
+  "women_s_room": [
+    "szimbólumok",
+    "szimbólum",
+    "női",
+    "szállítási jel",
+    "női szoba"
+  ],
+  "women_with_bunny_ears": [
+    "nyúlfülek",
+    "nyuszifülek",
+    "táncosok"
+  ],
+  "women_wrestling": [
+    "sport",
+    "birkózás"
+  ],
+  "wood": [
+    "rönk",
+    "tűzifa",
+    "farönk"
+  ],
+  "woozy_face": [
+    ":s",
+    "részeg",
+    "kótyagos"
+  ],
+  "world_map": [
+    "térkép",
+    "világtérkép"
+  ],
+  "worm": [
+    "féreg"
+  ],
+  "worried": [
+    "elkeseredett",
+    "bánat",
+    "szomorú",
+    "csalódott",
+    "szomorúság",
+    "bánatos"
+  ],
+  "wrapped_gift": [
+    "ajándék"
+  ],
+  "wrench": [
+    "csavarkulcs",
+    "javít",
+    "szerszám"
+  ],
+  "writing_hand": [
+    "írás",
+    "ceruza",
+    "levél",
+    "kéz",
+    "toll",
+    "ír",
+    "író",
+    "üzenet"
+  ],
+  "x_ray": [
+    "röntgen",
+    "mellkasröntgen"
+  ],
+  "yarn": [
+    "gombolyag",
+    "fonál"
+  ],
+  "yawning_face": [
+    "ásít"
+  ],
+  "yellow_circle": [
+    "kör",
+    "sárga kör",
+    "sárga"
+  ],
+  "yellow_heart": [
+    "szív",
+    "szeretet",
+    "<3",
+    "♡",
+    "szeretlek"
+  ],
+  "yemen": [
+    "zászló",
+    "jemen",
+    "ye"
+  ],
+  "yen_banknote": [
+    "gazdagság",
+    "készpénz",
+    "pénz",
+    "gazdag",
+    "bankjegy",
+    "jen"
+  ],
+  "yin_yang": [
+    "vallás",
+    "szimbólum",
+    "jin-jang"
+  ],
+  "yoyo": [
+    "jojó"
+  ],
+  "zambia": [
+    "zászló",
+    "zm",
+    "zambiai köztársaság"
+  ],
+  "zany_face": [
+    "őrült",
+    "bolondos",
+    "dilis",
+    "nyelv",
+    "bolond",
+    "nem normális",
+    "kerge"
+  ],
+  "zero": [
+    "0",
+    "nulla"
+  ],
+  "zimbabwe": [
+    "zászló",
+    "zw"
+  ],
+  "zipper_mouth_face": [
+    "csendet",
+    "csitt",
+    "pszt",
+    "csöndet",
+    "cipzár"
+  ],
+  "zombie": [
+    "agy",
+    "zombi",
+    "élőhalott"
+  ],
+  "zzz": [
+    "alvás"
+  ],
+  "åland_islands": [
+    "zászló",
+    "skandináv kereszt",
+    "északi kereszt",
+    "ålandi szigetek",
+    "ax",
+    "aland-szigetek"
+  ]
+}

@@ -1,0 +1,7390 @@
+{
+  "+1": [
+    "el",
+    "tamam",
+    "parmaklar",
+    "beğendim",
+    "başparmak",
+    "evet",
+    "anlaştık"
+  ],
+  "-1": [
+    "işaret",
+    "el",
+    "aşağı",
+    "baş parmak",
+    "olumsuz",
+    "baş parmak aşağıda"
+  ],
+  "100": [
+    "yüz"
+  ],
+  "1234": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı"
+  ],
+  "1st_place_medal": [
+    "spor",
+    "birinci",
+    "madalya",
+    "altın",
+    "birincilik madalyası"
+  ],
+  "2nd_place_medal": [
+    "spor",
+    "ikinci",
+    "madalya",
+    "ikincilik madalyası",
+    "gümüş"
+  ],
+  "3rd_place_medal": [
+    "spor",
+    "madalya",
+    "üçüncü",
+    "bronz",
+    "üçüncülük madalyası"
+  ],
+  "a_button_blood_type": [
+    "kan",
+    "a kan",
+    "kan grubu",
+    "a düğmesi (kan grubu)",
+    "kan a",
+    "a"
+  ],
+  "ab_button_blood_type": [
+    "kan",
+    "kan grubu",
+    "ab düğmesi (kan grubu)",
+    "ab kan"
+  ],
+  "abacus": [
+    "abaküs"
+  ],
+  "admission_tickets": [
+    "etkinlik",
+    "bilet",
+    "giriş bileti"
+  ],
+  "aerial_tramway": [
+    "teleferik"
+  ],
+  "afghanistan": [
+    "bayrak",
+    "afganistan",
+    "af",
+    "afganistan bayrağı"
+  ],
+  "airplane": [
+    "seyahat",
+    "jet",
+    "uçak"
+  ],
+  "airplane_arrival": [
+    "seyahat",
+    "jet",
+    "uçak",
+    "varış",
+    "iniş",
+    "uçak varışı"
+  ],
+  "airplane_departure": [
+    "seyahat",
+    "jet",
+    "uçak",
+    "kalkış",
+    "havalanmak",
+    "uçak kalkışı"
+  ],
+  "alarm_clock": [
+    "saat",
+    "alarm",
+    "çalar saat"
+  ],
+  "albania": [
+    "bayrak",
+    "arnavutluk bayrağı",
+    "arnavutluk",
+    "al"
+  ],
+  "alien": [
+    "uzaylı",
+    "fantastik",
+    "ufo",
+    "yaratık",
+    "dünya dışı"
+  ],
+  "alien_monster": [
+    "ufo",
+    "uzaylı istilacı",
+    "canavar",
+    "uzaylı canavar",
+    "yabancı"
+  ],
+  "ambulance": [
+    "taşıt",
+    "ambulans"
+  ],
+  "american_football": [
+    "spor",
+    "top",
+    "amerikan futbolu"
+  ],
+  "anatomical_heart": [
+    "kalp",
+    "organ"
+  ],
+  "anchor": [
+    "gemi çapası",
+    "çapa"
+  ],
+  "angry": [
+    "öfkeli",
+    "öfke",
+    "deli gibi",
+    "öfkeli yüz"
+  ],
+  "angry_face_with_horns": [
+    "boynuz",
+    "şeytan",
+    "boynuzlu kızgın yüz"
+  ],
+  "anguished_face": [
+    "acı çeken",
+    "kederli yüz",
+    "şaşırma"
+  ],
+  "ant": [
+    "böcek",
+    "karınca"
+  ],
+  "antenna_bars": [
+    "telefon",
+    "mobil",
+    "anten",
+    "sinyal gücü",
+    "çubuk işaretli anten",
+    "sinyal"
+  ],
+  "anxious_face_with_sweat": [
+    "yüz",
+    "terli ve endişeli yüz",
+    "endişe",
+    "açık ağız",
+    "soğuk ter döken mavi yüz",
+    "soğuk ter",
+    "çok üzgün"
+  ],
+  "argentina": [
+    "bayrak",
+    "arjantin bayrağı",
+    "ar",
+    "arjantin"
+  ],
+  "aries": [
+    "burçlar",
+    "koç burcu"
+  ],
+  "armenia": [
+    "bayrak",
+    "am",
+    "ermeni",
+    "ermenistan"
+  ],
+  "articulated_lorry": [
+    "taşıt",
+    "çekici kamyon",
+    "treyler",
+    "tır",
+    "çekici"
+  ],
+  "artist": [
+    "çizim",
+    "ressam"
+  ],
+  "artist_palette": [
+    "palet",
+    "sanatçı",
+    "boya",
+    "boya paleti",
+    "sanat",
+    "sanatçı paleti"
+  ],
+  "astonished_face": [
+    "tamamen şoke olmuş",
+    "hayret içinde",
+    "şoke olmuş",
+    "afallamış",
+    "şaşkın"
+  ],
+  "astronaut": [
+    "roket",
+    "uzay",
+    "astronot"
+  ],
+  "atm_sign": [
+    "para",
+    "semboller",
+    "$",
+    "sembol",
+    "banka",
+    "atm işareti",
+    "ulaşım işareti",
+    "atm"
+  ],
+  "automobile": [
+    "araba",
+    "otomobil"
+  ],
+  "avocado": [
+    "meyve",
+    "yiyecek",
+    "avokado"
+  ],
+  "axe": [
+    "balta",
+    "oduncu"
+  ],
+  "azerbaijan": [
+    "bayrak",
+    "azerbaycan",
+    "az",
+    "azərbaycan",
+    "azeri"
+  ],
+  "b_button_blood_type": [
+    "kan",
+    "b düğmesi (kan grubu)",
+    "kan grubu",
+    "b kan",
+    "kan b",
+    "b"
+  ],
+  "baby": [
+    "kişiler",
+    "bebek",
+    "kişi"
+  ],
+  "baby_angel": [
+    "bebek",
+    "melek",
+    "bebek melek"
+  ],
+  "baby_bottle": [
+    "erkek",
+    "bakıcılık",
+    "emzirme",
+    "biberon",
+    "şişe",
+    "bebek",
+    "bebek emziren kişi",
+    "‍",
+    "bebek emziren erkek",
+    "kişi",
+    "içecek",
+    "‍biberon",
+    "süt"
+  ],
+  "baby_chick": [
+    "tavuk",
+    "kuş",
+    "civciv"
+  ],
+  "backhand_index_pointing_down": [
+    "işaret parmağı",
+    "parmak",
+    "elin arkası",
+    "elinin tersiyle aşağıyı gösteren işaret parmağı",
+    "aşağıyı gösteren parmak"
+  ],
+  "backhand_index_pointing_left": [
+    "elinin tersiyle solu gösteren işaret parmağı",
+    "işaret parmağı",
+    "parmak",
+    "elin arkası",
+    "solu gösteren parmak"
+  ],
+  "backhand_index_pointing_right": [
+    "işaret parmağı",
+    "parmak",
+    "elin arkası",
+    "sağı gösteren parmak",
+    "elinin tersiyle sağı gösteren işaret parmağı"
+  ],
+  "backhand_index_pointing_up": [
+    "işaret parmağı",
+    "parmak",
+    "elin arkası",
+    "yukarıyı gösteren parmak",
+    "elinin tersiyle yukarıyı gösteren işaret parmağı"
+  ],
+  "backpack": [
+    "okul",
+    "okul çantası"
+  ],
+  "bacon": [
+    "yiyecek",
+    "et",
+    "domuz pastırması"
+  ],
+  "badger": [
+    "bela",
+    "bal porsuğu",
+    "porsuk"
+  ],
+  "badminton": [
+    "maç",
+    "raket",
+    "tüylü top"
+  ],
+  "bagel": [
+    "fırın",
+    "simit",
+    "sürme peynir"
+  ],
+  "baggage_claim": [
+    "sembol",
+    "bagaj",
+    "bagaj teslim"
+  ],
+  "baguette_bread": [
+    "yiyecek",
+    "ekmek",
+    "fransız",
+    "baget"
+  ],
+  "balloon": [
+    "etkinlik",
+    "balon",
+    "etkinlikler",
+    "balonlar"
+  ],
+  "ballot_box_with_ballot": [
+    "sandık",
+    "kutu",
+    "oy sandığı"
+  ],
+  "banana": [
+    "meyve",
+    "muz"
+  ],
+  "bank": [
+    "yapı",
+    "banka",
+    "dolar"
+  ],
+  "bar_chart": [
+    "grafik",
+    "çubuk grafiği"
+  ],
+  "baseball": [
+    "spor",
+    "top",
+    "beyzbol"
+  ],
+  "basketball": [
+    "spor",
+    "basket",
+    "basketbol"
+  ],
+  "bat": [
+    "hayvan",
+    "yarasa",
+    "vampir"
+  ],
+  "bathtub": [
+    "banyo",
+    "küvet"
+  ],
+  "battery": [
+    "şarj etmek",
+    "şarj",
+    "enerji",
+    "pil"
+  ],
+  "beach_with_umbrella": [
+    "şemsiye",
+    "plaj şemsiyesi",
+    "plaj"
+  ],
+  "beans": [
+    "fasulye"
+  ],
+  "bear": [
+    "yüz",
+    "hayvan",
+    "ayı yüzü",
+    "ayı"
+  ],
+  "beating_heart": [
+    "kalp"
+  ],
+  "beaver": [
+    "hayvan",
+    "sincap"
+  ],
+  "bed": [
+    "yatak",
+    "uyku"
+  ],
+  "beer_mug": [
+    "restoran",
+    "bar",
+    "kupa",
+    "pub",
+    "bira",
+    "bira kupası"
+  ],
+  "beetle": [
+    "böcek",
+    "haşere"
+  ],
+  "belarus": [
+    "bayrak",
+    "belarus bayrağı",
+    "by"
+  ],
+  "belgium": [
+    "bayrak",
+    "be",
+    "belçika",
+    "belçika bayrağı"
+  ],
+  "bell": [
+    "zil"
+  ],
+  "bell_pepper": [
+    "sebze",
+    "yiyecek",
+    "dolmalık biber",
+    "dolma"
+  ],
+  "bellhop_bell": [
+    "otel",
+    "zil"
+  ],
+  "bento_box": [
+    "restoran",
+    "bento",
+    "bento paketi",
+    "paket"
+  ],
+  "beverage_box": [
+    "içecek",
+    "meyve suyu"
+  ],
+  "bicycle": [
+    "taşıt",
+    "bisiklet"
+  ],
+  "bikini": [
+    "giyim",
+    "deniz giysisi"
+  ],
+  "billed_cap": [
+    "beyzbol şapkası",
+    "mavi şapka",
+    "siperli şapka"
+  ],
+  "bird": [
+    "kuş"
+  ],
+  "birthday_cake": [
+    "kutlama",
+    "doğum günü",
+    "doğum günü pastası",
+    "pasta"
+  ],
+  "bison": [
+    "bizon",
+    "bufalo",
+    "sürü"
+  ],
+  "biting_lip": [
+    "dudak",
+    "dudaklar",
+    "mmm",
+    "dudakları ısırmak"
+  ],
+  "black_cat": [
+    "hayvan",
+    "kedi",
+    "siyah kedi",
+    "kara kedi"
+  ],
+  "black_circle": [
+    "top",
+    "küre",
+    "siyah",
+    "siyah top",
+    "siyah küre"
+  ],
+  "black_flag": [
+    "bayrak",
+    "siyah bayrak"
+  ],
+  "black_heart": [
+    "kalp"
+  ],
+  "black_large_square": [
+    "geometri",
+    "kare",
+    "büyük siyah kare"
+  ],
+  "black_medium_small_square": [
+    "geometri",
+    "kare",
+    "küçük-orta siyah kare"
+  ],
+  "black_medium_square": [
+    "geometri",
+    "kare",
+    "orta boy siyah kare"
+  ],
+  "black_small_square": [
+    "geometri",
+    "kare",
+    "küçük siyah kare"
+  ],
+  "black_square_button": [
+    "kare",
+    "düğme",
+    "siyah kare düğme"
+  ],
+  "blonde_man": [
+    "sarışın kişi",
+    "sarışın",
+    "sarışın erkek"
+  ],
+  "blonde_woman": [
+    "kadın",
+    "sarışın kadın",
+    "sarışın kişi",
+    "sarışın"
+  ],
+  "blossom": [
+    "çiçek",
+    "bitki",
+    "çiçek açma"
+  ],
+  "blowfish": [
+    "hayvan",
+    "balık",
+    "balon balığı"
+  ],
+  "blue_book": [
+    "kitap",
+    "mavi kitap"
+  ],
+  "blue_circle": [
+    "top",
+    "mavi",
+    "mavi top",
+    "küre",
+    "mavi küre"
+  ],
+  "blue_heart": [
+    "kalp"
+  ],
+  "blue_square": [
+    "mavi",
+    "kare"
+  ],
+  "blueberries": [
+    "yaban mersini",
+    "dut"
+  ],
+  "blush": [
+    "gülümseme",
+    "utangaç",
+    "mutlu",
+    "kızarmış",
+    "utanmış"
+  ],
+  "boar": [
+    "domuz",
+    "yaban domuzu"
+  ],
+  "bomb": [
+    "patlama",
+    "bam",
+    "bum",
+    "bomba"
+  ],
+  "bone": [
+    "kemik",
+    "iskelet"
+  ],
+  "books": [
+    "kitaplar",
+    "kitap"
+  ],
+  "bosnia_herzegovina": [
+    "bayrak",
+    "bosna hersek bayrağı",
+    "bosna hersek",
+    "ba"
+  ],
+  "bottle_with_popping_cork": [
+    "bar",
+    "içki",
+    "şişe",
+    "mantar",
+    "patlayan mantarlı şişe"
+  ],
+  "bouquet": [
+    "çiçek",
+    "buket",
+    "romantizm"
+  ],
+  "bow_and_arrow": [
+    "burç",
+    "yay",
+    "silah",
+    "araç",
+    "okçu",
+    "ok",
+    "ok ve yay"
+  ],
+  "bowl_with_spoon": [
+    "kaşıklı kase",
+    "pirinç lapası",
+    "tahıl gevreği",
+    "kahvaltı"
+  ],
+  "bowling": [
+    "spor",
+    "top",
+    "bovling"
+  ],
+  "boxing_glove": [
+    "spor",
+    "eldiven",
+    "boks",
+    "boks eldiveni"
+  ],
+  "boy": [
+    "kişiler",
+    "kişi",
+    "erkek çocuk"
+  ],
+  "brain": [
+    "beyin",
+    "akıl",
+    "akıllı",
+    "zeki"
+  ],
+  "bread": [
+    "ekmek",
+    "ekmek dilimi"
+  ],
+  "breast_feeding": [
+    "emzirme",
+    "bebek",
+    "göğüs",
+    "emziren kadın"
+  ],
+  "brick": [
+    "tuğla"
+  ],
+  "briefcase": [
+    "evrak çantası"
+  ],
+  "briefs": [
+    "tek parça",
+    "alt",
+    "mayo",
+    "slip"
+  ],
+  "broccoli": [
+    "brokoli",
+    "yabani lahana"
+  ],
+  "broken_heart": [
+    "kalp"
+  ],
+  "broom": [
+    "süpürge",
+    "süpürme",
+    "temizlik"
+  ],
+  "brown_circle": [
+    "top",
+    "kahverengi",
+    "küre",
+    "kahverengi küre",
+    "kahverengi top"
+  ],
+  "brown_heart": [
+    "kalp",
+    "kahverengi kalp"
+  ],
+  "brown_square": [
+    "kare",
+    "kahverengi"
+  ],
+  "bubbles": [
+    "köpük",
+    "balon",
+    "baloncuk"
+  ],
+  "bucket": [
+    "kova"
+  ],
+  "bug": [
+    "hayvan",
+    "böcek",
+    "kırkayak",
+    "tırtıl"
+  ],
+  "building_construction": [
+    "bina inşaatı",
+    "inşaat",
+    "bina"
+  ],
+  "bulgaria": [
+    "bayrak",
+    "bulgaristan",
+    "bg",
+    "bulgaristan bayrağı"
+  ],
+  "bullet_train": [
+    "demiryolu",
+    "tren"
+  ],
+  "bullseye": [
+    "tam isabet",
+    "hedefe isabet",
+    "oyun",
+    "dart",
+    "hedef",
+    "isabet"
+  ],
+  "burrito": [
+    "burito",
+    "meksika dürümü"
+  ],
+  "bus": [
+    "otobüs"
+  ],
+  "bus_stop": [
+    "otobüs durağı",
+    "durak"
+  ],
+  "bust_in_silhouette": [
+    "siluet",
+    "büst",
+    "büst silueti"
+  ],
+  "busts_in_silhouette": [
+    "kişiler",
+    "siluet",
+    "büst",
+    "siluet büstler"
+  ],
+  "butter": [
+    "yağ"
+  ],
+  "butterfly": [
+    "böcek",
+    "şirin",
+    "kelebek"
+  ],
+  "cactus": [
+    "bitki",
+    "kaktüs"
+  ],
+  "call_me_hand": [
+    "el",
+    "beni ara işareti",
+    "ara"
+  ],
+  "camel": [
+    "hayvan",
+    "deve",
+    "hörgüç",
+    "hecin devesi"
+  ],
+  "camera": [
+    "video",
+    "fotoğraf makinesi"
+  ],
+  "camera_with_flash": [
+    "video",
+    "kamera",
+    "flaş",
+    "flaşlı fotoğraf makinesi"
+  ],
+  "camping": [
+    "çadır",
+    "kamp",
+    "kamp çadırı"
+  ],
+  "canada": [
+    "bayrak",
+    "kanada",
+    "ca"
+  ],
+  "canary_islands": [
+    "bayrak",
+    "kanarya adaları bayrağı",
+    "ic",
+    "kanarya adaları"
+  ],
+  "candle": [
+    "ışık",
+    "mum"
+  ],
+  "candy": [
+    "restoran",
+    "şekerleme"
+  ],
+  "canned_food": [
+    "konserve gıda",
+    "konserve"
+  ],
+  "canoe": [
+    "bot",
+    "kano"
+  ],
+  "carp_streamer": [
+    "etkinlik",
+    "olay",
+    "bayraklar",
+    "sazan flama"
+  ],
+  "carrot": [
+    "sebze",
+    "yiyecek",
+    "havuç"
+  ],
+  "castle": [
+    "yapı",
+    "avrupa kalesi",
+    "kale"
+  ],
+  "cat": [
+    "kedi"
+  ],
+  "cat_face": [
+    "yüz",
+    "kedi yüzü",
+    "hayvan",
+    "kedi",
+    "kedi surat"
+  ],
+  "cat_with_wry_smile": [
+    "kedi yüzü",
+    "kedi",
+    "kurnaz kedi",
+    "iğneleyici kedi yüzü",
+    "iğneleyici",
+    "iğneleyici gülümseme",
+    "kurnaz"
+  ],
+  "chair": [
+    "taht",
+    "sandalye"
+  ],
+  "cheese_wedge": [
+    "peynir",
+    "peynir dilimi"
+  ],
+  "chequered_flag": [
+    "bayrak",
+    "spor",
+    "yarış",
+    "damalı"
+  ],
+  "cherries": [
+    "meyve",
+    "kiraz"
+  ],
+  "cherry_blossom": [
+    "çiçek",
+    "kiraz",
+    "kiraz çiçeği",
+    "çiçek izleme"
+  ],
+  "chess_pawn": [
+    "satranç",
+    "oyun",
+    "harcanabilir",
+    "kullanılma",
+    "piyon",
+    "santranç"
+  ],
+  "chestnut": [
+    "bitki",
+    "kestane"
+  ],
+  "chicken": [
+    "horoz",
+    "tavuk",
+    "kuş"
+  ],
+  "child": [
+    "kız",
+    "kişi",
+    "çocuk",
+    "genç"
+  ],
+  "china": [
+    "bayrak",
+    "çin",
+    "çin halk cumhuriyeti",
+    "cn"
+  ],
+  "chipmunk": [
+    "sincap"
+  ],
+  "chocolate_bar": [
+    "restoran",
+    "bar",
+    "çikolata",
+    "çikolata barı"
+  ],
+  "chopsticks": [
+    "yemek çubukları"
+  ],
+  "christmas_tree": [
+    "etkinlik",
+    "kutlama",
+    "ağaç",
+    "noel",
+    "noel ağacı",
+    "noel figürü"
+  ],
+  "church": [
+    "yapı",
+    "din",
+    "kilise"
+  ],
+  "cigarette": [
+    "sigara"
+  ],
+  "cinema": [
+    "film",
+    "sinema"
+  ],
+  "circled_m": [
+    "metro",
+    "m",
+    "daire içine alınmış m"
+  ],
+  "circus_tent": [
+    "eğlence",
+    "çadır",
+    "sirk çadırı"
+  ],
+  "clap": [
+    "bravo",
+    "eller",
+    "elleri çırpmak",
+    "alkış"
+  ],
+  "clapper_board": [
+    "film",
+    "eğlence",
+    "tahta",
+    "film tahtası"
+  ],
+  "clinking_beer_mugs": [
+    "restoran",
+    "bar",
+    "kupa",
+    "kupalar",
+    "pub",
+    "bira kupaları tokuşturma",
+    "bira"
+  ],
+  "clinking_glasses": [
+    "kutlama",
+    "bardak",
+    "içecek",
+    "tokuşturma",
+    "kadeh tokuşturma"
+  ],
+  "closed_book": [
+    "kitap",
+    "kapalı kitap"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "posta",
+    "işaret",
+    "işareti yukarıda kapalı posta kutusu",
+    "işareti kaldırılmış posta kutusu",
+    "kapalı"
+  ],
+  "closed_umbrella": [
+    "şemsiye",
+    "kapalı şemsiye"
+  ],
+  "cloud": [
+    "bulut",
+    "bulutlu"
+  ],
+  "cloud_with_lightning": [
+    "hava durumu",
+    "bulut",
+    "yıldırım",
+    "şimşek bulutu"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "hava durumu",
+    "yağmur",
+    "bulut",
+    "şimşek ve yağmurlu bulut",
+    "gökgürültüsü"
+  ],
+  "cloud_with_rain": [
+    "hava durumu",
+    "yağmur",
+    "bulut",
+    "yağmur bulutu"
+  ],
+  "cloud_with_snow": [
+    "hava durumu",
+    "kar",
+    "bulut",
+    "soğuk",
+    "kar bulutu"
+  ],
+  "clown_face": [
+    "sirk",
+    "komik",
+    "şebek",
+    "palyaço",
+    "palyaço yüzü",
+    "joker"
+  ],
+  "club_suit": [
+    "iskambil",
+    "kart",
+    "sinek",
+    "trefl"
+  ],
+  "clutch_bag": [
+    "çanta"
+  ],
+  "coat": [
+    "kaban",
+    "palto",
+    "ceket"
+  ],
+  "cockroach": [
+    "böcek",
+    "karafatma",
+    "haşere",
+    "hamam böceği",
+    "kara fatma"
+  ],
+  "cocktail_glass": [
+    "restoran",
+    "bar",
+    "kokteyl bardağı",
+    "kokteyl kadehi"
+  ],
+  "coconut": [
+    "hindistan cevizi",
+    "pina colada"
+  ],
+  "coffin": [
+    "huzur içinde yatsın",
+    "tabut",
+    "cenaze",
+    "ölü",
+    "mezar",
+    "ölüm"
+  ],
+  "coin": [
+    "para",
+    "metal para"
+  ],
+  "cold_face": [
+    "buz sarkıtları",
+    "üşümüş yüz",
+    "morarmış yüz",
+    "donma",
+    "soğuk",
+    "dondum",
+    "buz kesme"
+  ],
+  "collision": [
+    "çarpışma",
+    "çarpışma işareti",
+    "çizgi roman",
+    "duygu"
+  ],
+  "colombia": [
+    "bayrak",
+    "co",
+    "kolombiya",
+    "kolombiya bayrağı"
+  ],
+  "comet": [
+    "yıldız",
+    "kuyruklu yıldız"
+  ],
+  "compass": [
+    "pusula"
+  ],
+  "confetti_ball": [
+    "etkinlik",
+    "kutlama",
+    "konfeti topu",
+    "etkinlikler",
+    "yaşasın"
+  ],
+  "confounded_face": [
+    "kafası çok karışık yüz",
+    "kafası çok karışmış"
+  ],
+  "confused": [
+    "üzgün",
+    "kafası karışık yüz",
+    "mutsuz",
+    "karamsar",
+    "kafası karışmış"
+  ],
+  "construction": [
+    "taşıma işareti",
+    "inşaat",
+    "ulaşım işareti"
+  ],
+  "construction_worker": [
+    "inşaatçı",
+    "işçi",
+    "inşaat işçisi"
+  ],
+  "construction_worker_man": [
+    "erkek",
+    "adam",
+    "işçi",
+    "erkek inşaat işçisi",
+    "inşaat"
+  ],
+  "construction_worker_woman": [
+    "kadın",
+    "işçi",
+    "kadın inşaat işçisi",
+    "inşaat"
+  ],
+  "convenience_store": [
+    "market",
+    "sürekli açık",
+    "bina",
+    "sürekli açık market"
+  ],
+  "cook": [
+    "yemek pişirme",
+    "aşçı"
+  ],
+  "cooked_rice": [
+    "restoran",
+    "pirinç",
+    "pilav"
+  ],
+  "cookie": [
+    "restoran",
+    "yiyecek",
+    "kurabiye"
+  ],
+  "cooking": [
+    "restoran",
+    "yemek pişirme",
+    "pişirme"
+  ],
+  "copyright": [
+    "telif",
+    "telif hakkı"
+  ],
+  "couple_with_heart": [
+    "çift",
+    "kalp",
+    "sevgi",
+    "sevgili",
+    "aşk"
+  ],
+  "couple_with_heart_man_man": [
+    "çift",
+    "kalp",
+    "gay",
+    "sevgili"
+  ],
+  "couple_with_heart_woman_woman": [
+    "çift",
+    "kalp",
+    "sevgili"
+  ],
+  "cow": [
+    "düve",
+    "inek"
+  ],
+  "cow_face": [
+    "hayvan",
+    "inek yüzü",
+    "inek"
+  ],
+  "cowboy_hat_face": [
+    "kovboy",
+    "şapka",
+    "kovboy şapkalı surat"
+  ],
+  "crab": [
+    "ıstakoz",
+    "burç",
+    "yengeç"
+  ],
+  "credit_card": [
+    "para",
+    "kart",
+    "kredi kartı"
+  ],
+  "crescent_moon": [
+    "ay",
+    "hilal"
+  ],
+  "cricket": [
+    "cırcır böceği",
+    "çekirge"
+  ],
+  "cricket_game": [
+    "spor",
+    "top",
+    "maç",
+    "sopa",
+    "kriket"
+  ],
+  "crocodile": [
+    "timsah"
+  ],
+  "croissant": [
+    "yiyecek",
+    "ay çöreği",
+    "ekmek",
+    "fransız",
+    "kruvasan"
+  ],
+  "crossed_fingers": [
+    "el",
+    "parmak",
+    "çapraz",
+    "şans",
+    "şans dileme"
+  ],
+  "crossed_flags": [
+    "çapraz",
+    "kutlama",
+    "bayraklar",
+    "çapraz japon bayrakları"
+  ],
+  "crown": [
+    "taç",
+    "giyim"
+  ],
+  "crutch": [
+    "koltuk değneği",
+    "değnek"
+  ],
+  "cry": [
+    "ağlayan yüz",
+    "üzüntülü",
+    "gözyaşları"
+  ],
+  "crying_cat": [
+    "kedi yüzü",
+    "kedi",
+    "ağlayan kedi yüzü",
+    "ağlama"
+  ],
+  "crystal_ball": [
+    "kristal",
+    "küre",
+    "fal bakma",
+    "fal"
+  ],
+  "cuba": [
+    "bayrak",
+    "küba bayrağı",
+    "cu",
+    "küba"
+  ],
+  "cucumber": [
+    "sebze",
+    "yiyecek",
+    "turşu",
+    "salatalık"
+  ],
+  "cup_with_straw": [
+    "içecek",
+    "pipetli bardak"
+  ],
+  "cupcake": [
+    "fırın",
+    "top kek",
+    "kapkek",
+    "tatlı"
+  ],
+  "curling_stone": [
+    "körling taşı",
+    "oyun",
+    "taş",
+    "curling taşı"
+  ],
+  "curry_rice": [
+    "restoran",
+    "pirinç",
+    "köri",
+    "körili pilav"
+  ],
+  "custard": [
+    "restoran",
+    "krem karamel",
+    "puding"
+  ],
+  "customs": [
+    "sembol",
+    "gümrük kontrolü",
+    "gümrük"
+  ],
+  "cut_of_meat": [
+    "parça et",
+    "kuşbaşı",
+    "steak",
+    "sote",
+    "biftek"
+  ],
+  "dango": [
+    "restoran",
+    "çubukta pirinç tatlısı topları",
+    "pirinç tatlısı topları",
+    "pirinç tatlısı"
+  ],
+  "dashing_away": [
+    "hızla fırlama",
+    "koşma",
+    "çizgi roman",
+    "duygu",
+    "kaçma"
+  ],
+  "deaf_man": [
+    "erkek",
+    "adam",
+    "işitme engelli erkek",
+    "işitme engelli"
+  ],
+  "deaf_person": [
+    "işitme",
+    "işitme engelli kişi",
+    "erişilebilirlik",
+    "kulak",
+    "işitme engelli"
+  ],
+  "deaf_woman": [
+    "kadın",
+    "işitme engelli kadın",
+    "işitme engelli"
+  ],
+  "deciduous_tree": [
+    "bitki",
+    "ağaç",
+    "yaprak döken ağaç",
+    "yaprak döken"
+  ],
+  "deer": [
+    "geyik"
+  ],
+  "delivery_truck": [
+    "taşıt",
+    "nakliye kamyonu",
+    "kamyon"
+  ],
+  "department_store": [
+    "çok katlı",
+    "mağaza",
+    "çok katlı mağaza"
+  ],
+  "desert": [
+    "çöl"
+  ],
+  "desert_island": [
+    "vaha",
+    "plaj",
+    "çöl",
+    "çöl ada"
+  ],
+  "desktop_computer": [
+    "bilgisayar",
+    "masaüstü"
+  ],
+  "detective": [
+    "sherlock",
+    "dedektif",
+    "araştırmacı"
+  ],
+  "diamond_suit": [
+    "iskambil",
+    "kart",
+    "karo"
+  ],
+  "diamond_with_a_dot": [
+    "geometrik",
+    "çizgi roman",
+    "karo",
+    "baklava",
+    "içinde noktalı baklava şekli",
+    "içinde noktalı karo"
+  ],
+  "disappointed_face": [
+    "kırgın yüz",
+    "kırgınlık",
+    "memnuniyetsiz yüz"
+  ],
+  "disguised_face": [
+    "burun",
+    "gizlenmiş",
+    "gözlük",
+    "gizlenmiş yüz",
+    "kılık değiştirmiş yüz"
+  ],
+  "diya_lamp": [
+    "lamba",
+    "diya",
+    "yağ"
+  ],
+  "dizzy": [
+    "çizgi roman",
+    "yıldızları görme",
+    "yıldızlar",
+    "duygu",
+    "baş dönmesi"
+  ],
+  "dna": [
+    "bilim",
+    "rna"
+  ],
+  "dodo": [
+    "kuş"
+  ],
+  "dog": [
+    "köpek"
+  ],
+  "dog_face": [
+    "köpek",
+    "köpek yüzü"
+  ],
+  "dollar_banknote": [
+    "döviz",
+    "para",
+    "$",
+    "dolar",
+    "banknot",
+    "usd"
+  ],
+  "dolphin": [
+    "yunus"
+  ],
+  "door": [
+    "kapı"
+  ],
+  "dotted_line_face": [
+    "sessiz"
+  ],
+  "doughnut": [
+    "restoran",
+    "donut",
+    "donat"
+  ],
+  "dove": [
+    "kuş",
+    "güvercin",
+    "uçma",
+    "barış"
+  ],
+  "downcast_face_with_sweat": [
+    "soğuk ter",
+    "soğuk terli yüz"
+  ],
+  "dragon": [
+    "ejderha"
+  ],
+  "dragon_face": [
+    "ejderha",
+    "yüz",
+    "hayvan",
+    "ejderha yüzü"
+  ],
+  "dress": [
+    "tek parça",
+    "elbise",
+    "giyim"
+  ],
+  "drooling_face": [
+    "salya akıtan yüz",
+    "salya akıtma"
+  ],
+  "drop_of_blood": [
+    "adet",
+    "kan",
+    "adet görmek",
+    "kan bağışı",
+    "yaralanma",
+    "regl",
+    "kanama",
+    "damla",
+    "kan damlası"
+  ],
+  "droplet": [
+    "çizgi roman",
+    "terli",
+    "ter",
+    "damlacık"
+  ],
+  "drum": [
+    "müzik",
+    "davul"
+  ],
+  "duck": [
+    "kuş",
+    "ördek"
+  ],
+  "dumpling": [
+    "empanada",
+    "jiaozi",
+    "gyōza",
+    "mantı",
+    "potsticker",
+    "pierogi"
+  ],
+  "dvd": [
+    "disk"
+  ],
+  "e_mail": [
+    "posta",
+    "e-mail",
+    "mail",
+    "email"
+  ],
+  "eagle": [
+    "kuş",
+    "kartal",
+    "beşiktaş"
+  ],
+  "ear": [
+    "gövde",
+    "kulak",
+    "duymak"
+  ],
+  "ear_of_corn": [
+    "mısır",
+    "mısır koçanı"
+  ],
+  "ear_with_hearing_aid": [
+    "işitme cihazı olan kulak",
+    "erişilebilirlik",
+    "işitme güçlüğü"
+  ],
+  "egg": [
+    "yiyecek",
+    "yumurta"
+  ],
+  "eggplant": [
+    "sebze",
+    "patlıcan"
+  ],
+  "egypt": [
+    "bayrak",
+    "mısır",
+    "eg"
+  ],
+  "eight": [
+    "sayılar",
+    "sekiz",
+    "sayı tuşu",
+    "sayı"
+  ],
+  "electric_plug": [
+    "elektrik fişi",
+    "elektrik"
+  ],
+  "elephant": [
+    "fil"
+  ],
+  "elevator": [
+    "asansör",
+    "erişilebilirlik",
+    "lift"
+  ],
+  "elf": [
+    "legolas",
+    "sihirli"
+  ],
+  "england": [
+    "ingiltere",
+    "ingiliz",
+    "ingiltere bayrağı",
+    "aziz george haçı",
+    "en",
+    "bayrak: ingiltere",
+    "ingiliz bayrağı"
+  ],
+  "enraged_face": [
+    "kızgın",
+    "öfkeli",
+    "kırmızı somurtkan yüz",
+    "öfke",
+    "deli gibi",
+    "kırmızı yüz",
+    "somurtkan yüz"
+  ],
+  "envelope": [
+    "e-posta",
+    "mektup",
+    "zarf"
+  ],
+  "estonia": [
+    "bayrak",
+    "estonya",
+    "estonya bayrağı",
+    "ee"
+  ],
+  "euro_banknote": [
+    "döviz",
+    "para",
+    "euro",
+    "banknot",
+    "avro"
+  ],
+  "european_union": [
+    "bayrak",
+    "avrupa birliği",
+    "eu"
+  ],
+  "evergreen_tree": [
+    "yaprak dökmeyen",
+    "bitki",
+    "ağaç",
+    "yaprak dökmeyen ağaç"
+  ],
+  "ewe": [
+    "koyun"
+  ],
+  "exploding_head": [
+    "patlayan kafa",
+    "şoke"
+  ],
+  "expressionless_face": [
+    "yorum yok yüzü",
+    "ifadesiz yüz"
+  ],
+  "eye": [
+    "beden",
+    "vücut",
+    "görmek",
+    "göz"
+  ],
+  "eye_in_speech_bubble": [
+    "konuşma balonu",
+    "göz",
+    "tanıklık",
+    "konuşma balonunda göz"
+  ],
+  "eyes": [
+    "yüz",
+    "gözler",
+    "izlemek"
+  ],
+  "face_blowing_a_kiss": [
+    "kalpli öpücük",
+    "öpücük"
+  ],
+  "face_exhaling": [
+    "sızlanma",
+    "fısıldama",
+    "nefes verme",
+    "rahatlama",
+    "nefes veren yüz"
+  ],
+  "face_holding_back_tears": [
+    "göz yaşı",
+    "ağlayan gülümseme",
+    "sevinç gözyaşı",
+    "duygusal"
+  ],
+  "face_savoring_food": [
+    "beğenen yüz",
+    "harika yemek",
+    "lezzetli",
+    "lezzetli yiyecek",
+    "oh oh harika",
+    "gülümseyen yüz"
+  ],
+  "face_vomiting": [
+    "grip",
+    "kusan yüz",
+    "hasta",
+    "istifra",
+    "kusmak"
+  ],
+  "face_with_crossed_out_eyes": [
+    "sersemlemiş yüz",
+    "hasta",
+    "sersemlemiş"
+  ],
+  "face_with_diagonal_mouth": [
+    ":\\",
+    "hmm"
+  ],
+  "face_with_hand_over_mouth": [
+    "konuşma",
+    "abaoov",
+    "eliyle ağzını kapatan yüz",
+    "tüh",
+    "abooov",
+    "sus"
+  ],
+  "face_with_head_bandage": [
+    "bandaj",
+    "kafası sarılı yüz",
+    "kafa bandajı",
+    "yaralı"
+  ],
+  "face_with_medical_mask": [
+    "rahatsız",
+    "hasta",
+    "soğuk",
+    "tıbbi maske",
+    "maskeli yüz"
+  ],
+  "face_with_monocle": [
+    "tek gözlük",
+    "gözlük",
+    "kendini beğenmiş"
+  ],
+  "face_with_open_eyes_and_hand_over_mouth": [
+    "aman tanrım",
+    "ayy",
+    "ağzı kapatma",
+    "allah allah",
+    "aman allahım"
+  ],
+  "face_with_raised_eyebrow": [
+    "güvenmeyen",
+    "şüpheci",
+    "tek kaşı çatık yüz"
+  ],
+  "face_with_spiral_eyes": [
+    "sıkıntı",
+    "sarmal gözlü yüz",
+    "sersem",
+    "kafası bulanık",
+    "sarmal",
+    "hipnotize"
+  ],
+  "face_with_steam_from_nose": [
+    "ben kazandım",
+    "yüz",
+    "kızgın",
+    "zafer",
+    "öfke",
+    "ben kazandım yüzü",
+    "burnundan soluyan",
+    "burnundan soluyan yüz"
+  ],
+  "face_with_symbols_on_mouth": [
+    "kızgın",
+    "öfkeli",
+    "öfke",
+    "küfür eden"
+  ],
+  "face_with_thermometer": [
+    "ağzında termometre olan yüz",
+    "hasta",
+    "termometre",
+    "termometreli yüz"
+  ],
+  "face_with_tongue": [
+    "dil çıkarmış yüz",
+    "dil dışarıda",
+    "dil dışarıda kalmış"
+  ],
+  "face_without_mouth": [
+    "ağzı olmayan yüz",
+    "sakin",
+    "sessiz"
+  ],
+  "factory": [
+    "yapı",
+    "fabrika"
+  ],
+  "factory_worker": [
+    "montaj",
+    "işçi",
+    "fabrika işçisi",
+    "endüstri",
+    "fabrika",
+    "sanayi"
+  ],
+  "fairy": [
+    "peri"
+  ],
+  "falafel": [
+    "nohut",
+    "köfte"
+  ],
+  "fallen_leaf": [
+    "yaprak",
+    "düşen",
+    "düşmüş",
+    "yapraklar"
+  ],
+  "family": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuk"
+  ],
+  "family_man_boy": [
+    "baba",
+    "aile"
+  ],
+  "family_man_boy_boy": [
+    "baba",
+    "aile"
+  ],
+  "family_man_girl": [
+    "baba",
+    "aile",
+    "kız"
+  ],
+  "family_man_girl_boy": [
+    "baba",
+    "aile",
+    "çocuklar"
+  ],
+  "family_man_girl_girl": [
+    "baba",
+    "aile",
+    "kızlar"
+  ],
+  "family_man_man_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "ebeveyn",
+    "çocuk"
+  ],
+  "family_man_man_boy_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "family_man_man_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "ebeveyn",
+    "çocuk"
+  ],
+  "family_man_man_girl_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "family_man_man_girl_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "family_man_woman_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuk"
+  ],
+  "family_man_woman_boy_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar"
+  ],
+  "family_man_woman_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "kız",
+    "kız kardeş"
+  ],
+  "family_man_woman_girl_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuk",
+    "kız kardeş",
+    "erkek kardeş"
+  ],
+  "family_man_woman_girl_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar"
+  ],
+  "family_woman_boy": [
+    "anne",
+    "aile",
+    "çocuk"
+  ],
+  "family_woman_boy_boy": [
+    "anne",
+    "aile",
+    "çocuklar"
+  ],
+  "family_woman_girl": [
+    "anne",
+    "aile",
+    "çocuk"
+  ],
+  "family_woman_girl_boy": [
+    "anne",
+    "aile",
+    "çocuklar"
+  ],
+  "family_woman_girl_girl": [
+    "anne",
+    "aile",
+    "kız"
+  ],
+  "family_woman_woman_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "ebeveyn",
+    "çocuk"
+  ],
+  "family_woman_woman_boy_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "family_woman_woman_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "ebeveyn",
+    "çocuk"
+  ],
+  "family_woman_woman_girl_boy": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "family_woman_woman_girl_girl": [
+    "baba",
+    "anne",
+    "aile",
+    "çocuklar",
+    "ebeveyn"
+  ],
+  "farmer": [
+    "çiftçi",
+    "bahçıvan",
+    "rençper",
+    "köylü"
+  ],
+  "fax_machine": [
+    "telefon",
+    "belgeç",
+    "faks"
+  ],
+  "fearful": [
+    "korkmuş",
+    "korkulu yüz"
+  ],
+  "feather": [
+    "kuş tüyü",
+    "kuş",
+    "tüy",
+    "hafif",
+    "tüylü"
+  ],
+  "ferris_wheel": [
+    "lunapark",
+    "dönme dolap"
+  ],
+  "ferry": [
+    "tekne",
+    "feribot"
+  ],
+  "field_hockey": [
+    "çim hokeyi",
+    "top",
+    "hokey",
+    "maç",
+    "sopa",
+    "saha"
+  ],
+  "fire": [
+    "ateş",
+    "alev"
+  ],
+  "fire_engine": [
+    "araba",
+    "taşıt",
+    "yangın",
+    "itfaiye arabası",
+    "itfaiye kamyonu"
+  ],
+  "fire_extinguisher": [
+    "yangın tüpü"
+  ],
+  "firecracker": [
+    "patlama"
+  ],
+  "firefighter": [
+    "itfaiyeci",
+    "erkek itfaiyeci"
+  ],
+  "fireworks": [
+    "kutlama",
+    "tebrikler",
+    "havai fişek"
+  ],
+  "first_quarter_moon": [
+    "ay",
+    "ilk dördün"
+  ],
+  "first_quarter_moon_face": [
+    "yüz",
+    "ay",
+    "yüzü olan ay",
+    "dördün",
+    "ilk dördün ay yüzü",
+    "ilk dördün",
+    "yüzü olan ilk dördün"
+  ],
+  "fish": [
+    "balık"
+  ],
+  "fish_cake_with_swirl": [
+    "restoran",
+    "balık",
+    "rulo balık köftesi",
+    "balık köftesi"
+  ],
+  "fishing_pole": [
+    "eğlence",
+    "kamış",
+    "olta",
+    "kamış olta ve balık",
+    "balıkçılık",
+    "dinlenme"
+  ],
+  "five": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "beş"
+  ],
+  "flamingo": [
+    "kuş",
+    "allı turna"
+  ],
+  "flashlight": [
+    "el feneri",
+    "ışık",
+    "elektrik"
+  ],
+  "flat_shoe": [
+    "düz ayakkabı",
+    "babet"
+  ],
+  "flexed_biceps": [
+    "spor",
+    "çizgi roman",
+    "pazı",
+    "esnek",
+    "güçlü",
+    "kas esnetme",
+    "kas",
+    "kol"
+  ],
+  "floppy_disk": [
+    "disk",
+    "disket"
+  ],
+  "flushed_face": [
+    "şaşırmış",
+    "kızarmış yüz",
+    "şaşkınlık içinde",
+    "kızarmış ve şaşkın yüz"
+  ],
+  "fly": [
+    "sinek"
+  ],
+  "flying_disc": [
+    "frizbi",
+    "uçan disk"
+  ],
+  "flying_saucer": [
+    "uzay",
+    "ufo",
+    "uçan daire"
+  ],
+  "fog": [
+    "hava durumu",
+    "bulut",
+    "sis"
+  ],
+  "foggy": [
+    "pusu",
+    "sis"
+  ],
+  "folded_hands": [
+    "minnettar",
+    "el",
+    "hareket",
+    "eller",
+    "dua etmek",
+    "dua etme",
+    "dua",
+    "birleşen eller",
+    "duacı"
+  ],
+  "foot": [
+    "ayak",
+    "tekme"
+  ],
+  "footprints": [
+    "ayak izi",
+    "ayak"
+  ],
+  "fork_and_knife": [
+    "restoran",
+    "bıçak",
+    "çatal",
+    "çatal ve bıçak"
+  ],
+  "fork_and_knife_with_plate": [
+    "bıçak",
+    "tabak",
+    "çatal",
+    "yemek",
+    "tabakla birlikte çatal ve bıçak"
+  ],
+  "fortune_cookie": [
+    "fal kurabiyesi",
+    "kehanet"
+  ],
+  "four": [
+    "sayılar",
+    "dört",
+    "sayı tuşu",
+    "sayı"
+  ],
+  "four_leaf_clover": [
+    "dört",
+    "yaprak",
+    "dört yapraklı yonca",
+    "şanslı",
+    "yonca"
+  ],
+  "fox": [
+    "yüz",
+    "hayvan",
+    "tilki",
+    "tilki yüzü"
+  ],
+  "framed_picture": [
+    "çerçeve",
+    "çerçeve fotoğraf",
+    "tablo",
+    "resimli çerçeve",
+    "sanat"
+  ],
+  "france": [
+    "bayrak",
+    "fransa",
+    "cp",
+    "fr",
+    "clipperton adası"
+  ],
+  "free_button": [
+    "ücretsiz",
+    "ücretsiz düğmesi",
+    "bedava"
+  ],
+  "french_fries": [
+    "restoran",
+    "patates kızartması",
+    "kızartma patates"
+  ],
+  "fried_shrimp": [
+    "restoran",
+    "karides",
+    "kızarmış karides"
+  ],
+  "frog": [
+    "yüz",
+    "hayvan",
+    "kurbağa",
+    "kurbağa yüzü"
+  ],
+  "front_facing_baby_chick": [
+    "hayvan",
+    "piliç",
+    "tavuk",
+    "yüzü dönük civciv",
+    "yavru",
+    "önden civciv"
+  ],
+  "frowning": [
+    "suratını asmış",
+    "üzgün",
+    "asık surat",
+    "suratı asık yüz"
+  ],
+  "frowning_face_with_open_mouth": [
+    "ağzı açık",
+    "hoşnutsuz yüz",
+    "açık ağızlı",
+    "hoşnutsuz"
+  ],
+  "fu": [
+    "beden",
+    "el",
+    "parmak",
+    "orta parmak"
+  ],
+  "fuel_pump": [
+    "yakıt",
+    "yakıt pompası"
+  ],
+  "full_moon": [
+    "ay",
+    "dolunay",
+    "dolu",
+    "parlak"
+  ],
+  "full_moon_face": [
+    "yüz",
+    "ay",
+    "yüzü olan ay",
+    "dolunay",
+    "yüzü olan dolunay",
+    "dolu",
+    "dolunay yüzü"
+  ],
+  "game_die": [
+    "oyun zarı",
+    "zar",
+    "oyun"
+  ],
+  "garlic": [
+    "sarımsak"
+  ],
+  "gear": [
+    "dişli",
+    "araç"
+  ],
+  "gem_stone": [
+    "mücevher taşı",
+    "mücevher",
+    "elmas"
+  ],
+  "genie": [
+    "cin",
+    "lamba",
+    "aladdin"
+  ],
+  "germany": [
+    "bayrak",
+    "de",
+    "almanya"
+  ],
+  "ghost": [
+    "hayalet",
+    "peri masalı",
+    "canavar"
+  ],
+  "giraffe": [
+    "zürafa"
+  ],
+  "girl": [
+    "kişiler",
+    "kişi",
+    "kız çocuk"
+  ],
+  "glass_of_milk": [
+    "bardak",
+    "içecek",
+    "süt",
+    "süt bardağı"
+  ],
+  "glasses": [
+    "gözlük"
+  ],
+  "globe_showing_americas": [
+    "yerkürede amerika",
+    "amerika",
+    "amerika bölgeleri",
+    "dünya"
+  ],
+  "globe_showing_asia_australia": [
+    "asya",
+    "avustralya",
+    "dünya",
+    "yerkürede asya-avustralya"
+  ],
+  "globe_showing_europe_africa": [
+    "avrupa",
+    "yerkürede avrupa-afrika",
+    "afrika",
+    "dünya"
+  ],
+  "gloves": [
+    "eldiven"
+  ],
+  "glowing_star": [
+    "kıvılcım",
+    "yıldız",
+    "parıldama",
+    "pırıltı",
+    "parıldayan yıldız"
+  ],
+  "goal_net": [
+    "spor",
+    "kale",
+    "ağ",
+    "kale ağı"
+  ],
+  "goat": [
+    "keçi"
+  ],
+  "goblin": [
+    "cin",
+    "canavar",
+    "maske"
+  ],
+  "goggles": [
+    "gözlük",
+    "deniz gözlüğü"
+  ],
+  "gorilla": [
+    "maymun"
+  ],
+  "graduation_cap": [
+    "kutlama",
+    "mezuniyet kepi",
+    "kep",
+    "mezuniyet"
+  ],
+  "grapes": [
+    "meyve",
+    "üzüm"
+  ],
+  "greece": [
+    "bayrak",
+    "bayrak_gr",
+    "yunan",
+    "yunanistan",
+    "gr"
+  ],
+  "green_apple": [
+    "elma",
+    "meyve",
+    "yeşil"
+  ],
+  "green_book": [
+    "kitap",
+    "yeşil kitap"
+  ],
+  "green_circle": [
+    "top",
+    "küre",
+    "yeşil",
+    "yeşil küre",
+    "yeşil top"
+  ],
+  "green_heart": [
+    "kalp"
+  ],
+  "green_salad": [
+    "yiyecek",
+    "yeşil",
+    "salata"
+  ],
+  "green_square": [
+    "kare",
+    "yeşil"
+  ],
+  "grimacing": [
+    "buruşturma",
+    "dişli yüz",
+    "dişlerini gösteren yüz"
+  ],
+  "grin": [
+    "gülümseme",
+    "gülümseyen gözler",
+    "gülmek",
+    "gülme",
+    "gülen yüz",
+    "gülen gözlerle sırıtan yüz",
+    "neşeli yüz",
+    "sırıtmış",
+    "gülen gözlerle sırıtma",
+    "sırıtış",
+    "sırıtmış surat"
+  ],
+  "grinning_cat": [
+    "kedi yüzü",
+    "kedi",
+    "gülümseyen ve ağzı açık kedi",
+    "açık ağız gülümseyen kedi"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "gülümseme",
+    "gülmek",
+    "kedi",
+    "mutlu",
+    "sırıtan kedi yüzü",
+    "sırıtan ve gözleri gülümseyen kedi"
+  ],
+  "grinning_face": [
+    "gülmek",
+    "gülme",
+    "gülen yüz",
+    "mutlu",
+    "sırıtan yüz",
+    "sırıtmak",
+    "neşeli"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "gülme",
+    "mutlu",
+    "neşeli"
+  ],
+  "growing_heart": [
+    "kalp"
+  ],
+  "guard": [
+    "kişiler",
+    "bekçi",
+    "muhafız"
+  ],
+  "guide_dog": [
+    "erişilebilirlik",
+    "görme engelli",
+    "rehber",
+    "rehber köpek"
+  ],
+  "guitar": [
+    "müzik",
+    "alet",
+    "caz",
+    "müzik aleti",
+    "gitar"
+  ],
+  "hamburger": [
+    "restoran"
+  ],
+  "hammer": [
+    "alet",
+    "çekiç"
+  ],
+  "hammer_and_wrench": [
+    "alet",
+    "çekiç",
+    "ingiliz anahtarı"
+  ],
+  "hamster": [
+    "yüz",
+    "hayvan",
+    "hamster yüzü"
+  ],
+  "hand_with_fingers_splayed": [
+    "beden",
+    "el",
+    "parmak",
+    "avuç",
+    "parmaklar açık el kaldırma"
+  ],
+  "hand_with_index_finger_and_thumb_crossed": [
+    "kalp"
+  ],
+  "handbag": [
+    "çanta",
+    "el çantası"
+  ],
+  "handshake": [
+    "el",
+    "eller",
+    "tokalaşma",
+    "sallama",
+    "anlaşma",
+    "toplantı",
+    "el sıkışma",
+    "selamlaşma"
+  ],
+  "hash": [
+    "klavye tuşu"
+  ],
+  "hatching_chick": [
+    "hayvan",
+    "piliç",
+    "tavuk",
+    "kuluçka",
+    "yavru",
+    "civciv",
+    "yumurtadan çıkan civciv"
+  ],
+  "headphone": [
+    "müzik",
+    "eğlence",
+    "ses",
+    "kulaklık"
+  ],
+  "health_worker": [
+    "sağlık çalışanı",
+    "doktor",
+    "sağlık personeli",
+    "terapist",
+    "hemşire",
+    "hasta bakıcı"
+  ],
+  "hear_no_evil_monkey": [
+    "maymun",
+    "duymayan maymun",
+    "duymadım"
+  ],
+  "heart": [
+    "kalp"
+  ],
+  "heart_decoration": [
+    "kalp"
+  ],
+  "heart_exclamation": [
+    "kalp"
+  ],
+  "heart_eyes": [
+    "aşk",
+    "gözler kalp",
+    "sevmek",
+    "kalpli göz",
+    "değer verme"
+  ],
+  "heart_hands": [
+    "kalp"
+  ],
+  "heart_suit": [
+    "iskambil",
+    "kalp",
+    "kart",
+    "kupa",
+    "kör"
+  ],
+  "heart_with_arrow": [
+    "kalp"
+  ],
+  "heart_with_ribbon": [
+    "kalp"
+  ],
+  "heavy_dollar_sign": [
+    "bitcoin",
+    "para",
+    "$",
+    "dolar",
+    "kripto para",
+    "usd",
+    "dolar simgesi"
+  ],
+  "hedgehog": [
+    "kirpi"
+  ],
+  "helicopter": [
+    "helikopter"
+  ],
+  "herb": [
+    "yaprak",
+    "ot"
+  ],
+  "hibiscus": [
+    "çiçek",
+    "bitki",
+    "hatmi çiçeği",
+    "çingülü"
+  ],
+  "high_heeled_shoe": [
+    "ayakkabı",
+    "yüksek topuklu ayakkabı"
+  ],
+  "high_speed_train": [
+    "demiryolu",
+    "tren"
+  ],
+  "high_voltage": [
+    "yüksek gerilim",
+    "şimşek",
+    "yıldırım",
+    "gök gürültüsü"
+  ],
+  "hiking_boot": [
+    "yürüyüş botu",
+    "kamp",
+    "yürüyüş",
+    "bot"
+  ],
+  "hippopotamus": [
+    "hipopotam",
+    "su aygırı",
+    "hipo"
+  ],
+  "honey_pot": [
+    "restoran",
+    "bal kabı",
+    "kap",
+    "bal"
+  ],
+  "honeybee": [
+    "hayvan",
+    "bal arısı",
+    "arı"
+  ],
+  "hook": [
+    "kanca"
+  ],
+  "horizontal_traffic_light": [
+    "trafik işareti",
+    "trafik lambası"
+  ],
+  "horse": [
+    "at",
+    "yarış atı"
+  ],
+  "horse_face": [
+    "at",
+    "at yüzü",
+    "at kafası"
+  ],
+  "horse_racing": [
+    "spor",
+    "at yarışı",
+    "at",
+    "yarış"
+  ],
+  "hospital": [
+    "yapı",
+    "hastane",
+    "bina"
+  ],
+  "hot_beverage": [
+    "içecek",
+    "fincan",
+    "kahve",
+    "sıcak içecek"
+  ],
+  "hot_dog": [
+    "sosis",
+    "sosisli sandviç"
+  ],
+  "hot_face": [
+    "ateşi çıkmış",
+    "sıcak",
+    "kızarmış yüz",
+    "terleme",
+    "kırmızı yüz",
+    "sıcak çarpması"
+  ],
+  "hot_pepper": [
+    "bitki",
+    "acı",
+    "biber",
+    "kırmızı biber",
+    "acı biber"
+  ],
+  "hotel": [
+    "yapı",
+    "otel"
+  ],
+  "hourglass_done": [
+    "saat",
+    "kum saati",
+    "zaman"
+  ],
+  "hourglass_not_done": [
+    "saat",
+    "sayaç",
+    "zamanlayıcı",
+    "zaman",
+    "akan kum saati"
+  ],
+  "house": [
+    "yapı",
+    "ev"
+  ],
+  "house_with_garden": [
+    "bahçe",
+    "yapı",
+    "ev",
+    "bahçeli ev"
+  ],
+  "hugs": [
+    "kucaklayarak gülümseme",
+    "sarılma",
+    "kucaklama"
+  ],
+  "hungary": [
+    "bayrak",
+    "hu",
+    "macaristan",
+    "macaristan bayrağı"
+  ],
+  "hushed_face": [
+    "şaşırmış",
+    "şok olmuş",
+    "şaşkın yüz"
+  ],
+  "ice": [
+    "buz küpü",
+    "buz",
+    "donuk",
+    "buzdolabı",
+    "donmuş"
+  ],
+  "ice_cream": [
+    "restoran",
+    "krema",
+    "buz",
+    "dondurma"
+  ],
+  "ice_hockey": [
+    "buz hokeyi",
+    "hokey",
+    "maç",
+    "disk",
+    "sopa"
+  ],
+  "ice_skate": [
+    "buz",
+    "paten",
+    "buz pateni"
+  ],
+  "identification_card": [
+    "kimlik kartı",
+    "kimlik"
+  ],
+  "in_hole": [
+    "spor",
+    "golf",
+    "delik",
+    "delikteki bayrak",
+    "golf bayrağı"
+  ],
+  "index_pointing_at_the_viewer": [
+    "sen"
+  ],
+  "index_pointing_up": [
+    "işaret",
+    "el",
+    "parmak",
+    "yukarıya doğru",
+    "yukarıya doğru işaret"
+  ],
+  "india": [
+    "bayrak",
+    "hindistan",
+    "in"
+  ],
+  "infinity": [
+    "sonsuz"
+  ],
+  "information_source": [
+    "bilgi",
+    "bilgi kaynağı"
+  ],
+  "innocent": [
+    "gülümseme",
+    "ışık halkalı gülümseme",
+    "ışık halkası",
+    "melek",
+    "hale",
+    "masum"
+  ],
+  "iran": [
+    "bayrak",
+    "pers",
+    "iran islam cumhuriyeti",
+    "ir"
+  ],
+  "iraq": [
+    "bayrak",
+    "ırak",
+    "iq"
+  ],
+  "israel": [
+    "bayrak",
+    "israil",
+    "il"
+  ],
+  "italy": [
+    "bayrak",
+    "italya",
+    "it",
+    "italya bayrağı"
+  ],
+  "jack_o_lantern": [
+    "etkinlik",
+    "cadılar bayramı"
+  ],
+  "japan": [
+    "bayrak",
+    "jp",
+    "japonya"
+  ],
+  "japanese_bargain_button": [
+    "japonca",
+    "japonca rezerve düğmesi"
+  ],
+  "japanese_castle": [
+    "yapı",
+    "japon kalesi",
+    "kale"
+  ],
+  "japanese_congratulations_button": [
+    "sembol",
+    "kutlama",
+    "tebrikler",
+    "japonca",
+    "japonca tebrikler düğmesi",
+    "tebrik"
+  ],
+  "japanese_here_button": [
+    "japonca",
+    "japonca burada düğmesi"
+  ],
+  "japanese_monthly_amount_button": [
+    "japonca",
+    "japonca aylık ücret düğmesi"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "japonca",
+    "japonca ücretsiz değil düğmesi"
+  ],
+  "japanese_open_for_business_button": [
+    "hizmete hazır"
+  ],
+  "japanese_passing_grade_button": [
+    "geçer not"
+  ],
+  "japanese_post_office": [
+    "yapı",
+    "japon postanesi",
+    "postane"
+  ],
+  "japanese_secret_button": [
+    "sır"
+  ],
+  "japanese_service_charge_button": [
+    "japonca",
+    "japonca servis ücreti düğmesi"
+  ],
+  "japanese_vacancy_button": [
+    "yer var"
+  ],
+  "jar": [
+    "kavanoz",
+    "cam"
+  ],
+  "jeans": [
+    "blucin",
+    "giyim",
+    "pantolon",
+    "kot",
+    "blue jean"
+  ],
+  "joker": [
+    "kart",
+    "iskambil kartı"
+  ],
+  "joy": [
+    "mutlu",
+    "sevinçli",
+    "gülmekten gözünden yaş gelmiş",
+    "sevinç gözyaşları"
+  ],
+  "joy_cat": [
+    "kedi yüzü",
+    "sevinç gözyaşları döken kedi",
+    "sevinç gözyaşları olan kedi yüzü"
+  ],
+  "judge": [
+    "adalet",
+    "hakim",
+    "terazi",
+    "yargıç"
+  ],
+  "kaaba": [
+    "müslüman",
+    "din",
+    "islam",
+    "kabe",
+    "hac",
+    "mekke",
+    "bina"
+  ],
+  "kangaroo": [
+    "avustralya",
+    "keseli",
+    "sıçrama",
+    "yavru keseli",
+    "kanguru"
+  ],
+  "kazakhstan": [
+    "bayrak",
+    "kz",
+    "kazakistan bayrağı",
+    "kazakistan"
+  ],
+  "kenya": [
+    "bayrak",
+    "ke",
+    "kenya bayrağı"
+  ],
+  "key": [
+    "kilit",
+    "anahtar"
+  ],
+  "keyboard": [
+    "bilgisayar",
+    "klavye"
+  ],
+  "kick_scooter": [
+    "scooter",
+    "skuter",
+    "ayakla sürülen skuter",
+    "ayak"
+  ],
+  "kimono": [
+    "elbise",
+    "giyim"
+  ],
+  "kiss": [
+    "öpüşen çift"
+  ],
+  "kiss_man_man": [
+    "gay",
+    "öpüşen çift"
+  ],
+  "kiss_mark": [
+    "dudak",
+    "öpücük"
+  ],
+  "kiss_woman_man": [
+    "çift",
+    "kalp",
+    "sevgi",
+    "aşk",
+    "öpüşmek",
+    "öpücük"
+  ],
+  "kiss_woman_woman": [
+    "öpüşen çift",
+    "lezbiyen"
+  ],
+  "kissing_cat": [
+    "gözler kapalı",
+    "kedi",
+    "kapalı gözle öpen kedi yüzü",
+    "öpücük",
+    "öpen"
+  ],
+  "kissing_face": [
+    "öp",
+    "öpücük",
+    "öpmek",
+    "öpen yüz"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "gözler kapalı",
+    "kapalı gözlerle öpen yüz",
+    "gözler kapalı öpüşme"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "gülümseme",
+    "gülen gözlerle öpen yüz",
+    "gülümseyen gözler",
+    "gülümseyerek öpen yüz"
+  ],
+  "kitchen_knife": [
+    "bıçak",
+    "silah",
+    "çatal bıçak takımı",
+    "bulaşık"
+  ],
+  "kite": [
+    "uçurtma"
+  ],
+  "kiwi_fruit": [
+    "meyve",
+    "yiyecek",
+    "kivi"
+  ],
+  "knot": [
+    "düğüm",
+    "ilmek"
+  ],
+  "koala": [
+    "hayvan",
+    "koala ayısı"
+  ],
+  "kyrgyzstan": [
+    "bayrak",
+    "kırgızistan",
+    "kg",
+    "kırgızistan bayrağı"
+  ],
+  "lab_coat": [
+    "laboratuvar önlüğü",
+    "doktor",
+    "deney",
+    "bilim insanı"
+  ],
+  "label": [
+    "etiket"
+  ],
+  "lacrosse": [
+    "top",
+    "sopa",
+    "gol",
+    "lakros"
+  ],
+  "ladder": [
+    "merdiven"
+  ],
+  "lady_beetle": [
+    "hayvan",
+    "böcek",
+    "hanımböceği",
+    "uğur böceği",
+    "hanım",
+    "ebem böceği",
+    "uğurböceği"
+  ],
+  "laptop": [
+    "bilgisayar",
+    "kişisel",
+    "dizüstü bilgisayar"
+  ],
+  "large_blue_diamond": [
+    "mavi",
+    "karo",
+    "büyük mavi karo"
+  ],
+  "large_orange_diamond": [
+    "turuncu",
+    "karo",
+    "büyük turuncu karo"
+  ],
+  "last_quarter_moon": [
+    "ay",
+    "son dördün",
+    "dördün"
+  ],
+  "last_quarter_moon_face": [
+    "yüz",
+    "ay",
+    "yüzü olan ay",
+    "son dördün",
+    "dördün",
+    "son dördün ay yüzü",
+    "yüzü olan son dördün"
+  ],
+  "laughing": [
+    "gülümseme",
+    "gülmek",
+    "gülme",
+    "ağız açık gözler kapalı",
+    "kapalı gözlerle gülümseme",
+    "kapalı gözlerle ağzı açık sırıtma"
+  ],
+  "leaf_fluttering_in_wind": [
+    "esen",
+    "rüzgar",
+    "yaprak",
+    "rüzgardaki yaprak"
+  ],
+  "leafy_green": [
+    "yeşil yapraklı sebze",
+    "lahana",
+    "marul",
+    "karalahana",
+    "çin lahanası"
+  ],
+  "left_facing_fist": [
+    "yumruk",
+    "sola bakan yumruk",
+    "sola doğru"
+  ],
+  "leftwards_hand": [
+    "el"
+  ],
+  "leg": [
+    "tekme",
+    "bacak"
+  ],
+  "lemon": [
+    "meyve",
+    "limon",
+    "narenciye"
+  ],
+  "leopard": [
+    "leopar"
+  ],
+  "libya": [
+    "bayrak",
+    "ly",
+    "libya bayrağı"
+  ],
+  "light_bulb": [
+    "çizgi roman",
+    "ışık",
+    "bir fikrim var",
+    "elektrik",
+    "ampul"
+  ],
+  "light_rail": [
+    "demiryolu",
+    "tren",
+    "hafif raylı sistem"
+  ],
+  "link": [
+    "bağlantı",
+    "zincir",
+    "url"
+  ],
+  "lion": [
+    "hayvan",
+    "aslan",
+    "aslan yüzü"
+  ],
+  "lipstick": [
+    "ruj",
+    "dudak boyası"
+  ],
+  "litter_in_bin_sign": [
+    "çöp kutusu",
+    "işaret",
+    "çöp kutusu işareti",
+    "çöpü yerine atın"
+  ],
+  "lizard": [
+    "kertenkele",
+    "sürüngen"
+  ],
+  "llama": [
+    "lama"
+  ],
+  "lobster": [
+    "ıstakoz",
+    "deniz ürünü",
+    "kıskaç",
+    "bisque"
+  ],
+  "locked": [
+    "kilit",
+    "kilitli"
+  ],
+  "locomotive": [
+    "buharlı lokomotif",
+    "tren",
+    "lokomotif"
+  ],
+  "lollipop": [
+    "restoran",
+    "şekerleme",
+    "lolipop"
+  ],
+  "lotus": [
+    "çiçek",
+    "nilüfer"
+  ],
+  "love_letter": [
+    "kalp",
+    "aşk",
+    "mektup",
+    "kalp ünlemi"
+  ],
+  "love_you_gesture": [
+    "el",
+    "rock",
+    "cool",
+    "seni seviyorum işareti",
+    "ss"
+  ],
+  "luggage": [
+    "seyahat",
+    "bagaj",
+    "valiz",
+    "bavul"
+  ],
+  "lungs": [
+    "organ",
+    "akciğer"
+  ],
+  "lying_face": [
+    "pinokyo",
+    "yalancı surat",
+    "yalan söyleme",
+    "yalancı"
+  ],
+  "mage": [
+    "büyücü",
+    "büyü",
+    "sihirbaz"
+  ],
+  "magic_wand": [
+    "büyü",
+    "değnek"
+  ],
+  "magnet": [
+    "araç",
+    "mıknatıs"
+  ],
+  "magnifying_glass_tilted_left": [
+    "arama",
+    "dergi",
+    "tespit etme",
+    "büyüteç",
+    "yakınlaştır"
+  ],
+  "mahjong_red_dragon": [
+    "ejderha",
+    "kızıl ejder mahjong taşı",
+    "taş",
+    "mahjong",
+    "kızıl ejder"
+  ],
+  "mammoth": [
+    "soyu tükenen",
+    "büyük",
+    "mamut",
+    "nesli tükenen",
+    "fil dişi"
+  ],
+  "man": [
+    "erkek",
+    "kişiler"
+  ],
+  "man_artist": [
+    "erkek",
+    "adam",
+    "palet",
+    "sanatçı",
+    "erkek ressam"
+  ],
+  "man_astronaut": [
+    "erkek",
+    "roket",
+    "adam",
+    "uzay",
+    "astronot",
+    "kozmonot"
+  ],
+  "man_bald": [
+    "erkek",
+    "kel",
+    "saçsız",
+    "kel erkek"
+  ],
+  "man_beard": [
+    "adam",
+    "sakal",
+    "sakallı adam"
+  ],
+  "man_biking": [
+    "erkek",
+    "spor",
+    "bisiklet süren erkek",
+    "bisikletçi",
+    "bisiklet",
+    "bisiklet sürme"
+  ],
+  "man_bouncing_ball": [
+    "erkek",
+    "spor",
+    "top",
+    "adam",
+    "top zıplatma",
+    "basketbol",
+    "erkek basketbolcu",
+    "top zıplatan kişi",
+    "top sektiren erkek"
+  ],
+  "man_bowing": [
+    "erkek",
+    "adam",
+    "hareket",
+    "baş eğme",
+    "başını öne eğen erkek",
+    "lütuf",
+    "rükû",
+    "özür",
+    "eğilmiş erkek",
+    "afedersiniz"
+  ],
+  "man_cartwheeling": [
+    "spor",
+    "perende atan erkek",
+    "yanlamasına takla",
+    "jimnastik"
+  ],
+  "man_climbing": [
+    "kaya",
+    "erkek tırmanıcı",
+    "tırmanma",
+    "kaya tırmanışı"
+  ],
+  "man_cook": [
+    "erkek",
+    "adam",
+    "yemek yapma",
+    "şef",
+    "erkek aşçı",
+    "aşçı"
+  ],
+  "man_curly_hair": [
+    "saç",
+    "erkek",
+    "kişi",
+    "kıvırcık saç"
+  ],
+  "man_dancing": [
+    "dans",
+    "dans eden erkek"
+  ],
+  "man_detective": [
+    "casus",
+    "sherlock",
+    "erkek dedektif",
+    "dedektif",
+    "hafiye"
+  ],
+  "man_elf": [
+    "erkek elf",
+    "elf"
+  ],
+  "man_facepalming": [
+    "erkek",
+    "adam",
+    "çileden çıkma",
+    "yüzünü saklayan erkek",
+    "inanmama",
+    "utanmış",
+    "utancından eliyle yüzünü kapatma",
+    "eliyle yüzünü kapatan erkek"
+  ],
+  "man_factory_worker": [
+    "erkek",
+    "montaj",
+    "adam",
+    "işçi",
+    "fabrika",
+    "sanayi",
+    "erkek fabrika işçisi"
+  ],
+  "man_fairy": [
+    "peri",
+    "erkek peri"
+  ],
+  "man_farmer": [
+    "erkek",
+    "adam",
+    "çiftlik sahibi",
+    "çiftçi",
+    "bahçıvan"
+  ],
+  "man_feeding_baby": [
+    "erkek",
+    "bakıcılık",
+    "emzirme",
+    "bebek",
+    "bebek emziren erkek"
+  ],
+  "man_firefighter": [
+    "erkek",
+    "adam",
+    "itfaiyeci",
+    "itfaiye aracı",
+    "itfaiye eri"
+  ],
+  "man_frowning": [
+    "erkek",
+    "adam",
+    "mimik",
+    "endişeli",
+    "somurtma",
+    "somurtan erkek"
+  ],
+  "man_genie": [
+    "erkek cin",
+    "cin"
+  ],
+  "man_gesturing_no": [
+    "erkek",
+    "hareket",
+    "hayır",
+    "yasak",
+    "jest",
+    "hareket yok",
+    "hayır hareketi yapan erkek"
+  ],
+  "man_gesturing_ok": [
+    "erkek",
+    "adam",
+    "el",
+    "hareket",
+    "tamam hareketi",
+    "tamam",
+    "tamam hareketi yapan erkek"
+  ],
+  "man_getting_haircut": [
+    "saç kesimi",
+    "berber"
+  ],
+  "man_getting_massage": [
+    "masaj",
+    "masaj yapan eller",
+    "başına masaj yaptıran erkek"
+  ],
+  "man_golfing": [
+    "spor",
+    "golfçü",
+    "golf",
+    "erkek golfçü"
+  ],
+  "man_guard": [
+    "bekçi",
+    "muhafız",
+    "kadın bekçi"
+  ],
+  "man_health_worker": [
+    "erkek",
+    "adam",
+    "doktor",
+    "terapist",
+    "sağlık",
+    "erkek sağlık çalışanı",
+    "hastabakıcı"
+  ],
+  "man_in_lotus_position": [
+    "spor",
+    "lotus pozisyonundaki erkek",
+    "yoga",
+    "lotus pozisyonu",
+    "meditasyon",
+    "huzur",
+    "lotus"
+  ],
+  "man_in_manual_wheelchair": [
+    "tekerlekli sandalye",
+    "tekerlekli sandalyeli adam"
+  ],
+  "man_in_motorized_wheelchair": [
+    "erkek",
+    "tekerlekli sandalye",
+    "erişilebilirlik",
+    "elektrikli tekerlekli sandalyede erkek"
+  ],
+  "man_in_steamy_room": [
+    "erkek",
+    "sauna",
+    "buharlı oda",
+    "buhar banyosu"
+  ],
+  "man_in_tuxedo": [
+    "adam",
+    "smokin",
+    "smokinli adam",
+    "smokinli erkek"
+  ],
+  "man_judge": [
+    "erkek",
+    "adam",
+    "adalet",
+    "hakim",
+    "terazi",
+    "yargıç",
+    "erkek hakim"
+  ],
+  "man_juggling": [
+    "yetenek",
+    "jonglör",
+    "aynı anda birçok iş yapma",
+    "hokkabazlık"
+  ],
+  "man_kneeling": [
+    "erkek",
+    "adam",
+    "dua etmek",
+    "diz çöken",
+    "diz çöken erkek"
+  ],
+  "man_lifting_weights": [
+    "erkek",
+    "spor",
+    "sporcu",
+    "ağırlık kaldıran",
+    "ağırlık kaldıran erkek"
+  ],
+  "man_mage": [
+    "erkek büyücü",
+    "büyücü",
+    "sihirbaz"
+  ],
+  "man_mechanic": [
+    "erkek",
+    "esnaf",
+    "adam",
+    "tesisatçı",
+    "elektrikçi",
+    "tamirci"
+  ],
+  "man_mountain_biking": [
+    "erkek",
+    "spor",
+    "bisiklet",
+    "dağ",
+    "dağ bisikleti",
+    "bisiklet sürme",
+    "dağ bisikleti süren erkek"
+  ],
+  "man_office_worker": [
+    "erkek",
+    "adam",
+    "iş",
+    "yönetici",
+    "ofis",
+    "beyaz yaka",
+    "mimar",
+    "erkek ofis çalışanı"
+  ],
+  "man_pilot": [
+    "erkek",
+    "adam",
+    "erkek pilot",
+    "uçak",
+    "pilot"
+  ],
+  "man_playing_handball": [
+    "spor",
+    "top",
+    "hentbol",
+    "hentbol oynayan erkek"
+  ],
+  "man_playing_water_polo": [
+    "spor",
+    "top",
+    "su topu",
+    "su topu oynayan erkek"
+  ],
+  "man_police_officer": [
+    "polis",
+    "kişi",
+    "polis memuru",
+    "erkek polis",
+    "görevli"
+  ],
+  "man_pouting": [
+    "erkek",
+    "adam",
+    "mimik",
+    "somurtgan",
+    "darılma",
+    "somurtan erkek",
+    "darılan erkek"
+  ],
+  "man_raising_hand": [
+    "erkek",
+    "adam",
+    "hareket",
+    "el kaldırma",
+    "el sallama",
+    "elini kaldıran erkek",
+    "el sallayan erkek"
+  ],
+  "man_red_hair": [
+    "saç",
+    "erkek",
+    "yüz",
+    "kızıl",
+    "kişi",
+    "bıyık",
+    "insan"
+  ],
+  "man_rowing_boat": [
+    "erkek",
+    "spor",
+    "sandal",
+    "kayık",
+    "sandalda kürek çeken erkek"
+  ],
+  "man_running": [
+    "spor",
+    "geç kalmak",
+    "koşu",
+    "kişi koşuyor",
+    "koşucu",
+    "koşmak",
+    "erkek koşucu"
+  ],
+  "man_s_shoe": [
+    "ayakkabı",
+    "giyim",
+    "erkek ayakkabısı"
+  ],
+  "man_scientist": [
+    "erkek",
+    "erkek bilim insanı",
+    "adam",
+    "mühendis",
+    "bilim adamı",
+    "biyolog",
+    "fizikçi",
+    "bilim insanı",
+    "kimyacı",
+    "matematikçi"
+  ],
+  "man_shrugging": [
+    "erkek",
+    "omuz silkme",
+    "adam",
+    "şüphe",
+    "cahillik",
+    "bilmiyorum",
+    "ilgisizlik",
+    "omuz silken erkek"
+  ],
+  "man_singer": [
+    "erkek",
+    "adam",
+    "rock",
+    "şarkıcı",
+    "gösterici",
+    "star",
+    "aktör"
+  ],
+  "man_standing": [
+    "erkek",
+    "ayakta durmak",
+    "ayakta duran",
+    "ayakta duran erkek",
+    "ayakta"
+  ],
+  "man_student": [
+    "erkek",
+    "adam",
+    "öğrenci",
+    "mezun"
+  ],
+  "man_superhero": [
+    "erkek",
+    "kahraman",
+    "iyi",
+    "süper güç",
+    "erkek süper kahraman"
+  ],
+  "man_supervillain": [
+    "erkek",
+    "suçlu",
+    "erkek süper kötü",
+    "süper güç",
+    "şeytani",
+    "kötü"
+  ],
+  "man_surfing": [
+    "dalga",
+    "spor",
+    "sörf yapan erkek",
+    "sörf",
+    "sörfçü",
+    "sörf yapan kişi"
+  ],
+  "man_swimming": [
+    "spor",
+    "yüzme",
+    "erkek yüzücü",
+    "yüzücü",
+    "yüzen kişi"
+  ],
+  "man_teacher": [
+    "erkek",
+    "adam",
+    "öğretmen",
+    "profesör",
+    "erkek öğretmen",
+    "eğitmen"
+  ],
+  "man_technologist": [
+    "erkek",
+    "adam",
+    "geliştirici",
+    "mucit",
+    "yazılım",
+    "kodlayıcı",
+    "erkek teknoloji uzmanı",
+    "teknoloji uzmanı"
+  ],
+  "man_tipping_hand": [
+    "erkek",
+    "adam",
+    "el",
+    "bilgi masası personeli",
+    "küstah",
+    "yardım masası erkeği",
+    "yana yatmış el",
+    "elini yana yatıran erkek"
+  ],
+  "man_vampire": [
+    "vampir",
+    "erkek vampir"
+  ],
+  "man_walking": [
+    "yürüyen erkek",
+    "yürümek"
+  ],
+  "man_wearing_turban": [
+    "erkek",
+    "adam",
+    "sarık",
+    "sarıklı erkek"
+  ],
+  "man_white_hair": [
+    "beyaz",
+    "yaşlı",
+    "gri",
+    "bıyık",
+    "yaşlı erkek"
+  ],
+  "man_with_veil": [
+    "kişiler",
+    "duvak",
+    "duvaklı adam",
+    "evlilik",
+    "peçeli adam"
+  ],
+  "man_with_white_cane": [
+    "beyaz baston",
+    "görme engelli",
+    "kör"
+  ],
+  "man_zombie": [
+    "erkek zombi",
+    "zombi"
+  ],
+  "mango": [
+    "meyve",
+    "tropikal"
+  ],
+  "mantelpiece_clock": [
+    "saat",
+    "raf saati"
+  ],
+  "maple_leaf": [
+    "yaprak",
+    "düşen yaprak",
+    "akçaağaç yaprağı"
+  ],
+  "martial_arts_uniform": [
+    "spor",
+    "dövüş sporu forması",
+    "dövüş sporu",
+    "karate",
+    "forma",
+    "tekvando",
+    "judo"
+  ],
+  "meat_on_bone": [
+    "restoran",
+    "kemikli et"
+  ],
+  "mechanic": [
+    "tesisatçı",
+    "elektrikçi",
+    "tamirci"
+  ],
+  "mechanical_arm": [
+    "erişilebilirlik",
+    "mekanik kol",
+    "protez"
+  ],
+  "mechanical_leg": [
+    "erişilebilirlik",
+    "mekanik bacak",
+    "protez"
+  ],
+  "melon": [
+    "meyve",
+    "kavun"
+  ],
+  "men_holding_hands": [
+    "el ele tutuşan çift",
+    "iki erkek el ele"
+  ],
+  "men_with_bunny_ears": [
+    "erkek",
+    "adam",
+    "partiye katılma",
+    "dansçı",
+    "tavşan kulaklı erkek",
+    "tavşan kulaklı erkekler",
+    "tavşan dansçılar",
+    "tavşan kulak"
+  ],
+  "men_wrestling": [
+    "spor",
+    "güreş",
+    "güreşçi",
+    "güreşen erkekler"
+  ],
+  "mermaid": [
+    "deniz kızı"
+  ],
+  "merman": [
+    "deniz adamı"
+  ],
+  "merperson": [
+    "deniz tanrısı",
+    "poseidon",
+    "deniz kızı"
+  ],
+  "metro": [
+    "metro treni"
+  ],
+  "mexico": [
+    "bayrak",
+    "mx",
+    "meksika bayrağı",
+    "meksika"
+  ],
+  "microbe": [
+    "amip",
+    "kovid",
+    "bakteri",
+    "corona",
+    "virüs",
+    "korona",
+    "covid",
+    "mikrop",
+    "coronavirus"
+  ],
+  "microphone": [
+    "eğlence",
+    "mikrofon",
+    "kayıt",
+    "şarkı"
+  ],
+  "military_helmet": [
+    "asker",
+    "kask",
+    "ordu",
+    "miğfer"
+  ],
+  "military_medal": [
+    "madalya",
+    "ödül",
+    "askeri madalya"
+  ],
+  "minibus": [
+    "taşıt",
+    "minibüs"
+  ],
+  "mirror": [
+    "ayna"
+  ],
+  "mirror_ball": [
+    "disko topu",
+    "parti",
+    "disko"
+  ],
+  "moai": [
+    "heykel",
+    "moyai heykeli",
+    "moyai"
+  ],
+  "mobile_phone": [
+    "telefon",
+    "cep telefonu",
+    "mobil telefon"
+  ],
+  "mobile_phone_with_arrow": [
+    "telefon",
+    "mobil telefon",
+    "ok işaretli cep telefonu",
+    "çağrı yapmak"
+  ],
+  "money_bag": [
+    "bitcoin",
+    "para",
+    "$",
+    "nakit",
+    "amerikan doları",
+    "dolar",
+    "para çuvalı",
+    "zengin",
+    "kripto para",
+    "para çantası"
+  ],
+  "money_mouth_face": [
+    "para",
+    "para ağızlı yüz",
+    "para ağız"
+  ],
+  "money_with_wings": [
+    "bitcoin",
+    "para",
+    "$",
+    "nakit",
+    "amerikan doları",
+    "dolar",
+    "banknot",
+    "kanatlı para",
+    "zengin",
+    "kripto para"
+  ],
+  "monkey": [
+    "hayvan",
+    "maymun"
+  ],
+  "monkey_face": [
+    "yüz",
+    "maymun yüzü",
+    "hayvan",
+    "maymun",
+    "maymun surat"
+  ],
+  "monorail": [
+    "demiryolu",
+    "tren",
+    "monoray"
+  ],
+  "moon_cake": [
+    "yuèbǐng",
+    "festival",
+    "ay pastası",
+    "sonbahar"
+  ],
+  "mosque": [
+    "yapı",
+    "din",
+    "camii"
+  ],
+  "mosquito": [
+    "böcek",
+    "ateş",
+    "sivrisinek",
+    "hastalık",
+    "virüs",
+    "sıtma"
+  ],
+  "motor_boat": [
+    "taşıt",
+    "motor",
+    "motorlu tekne",
+    "tekne"
+  ],
+  "motor_scooter": [
+    "scooter",
+    "skuter",
+    "motor",
+    "motorlu skuter"
+  ],
+  "motorcycle": [
+    "yarış",
+    "motosiklet"
+  ],
+  "motorway": [
+    "otoyol",
+    "yol"
+  ],
+  "mount_fuji": [
+    "dağ",
+    "fuji dağı"
+  ],
+  "mountain": [
+    "dağ"
+  ],
+  "mountain_cableway": [
+    "teleferik"
+  ],
+  "mountain_railway": [
+    "tren",
+    "dağ tren"
+  ],
+  "mouse": [
+    "fare"
+  ],
+  "mouse_face": [
+    "fare"
+  ],
+  "mouse_trap": [
+    "fare kapanı",
+    "kapan"
+  ],
+  "mouth": [
+    "yüz",
+    "dudak",
+    "gövde",
+    "dudaklar",
+    "ağız"
+  ],
+  "movie_camera": [
+    "film",
+    "film kamerası",
+    "kamera",
+    "sinema"
+  ],
+  "mrs_claus": [
+    "yılbaşı",
+    "noel",
+    "noel anne"
+  ],
+  "mushroom": [
+    "bitki",
+    "mantar",
+    "vegan"
+  ],
+  "musical_keyboard": [
+    "müzik",
+    "alet",
+    "klavye",
+    "müzik aleti",
+    "müzik klavyesi",
+    "piyano"
+  ],
+  "musical_note": [
+    "müzik",
+    "nota",
+    "müzik notası"
+  ],
+  "musical_notes": [
+    "müzik",
+    "müzik notları"
+  ],
+  "musical_score": [
+    "müzik",
+    "sol anahtarı",
+    "partisyon"
+  ],
+  "mx_claus": [
+    "noel",
+    "cinsiyet belirtmeyen noel karakteri",
+    "noel figürü"
+  ],
+  "nail_polish": [
+    "el",
+    "parmak",
+    "manikür",
+    "tırnak",
+    "oje sürme",
+    "oje",
+    "kozmetik"
+  ],
+  "national_park": [
+    "ulusal park",
+    "park"
+  ],
+  "nauseated_face": [
+    "hasta",
+    "kusmak üzere olan yüz",
+    "istifra",
+    "kusmak üzere"
+  ],
+  "nazar_amulet": [
+    "nazar",
+    "nazar boncuğu",
+    "boncuk",
+    "muska",
+    "tılsım",
+    "kem göz"
+  ],
+  "necktie": [
+    "giyim",
+    "kravat",
+    "gömlek"
+  ],
+  "nerd_face": [
+    "gözlük",
+    "inek surat",
+    "bilgili",
+    "ukala",
+    "inek öğrenci"
+  ],
+  "netherlands": [
+    "bayrak",
+    "hollanda bayrağı",
+    "hollanda",
+    "nl"
+  ],
+  "neutral_face": [
+    "duygusuz",
+    "yorum yok",
+    "nötr",
+    "yorumsuz yüz"
+  ],
+  "new_button": [
+    "yeni",
+    "yeni düğmesi"
+  ],
+  "new_moon": [
+    "ay",
+    "yeni",
+    "karanlık"
+  ],
+  "new_moon_face": [
+    "yüz",
+    "ay",
+    "yeni ay",
+    "yeni ay yüzü",
+    "yüzü olan yeni ay"
+  ],
+  "newspaper": [
+    "gazete",
+    "haber"
+  ],
+  "next_track_button": [
+    "sonraki parça",
+    "sonraki parça düğmesi"
+  ],
+  "night_with_stars": [
+    "yıldızlar",
+    "gece",
+    "yıldızlı gece",
+    "yıldızlarla gece"
+  ],
+  "nine": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "dokuz"
+  ],
+  "ninja": [
+    "dövüşçü"
+  ],
+  "no_smoking": [
+    "semboller",
+    "sembol",
+    "uyarı",
+    "dikkat",
+    "sigara yasak",
+    "sigara içmeyin",
+    "sigara",
+    "sigara yasağı"
+  ],
+  "north_korea": [
+    "bayrak",
+    "kore",
+    "kp",
+    "kuzey kore"
+  ],
+  "nose": [
+    "yüz",
+    "burun",
+    "gövde",
+    "vücut",
+    "koku"
+  ],
+  "notebook_with_decorative_cover": [
+    "kapak",
+    "süslü not defteri",
+    "dekorasyonlu not defteri",
+    "not defteri"
+  ],
+  "o_button_blood_type": [
+    "kan",
+    "kan grubu",
+    "0",
+    "o kan",
+    "0 kan",
+    "o düğmesi (kan grubu)"
+  ],
+  "ocean": [
+    "dalga",
+    "okyanus dalgası",
+    "su dalgası"
+  ],
+  "octopus": [
+    "ahtapot"
+  ],
+  "oden": [
+    "restoran",
+    "çubuk",
+    "çubukta deniz ürünleri"
+  ],
+  "office_building": [
+    "yapı",
+    "ofis binası",
+    "ofis"
+  ],
+  "office_worker": [
+    "yönetici",
+    "beyaz yakalı",
+    "iş yeri",
+    "mimar",
+    "ofis çalışanı",
+    "müdür"
+  ],
+  "ogre": [
+    "şeytan",
+    "canavar"
+  ],
+  "oil_drum": [
+    "varil",
+    "yağ varili"
+  ],
+  "ok_hand": [
+    "işaret",
+    "el",
+    "tamam el işareti",
+    "tamam",
+    "tamam işareti"
+  ],
+  "old_key": [
+    "anahtar"
+  ],
+  "old_man": [
+    "erkek",
+    "kişiler",
+    "yaşlı",
+    "yaşlı adam"
+  ],
+  "old_woman": [
+    "kadın",
+    "kişiler",
+    "yaşlı",
+    "babaanne",
+    "büyükanne",
+    "nine",
+    "anneanne"
+  ],
+  "older_person": [
+    "yaşlı",
+    "kişi",
+    "yaşlı kadın",
+    "yaşlı yetişkin"
+  ],
+  "olive": [
+    "zeytin",
+    "yeşilzeytin"
+  ],
+  "oncoming_automobile": [
+    "araba",
+    "taşıt",
+    "kırmızı araba",
+    "yaklaşan otomobil",
+    "otomobil"
+  ],
+  "oncoming_bus": [
+    "taşıt",
+    "otobüs",
+    "yaklaşan otobüs"
+  ],
+  "oncoming_fist": [
+    "el",
+    "yumruk",
+    "yaklaşan yumruk",
+    "kavga"
+  ],
+  "oncoming_police_car": [
+    "araba",
+    "polis arabası",
+    "yaklaşmakta olan polis arabası",
+    "oto"
+  ],
+  "oncoming_taxi": [
+    "taşıt",
+    "taksi",
+    "yaklaşan taksi"
+  ],
+  "one": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "rakam",
+    "bir"
+  ],
+  "one_piece_swimsuit": [
+    "mayo"
+  ],
+  "onion": [
+    "soğan"
+  ],
+  "open_book": [
+    "kitap",
+    "açık kitap"
+  ],
+  "open_hands": [
+    "işaret",
+    "el",
+    "eller",
+    "açık",
+    "eller açık",
+    "avuç içi",
+    "eller açık işareti"
+  ],
+  "open_mouth": [
+    "şaşırmış",
+    "ağzı açık",
+    "ah",
+    "şok olmuş",
+    "vay",
+    "açıkgöz"
+  ],
+  "ophiuchus": [
+    "zodyak",
+    "burçlar",
+    "yılancı",
+    "yılanbalığı"
+  ],
+  "optical_disk": [
+    "cd",
+    "disk"
+  ],
+  "orange_circle": [
+    "top",
+    "turuncu küre",
+    "küre",
+    "turuncu",
+    "turuncu top"
+  ],
+  "orange_heart": [
+    "portakal",
+    "kalp",
+    "turuncu kalp"
+  ],
+  "orange_square": [
+    "kare",
+    "turuncu"
+  ],
+  "orangutan": [
+    "maymun"
+  ],
+  "otter": [
+    "oyuncu",
+    "balık avlayan",
+    "su samuru"
+  ],
+  "owl": [
+    "kuş",
+    "baykuş"
+  ],
+  "ox": [
+    "burçlar",
+    "boğa burcu",
+    "öküz",
+    "boğa"
+  ],
+  "p_button": [
+    "p düğmesi",
+    "park yeri"
+  ],
+  "package": [
+    "kargo",
+    "paket"
+  ],
+  "pager": [
+    "telefon",
+    "çağrı cihazı"
+  ],
+  "pakistan": [
+    "bayrak",
+    "pk",
+    "pakistan bayrağı"
+  ],
+  "palestinian_territories": [
+    "bayrak",
+    "filistin",
+    "filistin bölgesi",
+    "ps"
+  ],
+  "palm_tree": [
+    "ağaç",
+    "palmiye",
+    "palmiye ağacı"
+  ],
+  "palms_up_together": [
+    "eller",
+    "dua etmek",
+    "ellerini aç",
+    "avuç içi",
+    "iki avuç açık",
+    "dua",
+    "dua eden eller",
+    "cuma"
+  ],
+  "pancakes": [
+    "yiyecek",
+    "krep",
+    "gözleme",
+    "pankek"
+  ],
+  "panda": [
+    "yüz",
+    "hayvan",
+    "panda yüzü"
+  ],
+  "paperclip": [
+    "ofis",
+    "ataş"
+  ],
+  "parachute": [
+    "paraşüt"
+  ],
+  "parrot": [
+    "kuş",
+    "papağan"
+  ],
+  "partying_face": [
+    "eğlence",
+    "kutlama",
+    "parti",
+    "partide eğlenen yüz",
+    "parti düdüğü"
+  ],
+  "passenger_ship": [
+    "taşıt",
+    "gemi",
+    "yolcu gemisi",
+    "yolcu"
+  ],
+  "passport_control": [
+    "sembol",
+    "pasaport kontrolü",
+    "gümrük"
+  ],
+  "paw_prints": [
+    "hayvan",
+    "iz",
+    "pençe izi"
+  ],
+  "peach": [
+    "meyve",
+    "şeftali"
+  ],
+  "peacock": [
+    "kuş",
+    "gururlu",
+    "tavus kuşu",
+    "dişi tavus kuşu",
+    "gösterişli"
+  ],
+  "peanuts": [
+    "sebze",
+    "fıstık",
+    "yiyecek",
+    "fındık",
+    "yer fıstığı"
+  ],
+  "pear": [
+    "meyve",
+    "armut"
+  ],
+  "penguin": [
+    "penguen",
+    "kuş"
+  ],
+  "pensive_face": [
+    "düşünceli",
+    "mutsuz",
+    "karamsar"
+  ],
+  "people_hugging": [
+    "güle güle",
+    "merhaba",
+    "selam",
+    "hoşçakal",
+    "sarılmak",
+    "sarılma",
+    "sağolun",
+    "hoşçakalın",
+    "kucaklaşan insanlar",
+    "teşekkür",
+    "sağol",
+    "teşekkürler"
+  ],
+  "people_with_bunny_ears": [
+    "dansçı",
+    "parti",
+    "tavşan kulaklar",
+    "tavşan kulaklı kişiler"
+  ],
+  "performing_arts": [
+    "eğlence",
+    "performans sanatı",
+    "sanat",
+    "performans",
+    "sahne sanatları"
+  ],
+  "persevering_face": [
+    "kararlı yüz",
+    "dayanıklı",
+    "zorlanan yüz"
+  ],
+  "person": [
+    "kişi",
+    "yetişkin"
+  ],
+  "person_bald": [
+    "saç",
+    "saç kesimi",
+    "kel",
+    "traşlı"
+  ],
+  "person_beard": [
+    "sakallı kişi",
+    "sakal"
+  ],
+  "person_biking": [
+    "bisikletçi",
+    "bisiklet"
+  ],
+  "person_blond_hair": [
+    "saç",
+    "sarı saçlı kişi",
+    "sarışın kişi",
+    "sarışın"
+  ],
+  "person_bouncing_ball": [
+    "top",
+    "top sektiren kişi"
+  ],
+  "person_bowing": [
+    "hareket",
+    "kişi",
+    "başını öne eğme",
+    "üzgünüm",
+    "eğilme"
+  ],
+  "person_climbing": [
+    "dağcı kişi"
+  ],
+  "person_curly_hair": [
+    "saç",
+    "saç kesimi",
+    "kıvırcık",
+    "kıvırcık saç"
+  ],
+  "person_facepalming": [
+    "yüz",
+    "çileden çıkma",
+    "avuç",
+    "inanmama",
+    "yüzünü eliyle kapama"
+  ],
+  "person_feeding_baby": [
+    "bakıcılık",
+    "emzirme",
+    "bebek",
+    "bebek emziren kişi",
+    "kişi"
+  ],
+  "person_fencing": [
+    "spor",
+    "eskrimci",
+    "eskrim"
+  ],
+  "person_frowning": [
+    "hareket",
+    "somurtma",
+    "kişi",
+    "somurtan kişi"
+  ],
+  "person_gesturing_no": [
+    "yüz",
+    "hareket",
+    "hayır",
+    "yasak",
+    "iyi değil",
+    "hayır hareketi"
+  ],
+  "person_gesturing_ok": [
+    "yüz",
+    "hareket",
+    "tamam hareketi",
+    "oldu"
+  ],
+  "person_getting_haircut": [
+    "saç kesimi",
+    "berber",
+    "makas"
+  ],
+  "person_getting_massage": [
+    "masaj",
+    "salon",
+    "yüz masajı",
+    "kafa masajı"
+  ],
+  "person_golfing": [
+    "golf klübü",
+    "golfçü",
+    "golf"
+  ],
+  "person_in_bed": [
+    "yatak",
+    "uyku",
+    "zzz",
+    "uyumak",
+    "uyuma yeri"
+  ],
+  "person_in_lotus_position": [
+    "yoga",
+    "meditasyon",
+    "nirvana",
+    "yogi",
+    "lotus",
+    "fitness",
+    "gym"
+  ],
+  "person_in_manual_wheelchair": [
+    "tekerlekli sandalye",
+    "erişilebilirlik",
+    "tekerlekli sandalyede kişi"
+  ],
+  "person_in_motorized_wheelchair": [
+    "tekerlekli sandalye"
+  ],
+  "person_in_steamy_room": [
+    "sauna",
+    "buhar odasındaki kişi",
+    "buhar odası"
+  ],
+  "person_in_suit_levitating": [
+    "erkek",
+    "iş",
+    "takım elbise",
+    "takım elbiseli adam",
+    "havalanan takım elbiseli adam",
+    "işadamı"
+  ],
+  "person_in_tuxedo": [
+    "adam",
+    "smokin",
+    "smokinli adam",
+    "damat"
+  ],
+  "person_kneeling": [
+    "dua etmek",
+    "diz çöken kişi",
+    "diz çöken",
+    "diz çökme"
+  ],
+  "person_lifting_weights": [
+    "ağırlık",
+    "badici",
+    "halter",
+    "kaldırmak",
+    "kaldırıcı",
+    "bodybuilder",
+    "ağırlık kaldırıcı"
+  ],
+  "person_playing_handball": [
+    "spor",
+    "hentbol"
+  ],
+  "person_pouting": [
+    "hareket",
+    "kişi",
+    "darılma",
+    "darılan kişi"
+  ],
+  "person_raising_hand": [
+    "hareket",
+    "elini kaldırma",
+    "kişi",
+    "mutlu",
+    "el kaldıran kişi",
+    "kalkan el"
+  ],
+  "person_red_hair": [
+    "saç",
+    "saç kesimi",
+    "kızıl saç"
+  ],
+  "person_running": [
+    "spor",
+    "maraton",
+    "koşu",
+    "koşan kişi"
+  ],
+  "person_shrugging": [
+    "omuz silkme",
+    "kararsız",
+    "ilgisizlik",
+    "bilmeme"
+  ],
+  "person_standing": [
+    "ayakta durmak",
+    "ayakta duran",
+    "ayakta duran kişi",
+    "ayakta durma"
+  ],
+  "person_swimming": [
+    "yüzme"
+  ],
+  "person_taking_bath": [
+    "banyo",
+    "küvet"
+  ],
+  "person_tipping_hand": [
+    "kişiler",
+    "bilgilendirme",
+    "yardım",
+    "elini yana yatırma"
+  ],
+  "person_walking": [
+    "yaya",
+    "yürümek",
+    "yürüme",
+    "yürüyen"
+  ],
+  "person_wearing_turban": [
+    "türbanlı",
+    "türban"
+  ],
+  "person_white_hair": [
+    "saç",
+    "saç kesimi",
+    "ak saç",
+    "beyaz saç"
+  ],
+  "person_with_crown": [
+    "kraliçe"
+  ],
+  "person_with_skullcap": [
+    "kişiler",
+    "gua pi mao",
+    "gua pi mao takan erkek",
+    "çin şapkalı erkek"
+  ],
+  "person_with_veil": [
+    "kişiler",
+    "duvak",
+    "evlilik",
+    "gelin",
+    "duvaklı gelin"
+  ],
+  "person_with_white_cane": [
+    "beyaz baston",
+    "görme engelli",
+    "kör"
+  ],
+  "pick": [
+    "alet",
+    "çekiç",
+    "araç"
+  ],
+  "pie": [
+    "poğaça",
+    "pasta",
+    "tart"
+  ],
+  "pig": [
+    "domuz"
+  ],
+  "pig_face": [
+    "hayvan",
+    "domuz",
+    "domuz yüzü"
+  ],
+  "pig_nose": [
+    "burun",
+    "domuz",
+    "domuz burnu"
+  ],
+  "pill": [
+    "doktor",
+    "reçete",
+    "hap",
+    "medikal",
+    "ilaç",
+    "tedavi",
+    "tıbbi"
+  ],
+  "pilot": [
+    "uçak"
+  ],
+  "pinched_fingers": [
+    "kıstırma hareketi yapan parmaklar",
+    "bravo",
+    "harika",
+    "parmaklar",
+    "lezzetli",
+    "çok güzel"
+  ],
+  "pinching_hand": [
+    "bir tutam",
+    "kıstırma hareketi yapan el",
+    "azıcık"
+  ],
+  "pine_decoration": [
+    "kutlama",
+    "japon",
+    "yeni yıl",
+    "çam",
+    "çam süsleme"
+  ],
+  "pineapple": [
+    "meyve",
+    "ananas"
+  ],
+  "ping_pong": [
+    "spor",
+    "top",
+    "masa tenisi",
+    "maç",
+    "raket",
+    "pinpon"
+  ],
+  "pirate_flag": [
+    "korsan",
+    "yağmacı",
+    "hazine",
+    "korsan bayrağı"
+  ],
+  "pizza": [
+    "restoran",
+    "dilim",
+    "pizza dilimi"
+  ],
+  "play_button": [
+    "sağ",
+    "düğme",
+    "ileri ok",
+    "oynatma düğmesi"
+  ],
+  "playground_slide": [
+    "kaydırak"
+  ],
+  "pleading_face": [
+    "merhamet",
+    "acıklı bakışlar",
+    "ağlamak üzere",
+    "yalvarma",
+    "yalvaran yüz"
+  ],
+  "plunger": [
+    "pompa"
+  ],
+  "poland": [
+    "bayrak",
+    "polonya",
+    "pl",
+    "bayrak_pl"
+  ],
+  "polar_bear": [
+    "hayvan",
+    "panda"
+  ],
+  "police_car": [
+    "araba",
+    "polis arabası"
+  ],
+  "police_car_light": [
+    "polis lambası",
+    "polis tepe lambası"
+  ],
+  "police_officer": [
+    "polis",
+    "asker",
+    "subay"
+  ],
+  "poodle": [
+    "hayvan",
+    "köpek",
+    "kaniş"
+  ],
+  "pool_8_ball": [
+    "top",
+    "sekiz",
+    "bilardo",
+    "oyun",
+    "sekiz top"
+  ],
+  "poop": [
+    "pislik",
+    "dışkı",
+    "bok",
+    "kaka yığını",
+    "kaka"
+  ],
+  "popcorn": [
+    "mısır",
+    "patlamış mısır"
+  ],
+  "portugal": [
+    "bayrak",
+    "portekiz bayrağı",
+    "portekiz",
+    "pt"
+  ],
+  "postbox": [
+    "posta",
+    "posta kutusu"
+  ],
+  "pot_of_food": [
+    "restoran",
+    "tencere yemeği",
+    "yemek tenceresi"
+  ],
+  "potato": [
+    "sebze",
+    "yiyecek",
+    "patates"
+  ],
+  "potted_plant": [
+    "bitki",
+    "saksı bitkisi",
+    "ev",
+    "saksı",
+    "ev bitkisi",
+    "yetiştirme"
+  ],
+  "poultry_leg": [
+    "restoran",
+    "tavuk",
+    "but",
+    "tavuk butu"
+  ],
+  "pound_banknote": [
+    "döviz",
+    "para",
+    "sterlin",
+    "banknot",
+    "pound"
+  ],
+  "pouting_cat": [
+    "kedi yüzü",
+    "kedi",
+    "somurtma",
+    "somurtan kedi yüzü"
+  ],
+  "prayer_beads": [
+    "tesbih",
+    "boncuk",
+    "tespih"
+  ],
+  "pregnant_man": [
+    "hamile adam",
+    "hamile",
+    "hamile erkek"
+  ],
+  "pregnant_person": [
+    "hamile",
+    "hamile kişi",
+    "hamile insan"
+  ],
+  "pregnant_woman": [
+    "anne",
+    "kadın",
+    "hamile"
+  ],
+  "pretzel": [
+    "burgu"
+  ],
+  "prince": [
+    "taç",
+    "kral",
+    "prens"
+  ],
+  "princess": [
+    "kişiler",
+    "peri masalı",
+    "kraliçe",
+    "taç",
+    "prenses"
+  ],
+  "printer": [
+    "yazıcı",
+    "yazdır"
+  ],
+  "purple_circle": [
+    "top",
+    "mor",
+    "küre",
+    "mor top",
+    "mor küre"
+  ],
+  "purple_heart": [
+    "kalp"
+  ],
+  "purple_square": [
+    "mor",
+    "kare"
+  ],
+  "purse": [
+    "çanta",
+    "cüzdan",
+    "bozuk para çantası"
+  ],
+  "puzzle_piece": [
+    "oyun",
+    "yapboz",
+    "parça",
+    "bilmece"
+  ],
+  "qatar": [
+    "bayrak",
+    "katar",
+    "katar bayrağı",
+    "qa"
+  ],
+  "rabbit": [
+    "hayvan",
+    "tavşan"
+  ],
+  "rabbit_face": [
+    "yüz",
+    "hayvan",
+    "tavşan yüzü",
+    "tavşan"
+  ],
+  "raccoon": [
+    "rakun"
+  ],
+  "racing_car": [
+    "araba",
+    "yarış",
+    "yarış arabası"
+  ],
+  "radio": [
+    "radyo"
+  ],
+  "radio_button": [
+    "radyo",
+    "düğme",
+    "radyo düğmesi"
+  ],
+  "railway_car": [
+    "demiryolu",
+    "taşıt",
+    "tren",
+    "vagon",
+    "tramvay",
+    "elektrik",
+    "elektrikli tren"
+  ],
+  "rainbow": [
+    "hava durumu",
+    "yağmur",
+    "gökkuşağı"
+  ],
+  "rainbow_flag": [
+    "bayrak",
+    "gökkuşağı bayrağı",
+    "gökkuşağı",
+    "lgbti"
+  ],
+  "raised_back_of_hand": [
+    "kaldırma",
+    "elinin tersini kaldırma",
+    "elinin tersi",
+    "beş"
+  ],
+  "raised_fist": [
+    "havada yumruk",
+    "yumruk kaldırma"
+  ],
+  "raised_hand": [
+    "el kaldırma",
+    "selam",
+    "havada el"
+  ],
+  "raising_hands": [
+    "kutlama",
+    "bravo",
+    "eller",
+    "ellerini kaldırmış",
+    "kutlamak için iki eli birden kaldırma",
+    "eller havaya",
+    "her iki el"
+  ],
+  "ram": [
+    "burç",
+    "koç"
+  ],
+  "rat": [
+    "sıçan"
+  ],
+  "razor": [
+    "tıraş makinesi",
+    "jilet",
+    "bıçak ağzı",
+    "tıraş"
+  ],
+  "receipt": [
+    "fatura",
+    "makbuz",
+    "fiş"
+  ],
+  "record_button": [
+    "kayıt düğmesi"
+  ],
+  "red_apple": [
+    "elma",
+    "meyve",
+    "kırmızı"
+  ],
+  "red_circle": [
+    "top",
+    "küre",
+    "kırmızı top",
+    "kırmızı küre"
+  ],
+  "red_paper_lantern": [
+    "restoran",
+    "bar",
+    "kırmızı",
+    "fener",
+    "izakaya",
+    "kırmızı kağıt fener"
+  ],
+  "red_question_mark": [
+    "soru",
+    "işaret",
+    "noktalama",
+    "soru işareti"
+  ],
+  "red_square": [
+    "kırmızı",
+    "kare"
+  ],
+  "red_triangle_pointed_down": [
+    "kırmızı",
+    "aşağı kırmızı üçgen",
+    "üçgen",
+    "aşağı bakan kırmızı üçgen"
+  ],
+  "red_triangle_pointed_up": [
+    "yukarı bakan kırmızı üçgen",
+    "kırmızı",
+    "yukarı kırmızı üçgen",
+    "üçgen"
+  ],
+  "registered": [
+    "tescilli",
+    "kayıtlı"
+  ],
+  "relieved_face": [
+    "rahatlamış yüz",
+    "rahatlama"
+  ],
+  "reminder_ribbon": [
+    "etkinlik",
+    "anma kurdelesi",
+    "kurdele",
+    "anma"
+  ],
+  "rescue_worker_s_helmet": [
+    "yüz",
+    "kask",
+    "haç",
+    "şapka",
+    "yardım",
+    "yardım ekibi kaskı"
+  ],
+  "restroom": [
+    "wc",
+    "lavabo",
+    "tuvalet"
+  ],
+  "revolving_hearts": [
+    "kalp"
+  ],
+  "rhinoceros": [
+    "hayvan",
+    "gergedan"
+  ],
+  "ribbon": [
+    "etkinlik",
+    "olay",
+    "kurdele"
+  ],
+  "rice_ball": [
+    "restoran",
+    "pirinç",
+    "pirinç topu"
+  ],
+  "rice_cracker": [
+    "asya",
+    "pirinç",
+    "pirinç gevreği"
+  ],
+  "right_facing_fist": [
+    "yumruk",
+    "sağa doğru",
+    "sağa bakan yumruk"
+  ],
+  "rightwards_hand": [
+    "el"
+  ],
+  "ring": [
+    "yüzük",
+    "tek taş"
+  ],
+  "ring_buoy": [
+    "can simidi"
+  ],
+  "ringed_planet": [
+    "gezegen",
+    "satürn"
+  ],
+  "roasted_sweet_potato": [
+    "restoran",
+    "fırınlanmış patates",
+    "tatlı patates",
+    "fırınlanmış tatlı patates",
+    "tırınlanmış",
+    "tatlı"
+  ],
+  "robot": [
+    "bot",
+    "robot suratı"
+  ],
+  "rock": [
+    "kaya",
+    "taş"
+  ],
+  "rocket": [
+    "roket",
+    "uzay"
+  ],
+  "rofl": [
+    "gülmekten ağlamak",
+    "gülme",
+    "gülmekten yerlere yuvarlanmış",
+    "gülmekten yerlere yatma"
+  ],
+  "roll_eyes": [
+    "gözlerini deviren yüz",
+    "yuvarlanma"
+  ],
+  "roll_of_paper": [
+    "tuvalet kağıdı",
+    "tuvalet"
+  ],
+  "rolled_up_newspaper": [
+    "gazete",
+    "rulo yapılmış gazete"
+  ],
+  "romania": [
+    "bayrak",
+    "romanya",
+    "romanya bayrağı",
+    "ro"
+  ],
+  "rooster": [
+    "horoz",
+    "kuş"
+  ],
+  "rose": [
+    "çiçek",
+    "bitki",
+    "gül"
+  ],
+  "rosette": [
+    "bitki",
+    "çiçek rozet",
+    "gülce"
+  ],
+  "rugby_football": [
+    "spor",
+    "top",
+    "ragbi futbolu",
+    "ragbi"
+  ],
+  "running_shirt": [
+    "spor",
+    "koşu tişörtü",
+    "koşu",
+    "çizgi",
+    "tişört",
+    "çizgili koşu tişörtü"
+  ],
+  "running_shoe": [
+    "ayakkabı",
+    "giyim",
+    "bez ayakkabı",
+    "koşu ayakkabısı"
+  ],
+  "russia": [
+    "bayrak",
+    "rusya federasyonu",
+    "ru",
+    "rusya"
+  ],
+  "sad_but_relieved_face": [
+    "canı sıkkın ama rahatlamış",
+    "canı sıkkın",
+    "rahatlamış",
+    "üzgün ama rahatlamış yüz"
+  ],
+  "safety_pin": [
+    "iğne",
+    "çengelli iğne"
+  ],
+  "safety_vest": [
+    "can yeleği",
+    "yelek"
+  ],
+  "sake": [
+    "restoran",
+    "bar",
+    "şişe",
+    "içecek",
+    "fincan",
+    "sake şişesi ve fincanı"
+  ],
+  "salt": [
+    "yiyecek",
+    "tuzluk",
+    "tuz"
+  ],
+  "sandwich": [
+    "sandviç",
+    "ekmek"
+  ],
+  "santa_claus": [
+    "kutlama",
+    "yılbaşı",
+    "noel",
+    "noel baba"
+  ],
+  "sari": [
+    "elbise",
+    "giysi"
+  ],
+  "satellite": [
+    "uzay",
+    "uydu",
+    "yörüngede uydu"
+  ],
+  "satellite_antenna": [
+    "bilim",
+    "anten",
+    "uydu",
+    "uydu anteni"
+  ],
+  "saudi_arabia": [
+    "bayrak",
+    "arabistan",
+    "sa",
+    "suudi arabistan bayrağı",
+    "suudi arabistan"
+  ],
+  "sauropod": [
+    "dinozor"
+  ],
+  "saxophone": [
+    "müzik",
+    "alet",
+    "caz",
+    "müzik aleti",
+    "enstrüman",
+    "saksafon"
+  ],
+  "scarf": [
+    "atkı",
+    "kaşkol"
+  ],
+  "school": [
+    "yapı",
+    "okul"
+  ],
+  "scientist": [
+    "biyolog",
+    "fizikçi",
+    "bilim insanı",
+    "kimyacı",
+    "kimyager"
+  ],
+  "scissors": [
+    "makas",
+    "kesmek"
+  ],
+  "scorpion": [
+    "burç",
+    "akrep"
+  ],
+  "scream": [
+    "korkunç",
+    "korku",
+    "korku içinde bağıran yüz",
+    "korkmuş",
+    "korkuyla haykıran yüz",
+    "korkuyla çığlık atan yüz"
+  ],
+  "screwdriver": [
+    "alet",
+    "tornavida"
+  ],
+  "seal": [
+    "hayvan",
+    "fok"
+  ],
+  "seat": [
+    "koltuk",
+    "uçak koltuğu"
+  ],
+  "see_no_evil_monkey": [
+    "maymun",
+    "görmedim",
+    "görmeyen maymun"
+  ],
+  "seedling": [
+    "fide",
+    "genç",
+    "filizlenme"
+  ],
+  "selfie": [
+    "el",
+    "telefon",
+    "kamera",
+    "selfie çekmek",
+    "özçekim"
+  ],
+  "serbia": [
+    "bayrak",
+    "sırbistan bayrağı",
+    "sırbistan",
+    "rs"
+  ],
+  "service_dog": [
+    "erişilebilirlik",
+    "köpek",
+    "yardımcı köpek",
+    "yardım",
+    "rehberlik"
+  ],
+  "seven": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "yedi"
+  ],
+  "sewing_needle": [
+    "iğne",
+    "terzi",
+    "dikiş iğnesi",
+    "dikme",
+    "dikiş",
+    "sökük",
+    "nakış"
+  ],
+  "shallow_pan_of_food": [
+    "yiyecek",
+    "sahanda yemek",
+    "paella",
+    "küçük",
+    "tava",
+    "güveç"
+  ],
+  "shamrock": [
+    "bitki",
+    "yonca"
+  ],
+  "shark": [
+    "köpek balığı"
+  ],
+  "shaved_ice": [
+    "restoran",
+    "buz",
+    "meyveli"
+  ],
+  "sheaf_of_rice": [
+    "pirinç",
+    "pirinç başağı",
+    "başak",
+    "pirinç bitkisi"
+  ],
+  "shinto_shrine": [
+    "din",
+    "japonya",
+    "şinto tapınağı"
+  ],
+  "ship": [
+    "gemi"
+  ],
+  "shopping_bags": [
+    "alışveriş",
+    "alışveriş çantası"
+  ],
+  "shopping_cart": [
+    "sepet",
+    "alışveriş",
+    "alışveriş arabası"
+  ],
+  "shortcake": [
+    "restoran",
+    "dilim pasta",
+    "pasta",
+    "pasta dilimi"
+  ],
+  "shorts": [
+    "şort"
+  ],
+  "shower": [
+    "duş"
+  ],
+  "shrimp": [
+    "yiyecek",
+    "karides",
+    "küçük",
+    "kabuklu deniz hayvanı"
+  ],
+  "shushing_face": [
+    "sessiz ol",
+    "sus işareti yapan yüz",
+    "sessiz",
+    "şişt"
+  ],
+  "sign_of_the_horns": [
+    "beden",
+    "el",
+    "parmak",
+    "rock",
+    "boynuz",
+    "boynuz işareti"
+  ],
+  "singer": [
+    "sanatçı",
+    "şarkıcı",
+    "artist"
+  ],
+  "six": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "altı"
+  ],
+  "skateboard": [
+    "tahta",
+    "kaykay"
+  ],
+  "skier": [
+    "kar",
+    "kayak",
+    "kayakçı"
+  ],
+  "skis": [
+    "spor",
+    "kayak",
+    "bot",
+    "kayak ve bot"
+  ],
+  "skull": [
+    "kafatası",
+    "kemik",
+    "iskelet"
+  ],
+  "skull_and_crossbones": [
+    "kafatası",
+    "kemik",
+    "iskelet",
+    "ölüm tehlikesi"
+  ],
+  "skunk": [
+    "hayvan",
+    "kokarca"
+  ],
+  "sled": [
+    "kızak"
+  ],
+  "sleeping_face": [
+    "uyuyan yüz",
+    "uyku",
+    "uykulu yüz",
+    "uykulu"
+  ],
+  "sleepy_face": [
+    "üzgün ama uykulu",
+    "uykulu yüz",
+    "uykulu ama üzgün"
+  ],
+  "slightly_frowning_face": [
+    "üzgün",
+    "asık surat",
+    "kasvetli",
+    "biraz asık surat"
+  ],
+  "slightly_smiling_face": [
+    "gülümseme",
+    "gülme",
+    "mutlu",
+    "hafifçe gülümseyen yüz"
+  ],
+  "slot_machine": [
+    "kumar",
+    "kumar makinesi",
+    "şans",
+    "oyun",
+    "777",
+    "kumarhane"
+  ],
+  "sloth": [
+    "tembel",
+    "tembellik",
+    "yavaş"
+  ],
+  "slovenia": [
+    "bayrak",
+    "si",
+    "slovenya",
+    "slovenya bayrağı"
+  ],
+  "small_blue_diamond": [
+    "mavi",
+    "karo",
+    "küçük mavi karo"
+  ],
+  "small_orange_diamond": [
+    "turuncu",
+    "karo",
+    "küçük turuncu karo"
+  ],
+  "smiley": [
+    "gülümseme",
+    "gülmek",
+    "gülme",
+    "gülen yüz",
+    "mutlu",
+    "neşeli yüz",
+    "sırıtmak",
+    "ağzı açık gülen yüz",
+    "ağzı açık sırıtma",
+    "gülücük"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "kedi yüzü",
+    "kalp",
+    "aşk",
+    "gözleri gülümseyen ve kalp şeklinde gözleri olan kedi",
+    "aşık",
+    "kalp gözlü gülümseyen kedi"
+  ],
+  "smiling_face": [
+    "boş gülen",
+    "rahatlamış",
+    "sakin",
+    "rahat"
+  ],
+  "smiling_face_with_horns": [
+    "gülümseme",
+    "kötülük",
+    "boynuz",
+    "mutlu",
+    "boynuzlu gülen yüz",
+    "şeytan"
+  ],
+  "smiling_face_with_sunglasses": [
+    "gülümseme",
+    "soğukkanlı",
+    "güneş gözlükleri",
+    "cool",
+    "güneş gözlüklü gülümseme",
+    "güneş gözlükleriyle gülümseme",
+    "soğukkanlı yüz"
+  ],
+  "smiling_face_with_tear": [
+    "gözyaşı",
+    "mutlu gözyaşı",
+    "mutluluk",
+    "mutluluktan ağlama"
+  ],
+  "smiling_face_with_three_hearts": [
+    "hayranlık",
+    "3 kalpli",
+    "aşk",
+    "aşık olma",
+    "çarpılma",
+    "ponçik",
+    "3 kalpli gülümseyen yüz"
+  ],
+  "smirking_face": [
+    "yapmacık gülümseyen",
+    "imalı gülümseme",
+    "yapmacık gülümseyen yüz"
+  ],
+  "snail": [
+    "salyangoz",
+    "yavaş",
+    "sümüklü böcek"
+  ],
+  "snake": [
+    "hayvan",
+    "yılan"
+  ],
+  "sneezing_face": [
+    "çok yaşa",
+    "hapşıran yüz",
+    "hapşırma"
+  ],
+  "snow_capped_mountain": [
+    "karla kaplı dağ",
+    "dağ"
+  ],
+  "snowboarder": [
+    "spor",
+    "snowbordçu",
+    "snowboard yapmak",
+    "snowboard"
+  ],
+  "snowflake": [
+    "kar",
+    "kar tanesi"
+  ],
+  "snowman": [
+    "kardan adam"
+  ],
+  "snowman_without_snow": [
+    "kardan adam"
+  ],
+  "soap": [
+    "banyo",
+    "sabun",
+    "duş",
+    "kalıp sabun"
+  ],
+  "sob": [
+    "gözyaşı",
+    "avaz avaz ağlayan yüz",
+    "ağlama",
+    "hıçkırık",
+    "ağlamak"
+  ],
+  "soccer_ball": [
+    "top",
+    "futbol"
+  ],
+  "socks": [
+    "çorap"
+  ],
+  "soft_ice_cream": [
+    "restoran",
+    "krema",
+    "dondurma",
+    "yumuşak dondurma"
+  ],
+  "softball": [
+    "top",
+    "eldiven"
+  ],
+  "sos_button": [
+    "işaret",
+    "yardım",
+    "sos",
+    "sos işareti",
+    "sos düğmesi"
+  ],
+  "south_africa": [
+    "bayrak",
+    "za",
+    "güney afrika",
+    "güney afrika bayrağı"
+  ],
+  "south_korea": [
+    "bayrak",
+    "kore",
+    "kr",
+    "güney kore"
+  ],
+  "spade_suit": [
+    "iskambil",
+    "kart",
+    "maça",
+    "pik"
+  ],
+  "spaghetti": [
+    "restoran",
+    "spagetti",
+    "makarna"
+  ],
+  "spain": [
+    "bayrak",
+    "es",
+    "ispanya bayrağı",
+    "ispanya"
+  ],
+  "sparkle": [
+    "parlama"
+  ],
+  "sparkles": [
+    "parıltılar",
+    "parıldayan yıldızlar",
+    "yıldızlar",
+    "pırıltı"
+  ],
+  "sparkling_heart": [
+    "kalp"
+  ],
+  "speak_no_evil_monkey": [
+    "maymun",
+    "bilmiyorum",
+    "söylemeyen maymun",
+    "konuşmayan maymun"
+  ],
+  "speaking_head": [
+    "yüz",
+    "kafa",
+    "konuşma",
+    "siluet",
+    "bağırma",
+    "profil",
+    "konuşan kişi"
+  ],
+  "speech_balloon": [
+    "konuşma balonu",
+    "konuşma",
+    "sohbet balonu",
+    "sohbet"
+  ],
+  "speedboat": [
+    "taşıt",
+    "sürat teknesi",
+    "tekne"
+  ],
+  "spider": [
+    "böcek",
+    "örümcek"
+  ],
+  "spider_web": [
+    "örümcek",
+    "örümcek ağı"
+  ],
+  "spiral_shell": [
+    "hayvan",
+    "deniz kabuğu",
+    "spiral deniz kabuğu"
+  ],
+  "sponge": [
+    "banyo",
+    "sünger"
+  ],
+  "spoon": [
+    "yemek takımı",
+    "kaşık"
+  ],
+  "sport_utility_vehicle": [
+    "araba",
+    "taşıt",
+    "suv",
+    "eğlence taşıtı",
+    "cip",
+    "spor hizmet aracı"
+  ],
+  "sports_medal": [
+    "spor",
+    "şampiyon",
+    "madalya",
+    "spor madalyası"
+  ],
+  "spouting_whale": [
+    "hayvan",
+    "su püskürten",
+    "balina",
+    "su püskürten balina"
+  ],
+  "squid": [
+    "yiyecek",
+    "mürekkep balığı",
+    "yumuşakçalar sınıfı"
+  ],
+  "squinting_face_with_tongue": [
+    "yüz",
+    "gözler kapalı",
+    "dil dışarıda ve gözler kapalı",
+    "dil dışarıda",
+    "gözler kapalı ve dil dışarıda"
+  ],
+  "stadium": [
+    "stadyum"
+  ],
+  "star": [
+    "beyaz orta yıldız",
+    "yıldız"
+  ],
+  "star_struck": [
+    "gülen yıldız",
+    "yıldız",
+    "sırıtan yıldız"
+  ],
+  "station": [
+    "demiryolu",
+    "istasyon",
+    "tren"
+  ],
+  "statue_of_liberty": [
+    "özgürlük",
+    "özgürlük heykeli"
+  ],
+  "steaming_bowl": [
+    "restoran",
+    "tabak",
+    "buharda pişmiş",
+    "erişte",
+    "noodle tabağı",
+    "noodle"
+  ],
+  "stethoscope": [
+    "stetoskop"
+  ],
+  "stopwatch": [
+    "saat",
+    "kronometre"
+  ],
+  "strawberry": [
+    "meyve",
+    "çilek",
+    "yumuşak meyve"
+  ],
+  "student": [
+    "öğrenci",
+    "mezun",
+    "talebe"
+  ],
+  "studio_microphone": [
+    "radyo",
+    "mikrofon",
+    "stüdyo mikrofonu"
+  ],
+  "stuffed_flatbread": [
+    "yiyecek",
+    "falafel",
+    "kebap",
+    "pide",
+    "sarma",
+    "dürüm",
+    "döner",
+    "salata"
+  ],
+  "sun": [
+    "güneşli",
+    "güneş"
+  ],
+  "sun_behind_cloud": [
+    "bulut",
+    "kısmen güneşli",
+    "güneş bulutun arkasında"
+  ],
+  "sun_behind_large_cloud": [
+    "hava durumu",
+    "güneş",
+    "bulut",
+    "bulutta kaybolan güneş"
+  ],
+  "sun_behind_rain_cloud": [
+    "hava durumu",
+    "güneş",
+    "yağmur",
+    "bulut",
+    "yağmur bulutunun arkasındaki güneş"
+  ],
+  "sun_behind_small_cloud": [
+    "hava durumu",
+    "güneş",
+    "bulut",
+    "bulutun arkasındaki güneş"
+  ],
+  "sun_with_face": [
+    "yüz",
+    "güneş"
+  ],
+  "sunflower": [
+    "çiçek",
+    "bitki",
+    "güneş",
+    "ayçiçeği"
+  ],
+  "sunglasses": [
+    "gözlük",
+    "koyu güneş gözlüğü"
+  ],
+  "sunrise": [
+    "günaydın",
+    "sabah",
+    "gündoğumu",
+    "yaz"
+  ],
+  "sunset": [
+    "gün batımı",
+    "alacakaranlık"
+  ],
+  "superhero": [
+    "süper kahraman",
+    "kahraman",
+    "hero"
+  ],
+  "supervillain": [
+    "süper kötü",
+    "kötü adam"
+  ],
+  "sushi": [
+    "restoran",
+    "suşi"
+  ],
+  "suspension_railway": [
+    "demiryolu",
+    "asma demiryolu"
+  ],
+  "swan": [
+    "kuş",
+    "kuğu"
+  ],
+  "sweat_droplets": [
+    "çizgi roman",
+    "ter damlası",
+    "duygu",
+    "terli",
+    "ter"
+  ],
+  "sweat_smile": [
+    "gülümseme",
+    "ağzı açık gülümseme",
+    "gülmek",
+    "soğuk terli",
+    "soğuk ter",
+    "ter gülümsemesi",
+    "gülmekten terlemiş"
+  ],
+  "switzerland": [
+    "bayrak",
+    "isviçre",
+    "isviçre bayrağı",
+    "ch"
+  ],
+  "synagogue": [
+    "havra",
+    "yapı",
+    "din",
+    "sinagog"
+  ],
+  "syria": [
+    "bayrak",
+    "suriye",
+    "suriye arap cumhuriyeti",
+    "sy"
+  ],
+  "syringe": [
+    "doktor",
+    "şırınga",
+    "tıp",
+    "ilaç",
+    "tedavi"
+  ],
+  "t_rex": [
+    "trex",
+    "dinazor"
+  ],
+  "t_shirt": [
+    "giyim",
+    "tişört",
+    "gömlek"
+  ],
+  "taco": [
+    "meksika sandviçi",
+    "tako"
+  ],
+  "tada": [
+    "etkinlik",
+    "kutlama",
+    "tebrikler",
+    "etkinlikler",
+    "yaşasın"
+  ],
+  "takeout_box": [
+    "yiyecek paketi"
+  ],
+  "tamale": [
+    "dürüm",
+    "meksika yemeği"
+  ],
+  "tanabata_tree": [
+    "kutlama",
+    "ağaç",
+    "tanabata ağacı",
+    "star festivali",
+    "kağıt şeritler"
+  ],
+  "tangerine": [
+    "meyve",
+    "portakal",
+    "mandalina"
+  ],
+  "taurus": [
+    "burçlar",
+    "boğa burcu"
+  ],
+  "taxi": [
+    "araba",
+    "taksi",
+    "otomobil"
+  ],
+  "teacher": [
+    "öğretmen",
+    "profesör",
+    "eğitimci",
+    "doçent"
+  ],
+  "teacup_without_handle": [
+    "çay",
+    "içecek",
+    "çay fincanı"
+  ],
+  "teapot": [
+    "çay",
+    "çaydanlık",
+    "demlik"
+  ],
+  "technologist": [
+    "geliştirici",
+    "mucit",
+    "yazılım",
+    "kodlayıcı",
+    "teknoloji uzmanı",
+    "yazılımcı",
+    "teknolog"
+  ],
+  "teddy_bear": [
+    "oyuncak",
+    "oyuncak ayı",
+    "ayı"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "telefon",
+    "ahize",
+    "arama"
+  ],
+  "telescope": [
+    "bilim",
+    "astronomi",
+    "teleskop"
+  ],
+  "television": [
+    "televizyon",
+    "film",
+    "tv",
+    "ekran"
+  ],
+  "ten": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "on"
+  ],
+  "tennis": [
+    "spor",
+    "tenis",
+    "tenis topu"
+  ],
+  "tent": [
+    "çadır",
+    "kamp"
+  ],
+  "test_tube": [
+    "bilim",
+    "deney",
+    "tüp",
+    "deney tüpü",
+    "kimya"
+  ],
+  "thermometer": [
+    "derece",
+    "termometre"
+  ],
+  "thinking": [
+    "düşünen",
+    "düşünceli",
+    "hımm",
+    "düşünen yüz",
+    "düşünceli surat"
+  ],
+  "thong_sandal": [
+    "plaj terliği",
+    "flip flops",
+    "sandalet",
+    "parmak arası",
+    "terlik"
+  ],
+  "thread": [
+    "iğne",
+    "makara",
+    "iplik",
+    "dikiş"
+  ],
+  "three": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "üç"
+  ],
+  "three_thirty": [
+    "saat",
+    "üç buçuk",
+    "3.30"
+  ],
+  "ticket": [
+    "etkinlik",
+    "eğlence",
+    "bilet"
+  ],
+  "tiger": [
+    "kaplan"
+  ],
+  "tiger_face": [
+    "yüz",
+    "kaplan",
+    "kaplan yüzü"
+  ],
+  "timer_clock": [
+    "saat",
+    "zamanlayıcı",
+    "alarm"
+  ],
+  "tired_face": [
+    "yorulmuş",
+    "yorgun yüz"
+  ],
+  "toilet": [
+    "klozet",
+    "tuvalet"
+  ],
+  "tokyo_tower": [
+    "yapı",
+    "tokyo kulesi"
+  ],
+  "tomato": [
+    "sebze",
+    "domates"
+  ],
+  "tongue": [
+    "tat",
+    "yüz",
+    "gövde",
+    "dil"
+  ],
+  "tooth": [
+    "diş",
+    "diş hekimi",
+    "dişçi"
+  ],
+  "toothbrush": [
+    "diş fırçası"
+  ],
+  "top_hat": [
+    "eğlence",
+    "şapka",
+    "silindir şapka"
+  ],
+  "tornado": [
+    "hortum",
+    "bulut ile hortum"
+  ],
+  "tractor": [
+    "traktör"
+  ],
+  "trade_mark": [
+    "tm",
+    "marka",
+    "ticari marka"
+  ],
+  "train": [
+    "demiryolu",
+    "tren",
+    "hızlı tren"
+  ],
+  "tram": [
+    "demiryolu",
+    "tren",
+    "tramvay"
+  ],
+  "tram_car": [
+    "tramvay vagonu",
+    "tramvay"
+  ],
+  "triangular_flag": [
+    "işaret",
+    "üçgen bayrak",
+    "konum",
+    "konum bilgisi işareti",
+    "üçgen işaret",
+    "üçgen konum işareti"
+  ],
+  "troll": [
+    "trol"
+  ],
+  "trolleybus": [
+    "taşıt",
+    "otobüs",
+    "troleybüs",
+    "troley"
+  ],
+  "trophy": [
+    "spor",
+    "zafer kupası",
+    "şampiyon",
+    "ödül"
+  ],
+  "tropical_drink": [
+    "restoran",
+    "bar",
+    "kokteyl",
+    "içecek",
+    "tropik"
+  ],
+  "tropical_fish": [
+    "hayvan",
+    "balık",
+    "tropikal balık"
+  ],
+  "trumpet": [
+    "müzik",
+    "alet",
+    "caz",
+    "müzik aleti",
+    "trompet"
+  ],
+  "tulip": [
+    "çiçek",
+    "bitki",
+    "lale"
+  ],
+  "tumbler_glass": [
+    "kısa ve geniş bardak",
+    "bardak",
+    "kısa ve geniş",
+    "likör",
+    "viski",
+    "tek içki"
+  ],
+  "turkey": [
+    "hindi"
+  ],
+  "turtle": [
+    "yavaş",
+    "kamlumbağa",
+    "tosbağa"
+  ],
+  "twelve_o_clock": [
+    "saat",
+    "12:00",
+    "saat 12",
+    "on iki"
+  ],
+  "two": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "iki"
+  ],
+  "two_hearts": [
+    "kalp"
+  ],
+  "two_hump_camel": [
+    "hayvan",
+    "deve",
+    "hörgüç",
+    "iki hörgüçlü deve"
+  ],
+  "türkiye": [
+    "bayrak",
+    "bayrak_tr",
+    "türk bayrağı",
+    "tr"
+  ],
+  "ukraine": [
+    "bayrak",
+    "ukrayna",
+    "ua"
+  ],
+  "umbrella": [
+    "şemsiye"
+  ],
+  "umbrella_on_ground": [
+    "şemsiye"
+  ],
+  "umbrella_with_rain_drops": [
+    "yağmur",
+    "şemsiye"
+  ],
+  "unamused_face": [
+    "mutsuz",
+    "keyifsiz yüz"
+  ],
+  "unicorn": [
+    "yüz",
+    "tek boynuz",
+    "tek boynuzlu at yüzü"
+  ],
+  "united_arab_emirates": [
+    "bayrak",
+    "ae",
+    "uae",
+    "birleşik arap emirliği",
+    "emirlik"
+  ],
+  "united_kingdom": [
+    "bayrak",
+    "ingiltere",
+    "gb",
+    "en",
+    "birleşik krallık",
+    "uk"
+  ],
+  "united_nations": [
+    "bayrak",
+    "bm",
+    "birleşmiş milletler"
+  ],
+  "united_states": [
+    "bayrak",
+    "birleşik devletler",
+    "amerika",
+    "amerika birleşik devletleri",
+    "us",
+    "usa"
+  ],
+  "unlocked": [
+    "açık kilit",
+    "kilit",
+    "kilit açıldı"
+  ],
+  "up_button": [
+    "işaret",
+    "up! düğmesi",
+    "yukari!",
+    "yukari! işareti"
+  ],
+  "upside_down_face": [
+    "ters yüz",
+    "tepe taklak",
+    "ter dönmüş"
+  ],
+  "vampire": [
+    "hortlak",
+    "vampir",
+    "drakula"
+  ],
+  "vatican_city": [
+    "bayrak",
+    "va",
+    "vatikan şehri",
+    "vatikan"
+  ],
+  "vertical_traffic_light": [
+    "trafik işareti",
+    "trafik lambası"
+  ],
+  "victory_hand": [
+    "zafer işareti",
+    "zafer",
+    "oleey",
+    "zafer eli"
+  ],
+  "video_camera": [
+    "video",
+    "kamera"
+  ],
+  "video_game": [
+    "kontrol cihazı",
+    "oyun kolu",
+    "oyun",
+    "video oyunu"
+  ],
+  "vietnam": [
+    "bayrak",
+    "vn",
+    "vietnam bayrağı"
+  ],
+  "violin": [
+    "müzik",
+    "alet",
+    "yay",
+    "müzik aleti",
+    "keman"
+  ],
+  "volcano": [
+    "dağ",
+    "yanardağ",
+    "volkan"
+  ],
+  "volleyball": [
+    "spor",
+    "top",
+    "voleybol"
+  ],
+  "vs_button": [
+    "işaret",
+    "karşılaştırma",
+    "karşılaştırma işareti",
+    "vs",
+    "vs düğmesi"
+  ],
+  "vulcan_salute": [
+    "beden",
+    "el",
+    "parmak",
+    "vulcan selamı",
+    "vulkan",
+    "spock",
+    "vulkan selamı"
+  ],
+  "waffle": [
+    "gözleme"
+  ],
+  "waning_crescent_moon": [
+    "ay",
+    "solgun",
+    "ince ay"
+  ],
+  "waning_gibbous_moon": [
+    "ay",
+    "solgun",
+    "şişkin",
+    "küçülen ay"
+  ],
+  "warning": [
+    "semboller",
+    "sembol",
+    "uyarı",
+    "dikkat"
+  ],
+  "wastebasket": [
+    "çöp kutusu",
+    "sepet",
+    "çöp",
+    "ofis",
+    "zırva",
+    "atık",
+    "silme",
+    "çöp sepeti"
+  ],
+  "watch": [
+    "saat",
+    "kol saati"
+  ],
+  "water_buffalo": [
+    "su",
+    "buffalo",
+    "manda"
+  ],
+  "water_closet": [
+    "wc",
+    "lavabo",
+    "tuvalet"
+  ],
+  "water_pistol": [
+    "ateş",
+    "silah",
+    "tabanca"
+  ],
+  "watermelon": [
+    "meyve",
+    "karpuz"
+  ],
+  "waving_hand": [
+    "güle güle",
+    "el",
+    "el sallama",
+    "sallama"
+  ],
+  "waxing_crescent_moon": [
+    "ay",
+    "yükselen",
+    "büyüyen ay"
+  ],
+  "waxing_gibbous_moon": [
+    "ay",
+    "yükselen",
+    "şişkin",
+    "geniş ay"
+  ],
+  "weary_cat": [
+    "aman tanrım",
+    "kedi",
+    "şaşkın kedi yüzü",
+    "sahiden şaşırmış"
+  ],
+  "weary_face": [
+    "yorulmuş",
+    "çok yorgun",
+    "yorgun yüz"
+  ],
+  "wedding": [
+    "yapı",
+    "kilisede evlenme",
+    "kilise",
+    "düğün",
+    "evlenme"
+  ],
+  "whale": [
+    "hayvan",
+    "balina"
+  ],
+  "wheel": [
+    "teker",
+    "lastik"
+  ],
+  "white_check_mark": [
+    "doğru",
+    "+",
+    "✓",
+    "başarılı",
+    "tamam",
+    "beyaz tik",
+    "beyaz onay işareti",
+    "onay kutusu",
+    "bitti",
+    "okey",
+    "yeşil onay",
+    "düzeltildi",
+    "kontrol",
+    "bana göre sorun yok",
+    "onay",
+    "kabul",
+    "geçti",
+    "tik"
+  ],
+  "white_circle": [
+    "top",
+    "beyaz",
+    "küre",
+    "beyaz top",
+    "beyaz küre"
+  ],
+  "white_flag": [
+    "bayrak",
+    "beyaz bayrak"
+  ],
+  "white_heart": [
+    "kalp",
+    "beyaz kalp"
+  ],
+  "white_large_square": [
+    "geometri",
+    "kare",
+    "büyük beyaz kare"
+  ],
+  "white_medium_small_square": [
+    "geometri",
+    "kare",
+    "küçük-orta beyaz kare"
+  ],
+  "white_medium_square": [
+    "geometri",
+    "kare",
+    "orta boy beyaz kare"
+  ],
+  "white_question_mark": [
+    "soru",
+    "işaret",
+    "beyaz soru işareti",
+    "noktalama"
+  ],
+  "white_small_square": [
+    "geometri",
+    "kare",
+    "küçük beyaz kare"
+  ],
+  "white_square_button": [
+    "kare",
+    "düğme",
+    "beyaz kare düğme"
+  ],
+  "wilted_flower": [
+    "çiçek",
+    "solmuş"
+  ],
+  "wind_face": [
+    "hava durumu",
+    "rüzgar",
+    "esme"
+  ],
+  "window": [
+    "pencere"
+  ],
+  "wine_glass": [
+    "bar",
+    "şarap bardağı",
+    "şarap kadehi",
+    "bardak",
+    "içecek",
+    "bardak şarap",
+    "kadeh"
+  ],
+  "wink": [
+    "gülümseme",
+    "göz kırpma",
+    "göz kırpan yüz"
+  ],
+  "winking_face_with_tongue": [
+    "korkunç",
+    "gözler kapalı",
+    "dil dışarıda ve gözler kapalı",
+    "dil dışarıda",
+    "gözler kapalı ve dil dışarıda"
+  ],
+  "wolf": [
+    "yüz",
+    "hayvan",
+    "kurt",
+    "kurt yüzü"
+  ],
+  "woman": [
+    "kadın",
+    "kişiler"
+  ],
+  "woman_and_man_holding_hands": [
+    "el ele tutuşan çift"
+  ],
+  "woman_artist": [
+    "fırça",
+    "artist",
+    "ressam",
+    "kadın ressam"
+  ],
+  "woman_astronaut": [
+    "roket",
+    "kadın",
+    "kadın astronot",
+    "uzay",
+    "astronot",
+    "kozmonot"
+  ],
+  "woman_bald": [
+    "tıraşlı",
+    "kemoterapi",
+    "kel",
+    "saçsız",
+    "saç yok"
+  ],
+  "woman_biking": [
+    "spor",
+    "kadın",
+    "bisikletçi",
+    "bisiklet",
+    "bisiklet sürme",
+    "bisiklet süren kadın"
+  ],
+  "woman_bouncing_ball": [
+    "spor",
+    "kadın",
+    "top",
+    "kadın basketbolcu",
+    "top zıplatma",
+    "basketbol",
+    "top zıplatan kişi",
+    "top sektiren kadın"
+  ],
+  "woman_bowing": [
+    "kadın",
+    "hareket",
+    "baş eğme",
+    "lütuf",
+    "rükû",
+    "özür",
+    "başını öne eğen kadın",
+    "afedersiniz",
+    "eğilmiş kadın"
+  ],
+  "woman_cartwheeling": [
+    "spor",
+    "yanlamasına takla",
+    "jimnastik",
+    "perende atan kadın"
+  ],
+  "woman_climbing": [
+    "tırmanış",
+    "kaya",
+    "kadın tırmanıcı",
+    "tırmanma",
+    "kaya tırmanışı"
+  ],
+  "woman_cook": [
+    "kadın",
+    "yemek yapma",
+    "şef",
+    "kadın aşçı"
+  ],
+  "woman_curly_hair": [
+    "saç",
+    "kadın",
+    "kıvırcık"
+  ],
+  "woman_dancing": [
+    "elbise",
+    "dans",
+    "dans eden kadın"
+  ],
+  "woman_detective": [
+    "kadın",
+    "casus",
+    "kadın dedektif",
+    "dedektif",
+    "hafiye"
+  ],
+  "woman_elf": [
+    "elf",
+    "kadın elf"
+  ],
+  "woman_facepalming": [
+    "kadın",
+    "çileden çıkma",
+    "inanmama",
+    "utanmış",
+    "utancından eliyle yüzünü kapatma",
+    "eliyle yüzünü kapatan kadın",
+    "yüzünü saklayan kadın"
+  ],
+  "woman_factory_worker": [
+    "montaj",
+    "kadın",
+    "işçi",
+    "kadın fabrika işçisi",
+    "fabrika",
+    "sanayi"
+  ],
+  "woman_fairy": [
+    "peri",
+    "kadın peri"
+  ],
+  "woman_farmer": [
+    "kadın",
+    "çiftlik sahibi",
+    "çiftçi",
+    "bahçıvan",
+    "kadın çiftçi"
+  ],
+  "woman_feeding_baby": [
+    "kadın",
+    "emzirme",
+    "bebek",
+    "bakım",
+    "bebek emziren kadın"
+  ],
+  "woman_firefighter": [
+    "kadın",
+    "itfaiyeci",
+    "itfaiye aracı",
+    "itfaiye eri"
+  ],
+  "woman_frowning": [
+    "kadın",
+    "mimik",
+    "endişeli",
+    "somurtma",
+    "somurtan kadın"
+  ],
+  "woman_genie": [
+    "kadın cin",
+    "cin"
+  ],
+  "woman_gesturing_no": [
+    "kadın",
+    "el",
+    "hareket",
+    "hayır",
+    "yasak",
+    "hayır hareketi yapan kadın",
+    "iyi değil",
+    "hareket yok"
+  ],
+  "woman_gesturing_ok": [
+    "kadın",
+    "el",
+    "hareket",
+    "tamam hareketi",
+    "tamam",
+    "tamam hareketi yapan kadın"
+  ],
+  "woman_getting_haircut": [
+    "saç kesimi"
+  ],
+  "woman_getting_massage": [
+    "başına masaj yaptıran kadın",
+    "masaj",
+    "masaj yapan eller"
+  ],
+  "woman_golfing": [
+    "spor",
+    "golfçü",
+    "golf",
+    "kadın golfçü"
+  ],
+  "woman_guard": [
+    "kişiler",
+    "bekçi",
+    "muhafız"
+  ],
+  "woman_health_worker": [
+    "kadın",
+    "doktor",
+    "terapist",
+    "sağlık",
+    "hemşire",
+    "kadın sağlık çalışanı"
+  ],
+  "woman_in_lotus_position": [
+    "spor",
+    "lotus pozisyonundaki kadın",
+    "yoga",
+    "lotus pozisyonu",
+    "meditasyon",
+    "huzur",
+    "lotus"
+  ],
+  "woman_in_manual_wheelchair": [
+    "tekerlekli sandalye"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "kadın",
+    "tekerlekli sandalye",
+    "erişilebilirlik",
+    "elektrikli tekerlekli sandalyede kadın"
+  ],
+  "woman_in_steamy_room": [
+    "kadın",
+    "sauna",
+    "buharlı oda",
+    "buhar banyosu"
+  ],
+  "woman_in_tuxedo": [
+    "kadın",
+    "smokin",
+    "smokinli kadın"
+  ],
+  "woman_judge": [
+    "kadın",
+    "kadın hakim",
+    "adalet",
+    "hakim",
+    "terazi",
+    "yargıç"
+  ],
+  "woman_juggling": [
+    "yetenek",
+    "jonglör",
+    "aynı anda birçok iş yapma",
+    "hokkabazlık"
+  ],
+  "woman_kneeling": [
+    "kadın",
+    "dua etmek",
+    "diz çöken",
+    "diz çöken kadın"
+  ],
+  "woman_lifting_weights": [
+    "spor",
+    "kadın",
+    "sporcu",
+    "ağırlık kaldıran",
+    "ağırlık kaldıran kadın"
+  ],
+  "woman_mage": [
+    "büyücü",
+    "kadın büyücü",
+    "cadı"
+  ],
+  "woman_mechanic": [
+    "esnaf",
+    "kadın",
+    "tesisatçı",
+    "elektrikçi",
+    "tamirci"
+  ],
+  "woman_mountain_biking": [
+    "spor",
+    "kadın",
+    "bisiklet",
+    "dağ",
+    "dağ bisikleti",
+    "dağ bisikleti süren kadın",
+    "bisiklet sürme"
+  ],
+  "woman_office_worker": [
+    "kadın",
+    "iş",
+    "kadın ofis çalışanı",
+    "yönetici",
+    "ofis",
+    "beyaz yaka",
+    "mimar"
+  ],
+  "woman_pilot": [
+    "kadın",
+    "uçak",
+    "pilot",
+    "kadın pilot"
+  ],
+  "woman_playing_handball": [
+    "spor",
+    "top",
+    "hentbol",
+    "hentbol oynayan kadın"
+  ],
+  "woman_playing_water_polo": [
+    "spor",
+    "top",
+    "su topu",
+    "su topu oynayan kadın",
+    "su"
+  ],
+  "woman_police_officer": [
+    "kişiler",
+    "polis",
+    "polis memuru",
+    "görevli",
+    "kadın polis"
+  ],
+  "woman_pouting": [
+    "kadın",
+    "mimik",
+    "somurtgan",
+    "darılma",
+    "somurtan kadın",
+    "darılan kadın"
+  ],
+  "woman_raising_hand": [
+    "kadın",
+    "hareket",
+    "el kaldırma",
+    "el sallama",
+    "elini kaldıran kadın",
+    "el sallayan kadın"
+  ],
+  "woman_red_hair": [
+    "kadın",
+    "kırmızı",
+    "kızıl",
+    "kızıl saç"
+  ],
+  "woman_rowing_boat": [
+    "spor",
+    "kadın",
+    "sandal",
+    "sandalda kürek çeken kadın",
+    "kayık"
+  ],
+  "woman_running": [
+    "spor",
+    "geç kalmak",
+    "koşu",
+    "kişi koşuyor",
+    "koşucu",
+    "koşmak",
+    "kadın koşucu"
+  ],
+  "woman_s_boot": [
+    "kadın",
+    "giyim",
+    "bot",
+    "kadın botu"
+  ],
+  "woman_s_clothes": [
+    "pembe gömlek",
+    "kadın giysisi",
+    "giyim",
+    "giysiler"
+  ],
+  "woman_s_hat": [
+    "kadın şapkası",
+    "giyim",
+    "şapka"
+  ],
+  "woman_s_sandal": [
+    "kadın",
+    "giyim",
+    "sandalet",
+    "kadın sandaleti"
+  ],
+  "woman_scientist": [
+    "kadın",
+    "mühendis",
+    "bilim adamı",
+    "biyolog",
+    "fizikçi",
+    "bilim insanı",
+    "kimyacı",
+    "kadın bilim insanı",
+    "matematikçi"
+  ],
+  "woman_shrugging": [
+    "kadın",
+    "omuz silkme",
+    "şüphe",
+    "cahillik",
+    "bilmiyorum",
+    "ilgisizlik",
+    "omuz silken kadın"
+  ],
+  "woman_singer": [
+    "kadın",
+    "rock",
+    "şarkıcı",
+    "gösterici",
+    "star",
+    "aktör",
+    "kadın şarkıcı"
+  ],
+  "woman_standing": [
+    "kadın",
+    "ayakta durmak",
+    "ayakta duran",
+    "ayakta",
+    "ayakta duran kadın"
+  ],
+  "woman_student": [
+    "kadın",
+    "öğrenci",
+    "mezun",
+    "kız öğrenci"
+  ],
+  "woman_superhero": [
+    "süper kahraman",
+    "kahraman",
+    "iyi",
+    "süper güç",
+    "kadın kahraman"
+  ],
+  "woman_supervillain": [
+    "kadın",
+    "suçlu",
+    "süper güç",
+    "şeytani",
+    "kadın süper kötü",
+    "kötü"
+  ],
+  "woman_surfing": [
+    "spor",
+    "sörf",
+    "sörfçü",
+    "sörf yapan kişi",
+    "sörf yapan kadın",
+    "spordalga"
+  ],
+  "woman_swimming": [
+    "spor",
+    "yüzme",
+    "yüzücü",
+    "yüzen kişi",
+    "kadın yüzücü"
+  ],
+  "woman_teacher": [
+    "kadın",
+    "öğretmen",
+    "profesör",
+    "kadın öğretmen",
+    "eğitmen"
+  ],
+  "woman_technologist": [
+    "kadın",
+    "geliştirici",
+    "mucit",
+    "yazılım",
+    "kodlayıcı",
+    "teknoloji uzmanı",
+    "kadın teknoloji uzmanı"
+  ],
+  "woman_tipping_hand": [
+    "kadın",
+    "el",
+    "bilgi masası personeli",
+    "küstah",
+    "yana yatmış el",
+    "yardım masası kadını",
+    "elini yana yatıran kadın"
+  ],
+  "woman_vampire": [
+    "vampir",
+    "kadın vampir"
+  ],
+  "woman_walking": [
+    "yürüyen kadın",
+    "yürümek"
+  ],
+  "woman_wearing_turban": [
+    "kadın",
+    "sarıklı kadın",
+    "sarık",
+    "başörtülü kadın"
+  ],
+  "woman_white_hair": [
+    "saç",
+    "kadın",
+    "beyaz",
+    "yaşlı",
+    "gri"
+  ],
+  "woman_with_headscarf": [
+    "türbanlı",
+    "türban",
+    "başörtüsü",
+    "başörtülü kadın",
+    "eşarp"
+  ],
+  "woman_with_veil": [
+    "duvak",
+    "gelin",
+    "gelinlik"
+  ],
+  "woman_with_white_cane": [
+    "beyaz baston",
+    "görme engelli",
+    "kör"
+  ],
+  "woman_zombie": [
+    "zombi",
+    "kadın zombi"
+  ],
+  "women_holding_hands": [
+    "el ele tutuşan çift",
+    "iki kadın el ele"
+  ],
+  "women_with_bunny_ears": [
+    "kadın",
+    "partiye katılma",
+    "tavşan kulaklı kadınlar",
+    "dansçı",
+    "tavşan dansçılar",
+    "tavşan kulak",
+    "tavşan kulaklı kadın"
+  ],
+  "women_wrestling": [
+    "spor",
+    "güreş",
+    "güreşçi",
+    "güreşen kadınlar"
+  ],
+  "wood": [
+    "odun",
+    "kütük"
+  ],
+  "woozy_face": [
+    "çakırkeyif",
+    "sarhoş yüz",
+    "kaymış gözler",
+    "sersemlemiş",
+    "sarhoş",
+    "içkili",
+    "titreyen ağız"
+  ],
+  "world_map": [
+    "dünya haritası",
+    "harita"
+  ],
+  "worm": [
+    "solucan"
+  ],
+  "worried": [
+    "endişeli yüz",
+    "üzgün",
+    "endişeli",
+    "mutsuz"
+  ],
+  "wrapped_gift": [
+    "kutlama",
+    "paketlenmiş hediye",
+    "paketli hediye",
+    "paketli"
+  ],
+  "writing_hand": [
+    "beden",
+    "el",
+    "mektup",
+    "yazan el",
+    "mesaj",
+    "yazı yazan el",
+    "kalem",
+    "yazmak",
+    "yazma"
+  ],
+  "yarn": [
+    "top",
+    "iplik yumağı",
+    "yumak",
+    "kroşe"
+  ],
+  "yawning_face": [
+    "esneyen yüz",
+    "yorgun",
+    "sıkıcı",
+    "sıkılmış",
+    "esneme"
+  ],
+  "yellow_circle": [
+    "top",
+    "küre",
+    "sarı",
+    "sarı top",
+    "sarı küre"
+  ],
+  "yellow_heart": [
+    "kalp",
+    "duygu",
+    "sarı"
+  ],
+  "yellow_square": [
+    "kare",
+    "sarı"
+  ],
+  "yemen": [
+    "bayrak",
+    "yemen bayrağı",
+    "ye"
+  ],
+  "yen_banknote": [
+    "döviz",
+    "para",
+    "banknot",
+    "yen"
+  ],
+  "yoyo": [
+    "yo-yo"
+  ],
+  "zany_face": [
+    "çılgın",
+    "çılgın surat"
+  ],
+  "zero": [
+    "sayılar",
+    "sayı tuşu",
+    "sayı",
+    "sıfır"
+  ],
+  "zipper_mouth_face": [
+    "ağzı fermuarlı yüz",
+    "fermuar yüz"
+  ],
+  "zombie": [
+    "ölümsüz",
+    "ölü",
+    "zombi"
+  ],
+  "zzz": [
+    "çizgi roman",
+    "duygu",
+    "uyuma",
+    "horlama"
+  ]
+}
