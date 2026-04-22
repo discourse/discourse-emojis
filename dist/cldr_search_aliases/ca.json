@@ -1,0 +1,9730 @@
+{
+  "+1": [
+    "amunt",
+    "polze",
+    "polze cap amunt"
+  ],
+  "-1": [
+    "avall",
+    "polze",
+    "polze cap avall"
+  ],
+  "100": [
+    "cent punts",
+    "punts",
+    "puntuació"
+  ],
+  "1234": [
+    "botó de números",
+    "dígits",
+    "números",
+    "xifres"
+  ],
+  "1st_place_medal": [
+    "medalla",
+    "medalla d’or",
+    "or",
+    "posició",
+    "primer"
+  ],
+  "2nd_place_medal": [
+    "argent",
+    "medalla de plata",
+    "plata",
+    "posició",
+    "segon"
+  ],
+  "3rd_place_medal": [
+    "bronze",
+    "medalla",
+    "medalla de bronze",
+    "posició",
+    "tercer"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "botó",
+    "botó a (grup sanguini)"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "botó",
+    "botó ab (grup sanguini)"
+  ],
+  "abacus": [
+    "àbac",
+    "càlcul"
+  ],
+  "accordion": [
+    "acordió",
+    "concertina"
+  ],
+  "adhesive_bandage": [
+    "bena",
+    "tireta"
+  ],
+  "admission_tickets": [
+    "accés",
+    "admissió",
+    "bitllet",
+    "bitllet d’entrada",
+    "entrada"
+  ],
+  "aerial_tramway": [
+    "aeri",
+    "telecabina",
+    "telefèric",
+    "tramvia",
+    "vehicle"
+  ],
+  "afghanistan": [
+    "bandera"
+  ],
+  "airplane": [
+    "aeroplà",
+    "avió",
+    "vehicle",
+    "vol"
+  ],
+  "airplane_arrival": [
+    "arribada",
+    "aterratge",
+    "aterratge d’avió",
+    "avió",
+    "vehicle"
+  ],
+  "airplane_departure": [
+    "avió",
+    "enlairament",
+    "enlairament d’avió",
+    "sortida",
+    "vehicle"
+  ],
+  "alarm_clock": [
+    "alarma",
+    "despertador",
+    "rellotge"
+  ],
+  "albania": [
+    "bandera"
+  ],
+  "alembic": [
+    "alambí",
+    "eina",
+    "química"
+  ],
+  "algeria": [
+    "bandera"
+  ],
+  "alien": [
+    "alienígena",
+    "cara",
+    "criatura",
+    "extraterrestre",
+    "fantasia",
+    "monstre",
+    "ovni"
+  ],
+  "alien_monster": [
+    "àlien",
+    "alienígena",
+    "extraterrestre",
+    "monstre",
+    "ovni"
+  ],
+  "ambulance": [
+    "ambulància",
+    "emergència",
+    "urgència",
+    "vehicle"
+  ],
+  "american_football": [
+    "futbol americà",
+    "pilota",
+    "pilota de futbol americà"
+  ],
+  "american_samoa": [
+    "bandera"
+  ],
+  "amphora": [
+    "àmfora",
+    "aquari",
+    "beguda",
+    "gerra",
+    "zodíac"
+  ],
+  "anatomical_heart": [
+    "batec",
+    "cardiologia",
+    "centre",
+    "cor",
+    "òrgan",
+    "pols"
+  ],
+  "anchor": [
+    "àncora",
+    "eina",
+    "vaixell"
+  ],
+  "andorra": [
+    "bandera"
+  ],
+  "anger_symbol": [
+    "còmic",
+    "enfadat",
+    "enuig",
+    "malhumorat",
+    "símbol d’enuig"
+  ],
+  "angola": [
+    "bandera"
+  ],
+  "angry": [
+    "cara",
+    "enfadada",
+    "enfadat"
+  ],
+  "angry_face_with_horns": [
+    "cara",
+    "cara enfadada amb banyes",
+    "diable",
+    "dimoni",
+    "dimoniet",
+    "fantasia",
+    "trapella"
+  ],
+  "anguilla": [
+    "bandera"
+  ],
+  "anguished_face": [
+    "angoixa",
+    "angoixada",
+    "angoixat",
+    "cara",
+    "cara d’angoixa"
+  ],
+  "ant": [
+    "formiga",
+    "insecte"
+  ],
+  "antarctica": [
+    "bandera"
+  ],
+  "antenna_bars": [
+    "barres",
+    "barres de cobertura",
+    "cobertura",
+    "mòbil",
+    "telèfon"
+  ],
+  "antigua_barbuda": [
+    "bandera"
+  ],
+  "anxious_face_with_sweat": [
+    "boca oberta",
+    "cara",
+    "cara amb la boca oberta i suor freda",
+    "nervis",
+    "suor freda"
+  ],
+  "aquarius": [
+    "aigua",
+    "aquari",
+    "zodíac"
+  ],
+  "argentina": [
+    "bandera"
+  ],
+  "aries": [
+    "àries",
+    "marrà",
+    "zodíac"
+  ],
+  "armenia": [
+    "bandera"
+  ],
+  "articulated_lorry": [
+    "articulat",
+    "camió"
+  ],
+  "artist": [
+    "artista",
+    "paleta"
+  ],
+  "artist_palette": [
+    "artista",
+    "museu",
+    "paleta",
+    "paleta d’artista",
+    "pintura"
+  ],
+  "aruba": [
+    "bandera"
+  ],
+  "ascension_island": [
+    "bandera"
+  ],
+  "asterisk": [
+    "tecla"
+  ],
+  "astonished_face": [
+    "cara",
+    "estupefacta",
+    "estupefacte"
+  ],
+  "astronaut": [
+    "astronauta",
+    "coet"
+  ],
+  "atm_sign": [
+    "atm",
+    "banc",
+    "caixer",
+    "caixer automàtic",
+    "signe de caixer automàtic"
+  ],
+  "atom_symbol": [
+    "ateisme",
+    "ateu",
+    "àtom",
+    "símbol",
+    "símbol d’àtom"
+  ],
+  "australia": [
+    "bandera"
+  ],
+  "austria": [
+    "bandera"
+  ],
+  "auto_rickshaw": [
+    "bicitaxi",
+    "bicitaxi amb motor",
+    "rickshaw"
+  ],
+  "automobile": [
+    "automòbil",
+    "cotxe",
+    "vehicle"
+  ],
+  "avocado": [
+    "alvocat",
+    "fruita",
+    "menjar"
+  ],
+  "axe": [
+    "destral",
+    "llenya",
+    "tallar"
+  ],
+  "azerbaijan": [
+    "bandera"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "botó",
+    "botó b (grup sanguini)"
+  ],
+  "baby": [
+    "bebè",
+    "nadó",
+    "nounat"
+  ],
+  "baby_angel": [
+    "ales",
+    "àngel",
+    "angelet",
+    "bebè",
+    "fantasia"
+  ],
+  "baby_bottle": [
+    "bebè",
+    "beguda",
+    "biberó",
+    "llet",
+    "nadó"
+  ],
+  "baby_chick": [
+    "au",
+    "bebè",
+    "petit",
+    "pollet",
+    "pollet de perfil"
+  ],
+  "baby_symbol": [
+    "bebè",
+    "nadó",
+    "símbol de bebè",
+    "símbol de nadó"
+  ],
+  "back_arrow": [
+    "back",
+    "fletxa",
+    "fletxa amb la paraula back",
+    "paraula"
+  ],
+  "backhand_index_pointing_down": [
+    "avall",
+    "dit índex que apunta cap avall",
+    "índex"
+  ],
+  "backhand_index_pointing_left": [
+    "dit índex que apunta cap a l’esquerra",
+    "esquerra",
+    "índex"
+  ],
+  "backhand_index_pointing_right": [
+    "dit índex que apunta cap a la dreta",
+    "dreta",
+    "índex"
+  ],
+  "backhand_index_pointing_up": [
+    "amunt",
+    "dit índex",
+    "dit índex que apunta cap amunt"
+  ],
+  "backpack": [
+    "escola",
+    "motxilla",
+    "motxilla d’escola"
+  ],
+  "bacon": [
+    "bacó",
+    "cansalada",
+    "carn",
+    "menjar",
+    "porc",
+    "viada"
+  ],
+  "badger": [
+    "teixó",
+    "toixó"
+  ],
+  "badminton": [
+    "bàdminton",
+    "joc",
+    "partit",
+    "raqueta",
+    "volant"
+  ],
+  "bagel": [
+    "fleca",
+    "forn",
+    "panet"
+  ],
+  "baggage_claim": [
+    "equipatges",
+    "recollida",
+    "recollida d’equipatges"
+  ],
+  "baguette_bread": [
+    "baguet",
+    "barra",
+    "menjar",
+    "pa"
+  ],
+  "bahamas": [
+    "bandera"
+  ],
+  "bahrain": [
+    "bandera"
+  ],
+  "balance_scale": [
+    "aparell",
+    "balança",
+    "balança (aparell)",
+    "eina",
+    "justícia",
+    "pes"
+  ],
+  "ballet_shoes": [
+    "ballet",
+    "dansa",
+    "sabatilles de ballet"
+  ],
+  "balloon": [
+    "celebració",
+    "globus"
+  ],
+  "ballot_box_with_ballot": [
+    "urna",
+    "urna amb vot",
+    "vot",
+    "votació"
+  ],
+  "banana": [
+    "fruita",
+    "plàtan"
+  ],
+  "bangladesh": [
+    "bandera"
+  ],
+  "banjo": [
+    "corda",
+    "música"
+  ],
+  "bank": [
+    "banc",
+    "edifici"
+  ],
+  "bar_chart": [
+    "barres",
+    "gràfic",
+    "gràfic de barres"
+  ],
+  "barbados": [
+    "bandera"
+  ],
+  "barber_pole": [
+    "barber",
+    "barberia",
+    "pal",
+    "tallada de cabells"
+  ],
+  "baseball": [
+    "beisbol",
+    "pilota",
+    "pilota de beisbol"
+  ],
+  "basket": [
+    "bugada",
+    "cistella",
+    "granja",
+    "pícnic"
+  ],
+  "basketball": [
+    "bàsquet",
+    "pilota",
+    "pilota de bàsquet"
+  ],
+  "bat": [
+    "muricec",
+    "ratapenada",
+    "ratapinyada",
+    "ratpenat",
+    "vampir",
+    "voliac"
+  ],
+  "bathtub": [
+    "bany",
+    "banyera"
+  ],
+  "battery": [
+    "bateria",
+    "càrrega"
+  ],
+  "beach_with_umbrella": [
+    "para-sol",
+    "platja",
+    "platja amb para-sol"
+  ],
+  "bear": [
+    "cara",
+    "cara d’os",
+    "os"
+  ],
+  "beating_heart": [
+    "batec",
+    "cor",
+    "cor que batega"
+  ],
+  "beaver": [
+    "castor",
+    "presa"
+  ],
+  "bed": [
+    "dormir",
+    "hotel",
+    "llit"
+  ],
+  "beer_mug": [
+    "cervesa",
+    "gerra",
+    "gerra de cervesa"
+  ],
+  "beetle": [
+    "cuca",
+    "escarabat",
+    "insecte"
+  ],
+  "belarus": [
+    "bandera"
+  ],
+  "belgium": [
+    "bandera"
+  ],
+  "belize": [
+    "bandera"
+  ],
+  "bell": [
+    "campana",
+    "timbre"
+  ],
+  "bell_pepper": [
+    "capsicum",
+    "hortalissa",
+    "pebrot",
+    "pebrot vermell"
+  ],
+  "bell_with_slash": [
+    "campana",
+    "campana ratllada",
+    "campana silenciada",
+    "prohibit",
+    "silenci"
+  ],
+  "bellhop_bell": [
+    "grum",
+    "hotel",
+    "recepció",
+    "timbre",
+    "timbre del grum"
+  ],
+  "benin": [
+    "bandera"
+  ],
+  "bento_box": [
+    "bento",
+    "caixa",
+    "caixa de bento"
+  ],
+  "bermuda": [
+    "bandera"
+  ],
+  "beverage_box": [
+    "bric",
+    "bric de suc"
+  ],
+  "bhutan": [
+    "bandera"
+  ],
+  "bicycle": [
+    "bici",
+    "bicicleta",
+    "vehicle"
+  ],
+  "bikini": [
+    "biquini",
+    "nedar",
+    "roba"
+  ],
+  "billed_cap": [
+    "beisbol",
+    "gorra",
+    "visera"
+  ],
+  "biohazard": [
+    "perill",
+    "risc",
+    "risc biològic",
+    "senyal"
+  ],
+  "bird": [
+    "au",
+    "ocell"
+  ],
+  "birthday_cake": [
+    "aniversari",
+    "celebració",
+    "dolç",
+    "pastís",
+    "pastís d’aniversari",
+    "postres"
+  ],
+  "bison": [
+    "bisó",
+    "bisó europeu",
+    "búfal",
+    "ramat"
+  ],
+  "black_cat": [
+    "gat",
+    "mala sort",
+    "negre"
+  ],
+  "black_circle": [
+    "cercle",
+    "geometria",
+    "negre"
+  ],
+  "black_flag": [
+    "bandera",
+    "bandera negra",
+    "oneig"
+  ],
+  "black_heart": [
+    "cor",
+    "cor negre"
+  ],
+  "black_large_square": [
+    "geometria",
+    "gran",
+    "negre",
+    "quadrat"
+  ],
+  "black_medium_small_square": [
+    "geometria",
+    "negre",
+    "petit-mitjà",
+    "quadrat"
+  ],
+  "black_medium_square": [
+    "geometria",
+    "mitjà",
+    "negre",
+    "quadrat"
+  ],
+  "black_nib": [
+    "negra",
+    "ploma"
+  ],
+  "black_small_square": [
+    "geometria",
+    "negre",
+    "petit",
+    "quadrat"
+  ],
+  "black_square_button": [
+    "botó",
+    "botó de quadrat negre",
+    "geometria",
+    "negre",
+    "quadrat"
+  ],
+  "blonde_man": [
+    "cabell",
+    "home",
+    "home: cabell ros",
+    "ros"
+  ],
+  "blonde_woman": [
+    "cabell",
+    "dona",
+    "dona: cabell ros",
+    "rossa"
+  ],
+  "blossom": [
+    "flor",
+    "planta"
+  ],
+  "blowfish": [
+    "globus",
+    "peix"
+  ],
+  "blue_book": [
+    "blau",
+    "llibre"
+  ],
+  "blue_circle": [
+    "blau",
+    "cercle",
+    "geometria"
+  ],
+  "blue_heart": [
+    "cor",
+    "cor blau"
+  ],
+  "blue_square": [
+    "blau",
+    "quadrat"
+  ],
+  "blueberries": [
+    "blau",
+    "fruit del bosc",
+    "gerd",
+    "nabiu",
+    "nabius"
+  ],
+  "blush": [
+    "cara",
+    "cara somrient amb els ulls alegres",
+    "galtes vermelles",
+    "somriure"
+  ],
+  "boar": [
+    "porc",
+    "senglar"
+  ],
+  "bolivia": [
+    "bandera"
+  ],
+  "bomb": [
+    "bomba",
+    "còmic"
+  ],
+  "bone": [
+    "esquelet",
+    "os"
+  ],
+  "bookmark": [
+    "marcador",
+    "punt",
+    "punt de llibre"
+  ],
+  "bookmark_tabs": [
+    "fitxa",
+    "marca",
+    "marcador",
+    "marcadors",
+    "punt"
+  ],
+  "books": [
+    "llibre",
+    "llibres"
+  ],
+  "boomerang": [
+    "austràlia",
+    "bumerang",
+    "rebot",
+    "repercussió"
+  ],
+  "bosnia_herzegovina": [
+    "bandera"
+  ],
+  "botswana": [
+    "bandera"
+  ],
+  "bottle_with_popping_cork": [
+    "ampolla",
+    "ampolla de cava",
+    "cava",
+    "suro",
+    "tap"
+  ],
+  "bouquet": [
+    "flor",
+    "planta",
+    "ram de flors"
+  ],
+  "bouvet_island": [
+    "bandera"
+  ],
+  "bow_and_arrow": [
+    "arc",
+    "arc i fletxa",
+    "fletxa",
+    "sagitari",
+    "zodíac"
+  ],
+  "bowl_with_spoon": [
+    "bol amb cullera",
+    "cereals",
+    "esmorzar"
+  ],
+  "bowling": [
+    "bitlles",
+    "bola",
+    "joc"
+  ],
+  "boxing_glove": [
+    "boxa",
+    "esport",
+    "guant",
+    "guant de boxa"
+  ],
+  "boy": [
+    "jove",
+    "nen",
+    "noi"
+  ],
+  "brain": [
+    "cervell",
+    "intel·ligent"
+  ],
+  "brazil": [
+    "bandera"
+  ],
+  "bread": [
+    "llesca",
+    "pa"
+  ],
+  "breast_feeding": [
+    "alletar",
+    "dona que alleta",
+    "lactància",
+    "nadó"
+  ],
+  "brick": [
+    "fang",
+    "maó",
+    "morter",
+    "paret",
+    "totxo"
+  ],
+  "bridge_at_night": [
+    "nit",
+    "pont",
+    "pont de nit"
+  ],
+  "briefcase": [
+    "maletí"
+  ],
+  "briefs": [
+    "banyador",
+    "eslip",
+    "roba interior",
+    "vestit de bany"
+  ],
+  "bright_button": [
+    "augmentar",
+    "botó",
+    "botó d’augmentar la brillantor",
+    "brillantor"
+  ],
+  "british_indian_ocean_territory": [
+    "bandera"
+  ],
+  "british_virgin_islands": [
+    "bandera"
+  ],
+  "broccoli": [
+    "bròcoli",
+    "bròquil",
+    "col"
+  ],
+  "broken_heart": [
+    "cor",
+    "trencar",
+    "trencat"
+  ],
+  "broom": [
+    "bruixa",
+    "escombra",
+    "escombrar",
+    "netejar"
+  ],
+  "brown_circle": [
+    "cercle",
+    "marró"
+  ],
+  "brown_heart": [
+    "cor",
+    "marró"
+  ],
+  "brown_square": [
+    "marró",
+    "quadrat"
+  ],
+  "brunei": [
+    "bandera"
+  ],
+  "bubble_tea": [
+    "bombolla",
+    "llet",
+    "perla",
+    "te",
+    "te amb bombolles"
+  ],
+  "bucket": [
+    "cubell",
+    "galleda"
+  ],
+  "bug": [
+    "eruga",
+    "insecte"
+  ],
+  "building_construction": [
+    "construcció",
+    "construcció d’edificis",
+    "edificis"
+  ],
+  "bulgaria": [
+    "bandera"
+  ],
+  "bullet_train": [
+    "alta velocitat",
+    "bala",
+    "shinkansen",
+    "tren",
+    "via del tren"
+  ],
+  "bullseye": [
+    "dard",
+    "dards",
+    "diana",
+    "joc",
+    "punteria"
+  ],
+  "burkina_faso": [
+    "bandera"
+  ],
+  "burrito": [
+    "mexicà",
+    "rotlle",
+    "tortilla"
+  ],
+  "burundi": [
+    "bandera"
+  ],
+  "bus": [
+    "autobús",
+    "vehicle"
+  ],
+  "bus_stop": [
+    "autobús",
+    "bus",
+    "parada",
+    "parada d’autobús",
+    "parada de bus"
+  ],
+  "bust_in_silhouette": [
+    "bust",
+    "silueta",
+    "silueta d’un bust"
+  ],
+  "busts_in_silhouette": [
+    "bustos",
+    "silueta de bustos",
+    "siluetes"
+  ],
+  "butter": [
+    "mantega",
+    "producte lacti"
+  ],
+  "butterfly": [
+    "animal",
+    "insecte",
+    "papallona"
+  ],
+  "cactus": [
+    "planta"
+  ],
+  "call_me_hand": [
+    "mà",
+    "mà que representa una trucada",
+    "trucada"
+  ],
+  "cambodia": [
+    "bandera"
+  ],
+  "camel": [
+    "camell",
+    "dromedari",
+    "gepa"
+  ],
+  "camera": [
+    "càmera",
+    "vídeo"
+  ],
+  "camera_with_flash": [
+    "càmera",
+    "càmera amb flaix",
+    "flaix",
+    "vídeo"
+  ],
+  "cameroon": [
+    "bandera"
+  ],
+  "camping": [
+    "acampada",
+    "campament",
+    "càmping"
+  ],
+  "canada": [
+    "bandera"
+  ],
+  "canary_islands": [
+    "bandera"
+  ],
+  "cancer": [
+    "càncer",
+    "cranc",
+    "zodíac"
+  ],
+  "candle": [
+    "cera",
+    "espelma",
+    "flama",
+    "llum"
+  ],
+  "candy": [
+    "caramel",
+    "dolç",
+    "postres"
+  ],
+  "canned_food": [
+    "conserva",
+    "llauna",
+    "llauna de conserva",
+    "menjar"
+  ],
+  "canoe": [
+    "canoa",
+    "kayak"
+  ],
+  "cape_verde": [
+    "bandera"
+  ],
+  "capricorn": [
+    "cabra",
+    "zodíac"
+  ],
+  "card_file_box": [
+    "arxiu",
+    "arxivador de targetes",
+    "caixa",
+    "dossier",
+    "targeta"
+  ],
+  "card_index": [
+    "organitzador",
+    "organitzador de targetes",
+    "targetes"
+  ],
+  "card_index_dividers": [
+    "organitzador",
+    "separadors",
+    "separadors per a organitzador de targetes",
+    "targetes"
+  ],
+  "caribbean_netherlands": [
+    "bandera"
+  ],
+  "carousel_horse": [
+    "atraccions",
+    "cavallets"
+  ],
+  "carp_streamer": [
+    "banderins",
+    "banderins de carpes",
+    "carpes",
+    "celebració"
+  ],
+  "carpentry_saw": [
+    "eina",
+    "fuster",
+    "llenyataire",
+    "serra",
+    "xerrac"
+  ],
+  "carrot": [
+    "hortalissa",
+    "menjar",
+    "pastanaga",
+    "verdura"
+  ],
+  "castle": [
+    "castell",
+    "construcció",
+    "europeu"
+  ],
+  "cat": [
+    "gat",
+    "mascota"
+  ],
+  "cat_face": [
+    "cara",
+    "cara de gat",
+    "gat"
+  ],
+  "cat_with_wry_smile": [
+    "cara",
+    "gat",
+    "gat amb somriure irònic",
+    "ironia",
+    "somriure"
+  ],
+  "cayman_islands": [
+    "bandera"
+  ],
+  "central_african_republic": [
+    "bandera"
+  ],
+  "ceuta_melilla": [
+    "bandera"
+  ],
+  "chad": [
+    "bandera"
+  ],
+  "chains": [
+    "cadena",
+    "cadenes"
+  ],
+  "chair": [
+    "cadira",
+    "seient",
+    "seure"
+  ],
+  "chart_decreasing": [
+    "a la baixa",
+    "disminució",
+    "gràfic",
+    "gràfic de disminució",
+    "tendència"
+  ],
+  "chart_increasing": [
+    "a l’alta",
+    "augment",
+    "gràfic",
+    "gràfic d’augment",
+    "tendència"
+  ],
+  "chart_increasing_with_yen": [
+    "augment",
+    "creixement",
+    "gràfic",
+    "gràfic d’augment amb el signe del ien",
+    "ien",
+    "signe"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "casella",
+    "casella amb marca de verificació",
+    "verificació"
+  ],
+  "check_mark": [
+    "✓",
+    "marca",
+    "marca de verificació",
+    "verificació"
+  ],
+  "cheese_wedge": [
+    "formatge",
+    "tall",
+    "tall de formatge"
+  ],
+  "chequered_flag": [
+    "automobilisme",
+    "bandera",
+    "bandera de quadres",
+    "curses",
+    "motor"
+  ],
+  "cherries": [
+    "cirera",
+    "cireres",
+    "fruita",
+    "planta",
+    "vermell"
+  ],
+  "cherry_blossom": [
+    "cirerer",
+    "flor",
+    "flor de cirerer"
+  ],
+  "chess_pawn": [
+    "escacs",
+    "peó d’escacs",
+    "prescindible",
+    "sacrificable"
+  ],
+  "chestnut": [
+    "castanya",
+    "planta"
+  ],
+  "chicken": [
+    "au",
+    "pollastre"
+  ],
+  "child": [
+    "criatura",
+    "infant"
+  ],
+  "children_crossing": [
+    "creuant",
+    "nens",
+    "nens que creuen",
+    "trànsit",
+    "vianant"
+  ],
+  "chile": [
+    "bandera"
+  ],
+  "china": [
+    "bandera"
+  ],
+  "chipmunk": [
+    "esquirol"
+  ],
+  "chocolate_bar": [
+    "rajola",
+    "rajola de xocolata",
+    "xocolata"
+  ],
+  "chopsticks": [
+    "bastonet",
+    "bastonets xinesos",
+    "oriental",
+    "xinès"
+  ],
+  "christmas_island": [
+    "bandera"
+  ],
+  "christmas_tree": [
+    "arbre",
+    "arbre de nadal",
+    "celebració",
+    "nadal"
+  ],
+  "church": [
+    "creu",
+    "cristià",
+    "edifici",
+    "església",
+    "religió"
+  ],
+  "cigarette": [
+    "cigarreta",
+    "fumar"
+  ],
+  "cinema": [
+    "càmera",
+    "film",
+    "pel·lícula"
+  ],
+  "circled_m": [
+    "cercle",
+    "lletra",
+    "lletra m en cercle",
+    "m"
+  ],
+  "circus_tent": [
+    "carpa",
+    "carpa de circ",
+    "circ"
+  ],
+  "cityscape": [
+    "paisatge",
+    "urbà"
+  ],
+  "cityscape_at_dusk": [
+    "paisatge urbà",
+    "paisatge urbà al vespre",
+    "vespre"
+  ],
+  "cl_button": [
+    "botó cl",
+    "botó esborrar",
+    "cl",
+    "esborrar",
+    "quadre"
+  ],
+  "clamp": [
+    "cargol de banc",
+    "compressió",
+    "eina",
+    "serjant"
+  ],
+  "clap": [
+    "aplaudiment",
+    "aplaudint",
+    "mans",
+    "mans que aplaudeixen"
+  ],
+  "clapper_board": [
+    "cinema",
+    "claqueta",
+    "pel·lícula"
+  ],
+  "classical_building": [
+    "clàssic",
+    "edifici"
+  ],
+  "clinking_beer_mugs": [
+    "brindis",
+    "brindis amb gerra de cervesa",
+    "cervesa",
+    "gerra"
+  ],
+  "clinking_glasses": [
+    "brindis",
+    "cava",
+    "copes",
+    "xampany",
+    "xin-xin"
+  ],
+  "clipboard": [
+    "agafes",
+    "clip",
+    "petjapapers",
+    "porta-retalls"
+  ],
+  "clipperton_island": [
+    "bandera"
+  ],
+  "clockwise_vertical_arrows": [
+    "dreta",
+    "fletxes",
+    "fletxes que giren cap a la dreta",
+    "fletxes verticals en sentit horari",
+    "gir"
+  ],
+  "closed_book": [
+    "llibre",
+    "tancat"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "bandera abaixada",
+    "bústia",
+    "bústia tancada amb la bandera abaixada",
+    "tancada"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "bandera aixecada",
+    "bústia",
+    "bústia tancada amb la bandera aixecada",
+    "tancada"
+  ],
+  "closed_umbrella": [
+    "paraigua",
+    "pluja",
+    "tancat"
+  ],
+  "cloud": [
+    "núvol",
+    "temps"
+  ],
+  "cloud_with_lightning": [
+    "llamp",
+    "núvol",
+    "núvol amb llamp",
+    "temps"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "llamp",
+    "núvol",
+    "núvol amb llamp i pluja",
+    "pluja",
+    "temps"
+  ],
+  "cloud_with_rain": [
+    "núvol",
+    "núvol amb pluja",
+    "pluja",
+    "temps"
+  ],
+  "cloud_with_snow": [
+    "neu",
+    "núvol",
+    "núvol amb neu",
+    "temps"
+  ],
+  "clown_face": [
+    "cara",
+    "cara de pallasso",
+    "pallassa",
+    "pallasso"
+  ],
+  "club_suit": [
+    "carta",
+    "pal",
+    "pal de trèvols",
+    "partida",
+    "trèvols"
+  ],
+  "clutch_bag": [
+    "accessori",
+    "bossa",
+    "roba"
+  ],
+  "coat": [
+    "abric",
+    "jaqueta"
+  ],
+  "cockroach": [
+    "ballarola",
+    "corredora",
+    "cuca molla",
+    "cuca panissera",
+    "escarabat de cuina",
+    "insecte",
+    "panderola",
+    "panerola"
+  ],
+  "cocktail_glass": [
+    "bar",
+    "còctel",
+    "copa",
+    "copa de còctel"
+  ],
+  "coconut": [
+    "coco",
+    "palmera",
+    "pinya colada"
+  ],
+  "cocos_keeling_islands": [
+    "bandera"
+  ],
+  "coffin": [
+    "mort",
+    "taüt"
+  ],
+  "coin": [
+    "metall",
+    "moneda",
+    "or",
+    "plata",
+    "tresor"
+  ],
+  "cold_face": [
+    "cara blava",
+    "cara de fred",
+    "caramell",
+    "fred",
+    "gel",
+    "glaçat"
+  ],
+  "collision": [
+    "col·lisió",
+    "còmic",
+    "esclat"
+  ],
+  "colombia": [
+    "bandera"
+  ],
+  "comet": [
+    "cometa",
+    "espai"
+  ],
+  "comoros": [
+    "bandera"
+  ],
+  "compass": [
+    "brúixola",
+    "magnètic",
+    "navegació",
+    "orientació"
+  ],
+  "computer_disk": [
+    "disc",
+    "equip",
+    "minidisc",
+    "òptic"
+  ],
+  "computer_mouse": [
+    "ordinador",
+    "ratolí",
+    "ratolí d’ordinador"
+  ],
+  "confetti_ball": [
+    "bola",
+    "bola de confeti",
+    "celebració",
+    "confeti",
+    "festa"
+  ],
+  "confounded_face": [
+    "cara",
+    "cara de frustració",
+    "frustració",
+    "frustrada",
+    "frustrat"
+  ],
+  "confused": [
+    "cara",
+    "cara de confusió",
+    "confós",
+    "confosa",
+    "confusió"
+  ],
+  "congo_brazzaville": [
+    "bandera"
+  ],
+  "congo_kinshasa": [
+    "bandera"
+  ],
+  "construction": [
+    "barrera",
+    "obres",
+    "tanca"
+  ],
+  "construction_worker": [
+    "construcció",
+    "paleta",
+    "treballador",
+    "treballador de la construcció"
+  ],
+  "construction_worker_man": [
+    "construcció",
+    "home",
+    "home paleta",
+    "masculí",
+    "treballador"
+  ],
+  "construction_worker_woman": [
+    "construcció",
+    "dona",
+    "dona paleta",
+    "femení",
+    "treballadora"
+  ],
+  "control_knobs": [
+    "botons",
+    "botons de control",
+    "control",
+    "música"
+  ],
+  "convenience_store": [
+    "botiga",
+    "botiga a l’abast",
+    "botiga de conveniència"
+  ],
+  "cook": [
+    "cuiner",
+    "xef"
+  ],
+  "cook_islands": [
+    "bandera"
+  ],
+  "cooked_rice": [
+    "arròs",
+    "bullit"
+  ],
+  "cookie": [
+    "dolç",
+    "galeta",
+    "postres"
+  ],
+  "cooking": [
+    "cuina",
+    "ou",
+    "ou ferrat"
+  ],
+  "cool_button": [
+    "botó cool",
+    "cool",
+    "paraula",
+    "quadre"
+  ],
+  "copyright": [
+    "drets d’autor"
+  ],
+  "costa_rica": [
+    "bandera"
+  ],
+  "couch_and_lamp": [
+    "hotel",
+    "làmpada",
+    "sofà",
+    "sofà i làmpada"
+  ],
+  "counterclockwise_arrows_button": [
+    "botó de fletxes que giren cap a l’esquerra",
+    "esquerra",
+    "fletxes en sentit antihorari",
+    "gir",
+    "sentit antihorari"
+  ],
+  "couple_with_heart": [
+    "cor",
+    "parella",
+    "parella amb un cor",
+    "dona",
+    "home"
+  ],
+  "couple_with_heart_man_man": [
+    "cor",
+    "home",
+    "parella",
+    "parella amb un cor"
+  ],
+  "couple_with_heart_woman_woman": [
+    "cor",
+    "dona",
+    "parella",
+    "parella amb un cor"
+  ],
+  "cow": [
+    "vaca"
+  ],
+  "cow_face": [
+    "cara",
+    "cara de vaca",
+    "vaca"
+  ],
+  "cowboy_hat_face": [
+    "barret",
+    "cara",
+    "cara amb barret de vaquer",
+    "cowboy",
+    "vaquer",
+    "vaquera"
+  ],
+  "crab": [
+    "càncer",
+    "cranc",
+    "zodíac"
+  ],
+  "crayon": [
+    "color",
+    "llapis",
+    "llapis de color"
+  ],
+  "credit_card": [
+    "crèdit",
+    "targeta",
+    "targeta de crèdit"
+  ],
+  "crescent_moon": [
+    "creixent",
+    "lluna"
+  ],
+  "cricket": [
+    "grill",
+    "llagosta"
+  ],
+  "cricket_game": [
+    "bat",
+    "bola",
+    "criquet",
+    "joc",
+    "partit"
+  ],
+  "croatia": [
+    "bandera"
+  ],
+  "crocodile": [
+    "cocodril"
+  ],
+  "croissant": [
+    "brioixeria",
+    "menjar"
+  ],
+  "cross_mark": [
+    "×",
+    "cancel·lar",
+    "creu",
+    "marca",
+    "marca de creu",
+    "multiplicació",
+    "multiplicar",
+    "x"
+  ],
+  "cross_mark_button": [
+    "×",
+    "botó de creu",
+    "marca",
+    "quadrat",
+    "x"
+  ],
+  "crossed_fingers": [
+    "creuats",
+    "dits",
+    "sort"
+  ],
+  "crossed_flags": [
+    "banderes",
+    "banderes creuades",
+    "celebració",
+    "japó"
+  ],
+  "crossed_swords": [
+    "arma",
+    "creuades",
+    "espases"
+  ],
+  "crown": [
+    "cap",
+    "complement",
+    "corona",
+    "rei",
+    "reina"
+  ],
+  "cry": [
+    "cara",
+    "cara que plora",
+    "llàgrimes",
+    "trist",
+    "trista"
+  ],
+  "crying_cat": [
+    "cara",
+    "gat",
+    "gat que plora",
+    "llàgrimes"
+  ],
+  "crystal_ball": [
+    "bola",
+    "bola de vidre",
+    "fantasia",
+    "fortuna",
+    "sort"
+  ],
+  "cuba": [
+    "bandera"
+  ],
+  "cucumber": [
+    "cogombre",
+    "cogombret",
+    "hortalissa",
+    "menjar"
+  ],
+  "cup_with_straw": [
+    "beguda",
+    "canya",
+    "got",
+    "got amb canya",
+    "refresc",
+    "suc"
+  ],
+  "cupcake": [
+    "dolç",
+    "fleca",
+    "forn",
+    "magdalena"
+  ],
+  "curaçao": [
+    "bandera"
+  ],
+  "curling_stone": [
+    "esport",
+    "gel",
+    "joc",
+    "pedra",
+    "pedra de cúrling"
+  ],
+  "curly_loop": [
+    "bucle",
+    "llaç",
+    "llaç arrissat"
+  ],
+  "currency_exchange": [
+    "canvi",
+    "canvi de divisa",
+    "divisa"
+  ],
+  "curry_rice": [
+    "arròs",
+    "arròs al curri",
+    "curri"
+  ],
+  "custard": [
+    "dolç",
+    "flam",
+    "natilles",
+    "postres",
+    "púding"
+  ],
+  "customs": [
+    "duana"
+  ],
+  "cut_of_meat": [
+    "bistec",
+    "tall de carn",
+    "tall de porc",
+    "tall de xai"
+  ],
+  "cyclone": [
+    "cicló",
+    "mareig",
+    "remolí",
+    "temps",
+    "tifó"
+  ],
+  "cyprus": [
+    "bandera"
+  ],
+  "czechia": [
+    "bandera"
+  ],
+  "côte_d_ivoire": [
+    "bandera"
+  ],
+  "dagger": [
+    "arma",
+    "daga",
+    "ganivet"
+  ],
+  "dango": [
+    "broqueta",
+    "broqueta dolça japonesa",
+    "dolç",
+    "japonès",
+    "postres"
+  ],
+  "dashing_away": [
+    "còmic",
+    "córrer",
+    "pressa",
+    "sortir corrent"
+  ],
+  "date": [
+    "calendari",
+    "data"
+  ],
+  "deaf_man": [
+    "home",
+    "sord"
+  ],
+  "deaf_person": [
+    "accessibilitat",
+    "oïda",
+    "persona sorda",
+    "sentir",
+    "sord"
+  ],
+  "deaf_woman": [
+    "dona",
+    "sorda"
+  ],
+  "deciduous_tree": [
+    "arbre",
+    "arbre de fulla caduca",
+    "caduc"
+  ],
+  "deer": [
+    "animal",
+    "cérvol"
+  ],
+  "delivery_truck": [
+    "camió",
+    "camió de repartiment",
+    "repartiment"
+  ],
+  "denmark": [
+    "bandera"
+  ],
+  "department_store": [
+    "botiga",
+    "centre comercial",
+    "edifici",
+    "magatzem"
+  ],
+  "derelict_house": [
+    "abandonada",
+    "casa",
+    "ruïnes"
+  ],
+  "desert": [
+    "desèrtic"
+  ],
+  "desert_island": [
+    "deserta",
+    "illa"
+  ],
+  "desktop_computer": [
+    "equip",
+    "escriptori",
+    "ordinador d’escriptori",
+    "ordinador de sobretaula"
+  ],
+  "detective": [
+    "detectiu",
+    "espia",
+    "investigador"
+  ],
+  "diamond_suit": [
+    "cartes",
+    "diamants",
+    "pal",
+    "pal de diamants",
+    "partida"
+  ],
+  "diamond_with_a_dot": [
+    "flor",
+    "geometria",
+    "pètals",
+    "rombe",
+    "rombe amb punt"
+  ],
+  "diego_garcia": [
+    "bandera"
+  ],
+  "dim_button": [
+    "atenuar",
+    "botó",
+    "botó d’atenuar la brillantor",
+    "brillantor"
+  ],
+  "disappointed_face": [
+    "cara",
+    "cara de decepció",
+    "decebuda",
+    "decebut",
+    "decepció"
+  ],
+  "disguised_face": [
+    "cara",
+    "cara disfressada",
+    "disfressa",
+    "incògnit",
+    "nas",
+    "ulleres"
+  ],
+  "divide": [
+    "÷",
+    "divisió",
+    "matemàtiques",
+    "signe",
+    "signe de dividir"
+  ],
+  "diving_mask": [
+    "busseig",
+    "immersió lleugera",
+    "submarinisme",
+    "ulleres de busseig"
+  ],
+  "diya_lamp": [
+    "ble",
+    "làmpada",
+    "llàntia",
+    "llum",
+    "llum d’oli",
+    "oli"
+  ],
+  "dizzy": [
+    "còmic",
+    "estrella",
+    "mareig"
+  ],
+  "djibouti": [
+    "bandera"
+  ],
+  "dna": [
+    "adn",
+    "biòleg",
+    "biòloga",
+    "evolució",
+    "gen",
+    "genètica",
+    "vida"
+  ],
+  "dodo": [
+    "au",
+    "extinció",
+    "gran",
+    "maurici"
+  ],
+  "dog": [
+    "gos",
+    "mascota"
+  ],
+  "dog_face": [
+    "cara",
+    "cara de gos",
+    "gos"
+  ],
+  "dollar_banknote": [
+    "bitllets",
+    "bitllets de dòlar",
+    "dòlar",
+    "signe"
+  ],
+  "dolphin": [
+    "aleta",
+    "dofí"
+  ],
+  "dominica": [
+    "bandera"
+  ],
+  "dominican_republic": [
+    "bandera"
+  ],
+  "door": [
+    "porta"
+  ],
+  "dotted_six_pointed_star": [
+    "estrella",
+    "estrella de sis puntes amb punt",
+    "fortuna",
+    "punt",
+    "sis puntes"
+  ],
+  "double_curly_loop": [
+    "bucle",
+    "doble"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "doble exclamació",
+    "exclamació",
+    "signe d’exclamació doble"
+  ],
+  "doughnut": [
+    "dolç",
+    "dònut",
+    "postres",
+    "rosquilla"
+  ],
+  "dove": [
+    "au",
+    "colom",
+    "pau",
+    "volar"
+  ],
+  "down_arrow": [
+    "avall",
+    "direcció",
+    "fletxa",
+    "fletxa cap avall",
+    "sud"
+  ],
+  "down_left_arrow": [
+    "avall a l’esquerra",
+    "direcció",
+    "fletxa",
+    "fletxa cap avall a l’esquerra",
+    "sud-oest"
+  ],
+  "down_right_arrow": [
+    "avall a la dreta",
+    "direcció",
+    "fletxa",
+    "fletxa cap avall a la dreta",
+    "sud-est"
+  ],
+  "downcast_face_with_sweat": [
+    "cara",
+    "cara amb suor freda",
+    "suor freda"
+  ],
+  "downwards_button": [
+    "avall",
+    "botó",
+    "botó d’anar avall",
+    "vermell"
+  ],
+  "dragon": [
+    "conte",
+    "drac",
+    "fades",
+    "fantasia"
+  ],
+  "dragon_face": [
+    "cara",
+    "cara de drac",
+    "drac"
+  ],
+  "dress": [
+    "roba",
+    "vestit"
+  ],
+  "drooling_face": [
+    "bava",
+    "bavejant",
+    "cara",
+    "cara que baveja"
+  ],
+  "drop_of_blood": [
+    "donació de sang",
+    "gota de sang",
+    "medicina",
+    "menstruació"
+  ],
+  "droplet": [
+    "fred",
+    "gota",
+    "suor"
+  ],
+  "drum": [
+    "baquetes",
+    "música",
+    "tambor",
+    "timbal"
+  ],
+  "duck": [
+    "ànec",
+    "animal",
+    "au",
+    "ocell"
+  ],
+  "dumpling": [
+    "cresta",
+    "cresta japonesa",
+    "cresta xinesa",
+    "empanada",
+    "gyōza"
+  ],
+  "dvd": [
+    "blu-ray",
+    "cd",
+    "disc",
+    "equip",
+    "òptic",
+    "ordinador"
+  ],
+  "e_mail": [
+    "correu",
+    "electrònic",
+    "mail"
+  ],
+  "eagle": [
+    "àguila",
+    "àliga",
+    "animal",
+    "au",
+    "ocell"
+  ],
+  "ear": [
+    "cos",
+    "orella"
+  ],
+  "ear_of_corn": [
+    "blat de moro",
+    "dacsa",
+    "moresc",
+    "panís",
+    "panotxa"
+  ],
+  "ear_with_hearing_aid": [
+    "accessibilitat",
+    "orella amb audiòfon",
+    "problema d’audició"
+  ],
+  "ecuador": [
+    "bandera"
+  ],
+  "egg": [
+    "menjar",
+    "ou"
+  ],
+  "eggplant": [
+    "albergínia",
+    "hortalissa",
+    "planta",
+    "verdura"
+  ],
+  "egypt": [
+    "bandera"
+  ],
+  "eight": [
+    "tecla"
+  ],
+  "eight_o_clock": [
+    "20",
+    "20.00",
+    "8",
+    "8.00",
+    "en punt",
+    "les vuit en punt",
+    "rellotge",
+    "vuit"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "estrella",
+    "estrella de vuit puntes"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "asterisc",
+    "asterisc de vuit radis"
+  ],
+  "eight_thirty": [
+    "20.30",
+    "8.30",
+    "dos quarts",
+    "dos quarts de nou",
+    "rellotge"
+  ],
+  "eject_button": [
+    "botó",
+    "botó d’expulsar",
+    "expulsar"
+  ],
+  "el_salvador": [
+    "bandera"
+  ],
+  "electric_plug": [
+    "connexió",
+    "electricitat",
+    "endoll"
+  ],
+  "elephant": [
+    "elefant"
+  ],
+  "elevator": [
+    "accessibilitat",
+    "ascensor",
+    "muntacàrregues"
+  ],
+  "eleven_o_clock": [
+    "11",
+    "11.00",
+    "23",
+    "23.00",
+    "en punt",
+    "les onze en punt",
+    "onze",
+    "rellotge"
+  ],
+  "eleven_thirty": [
+    "11.30",
+    "23.30",
+    "dos quarts",
+    "dos quarts de dotze",
+    "rellotge"
+  ],
+  "elf": [
+    "màgic"
+  ],
+  "end_arrow": [
+    "end",
+    "fletxa",
+    "fletxa amb la paraula end",
+    "paraula"
+  ],
+  "england": [
+    "bandera"
+  ],
+  "enraged_face": [
+    "cara",
+    "cara vermella",
+    "enutjada",
+    "enutjat"
+  ],
+  "envelope": [
+    "carta",
+    "correu",
+    "correu electrònic",
+    "mail",
+    "sobre"
+  ],
+  "envelope_with_arrow": [
+    "fletxa",
+    "sobre",
+    "sobre amb fletxa",
+    "sortint"
+  ],
+  "equatorial_guinea": [
+    "bandera"
+  ],
+  "eritrea": [
+    "bandera"
+  ],
+  "estonia": [
+    "bandera"
+  ],
+  "eswatini": [
+    "bandera"
+  ],
+  "ethiopia": [
+    "bandera"
+  ],
+  "euro_banknote": [
+    "bitllets",
+    "bitllets d’euro",
+    "euro",
+    "signe"
+  ],
+  "european_union": [
+    "bandera"
+  ],
+  "evergreen_tree": [
+    "arbre",
+    "arbre de fulla perenne",
+    "perenne"
+  ],
+  "ewe": [
+    "femella",
+    "ovella",
+    "pècora"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "exclamació",
+    "interrogació",
+    "pregunta",
+    "puntuació",
+    "signe",
+    "signe d’exclamació i d’interrogació"
+  ],
+  "exploding_head": [
+    "cap que explota",
+    "estupefacta",
+    "estupefacte"
+  ],
+  "expressionless_face": [
+    "cara",
+    "inexpressió",
+    "inexpressiu",
+    "inexpressiva"
+  ],
+  "eye": [
+    "cos",
+    "ull"
+  ],
+  "eye_in_speech_bubble": [
+    "bafarada",
+    "testimoni",
+    "ull",
+    "ull dins d’una bafarada",
+    "vist"
+  ],
+  "eyes": [
+    "cara",
+    "cos",
+    "ull",
+    "ulls"
+  ],
+  "face_blowing_a_kiss": [
+    "amor",
+    "cara",
+    "cara que llança un petó",
+    "cor",
+    "petó"
+  ],
+  "face_savoring_food": [
+    "cara",
+    "cara d’assaborir un menjar deliciós",
+    "deliciós",
+    "llépol cara d’assaborir un menjar deliciós",
+    "nyam",
+    "somriure"
+  ],
+  "face_vomiting": [
+    "cara",
+    "cara que vomita",
+    "vòmit"
+  ],
+  "face_with_crossed_out_eyes": [
+    "cara",
+    "marejada",
+    "marejat"
+  ],
+  "face_with_hand_over_mouth": [
+    "cara amb la mà sobre la boca",
+    "tapant-se la boca",
+    "ups"
+  ],
+  "face_with_head_bandage": [
+    "cap embenat",
+    "cara",
+    "cara amb el cap embenat"
+  ],
+  "face_with_medical_mask": [
+    "cara",
+    "cara amb màscara",
+    "cara amb mascareta",
+    "malaltia",
+    "màscara",
+    "mascareta"
+  ],
+  "face_with_monocle": [
+    "cara amb monocle",
+    "estirada",
+    "estirat",
+    "monocle"
+  ],
+  "face_with_raised_eyebrow": [
+    "cara amb una cella aixecada",
+    "desconfiada",
+    "desconfiat",
+    "escèptic",
+    "escèptica"
+  ],
+  "face_with_steam_from_nose": [
+    "cara",
+    "cara que treu fum del nas",
+    "fum",
+    "nas",
+    "victòria"
+  ],
+  "face_with_symbols_on_mouth": [
+    "cara amb símbols a la boca",
+    "insults",
+    "paraulotes",
+    "renecs"
+  ],
+  "face_with_thermometer": [
+    "cara",
+    "cara amb termòmetre",
+    "malalt",
+    "malalta",
+    "malaltia",
+    "termòmetre"
+  ],
+  "face_with_tongue": [
+    "cara",
+    "cara que fa llengotes",
+    "llengota",
+    "llengua",
+    "llengua fora"
+  ],
+  "face_without_mouth": [
+    "callada",
+    "callat",
+    "cara",
+    "cara sense boca",
+    "sense boca",
+    "silenci"
+  ],
+  "factory": [
+    "edifici",
+    "fàbrica"
+  ],
+  "factory_worker": [
+    "fàbrica",
+    "industrial",
+    "operari",
+    "treballador"
+  ],
+  "fairy": [
+    "fada",
+    "oberó",
+    "puck",
+    "titània"
+  ],
+  "falafel": [
+    "cigró",
+    "falàfel",
+    "mandonguilla"
+  ],
+  "falkland_islands": [
+    "bandera"
+  ],
+  "fallen_leaf": [
+    "fulla",
+    "fulla que cau",
+    "seca"
+  ],
+  "family": [
+    "criatura",
+    "família",
+    "mare",
+    "pare"
+  ],
+  "family_man_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_boy_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_girl": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_man_girl_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "noia",
+    "pare"
+  ],
+  "family_man_girl_girl": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_man_man_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_man_boy_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_man_girl": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_man_man_girl_boy": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "noia",
+    "pare"
+  ],
+  "family_man_man_girl_girl": [
+    "criatura",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_man_woman_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_woman_boy_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_man_woman_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_man_woman_girl_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "home",
+    "mare",
+    "noi",
+    "noia",
+    "pare"
+  ],
+  "family_man_woman_girl_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "home",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_woman_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_woman_boy_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_woman_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_woman_girl_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "noia",
+    "pare"
+  ],
+  "family_woman_girl_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_woman_woman_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_woman_woman_boy_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "pare"
+  ],
+  "family_woman_woman_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "family_woman_woman_girl_boy": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noi",
+    "noia",
+    "pare"
+  ],
+  "family_woman_woman_girl_girl": [
+    "criatura",
+    "dona",
+    "família",
+    "mare",
+    "noia",
+    "pare"
+  ],
+  "farmer": [
+    "agricultor",
+    "granger",
+    "pagès"
+  ],
+  "faroe_islands": [
+    "bandera"
+  ],
+  "fast_down_button": [
+    "avall",
+    "botó",
+    "botó d’anar avall ràpidament",
+    "dues fletxes",
+    "ràpidament"
+  ],
+  "fast_forward_button": [
+    "avançar",
+    "botó",
+    "botó d’avançar ràpidament",
+    "dues fletxes",
+    "ràpidament"
+  ],
+  "fast_reverse_button": [
+    "botó",
+    "botó de retrocedir ràpidament",
+    "dues fletxes",
+    "ràpidament",
+    "retrocedir"
+  ],
+  "fast_up_button": [
+    "amunt",
+    "botó",
+    "botó d’anar amunt ràpidament",
+    "dues fletxes",
+    "ràpidament"
+  ],
+  "fax_machine": [
+    "fax"
+  ],
+  "fearful": [
+    "atemorida",
+    "atemorit",
+    "cara de por",
+    "espantada",
+    "espantat",
+    "por"
+  ],
+  "feather": [
+    "au",
+    "lleuger",
+    "ploma",
+    "plomatge",
+    "volar"
+  ],
+  "female_sign": [
+    "dona",
+    "femella",
+    "femení",
+    "símbol femení"
+  ],
+  "ferris_wheel": [
+    "fira",
+    "roda",
+    "roda de fira"
+  ],
+  "ferry": [
+    "ferri",
+    "vaixell",
+    "vaixell de passatgers"
+  ],
+  "field_hockey": [
+    "estic",
+    "herba",
+    "hoquei",
+    "hoquei sobre herba"
+  ],
+  "fiji": [
+    "bandera"
+  ],
+  "file_cabinet": [
+    "arxivador",
+    "dossier",
+    "moble"
+  ],
+  "file_folder": [
+    "arxius",
+    "carpeta",
+    "carpeta d’arxius",
+    "carpeta de fitxers",
+    "fitxers"
+  ],
+  "film_frames": [
+    "cinema",
+    "fotograma",
+    "fotograma de pel·lícula",
+    "pel·lícula"
+  ],
+  "film_projector": [
+    "cinema",
+    "projector",
+    "projector cinematogràfic"
+  ],
+  "finland": [
+    "bandera"
+  ],
+  "fire": [
+    "eina",
+    "flama",
+    "foc"
+  ],
+  "fire_engine": [
+    "bombers",
+    "camió de bombers",
+    "cotxe",
+    "cotxe de bombers"
+  ],
+  "fire_extinguisher": [
+    "apagar",
+    "extingir",
+    "extintor",
+    "foc"
+  ],
+  "firecracker": [
+    "dinamita",
+    "explosiu",
+    "focs d’artifici",
+    "petard"
+  ],
+  "firefighter": [
+    "bomber",
+    "bombera",
+    "camió de bombers"
+  ],
+  "fireworks": [
+    "celebració",
+    "focs artificials",
+    "focs d’artifici"
+  ],
+  "first_quarter_moon": [
+    "creixent",
+    "lluna",
+    "lluna en el primer quart creixent",
+    "quart"
+  ],
+  "first_quarter_moon_face": [
+    "cara",
+    "creixent",
+    "lluna",
+    "lluna en el primer quart amb cara",
+    "quart"
+  ],
+  "fish": [
+    "peix",
+    "peixos",
+    "zodíac"
+  ],
+  "fish_cake_with_swirl": [
+    "pastís",
+    "pastís de peix amb remolí",
+    "peix",
+    "remolí"
+  ],
+  "fishing_pole": [
+    "canya",
+    "canya de pescar",
+    "pescar"
+  ],
+  "five": [
+    "tecla"
+  ],
+  "five_o_clock": [
+    "17",
+    "17.00",
+    "5",
+    "5.00",
+    "cinc",
+    "en punt",
+    "les cinc en punt",
+    "rellotge"
+  ],
+  "five_thirty": [
+    "17.30",
+    "5.30",
+    "dos quarts",
+    "dos quarts de sis",
+    "rellotge"
+  ],
+  "flamingo": [
+    "cridaner",
+    "flamenc",
+    "tropical"
+  ],
+  "flashlight": [
+    "eina",
+    "electricitat",
+    "llanterna",
+    "llum"
+  ],
+  "flat_shoe": [
+    "ballarina",
+    "calçat",
+    "sabata plana",
+    "sabatilla",
+    "xinel·la"
+  ],
+  "flatbread": [
+    "arepa",
+    "coca",
+    "lavash",
+    "naan",
+    "pa de coca",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "flor",
+    "flor de lis",
+    "lis"
+  ],
+  "flexed_biceps": [
+    "bíceps",
+    "bíceps tensat",
+    "flexió de bíceps",
+    "forçut",
+    "múscul"
+  ],
+  "floppy_disk": [
+    "disc",
+    "disquet",
+    "equip"
+  ],
+  "flower_playing_cards": [
+    "cartes",
+    "cartes de flors",
+    "cartes de les flors",
+    "flors",
+    "hanafuda",
+    "japonès",
+    "joc"
+  ],
+  "flushed_face": [
+    "cara",
+    "enrojolada",
+    "galtes vermelles",
+    "vergonya"
+  ],
+  "fly": [
+    "epidèmia",
+    "larva",
+    "malaltia",
+    "mosca",
+    "podrit"
+  ],
+  "flying_disc": [
+    "disc volador",
+    "esport",
+    "plat a gol",
+    "ultimate"
+  ],
+  "flying_saucer": [
+    "objecte volador no identificat",
+    "ovni",
+    "plat volador",
+    "ufo"
+  ],
+  "fog": [
+    "boira",
+    "núvol",
+    "temps"
+  ],
+  "foggy": [
+    "boira",
+    "paisatge",
+    "paisatge emboirat"
+  ],
+  "folded_hands": [
+    "gràcies",
+    "mans",
+    "mans en oració",
+    "pregar",
+    "si us plau"
+  ],
+  "fondue": [
+    "cassola",
+    "desfet",
+    "formatge",
+    "suïssa",
+    "xocolata"
+  ],
+  "foot": [
+    "peu",
+    "puntada de peu",
+    "trepitjada"
+  ],
+  "footprints": [
+    "cos",
+    "empremta",
+    "petja",
+    "petjades",
+    "vestit"
+  ],
+  "fork_and_knife": [
+    "cobert",
+    "forquilla",
+    "forquilla i ganivet",
+    "ganivet"
+  ],
+  "fork_and_knife_with_plate": [
+    "forquilla",
+    "forquilla, ganivet i plat",
+    "ganivet",
+    "plat"
+  ],
+  "fortune_cookie": [
+    "fortuna",
+    "futur",
+    "galeta",
+    "galeta de la sort",
+    "profecia",
+    "sort"
+  ],
+  "fountain": [
+    "font"
+  ],
+  "fountain_pen": [
+    "estilogràfica",
+    "ploma"
+  ],
+  "four": [
+    "tecla"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "fulles",
+    "quatre",
+    "trèvol",
+    "trèvol de quatre fulles"
+  ],
+  "four_o_clock": [
+    "16",
+    "16.00",
+    "4",
+    "4.00",
+    "en punt",
+    "les quatre en punt",
+    "quatre",
+    "rellotge"
+  ],
+  "four_thirty": [
+    "16.30",
+    "4.30",
+    "dos quarts",
+    "dos quarts de cinc",
+    "rellotge"
+  ],
+  "fox": [
+    "cara",
+    "guineu"
+  ],
+  "framed_picture": [
+    "art",
+    "marc",
+    "marc amb quadre",
+    "museu",
+    "pintura",
+    "quadre"
+  ],
+  "france": [
+    "bandera"
+  ],
+  "free_button": [
+    "botó free",
+    "free",
+    "paraula",
+    "quadre"
+  ],
+  "french_fries": [
+    "fregides",
+    "patates"
+  ],
+  "french_guiana": [
+    "bandera"
+  ],
+  "french_polynesia": [
+    "bandera"
+  ],
+  "french_southern_territories": [
+    "bandera"
+  ],
+  "fried_shrimp": [
+    "fregida",
+    "gamba",
+    "tempura"
+  ],
+  "frog": [
+    "cara",
+    "granota"
+  ],
+  "front_facing_baby_chick": [
+    "au",
+    "bebè",
+    "petit",
+    "pollet",
+    "pollet de cara"
+  ],
+  "frowning": [
+    "cara",
+    "cara arrufada",
+    "emmurriat",
+    "empipat",
+    "enfadat"
+  ],
+  "frowning_face_with_open_mouth": [
+    "boca oberta",
+    "cara",
+    "cara emmurriada amb la boca oberta",
+    "emmurriada"
+  ],
+  "fu": [
+    "dit",
+    "dit cor",
+    "dit del cor",
+    "dit del mig",
+    "mà"
+  ],
+  "fuel_pump": [
+    "assortidor",
+    "assortidor de gasolina",
+    "benzinera",
+    "combustible",
+    "gasolina"
+  ],
+  "full_moon": [
+    "lluna",
+    "plena"
+  ],
+  "full_moon_face": [
+    "cara",
+    "lluna",
+    "lluna plena amb cara",
+    "plena"
+  ],
+  "funeral_urn": [
+    "funeral",
+    "mort",
+    "urna",
+    "urna funerària"
+  ],
+  "gabon": [
+    "bandera"
+  ],
+  "gambia": [
+    "bandera"
+  ],
+  "game_die": [
+    "dau",
+    "daus",
+    "joc"
+  ],
+  "garlic": [
+    "all",
+    "aromatitzant"
+  ],
+  "gear": [
+    "eina",
+    "engranatge"
+  ],
+  "gem_stone": [
+    "diamant",
+    "gemma",
+    "joia"
+  ],
+  "gemini": [
+    "bessons",
+    "gèmini",
+    "zodíac"
+  ],
+  "genie": [
+    "geni"
+  ],
+  "georgia": [
+    "bandera"
+  ],
+  "germany": [
+    "bandera"
+  ],
+  "ghana": [
+    "bandera"
+  ],
+  "ghost": [
+    "cara",
+    "conte",
+    "criatura",
+    "fantasia",
+    "fantasma"
+  ],
+  "gibraltar": [
+    "bandera"
+  ],
+  "giraffe": [
+    "girafa",
+    "taques"
+  ],
+  "girl": [
+    "jove",
+    "nena",
+    "noia"
+  ],
+  "glass_of_milk": [
+    "beguda",
+    "got",
+    "got de llet",
+    "llet"
+  ],
+  "glasses": [
+    "complements",
+    "ull",
+    "ulleres",
+    "vestuari"
+  ],
+  "globe_showing_americas": [
+    "amèrica",
+    "globus terraqüi amb amèrica",
+    "món"
+  ],
+  "globe_showing_asia_australia": [
+    "àsia",
+    "austràlia",
+    "globus terraqüi amb àsia i austràlia",
+    "món"
+  ],
+  "globe_showing_europe_africa": [
+    "àfrica",
+    "europa",
+    "globus terraqüi amb europa i àfrica",
+    "món"
+  ],
+  "globe_with_meridians": [
+    "globus terraqüi amb meridians",
+    "meridians",
+    "món"
+  ],
+  "gloves": [
+    "guants",
+    "mà"
+  ],
+  "glowing_star": [
+    "brillant",
+    "brillar",
+    "espurna",
+    "estrella"
+  ],
+  "goal_net": [
+    "esport",
+    "gol",
+    "porteria",
+    "xarxa"
+  ],
+  "goat": [
+    "cabra",
+    "capricorn",
+    "zodíac"
+  ],
+  "goblin": [
+    "cara",
+    "conte",
+    "criatura",
+    "fantasia",
+    "follet"
+  ],
+  "goggles": [
+    "natació",
+    "protecció",
+    "protecció dels ulls",
+    "protecció ocular",
+    "ulleres de piscina"
+  ],
+  "gorilla": [
+    "animal",
+    "goril·la",
+    "simi"
+  ],
+  "graduation_cap": [
+    "barret",
+    "barret de graduació",
+    "birret",
+    "celebració",
+    "graduació"
+  ],
+  "grapes": [
+    "fruita",
+    "planta",
+    "raïm"
+  ],
+  "greece": [
+    "bandera"
+  ],
+  "green_apple": [
+    "fruita",
+    "poma",
+    "verda"
+  ],
+  "green_book": [
+    "llibre",
+    "verd"
+  ],
+  "green_circle": [
+    "cercle",
+    "verd"
+  ],
+  "green_heart": [
+    "cor",
+    "cor verd"
+  ],
+  "green_salad": [
+    "amanida",
+    "bol",
+    "enciam",
+    "menjar",
+    "verd"
+  ],
+  "green_square": [
+    "quadrat",
+    "verd"
+  ],
+  "greenland": [
+    "bandera"
+  ],
+  "grenada": [
+    "bandera"
+  ],
+  "grimacing": [
+    "cara",
+    "cara que fa una ganyota amb les dents",
+    "dents",
+    "ganyota"
+  ],
+  "grin": [
+    "cara",
+    "cara molt somrient amb els ulls alegres",
+    "gran somriure",
+    "ulls"
+  ],
+  "grinning_cat": [
+    "boca oberta",
+    "cara",
+    "gat",
+    "gat somrient amb la boca oberta",
+    "somrient"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "cara",
+    "gat",
+    "gat somrient amb els ulls alegres",
+    "somrient",
+    "ulls alegres"
+  ],
+  "grinning_face": [
+    "cara",
+    "cara molt somrient",
+    "rialla",
+    "somriure",
+    "ulls"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "boca oberta",
+    "cara",
+    "cara amb rialla i els ulls somrients",
+    "somriure"
+  ],
+  "growing_heart": [
+    "batec",
+    "cor",
+    "cor que creix",
+    "creixent",
+    "emocionada",
+    "emocionat"
+  ],
+  "guadeloupe": [
+    "bandera"
+  ],
+  "guam": [
+    "bandera"
+  ],
+  "guard": [
+    "guarda"
+  ],
+  "guatemala": [
+    "bandera"
+  ],
+  "guernsey": [
+    "bandera"
+  ],
+  "guide_dog": [
+    "accessibilitat",
+    "gos pigall",
+    "guia",
+    "invident"
+  ],
+  "guinea": [
+    "bandera"
+  ],
+  "guinea_bissau": [
+    "bandera"
+  ],
+  "guitar": [
+    "corda",
+    "guitarra",
+    "instrument",
+    "música",
+    "rock"
+  ],
+  "guyana": [
+    "bandera"
+  ],
+  "haiti": [
+    "bandera"
+  ],
+  "hamburger": [
+    "hamburguesa"
+  ],
+  "hammer": [
+    "eina",
+    "martell"
+  ],
+  "hammer_and_pick": [
+    "eina",
+    "martell",
+    "martell i pic",
+    "pic"
+  ],
+  "hammer_and_wrench": [
+    "clau anglesa",
+    "eina",
+    "martell",
+    "martell i clau anglesa"
+  ],
+  "hamster": [
+    "cara",
+    "hàmster",
+    "mascota"
+  ],
+  "hand_with_fingers_splayed": [
+    "dits",
+    "dits oberts",
+    "mà amb els dits oberts",
+    "mà oberta"
+  ],
+  "handbag": [
+    "accessori",
+    "bossa",
+    "bossa de mà",
+    "roba"
+  ],
+  "handshake": [
+    "acord",
+    "encaixada",
+    "encaixada de mans",
+    "mans",
+    "salutació"
+  ],
+  "hash": [
+    "tecla"
+  ],
+  "hatching_chick": [
+    "au",
+    "ou",
+    "pollet",
+    "pollet que surt de l’ou"
+  ],
+  "headphone": [
+    "auricular"
+  ],
+  "headstone": [
+    "cementiri",
+    "làpida",
+    "tomba"
+  ],
+  "health_worker": [
+    "doctor",
+    "infermer",
+    "professional de la salut",
+    "salut",
+    "terapeuta"
+  ],
+  "hear_no_evil_monkey": [
+    "mona",
+    "mona que no escolta",
+    "orelles tapades"
+  ],
+  "heard_mcdonald_islands": [
+    "bandera"
+  ],
+  "heart": [
+    "cor",
+    "cor vermell"
+  ],
+  "heart_decoration": [
+    "cor",
+    "cor decoratiu"
+  ],
+  "heart_exclamation": [
+    "cor",
+    "exclamació",
+    "exclamació en forma de cor",
+    "puntuació"
+  ],
+  "heart_eyes": [
+    "amor",
+    "cara",
+    "cara somrient amb ulls en forma de cor",
+    "cor",
+    "ulls"
+  ],
+  "heart_suit": [
+    "cartes",
+    "cors",
+    "pal",
+    "pal de cors",
+    "partida"
+  ],
+  "heart_with_arrow": [
+    "cor",
+    "cor amb fletxa",
+    "cupido",
+    "fletxa"
+  ],
+  "heart_with_ribbon": [
+    "cor",
+    "cor amb un llaç",
+    "llaç",
+    "sant valentí"
+  ],
+  "heavy_dollar_sign": [
+    "dòlar",
+    "gran",
+    "signe",
+    "signe de dòlar gran"
+  ],
+  "hedgehog": [
+    "eriçó",
+    "punxes"
+  ],
+  "helicopter": [
+    "helicòpter",
+    "vehicle"
+  ],
+  "herb": [
+    "fulla",
+    "herba",
+    "planta"
+  ],
+  "hibiscus": [
+    "flor",
+    "hibisc",
+    "planta"
+  ],
+  "high_heeled_shoe": [
+    "calçat",
+    "sabata",
+    "sabata de taló",
+    "taló"
+  ],
+  "high_speed_train": [
+    "alta velocitat",
+    "shinkansen",
+    "tren",
+    "tren d’alta velocitat",
+    "via del tren"
+  ],
+  "high_voltage": [
+    "alta tensió",
+    "electricitat",
+    "llamp",
+    "perill",
+    "tensió",
+    "voltatge"
+  ],
+  "hiking_boot": [
+    "bota",
+    "bota de muntanya",
+    "càmping",
+    "excursionisme",
+    "trekking",
+    "tresc"
+  ],
+  "hindu_temple": [
+    "hindú",
+    "hinduisme",
+    "temple"
+  ],
+  "hippopotamus": [
+    "hipopòtam"
+  ],
+  "hole": [
+    "forat"
+  ],
+  "hollow_red_circle": [
+    "cercle",
+    "cercle buit vermell",
+    "gran",
+    "o",
+    "vermell"
+  ],
+  "honduras": [
+    "bandera"
+  ],
+  "honey_pot": [
+    "mel",
+    "pot",
+    "pot de mel"
+  ],
+  "honeybee": [
+    "abella",
+    "insecte"
+  ],
+  "hong_kong_sar_china": [
+    "bandera"
+  ],
+  "hook": [
+    "atrapar",
+    "corba",
+    "ganxo",
+    "ham",
+    "pescar",
+    "punt de venda"
+  ],
+  "horizontal_traffic_light": [
+    "horitzontal",
+    "semàfor",
+    "senyal",
+    "trànsit"
+  ],
+  "horse": [
+    "cavall",
+    "curses",
+    "eqüestre"
+  ],
+  "horse_face": [
+    "cara",
+    "cara de cavall",
+    "cavall"
+  ],
+  "horse_racing": [
+    "cavalls",
+    "curses",
+    "curses de cavalls",
+    "genet"
+  ],
+  "hospital": [
+    "edifici",
+    "medicina",
+    "metge",
+    "salut"
+  ],
+  "hot_beverage": [
+    "beguda",
+    "cafè",
+    "calenta",
+    "te",
+    "xocolata calenta"
+  ],
+  "hot_dog": [
+    "frankfurt",
+    "salsitxa"
+  ],
+  "hot_face": [
+    "calor",
+    "cara de calor",
+    "cara vermella",
+    "febre",
+    "suor"
+  ],
+  "hot_pepper": [
+    "bitxo",
+    "pebrot",
+    "picant",
+    "planta",
+    "xili"
+  ],
+  "hot_springs": [
+    "aigües termals",
+    "calor",
+    "complex turístic",
+    "fonts termals",
+    "vapor"
+  ],
+  "hotel": [
+    "edifici"
+  ],
+  "hourglass_done": [
+    "rellotge",
+    "rellotge de sorra",
+    "sorra",
+    "temporitzador"
+  ],
+  "hourglass_not_done": [
+    "rellotge",
+    "rellotge amb sorra que cau",
+    "sorra",
+    "temporitzador"
+  ],
+  "house": [
+    "casa",
+    "edifici",
+    "llar"
+  ],
+  "house_with_garden": [
+    "casa",
+    "casa amb jardí",
+    "jardí"
+  ],
+  "houses": [
+    "casa",
+    "cases",
+    "edifici"
+  ],
+  "hugs": [
+    "abraçada",
+    "cara",
+    "cara amb abraçada"
+  ],
+  "hungary": [
+    "bandera"
+  ],
+  "hushed_face": [
+    "cara",
+    "cara de sorpresa",
+    "sorpresa"
+  ],
+  "hut": [
+    "cabana",
+    "casa",
+    "casa rodona",
+    "iurta"
+  ],
+  "ice": [
+    "fred",
+    "glaçó",
+    "iceberg"
+  ],
+  "ice_cream": [
+    "crema",
+    "dolç",
+    "gel",
+    "gelat",
+    "postres"
+  ],
+  "ice_hockey": [
+    "disc",
+    "estic",
+    "gel",
+    "hoquei",
+    "hoquei sobre gel"
+  ],
+  "ice_skate": [
+    "gel",
+    "patinatge",
+    "patinatge sobre gel"
+  ],
+  "iceland": [
+    "bandera"
+  ],
+  "id_button": [
+    "botó id",
+    "id",
+    "identificació",
+    "identitat",
+    "símbol d’identificació"
+  ],
+  "in_hole": [
+    "banderí",
+    "banderí al forat",
+    "forat"
+  ],
+  "inbox_tray": [
+    "entrada",
+    "safata",
+    "safata d’entrada"
+  ],
+  "incoming_envelope": [
+    "recepció",
+    "sobre",
+    "sobre que arriba"
+  ],
+  "index_pointing_up": [
+    "amunt",
+    "índex",
+    "índex que apunta cap amunt"
+  ],
+  "india": [
+    "bandera"
+  ],
+  "indonesia": [
+    "bandera"
+  ],
+  "infinity": [
+    "il·limitat",
+    "infinit",
+    "per sempre",
+    "universal"
+  ],
+  "information_source": [
+    "i",
+    "informació",
+    "punt d’informació"
+  ],
+  "innocent": [
+    "angelet",
+    "aurèola",
+    "cara somrient amb aurèola",
+    "halo",
+    "sant",
+    "santa"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "alfabet",
+    "botó de lletres llatines",
+    "lletres",
+    "lletres llatines"
+  ],
+  "input_latin_lowercase": [
+    "botó de lletres llatines en minúscules",
+    "llatines",
+    "lletres",
+    "minúscules"
+  ],
+  "input_latin_uppercase": [
+    "botó de lletres llatines en majúscules",
+    "llatines",
+    "lletres",
+    "majúscules"
+  ],
+  "input_symbols": [
+    "〒♪&%",
+    "botó de símbols",
+    "símbols"
+  ],
+  "iran": [
+    "bandera"
+  ],
+  "iraq": [
+    "bandera"
+  ],
+  "ireland": [
+    "bandera"
+  ],
+  "isle_of_man": [
+    "bandera"
+  ],
+  "israel": [
+    "bandera"
+  ],
+  "italy": [
+    "bandera"
+  ],
+  "jack_o_lantern": [
+    "carabassa",
+    "carabassa de halloween",
+    "celebració",
+    "halloween",
+    "llanterna"
+  ],
+  "jamaica": [
+    "bandera"
+  ],
+  "japan": [
+    "bandera"
+  ],
+  "japanese_acceptable_button": [
+    "acceptable",
+    "botó japonès \"acceptable\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_application_button": [
+    "aplicar",
+    "botó japonès \"aplicació\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_bargain_button": [
+    "\"ganga\"",
+    "botó japonès \"ganga\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_castle": [
+    "castell",
+    "japonès"
+  ],
+  "japanese_congratulations_button": [
+    "botó japonès \"enhorabona\"",
+    "enhorabona",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_discount_button": [
+    "botó japonès \"descompte\"",
+    "ideograma",
+    "japonès",
+    "kanji",
+    "quadre"
+  ],
+  "japanese_dolls": [
+    "celebració",
+    "festival",
+    "nines",
+    "nines japoneses"
+  ],
+  "japanese_free_of_charge_button": [
+    "\"gratis\"",
+    "botó japonès \"gratis\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_here_button": [
+    "botó japonès \"aquí\"",
+    "japonès",
+    "katakana",
+    "koko",
+    "quadre"
+  ],
+  "japanese_monthly_amount_button": [
+    "\"quantitat mensual\"",
+    "botó japonès \"import mensual\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_no_vacancy_button": [
+    "botó japonès \"cap plaça lliure\"",
+    "ideograma",
+    "japonès",
+    "kanji",
+    "ple"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "\"de pagament\"",
+    "botó japonès \"de pagament\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_open_for_business_button": [
+    "botó japonès \"negoci obert\"",
+    "ideograma",
+    "japonès",
+    "kanji",
+    "obert"
+  ],
+  "japanese_passing_grade_button": [
+    "\"qualificació d’aprovat\"",
+    "botó japonès \"qualificació d’aprovat\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_post_office": [
+    "correus",
+    "japonesa",
+    "oficina",
+    "oficina de correus japonesa"
+  ],
+  "japanese_prohibited_button": [
+    "botó japonès \"prohibit\"",
+    "ideograma",
+    "japonès",
+    "kanji",
+    "prohibició"
+  ],
+  "japanese_reserved_button": [
+    "\"reservat\"",
+    "botó japonès \"reservat\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_secret_button": [
+    "\"secret\"",
+    "botó japonès \"secret\"",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "japanese_service_charge_button": [
+    "botó japonès \"càrrec per servei\"",
+    "japonès",
+    "katakana",
+    "quadre",
+    "sa"
+  ],
+  "japanese_symbol_for_beginner": [
+    "japonès",
+    "principiant",
+    "símbol",
+    "símbol japonès de principiant"
+  ],
+  "japanese_vacancy_button": [
+    "botó japonès \"plaça lliure\"",
+    "buit",
+    "ideograma",
+    "japonès",
+    "kanji"
+  ],
+  "jeans": [
+    "pantaló",
+    "pantalons",
+    "roba",
+    "texans"
+  ],
+  "jersey": [
+    "bandera"
+  ],
+  "joker": [
+    "carta",
+    "comodí",
+    "partida"
+  ],
+  "jordan": [
+    "bandera"
+  ],
+  "joy": [
+    "alegria",
+    "cara",
+    "cara amb llàgrimes d’alegria",
+    "llàgrimes"
+  ],
+  "joy_cat": [
+    "alegria",
+    "cara",
+    "gat",
+    "gat amb llàgrimes d’alegria",
+    "llàgrimes"
+  ],
+  "joystick": [
+    "control",
+    "palanca",
+    "palanca de control",
+    "videojoc"
+  ],
+  "judge": [
+    "balança",
+    "jutge"
+  ],
+  "kaaba": [
+    "islam",
+    "ka’ba",
+    "musulmà",
+    "religió"
+  ],
+  "kangaroo": [
+    "austràlia",
+    "cangur",
+    "marsupial",
+    "salt"
+  ],
+  "kazakhstan": [
+    "bandera"
+  ],
+  "kenya": [
+    "bandera"
+  ],
+  "key": [
+    "bloqueig",
+    "clau",
+    "contrasenya"
+  ],
+  "keyboard": [
+    "ordinador",
+    "teclat"
+  ],
+  "kick_scooter": [
+    "patinet",
+    "transport"
+  ],
+  "kimono": [
+    "japonès",
+    "quimono",
+    "roba",
+    "vestit"
+  ],
+  "kiribati": [
+    "bandera"
+  ],
+  "kiss": [
+    "parella",
+    "petó"
+  ],
+  "kiss_man_man": [
+    "home",
+    "parella",
+    "petó"
+  ],
+  "kiss_mark": [
+    "marca",
+    "marca de petó",
+    "petó"
+  ],
+  "kiss_woman_man": [
+    "dona",
+    "home",
+    "parella",
+    "petó"
+  ],
+  "kiss_woman_woman": [
+    "dona",
+    "parella",
+    "petó"
+  ],
+  "kissing_cat": [
+    "cara",
+    "gat",
+    "gat que fa un petó",
+    "petó",
+    "ulls tancats"
+  ],
+  "kissing_face": [
+    "cara",
+    "cara que fa un petó",
+    "petó"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "cara",
+    "cara que fa un petó amb els ulls tancats",
+    "petó",
+    "ulls tancats"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "cara",
+    "cara que fa un petó amb els ulls alegres",
+    "petó",
+    "ulls alegres"
+  ],
+  "kitchen_knife": [
+    "arma",
+    "cuina",
+    "ganivet",
+    "ganivet de cuina"
+  ],
+  "kite": [
+    "enlairar-se",
+    "estel",
+    "volar"
+  ],
+  "kiwi_fruit": [
+    "fruita",
+    "kiwi",
+    "menjar"
+  ],
+  "knot": [
+    "bramant",
+    "corda",
+    "nus"
+  ],
+  "koala": [
+    "coala",
+    "os"
+  ],
+  "kosovo": [
+    "bandera"
+  ],
+  "kuwait": [
+    "bandera"
+  ],
+  "kyrgyzstan": [
+    "bandera"
+  ],
+  "lab_coat": [
+    "bata de laboratori",
+    "científic",
+    "doctor",
+    "experiment"
+  ],
+  "label": [
+    "etiqueta"
+  ],
+  "lacrosse": [
+    "estic",
+    "gol",
+    "pilota"
+  ],
+  "ladder": [
+    "escala",
+    "escala de mà",
+    "esglaó",
+    "graó",
+    "pujar"
+  ],
+  "lady_beetle": [
+    "escarabat",
+    "insecte",
+    "marieta"
+  ],
+  "laos": [
+    "bandera"
+  ],
+  "laptop": [
+    "equip",
+    "ordinador portàtil",
+    "pc",
+    "personal",
+    "portàtil"
+  ],
+  "large_blue_diamond": [
+    "blau",
+    "geometria",
+    "gran",
+    "rombe"
+  ],
+  "large_orange_diamond": [
+    "geometria",
+    "gran",
+    "rombe",
+    "taronja"
+  ],
+  "last_quarter_moon": [
+    "lluna",
+    "lluna en l’últim quart minvant",
+    "minvant",
+    "quart"
+  ],
+  "last_quarter_moon_face": [
+    "cara",
+    "lluna",
+    "lluna en l’últim quart amb cara",
+    "minvant",
+    "quart"
+  ],
+  "last_track_button": [
+    "anterior",
+    "botó",
+    "botó de pista anterior",
+    "escena anterior",
+    "pista"
+  ],
+  "latin_cross": [
+    "creu",
+    "creu llatina",
+    "cristià",
+    "cristianisme",
+    "religió"
+  ],
+  "latvia": [
+    "bandera"
+  ],
+  "laughing": [
+    "boca oberta",
+    "cara",
+    "cara somrient amb els ulls tancats fortament",
+    "somriure",
+    "ulls tancats"
+  ],
+  "leaf_fluttering_in_wind": [
+    "fulla",
+    "fulla que vola amb el vent",
+    "vent"
+  ],
+  "leafy_green": [
+    "bleda xinesa",
+    "col",
+    "enciam",
+    "fulla verda",
+    "kale"
+  ],
+  "lebanon": [
+    "bandera"
+  ],
+  "ledger": [
+    "comptabilitat",
+    "llibre",
+    "llibre de comptabilitat"
+  ],
+  "left_arrow": [
+    "direcció",
+    "esquerra",
+    "fletxa",
+    "fletxa cap a l’esquerra",
+    "oest"
+  ],
+  "left_arrow_curving_right": [
+    "dreta",
+    "esquerra",
+    "fletxa",
+    "fletxa esquerra que gira cap a la dreta",
+    "gir"
+  ],
+  "left_facing_fist": [
+    "dret",
+    "puny",
+    "salutació"
+  ],
+  "left_luggage": [
+    "armari",
+    "consigna",
+    "equipatge",
+    "maletes",
+    "servei de consigna"
+  ],
+  "left_right_arrow": [
+    "dreta",
+    "esquerra",
+    "fletxa",
+    "fletxa cap a l’esquerra i cap a la dreta"
+  ],
+  "left_speech_bubble": [
+    "bafarada",
+    "bafarada de parlar cap a l’esquerra",
+    "esquerra",
+    "parlar"
+  ],
+  "leg": [
+    "cama",
+    "extremitat",
+    "puntada de peu"
+  ],
+  "lemon": [
+    "cítric",
+    "fruita",
+    "llimona",
+    "planta"
+  ],
+  "leo": [
+    "lleó",
+    "zodíac"
+  ],
+  "leopard": [
+    "lleopard",
+    "pantera"
+  ],
+  "lesotho": [
+    "bandera"
+  ],
+  "level_slider": [
+    "control lliscant",
+    "control lliscant de nivell",
+    "nivell"
+  ],
+  "liberia": [
+    "bandera"
+  ],
+  "libra": [
+    "balança",
+    "bàscula",
+    "justícia",
+    "zodíac"
+  ],
+  "libya": [
+    "bandera"
+  ],
+  "liechtenstein": [
+    "bandera"
+  ],
+  "light_bulb": [
+    "bombeta",
+    "còmic",
+    "electricitat",
+    "idea",
+    "llum"
+  ],
+  "light_rail": [
+    "ferrocarril",
+    "metro lleuger",
+    "tren",
+    "tren lleuger",
+    "vehicle"
+  ],
+  "link": [
+    "enllaç",
+    "enllaçar"
+  ],
+  "linked_paperclips": [
+    "clips",
+    "enganxats"
+  ],
+  "lion": [
+    "cara",
+    "cara de lleó",
+    "leo",
+    "lleó",
+    "zodíac"
+  ],
+  "lipstick": [
+    "cosmètics",
+    "maquillatge",
+    "pintallavis"
+  ],
+  "lithuania": [
+    "bandera"
+  ],
+  "litter_in_bin_sign": [
+    "brossa",
+    "paperera",
+    "signe de paperera",
+    "tirar la brossa"
+  ],
+  "lizard": [
+    "animal",
+    "llangardaix",
+    "rèptil"
+  ],
+  "llama": [
+    "alpaca",
+    "guanac",
+    "llana",
+    "vicunya"
+  ],
+  "lobster": [
+    "bisque",
+    "llagosta",
+    "marisc",
+    "pinces",
+    "sopa de marisc"
+  ],
+  "locked": [
+    "cadenat",
+    "tancar",
+    "tancat"
+  ],
+  "locked_with_key": [
+    "bloqueig",
+    "cadenat tancat amb clau",
+    "clau",
+    "segur",
+    "tancat"
+  ],
+  "locked_with_pen": [
+    "cadenat amb ploma",
+    "cadenat tancat",
+    "ploma",
+    "privacitat",
+    "privadesa"
+  ],
+  "locomotive": [
+    "locomotora",
+    "motor",
+    "tren",
+    "vapor",
+    "vehicle"
+  ],
+  "lollipop": [
+    "caramel",
+    "dolç",
+    "pal",
+    "piruleta",
+    "postres"
+  ],
+  "long_drum": [
+    "conga",
+    "percussió",
+    "ritme",
+    "timbal"
+  ],
+  "lotion_bottle": [
+    "ampolla de crema",
+    "loció",
+    "protecció solar",
+    "suavitzant",
+    "xampú"
+  ],
+  "loudspeaker": [
+    "altaveu",
+    "altaveu de megafonia",
+    "megafonia"
+  ],
+  "love_hotel": [
+    "cites",
+    "hotel",
+    "hotel de cites"
+  ],
+  "love_letter": [
+    "amor",
+    "carta",
+    "carta d’amor"
+  ],
+  "love_you_gesture": [
+    "dits",
+    "gest de t’estimo",
+    "mà",
+    "t’estimo"
+  ],
+  "luggage": [
+    "equipatge",
+    "maleta",
+    "viatge"
+  ],
+  "lungs": [
+    "exhalació",
+    "inhalació",
+    "òrgan",
+    "pulmons",
+    "respiració",
+    "respirar"
+  ],
+  "luxembourg": [
+    "bandera"
+  ],
+  "lying_face": [
+    "cara",
+    "cara de mentider",
+    "mentider",
+    "nas",
+    "pinotxo"
+  ],
+  "macao_sar_china": [
+    "bandera"
+  ],
+  "madagascar": [
+    "bandera"
+  ],
+  "mage": [
+    "bruixa",
+    "bruixot",
+    "fetiller",
+    "fetillera",
+    "mag"
+  ],
+  "magic_wand": [
+    "bruixa",
+    "bruixot",
+    "màgia",
+    "vareta màgica"
+  ],
+  "magnet": [
+    "atracció",
+    "ferradura",
+    "imant",
+    "magnètic"
+  ],
+  "magnifying_glass_tilted_left": [
+    "buscar",
+    "eina",
+    "esquerra",
+    "lupa",
+    "lupa cap a l’esquerra"
+  ],
+  "magnifying_glass_tilted_right": [
+    "buscar",
+    "dreta",
+    "eina",
+    "lupa",
+    "lupa cap a la dreta"
+  ],
+  "mahjong_red_dragon": [
+    "drac vermell",
+    "drac vermell de mahjong",
+    "joc",
+    "mahjong"
+  ],
+  "malawi": [
+    "bandera"
+  ],
+  "malaysia": [
+    "bandera"
+  ],
+  "maldives": [
+    "bandera"
+  ],
+  "male_sign": [
+    "home",
+    "mascle",
+    "masculí",
+    "símbol masculí"
+  ],
+  "mali": [
+    "bandera"
+  ],
+  "malta": [
+    "bandera"
+  ],
+  "mammoth": [
+    "extició",
+    "gran",
+    "llanut",
+    "mamut",
+    "ullal"
+  ],
+  "man": [
+    "home",
+    "masculí"
+  ],
+  "man_artist": [
+    "artista",
+    "home",
+    "masculí",
+    "paleta"
+  ],
+  "man_astronaut": [
+    "astronauta",
+    "coet",
+    "espai",
+    "home"
+  ],
+  "man_bald": [
+    "calvície",
+    "home",
+    "masculí"
+  ],
+  "man_biking": [
+    "bicicleta",
+    "ciclisme",
+    "ciclista",
+    "home",
+    "masculí"
+  ],
+  "man_bouncing_ball": [
+    "home",
+    "home amb una pilota",
+    "masculí",
+    "pilota"
+  ],
+  "man_bowing": [
+    "disculpa",
+    "gest",
+    "home",
+    "home capcot",
+    "reverència"
+  ],
+  "man_cartwheeling": [
+    "esport",
+    "gimnàstica",
+    "home",
+    "home que fa la roda",
+    "tombarella"
+  ],
+  "man_climbing": [
+    "escalada",
+    "escalador",
+    "home"
+  ],
+  "man_cook": [
+    "cuiner",
+    "home",
+    "masculí",
+    "xef"
+  ],
+  "man_curly_hair": [
+    "cabells arrissats",
+    "home",
+    "masculí"
+  ],
+  "man_dancing": [
+    "ball",
+    "ballant",
+    "disco",
+    "home",
+    "home que balla",
+    "música"
+  ],
+  "man_detective": [
+    "detectiu",
+    "espia",
+    "home",
+    "investigador"
+  ],
+  "man_elf": [
+    "home elf",
+    "màgic",
+    "màgica"
+  ],
+  "man_facepalming": [
+    "exasperació",
+    "home",
+    "home amb la mà a la cara",
+    "incredulitat",
+    "mà"
+  ],
+  "man_factory_worker": [
+    "fàbrica",
+    "home operari",
+    "industrial",
+    "masculí",
+    "operari",
+    "treballador"
+  ],
+  "man_fairy": [
+    "home fada",
+    "oberó",
+    "puck"
+  ],
+  "man_farmer": [
+    "agricultor",
+    "granger",
+    "home",
+    "masculí",
+    "pagès"
+  ],
+  "man_feeding_baby": [
+    "alimentar",
+    "alletar",
+    "bebè",
+    "dona",
+    "home que alleta un bebè"
+  ],
+  "man_firefighter": [
+    "bomber",
+    "camió de bombers",
+    "home",
+    "masculí"
+  ],
+  "man_frowning": [
+    "arrufar",
+    "celles",
+    "gest",
+    "home emmurriat",
+    "masculí"
+  ],
+  "man_genie": [
+    "geni",
+    "home geni"
+  ],
+  "man_gesturing_no": [
+    "gest",
+    "home",
+    "home amb gest de negació",
+    "mà",
+    "prohibit"
+  ],
+  "man_gesturing_ok": [
+    "acord",
+    "gest",
+    "home amb gest d’aprovació",
+    "mà",
+    "ok"
+  ],
+  "man_getting_haircut": [
+    "cabells",
+    "home",
+    "home que es talla els cabells",
+    "masculí",
+    "tallada",
+    "tallada de cabells"
+  ],
+  "man_getting_massage": [
+    "cara",
+    "home",
+    "masculí",
+    "massatge",
+    "massatge facial a un home"
+  ],
+  "man_golfing": [
+    "golf",
+    "golfista",
+    "home",
+    "home que juga a golf",
+    "masculí"
+  ],
+  "man_guard": [
+    "guarda",
+    "home",
+    "masculí"
+  ],
+  "man_health_worker": [
+    "doctor",
+    "home professional de la salut",
+    "infermer",
+    "masculí",
+    "metge",
+    "salut"
+  ],
+  "man_in_lotus_position": [
+    "home en la posició de lotus",
+    "ioga",
+    "lotus",
+    "meditació"
+  ],
+  "man_in_manual_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes",
+    "home",
+    "home amb una cadira de rodes manual"
+  ],
+  "man_in_motorized_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes",
+    "home",
+    "home amb una cadira de rodes elèctrica"
+  ],
+  "man_in_steamy_room": [
+    "home a la sauna",
+    "sauna",
+    "vapor"
+  ],
+  "man_in_tuxedo": [
+    "esmòquing",
+    "home",
+    "home amb esmòquing"
+  ],
+  "man_judge": [
+    "balança",
+    "home",
+    "justícia",
+    "jutge",
+    "masculí"
+  ],
+  "man_juggling": [
+    "home",
+    "malabarista home",
+    "malabars",
+    "masculí",
+    "multitasca"
+  ],
+  "man_kneeling": [
+    "agenollat",
+    "de genolls",
+    "home"
+  ],
+  "man_lifting_weights": [
+    "aixecador",
+    "home",
+    "home que aixeca peses",
+    "masculí",
+    "peses"
+  ],
+  "man_mage": [
+    "bruixot",
+    "fetiller",
+    "home mag"
+  ],
+  "man_mechanic": [
+    "electricista",
+    "home",
+    "lampista",
+    "masculí",
+    "mecànic"
+  ],
+  "man_mountain_biking": [
+    "bicicleta",
+    "ciclista",
+    "ciclista de muntanya home",
+    "home",
+    "muntanya"
+  ],
+  "man_office_worker": [
+    "arquitecte",
+    "home",
+    "home treballador d’oficina",
+    "negoci",
+    "oficina",
+    "treballador d’oficina"
+  ],
+  "man_pilot": [
+    "avió",
+    "home",
+    "masculí",
+    "pilot"
+  ],
+  "man_playing_handball": [
+    "esport",
+    "handbol",
+    "home",
+    "jugador d’handbol",
+    "masculí"
+  ],
+  "man_playing_water_polo": [
+    "esport",
+    "home",
+    "jugador de waterpolo",
+    "masculí",
+    "waterpolo"
+  ],
+  "man_police_officer": [
+    "agent",
+    "agent de policia home",
+    "home",
+    "masculí",
+    "policia"
+  ],
+  "man_pouting": [
+    "enuig",
+    "gest",
+    "home",
+    "home enutjat",
+    "masculí"
+  ],
+  "man_raising_hand": [
+    "gest",
+    "home",
+    "home amb la mà aixecada",
+    "mà",
+    "masculí"
+  ],
+  "man_red_hair": [
+    "cabells vermells",
+    "home",
+    "masculí"
+  ],
+  "man_rowing_boat": [
+    "barca",
+    "home",
+    "home que rema en una barca",
+    "masculí",
+    "rem"
+  ],
+  "man_running": [
+    "córrer",
+    "cursa",
+    "home",
+    "home que corre",
+    "marató"
+  ],
+  "man_s_shoe": [
+    "calçat",
+    "home",
+    "sabata",
+    "sabata d’home"
+  ],
+  "man_scientist": [
+    "biòleg",
+    "científic",
+    "enginyer",
+    "físic",
+    "home científic",
+    "químic"
+  ],
+  "man_shrugging": [
+    "dubte",
+    "home",
+    "home que arronsa les espatlles",
+    "ignorància",
+    "indiferència"
+  ],
+  "man_singer": [
+    "actor",
+    "cantant",
+    "cantant home",
+    "estrella",
+    "presentador"
+  ],
+  "man_standing": [
+    "dempeus",
+    "dret",
+    "home"
+  ],
+  "man_student": [
+    "graduació",
+    "graduat",
+    "home",
+    "masculí",
+    "noi estudiant"
+  ],
+  "man_superhero": [
+    "bo",
+    "heroi",
+    "home",
+    "home superheroi",
+    "superpoder"
+  ],
+  "man_supervillain": [
+    "criminal",
+    "dolent",
+    "home",
+    "home superdolent",
+    "malvat",
+    "superpoder"
+  ],
+  "man_surfing": [
+    "home",
+    "home que fa surf",
+    "masculí",
+    "surf",
+    "taula"
+  ],
+  "man_swimming": [
+    "home",
+    "home que neda",
+    "masculí",
+    "nedador",
+    "nedar"
+  ],
+  "man_teacher": [
+    "home",
+    "instructor",
+    "masculí",
+    "mestre",
+    "professor"
+  ],
+  "man_technologist": [
+    "desenvolupador",
+    "home",
+    "inventor",
+    "programador",
+    "tecnòleg"
+  ],
+  "man_tipping_hand": [
+    "ajuda",
+    "home",
+    "home amb mà inclinada cap amunt",
+    "informació",
+    "mà"
+  ],
+  "man_vampire": [
+    "dràcula",
+    "home vampir",
+    "mort vivent"
+  ],
+  "man_walking": [
+    "caminada",
+    "home",
+    "home caminant",
+    "home que camina",
+    "masculí",
+    "passejada"
+  ],
+  "man_wearing_turban": [
+    "home",
+    "home amb turbant",
+    "masculí",
+    "turbant"
+  ],
+  "man_white_hair": [
+    "cabells blancs",
+    "home",
+    "masculí"
+  ],
+  "man_with_veil": [
+    "home",
+    "home amb vel",
+    "vel"
+  ],
+  "man_with_white_cane": [
+    "accessibilitat",
+    "home",
+    "home amb un bastó per a invidents",
+    "invident"
+  ],
+  "man_zombie": [
+    "home zombi",
+    "mort vivent"
+  ],
+  "mango": [
+    "fruita",
+    "tropical"
+  ],
+  "mantelpiece_clock": [
+    "rellotge",
+    "rellotge de sobretaula",
+    "rellotge de taula",
+    "taula"
+  ],
+  "manual_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes manual"
+  ],
+  "map_of_japan": [
+    "japó",
+    "mapa",
+    "mapa del japó"
+  ],
+  "maple_leaf": [
+    "auró",
+    "fulla",
+    "fulla d’auró"
+  ],
+  "marshall_islands": [
+    "bandera"
+  ],
+  "martial_arts_uniform": [
+    "arts marcials",
+    "judo",
+    "karate",
+    "quimono",
+    "quimono d’arts marcials",
+    "taekwondo"
+  ],
+  "martinique": [
+    "bandera"
+  ],
+  "mate": [
+    "beguda"
+  ],
+  "mauritania": [
+    "bandera"
+  ],
+  "mauritius": [
+    "bandera"
+  ],
+  "mayotte": [
+    "bandera"
+  ],
+  "meat_on_bone": [
+    "carn",
+    "carn amb os",
+    "os"
+  ],
+  "mechanic": [
+    "electricista",
+    "lampista",
+    "mecànic"
+  ],
+  "mechanical_arm": [
+    "accessibilitat",
+    "pròtesi",
+    "pròtesi de braç"
+  ],
+  "mechanical_leg": [
+    "accessibilitat",
+    "pr`òtesi de cama",
+    "pròtesi"
+  ],
+  "medical_symbol": [
+    "esculapi",
+    "medicina",
+    "personal",
+    "serp",
+    "símbol mèdic"
+  ],
+  "megaphone": [
+    "animar",
+    "aplaudiments",
+    "megàfon"
+  ],
+  "melon": [
+    "fruita",
+    "meló",
+    "planta"
+  ],
+  "memo": [
+    "llapis",
+    "nota"
+  ],
+  "men_holding_hands": [
+    "bessons",
+    "gèmini",
+    "home",
+    "homes",
+    "homes que s’agafen de la mà",
+    "mans agafades",
+    "parella",
+    "zodíac"
+  ],
+  "men_s_room": [
+    "homes",
+    "lavabo",
+    "lavabo d’homes",
+    "servei"
+  ],
+  "men_with_bunny_ears": [
+    "ballarí",
+    "ballarins amb orelles de conill",
+    "conillet",
+    "festa",
+    "homes que ballen disfressats"
+  ],
+  "men_wrestling": [
+    "esport",
+    "jugadors de lluita",
+    "lluita",
+    "lluitar",
+    "masculí"
+  ],
+  "menorah": [
+    "canelobre",
+    "canelobre de set braços",
+    "menorà",
+    "religió",
+    "set braços"
+  ],
+  "mermaid": [
+    "dona sirena",
+    "sirena"
+  ],
+  "merman": [
+    "home sirena",
+    "tritó"
+  ],
+  "merperson": [
+    "dona sirena",
+    "persona sirena",
+    "sirena"
+  ],
+  "metro": [
+    "vehicle"
+  ],
+  "mexico": [
+    "bandera"
+  ],
+  "microbe": [
+    "ameba",
+    "bacteri",
+    "microbi",
+    "virus"
+  ],
+  "micronesia": [
+    "bandera"
+  ],
+  "microphone": [
+    "karaoke",
+    "micròfon"
+  ],
+  "microscope": [
+    "augment",
+    "ciència",
+    "eina",
+    "microscopi"
+  ],
+  "military_helmet": [
+    "casc",
+    "exèrcit",
+    "guerrer",
+    "militar",
+    "soldat"
+  ],
+  "military_medal": [
+    "celebració",
+    "medalla",
+    "militar"
+  ],
+  "milky_way": [
+    "espai",
+    "temps",
+    "via làctia"
+  ],
+  "minibus": [
+    "autobús",
+    "bus",
+    "microbús",
+    "minibús",
+    "vehicle"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "matemàtiques",
+    "menys",
+    "signe",
+    "signe de restar"
+  ],
+  "mirror": [
+    "espill",
+    "mirall",
+    "reflector",
+    "reflex"
+  ],
+  "moai": [
+    "cara",
+    "estàtua"
+  ],
+  "mobile_phone": [
+    "mòbil",
+    "telèfon"
+  ],
+  "mobile_phone_off": [
+    "apagat",
+    "desactivat",
+    "desconnectat",
+    "mòbil",
+    "telèfon"
+  ],
+  "mobile_phone_with_arrow": [
+    "fletxa",
+    "mòbil",
+    "rebre",
+    "telèfon mòbil",
+    "telèfon mòbil amb fletxa"
+  ],
+  "moldova": [
+    "bandera"
+  ],
+  "monaco": [
+    "bandera"
+  ],
+  "money_bag": [
+    "bossa",
+    "bossa de diners",
+    "diners"
+  ],
+  "money_mouth_face": [
+    "cara",
+    "cara de diners",
+    "diners",
+    "llengua",
+    "ulls"
+  ],
+  "money_with_wings": [
+    "ales",
+    "diners",
+    "diners amb ales"
+  ],
+  "mongolia": [
+    "bandera"
+  ],
+  "monkey": [
+    "mico"
+  ],
+  "monkey_face": [
+    "cara",
+    "cara de mona",
+    "mona"
+  ],
+  "monorail": [
+    "monocarril",
+    "vehicle"
+  ],
+  "montenegro": [
+    "bandera"
+  ],
+  "montserrat": [
+    "bandera"
+  ],
+  "moon_cake": [
+    "festival",
+    "pastisset de lluna",
+    "tardor",
+    "yuèbǐng"
+  ],
+  "moon_viewing_ceremony": [
+    "cerimònia",
+    "cerimònia de la lluna",
+    "lluna"
+  ],
+  "morocco": [
+    "bandera"
+  ],
+  "mosque": [
+    "islam",
+    "mesquita",
+    "musulmà",
+    "religió"
+  ],
+  "mosquito": [
+    "febre",
+    "insecte",
+    "malaltia",
+    "malària",
+    "mosquit",
+    "virus"
+  ],
+  "motor_boat": [
+    "llanxa",
+    "llanxa de motor",
+    "motor",
+    "vaixell"
+  ],
+  "motor_scooter": [
+    "escúter",
+    "moto",
+    "motocicleta",
+    "transport"
+  ],
+  "motorcycle": [
+    "curses",
+    "moto",
+    "motocicleta"
+  ],
+  "motorized_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes elèctrica"
+  ],
+  "motorway": [
+    "autopista",
+    "autovia",
+    "carretera"
+  ],
+  "mount_fuji": [
+    "fuji",
+    "mont",
+    "muntanya"
+  ],
+  "mountain": [
+    "muntanya"
+  ],
+  "mountain_cableway": [
+    "muntanya",
+    "telecabina",
+    "telecadira",
+    "telefèric",
+    "telefèric de muntanya"
+  ],
+  "mountain_railway": [
+    "ferrocarril",
+    "ferrocarril de muntanya",
+    "muntanya"
+  ],
+  "mouse": [
+    "ratolí"
+  ],
+  "mouse_face": [
+    "cara",
+    "cara de ratolí",
+    "ratolí"
+  ],
+  "mouse_trap": [
+    "parany",
+    "rata",
+    "ratera",
+    "ratolí",
+    "trampa"
+  ],
+  "mouth": [
+    "boca",
+    "cos",
+    "llavis"
+  ],
+  "movie_camera": [
+    "càmera",
+    "càmera cinematogràfica",
+    "cinema"
+  ],
+  "mozambique": [
+    "bandera"
+  ],
+  "mrs_claus": [
+    "àvia",
+    "còfia",
+    "mare",
+    "nadal",
+    "noel"
+  ],
+  "multiply": [
+    "×",
+    "cancel·lar",
+    "multiplicació",
+    "multiplicar",
+    "signe",
+    "signe de multiplicar",
+    "x"
+  ],
+  "mushroom": [
+    "bolet",
+    "planta"
+  ],
+  "musical_keyboard": [
+    "instrument",
+    "música",
+    "piano",
+    "teclat",
+    "teclat musical"
+  ],
+  "musical_note": [
+    "música",
+    "nota",
+    "nota musical"
+  ],
+  "musical_notes": [
+    "música",
+    "notes",
+    "notes musicals"
+  ],
+  "musical_score": [
+    "música",
+    "pentagrama"
+  ],
+  "muted_speaker": [
+    "altaveu",
+    "altaveu desactivat",
+    "en silenci",
+    "silenciar",
+    "silenciat"
+  ],
+  "mx_claus": [
+    "noel",
+    "noel, nadal"
+  ],
+  "myanmar_burma": [
+    "bandera"
+  ],
+  "nail_polish": [
+    "cosmètics",
+    "esmalt",
+    "esmalt d’ungles",
+    "manicura",
+    "ungla"
+  ],
+  "name_badge": [
+    "etiqueta",
+    "etiqueta identificadora",
+    "identificació"
+  ],
+  "namibia": [
+    "bandera"
+  ],
+  "national_park": [
+    "nacional",
+    "parc"
+  ],
+  "nauru": [
+    "bandera"
+  ],
+  "nauseated_face": [
+    "cara",
+    "cara de nàusees",
+    "mareig",
+    "marejada",
+    "marejat",
+    "nàusea",
+    "vomitar"
+  ],
+  "nazar_amulet": [
+    "amulet",
+    "nazar",
+    "pedra del mal d’ull",
+    "talismà"
+  ],
+  "necktie": [
+    "corbata",
+    "roba"
+  ],
+  "nepal": [
+    "bandera"
+  ],
+  "nerd_face": [
+    "aplicada",
+    "aplicat",
+    "cara de setciències",
+    "estudiar",
+    "estudiós",
+    "estudiosa"
+  ],
+  "nesting_dolls": [
+    "matrioixca",
+    "nina",
+    "nines russes",
+    "russa"
+  ],
+  "netherlands": [
+    "bandera"
+  ],
+  "neutral_face": [
+    "cara",
+    "cara neutra",
+    "neutral"
+  ],
+  "new_button": [
+    "botó new",
+    "new",
+    "nou",
+    "paraula",
+    "quadre"
+  ],
+  "new_caledonia": [
+    "bandera"
+  ],
+  "new_moon": [
+    "fosc",
+    "lluna",
+    "nova"
+  ],
+  "new_moon_face": [
+    "cara",
+    "cara de lluna nova",
+    "lluna nova"
+  ],
+  "new_zealand": [
+    "bandera"
+  ],
+  "newspaper": [
+    "diari",
+    "notícies"
+  ],
+  "next_track_button": [
+    "botó",
+    "botó de pista següent",
+    "escena següent",
+    "pista",
+    "següent"
+  ],
+  "ng_button": [
+    "botó ng",
+    "ng",
+    "paraula",
+    "quadre"
+  ],
+  "nicaragua": [
+    "bandera"
+  ],
+  "niger": [
+    "bandera"
+  ],
+  "nigeria": [
+    "bandera"
+  ],
+  "night_with_stars": [
+    "estrelles",
+    "nit",
+    "nit estrellada"
+  ],
+  "nine": [
+    "tecla"
+  ],
+  "nine_o_clock": [
+    "21",
+    "21.00",
+    "9",
+    "9.00",
+    "en punt",
+    "les nou en punt",
+    "nou",
+    "rellotge"
+  ],
+  "nine_thirty": [
+    "21.30",
+    "9.30",
+    "dos quarts",
+    "dos quarts de deu",
+    "rellotge"
+  ],
+  "ninja": [
+    "guerrer",
+    "lluitador",
+    "ocult",
+    "sigilós"
+  ],
+  "niue": [
+    "bandera"
+  ],
+  "no_bicycles": [
+    "bicicletes",
+    "bicicletes prohibides",
+    "bicis",
+    "bicis prohibides",
+    "prohibició"
+  ],
+  "no_entry": [
+    "direcció prohibida",
+    "entrada",
+    "no passeu",
+    "prohibició",
+    "prohibit entrar",
+    "trànsit"
+  ],
+  "no_littering": [
+    "brossa",
+    "llençar",
+    "prohibició",
+    "prohibit llençar brossa"
+  ],
+  "no_mobile_phones": [
+    "prohibició",
+    "prohibit l’ús de telèfons mòbils",
+    "prohibits els telèfons mòbils",
+    "telèfons mòbils"
+  ],
+  "no_one_under_eighteen": [
+    "menors d’edat",
+    "prohibició",
+    "prohibit a menors d’edat",
+    "prohibit a menors de 18 anys",
+    "prohibit a menors de divuit anys"
+  ],
+  "no_pedestrians": [
+    "prohibició",
+    "prohibit",
+    "prohibit el pas als vianants",
+    "vianants"
+  ],
+  "no_smoking": [
+    "fumar",
+    "prohibició",
+    "prohibit fumar"
+  ],
+  "non_potable_water": [
+    "aigua",
+    "aigua no potable",
+    "no potable"
+  ],
+  "norfolk_island": [
+    "bandera"
+  ],
+  "north_korea": [
+    "bandera"
+  ],
+  "north_macedonia": [
+    "bandera"
+  ],
+  "northern_mariana_islands": [
+    "bandera"
+  ],
+  "norway": [
+    "bandera"
+  ],
+  "nose": [
+    "cos",
+    "nas"
+  ],
+  "notebook": [
+    "llibreta",
+    "quadern"
+  ],
+  "notebook_with_decorative_cover": [
+    "coberta decorativa",
+    "llibre",
+    "quadern",
+    "quadern amb coberta decorativa"
+  ],
+  "nut_and_bolt": [
+    "cargol",
+    "cargol i femella",
+    "femella"
+  ],
+  "o_button_blood_type": [
+    "botó",
+    "botó o (grup sanguini)",
+    "o"
+  ],
+  "ocean": [
+    "aigua",
+    "mar",
+    "onada"
+  ],
+  "octopus": [
+    "pop"
+  ],
+  "oden": [
+    "broqueta",
+    "broqueta de marisc",
+    "kebab",
+    "marisc",
+    "pal"
+  ],
+  "office_building": [
+    "edifici",
+    "edifici d’oficines"
+  ],
+  "office_worker": [
+    "arquitecte",
+    "negoci",
+    "oficina",
+    "treballador d’oficina"
+  ],
+  "ogre": [
+    "cara",
+    "conte",
+    "criatura",
+    "fantasia"
+  ],
+  "oil_drum": [
+    "barril",
+    "barril de petroli",
+    "bidó",
+    "bidó de petroli",
+    "petroli"
+  ],
+  "ok_button": [
+    "botó ok",
+    "d’acord",
+    "ok",
+    "paraula"
+  ],
+  "ok_hand": [
+    "acceptació",
+    "mà",
+    "mà d’acceptació",
+    "ok",
+    "senyal d’aprovació",
+    "senyal d’aprovació amb la mà"
+  ],
+  "old_key": [
+    "antiga",
+    "clau",
+    "tancar"
+  ],
+  "old_man": [
+    "ancià",
+    "gran",
+    "home"
+  ],
+  "old_woman": [
+    "anciana",
+    "dona",
+    "gran"
+  ],
+  "older_person": [
+    "adult",
+    "gran",
+    "persona"
+  ],
+  "olive": [
+    "menjar",
+    "oliva"
+  ],
+  "om": [
+    "hindú",
+    "hinduisme",
+    "religió",
+    "símbol d’om"
+  ],
+  "oman": [
+    "bandera"
+  ],
+  "on_arrow": [
+    "fletxa",
+    "fletxa amb la paraula on!",
+    "on!",
+    "paraula"
+  ],
+  "oncoming_automobile": [
+    "automòbil",
+    "automòbil de cara",
+    "automòbil que arriba",
+    "proper"
+  ],
+  "oncoming_bus": [
+    "autobús",
+    "autobús de cara",
+    "autobús que arriba",
+    "bus",
+    "bus de cara",
+    "proper"
+  ],
+  "oncoming_fist": [
+    "a prop",
+    "cop",
+    "cop de puny",
+    "mà",
+    "puny"
+  ],
+  "oncoming_police_car": [
+    "cotxe",
+    "cotxe de policia de cara",
+    "cotxe de policia que arriba",
+    "policia",
+    "proper"
+  ],
+  "oncoming_taxi": [
+    "proper",
+    "taxi",
+    "taxi de cara",
+    "taxi que arriba"
+  ],
+  "one": [
+    "tecla"
+  ],
+  "one_o_clock": [
+    "1",
+    "1.00",
+    "13",
+    "13.00",
+    "en punt",
+    "la una en punt",
+    "rellotge"
+  ],
+  "one_piece_swimsuit": [
+    "banyador",
+    "vestit de bany"
+  ],
+  "one_thirty": [
+    "1.30",
+    "13.30",
+    "dos quarts",
+    "dos quarts de dues",
+    "rellotge"
+  ],
+  "onion": [
+    "aromatitzant",
+    "ceba"
+  ],
+  "open_book": [
+    "llibre",
+    "obert"
+  ],
+  "open_file_folder": [
+    "arxius",
+    "carpeta",
+    "carpeta d’arxius oberta",
+    "carpeta de fitxers oberta",
+    "fitxers",
+    "oberta"
+  ],
+  "open_hands": [
+    "cos",
+    "mà",
+    "mans obertes",
+    "oberta"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "bandera abaixada",
+    "bústia",
+    "bústia oberta amb la bandera abaixada",
+    "oberta"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "bandera aixecada",
+    "bústia",
+    "bústia oberta amb la bandera aixecada",
+    "oberta"
+  ],
+  "open_mouth": [
+    "boca oberta",
+    "cara",
+    "cara amb la boca oberta"
+  ],
+  "ophiuchus": [
+    "ofiüc",
+    "serp",
+    "serpentari",
+    "zodíac"
+  ],
+  "optical_disk": [
+    "cd",
+    "disc",
+    "dvd",
+    "equip",
+    "òptic",
+    "ordinador"
+  ],
+  "orange_book": [
+    "llibre",
+    "taronja"
+  ],
+  "orange_circle": [
+    "cercle",
+    "taronja"
+  ],
+  "orange_heart": [
+    "cor taronja",
+    "taronja"
+  ],
+  "orange_square": [
+    "quadrat",
+    "taronja"
+  ],
+  "orangutan": [
+    "simi"
+  ],
+  "orthodox_cross": [
+    "creu",
+    "ortodoxa",
+    "religió"
+  ],
+  "otter": [
+    "juganera",
+    "llúdria",
+    "pescadora"
+  ],
+  "outbox_tray": [
+    "safata",
+    "safata de sortida",
+    "sortida"
+  ],
+  "owl": [
+    "animal",
+    "au",
+    "mussol",
+    "ocell"
+  ],
+  "ox": [
+    "bou",
+    "brau",
+    "taure",
+    "zodíac"
+  ],
+  "oyster": [
+    "busseig",
+    "ostra",
+    "perla"
+  ],
+  "p_button": [
+    "aparcament",
+    "botó p",
+    "lletra p",
+    "p",
+    "pàrquing"
+  ],
+  "package": [
+    "caixa",
+    "paquet"
+  ],
+  "page_facing_up": [
+    "amunt",
+    "document",
+    "pàgina",
+    "pàgina cap amunt"
+  ],
+  "page_with_curl": [
+    "cargolada",
+    "pàgina",
+    "pàgina que es cargola"
+  ],
+  "pager": [
+    "buscapersones",
+    "cercapersones"
+  ],
+  "paintbrush": [
+    "pintar",
+    "pintura",
+    "pinzell"
+  ],
+  "pakistan": [
+    "bandera"
+  ],
+  "palau": [
+    "bandera"
+  ],
+  "palestinian_territories": [
+    "bandera"
+  ],
+  "palm_tree": [
+    "arbre",
+    "palma",
+    "palmera",
+    "planta"
+  ],
+  "palms_up_together": [
+    "mans juntes amb els palmells cap amunt",
+    "pregària"
+  ],
+  "panama": [
+    "bandera"
+  ],
+  "pancakes": [
+    "americanes",
+    "crep",
+    "creps",
+    "menjar",
+    "pancake"
+  ],
+  "panda": [
+    "cara"
+  ],
+  "paperclip": [
+    "clip"
+  ],
+  "papua_new_guinea": [
+    "bandera"
+  ],
+  "parachute": [
+    "ala delta",
+    "paracaigudes",
+    "paracaigudisme",
+    "paracaigudista",
+    "parapent"
+  ],
+  "paraguay": [
+    "bandera"
+  ],
+  "parrot": [
+    "lloro",
+    "ocell",
+    "parlar",
+    "pirata"
+  ],
+  "part_alternation_mark": [
+    "alternança",
+    "signe",
+    "signe d’alternança"
+  ],
+  "partying_face": [
+    "barret",
+    "cara festiva",
+    "celebració",
+    "espanta-sogres",
+    "festa"
+  ],
+  "passenger_ship": [
+    "passatgers",
+    "vaixell",
+    "vaixell de passatgers"
+  ],
+  "passport_control": [
+    "control",
+    "control de passaports",
+    "passaport"
+  ],
+  "pause_button": [
+    "botó",
+    "botó de pausa",
+    "dues barres",
+    "pausa",
+    "vertical"
+  ],
+  "paw_prints": [
+    "animal",
+    "petjades",
+    "petjades d’animal",
+    "potes"
+  ],
+  "peace_symbol": [
+    "pau",
+    "símbol",
+    "símbol de la pau"
+  ],
+  "peach": [
+    "fruita",
+    "planta",
+    "préssec"
+  ],
+  "peacock": [
+    "cua",
+    "ocell",
+    "orgull",
+    "ostentós",
+    "paó"
+  ],
+  "peanuts": [
+    "cacauet",
+    "cacauets",
+    "fruit",
+    "llegum",
+    "menjar",
+    "sec"
+  ],
+  "pear": [
+    "fruita",
+    "pera",
+    "planta"
+  ],
+  "pen": [
+    "bolígraf"
+  ],
+  "pencil": [
+    "llapis"
+  ],
+  "penguin": [
+    "au",
+    "pingüí"
+  ],
+  "pensive_face": [
+    "abatuda",
+    "cara",
+    "desanimada",
+    "pensativa"
+  ],
+  "people_holding_hands": [
+    "agafar",
+    "agafar-se de la mà",
+    "mà",
+    "mans agafades",
+    "parella",
+    "persona",
+    "persones que s’agafen de la mà"
+  ],
+  "people_hugging": [
+    "abraçada",
+    "adeu",
+    "gràcies",
+    "hola",
+    "persones que s’abracen"
+  ],
+  "people_with_bunny_ears": [
+    "conillet",
+    "dansaires",
+    "festa",
+    "orelles de conill",
+    "persones que ballen disfressades"
+  ],
+  "people_wrestling": [
+    "esport",
+    "lluitadores",
+    "lluitadors",
+    "persones lluitant",
+    "persones que lluiten"
+  ],
+  "performing_arts": [
+    "arts",
+    "arts interpretatives",
+    "interpretació",
+    "màscara",
+    "teatre"
+  ],
+  "persevering_face": [
+    "cara",
+    "cara de perseverança",
+    "perseverança"
+  ],
+  "person": [
+    "adult",
+    "persona"
+  ],
+  "person_bald": [
+    "adult",
+    "calvície",
+    "persona"
+  ],
+  "person_beard": [
+    "barba",
+    "home",
+    "home: barba",
+    "persona"
+  ],
+  "person_biking": [
+    "bicicleta",
+    "ciclisme",
+    "ciclista"
+  ],
+  "person_blond_hair": [
+    "cabells",
+    "persona amb els cabells rossos",
+    "persona: cabells rossos",
+    "ros"
+  ],
+  "person_bouncing_ball": [
+    "persona",
+    "persona amb una pilota",
+    "pilota"
+  ],
+  "person_bowing": [
+    "disculpa",
+    "gest",
+    "persona capcota",
+    "reverència"
+  ],
+  "person_cartwheeling": [
+    "esport",
+    "gimnàstica",
+    "persona que fa la roda",
+    "roda"
+  ],
+  "person_climbing": [
+    "escalada",
+    "escalador",
+    "escaladora",
+    "persona que escala"
+  ],
+  "person_curly_hair": [
+    "adult",
+    "cabells arrissats",
+    "persona"
+  ],
+  "person_facepalming": [
+    "exasperació",
+    "frustració",
+    "incredulitat",
+    "persona amb la mà a la cara",
+    "vergonya"
+  ],
+  "person_feeding_baby": [
+    "alimentar",
+    "alletar",
+    "bebè",
+    "persona",
+    "persona que alleta un bebè"
+  ],
+  "person_fencing": [
+    "esgrima",
+    "esgrimidor",
+    "esgrimidora",
+    "persona que fa esgrima",
+    "tirador",
+    "tiradora"
+  ],
+  "person_frowning": [
+    "emmurriament",
+    "persona",
+    "persona arrufada",
+    "persona emmurriada"
+  ],
+  "person_gesturing_no": [
+    "gest de negació",
+    "mà",
+    "negació",
+    "no",
+    "prohibit"
+  ],
+  "person_gesturing_ok": [
+    "aprovació",
+    "gest",
+    "gest d’aprovació"
+  ],
+  "person_getting_haircut": [
+    "cabells",
+    "persona a la perruqueria",
+    "persona que es talla els cabells",
+    "tallada de cabells"
+  ],
+  "person_getting_massage": [
+    "cara",
+    "massatge",
+    "persona que rep un massatge facial",
+    "saló"
+  ],
+  "person_golfing": [
+    "bola",
+    "golf",
+    "golfista",
+    "pal",
+    "pilota"
+  ],
+  "person_in_bed": [
+    "dormir",
+    "hotel",
+    "llit",
+    "persona",
+    "persona al llit"
+  ],
+  "person_in_lotus_position": [
+    "ioga",
+    "lotus",
+    "meditació",
+    "persona en la posició de lotus"
+  ],
+  "person_in_manual_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes manual",
+    "persona amb una cadira de rodes manual"
+  ],
+  "person_in_motorized_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes elèctrica",
+    "persona amb una cadira de rodes elèctrica"
+  ],
+  "person_in_steamy_room": [
+    "persona a la sauna",
+    "sauna",
+    "vapor"
+  ],
+  "person_in_suit_levitating": [
+    "home",
+    "home de negocis que levita",
+    "levitar",
+    "negocis"
+  ],
+  "person_in_tuxedo": [
+    "esmòquing",
+    "nuvi",
+    "persona",
+    "persona amb esmòquing"
+  ],
+  "person_juggling": [
+    "circ",
+    "joc malabar",
+    "malabarisme",
+    "malabarista",
+    "persona que fa malabars"
+  ],
+  "person_kneeling": [
+    "agenollada",
+    "agenollat",
+    "de genolls",
+    "genoll",
+    "persona agenollada"
+  ],
+  "person_lifting_weights": [
+    "aixecador",
+    "halterofília",
+    "persona que aixeca peses",
+    "pes",
+    "pesa"
+  ],
+  "person_mountain_biking": [
+    "ciclista",
+    "ciclista de muntanya",
+    "muntanya"
+  ],
+  "person_playing_handball": [
+    "esport",
+    "handbol",
+    "persona que juga a handbol",
+    "pilota"
+  ],
+  "person_playing_water_polo": [
+    "aigua",
+    "esport",
+    "persona que juga a waterpolo",
+    "waterpolo"
+  ],
+  "person_pouting": [
+    "enuig",
+    "persona",
+    "persona enutjada"
+  ],
+  "person_raising_hand": [
+    "mà aixecada",
+    "persona",
+    "persona amb la mà aixecada",
+    "persona contenta que aixeca la mà",
+    "somriure"
+  ],
+  "person_red_hair": [
+    "adult",
+    "cabells vermells",
+    "persona"
+  ],
+  "person_rowing_boat": [
+    "bot",
+    "persona que rema en una barca",
+    "rems"
+  ],
+  "person_running": [
+    "corredor",
+    "marató",
+    "persona corrent",
+    "persona que corre"
+  ],
+  "person_shrugging": [
+    "arronsar",
+    "espatlles",
+    "ni idea",
+    "persona que arronsa les espatlles"
+  ],
+  "person_standing": [
+    "dempeus",
+    "dret",
+    "dreta",
+    "persona dreta"
+  ],
+  "person_surfing": [
+    "onada",
+    "persona que fa surf",
+    "surf",
+    "taula"
+  ],
+  "person_swimming": [
+    "natació",
+    "nedar",
+    "persona nedant",
+    "persona que neda"
+  ],
+  "person_taking_bath": [
+    "bany",
+    "banyera",
+    "persona",
+    "persona a la banyera"
+  ],
+  "person_tipping_hand": [
+    "ajuda",
+    "flexió",
+    "informació",
+    "mà",
+    "persona amb mà inclinada cap amunt"
+  ],
+  "person_walking": [
+    "caminada",
+    "passejada",
+    "persona caminant",
+    "persona que camina"
+  ],
+  "person_wearing_turban": [
+    "persona amb turbant",
+    "turbant"
+  ],
+  "person_white_hair": [
+    "adult",
+    "cabells blancs",
+    "persona"
+  ],
+  "person_with_skullcap": [
+    "gorra",
+    "home",
+    "home amb barret xinès",
+    "xinès"
+  ],
+  "person_with_veil": [
+    "casament",
+    "núvia",
+    "persona",
+    "persona amb vel",
+    "vel"
+  ],
+  "person_with_white_cane": [
+    "accessibilitat",
+    "invident",
+    "persona amb un bastó per a invidents"
+  ],
+  "peru": [
+    "bandera"
+  ],
+  "petri_dish": [
+    "bacteri",
+    "biòleg",
+    "biòloga",
+    "biologia",
+    "cultiu",
+    "laboratori",
+    "placa de petri"
+  ],
+  "philippines": [
+    "bandera"
+  ],
+  "pick": [
+    "eina",
+    "mineria",
+    "pic"
+  ],
+  "pickup_truck": [
+    "camioneta",
+    "descoberta",
+    "pickup"
+  ],
+  "pie": [
+    "coca",
+    "farcit",
+    "pastís"
+  ],
+  "pig": [
+    "porc",
+    "truja"
+  ],
+  "pig_face": [
+    "cara",
+    "cara de porc",
+    "porc"
+  ],
+  "pig_nose": [
+    "nas",
+    "nas de porc",
+    "porc"
+  ],
+  "pill": [
+    "malalt",
+    "medicina",
+    "metge",
+    "pastilla",
+    "píndola"
+  ],
+  "pilot": [
+    "avió"
+  ],
+  "pinched_fingers": [
+    "dits",
+    "dits junts",
+    "gest de la mà",
+    "interrogació",
+    "sarcàstic"
+  ],
+  "pinching_hand": [
+    "mà que pessiga",
+    "quantitat petita"
+  ],
+  "pine_decoration": [
+    "bambú",
+    "celebració",
+    "decoració",
+    "decoració de pi",
+    "japonès",
+    "pi"
+  ],
+  "pineapple": [
+    "fruita",
+    "pinya"
+  ],
+  "ping_pong": [
+    "ping-pong",
+    "tenis de taula",
+    "tennis de taula"
+  ],
+  "pirate_flag": [
+    "bandera pirata",
+    "botí",
+    "jolly roger",
+    "pirata",
+    "tresor"
+  ],
+  "pisces": [
+    "peix",
+    "peixos",
+    "zodíac"
+  ],
+  "pitcairn_islands": [
+    "bandera"
+  ],
+  "pizza": [
+    "formatge",
+    "porció",
+    "tall"
+  ],
+  "piñata": [
+    "celebració",
+    "festa",
+    "pinyata"
+  ],
+  "placard": [
+    "cartell",
+    "manifestació",
+    "pancarta",
+    "protesta",
+    "senyal"
+  ],
+  "place_of_worship": [
+    "culte",
+    "lloc",
+    "lloc de culte",
+    "religió"
+  ],
+  "play_button": [
+    "botó",
+    "botó de reproducció",
+    "fletxa cap a la dreta",
+    "reproducció"
+  ],
+  "play_or_pause_button": [
+    "botó",
+    "botó de pausa o de reproducció",
+    "pausa",
+    "reproducció"
+  ],
+  "pleading_face": [
+    "cara de súplica",
+    "pietat",
+    "súplica",
+    "ulls de cadell"
+  ],
+  "plunger": [
+    "desembossador",
+    "embós",
+    "lampista",
+    "lavabo",
+    "succió"
+  ],
+  "plus": [
+    "+",
+    "matemàtiques",
+    "més",
+    "signe",
+    "signe de sumar"
+  ],
+  "poland": [
+    "bandera"
+  ],
+  "polar_bear": [
+    "àrtic",
+    "blanc",
+    "os",
+    "os polar"
+  ],
+  "police_car": [
+    "cotxe",
+    "cotxe de policia",
+    "policia"
+  ],
+  "police_car_light": [
+    "cotxe",
+    "llum",
+    "llum de cotxe de policia",
+    "policia"
+  ],
+  "police_officer": [
+    "agent",
+    "agent de policia",
+    "policia",
+    "seguretat"
+  ],
+  "poodle": [
+    "caniche",
+    "gos",
+    "púdel"
+  ],
+  "pool_8_ball": [
+    "8",
+    "billar",
+    "bola",
+    "bola de billar",
+    "bola negra de billar"
+  ],
+  "poop": [
+    "caca",
+    "cara",
+    "còmic",
+    "merda",
+    "monstre"
+  ],
+  "popcorn": [
+    "blat de moro",
+    "crispetes"
+  ],
+  "portugal": [
+    "bandera"
+  ],
+  "post_office": [
+    "correus",
+    "europea",
+    "oficina",
+    "oficina de correus",
+    "oficina de correus europea"
+  ],
+  "postal_horn": [
+    "corn de posta",
+    "corneta de posta",
+    "corneta de postilló",
+    "correus",
+    "símbol",
+    "símbol de correus"
+  ],
+  "postbox": [
+    "bústia",
+    "carta",
+    "correu"
+  ],
+  "pot_of_food": [
+    "cassola",
+    "cassola de menjar",
+    "estofat",
+    "guisat",
+    "menjar"
+  ],
+  "potable_water": [
+    "aigua",
+    "potable"
+  ],
+  "potato": [
+    "hortalissa",
+    "menjar",
+    "patata",
+    "tubercle"
+  ],
+  "potted_plant": [
+    "avorrit",
+    "casa",
+    "créixer",
+    "inútil",
+    "planta",
+    "planta amb test"
+  ],
+  "poultry_leg": [
+    "cuixa",
+    "cuixa de pollastre",
+    "pollastre"
+  ],
+  "pound_banknote": [
+    "bitllets",
+    "bitllets de lliura",
+    "lliura",
+    "signe"
+  ],
+  "pouting_cat": [
+    "cara",
+    "enuig",
+    "gat",
+    "gat enutjat"
+  ],
+  "prayer_beads": [
+    "collaret",
+    "granadura",
+    "oració",
+    "religió",
+    "rosari"
+  ],
+  "pregnant_woman": [
+    "dona",
+    "embaràs",
+    "embarassada",
+    "prenyada"
+  ],
+  "pretzel": [
+    "brètzel",
+    "brioixeria",
+    "cargolat",
+    "menjar"
+  ],
+  "prince": [
+    "príncep"
+  ],
+  "princess": [
+    "conte",
+    "fades",
+    "fantasia",
+    "princesa"
+  ],
+  "printer": [
+    "impressora",
+    "ordinador"
+  ],
+  "prohibited": [
+    "accés",
+    "no passeu",
+    "prohibició",
+    "prohibit"
+  ],
+  "puerto_rico": [
+    "bandera"
+  ],
+  "purple_circle": [
+    "cercle",
+    "lila",
+    "morat",
+    "violeta"
+  ],
+  "purple_heart": [
+    "cor",
+    "cor lila"
+  ],
+  "purple_square": [
+    "lila",
+    "morat",
+    "quadrat",
+    "violeta"
+  ],
+  "purse": [
+    "accessori",
+    "moneda",
+    "moneder",
+    "roba"
+  ],
+  "pushpin": [
+    "agulla",
+    "xinxeta"
+  ],
+  "puzzle_piece": [
+    "encaixar",
+    "peça",
+    "peces de trencaclosques",
+    "pista",
+    "puzle",
+    "trencaclosques"
+  ],
+  "qatar": [
+    "bandera"
+  ],
+  "rabbit": [
+    "conill",
+    "mascota"
+  ],
+  "rabbit_face": [
+    "cara",
+    "cara de conill",
+    "conill"
+  ],
+  "raccoon": [
+    "astut",
+    "curiós",
+    "os rentador"
+  ],
+  "racing_car": [
+    "carreres",
+    "cotxe",
+    "cotxe de curses",
+    "curses",
+    "fórmula 1"
+  ],
+  "radio": [
+    "ràdio",
+    "vídeo"
+  ],
+  "radio_button": [
+    "botó",
+    "botó d’opció",
+    "geometria",
+    "opció"
+  ],
+  "radioactive": [
+    "radioactiu",
+    "senyal"
+  ],
+  "railway_car": [
+    "tren elèctric",
+    "vagó",
+    "vagó de tren elèctric"
+  ],
+  "railway_track": [
+    "tren",
+    "via",
+    "via de tren"
+  ],
+  "rainbow": [
+    "arc",
+    "arc de sant martí",
+    "pluja",
+    "sant martí",
+    "temps"
+  ],
+  "rainbow_flag": [
+    "arc de sant martí",
+    "bandera",
+    "bandera de l’arc de sant martí"
+  ],
+  "raised_back_of_hand": [
+    "alçada",
+    "mà",
+    "revers",
+    "revers de la mà"
+  ],
+  "raised_fist": [
+    "mà",
+    "puny",
+    "puny alçat"
+  ],
+  "raised_hand": [
+    "cos",
+    "mà",
+    "mà aixecada"
+  ],
+  "raising_hands": [
+    "celebració",
+    "hurra",
+    "mans aixecades",
+    "mans enlaire"
+  ],
+  "ram": [
+    "àries",
+    "mardà",
+    "marrà",
+    "ovella",
+    "zodíac"
+  ],
+  "rat": [
+    "rata",
+    "ratolí"
+  ],
+  "razor": [
+    "afaitada",
+    "esmolada",
+    "navalla d’afaitar"
+  ],
+  "receipt": [
+    "comptabilitat",
+    "llibres",
+    "prova",
+    "rebut",
+    "tiquet"
+  ],
+  "record_button": [
+    "botó",
+    "botó d’enregistrar",
+    "cercle",
+    "enregistrar"
+  ],
+  "recycling_symbol": [
+    "reciclatge",
+    "símbol",
+    "símbol de reciclatge"
+  ],
+  "red_apple": [
+    "fruita",
+    "poma",
+    "vermella"
+  ],
+  "red_circle": [
+    "cercle",
+    "geometria",
+    "vermell"
+  ],
+  "red_envelope": [
+    "bona sort",
+    "diners",
+    "hóngbāo",
+    "lai see",
+    "regal",
+    "sobre vermell"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "exclamació",
+    "puntuació",
+    "signe",
+    "signe d’exclamació"
+  ],
+  "red_paper_lantern": [
+    "fanal",
+    "fanal de paper vermell",
+    "paper",
+    "vermell"
+  ],
+  "red_question_mark": [
+    "?",
+    "interrogació",
+    "puntuació",
+    "signe",
+    "signe d’interrogació"
+  ],
+  "red_square": [
+    "quadrat",
+    "vermell"
+  ],
+  "red_triangle_pointed_down": [
+    "avall",
+    "geometria",
+    "triangle",
+    "triangle vermell cap avall",
+    "vermell"
+  ],
+  "red_triangle_pointed_up": [
+    "amunt",
+    "geometria",
+    "triangle",
+    "triangle vermell cap amunt",
+    "vermell",
+    "vermell cap amunt"
+  ],
+  "registered": [
+    "marca",
+    "registrada"
+  ],
+  "relieved_face": [
+    "alleujament",
+    "cara",
+    "cara d’alleujament"
+  ],
+  "reminder_ribbon": [
+    "celebració",
+    "cinta",
+    "commemorar",
+    "llaç commemoratiu"
+  ],
+  "repeat_button": [
+    "botó",
+    "botó de repetició",
+    "fletxes en sentit horari",
+    "repetició"
+  ],
+  "repeat_single_button": [
+    "botó",
+    "botó de repetició única",
+    "fletxes en sentit horari",
+    "repetició",
+    "única"
+  ],
+  "rescue_worker_s_helmet": [
+    "casc",
+    "casc amb creu blanca",
+    "creu blanca",
+    "emergència",
+    "urgència"
+  ],
+  "restroom": [
+    "lavabo",
+    "lavabos",
+    "servei",
+    "tocador",
+    "wc"
+  ],
+  "reunion": [
+    "bandera"
+  ],
+  "reverse_button": [
+    "botó",
+    "botó de retrocedir",
+    "fletxa cap a l’esquerra",
+    "retrocedir"
+  ],
+  "revolving_hearts": [
+    "cors",
+    "cors que giren",
+    "gir"
+  ],
+  "rhinoceros": [
+    "rinoceront"
+  ],
+  "ribbon": [
+    "celebració",
+    "cinta",
+    "llaç"
+  ],
+  "rice_ball": [
+    "arròs",
+    "bola",
+    "bola d’arròs"
+  ],
+  "rice_cracker": [
+    "arròs",
+    "galeta",
+    "galeta d’arròs"
+  ],
+  "right_anger_bubble": [
+    "bafarada",
+    "bafarada d’enuig cap a la dreta",
+    "dreta",
+    "parlar"
+  ],
+  "right_arrow": [
+    "direcció",
+    "dreta",
+    "est",
+    "fletxa",
+    "fletxa cap a la dreta"
+  ],
+  "right_arrow_curving_down": [
+    "avall",
+    "dreta",
+    "fletxa",
+    "fletxa dreta que gira cap avall",
+    "gir"
+  ],
+  "right_arrow_curving_left": [
+    "dreta",
+    "esquerra",
+    "fletxa",
+    "fletxa dreta que gira cap a l’esquerra",
+    "gir"
+  ],
+  "right_arrow_curving_up": [
+    "amunt",
+    "dreta",
+    "fletxa",
+    "fletxa dreta que gira cap amunt",
+    "gir"
+  ],
+  "right_facing_fist": [
+    "esquerre",
+    "puny",
+    "salutació"
+  ],
+  "ring": [
+    "anell",
+    "diamant"
+  ],
+  "ringed_planet": [
+    "planeta amb anell",
+    "saturn",
+    "saturní"
+  ],
+  "roasted_sweet_potato": [
+    "moniato",
+    "rostit"
+  ],
+  "robot": [
+    "cara",
+    "monstre"
+  ],
+  "rock": [
+    "pedra",
+    "penyal",
+    "pesat",
+    "roc",
+    "roca",
+    "sòlid"
+  ],
+  "rocket": [
+    "coet",
+    "espacial",
+    "espai",
+    "vehicle"
+  ],
+  "rofl": [
+    "cara",
+    "cara que es peta de riure",
+    "partir-se",
+    "petar-se de riure",
+    "pixar-se",
+    "riure"
+  ],
+  "roll_eyes": [
+    "cara",
+    "cara amb els ulls en blanc",
+    "ulls en blanc"
+  ],
+  "roll_of_paper": [
+    "paper de vàter",
+    "paper higiènic",
+    "rotlle de paper",
+    "tovalloleta de paper"
+  ],
+  "rolled_up_newspaper": [
+    "diari",
+    "enrotllat"
+  ],
+  "roller_coaster": [
+    "muntanya",
+    "parc d’atraccions",
+    "russa"
+  ],
+  "roller_skate": [
+    "patí",
+    "patí de rodes",
+    "rodes"
+  ],
+  "romania": [
+    "bandera"
+  ],
+  "rooster": [
+    "au",
+    "gall"
+  ],
+  "rose": [
+    "flor",
+    "planta",
+    "rosa"
+  ],
+  "rosette": [
+    "planta",
+    "roseta"
+  ],
+  "round_pushpin": [
+    "rodona",
+    "xinxeta"
+  ],
+  "rugby_football": [
+    "pilota",
+    "pilota de rugbi",
+    "rugbi"
+  ],
+  "running_shirt": [
+    "córrer",
+    "samarreta",
+    "samarreta per córrer"
+  ],
+  "running_shoe": [
+    "calçat",
+    "córrer",
+    "sabatilla",
+    "sabatilla de córrer"
+  ],
+  "russia": [
+    "bandera"
+  ],
+  "rwanda": [
+    "bandera"
+  ],
+  "sad_but_relieved_face": [
+    "alleujament",
+    "cara",
+    "cara de decepció, però alleujada",
+    "decepció",
+    "uf"
+  ],
+  "safety_pin": [
+    "imperdible",
+    "punk",
+    "punk rock"
+  ],
+  "safety_vest": [
+    "armilla",
+    "armilla salvavides",
+    "emergència",
+    "seguretat"
+  ],
+  "sagittarius": [
+    "arquer",
+    "sagitari",
+    "zodíac"
+  ],
+  "sailboat": [
+    "iot",
+    "mar",
+    "vaixell",
+    "vehicle",
+    "veler"
+  ],
+  "sake": [
+    "ampolla",
+    "bar",
+    "beguda",
+    "tassa"
+  ],
+  "salt": [
+    "condiment",
+    "sal",
+    "saler"
+  ],
+  "samoa": [
+    "bandera"
+  ],
+  "san_marino": [
+    "bandera"
+  ],
+  "sandwich": [
+    "entrepà",
+    "pa"
+  ],
+  "santa_claus": [
+    "nadal",
+    "noel",
+    "pare"
+  ],
+  "sao_tome_principe": [
+    "bandera"
+  ],
+  "sari": [
+    "roba",
+    "vestit"
+  ],
+  "satellite": [
+    "espacial",
+    "espai",
+    "satèl·lit",
+    "vehicle"
+  ],
+  "satellite_antenna": [
+    "antena",
+    "antena de satèl·lit",
+    "satèl·lit"
+  ],
+  "saudi_arabia": [
+    "bandera"
+  ],
+  "sauropod": [
+    "braquiosaure",
+    "brontosaure",
+    "diplodocus",
+    "sauròpode"
+  ],
+  "saxophone": [
+    "instrument",
+    "música",
+    "saxo",
+    "saxofon",
+    "saxòfon"
+  ],
+  "scarf": [
+    "bufanda",
+    "coll"
+  ],
+  "school": [
+    "edifici",
+    "escola"
+  ],
+  "scientist": [
+    "biòleg",
+    "científic",
+    "enginyer",
+    "físic",
+    "químic"
+  ],
+  "scissors": [
+    "eina",
+    "tall",
+    "tisores"
+  ],
+  "scorpio": [
+    "escorpí",
+    "escorpió",
+    "zodíac"
+  ],
+  "scorpion": [
+    "animal",
+    "escorpí",
+    "escorpió",
+    "zodíac"
+  ],
+  "scotland": [
+    "bandera"
+  ],
+  "scream": [
+    "cara",
+    "cara que crida de por",
+    "crit de por",
+    "pànic",
+    "terror"
+  ],
+  "screwdriver": [
+    "eina",
+    "tornavís",
+    "vis"
+  ],
+  "scroll": [
+    "escriptura",
+    "paper",
+    "pell",
+    "pergamí"
+  ],
+  "seal": [
+    "foca",
+    "lleó marí"
+  ],
+  "seat": [
+    "cadira",
+    "seient"
+  ],
+  "see_no_evil_monkey": [
+    "mona",
+    "mona que no mira",
+    "ulls tapats"
+  ],
+  "seedling": [
+    "brot",
+    "nou",
+    "planta"
+  ],
+  "selfie": [
+    "autofoto",
+    "càmera",
+    "foto",
+    "mòbil"
+  ],
+  "senegal": [
+    "bandera"
+  ],
+  "serbia": [
+    "bandera"
+  ],
+  "service_dog": [
+    "accessibilitat",
+    "assistència",
+    "gos",
+    "gos de servei",
+    "servei"
+  ],
+  "seven": [
+    "tecla"
+  ],
+  "seven_o_clock": [
+    "19",
+    "19.00",
+    "7",
+    "7.00",
+    "en punt",
+    "les set en punt",
+    "rellotge",
+    "set"
+  ],
+  "seven_thirty": [
+    "19.30",
+    "7.30",
+    "dos quarts",
+    "dos quarts de vuit",
+    "rellotge"
+  ],
+  "sewing_needle": [
+    "agulla",
+    "agulla de cosir",
+    "brodat",
+    "costura",
+    "modista",
+    "puntada",
+    "sutura"
+  ],
+  "seychelles": [
+    "bandera"
+  ],
+  "shallow_pan_of_food": [
+    "arròs",
+    "menjar",
+    "paella",
+    "valenciana"
+  ],
+  "shamrock": [
+    "planta",
+    "trèvol"
+  ],
+  "shark": [
+    "animal",
+    "peix",
+    "tauró"
+  ],
+  "shaved_ice": [
+    "dolç",
+    "gel",
+    "granissat",
+    "picat",
+    "postres"
+  ],
+  "sheaf_of_rice": [
+    "arròs",
+    "espiga",
+    "espiga d’arròs"
+  ],
+  "shield": [
+    "arma",
+    "escut"
+  ],
+  "shinto_shrine": [
+    "religió",
+    "santuari",
+    "temple",
+    "xintoista"
+  ],
+  "ship": [
+    "mar",
+    "passatgers",
+    "riu",
+    "vaixell",
+    "vehicle"
+  ],
+  "shooting_star": [
+    "cel",
+    "espai",
+    "estel",
+    "estrella",
+    "fugaç"
+  ],
+  "shopping_bags": [
+    "bosses",
+    "bosses de compres",
+    "compra"
+  ],
+  "shopping_cart": [
+    "carretó",
+    "compra"
+  ],
+  "shortcake": [
+    "pastís",
+    "porció",
+    "porció de pastís"
+  ],
+  "shorts": [
+    "banyador",
+    "pantaló",
+    "pantalons curts",
+    "roba interior",
+    "vestit de bany"
+  ],
+  "shower": [
+    "aigua",
+    "dutxa"
+  ],
+  "shrimp": [
+    "crustaci",
+    "gamba",
+    "llagostí",
+    "marisc",
+    "menjar"
+  ],
+  "shuffle_tracks_button": [
+    "aleatòria",
+    "botó",
+    "botó de reproducció aleatòria",
+    "reproducció"
+  ],
+  "shushing_face": [
+    "callar",
+    "cara que demana silenci",
+    "silenci"
+  ],
+  "sierra_leone": [
+    "bandera"
+  ],
+  "sign_of_the_horns": [
+    "banyes",
+    "dits",
+    "dits en forma de banyes",
+    "rock"
+  ],
+  "singapore": [
+    "bandera"
+  ],
+  "singer": [
+    "actor",
+    "cantant",
+    "estrella",
+    "presentador"
+  ],
+  "sint_maarten": [
+    "bandera"
+  ],
+  "six": [
+    "tecla"
+  ],
+  "six_o_clock": [
+    "18",
+    "18.00",
+    "6",
+    "6.00",
+    "en punt",
+    "les sis en punt",
+    "rellotge",
+    "sis"
+  ],
+  "six_thirty": [
+    "18.30",
+    "6.30",
+    "dos quarts",
+    "dos quarts de set",
+    "rellotge"
+  ],
+  "skateboard": [
+    "monopatí",
+    "patí"
+  ],
+  "skier": [
+    "esquiador",
+    "esquiar",
+    "neu"
+  ],
+  "skis": [
+    "esquiar",
+    "esquís",
+    "neu"
+  ],
+  "skull": [
+    "calavera",
+    "cara",
+    "conte",
+    "crani",
+    "monstre",
+    "mort"
+  ],
+  "skull_and_crossbones": [
+    "calavera",
+    "cara",
+    "crani",
+    "crani amb ossos",
+    "monstre",
+    "ossos"
+  ],
+  "skunk": [
+    "mofeta",
+    "pudor"
+  ],
+  "sled": [
+    "lliscar",
+    "neu",
+    "trineu"
+  ],
+  "sleeping_face": [
+    "cara",
+    "cara de dormir",
+    "dormint",
+    "son",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "cara",
+    "cara de son",
+    "son"
+  ],
+  "slightly_frowning_face": [
+    "cara",
+    "cara una mica arrufada",
+    "emmurriat",
+    "empipat",
+    "enfadat"
+  ],
+  "slightly_smiling_face": [
+    "cara",
+    "cara que somriu una mica",
+    "somriure tímid"
+  ],
+  "slot_machine": [
+    "atzar",
+    "escurabutxaques",
+    "joc",
+    "màquina escurabutxaques"
+  ],
+  "sloth": [
+    "lent",
+    "mandrós",
+    "peresós"
+  ],
+  "slovakia": [
+    "bandera"
+  ],
+  "slovenia": [
+    "bandera"
+  ],
+  "small_airplane": [
+    "aeroplà",
+    "avió",
+    "avioneta",
+    "vehicle",
+    "vol"
+  ],
+  "small_blue_diamond": [
+    "blau",
+    "geometria",
+    "petit",
+    "rombe"
+  ],
+  "small_orange_diamond": [
+    "geometria",
+    "petit",
+    "rombe",
+    "taronja"
+  ],
+  "smiley": [
+    "boca oberta",
+    "cara",
+    "cara molt somrient amb els ulls ben oberts",
+    "somriure"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "cara",
+    "cor",
+    "gat",
+    "gat somrient amb cors als ulls",
+    "somriure",
+    "ulls"
+  ],
+  "smiling_face": [
+    "cara",
+    "cara relaxada",
+    "cara somrient",
+    "somriure"
+  ],
+  "smiling_face_with_horns": [
+    "banyes",
+    "cara",
+    "cara somrient amb banyes",
+    "dimoni",
+    "somriure"
+  ],
+  "smiling_face_with_sunglasses": [
+    "cara",
+    "cara somrient amb ulleres de sol",
+    "sol",
+    "ulleres"
+  ],
+  "smiling_face_with_tear": [
+    "agraïment",
+    "alleujament",
+    "cara somrient amb una llàgrima",
+    "emoció",
+    "llàgrima",
+    "orgull",
+    "somriure"
+  ],
+  "smiling_face_with_three_hearts": [
+    "amor",
+    "cara somrient amb 3 cors",
+    "cara somrient amb cors",
+    "enamorada",
+    "enamorament",
+    "enamorat"
+  ],
+  "smirking_face": [
+    "cara",
+    "cara somrient amb superioritat",
+    "somriure astut",
+    "superioritat"
+  ],
+  "snail": [
+    "cargol"
+  ],
+  "snake": [
+    "rèptil",
+    "serp",
+    "serpentari",
+    "zodíac"
+  ],
+  "sneezing_face": [
+    "cara",
+    "cara que esternuda",
+    "constipat",
+    "esternudant",
+    "esternut",
+    "mocs",
+    "salut"
+  ],
+  "snow_capped_mountain": [
+    "fred",
+    "muntanya",
+    "muntanya amb neu al cim",
+    "muntanya nevada",
+    "neu"
+  ],
+  "snowboarder": [
+    "neu",
+    "surf de neu",
+    "surfista",
+    "surfista de neu"
+  ],
+  "snowflake": [
+    "floc",
+    "floc de neu",
+    "fred",
+    "neu",
+    "volva de neu"
+  ],
+  "snowman": [
+    "fred",
+    "neu",
+    "nevada",
+    "ninot",
+    "ninot de neu"
+  ],
+  "snowman_without_snow": [
+    "fred",
+    "neu",
+    "ninot",
+    "ninot de neu sense neu"
+  ],
+  "soap": [
+    "bany",
+    "ensabonar-se",
+    "netejar",
+    "pastilla",
+    "sabó",
+    "sabonera"
+  ],
+  "sob": [
+    "cara",
+    "cara que plora desconsoladament",
+    "llàgrimes de desconsol"
+  ],
+  "soccer_ball": [
+    "futbol",
+    "pilota",
+    "pilota de futbol"
+  ],
+  "socks": [
+    "mitja",
+    "mitjons"
+  ],
+  "soft_ice_cream": [
+    "gelat",
+    "gelat de màquina",
+    "màquina"
+  ],
+  "softball": [
+    "amb mà baixa",
+    "guant",
+    "pilota",
+    "pilota de softbol"
+  ],
+  "solomon_islands": [
+    "bandera"
+  ],
+  "somalia": [
+    "bandera"
+  ],
+  "soon_arrow": [
+    "fletxa",
+    "fletxa amb la paraula soon",
+    "paraula",
+    "soon"
+  ],
+  "sos_button": [
+    "auxili",
+    "botó sos",
+    "emergència",
+    "socors",
+    "sos"
+  ],
+  "south_africa": [
+    "bandera"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "bandera"
+  ],
+  "south_korea": [
+    "bandera"
+  ],
+  "south_sudan": [
+    "bandera"
+  ],
+  "spade_suit": [
+    "cartes",
+    "pal",
+    "pal de piques",
+    "partida",
+    "piques"
+  ],
+  "spaghetti": [
+    "espaguetis",
+    "pasta"
+  ],
+  "spain": [
+    "bandera"
+  ],
+  "sparkle": [
+    "*",
+    "espurna"
+  ],
+  "sparkler": [
+    "bengala",
+    "celebració",
+    "espurna",
+    "foc",
+    "pirotècnia"
+  ],
+  "sparkles": [
+    "*",
+    "espurna",
+    "espurnes",
+    "estrella"
+  ],
+  "sparkling_heart": [
+    "cor",
+    "cor espurnejant",
+    "espurneig"
+  ],
+  "speak_no_evil_monkey": [
+    "boca tapada",
+    "mona",
+    "mona que no parla"
+  ],
+  "speaker_high_volume": [
+    "alt",
+    "altaveu amb el volum alt",
+    "volum fort"
+  ],
+  "speaker_low_volume": [
+    "altaveu amb el volum baix",
+    "baix",
+    "volum suau"
+  ],
+  "speaker_medium_volume": [
+    "altaveu amb el volum mitjà",
+    "mitjà",
+    "volum mitjà"
+  ],
+  "speaking_head": [
+    "parlar",
+    "persona",
+    "persona que parla",
+    "silueta que parla"
+  ],
+  "speech_balloon": [
+    "bafarada",
+    "bafarada de parlar",
+    "còmic",
+    "diàleg",
+    "parlar"
+  ],
+  "speedboat": [
+    "llanxa",
+    "ràpida"
+  ],
+  "spider": [
+    "aranya",
+    "insecte"
+  ],
+  "spider_web": [
+    "aranya",
+    "teranyina"
+  ],
+  "spiral_calendar": [
+    "calendari",
+    "calendari d’espiral",
+    "espiral"
+  ],
+  "spiral_notepad": [
+    "bloc",
+    "bloc de notes d’espiral",
+    "espiral",
+    "notes"
+  ],
+  "spiral_shell": [
+    "cargol",
+    "cargol de mar",
+    "mar"
+  ],
+  "sponge": [
+    "absorbent",
+    "esponja",
+    "netejar",
+    "porosa"
+  ],
+  "spoon": [
+    "cobert",
+    "cullera"
+  ],
+  "sport_utility_vehicle": [
+    "recreatiu",
+    "tot camí",
+    "vehicle",
+    "vehicle tot camí"
+  ],
+  "sports_medal": [
+    "esportiva",
+    "medalla"
+  ],
+  "spouting_whale": [
+    "aigua",
+    "balena",
+    "balena que treu aigua"
+  ],
+  "squid": [
+    "animal",
+    "calamar",
+    "menjar",
+    "molusc"
+  ],
+  "squinting_face_with_tongue": [
+    "cara",
+    "cara amb els ulls tancats i la llengua fora",
+    "cara que fa llengotes i amb els ulls tancats",
+    "ecs",
+    "llengota",
+    "llengua",
+    "ulls tancats"
+  ],
+  "sri_lanka": [
+    "bandera"
+  ],
+  "st_barthelemy": [
+    "bandera"
+  ],
+  "st_helena": [
+    "bandera"
+  ],
+  "st_kitts_nevis": [
+    "bandera"
+  ],
+  "st_lucia": [
+    "bandera"
+  ],
+  "st_martin": [
+    "bandera"
+  ],
+  "st_pierre_miquelon": [
+    "bandera"
+  ],
+  "st_vincent_grenadines": [
+    "bandera"
+  ],
+  "stadium": [
+    "estadi"
+  ],
+  "star": [
+    "estrella"
+  ],
+  "star_and_crescent": [
+    "creixent lunar i estel",
+    "islamisme",
+    "musulmà",
+    "religió"
+  ],
+  "star_of_david": [
+    "estrella",
+    "estrella de david",
+    "judaisme",
+    "jueu",
+    "religió"
+  ],
+  "star_struck": [
+    "cara",
+    "cara amb estrelles als ulls",
+    "estrella",
+    "somriure",
+    "ulls"
+  ],
+  "station": [
+    "estació",
+    "tren",
+    "vehicle",
+    "vies"
+  ],
+  "statue_of_liberty": [
+    "estàtua",
+    "estàtua de la llibertat",
+    "llibertat"
+  ],
+  "steaming_bowl": [
+    "bol",
+    "bol fumejant",
+    "fideus",
+    "fum",
+    "plat",
+    "ramen"
+  ],
+  "stethoscope": [
+    "cor",
+    "doctor",
+    "estetoscopi",
+    "medicina"
+  ],
+  "stop_button": [
+    "aturada",
+    "botó",
+    "botó d’aturada",
+    "quadrat"
+  ],
+  "stop_sign": [
+    "detenció",
+    "estop",
+    "senyal",
+    "senyal d’estop",
+    "senyal de detenció obligatòria",
+    "stop"
+  ],
+  "stopwatch": [
+    "cronòmetre",
+    "rellotge"
+  ],
+  "straight_ruler": [
+    "recte",
+    "regle"
+  ],
+  "strawberry": [
+    "baia",
+    "fruita",
+    "maduixa",
+    "planta"
+  ],
+  "student": [
+    "estudiant",
+    "graduat"
+  ],
+  "studio_microphone": [
+    "estudi",
+    "micròfon",
+    "micròfon d’estudi",
+    "música"
+  ],
+  "stuffed_flatbread": [
+    "durum",
+    "falàfel",
+    "farcit",
+    "kebab",
+    "pa"
+  ],
+  "sudan": [
+    "bandera"
+  ],
+  "sun": [
+    "assolellat",
+    "sol",
+    "solejat",
+    "temps"
+  ],
+  "sun_behind_cloud": [
+    "núvol",
+    "sol",
+    "sol darrere un núvol",
+    "temps"
+  ],
+  "sun_behind_large_cloud": [
+    "núvol gran",
+    "sol",
+    "sol darrere d’un núvol gran",
+    "temps"
+  ],
+  "sun_behind_rain_cloud": [
+    "núvol",
+    "pluja",
+    "sol",
+    "sol darrere d’un núvol amb pluja",
+    "temps"
+  ],
+  "sun_behind_small_cloud": [
+    "núvol petit",
+    "sol",
+    "sol darrere d’un núvol petit",
+    "temps"
+  ],
+  "sun_with_face": [
+    "cara",
+    "sol",
+    "sol amb cara"
+  ],
+  "sunflower": [
+    "flor",
+    "gira-sol",
+    "planta",
+    "sol"
+  ],
+  "sunglasses": [
+    "fosques",
+    "sol",
+    "ull",
+    "ulleres",
+    "ulleres de sol"
+  ],
+  "sunrise": [
+    "alba",
+    "matí",
+    "sol",
+    "sortida del sol",
+    "temps"
+  ],
+  "sunrise_over_mountains": [
+    "alba sobre les muntanyes",
+    "muntanyes",
+    "sortida del sol"
+  ],
+  "sunset": [
+    "ciutat",
+    "crepuscle",
+    "posta de sol"
+  ],
+  "superhero": [
+    "bo",
+    "heroi",
+    "heroïna",
+    "superheroi",
+    "súperpoder"
+  ],
+  "supervillain": [
+    "criminal",
+    "dolent",
+    "malvat",
+    "superdolent",
+    "superpoder"
+  ],
+  "suriname": [
+    "bandera"
+  ],
+  "sushi": [
+    "cru",
+    "peix"
+  ],
+  "suspension_railway": [
+    "ferrocarril",
+    "ferrocarril de suspensió",
+    "suspensió",
+    "tramvia elevat",
+    "vehicle"
+  ],
+  "svalbard_jan_mayen": [
+    "bandera"
+  ],
+  "swan": [
+    "aneguet lleig",
+    "cigne",
+    "ocell"
+  ],
+  "sweat_droplets": [
+    "gotes",
+    "gotes de suor",
+    "suor"
+  ],
+  "sweat_smile": [
+    "cara",
+    "cara somrient amb una gota de suor",
+    "somriure",
+    "suor freda"
+  ],
+  "sweden": [
+    "bandera"
+  ],
+  "switzerland": [
+    "bandera"
+  ],
+  "synagogue": [
+    "jueu",
+    "religió",
+    "sinagoga",
+    "temple"
+  ],
+  "syria": [
+    "bandera"
+  ],
+  "syringe": [
+    "agulla",
+    "injecció",
+    "malalt",
+    "medicina",
+    "metge",
+    "xeringa"
+  ],
+  "t_rex": [
+    "tiranosaure",
+    "tyrannosaurus rex"
+  ],
+  "t_shirt": [
+    "roba",
+    "samarreta"
+  ],
+  "taco": [
+    "mexicà"
+  ],
+  "tada": [
+    "celebració",
+    "confeti",
+    "festa",
+    "tub",
+    "tub de confeti"
+  ],
+  "taiwan": [
+    "bandera"
+  ],
+  "tajikistan": [
+    "bandera"
+  ],
+  "takeout_box": [
+    "emportar",
+    "envàs",
+    "menjar per emportar",
+    "menjar xinès",
+    "paper"
+  ],
+  "tamale": [
+    "enrotllat",
+    "mexicà",
+    "tamal"
+  ],
+  "tanabata_tree": [
+    "arbre",
+    "arbre dels desitjos de tanabata",
+    "celebració",
+    "desitjos",
+    "japonès",
+    "tanabata"
+  ],
+  "tangerine": [
+    "fruita",
+    "mandarina",
+    "planta",
+    "taronja"
+  ],
+  "tanzania": [
+    "bandera"
+  ],
+  "taurus": [
+    "bou",
+    "brau",
+    "taure",
+    "zodíac"
+  ],
+  "taxi": [
+    "transport",
+    "vehicle"
+  ],
+  "teacher": [
+    "instructor",
+    "mestre",
+    "professor"
+  ],
+  "teacup_without_handle": [
+    "tassa",
+    "tassa de te",
+    "te"
+  ],
+  "teapot": [
+    "beguda",
+    "te",
+    "tetera"
+  ],
+  "tear_off_calendar": [
+    "bloc",
+    "calendari",
+    "calendari de bloc"
+  ],
+  "technologist": [
+    "desenvolupador",
+    "inventor",
+    "programador",
+    "tecnòleg"
+  ],
+  "teddy_bear": [
+    "joc",
+    "joguina",
+    "os de peluix",
+    "pelfa",
+    "peluix"
+  ],
+  "telephone": [
+    "telèfon"
+  ],
+  "telephone_receiver": [
+    "auricular",
+    "auricular de telèfon",
+    "telèfon"
+  ],
+  "telescope": [
+    "augment",
+    "ciència",
+    "eina",
+    "telescopi"
+  ],
+  "television": [
+    "televisió",
+    "tv",
+    "vídeo"
+  ],
+  "ten": [
+    "tecla"
+  ],
+  "ten_o_clock": [
+    "10",
+    "10.00",
+    "22",
+    "22.00",
+    "deu",
+    "en punt",
+    "les deu en punt",
+    "rellotge"
+  ],
+  "ten_thirty": [
+    "10.30",
+    "22.30",
+    "dos quarts",
+    "dos quarts d’onze",
+    "rellotge"
+  ],
+  "tennis": [
+    "pilota",
+    "raqueta",
+    "raqueta i pilota de tennis",
+    "tenis"
+  ],
+  "tent": [
+    "acampada",
+    "campament",
+    "càmping",
+    "tenda",
+    "tenda de campanya"
+  ],
+  "test_tube": [
+    "ciència",
+    "experiment",
+    "laboratori",
+    "químic",
+    "química",
+    "tub d’assaig"
+  ],
+  "thailand": [
+    "bandera"
+  ],
+  "thermometer": [
+    "temperatura",
+    "temps",
+    "termòmetre"
+  ],
+  "thinking": [
+    "cara",
+    "pensant",
+    "pensatiu",
+    "pensativa"
+  ],
+  "thong_sandal": [
+    "xancleta",
+    "xancleta de dit",
+    "xancleta de platja"
+  ],
+  "thought_balloon": [
+    "bafarada",
+    "bafarada de pensar",
+    "pensar"
+  ],
+  "thread": [
+    "bobina",
+    "cosir",
+    "fil",
+    "rodet"
+  ],
+  "three": [
+    "tecla"
+  ],
+  "three_o_clock": [
+    "15",
+    "15.00",
+    "3",
+    "3.00",
+    "en punt",
+    "les tres en punt",
+    "rellotge",
+    "tres"
+  ],
+  "three_thirty": [
+    "15.30",
+    "3.30",
+    "dos quarts",
+    "dos quarts de quatre",
+    "rellotge"
+  ],
+  "ticket": [
+    "admissió",
+    "entrada",
+    "tiquet"
+  ],
+  "tiger": [
+    "tigre"
+  ],
+  "tiger_face": [
+    "cara",
+    "cara de tigre",
+    "tigre"
+  ],
+  "timer_clock": [
+    "rellotge",
+    "temporitzador"
+  ],
+  "timor_leste": [
+    "bandera"
+  ],
+  "tired_face": [
+    "cansament",
+    "cara",
+    "cara de cansament"
+  ],
+  "togo": [
+    "bandera"
+  ],
+  "toilet": [
+    "inodor",
+    "lavabo",
+    "tassa",
+    "vàter"
+  ],
+  "tokelau": [
+    "bandera"
+  ],
+  "tokyo_tower": [
+    "tòquio",
+    "torre",
+    "torre de tòquio"
+  ],
+  "tomato": [
+    "hortalissa",
+    "planta",
+    "tomàquet",
+    "tomata",
+    "verdura"
+  ],
+  "tonga": [
+    "bandera"
+  ],
+  "tongue": [
+    "cos",
+    "llengua"
+  ],
+  "toolbox": [
+    "caixa",
+    "caixa d’eines",
+    "eines",
+    "mecànic"
+  ],
+  "tooth": [
+    "dent",
+    "dentista"
+  ],
+  "toothbrush": [
+    "dental",
+    "dents",
+    "higiene",
+    "lavabo",
+    "raspall",
+    "raspall de dents",
+    "rentar"
+  ],
+  "top_arrow": [
+    "fletxa",
+    "fletxa amb la paraula top",
+    "paraula",
+    "top"
+  ],
+  "top_hat": [
+    "barret",
+    "barret de copa",
+    "copa"
+  ],
+  "tornado": [
+    "remolí",
+    "temps"
+  ],
+  "trackball": [
+    "ordinador",
+    "ratolí de bola"
+  ],
+  "tractor": [
+    "agricultura",
+    "vehicle"
+  ],
+  "trade_mark": [
+    "comercial",
+    "marca comercial",
+    "símbol de marca comercial"
+  ],
+  "train": [
+    "tren",
+    "vehicle",
+    "via del tren"
+  ],
+  "tram": [
+    "tramvia",
+    "tròlei",
+    "troleibús",
+    "vehicle"
+  ],
+  "tram_car": [
+    "tramvia",
+    "vagó",
+    "vagó de tramvia"
+  ],
+  "transgender_flag": [
+    "bandera",
+    "blanc",
+    "blau cel",
+    "rosa",
+    "trans",
+    "transgènere"
+  ],
+  "transgender_symbol": [
+    "símbol transgènere",
+    "trans",
+    "transgènere"
+  ],
+  "triangular_flag": [
+    "bandera",
+    "bandera triangular",
+    "banderí"
+  ],
+  "triangular_ruler": [
+    "angle",
+    "esquadra",
+    "regle",
+    "triangle"
+  ],
+  "trident_emblem": [
+    "àncora",
+    "marca",
+    "marca de trident",
+    "trident"
+  ],
+  "trinidad_tobago": [
+    "bandera"
+  ],
+  "tristan_da_cunha": [
+    "bandera"
+  ],
+  "trolleybus": [
+    "autobús",
+    "bus",
+    "tramvia",
+    "tròlei",
+    "troleibús"
+  ],
+  "trophy": [
+    "premi",
+    "trofeu"
+  ],
+  "tropical_drink": [
+    "bar",
+    "beguda",
+    "tropical"
+  ],
+  "tropical_fish": [
+    "peix",
+    "tropical"
+  ],
+  "trumpet": [
+    "instrument",
+    "música",
+    "trompeta",
+    "vent"
+  ],
+  "tulip": [
+    "flor",
+    "planta",
+    "tulipa"
+  ],
+  "tumbler_glass": [
+    "beguda",
+    "copeta",
+    "got",
+    "got de licor",
+    "licor",
+    "whisky"
+  ],
+  "tunisia": [
+    "bandera"
+  ],
+  "turkey": [
+    "au",
+    "gall dindi",
+    "indiot"
+  ],
+  "turkmenistan": [
+    "bandera"
+  ],
+  "turks_caicos_islands": [
+    "bandera"
+  ],
+  "turtle": [
+    "tortuga"
+  ],
+  "tuvalu": [
+    "bandera"
+  ],
+  "twelve_o_clock": [
+    "00.00",
+    "12",
+    "12.00",
+    "dotze",
+    "en punt",
+    "les dotze en punt",
+    "rellotge"
+  ],
+  "twelve_thirty": [
+    "00.30",
+    "12.30",
+    "dos quarts",
+    "dos quarts d’una",
+    "rellotge"
+  ],
+  "two": [
+    "tecla"
+  ],
+  "two_hearts": [
+    "amor",
+    "cor",
+    "dos cors"
+  ],
+  "two_hump_camel": [
+    "camell",
+    "camell bactrià",
+    "dues gepes",
+    "gepes"
+  ],
+  "two_o_clock": [
+    "14",
+    "14.00",
+    "2",
+    "2.00",
+    "dues",
+    "en punt",
+    "les dues en punt",
+    "rellotge"
+  ],
+  "two_thirty": [
+    "14.30",
+    "2.30",
+    "dos quarts",
+    "dos quarts de tres",
+    "rellotge"
+  ],
+  "türkiye": [
+    "bandera"
+  ],
+  "uganda": [
+    "bandera"
+  ],
+  "ukraine": [
+    "bandera"
+  ],
+  "umbrella": [
+    "paraigua",
+    "pluja"
+  ],
+  "umbrella_on_ground": [
+    "para-sol",
+    "para-sol a la sorra",
+    "sol",
+    "sorra"
+  ],
+  "umbrella_with_rain_drops": [
+    "gotes",
+    "paraigua",
+    "paraigua amb gotes de pluja",
+    "pluja"
+  ],
+  "unamused_face": [
+    "avorriment",
+    "cara",
+    "cara de desaprovació",
+    "desaprovació"
+  ],
+  "unicorn": [
+    "cara"
+  ],
+  "united_arab_emirates": [
+    "bandera"
+  ],
+  "united_kingdom": [
+    "bandera"
+  ],
+  "united_nations": [
+    "bandera"
+  ],
+  "united_states": [
+    "bandera"
+  ],
+  "unlocked": [
+    "cadenat",
+    "obert",
+    "obrir"
+  ],
+  "up_arrow": [
+    "amunt",
+    "direcció",
+    "fletxa",
+    "fletxa cap amunt",
+    "nord"
+  ],
+  "up_button": [
+    "botó",
+    "botó amb la paraula up!",
+    "paraula",
+    "up!"
+  ],
+  "up_down_arrow": [
+    "amunt",
+    "avall",
+    "fletxa",
+    "fletxa cap amunt i cap avall"
+  ],
+  "up_left_arrow": [
+    "amunt a l’esquerra",
+    "direcció",
+    "fletxa",
+    "fletxa cap amunt a l’esquerra",
+    "nord-oest"
+  ],
+  "up_right_arrow": [
+    "amunt a la dreta",
+    "direcció",
+    "fletxa",
+    "fletxa cap amunt a la dreta",
+    "nord-est"
+  ],
+  "upside_down_face": [
+    "cara",
+    "cara de cap per avall",
+    "revés"
+  ],
+  "upwards_button": [
+    "amunt",
+    "botó",
+    "botó d’anar amunt",
+    "vermell"
+  ],
+  "uruguay": [
+    "bandera"
+  ],
+  "us_outlying_islands": [
+    "bandera"
+  ],
+  "us_virgin_islands": [
+    "bandera"
+  ],
+  "uzbekistan": [
+    "bandera"
+  ],
+  "vampire": [
+    "dràcula",
+    "mort vivent",
+    "morta vivent",
+    "vampir"
+  ],
+  "vanuatu": [
+    "bandera"
+  ],
+  "vatican_city": [
+    "bandera"
+  ],
+  "venezuela": [
+    "bandera"
+  ],
+  "vertical_traffic_light": [
+    "semàfor",
+    "senyal",
+    "trànsit",
+    "vertical"
+  ],
+  "vibration_mode": [
+    "mode",
+    "mode de vibració",
+    "telèfon",
+    "vibració"
+  ],
+  "victory_hand": [
+    "senyal",
+    "senyal de la victòria",
+    "victòria"
+  ],
+  "video_camera": [
+    "càmera",
+    "càmera de vídeo",
+    "vídeo"
+  ],
+  "video_game": [
+    "comandament de consola",
+    "comandament de joc",
+    "comandament de videoconsola",
+    "joc",
+    "videojoc"
+  ],
+  "videocassette": [
+    "cinta",
+    "vhs",
+    "vídeo",
+    "videocasset"
+  ],
+  "vietnam": [
+    "bandera"
+  ],
+  "violin": [
+    "corda",
+    "instrument",
+    "música",
+    "violí"
+  ],
+  "virgo": [
+    "verge",
+    "zodíac"
+  ],
+  "volcano": [
+    "erupció",
+    "muntanya",
+    "volcà"
+  ],
+  "volleyball": [
+    "bola",
+    "joc",
+    "partit",
+    "pilota",
+    "pilota de voleibol"
+  ],
+  "vs_button": [
+    "botó vs",
+    "contra",
+    "versus",
+    "vs",
+    "vs."
+  ],
+  "vulcan_salute": [
+    "dit",
+    "mà",
+    "salutació vulcaniana",
+    "spock",
+    "vulcanià"
+  ],
+  "waffle": [
+    "gofra",
+    "gofrera"
+  ],
+  "wales": [
+    "bandera"
+  ],
+  "wallis_futuna": [
+    "bandera"
+  ],
+  "waning_crescent_moon": [
+    "lluna",
+    "minvant"
+  ],
+  "waning_gibbous_moon": [
+    "gibosa",
+    "lluna",
+    "minvant"
+  ],
+  "warning": [
+    "advertència",
+    "avís"
+  ],
+  "wastebasket": [
+    "cubell",
+    "paperera"
+  ],
+  "watch": [
+    "hora",
+    "rellotge"
+  ],
+  "water_buffalo": [
+    "aigua",
+    "búfal",
+    "búfal aquàtic"
+  ],
+  "water_closet": [
+    "bany",
+    "lavabo",
+    "servei",
+    "vàter",
+    "wc"
+  ],
+  "water_pistol": [
+    "arma",
+    "arma de foc",
+    "eina",
+    "pistola",
+    "revòlver"
+  ],
+  "watermelon": [
+    "fruita",
+    "meló d’aigua",
+    "meló de moro",
+    "planta",
+    "síndria"
+  ],
+  "waving_hand": [
+    "mà",
+    "mà que saluda",
+    "salutació"
+  ],
+  "wavy_dash": [
+    "guió",
+    "ondulat",
+    "puntuació"
+  ],
+  "waxing_crescent_moon": [
+    "creixent",
+    "lluna",
+    "lluna en quart creixent",
+    "quart"
+  ],
+  "waxing_gibbous_moon": [
+    "creixent",
+    "gibosa",
+    "lluna"
+  ],
+  "weary_cat": [
+    "cara",
+    "gat",
+    "sorprès",
+    "sorpresa"
+  ],
+  "weary_face": [
+    "cara",
+    "cara d’esgotament",
+    "esgotada",
+    "esgotament",
+    "esgotat"
+  ],
+  "wedding": [
+    "amor",
+    "capella",
+    "casament"
+  ],
+  "western_sahara": [
+    "bandera"
+  ],
+  "whale": [
+    "balena"
+  ],
+  "wheel_of_dharma": [
+    "budisme",
+    "budista",
+    "dharma",
+    "religió",
+    "roda del dharma"
+  ],
+  "wheelchair_symbol": [
+    "accés",
+    "accessible",
+    "cadira",
+    "rodes",
+    "símbol de cadira de rodes"
+  ],
+  "white_cane": [
+    "accessibilitat",
+    "bastó per a invidents",
+    "invident"
+  ],
+  "white_check_mark": [
+    "✓",
+    "botó",
+    "botó de marca de verificació",
+    "marca",
+    "verificació"
+  ],
+  "white_circle": [
+    "blanc",
+    "cercle",
+    "geometria"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "blanc",
+    "exclamació",
+    "puntuació",
+    "signe",
+    "signe d’exclamació blanc"
+  ],
+  "white_flag": [
+    "bandera",
+    "bandera blanca",
+    "oneig"
+  ],
+  "white_flower": [
+    "blanca",
+    "flor"
+  ],
+  "white_heart": [
+    "blanc",
+    "cor"
+  ],
+  "white_large_square": [
+    "blanc",
+    "geometria",
+    "gran",
+    "quadrat"
+  ],
+  "white_medium_small_square": [
+    "blanc",
+    "geometria",
+    "petit-mitjà",
+    "quadrat"
+  ],
+  "white_medium_square": [
+    "blanc",
+    "geometria",
+    "mitjà",
+    "quadrat"
+  ],
+  "white_question_mark": [
+    "?",
+    "blanc",
+    "interrogació",
+    "puntuació",
+    "signe",
+    "signe d’interrogació blanc"
+  ],
+  "white_small_square": [
+    "blanc",
+    "geometria",
+    "petit",
+    "quadrat"
+  ],
+  "white_square_button": [
+    "blanc",
+    "botó",
+    "botó de quadrat blanc",
+    "geometria",
+    "quadrat"
+  ],
+  "wilted_flower": [
+    "flor",
+    "marcida",
+    "mústia",
+    "pansida",
+    "rosa"
+  ],
+  "wind_chime": [
+    "campaneta",
+    "campaneta de vent",
+    "celebració",
+    "vent"
+  ],
+  "wind_face": [
+    "bufar",
+    "cara",
+    "núvol",
+    "vent"
+  ],
+  "window": [
+    "aire fresc",
+    "finestra",
+    "marc",
+    "obertura",
+    "transparent",
+    "vista"
+  ],
+  "wine_glass": [
+    "copa",
+    "copa de vi",
+    "vi"
+  ],
+  "wink": [
+    "cara",
+    "cara que pica l’ullet",
+    "ullet"
+  ],
+  "winking_face_with_tongue": [
+    "cara",
+    "cara que fa llengotes i pica l’ullet",
+    "llengota",
+    "llengua",
+    "ullet"
+  ],
+  "wolf": [
+    "cara",
+    "llop"
+  ],
+  "woman": [
+    "dona",
+    "femení"
+  ],
+  "woman_and_man_holding_hands": [
+    "dona",
+    "home",
+    "home i dona que s’agafen de la mà",
+    "mans agafades",
+    "parella"
+  ],
+  "woman_artist": [
+    "artista",
+    "dona",
+    "femení",
+    "paleta"
+  ],
+  "woman_astronaut": [
+    "astronauta",
+    "coet",
+    "dona",
+    "espai"
+  ],
+  "woman_bald": [
+    "calvície",
+    "dona",
+    "femení"
+  ],
+  "woman_biking": [
+    "bicicleta",
+    "ciclisme",
+    "ciclista",
+    "dona",
+    "femení"
+  ],
+  "woman_bouncing_ball": [
+    "dona",
+    "dona amb una pilota",
+    "femení",
+    "pilota"
+  ],
+  "woman_bowing": [
+    "disculpa",
+    "dona",
+    "dona capcota",
+    "gest",
+    "reverència"
+  ],
+  "woman_cartwheeling": [
+    "dona",
+    "dona que fa la roda",
+    "esport",
+    "gimnàstica",
+    "tombarella"
+  ],
+  "woman_climbing": [
+    "dona",
+    "escalada",
+    "escaladora"
+  ],
+  "woman_cook": [
+    "cuinera",
+    "dona",
+    "femení",
+    "xef"
+  ],
+  "woman_curly_hair": [
+    "cabells arrissats",
+    "dona",
+    "femení"
+  ],
+  "woman_dancing": [
+    "dansa",
+    "dona",
+    "dona que balla",
+    "flamenca"
+  ],
+  "woman_detective": [
+    "detectiu",
+    "dona",
+    "espia",
+    "investigadora"
+  ],
+  "woman_elf": [
+    "dona elfa",
+    "màgic",
+    "màgica"
+  ],
+  "woman_facepalming": [
+    "dona",
+    "dona amb la mà a la cara",
+    "exasperació",
+    "incredulitat",
+    "mà"
+  ],
+  "woman_factory_worker": [
+    "fàbrica",
+    "femení",
+    "industrial",
+    "operària",
+    "treballadora"
+  ],
+  "woman_fairy": [
+    "dona fada",
+    "titània"
+  ],
+  "woman_farmer": [
+    "agricultora",
+    "dona",
+    "femení",
+    "grangera",
+    "pagesa"
+  ],
+  "woman_feeding_baby": [
+    "alimentar",
+    "alletar",
+    "bebè",
+    "dona",
+    "dona que alleta un bebè"
+  ],
+  "woman_firefighter": [
+    "bombera",
+    "camió de bombers",
+    "dona",
+    "femení"
+  ],
+  "woman_frowning": [
+    "arrufar",
+    "celles",
+    "dona emmurriada",
+    "femení",
+    "gest"
+  ],
+  "woman_genie": [
+    "dona geni",
+    "geni"
+  ],
+  "woman_gesturing_no": [
+    "dona",
+    "dona amb gest de negació",
+    "gest",
+    "mà",
+    "prohibit"
+  ],
+  "woman_gesturing_ok": [
+    "acord",
+    "dona amb gest d’aprovació",
+    "gest",
+    "mà",
+    "ok"
+  ],
+  "woman_getting_haircut": [
+    "cabells",
+    "dona",
+    "dona que es talla els cabells",
+    "femení",
+    "tallada",
+    "tallada de cabells"
+  ],
+  "woman_getting_massage": [
+    "cara",
+    "dona",
+    "femení",
+    "massatge",
+    "massatge facial a una dona"
+  ],
+  "woman_golfing": [
+    "dona",
+    "dona que juga a golf",
+    "femení",
+    "golf",
+    "golfista"
+  ],
+  "woman_guard": [
+    "dona",
+    "femení",
+    "guarda"
+  ],
+  "woman_health_worker": [
+    "doctora",
+    "dona",
+    "dona professional de la salut",
+    "infermera",
+    "metgessa",
+    "professional de la salut",
+    "salut",
+    "terapeuta"
+  ],
+  "woman_in_lotus_position": [
+    "dona en la posició de lotus",
+    "ioga",
+    "lotus",
+    "meditació"
+  ],
+  "woman_in_manual_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes",
+    "dona",
+    "dona amb una cadira de rodes manual"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "accessibilitat",
+    "cadira de rodes",
+    "dona",
+    "dona amb una cadira de rodes elèctrica"
+  ],
+  "woman_in_steamy_room": [
+    "dona a la sauna",
+    "sauna",
+    "vapor"
+  ],
+  "woman_in_tuxedo": [
+    "dona",
+    "dona amb esmòquing",
+    "esmòquing"
+  ],
+  "woman_judge": [
+    "balança",
+    "dona",
+    "femení",
+    "justícia",
+    "jutgessa"
+  ],
+  "woman_juggling": [
+    "dona",
+    "femení",
+    "malabarista dona",
+    "malabars",
+    "multitasca"
+  ],
+  "woman_kneeling": [
+    "agenollada",
+    "de genolls",
+    "dona"
+  ],
+  "woman_lifting_weights": [
+    "aixecadora",
+    "dona",
+    "dona que aixeca peses",
+    "femení",
+    "peses"
+  ],
+  "woman_mage": [
+    "bruixa",
+    "dona maga",
+    "fetillera"
+  ],
+  "woman_mechanic": [
+    "dona",
+    "electricista",
+    "femení",
+    "lampista",
+    "mecànica"
+  ],
+  "woman_mountain_biking": [
+    "bicicleta",
+    "ciclista",
+    "ciclista de muntanya dona",
+    "dona",
+    "muntanya"
+  ],
+  "woman_office_worker": [
+    "arquitecta",
+    "dona",
+    "negoci",
+    "oficina",
+    "treballadora d’oficina"
+  ],
+  "woman_pilot": [
+    "avió",
+    "dona",
+    "femení",
+    "pilot"
+  ],
+  "woman_playing_handball": [
+    "dona",
+    "esport",
+    "femení",
+    "handbol",
+    "jugadora d’handbol"
+  ],
+  "woman_playing_water_polo": [
+    "dona",
+    "esport",
+    "femení",
+    "jugadora de waterpolo",
+    "waterpolo"
+  ],
+  "woman_police_officer": [
+    "agent",
+    "agent de policia dona",
+    "dona",
+    "femení",
+    "policia"
+  ],
+  "woman_pouting": [
+    "dona",
+    "dona enutjada",
+    "enuig",
+    "femení",
+    "gest"
+  ],
+  "woman_raising_hand": [
+    "dona",
+    "dona amb la mà aixecada",
+    "femení",
+    "gest",
+    "mà"
+  ],
+  "woman_red_hair": [
+    "cabells vermells",
+    "dona",
+    "femení"
+  ],
+  "woman_rowing_boat": [
+    "barca",
+    "dona",
+    "dona que rema",
+    "dona que rema en una barca",
+    "femení",
+    "rem"
+  ],
+  "woman_running": [
+    "córrer",
+    "cursa",
+    "dona",
+    "dona que corre",
+    "marató"
+  ],
+  "woman_s_boot": [
+    "bota",
+    "bota de dona",
+    "calçat",
+    "dona"
+  ],
+  "woman_s_clothes": [
+    "dona",
+    "roba",
+    "roba de dona"
+  ],
+  "woman_s_hat": [
+    "accessori",
+    "barret",
+    "barret de dona",
+    "dona"
+  ],
+  "woman_s_sandal": [
+    "calçat",
+    "dona",
+    "sandàlia",
+    "sandàlia de dona"
+  ],
+  "woman_scientist": [
+    "biòloga",
+    "científica",
+    "enginyera",
+    "física",
+    "química"
+  ],
+  "woman_shrugging": [
+    "dona",
+    "dona que arronsa les espatlles",
+    "dubte",
+    "ignorància",
+    "indiferència"
+  ],
+  "woman_singer": [
+    "actriu",
+    "cantant",
+    "cantant dona",
+    "estrella",
+    "presentadora"
+  ],
+  "woman_standing": [
+    "dempeus",
+    "dona",
+    "dreta"
+  ],
+  "woman_student": [
+    "dona",
+    "femení",
+    "graduació",
+    "graduada",
+    "noia estudiant"
+  ],
+  "woman_superhero": [
+    "bo",
+    "dona",
+    "dona superheroïna",
+    "heroïna",
+    "superpoder"
+  ],
+  "woman_supervillain": [
+    "criminal",
+    "dolenta",
+    "dona",
+    "dona superdolenta",
+    "malvada",
+    "superpoder"
+  ],
+  "woman_surfing": [
+    "dona",
+    "dona que fa surf",
+    "femení",
+    "surf",
+    "taula"
+  ],
+  "woman_swimming": [
+    "dona",
+    "dona que neda",
+    "femení",
+    "nedadora",
+    "nedar"
+  ],
+  "woman_teacher": [
+    "dona",
+    "femení",
+    "instructora",
+    "mestra",
+    "professora"
+  ],
+  "woman_technologist": [
+    "desenvolupadora",
+    "dona",
+    "inventora",
+    "programadora",
+    "tecnòloga"
+  ],
+  "woman_tipping_hand": [
+    "ajuda",
+    "dona",
+    "dona amb mà inclinada cap amunt",
+    "informació",
+    "mà"
+  ],
+  "woman_vampire": [
+    "dona vampir",
+    "morta vivent",
+    "vampiressa"
+  ],
+  "woman_walking": [
+    "caminada",
+    "dona",
+    "dona caminant",
+    "dona que camina",
+    "femení",
+    "passejada"
+  ],
+  "woman_wearing_turban": [
+    "dona",
+    "dona amb turbant",
+    "femení",
+    "turbant"
+  ],
+  "woman_white_hair": [
+    "cabells blancs",
+    "dona",
+    "femení"
+  ],
+  "woman_with_headscarf": [
+    "cap cobert",
+    "dona amb el cap cobert",
+    "hijab",
+    "mantellina",
+    "mocador de cap"
+  ],
+  "woman_with_veil": [
+    "dona",
+    "dona amb vel",
+    "vel"
+  ],
+  "woman_with_white_cane": [
+    "accessibilitat",
+    "dona",
+    "dona amb un bastó per a invidents",
+    "invident"
+  ],
+  "woman_zombie": [
+    "dona zombi",
+    "morta vivent"
+  ],
+  "women_holding_hands": [
+    "dones",
+    "dones que s’agafen de la mà",
+    "mans agafades",
+    "parella de dones"
+  ],
+  "women_s_room": [
+    "dones",
+    "lavabo",
+    "lavabo de dones",
+    "servei"
+  ],
+  "women_with_bunny_ears": [
+    "ballarina",
+    "ballarines amb orelles de conill",
+    "conilleta",
+    "dones que ballen disfressades",
+    "festa"
+  ],
+  "women_wrestling": [
+    "dona",
+    "esport",
+    "femení",
+    "jugadores de lluita",
+    "lluita",
+    "persona"
+  ],
+  "wood": [
+    "fusta",
+    "llenya",
+    "tronc"
+  ],
+  "woozy_face": [
+    "beguda",
+    "begut",
+    "boca ondulada",
+    "cara de mareig",
+    "embriac",
+    "embriaga",
+    "marejada",
+    "marejat",
+    "ulls desiguals"
+  ],
+  "world_map": [
+    "mapa",
+    "mapa del món",
+    "món"
+  ],
+  "worm": [
+    "annèl·lid",
+    "cuc",
+    "cuc de terra",
+    "paràsit"
+  ],
+  "worried": [
+    "cara",
+    "cara de preocupació",
+    "preocupació",
+    "preocupada",
+    "preocupat"
+  ],
+  "wrapped_gift": [
+    "celebració",
+    "embolicat",
+    "regal"
+  ],
+  "wrench": [
+    "anglesa",
+    "clau",
+    "eina"
+  ],
+  "writing_hand": [
+    "escriure",
+    "mà",
+    "mà que escriu"
+  ],
+  "yarn": [
+    "bola",
+    "cabdell",
+    "ganxet",
+    "llana",
+    "mitja"
+  ],
+  "yawning_face": [
+    "avorriment",
+    "badall",
+    "cansament",
+    "cara que badalla"
+  ],
+  "yellow_circle": [
+    "cercle",
+    "groc"
+  ],
+  "yellow_heart": [
+    "cor",
+    "cor groc"
+  ],
+  "yellow_square": [
+    "groc",
+    "quadrat"
+  ],
+  "yemen": [
+    "bandera"
+  ],
+  "yen_banknote": [
+    "bitllets",
+    "bitllets de ien",
+    "ien",
+    "signe"
+  ],
+  "yin_yang": [
+    "religió",
+    "tao",
+    "taoisme",
+    "taoista",
+    "yin i yang",
+    "yin-yang"
+  ],
+  "yoyo": [
+    "fluctuar",
+    "io-io",
+    "joguina"
+  ],
+  "zambia": [
+    "bandera"
+  ],
+  "zany_face": [
+    "boig",
+    "boja",
+    "cara de bogeria",
+    "ull gran",
+    "ull petit"
+  ],
+  "zebra": [
+    "ratlla"
+  ],
+  "zero": [
+    "tecla"
+  ],
+  "zimbabwe": [
+    "bandera"
+  ],
+  "zipper_mouth_face": [
+    "boca",
+    "boca tancada",
+    "cara",
+    "cara amb cremallera a la boca",
+    "cremallera"
+  ],
+  "zombie": [
+    "mort vivent",
+    "walking dead",
+    "zombi"
+  ],
+  "zzz": [
+    "còmic",
+    "son"
+  ],
+  "åland_islands": [
+    "bandera"
+  ]
+}

@@ -76,11 +76,15 @@
     "kuleramme"
   ],
   "accordion": [
-    "trekkspill"
+    "trekkspill",
+    "accordeon",
+    "concertina"
   ],
   "adhesive_bandage": [
     "bandasje",
-    "plaster"
+    "plaster",
+    "behandling",
+    "sår"
   ],
   "admission_tickets": [
     "adgang",
@@ -119,7 +123,8 @@
     "avgang",
     "fly som tar av",
     "innsjekk",
-    "avganger"
+    "avganger",
+    "flyavgang"
   ],
   "alarm_clock": [
     "alarm",
@@ -167,7 +172,8 @@
   "american_football": [
     "sport",
     "ball",
-    "amerikansk fotball"
+    "amerikansk fotball",
+    "amerikansk"
   ],
   "american_samoa": [
     "flagg",
@@ -279,7 +285,8 @@
   ],
   "aquarius": [
     "stjernetegn",
-    "vannmannen"
+    "vannmannen",
+    "vann"
   ],
   "argentina": [
     "flagg",
@@ -288,7 +295,8 @@
   ],
   "aries": [
     "stjernetegn",
-    "væren"
+    "væren",
+    "vær"
   ],
   "armenia": [
     "flagg",
@@ -300,7 +308,9 @@
   "articulated_lorry": [
     "kjøretøy",
     "bil",
-    "lastebil"
+    "lastebil",
+    "trailer",
+    "trekkvogn"
   ],
   "artist": [
     "maler",
@@ -316,9 +326,13 @@
     "flagg_aw",
     "aw"
   ],
+  "ascension_island": [
+    "flagg"
+  ],
   "asterisk": [
     "stjerne",
-    "fotnote"
+    "fotnote",
+    "taster"
   ],
   "astonished_face": [
     "fjes",
@@ -327,6 +341,10 @@
     "overrasket",
     "sjokkert",
     "stum"
+  ],
+  "astronaut": [
+    "romfart",
+    "verdensrommet"
   ],
   "atm_sign": [
     "penger",
@@ -355,7 +373,9 @@
   "auto_rickshaw": [
     "autorickshaw",
     "rickshaw",
-    "tuk-tuk"
+    "tuk-tuk",
+    "mototaxi",
+    "trehjuling"
   ],
   "automobile": [
     "kjøretøy",
@@ -369,7 +389,11 @@
   "axe": [
     "øks",
     "tømrer",
-    "hogge"
+    "hogge",
+    "dele",
+    "hugge",
+    "kløyve",
+    "ved"
   ],
   "azerbaijan": [
     "flagg",
@@ -501,7 +525,9 @@
     "likearmet skålvekt"
   ],
   "ballet_shoes": [
-    "ballettsko"
+    "ballettsko",
+    "ballett",
+    "dans"
   ],
   "balloon": [
     "feiring",
@@ -520,6 +546,10 @@
     "flagg",
     "flagg_bd",
     "bd"
+  ],
+  "banjo": [
+    "musikk",
+    "strenginstrument"
   ],
   "bank": [
     "bygning"
@@ -606,7 +636,8 @@
   ],
   "beaver": [
     "dyr",
-    "bever"
+    "bever",
+    "dam"
   ],
   "bed": [
     "hotell",
@@ -623,7 +654,8 @@
   ],
   "beetle": [
     "insekt",
-    "bille"
+    "bille",
+    "dyr"
   ],
   "belarus": [
     "flagg",
@@ -650,7 +682,10 @@
     "mat",
     "grønnsaker",
     "grønn paprika",
-    "paprika"
+    "paprika",
+    "capsicum",
+    "chili",
+    "grønnsak"
   ],
   "bell_with_slash": [
     "ingen lyd",
@@ -674,7 +709,9 @@
   "bento_box": [
     "bentoboks",
     "bento-boks",
-    "matboks"
+    "matboks",
+    "bento",
+    "boks"
   ],
   "bermuda": [
     "flagg",
@@ -683,7 +720,10 @@
   ],
   "beverage_box": [
     "drikke",
-    "juice"
+    "juice",
+    "drikkekartong",
+    "juicekartong",
+    "juskartong"
   ],
   "bhutan": [
     "flagg",
@@ -724,7 +764,9 @@
   ],
   "bison": [
     "dyr",
-    "okse"
+    "okse",
+    "bøffel",
+    "visent"
   ],
   "biting_lip": [
     "bite seg i leppa",
@@ -749,7 +791,9 @@
   "black_cat": [
     "dyr",
     "katt",
-    "svart katt"
+    "svart katt",
+    "uhell",
+    "ulykke"
   ],
   "black_circle": [
     "sirkel",
@@ -806,12 +850,16 @@
     "blond",
     "menneske",
     "mann",
-    "blond person"
+    "blond person",
+    "hår",
+    "mann: blond"
   ],
   "blonde_woman": [
     "blond",
     "kvinne",
-    "blondine"
+    "blondine",
+    "hår",
+    "kvinne: blond"
   ],
   "blossom": [
     "blomst",
@@ -824,7 +872,8 @@
   ],
   "blue_book": [
     "bok",
-    "blå bok"
+    "blå bok",
+    "blå"
   ],
   "blue_circle": [
     "blå",
@@ -841,11 +890,14 @@
   ],
   "blue_square": [
     "blå",
-    "firkant"
+    "firkant",
+    "blått",
+    "kvadrat"
   ],
   "blueberries": [
     "bær",
-    "blåbær"
+    "blåbær",
+    "blå"
   ],
   "blush": [
     "fjes",
@@ -946,14 +998,18 @@
     "faner",
     "markør",
     "bokmerke",
-    "bokmerkefane"
+    "bokmerkefane",
+    "merker"
   ],
   "books": [
     "bok",
     "bøker"
   ],
   "boomerang": [
-    "bumerang"
+    "bumerang",
+    "australia",
+    "retur",
+    "tilbake"
   ],
   "bosnia_herzegovina": [
     "flagg",
@@ -981,6 +1037,9 @@
     "blomster",
     "romantikk",
     "bukett"
+  ],
+  "bouvet_island": [
+    "flagg"
   ],
   "bow_and_arrow": [
     "våpen",
@@ -1034,7 +1093,9 @@
     "brasil"
   ],
   "bread": [
-    "food"
+    "food",
+    "brød",
+    "loff"
   ],
   "breast_feeding": [
     "morsmelk",
@@ -1061,7 +1122,10 @@
   "briefs": [
     "undertøy",
     "truser",
-    "truse"
+    "truse",
+    "badebukse",
+    "badetøy",
+    "bikinitruse"
   ],
   "bright_button": [
     "høy",
@@ -1115,7 +1179,8 @@
   ],
   "brown_heart": [
     "hjerte",
-    "brunt hjerte"
+    "brunt hjerte",
+    "brun"
   ],
   "brown_mushroom": [
     "sopp",
@@ -1154,7 +1219,9 @@
   ],
   "brown_square": [
     "brun",
-    "firkant"
+    "firkant",
+    "brunt",
+    "kvadrat"
   ],
   "brunei": [
     "flagg",
@@ -1163,7 +1230,13 @@
   ],
   "bubble_tea": [
     "boblete",
-    "bubbletea"
+    "bubbletea",
+    "boble-te",
+    "bobler",
+    "kuler",
+    "melk",
+    "perler",
+    "te"
   ],
   "bubbles": [
     "boble",
@@ -1171,7 +1244,9 @@
   ],
   "bucket": [
     "spann",
-    "bøtte"
+    "bøtte",
+    "beholder",
+    "kar"
   ],
   "bug": [
     "dyr",
@@ -1243,7 +1318,8 @@
     "silhuett av byster"
   ],
   "butter": [
-    "smør"
+    "smør",
+    "meieriprodukt"
   ],
   "butterfly": [
     "dyr",
@@ -1308,11 +1384,14 @@
   ],
   "cancer": [
     "stjernetegn",
-    "krepsen"
+    "krepsen",
+    "krabbe",
+    "kreps"
   ],
   "candle": [
     "lys",
-    "stearinlys"
+    "stearinlys",
+    "stearin"
   ],
   "candy": [
     "sukkertøy",
@@ -1323,7 +1402,8 @@
   ],
   "canned_food": [
     "boks",
-    "hermetikk"
+    "hermetikk",
+    "hermetisk mat"
   ],
   "canoe": [
     "båt",
@@ -1338,7 +1418,8 @@
   ],
   "capricorn": [
     "steinbukken",
-    "stjernetegn"
+    "stjernetegn",
+    "geit"
   ],
   "card_file_box": [
     "kort",
@@ -1356,7 +1437,8 @@
     "kort",
     "skillekort",
     "skillere",
-    "indeks"
+    "indeks",
+    "faner"
   ],
   "caribbean_netherlands": [
     "flagg",
@@ -1381,7 +1463,11 @@
   "carpentry_saw": [
     "sag",
     "sage",
-    "håndsag"
+    "håndsag",
+    "snekker",
+    "tømrer",
+    "tre",
+    "verktøy"
   ],
   "carrot": [
     "mat",
@@ -1443,6 +1529,9 @@
     "sentralafrikanske republikk",
     "flagg_cf"
   ],
+  "ceuta_melilla": [
+    "flagg"
+  ],
   "chad": [
     "flagg",
     "tsjad",
@@ -1456,7 +1545,10 @@
   "chair": [
     "kjøkkenstol",
     "trone",
-    "stol"
+    "stol",
+    "sete",
+    "sitte",
+    "sitteplass"
   ],
   "chart_decreasing": [
     "ned",
@@ -1464,7 +1556,8 @@
     "graf",
     "negativ",
     "diagram som peker nedover",
-    "synkende"
+    "synkende",
+    "chart"
   ],
   "chart_increasing": [
     "positiv",
@@ -1482,19 +1575,24 @@
     "stigende graf",
     "trend",
     "stigende diagram med yen",
-    "yen"
+    "yen",
+    "stigende"
   ],
   "check_box_with_check": [
     "stemmeseddel",
     "hakemerke",
     "boks",
-    "stemmeurne med hakemerke"
+    "stemmeurne med hakemerke",
+    "✓",
+    "avkrysset boks",
+    "boks med hakemerke"
   ],
   "check_mark": [
     "hake",
     "hakemerke",
     "merke",
-    "fremhevet hakemerke"
+    "fremhevet hakemerke",
+    "✓"
   ],
   "cheese_wedge": [
     "ost",
@@ -1626,7 +1724,8 @@
   "cl_button": [
     "slett",
     "cl-knapp",
-    "clear"
+    "clear",
+    "tøm"
   ],
   "clamp": [
     "verktøy",
@@ -1680,6 +1779,9 @@
     "tavle",
     "ordrebrett"
   ],
+  "clipperton_island": [
+    "flagg"
+  ],
   "clockwise_vertical_arrows": [
     "piler",
     "last inn på nytt",
@@ -1687,7 +1789,8 @@
   ],
   "closed_book": [
     "bok",
-    "lukket bok"
+    "lukket bok",
+    "lukket"
   ],
   "closed_mailbox_with_lowered_flag": [
     "flagg",
@@ -1759,7 +1862,10 @@
   ],
   "cockroach": [
     "insekt",
-    "kakkerlakk"
+    "kakkerlakk",
+    "dyr",
+    "kakerlakk",
+    "utøy"
   ],
   "cocktail_glass": [
     "bar",
@@ -1770,7 +1876,8 @@
   "coconut": [
     "kokosnøtt",
     "palme",
-    "piña colada"
+    "piña colada",
+    "kokos"
   ],
   "cocos_keeling_islands": [
     "flagg",
@@ -1787,7 +1894,11 @@
   ],
   "coin": [
     "penger",
-    "mynt"
+    "mynt",
+    "gull",
+    "metall",
+    "skatt",
+    "sølv"
   ],
   "cold_face": [
     "blå",
@@ -1833,7 +1944,8 @@
     "disk",
     "minidisk",
     "datadisk",
-    "md"
+    "md",
+    "optisk"
   ],
   "computer_mouse": [
     "datamaskin",
@@ -1921,7 +2033,11 @@
     "anleggsarbeider",
     "arbeider",
     "bygningsarbeider",
-    "bygger"
+    "bygger",
+    "anlegg",
+    "hjelm",
+    "ingeniør",
+    "menneske"
   ],
   "construction_worker_man": [
     "menneske",
@@ -1931,7 +2047,8 @@
     "anleggsarbeider",
     "ingeniør",
     "arbeider",
-    "mannlig anleggsarbeider"
+    "mannlig anleggsarbeider",
+    "hjelm"
   ],
   "construction_worker_woman": [
     "menneske",
@@ -1941,13 +2058,16 @@
     "anleggsarbeider",
     "ingeniør",
     "arbeider",
-    "kvinnelig anleggsarbeider"
+    "kvinnelig anleggsarbeider",
+    "hjelm"
   ],
   "control_knobs": [
     "musikk",
     "kontrollbrytere",
     "knott",
-    "kontroll"
+    "kontroll",
+    "brytere",
+    "knotter"
   ],
   "convenience_store": [
     "bygning",
@@ -1958,7 +2078,9 @@
   ],
   "cook": [
     "kokk",
-    "kjøkkensjef"
+    "kjøkkensjef",
+    "matlaging",
+    "restaurant"
   ],
   "cook_islands": [
     "flagg",
@@ -2022,13 +2144,25 @@
     "forelsket",
     "par med hjerte",
     "mennesker",
-    "par"
+    "par",
+    "kvinne",
+    "mann"
   ],
   "couple_with_heart_man_man": [
-    "par med hjerte"
+    "par med hjerte",
+    "hjerte",
+    "kjærlighet",
+    "mann",
+    "mennesker",
+    "romantikk"
   ],
   "couple_with_heart_woman_woman": [
-    "par med hjerte"
+    "par med hjerte",
+    "hjerte",
+    "kjærlighet",
+    "kvinne",
+    "mennesker",
+    "romantikk"
   ],
   "cow": [
     "dyr",
@@ -2102,11 +2236,15 @@
   "cross_mark": [
     "kryss",
     "x",
-    "rødt kryss"
+    "rødt kryss",
+    "×"
   ],
   "cross_mark_button": [
     "kryss i firkant",
-    "kryss"
+    "kryss",
+    "×",
+    "kvadrat",
+    "x"
   ],
   "crossed_fingers": [
     "hånd",
@@ -2190,7 +2328,8 @@
   "cucumber": [
     "mat",
     "grønnsak",
-    "agurk"
+    "agurk",
+    "sylteagurk"
   ],
   "cup_with_straw": [
     "jus",
@@ -2221,13 +2360,17 @@
     "veksling",
     "penger",
     "valutaveksling",
-    "valuta"
+    "valuta",
+    "bank"
   ],
   "curry_rice": [
     "mat",
     "ris",
     "curry",
-    "asiatisk"
+    "asiatisk",
+    "karri",
+    "karriris",
+    "restaurant"
   ],
   "custard": [
     "dessert",
@@ -2248,7 +2391,8 @@
   "cyclone": [
     "svimmel",
     "syklon",
-    "tornado"
+    "tornado",
+    "orkan"
   ],
   "cyprus": [
     "flagg",
@@ -2293,16 +2437,21 @@
   ],
   "deaf_man": [
     "døv",
-    "døv mann"
+    "døv mann",
+    "mann"
   ],
   "deaf_person": [
     "døv",
-    "døv person"
+    "døv person",
+    "høre",
+    "øre",
+    "tilgjengelighet"
   ],
   "deaf_woman": [
     "døv",
     "døv dame",
-    "døv kvinne"
+    "døv kvinne",
+    "kvinne"
   ],
   "deciduous_tree": [
     "løvtre",
@@ -2355,7 +2504,8 @@
   "detective": [
     "etterforsker",
     "sherlock",
-    "detektiv"
+    "detektiv",
+    "spion"
   ],
   "diamond_suit": [
     "spill",
@@ -2369,6 +2519,9 @@
     "diamant",
     "diamant med prikk",
     "søtt"
+  ],
+  "diego_garcia": [
+    "flagg"
   ],
   "dim_button": [
     "lite lys-knapp",
@@ -2414,12 +2567,16 @@
     "divisjonstegn",
     "dele",
     "fremhevet deletegn",
-    "divisjon"
+    "divisjon",
+    "÷"
   ],
   "diving_mask": [
     "maske",
     "snorkling",
-    "dykking"
+    "dykking",
+    "dykker",
+    "dykkermaske",
+    "froskemann"
   ],
   "diya_lamp": [
     "lamp",
@@ -2428,7 +2585,10 @@
     "deya",
     "diya lampe",
     "diyo",
-    "divaa"
+    "divaa",
+    "åpen oljelampe",
+    "lampe",
+    "olje"
   ],
   "dizzy": [
     "tegneserie",
@@ -2451,7 +2611,11 @@
   ],
   "dodo": [
     "dodofugl",
-    "fugl"
+    "fugl",
+    "dronte",
+    "mauritius",
+    "stor",
+    "utdødd"
   ],
   "dog": [
     "dyr",
@@ -2531,7 +2695,9 @@
     "tegn",
     "bangbang",
     "utropstegn",
-    "dobbelt utropstegn"
+    "dobbelt utropstegn",
+    "!",
+    "!!"
   ],
   "doughnut": [
     "restaurant",
@@ -2544,7 +2710,8 @@
     "fly",
     "fred",
     "fugl",
-    "fredsdue"
+    "fredsdue",
+    "due"
   ],
   "down_arrow": [
     "pil",
@@ -2606,7 +2773,10 @@
     "skade",
     "menstruasjon",
     "blødning",
-    "bløder"
+    "bløder",
+    "blodgiver",
+    "medisin",
+    "mens"
   ],
   "droplet": [
     "vann",
@@ -2659,7 +2829,10 @@
   "ear_with_hearing_aid": [
     "døv",
     "tunghørt",
-    "høreapparat"
+    "høreapparat",
+    "øre med høreapparat",
+    "svak hørsel",
+    "tilgjengelighet"
   ],
   "ecuador": [
     "flagg",
@@ -2680,28 +2853,35 @@
   ],
   "eight": [
     "8",
-    "åtte"
+    "åtte",
+    "taster"
   ],
   "eight_o_clock": [
     "klokka",
     "20:00",
     "8:00",
     "åtte",
-    "klokken åtte"
+    "klokken åtte",
+    "klokken"
   ],
   "eight_pointed_star": [
     "stjerne",
-    "åttetagget stjerne"
+    "åttetagget stjerne",
+    "*"
   ],
   "eight_spoked_asterisk": [
     "asterisk",
-    "asterisk med åtte spisser"
+    "asterisk med åtte spisser",
+    "*",
+    "stjerne"
   ],
   "eight_thirty": [
     "klokka",
     "8:30",
     "klokken halv ni",
-    "20:30"
+    "20:30",
+    "halv ni",
+    "klokken"
   ],
   "eject_button": [
     "løse ut",
@@ -2726,24 +2906,29 @@
     "elefant"
   ],
   "elevator": [
-    "heis"
+    "heis",
+    "tilgjengelighet"
   ],
   "eleven_o_clock": [
     "klokka",
     "23:00",
     "klokken elleve",
     "11:00",
-    "elleve"
+    "elleve",
+    "klokken"
   ],
   "eleven_thirty": [
     "klokka",
     "11:30",
     "23:30",
-    "klokken halv tolv"
+    "klokken halv tolv",
+    "halv tolv",
+    "klokken"
   ],
   "elf": [
     "legolas",
-    "alv"
+    "alv",
+    "magi"
   ],
   "empty_nest": [
     "tomt rede"
@@ -2846,7 +3031,8 @@
   ],
   "ewe": [
     "dyr",
-    "søye"
+    "søye",
+    "sau"
   ],
   "exclamation_question_mark": [
     "utrop",
@@ -2856,7 +3042,10 @@
     "spørsmålstegn",
     "utropstegn",
     "spørrende",
-    "utropstegn og spørsmålstegn"
+    "utropstegn og spørsmålstegn",
+    "!",
+    "!?",
+    "?"
   ],
   "exploding_head": [
     "skrekkslagen",
@@ -3460,11 +3649,22 @@
     "fabrikk"
   ],
   "factory_worker": [
-    "arbeider"
+    "arbeider",
+    "fabrikk",
+    "industri",
+    "industriarbeider",
+    "produksjon"
   ],
   "fairy": [
     "fe",
-    "tingeling"
+    "tingeling",
+    "oberon",
+    "puck",
+    "titania"
+  ],
+  "falafel": [
+    "kikerter",
+    "kjøttboller"
   ],
   "falkland_islands": [
     "flagg",
@@ -3576,155 +3776,288 @@
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_boy_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_girl_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_girl_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_man_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_man_boy_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_man_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_man_girl_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_man_girl_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_woman_boy": [
     "far",
     "barn",
     "familie",
-    "mor"
+    "mor",
+    "gutt",
+    "kvinne",
+    "mann",
+    "mennesker"
   ],
   "family_man_woman_boy_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "kvinne",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_woman_girl": [
     "far",
     "barn",
     "familie",
-    "mor"
+    "mor",
+    "jente",
+    "kvinne",
+    "mann",
+    "mennesker"
   ],
   "family_man_woman_girl_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "jente",
+    "kvinne",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_man_woman_girl_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "kvinne",
+    "mann",
+    "mennesker",
+    "mor"
   ],
   "family_woman_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_boy_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_girl_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_girl_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_woman_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_woman_boy_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_woman_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_woman_girl_boy": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "gutt",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "family_woman_woman_girl_girl": [
     "barn",
     "søsken",
     "foreldre",
-    "familie"
+    "familie",
+    "far",
+    "jente",
+    "kvinne",
+    "mennesker",
+    "mor"
   ],
   "farmer": [
     "bonde",
-    "landsbyboer"
+    "landsbyboer",
+    "gårdbruker",
+    "jordbruk"
   ],
   "faroe_islands": [
     "flagg",
@@ -3738,7 +4071,8 @@
     "pil",
     "ned",
     "raskt ned-knapp",
-    "dobbelt pil ned"
+    "dobbelt pil ned",
+    "dobbel pil ned"
   ],
   "fast_forward_button": [
     "høyre",
@@ -3772,7 +4106,14 @@
   ],
   "feather": [
     "fjær",
-    "fjør"
+    "fjør",
+    "fjærdrakt",
+    "fugl",
+    "lett"
+  ],
+  "female_sign": [
+    "kvinne",
+    "kvinnesymbol"
   ],
   "ferris_wheel": [
     "tivoli",
@@ -3781,7 +4122,8 @@
   ],
   "ferry": [
     "båt",
-    "ferge"
+    "ferge",
+    "passasjer"
   ],
   "field_hockey": [
     "kølle",
@@ -3801,7 +4143,8 @@
     "arkivskap",
     "fil",
     "mapper",
-    "kabinett"
+    "kabinett",
+    "arkiv"
   ],
   "file_folder": [
     "fil",
@@ -3813,14 +4156,16 @@
     "film",
     "kino",
     "ruter",
-    "filmruter"
+    "filmruter",
+    "bilder"
   ],
   "film_projector": [
     "film",
     "kino",
     "video",
     "projektor",
-    "filmframviser"
+    "filmframviser",
+    "filmfremviser"
   ],
   "finland": [
     "flagg",
@@ -3852,7 +4197,10 @@
     "kinaputt"
   ],
   "firefighter": [
-    "brannmann"
+    "brannmann",
+    "brannbil",
+    "brannkonstabel",
+    "brannvesenet"
   ],
   "fireworks": [
     "feiring",
@@ -3862,7 +4210,10 @@
   "first_quarter_moon": [
     "månefase",
     "første kvarter",
-    "voksende halvmåne"
+    "voksende halvmåne",
+    "halvmåne",
+    "måne",
+    "ny"
   ],
   "first_quarter_moon_face": [
     "nymåne med ansikt",
@@ -3890,23 +4241,29 @@
   ],
   "five": [
     "5",
-    "fem"
+    "fem",
+    "taster"
   ],
   "five_o_clock": [
     "klokka",
     "klokken fem",
     "5:00",
     "fem",
-    "17:00"
+    "17:00",
+    "klokken"
   ],
   "five_thirty": [
     "klokka",
     "5:30",
     "17:30",
-    "klokken halv seks"
+    "klokken halv seks",
+    "halv seks",
+    "klokken"
   ],
   "flamingo": [
-    "fulg"
+    "fulg",
+    "prangende",
+    "tropisk"
   ],
   "flashlight": [
     "lommelykt",
@@ -3921,7 +4278,13 @@
   ],
   "flatbread": [
     "pannekake",
-    "flattbrød"
+    "flattbrød",
+    "arepa",
+    "brød",
+    "lavash",
+    "nan",
+    "pita",
+    "pitabrød"
   ],
   "fleur_de_lis": [
     "fransk lilje",
@@ -3972,7 +4335,12 @@
   ],
   "fly": [
     "insekt",
-    "flue"
+    "flue",
+    "dyr",
+    "forråtnelse",
+    "larver",
+    "råtne",
+    "sykdom"
   ],
   "flying_disc": [
     "ultimate",
@@ -4013,7 +4381,13 @@
   ],
   "fondue": [
     "mat",
-    "fondu"
+    "fondu",
+    "fondy",
+    "gryte",
+    "ost",
+    "sjokolade",
+    "smeltet",
+    "sveitsisk"
   ],
   "foot": [
     "sparke",
@@ -4050,11 +4424,13 @@
   ],
   "fountain_pen": [
     "penn",
-    "fyllepenn"
+    "fyllepenn",
+    "blekk"
   ],
   "four": [
     "fire",
-    "4"
+    "4",
+    "taster"
   ],
   "four_leaf_clover": [
     "flaks",
@@ -4069,13 +4445,16 @@
     "fire",
     "16:00",
     "4:00",
-    "klokken fire"
+    "klokken fire",
+    "klokken"
   ],
   "four_thirty": [
     "klokka",
     "klokken halv fem",
     "16:30",
-    "4:30"
+    "4:30",
+    "halv fem",
+    "klokken"
   ],
   "fox": [
     "fjes",
@@ -4113,7 +4492,8 @@
   "french_fries": [
     "restaurant",
     "pommes frites",
-    "chips"
+    "chips",
+    "stekte poteter"
   ],
   "french_guiana": [
     "flagg",
@@ -4248,11 +4628,14 @@
     "yatzi"
   ],
   "garlic": [
-    "hvitløk"
+    "hvitløk",
+    "smakstilsetning"
   ],
   "gear": [
     "verktøy",
-    "tannhjul"
+    "tannhjul",
+    "del",
+    "tann"
   ],
   "gem_stone": [
     "diamant",
@@ -4262,12 +4645,14 @@
   ],
   "gemini": [
     "stjernetegn",
-    "tvillingene"
+    "tvillingene",
+    "tvillinger"
   ],
   "genie": [
     "lampe",
     "ånd",
-    "aladdin"
+    "aladdin",
+    "djinn"
   ],
   "georgia": [
     "flagg",
@@ -4295,7 +4680,8 @@
     "bø",
     "skapning",
     "skremme",
-    "spøkelse"
+    "spøkelse",
+    "eventyr"
   ],
   "gibraltar": [
     "flagg",
@@ -4329,7 +4715,8 @@
   ],
   "glasses": [
     "lesebriller",
-    "briller"
+    "briller",
+    "klær"
   ],
   "globe_showing_americas": [
     "jorden",
@@ -4441,11 +4828,14 @@
   "green_apple": [
     "frukt",
     "eple",
-    "grønt eple"
+    "grønt eple",
+    "grønn",
+    "grønt"
   ],
   "green_book": [
     "bok",
-    "grønn bok"
+    "grønn bok",
+    "grønn"
   ],
   "green_circle": [
     "sirkel",
@@ -4466,7 +4856,9 @@
   ],
   "green_square": [
     "firkant",
-    "grønn"
+    "grønn",
+    "grønt",
+    "kvadrat"
   ],
   "greenland": [
     "flagg",
@@ -4757,7 +5149,10 @@
     "glad",
     "glisefjes med smilende øyne",
     "oppglødd",
-    "opplagt"
+    "opplagt",
+    "med tenner",
+    "morsomt",
+    "smilefjes med åpen munn og smilende øyne"
   ],
   "growing_heart": [
     "kjærlig",
@@ -4796,7 +5191,8 @@
     "gardist",
     "dronningens vakt",
     "britisk vakt",
-    "vakt"
+    "vakt",
+    "menneske"
   ],
   "guatemala": [
     "flagg",
@@ -4809,7 +5205,11 @@
     "gg"
   ],
   "guide_dog": [
-    "blindehunn"
+    "blindehunn",
+    "blind",
+    "førerhund",
+    "hund",
+    "tilgjengelighet"
   ],
   "guinea": [
     "flagg",
@@ -4897,7 +5297,8 @@
   ],
   "handbag": [
     "veske",
-    "håndveske"
+    "håndveske",
+    "klær"
   ],
   "handshake": [
     "hånd",
@@ -4908,7 +5309,8 @@
   ],
   "hash": [
     "firkant",
-    "emneknagg"
+    "emneknagg",
+    "taster"
   ],
   "hatching_chick": [
     "kylling",
@@ -4944,11 +5346,17 @@
   "headstone": [
     "grav",
     "gravstøtte",
-    "gravstein"
+    "gravstein",
+    "gravplass",
+    "kirkegård"
   ],
   "health_worker": [
     "doktor",
-    "lege"
+    "lege",
+    "helsearbeider",
+    "helsevesen",
+    "sykepleier",
+    "terapeut"
   ],
   "hear_no_evil_monkey": [
     "fjes",
@@ -4960,6 +5368,9 @@
     "ape",
     "hører ikke",
     "vil ikke"
+  ],
+  "heard_mcdonald_islands": [
+    "flagg"
   ],
   "heart": [
     "kjærlig",
@@ -5126,7 +5537,8 @@
   "herb": [
     "plante",
     "urt",
-    "urteblader"
+    "urteblader",
+    "blader"
   ],
   "hibiscus": [
     "blomst",
@@ -5163,7 +5575,8 @@
     "tempel",
     "hindu tempel",
     "hindu",
-    "mandir"
+    "mandir",
+    "hindutempel"
   ],
   "hippopotamus": [
     "flodhest"
@@ -5175,7 +5588,10 @@
   "hollow_red_circle": [
     "sirkel",
     "o",
-    "fremhevet stor sirkel"
+    "fremhevet stor sirkel",
+    "rød",
+    "stor",
+    "tykk rød sirkel"
   ],
   "honduras": [
     "flagg",
@@ -5201,7 +5617,12 @@
     "flagg_hk"
   ],
   "hook": [
-    "krok"
+    "krok",
+    "buet",
+    "fange",
+    "løfte",
+    "løftekrok",
+    "salgspunkt"
   ],
   "horizontal_traffic_light": [
     "trafikk",
@@ -5264,7 +5685,8 @@
     "plante",
     "chili",
     "rød chili",
-    "sterk"
+    "sterk",
+    "rød"
   ],
   "hot_springs": [
     "varme kilder",
@@ -5339,7 +5761,12 @@
     "stum"
   ],
   "hut": [
-    "hytte"
+    "hytte",
+    "bungalow",
+    "hus",
+    "jurt",
+    "jurte",
+    "rundhus"
   ],
   "hyacinth": [
     "blomst",
@@ -5349,7 +5776,9 @@
   "ice": [
     "is",
     "isbit",
-    "iskube"
+    "iskube",
+    "isterning",
+    "kald"
   ],
   "ice_cream": [
     "restaurant",
@@ -5447,7 +5876,8 @@
     "universal",
     "uendelig",
     "for alltid",
-    "grenseløs"
+    "grenseløs",
+    "universell"
   ],
   "information_source": [
     "info",
@@ -5527,7 +5957,9 @@
   "input_latin_letters": [
     "inndata",
     "abc",
-    "latinsk alfabet"
+    "latinsk alfabet",
+    "bokstaver",
+    "latinsk"
   ],
   "input_latin_lowercase": [
     "inndata",
@@ -5543,7 +5975,8 @@
   ],
   "input_symbols": [
     "inndata",
-    "symboler"
+    "symboler",
+    "〒♪&%"
   ],
   "iran": [
     "flagg",
@@ -5866,7 +6299,8 @@
     "pusekatt",
     "kattepus",
     "gledestårer",
-    "kattefjes med gledestårer"
+    "kattefjes med gledestårer",
+    "katt med gledestårer"
   ],
   "joystick": [
     "spill",
@@ -5875,7 +6309,9 @@
     "styrespak"
   ],
   "judge": [
-    "dommer"
+    "dommer",
+    "jus",
+    "juss"
   ],
   "kaaba": [
     "religion",
@@ -5887,7 +6323,8 @@
     "australia",
     "hoppe",
     "kenguru",
-    "pungdyr"
+    "pungdyr",
+    "dyr"
   ],
   "kazakhstan": [
     "flagg",
@@ -5936,7 +6373,12 @@
   ],
   "kiss_man_man": [
     "par med hjerte",
-    "par kysser"
+    "par kysser",
+    "kyss",
+    "kyssing",
+    "mann",
+    "mennesker",
+    "romantikk"
   ],
   "kiss_mark": [
     "kysse",
@@ -5953,11 +6395,21 @@
     "hjerte",
     "kjærlighet",
     "kyss",
-    "par"
+    "par",
+    "kvinne",
+    "kyssing",
+    "mann",
+    "mennesker",
+    "romantikk"
   ],
   "kiss_woman_woman": [
     "par med hjerte",
-    "par kysser"
+    "par kysser",
+    "kvinne",
+    "kyss",
+    "kyssing",
+    "mennesker",
+    "romantikk"
   ],
   "kissing_cat": [
     "fjes",
@@ -6078,7 +6530,10 @@
     "kokkekniv"
   ],
   "kite": [
-    "drage"
+    "drage",
+    "fly",
+    "papirdrage",
+    "sveve"
   ],
   "kiwi_fruit": [
     "mat",
@@ -6087,7 +6542,12 @@
   ],
   "knot": [
     "knute",
-    "tau"
+    "tau",
+    "knop",
+    "knyte",
+    "rep",
+    "sammenflettet",
+    "tvinne"
   ],
   "koala": [
     "dyr",
@@ -6127,7 +6587,11 @@
   ],
   "ladder": [
     "stige",
-    "gardintrapp"
+    "gardintrapp",
+    "klatre",
+    "leider",
+    "trapp",
+    "trinn"
   ],
   "lady_beetle": [
     "dyr",
@@ -6161,7 +6625,10 @@
   "last_quarter_moon": [
     "månefase",
     "siste kvarter",
-    "avtakende halvmåne"
+    "avtakende halvmåne",
+    "halvmåne",
+    "måne",
+    "ne"
   ],
   "last_quarter_moon_face": [
     "kvartmåne med ansikt",
@@ -6263,6 +6730,11 @@
     "pil",
     "pil venstre-høyre"
   ],
+  "left_speech_bubble": [
+    "dialog",
+    "snakkeboble mot venstre",
+    "tale"
+  ],
   "leftwards_hand": [
     "hånd",
     "hånd mot venstre",
@@ -6280,7 +6752,8 @@
   "leg": [
     "lem",
     "spark",
-    "bein"
+    "bein",
+    "sparke"
   ],
   "lemon": [
     "frukt",
@@ -6289,7 +6762,8 @@
   ],
   "leo": [
     "stjernetegn",
-    "løven"
+    "løven",
+    "løve"
   ],
   "leopard": [
     "dyr"
@@ -6312,7 +6786,9 @@
   ],
   "libra": [
     "stjernetegn",
-    "vekten"
+    "vekten",
+    "rettferdighet",
+    "vekt"
   ],
   "libya": [
     "flagg",
@@ -6411,7 +6887,8 @@
     "guanaco",
     "alpakka",
     "ull",
-    "lama"
+    "lama",
+    "dyr"
   ],
   "lobster": [
     "sjømat",
@@ -6445,7 +6922,11 @@
   ],
   "long_drum": [
     "stortromme",
-    "tromme"
+    "tromme",
+    "beat",
+    "conga",
+    "langtromme",
+    "rytme"
   ],
   "lotion_bottle": [
     "fuktighetskrem",
@@ -6556,13 +7037,19 @@
   ],
   "mage": [
     "heks",
-    "magiker"
+    "magiker",
+    "trollkvinne",
+    "trollmann",
+    "trollperson"
   ],
   "magic_wand": [
     "magi",
     "tryllestav",
     "stav",
-    "magisk"
+    "magisk",
+    "heks",
+    "trollmann",
+    "trylle"
   ],
   "magnet": [
     "magnetisk",
@@ -6606,6 +7093,10 @@
     "mv",
     "maldivene"
   ],
+  "male_sign": [
+    "mann",
+    "mannssymbol"
+  ],
   "mali": [
     "flagg",
     "ml",
@@ -6619,11 +7110,16 @@
   "mammoth": [
     "dyr",
     "mammut",
-    "manny"
+    "manny",
+    "stor",
+    "støttenner",
+    "ull",
+    "utdødd"
   ],
   "man": [
     "menneske",
-    "mann"
+    "mann",
+    "voksen"
   ],
   "man_artist": [
     "maler",
@@ -6645,7 +7141,9 @@
     "menneskelig",
     "hår",
     "hårklipp",
-    "skallet"
+    "skallet",
+    "menneske",
+    "voksen"
   ],
   "man_beard": [
     "mann",
@@ -6655,11 +7153,16 @@
   "man_biking": [
     "sykle",
     "sykkel",
-    "syklist"
+    "syklist",
+    "mann",
+    "mannlig syklist"
   ],
   "man_bouncing_ball": [
     "ball",
-    "person med ball"
+    "person med ball",
+    "ballsport",
+    "mann",
+    "mann med ball"
   ],
   "man_bowing": [
     "unnskyld",
@@ -6675,11 +7178,14 @@
     "person",
     "slå hjul",
     "gymnastikk",
-    "gym"
+    "gym",
+    "mann",
+    "mann som slår hjul"
   ],
   "man_climbing": [
     "klatring",
-    "klatrer"
+    "klatrer",
+    "mannlig klatrer"
   ],
   "man_cook": [
     "restaurant",
@@ -6695,7 +7201,10 @@
     "menneskelig",
     "hår",
     "hårklipp",
-    "krøllete"
+    "krøllete",
+    "kruset hår",
+    "menneske",
+    "voksen"
   ],
   "man_dancing": [
     "menneske",
@@ -6725,7 +7234,8 @@
     "vorspiel",
     "vise",
     "show",
-    "danselåt"
+    "danselåt",
+    "mann"
   ],
   "man_detective": [
     "mann",
@@ -6781,7 +7291,9 @@
     "mann",
     "fabrikk",
     "industri",
-    "mannlig industriarbeider"
+    "mannlig industriarbeider",
+    "arbeider",
+    "industriarbeider"
   ],
   "man_fairy": [
     "puck",
@@ -6795,27 +7307,38 @@
     "bonde",
     "mann",
     "dyrke",
-    "mannlig bonde"
+    "mannlig bonde",
+    "gårdbruker",
+    "mannlig gårdbruker"
   ],
   "man_feeding_baby": [
     "mater",
-    "baby"
+    "baby",
+    "mann",
+    "mann som mater baby",
+    "mat",
+    "tåteflaske"
   ],
   "man_firefighter": [
     "mann",
     "brannmann",
     "brannkonstabel",
     "brannvesenet",
-    "mannlig brannkonstabel"
+    "mannlig brannkonstabel",
+    "brannbil"
   ],
   "man_frowning": [
     "rynker pannen",
     "rynker brynene",
-    "mimikk"
+    "mimikk",
+    "mann",
+    "mann som rynker brynene",
+    "skeptisk"
   ],
   "man_genie": [
     "ånd",
-    "djinn"
+    "djinn",
+    "mannlig ånd"
   ],
   "man_gesturing_no": [
     "mann",
@@ -6838,13 +7361,20 @@
     "skjønnhetssalong",
     "salong",
     "sveis",
-    "skjønnhet"
+    "skjønnhet",
+    "mann",
+    "mann som får hårklipp"
   ],
   "man_getting_massage": [
     "ansikt",
     "skjønnhetssalong",
     "ansiktsmassasje",
-    "massasje"
+    "massasje",
+    "avslapning",
+    "hodemassasje",
+    "mann",
+    "mann som får ansiktsmassasje",
+    "velvære"
   ],
   "man_golfing": [
     "mann",
@@ -6860,25 +7390,36 @@
     "mann",
     "mannlig gardist",
     "england",
-    "garde"
+    "garde",
+    "vakt"
   ],
   "man_health_worker": [
     "mann",
     "doktor",
     "lege",
     "helsevesen",
-    "mannlig lege"
+    "mannlig lege",
+    "mannlig helsearbeider",
+    "sykepleier",
+    "terapeut"
   ],
   "man_in_lotus_position": [
     "meditasjon",
     "yoga",
-    "lotusstilling"
+    "lotusstilling",
+    "mann i lotusstilling"
   ],
   "man_in_manual_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "mann",
+    "mann i manuell rullestol",
+    "tilgjengelighet"
   ],
   "man_in_motorized_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "mann",
+    "mann i motorisert rullestol",
+    "tilgjengelighet"
   ],
   "man_in_steamy_room": [
     "sauna",
@@ -6896,13 +7437,18 @@
     "jus",
     "rettssak",
     "mannlig dommer",
-    "dommer"
+    "dommer",
+    "juss"
   ],
   "man_juggling": [
     "balanse",
     "multitasking",
     "sjonglering",
-    "ferdighet"
+    "ferdighet",
+    "mann",
+    "mannlig sjonglør",
+    "sirkus",
+    "sjonglere"
   ],
   "man_kneeling": [
     "knele",
@@ -6910,11 +7456,15 @@
     "bønn",
     "ber",
     "kneler",
-    "tilbedelse"
+    "tilbedelse",
+    "mann",
+    "mann som kneler"
   ],
   "man_lifting_weights": [
     "bodybuilding",
-    "vektløfter"
+    "vektløfter",
+    "mann",
+    "mannlig vektløfter"
   ],
   "man_mage": [
     "trollmann",
@@ -6928,18 +7478,25 @@
     "mekaniker",
     "bil",
     "motor",
-    "mannlig mekaniker"
+    "mannlig mekaniker",
+    "elektriker",
+    "håndverker",
+    "rørlegger"
   ],
   "man_mountain_biking": [
     "terrengsyklist",
     "terrengsykkel",
-    "mountainbike"
+    "mountainbike",
+    "mann",
+    "mann på terrengsykkel",
+    "sykkel"
   ],
   "man_office_worker": [
     "mann",
     "næringsliv",
     "kontor",
-    "mannlig kontorarbeider"
+    "mannlig kontorarbeider",
+    "leder"
   ],
   "man_pilot": [
     "mannlig pilot",
@@ -6951,14 +7508,18 @@
     "sport",
     "person",
     "ball",
-    "håndball"
+    "håndball",
+    "mann",
+    "mannlig håndballspiller"
   ],
   "man_playing_water_polo": [
     "sport",
     "person",
     "vann",
     "vannpolo",
-    "polo"
+    "polo",
+    "mann",
+    "mannlig vannpolospiller"
   ],
   "man_police_officer": [
     "menneske",
@@ -6968,13 +7529,16 @@
     "politimann",
     "lov",
     "mannlig politibetjent",
-    "politibetjent"
+    "politibetjent",
+    "betjent"
   ],
   "man_pouting": [
     "surmuling",
     "mimikk",
     "furter",
-    "furting"
+    "furting",
+    "mann",
+    "mann som furter"
   ],
   "man_raising_hand": [
     "person",
@@ -6993,12 +7557,19 @@
     "hår",
     "hårklipp",
     "rød",
-    "bart"
+    "bart",
+    "menneske",
+    "rødt hår",
+    "voksen"
   ],
   "man_rowing_boat": [
     "båt",
     "fartøy",
-    "person i robåt"
+    "person i robåt",
+    "mann",
+    "mann i robåt",
+    "ro",
+    "robåt"
   ],
   "man_running": [
     "sport",
@@ -7022,7 +7593,12 @@
     "mann",
     "laboratorium",
     "kjemi",
-    "mannlig forsker"
+    "mannlig forsker",
+    "biologi",
+    "forsker",
+    "forskning",
+    "lab",
+    "medisin"
   ],
   "man_shrugging": [
     "mann",
@@ -7037,13 +7613,15 @@
     "mannlig artist",
     "sanger",
     "artist",
-    "konsert"
+    "konsert",
+    "rock"
   ],
   "man_standing": [
     "menneske",
     "stående",
     "mann",
-    "står"
+    "står",
+    "mann som står"
   ],
   "man_student": [
     "skole",
@@ -7070,13 +7648,17 @@
   "man_surfing": [
     "sport",
     "surfing",
-    "surfer"
+    "surfer",
+    "mann",
+    "mannlig surfer"
   ],
   "man_swimming": [
     "sport",
     "svømme",
     "svømmer",
-    "svømming"
+    "svømming",
+    "mann",
+    "mannlig svømmer"
   ],
   "man_teacher": [
     "skole",
@@ -7090,7 +7672,9 @@
     "mannlig it-ekspert",
     "it",
     "teknologi",
-    "data"
+    "data",
+    "koding",
+    "programvare"
   ],
   "man_tipping_hand": [
     "menneske",
@@ -7112,7 +7696,8 @@
     "gående",
     "gå",
     "fotgjenger",
-    "mannlig fotgjenger"
+    "mannlig fotgjenger",
+    "tur"
   ],
   "man_wearing_turban": [
     "menneske",
@@ -7133,7 +7718,10 @@
     "hvit",
     "bart",
     "eldre mann",
-    "bestefar"
+    "bestefar",
+    "grått hår",
+    "menneske",
+    "voksen"
   ],
   "man_with_veil": [
     "slør",
@@ -7143,12 +7731,16 @@
   "man_with_white_cane": [
     "stokk",
     "blind",
-    "blindestokk"
+    "blindestokk",
+    "mann",
+    "mann med blindestokk",
+    "tilgjengelighet"
   ],
   "man_zombie": [
     "zombie",
     "vandød",
-    "udød"
+    "udød",
+    "mannlig zombie"
   ],
   "mango": [
     "frukt",
@@ -7159,7 +7751,9 @@
     "klokke"
   ],
   "manual_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "manuell rullestol",
+    "tilgjengelighet"
   ],
   "map_of_japan": [
     "japan",
@@ -7199,7 +7793,8 @@
     "flagg_mq"
   ],
   "mate": [
-    "calabash"
+    "calabash",
+    "drikke"
   ],
   "mauritania": [
     "flagg",
@@ -7222,24 +7817,42 @@
     "kjøtt med bein"
   ],
   "mechanic": [
-    "mekaniker"
+    "mekaniker",
+    "bil",
+    "elektriker",
+    "håndverker",
+    "motor",
+    "rørlegger"
   ],
   "mechanical_arm": [
     "mekanisk",
     "muskel",
     "biceps",
     "sterk",
-    "arm"
+    "arm",
+    "mekanisk arm",
+    "protese",
+    "tilgjengelighet"
   ],
   "mechanical_leg": [
     "mekanisk",
     "lår",
-    "ben"
+    "ben",
+    "mekanisk bein",
+    "protese",
+    "tilgjengelighet"
+  ],
+  "medical_symbol": [
+    "asklepiosstav",
+    "lege",
+    "legesymbol",
+    "medisin"
   ],
   "megaphone": [
     "kommunikasjon",
     "megafon",
-    "heiing"
+    "heiing",
+    "ropert"
   ],
   "melon": [
     "frukt",
@@ -7277,7 +7890,10 @@
     "mennesker",
     "par",
     "holde hender",
-    "to menn som leier"
+    "to menn som leier",
+    "hånd",
+    "menn",
+    "menn som leier"
   ],
   "men_s_room": [
     "wc",
@@ -7302,7 +7918,10 @@
     "person",
     "bryter",
     "brytere",
-    "bryting"
+    "bryting",
+    "mann",
+    "mannlige brytere",
+    "menn"
   ],
   "mending_heart": [
     "hjerte",
@@ -7325,11 +7944,15 @@
     "havfrue",
     "havperson",
     "havmann",
-    "havkvinne"
+    "havkvinne",
+    "triton"
   ],
   "merperson": [
     "havfrue",
-    "poseidon"
+    "poseidon",
+    "havkvinne",
+    "havmann",
+    "havperson"
   ],
   "metro": [
     "fremkomstmiddel",
@@ -7364,10 +7987,16 @@
   "microscope": [
     "vitenskap",
     "verktøy",
-    "mikroskop"
+    "mikroskop",
+    "forskning"
   ],
   "military_helmet": [
-    "militærhjelm"
+    "militærhjelm",
+    "hær",
+    "hjelm",
+    "kriger",
+    "militær",
+    "soldat"
   ],
   "military_medal": [
     "feiring",
@@ -7388,10 +8017,17 @@
   ],
   "minus": [
     "minustegn",
-    "fremhevet minustegn"
+    "fremhevet minustegn",
+    "-",
+    "−",
+    "fortegn",
+    "matte",
+    "negativt"
   ],
   "mirror": [
-    "speil"
+    "speil",
+    "refleksjon",
+    "speilbilde"
   ],
   "mirror_ball": [
     "disco ball",
@@ -7410,13 +8046,16 @@
   "mobile_phone_off": [
     "mobil",
     "mobiltelefon av",
-    "av"
+    "av",
+    "mobiltelefon"
   ],
   "mobile_phone_with_arrow": [
     "telefon",
     "ring",
     "mobiltelefon",
-    "mobiltelefon med pil"
+    "mobiltelefon med pil",
+    "anrop",
+    "pil"
   ],
   "moldova": [
     "flagg",
@@ -7431,7 +8070,8 @@
   "money_bag": [
     "penger",
     "pengesekk",
-    "sekk"
+    "sekk",
+    "dollar"
   ],
   "money_mouth_face": [
     "fjes",
@@ -7538,7 +8178,8 @@
   ],
   "motorized_wheelchair": [
     "rullestol",
-    "motorisert rullestol"
+    "motorisert rullestol",
+    "tilgjengelighet"
   ],
   "motorway": [
     "vei",
@@ -7559,7 +8200,11 @@
   ],
   "mountain_railway": [
     "tåg",
-    "fjellinje"
+    "fjellinje",
+    "bane",
+    "fjell",
+    "fjellbane",
+    "fremkomstmiddel"
   ],
   "mouse": [
     "dyr",
@@ -7575,7 +8220,10 @@
   "mouse_trap": [
     "musefelle",
     "ost",
-    "felle"
+    "felle",
+    "åte",
+    "mus",
+    "snare"
   ],
   "mouth": [
     "fjes",
@@ -7610,7 +8258,9 @@
     "avbryt",
     "x",
     "multiplikasjon",
-    "fremhevet gangetegn"
+    "fremhevet gangetegn",
+    "×",
+    "gangetegn"
   ],
   "mushroom": [
     "sopp",
@@ -7732,7 +8382,13 @@
   ],
   "nesting_dolls": [
     "matryoshka",
-    "dukker"
+    "dukker",
+    "dukke",
+    "hul",
+    "matrjosjka",
+    "matruska",
+    "russisk",
+    "russland"
   ],
   "netherlands": [
     "flagg",
@@ -7833,20 +8489,24 @@
   ],
   "nine": [
     "ni",
-    "9"
+    "9",
+    "taster"
   ],
   "nine_o_clock": [
     "klokka",
     "ni",
     "21:00",
     "klokken ni",
-    "9:00"
+    "9:00",
+    "klokken"
   ],
   "nine_thirty": [
     "klokka",
     "klokken halv ti",
     "21:30",
-    "09:30"
+    "09:30",
+    "halv ti",
+    "klokken"
   ],
   "ninja": [
     "skjult",
@@ -7863,7 +8523,9 @@
     "kjøretøy",
     "sykler forbudt",
     "sykkel ikke tillatt",
-    "ingen sykler"
+    "ingen sykler",
+    "ikke",
+    "nei"
   ],
   "no_entry": [
     "adgang forbudt",
@@ -7882,7 +8544,13 @@
     "telefon",
     "mobil ikke tillatt",
     "mobiltelefon ikke tillatt",
-    "ingen telefonsamtaler"
+    "ingen telefonsamtaler",
+    "forbudt",
+    "ikke",
+    "ikke tillatt",
+    "mobil",
+    "mobiltelefon",
+    "nei"
   ],
   "no_one_under_eighteen": [
     "18",
@@ -7897,12 +8565,21 @@
     "fotgjenger",
     "fotgjengere ikke tillatt",
     "ingen fotgjengere",
-    "fotgjengere forbudt"
+    "fotgjengere forbudt",
+    "fotgjengere",
+    "ikke",
+    "ikke tillatt",
+    "nei"
   ],
   "no_smoking": [
     "skilt",
     "ingen røyking",
-    "røyking forbudt"
+    "røyking forbudt",
+    "forbudt",
+    "ikke",
+    "ikke tillatt",
+    "nei",
+    "røyking"
   ],
   "non_potable_water": [
     "vann",
@@ -7996,7 +8673,8 @@
   "ocean": [
     "bølge",
     "bølgesprut",
-    "hav"
+    "hav",
+    "vann"
   ],
   "octopus": [
     "dyr",
@@ -8015,7 +8693,10 @@
     "kontor"
   ],
   "office_worker": [
-    "kontorarbeider"
+    "kontorarbeider",
+    "kontor",
+    "leder",
+    "næringsliv"
   ],
   "ogre": [
     "japansk ogre",
@@ -8030,7 +8711,8 @@
   ],
   "ok_button": [
     "ok-knapp",
-    "ok-symbol"
+    "ok-symbol",
+    "ok"
   ],
   "ok_hand": [
     "brilliant",
@@ -8067,10 +8749,12 @@
     "menneske",
     "gammel",
     "kjønnsnøytral",
-    "eldre voksen"
+    "eldre voksen",
+    "voksen"
   ],
   "olive": [
-    "oliven"
+    "oliven",
+    "mat"
   ],
   "om": [
     "religion",
@@ -8092,11 +8776,14 @@
   "oncoming_automobile": [
     "kjøretøy",
     "bil",
-    "motgående bil"
+    "motgående bil",
+    "motgående"
   ],
   "oncoming_bus": [
     "fremkomstmiddel",
-    "motgående buss"
+    "motgående buss",
+    "buss",
+    "motgående"
   ],
   "oncoming_fist": [
     "knyttneve",
@@ -8114,42 +8801,53 @@
   "oncoming_taxi": [
     "kjøretøy",
     "bil",
-    "motgående taxi"
+    "motgående taxi",
+    "motgående",
+    "taxi"
   ],
   "one": [
     "ett",
     "en",
-    "1"
+    "1",
+    "taster"
   ],
   "one_o_clock": [
     "klokka",
     "ett",
     "1:00",
     "13:00",
-    "klokken ett"
+    "klokken ett",
+    "klokken"
   ],
   "one_piece_swimsuit": [
-    "badedrakt"
+    "badedrakt",
+    "badetøy"
   ],
   "one_thirty": [
     "klokka",
     "13:30",
     "klokken halv to",
-    "1:30"
+    "1:30",
+    "halv to",
+    "klokken"
   ],
   "onion": [
-    "løk"
+    "løk",
+    "smakstilsetning"
   ],
   "open_book": [
     "bok",
-    "åpen bok"
+    "åpen bok",
+    "åpen"
   ],
   "open_file_folder": [
     "åpen filmappe",
     "fil",
     "åpen",
     "åpen arkivmappe",
-    "mappe"
+    "mappe",
+    "arkivmappe",
+    "filmappe"
   ],
   "open_hands": [
     "hånd",
@@ -8175,7 +8873,9 @@
   ],
   "ophiuchus": [
     "stjernetegn",
-    "slangebæreren"
+    "slangebæreren",
+    "bærer",
+    "slange"
   ],
   "optical_disk": [
     "cd",
@@ -8187,7 +8887,8 @@
   ],
   "orange_book": [
     "bok",
-    "oransje bok"
+    "oransje bok",
+    "oransje"
   ],
   "orange_circle": [
     "sirkel",
@@ -8203,7 +8904,8 @@
   ],
   "orange_square": [
     "firkant",
-    "oransje"
+    "oransje",
+    "kvadrat"
   ],
   "orangutan": [
     "ape",
@@ -8218,7 +8920,10 @@
     "ortodokst kors"
   ],
   "otter": [
-    "oter"
+    "oter",
+    "dyr",
+    "fisker",
+    "lekende"
   ],
   "outbox_tray": [
     "brev",
@@ -8243,7 +8948,8 @@
   ],
   "oyster": [
     "perle",
-    "østers"
+    "østers",
+    "dykking"
   ],
   "p_button": [
     "parkering",
@@ -8348,7 +9054,11 @@
   "parachute": [
     "hopp",
     "hoppe",
-    "fallskjerm"
+    "fallskjerm",
+    "fallskjermhopp",
+    "hangglider",
+    "hengeglider",
+    "paragliding"
   ],
   "paraguay": [
     "flagg",
@@ -8469,6 +9179,13 @@
     "trett",
     "lei seg"
   ],
+  "people_holding_hands": [
+    "hånd",
+    "holde hender",
+    "par",
+    "personer",
+    "personer som leier"
+  ],
   "people_hugging": [
     "takk",
     "hei",
@@ -8479,12 +9196,21 @@
   ],
   "people_with_bunny_ears": [
     "kaninører",
-    "playboy"
+    "playboy",
+    "danser",
+    "fest",
+    "hareører",
+    "menneske",
+    "personer med kaninører"
   ],
   "people_wrestling": [
     "brytekamp",
     "bryte",
-    "bryting"
+    "bryting",
+    "bryter",
+    "brytere",
+    "person",
+    "sport"
   ],
   "performing_arts": [
     "underholdning",
@@ -8516,11 +9242,18 @@
     "hår",
     "hårklipp",
     "skallet",
-    "barbert"
+    "barbert",
+    "kjønnsnøytral",
+    "menneske",
+    "person",
+    "voksen"
   ],
   "person_beard": [
     "skjegg",
-    "mann med skjegg"
+    "mann med skjegg",
+    "mann",
+    "mann: skjegg",
+    "person"
   ],
   "person_biking": [
     "sykle",
@@ -8532,37 +9265,58 @@
     "blond",
     "hår",
     "hårklipp",
-    "hvitt hår"
+    "hvitt hår",
+    "blond person",
+    "menneske",
+    "person: blond"
   ],
   "person_bouncing_ball": [
     "drible",
     "ball",
     "løpe",
     "basketball",
-    "basket"
+    "basket",
+    "ballsport",
+    "person med ball"
   ],
   "person_bowing": [
     "saltstenger",
     "snacks",
-    "saltkringle"
+    "saltkringle",
+    "beklagelse",
+    "beklager",
+    "bukk",
+    "bukker",
+    "unnskyld"
   ],
   "person_cartwheeling": [
     "slå hjul",
     "turn",
     "gymnast",
     "turning",
-    "turner"
+    "turner",
+    "gym",
+    "gymnastikk",
+    "person",
+    "sport"
   ],
   "person_climbing": [
     "vegg",
     "fjellklatring",
     "klatre",
-    "klatrevegg"
+    "klatrevegg",
+    "klatrer",
+    "klatring"
   ],
   "person_curly_hair": [
     "krøllete",
     "krøller",
-    "permanent"
+    "permanent",
+    "kjønnsnøytral",
+    "kruset hår",
+    "menneske",
+    "person",
+    "voksen"
   ],
   "person_facepalming": [
     "fjes",
@@ -8600,7 +9354,11 @@
   "person_feeding_baby": [
     "mater",
     "baby",
-    "ammer"
+    "ammer",
+    "mat",
+    "person",
+    "person som mater baby",
+    "tåteflaske"
   ],
   "person_fencing": [
     "sport",
@@ -8612,7 +9370,10 @@
   ],
   "person_frowning": [
     "trist",
-    "lei seg"
+    "lei seg",
+    "mimikk",
+    "rynker brynene",
+    "rynker pannen"
   ],
   "person_gesturing_no": [
     "ikke",
@@ -8620,28 +9381,40 @@
     "stopp",
     "aldri",
     "nekter",
-    "nekt"
+    "nekt",
+    "forbudt",
+    "gestikulerer nei",
+    "mimikk"
   ],
   "person_gesturing_ok": [
     "ok",
     "sirkel",
-    "piruett"
+    "piruett",
+    "gestikulerer ok",
+    "greit"
   ],
   "person_getting_haircut": [
     "frisør",
     "hårklipp",
-    "saks"
+    "saks",
+    "salong",
+    "skjønnhet",
+    "skjønnhetssalong"
   ],
   "person_getting_massage": [
     "ansiktsmassasje",
     "massør",
     "massasje",
-    "massøse"
+    "massøse",
+    "ansikt",
+    "skjønnhetssalong"
   ],
   "person_golfing": [
     "golf",
     "golfer",
-    "golfklubb"
+    "golfklubb",
+    "ball",
+    "golfspiller"
   ],
   "person_in_bed": [
     "hotell",
@@ -8654,18 +9427,25 @@
     "nirvana",
     "vipassana",
     "lotus",
-    "meditere"
+    "meditere",
+    "lotusstilling"
   ],
   "person_in_manual_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "person i manuell rullestol",
+    "tilgjengelighet"
   ],
   "person_in_motorized_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "person i motorisert rullestol",
+    "tilgjengelighet"
   ],
   "person_in_steamy_room": [
     "bad",
     "sauna",
-    "damp"
+    "damp",
+    "dampbad",
+    "person i badstu"
   ],
   "person_in_suit_levitating": [
     "mann",
@@ -8678,59 +9458,91 @@
     "mann",
     "mann i smoking",
     "smoking",
-    "brudgom"
+    "brudgom",
+    "person",
+    "person i smoking"
   ],
   "person_juggling": [
     "klovn",
-    "sjonglere"
+    "sjonglere",
+    "balanse",
+    "ferdighet",
+    "multitasking",
+    "sjonglering"
   ],
   "person_kneeling": [
     "be",
     "bønn",
     "ber",
     "kneler",
-    "tilbedelse"
+    "tilbedelse",
+    "knele",
+    "person som kneler"
   ],
   "person_lifting_weights": [
     "trene",
-    "vektløfting"
+    "vektløfting",
+    "løfter",
+    "vekt",
+    "vektløfter"
   ],
   "person_mountain_biking": [
     "sykle",
     "sykkel",
-    "syklist"
+    "syklist",
+    "mountainbike",
+    "terrengsykkel",
+    "terrengsyklist"
   ],
   "person_playing_handball": [
     "sport",
-    "håndball"
+    "håndball",
+    "ball",
+    "person"
   ],
   "person_playing_water_polo": [
     "vannpolo",
-    "polo"
+    "polo",
+    "person",
+    "sport",
+    "vann"
   ],
   "person_pouting": [
     "sur",
     "bitter",
     "gretten",
-    "grinete"
+    "grinete",
+    "furter",
+    "furting",
+    "mimikk",
+    "surmuling"
   ],
   "person_raising_hand": [
     "gest",
     "hånd",
     "vinke",
-    "hilse"
+    "hilse",
+    "person",
+    "rekker opp",
+    "rekker opp hånden"
   ],
   "person_red_hair": [
     "hår",
     "hårklipp",
     "rødtopp",
-    "rødt hår"
+    "rødt hår",
+    "kjønnsnøytral",
+    "menneske",
+    "person",
+    "voksen"
   ],
   "person_rowing_boat": [
     "båt",
     "ror",
     "padle",
-    "robåt"
+    "robåt",
+    "fartøy",
+    "person i robåt"
   ],
   "person_running": [
     "knele",
@@ -8738,27 +9550,43 @@
     "bønn",
     "ber",
     "kneler",
-    "tilbedelse"
+    "tilbedelse",
+    "jogger",
+    "jogging",
+    "løper",
+    "løping",
+    "maraton",
+    "sport"
   ],
   "person_shrugging": [
     "kanskje",
     "aner ikke",
     "vet ikke",
-    "uvisst"
+    "uvisst",
+    "likegyldighet",
+    "skuldertrekning",
+    "trekker på skuldrene",
+    "tvil"
   ],
   "person_standing": [
     "stående",
     "mann",
-    "står"
+    "står",
+    "person som står",
+    "stå"
   ],
   "person_surfing": [
     "bølge",
     "surfe",
-    "surfer"
+    "surfer",
+    "sport",
+    "surfing"
   ],
   "person_swimming": [
     "svømme",
-    "svømmer"
+    "svømmer",
+    "sport",
+    "svømming"
   ],
   "person_taking_bath": [
     "bad",
@@ -8767,20 +9595,31 @@
   ],
   "person_tipping_hand": [
     "hånd",
-    "informasjon"
+    "informasjon",
+    "hjelp",
+    "hjelpende person",
+    "menneske"
   ],
   "person_walking": [
     "går",
     "gående",
-    "fotgjenger"
+    "fotgjenger",
+    "gå"
   ],
   "person_wearing_turban": [
-    "turban"
+    "turban",
+    "menneske",
+    "turbankledd person"
   ],
   "person_white_hair": [
     "hår",
     "hårklipp",
-    "hvitt hår"
+    "hvitt hår",
+    "grått hår",
+    "kjønnsnøytral",
+    "menneske",
+    "person",
+    "voksen"
   ],
   "person_with_crown": [
     "monark",
@@ -8802,12 +9641,15 @@
     "mennesker",
     "brud",
     "bryllup",
-    "brud med slør"
+    "brud med slør",
+    "person med slør"
   ],
   "person_with_white_cane": [
     "stokk",
     "blind",
-    "blindestokk"
+    "blindestokk",
+    "person med blindestokk",
+    "tilgjengelighet"
   ],
   "peru": [
     "flagg",
@@ -8845,7 +9687,10 @@
   ],
   "pickup_truck": [
     "pickup ",
-    "bil"
+    "bil",
+    "lastebil",
+    "liten",
+    "pickup"
   ],
   "pie": [
     "fyll",
@@ -8875,6 +9720,9 @@
     "pille",
     "tablett"
   ],
+  "pilot": [
+    "fly"
+  ],
   "pinched_fingers": [
     "hånd",
     "fingrene sammen",
@@ -8886,7 +9734,10 @@
   "pinching_hand": [
     "klype",
     "klyper",
-    "klyping"
+    "klyping",
+    "hånd som klyper",
+    "lite",
+    "liten"
   ],
   "pine_decoration": [
     "feiring",
@@ -8930,11 +9781,16 @@
   ],
   "pirate_flag": [
     "flagg",
-    "pirat"
+    "pirat",
+    "kaptein sabeltann",
+    "plyndre",
+    "sjørøverflagg",
+    "skatt"
   ],
   "pisces": [
     "stjernetegn",
-    "fiskene"
+    "fiskene",
+    "fisk"
   ],
   "pitcairn_islands": [
     "flagg",
@@ -8948,10 +9804,15 @@
     "pizzabit"
   ],
   "piñata": [
-    "pinata"
+    "pinata",
+    "feiring",
+    "fest"
   ],
   "placard": [
-    "skilt"
+    "skilt",
+    "demonstrasjon",
+    "plakat",
+    "protest"
   ],
   "place_of_worship": [
     "religiøst samlingssted",
@@ -8988,12 +9849,21 @@
     "valpeøyne"
   ],
   "plunger": [
-    "avløpspumpe"
+    "avløpspumpe",
+    "avløp",
+    "avløpsåpner",
+    "mekanisk",
+    "toalett",
+    "vask"
   ],
   "plus": [
     "fremhevet plusstegn",
     "plusstegn",
-    "pluss"
+    "pluss",
+    "+",
+    "fortegn",
+    "matte",
+    "positivt"
   ],
   "poland": [
     "flagg",
@@ -9003,7 +9873,10 @@
   ],
   "polar_bear": [
     "dyr",
-    "isbjørn"
+    "isbjørn",
+    "arktis",
+    "bjørn",
+    "hvit"
   ],
   "police_car": [
     "kjøretøy",
@@ -9024,7 +9897,11 @@
     "politimann",
     "politiet",
     "politikvinne",
-    "konstabel"
+    "konstabel",
+    "betjent",
+    "menneske",
+    "politi",
+    "politibetjent"
   ],
   "poodle": [
     "dyr",
@@ -9034,7 +9911,9 @@
   "pool_8_ball": [
     "spill",
     "biljard",
-    "åtterkule"
+    "åtterkule",
+    "8",
+    "åtte"
   ],
   "poop": [
     "dritt",
@@ -9087,7 +9966,12 @@
   ],
   "potted_plant": [
     "plante",
-    "potteplante"
+    "potteplante",
+    "dyrke",
+    "hus",
+    "kjedelig",
+    "ubrukelig",
+    "vanne"
   ],
   "poultry_leg": [
     "restaurant",
@@ -9159,7 +10043,8 @@
   "princess": [
     "menneske",
     "eventyr",
-    "prinsesse"
+    "prinsesse",
+    "fantasy"
   ],
   "printer": [
     "datamaskin",
@@ -9193,7 +10078,8 @@
   "purple_square": [
     "lilla",
     "firkant",
-    "fiolett"
+    "fiolett",
+    "kvadrat"
   ],
   "purse": [
     "klær",
@@ -9275,7 +10161,8 @@
   ],
   "rainbow_flag": [
     "flagg",
-    "regnbueflagg"
+    "regnbueflagg",
+    "regnbue"
   ],
   "raised_back_of_hand": [
     "hånd",
@@ -9326,7 +10213,10 @@
     "blad",
     "barberblad",
     "høvel",
-    "barberhøvel"
+    "barberhøvel",
+    "barbering",
+    "barberkniv",
+    "skarp"
   ],
   "receipt": [
     "bilag",
@@ -9350,7 +10240,9 @@
   "red_apple": [
     "frukt",
     "eple",
-    "rødt eple"
+    "rødt eple",
+    "rød",
+    "rødt"
   ],
   "red_circle": [
     "sirkel",
@@ -9370,7 +10262,8 @@
     "utrop",
     "tegnsetting",
     "tegn",
-    "utropstegn"
+    "utropstegn",
+    "!"
   ],
   "red_paper_lantern": [
     "bar",
@@ -9383,11 +10276,14 @@
   ],
   "red_question_mark": [
     "spørsmål",
-    "spørsmålstegn"
+    "spørsmålstegn",
+    "?"
   ],
   "red_square": [
     "firkant",
-    "rød"
+    "rød",
+    "kvadrat",
+    "rødt"
   ],
   "red_triangle_pointed_down": [
     "trekant",
@@ -9403,7 +10299,8 @@
   ],
   "registered": [
     "registrert varemerke",
-    "varemerkesymbol"
+    "varemerkesymbol",
+    "r"
   ],
   "relieved_face": [
     "fjes",
@@ -9586,13 +10483,15 @@
   ],
   "ringed_planet": [
     "saturn",
-    "planet"
+    "planet",
+    "planet med ringer"
   ],
   "roasted_sweet_potato": [
     "restaurant",
     "søtpotet",
     "potet",
-    "bakt søtpotet"
+    "bakt søtpotet",
+    "bakt"
   ],
   "robot": [
     "fjes",
@@ -9601,7 +10500,10 @@
     "monster"
   ],
   "rock": [
-    "stein"
+    "stein",
+    "blokk",
+    "steinblokk",
+    "tung"
   ],
   "rocket": [
     "fremkomstmiddel",
@@ -9665,7 +10567,10 @@
     "fornøyelsespark"
   ],
   "roller_skate": [
-    "rulleskøyte"
+    "rulleskøyte",
+    "rulle",
+    "rulleskøyter",
+    "skøyter"
   ],
   "romania": [
     "flagg",
@@ -9739,11 +10644,15 @@
     "synlighet",
     "refleks",
     "refleksvest",
-    "sikkerhetsvest"
+    "sikkerhetsvest",
+    "nødssituasjon",
+    "sikkerhet",
+    "vest"
   ],
   "sagittarius": [
     "stjernetegn",
-    "skytten"
+    "skytten",
+    "bueskytter"
   ],
   "sailboat": [
     "båt",
@@ -9808,6 +10717,10 @@
     "st",
     "flagg_st"
   ],
+  "sari": [
+    "kjole",
+    "klær"
+  ],
   "satellite": [
     "verdensrommet",
     "satellitt"
@@ -9849,15 +10762,25 @@
     "bygning"
   ],
   "scientist": [
-    "vitenskapsmann"
+    "vitenskapsmann",
+    "biologi",
+    "forsker",
+    "forskning",
+    "kjemi",
+    "lab",
+    "laboratorium",
+    "medisin",
+    "vitenskap"
   ],
   "scissors": [
     "verktøy",
-    "saks"
+    "saks",
+    "klippe"
   ],
   "scorpio": [
     "skorpionen",
-    "stjernetegn"
+    "stjernetegn",
+    "skorpion"
   ],
   "scorpion": [
     "dyr",
@@ -9884,7 +10807,9 @@
   ],
   "screwdriver": [
     "verktøy",
-    "skrutrekker"
+    "skrutrekker",
+    "skrue",
+    "skrujern"
   ],
   "scroll": [
     "papir",
@@ -9896,7 +10821,8 @@
   ],
   "seal": [
     "dyr",
-    "sel"
+    "sel",
+    "sjøløve"
   ],
   "seat": [
     "stol",
@@ -9932,28 +10858,41 @@
   ],
   "service_dog": [
     "tjenestehund",
-    "hund"
+    "hund",
+    "hjelp",
+    "servicehund",
+    "tilgjengelighet"
   ],
   "seven": [
     "syv",
-    "7"
+    "7",
+    "taster"
   ],
   "seven_o_clock": [
     "syv",
     "klokka",
     "19:00",
     "7:00",
-    "klokken sju"
+    "klokken sju",
+    "klokken",
+    "sju"
   ],
   "seven_thirty": [
     "klokka",
     "klokken halv åtte",
     "7:30",
-    "19:30"
+    "19:30",
+    "halv åtte",
+    "klokken"
   ],
   "sewing_needle": [
     "synål",
-    "nål"
+    "nål",
+    "broderi",
+    "skredder",
+    "sting",
+    "sutur",
+    "sy"
   ],
   "seychelles": [
     "flagg",
@@ -9988,7 +10927,11 @@
   "shaved_ice": [
     "is",
     "slush",
-    "sorbet"
+    "sorbet",
+    "dessert",
+    "restaurant",
+    "shave-ice",
+    "slush-is"
   ],
   "sheaf_of_rice": [
     "plante",
@@ -10017,7 +10960,8 @@
   "shooting_star": [
     "stjerne",
     "stjerneskudd",
-    "fallende stjerne"
+    "fallende stjerne",
+    "faller"
   ],
   "shopping_bags": [
     "hotell",
@@ -10037,6 +10981,13 @@
     "dessert",
     "kake",
     "formkake"
+  ],
+  "shorts": [
+    "badeshorts",
+    "badetøy",
+    "bukse",
+    "underbukse",
+    "undertøy"
   ],
   "shower": [
     "vann",
@@ -10088,7 +11039,9 @@
     "sanger",
     "artist",
     "rockestjerne",
-    "idol"
+    "idol",
+    "konsert",
+    "rock"
   ],
   "sint_maarten": [
     "flagg",
@@ -10097,21 +11050,25 @@
   ],
   "six": [
     "seks",
-    "6"
+    "6",
+    "taster"
   ],
   "six_o_clock": [
     "klokka",
     "klokken seks",
     "6:00",
     "seks",
-    "18:00"
+    "18:00",
+    "klokken"
   ],
   "six_thirty": [
     "klokka",
     "18:30",
     "halv syv",
     "klokken halv sju",
-    "6:30"
+    "6:30",
+    "halv sju",
+    "klokken"
   ],
   "skateboard": [
     "rullebrett",
@@ -10146,7 +11103,11 @@
     "dødningehode"
   ],
   "skunk": [
-    "stinker"
+    "stinker",
+    "dyr",
+    "stank",
+    "stinkdyr",
+    "stinke"
   ],
   "sled": [
     "kjelke",
@@ -10270,7 +11231,9 @@
     "latskap",
     "senere",
     "dovendyr",
-    "lat"
+    "lat",
+    "dyr",
+    "treg"
   ],
   "slovakia": [
     "flagg",
@@ -10369,7 +11332,8 @@
     "oppglødd",
     "opplagt",
     "smilefjes med åpen munn",
-    "glisende fjes med vidåpne øyne"
+    "glisende fjes med vidåpne øyne",
+    "åpen"
   ],
   "smiling_cat_with_heart_eyes": [
     "fjes",
@@ -10601,7 +11565,8 @@
     "sverme",
     "hjerteøyne",
     "smilefjes med hjerteøyne",
-    "ynde"
+    "ynde",
+    "smilefjes med hjerter"
   ],
   "smirking_face": [
     "fjes",
@@ -10726,7 +11691,8 @@
     "sos-symbol",
     "sos-knapp",
     "hjelp",
-    "hjelp-symbol"
+    "hjelp-symbol",
+    "sos"
   ],
   "south_africa": [
     "flagg",
@@ -10770,7 +11736,8 @@
     "spania"
   ],
   "sparkle": [
-    "gnist"
+    "gnist",
+    "*"
   ],
   "sparkler": [
     "feiring",
@@ -10781,7 +11748,8 @@
   "sparkles": [
     "stjerner",
     "glitrende",
-    "skinnende"
+    "skinnende",
+    "*"
   ],
   "sparkling_heart": [
     "kjærlig",
@@ -10898,7 +11866,9 @@
   ],
   "spouting_whale": [
     "dyr",
-    "sprutende hval"
+    "sprutende hval",
+    "hval",
+    "spruter"
   ],
   "squid": [
     "dyr",
@@ -10915,7 +11885,8 @@
     "tungen ut med øynene lukket",
     "rekker tunge",
     "lukkende øyne",
-    "følt"
+    "følt",
+    "rekke tunge"
   ],
   "sri_lanka": [
     "flagg",
@@ -10951,6 +11922,9 @@
     "st. lucia",
     "flagg_lc",
     "sankt lucia"
+  ],
+  "st_martin": [
+    "flagg"
   ],
   "st_pierre_miquelon": [
     "flagg",
@@ -11015,12 +11989,15 @@
   "steaming_bowl": [
     "restaurant",
     "matbolle som damper",
-    "nudelbolle"
+    "nudelbolle",
+    "matbolle"
   ],
   "stethoscope": [
     "doktor",
     "lege",
-    "stetoskop"
+    "stetoskop",
+    "hjerte",
+    "medisin"
   ],
   "stop_button": [
     "firkant",
@@ -11056,7 +12033,8 @@
     "musikk",
     "studiomikrofon",
     "mikrofon",
-    "studio"
+    "studio",
+    "mik"
   ],
   "stuffed_flatbread": [
     "mat",
@@ -11147,11 +12125,17 @@
     "superdame",
     "helt",
     "superkvinne",
-    "superhelt"
+    "superhelt",
+    "god",
+    "heltinne",
+    "superkrefter"
   ],
   "supervillain": [
     "skurk",
-    "superskurk"
+    "superskurk",
+    "kriminell",
+    "ond",
+    "superkrefter"
   ],
   "suriname": [
     "flagg",
@@ -11165,6 +12149,9 @@
   "suspension_railway": [
     "fremkomstmiddel",
     "svevebane"
+  ],
+  "svalbard_jan_mayen": [
+    "flagg"
   ],
   "swan": [
     "svane",
@@ -11192,7 +12179,8 @@
     "kaldsvette",
     "smil med svette",
     "flau",
-    "svett smil med åpen munn"
+    "svett smil med åpen munn",
+    "åpen"
   ],
   "sweden": [
     "flagg",
@@ -11231,7 +12219,8 @@
     "lege",
     "nål",
     "vaksine",
-    "sprøyte"
+    "sprøyte",
+    "syk"
   ],
   "t_rex": [
     "dinosaur",
@@ -11245,6 +12234,12 @@
   ],
   "taco": [
     "meksikansk"
+  ],
+  "tada": [
+    "feiring",
+    "fest",
+    "serpentin",
+    "smell-bon-bon"
   ],
   "taiwan": [
     "flagg",
@@ -11262,7 +12257,10 @@
     "takeaway-boks"
   ],
   "tamale": [
-    "tamal"
+    "tamal",
+    "latinamerikansk",
+    "meksikansk",
+    "wrap"
   ],
   "tanabata_tree": [
     "feiring",
@@ -11273,7 +12271,10 @@
     "tanabatatre"
   ],
   "tangerine": [
-    "mandarin"
+    "mandarin",
+    "appelsin",
+    "frukt",
+    "klementin"
   ],
   "tanzania": [
     "flagg",
@@ -11282,7 +12283,9 @@
   ],
   "taurus": [
     "stjernetegn",
-    "tyren"
+    "tyren",
+    "okse",
+    "tyr"
   ],
   "taxi": [
     "kjøretøy",
@@ -11290,7 +12293,9 @@
   ],
   "teacher": [
     "lærer",
-    "kursleder"
+    "kursleder",
+    "skole",
+    "undervisning"
   ],
   "teacup_without_handle": [
     "drikke",
@@ -11299,7 +12304,10 @@
     "suppe"
   ],
   "teapot": [
-    "tekanne"
+    "tekanne",
+    "drikke",
+    "kanne",
+    "te"
   ],
   "tear_off_calendar": [
     "riv-av-kalender",
@@ -11311,7 +12319,13 @@
     "tester",
     "utvikler",
     "admin",
-    "programmerer"
+    "programmerer",
+    "data",
+    "it",
+    "it-ekspert",
+    "koding",
+    "programvare",
+    "teknologi"
   ],
   "teddy_bear": [
     "leke",
@@ -11332,7 +12346,8 @@
     "vitenskap",
     "verktøy",
     "astronomi",
-    "teleskop"
+    "teleskop",
+    "forskning"
   ],
   "television": [
     "video",
@@ -11341,20 +12356,24 @@
   ],
   "ten": [
     "ti",
-    "10"
+    "10",
+    "taster"
   ],
   "ten_o_clock": [
     "klokka",
     "klokken ti",
     "ti",
     "22:00",
-    "10:00"
+    "10:00",
+    "klokken"
   ],
   "ten_thirty": [
     "klokka",
     "klokken halv elleve",
     "22:30",
-    "10:30"
+    "10:30",
+    "halv elleve",
+    "klokken"
   ],
   "tennis": [
     "sport",
@@ -11444,7 +12463,12 @@
   "thong_sandal": [
     "kjippkjapper",
     "flipflops",
-    "sandaler"
+    "sandaler",
+    "flippflopp",
+    "flippflopper",
+    "havaianas",
+    "strandsandaler",
+    "zoori"
   ],
   "thought_balloon": [
     "tankeboble",
@@ -11461,19 +12485,24 @@
   ],
   "three": [
     "tre",
-    "3"
+    "3",
+    "taster"
   ],
   "three_o_clock": [
     "klokka",
     "15:00",
     "klokken tre",
-    "3:00"
+    "3:00",
+    "klokken",
+    "tre"
   ],
   "three_thirty": [
     "klokka",
     "15:30",
     "3:30",
-    "klokken halv fire"
+    "klokken halv fire",
+    "halv fire",
+    "klokken"
   ],
   "ticket": [
     "adgang",
@@ -11493,7 +12522,8 @@
   ],
   "timer_clock": [
     "klokke",
-    "tidtaker"
+    "tidtaker",
+    "nedtelling"
   ],
   "timor_leste": [
     "flagg",
@@ -11584,7 +12614,14 @@
   ],
   "toothbrush": [
     "pusse tenner",
-    "tannbørste"
+    "tannbørste",
+    "bad",
+    "baderom",
+    "børste",
+    "dental",
+    "hygiene",
+    "ren",
+    "tenner"
   ],
   "top_arrow": [
     "opp",
@@ -11627,7 +12664,12 @@
   ],
   "tram_car": [
     "fremkomstmiddel",
-    "fjellbane"
+    "fjellbane",
+    "lokaltog",
+    "trikk",
+    "trikkevogn",
+    "trolleybuss",
+    "vogn"
   ],
   "transgender_flag": [
     "flagg",
@@ -11636,11 +12678,18 @@
     "transseksualitet",
     "transgender",
     "legning",
-    "transkjønnet"
+    "transkjønnet",
+    "hvit",
+    "lyseblå",
+    "rosa",
+    "transperson",
+    "transpersonflagg"
   ],
   "transgender_symbol": [
     "transseksuell",
-    "transgender"
+    "transgender",
+    "transperson",
+    "transperson-symbol"
   ],
   "triangular_flag": [
     "vimpel",
@@ -11651,14 +12700,16 @@
   "triangular_ruler": [
     "trekant",
     "linjal",
-    "trekantlinjal"
+    "trekantlinjal",
+    "vinkel"
   ],
   "trident_emblem": [
     "treforkemblem",
     "treenighet",
     "tridentsymbol",
     "anker",
-    "emblem"
+    "emblem",
+    "trefork"
   ],
   "trinidad_tobago": [
     "flagg",
@@ -11666,6 +12717,9 @@
     "tt",
     "flagg_tt",
     "trinidad og tobago"
+  ],
+  "tristan_da_cunha": [
+    "flagg"
   ],
   "troll": [
     "fantasy",
@@ -11691,7 +12745,8 @@
   "tropical_fish": [
     "dyr",
     "fisk",
-    "tropisk fisk"
+    "tropisk fisk",
+    "tropisk"
   ],
   "trumpet": [
     "musikk",
@@ -11754,11 +12809,14 @@
     "klokka",
     "0:30",
     "klokken halv ett",
-    "12:30"
+    "12:30",
+    "halv ett",
+    "klokken"
   ],
   "two": [
     "to",
-    "2"
+    "2",
+    "taster"
   ],
   "two_hearts": [
     "kjærlig",
@@ -11785,13 +12843,16 @@
     "2:00",
     "14:00",
     "to",
-    "klokken to"
+    "klokken to",
+    "klokken"
   ],
   "two_thirty": [
     "klokka",
     "2:30",
     "klokken halv tre",
-    "14:30"
+    "14:30",
+    "halv tre",
+    "klokken"
   ],
   "türkiye": [
     "flagg",
@@ -11823,7 +12884,11 @@
     "ferie",
     "parasoll",
     "skygge",
-    "strand"
+    "strand",
+    "paraply",
+    "parasoll på bakken",
+    "regn",
+    "vær"
   ],
   "umbrella_with_rain_drops": [
     "klær",
@@ -11915,7 +12980,8 @@
     "opp",
     "up!-knapp",
     "up!-symbol",
-    "opp-symbol"
+    "opp-symbol",
+    "up"
   ],
   "up_down_arrow": [
     "pil",
@@ -11956,6 +13022,9 @@
     "flagg_uy",
     "uy"
   ],
+  "us_outlying_islands": [
+    "flagg"
+  ],
   "us_virgin_islands": [
     "flagg",
     "flagg_vi",
@@ -11971,7 +13040,8 @@
   ],
   "vampire": [
     "dracula",
-    "vampyr"
+    "vampyr",
+    "vandød"
   ],
   "vanuatu": [
     "flagg",
@@ -12050,12 +13120,14 @@
   ],
   "volleyball": [
     "ball",
-    "kamp"
+    "kamp",
+    "spill"
   ],
   "vs_button": [
     "versus",
     "vs-knapp",
-    "vs-symbol"
+    "vs-symbol",
+    "vs"
   ],
   "vulcan_salute": [
     "hånd",
@@ -12068,7 +13140,9 @@
     "live long and prosper"
   ],
   "waffle": [
-    "vaffel"
+    "vaffel",
+    "belgisk vaffel",
+    "jern"
   ],
   "wales": [
     "flagg",
@@ -12085,12 +13159,17 @@
   "waning_crescent_moon": [
     "månefase",
     "avtakende måne",
-    "avtakende nemåne"
+    "avtakende nemåne",
+    "avtakende",
+    "måne",
+    "ne"
   ],
   "waning_gibbous_moon": [
     "månefase",
     "avtakende måne",
-    "avtakende fullmåne"
+    "avtakende fullmåne",
+    "måne",
+    "ne"
   ],
   "warning": [
     "obs",
@@ -12143,12 +13222,17 @@
   "waxing_crescent_moon": [
     "månefase",
     "tiltakende måne",
-    "voksende nymåne"
+    "voksende nymåne",
+    "måne",
+    "ny",
+    "voksende"
   ],
   "waxing_gibbous_moon": [
     "månefase",
     "tiltakende måne",
-    "voksende fullmåne"
+    "voksende fullmåne",
+    "måne",
+    "ny"
   ],
   "weary_cat": [
     "fjes",
@@ -12169,7 +13253,8 @@
     "mjau",
     "pusekatt",
     "kattepus",
-    "slitent kattefjes"
+    "slitent kattefjes",
+    "sliten katt"
   ],
   "weary_face": [
     "fjes",
@@ -12234,13 +13319,18 @@
     "rullestolsymbol"
   ],
   "white_cane": [
-    "stang"
+    "stang",
+    "blind",
+    "blindestokk",
+    "tilgjengelighet"
   ],
   "white_check_mark": [
     "hake",
     "avkryssing",
     "avmerking",
-    "fremhevet hvitt hakemerke"
+    "fremhevet hvitt hakemerke",
+    "✓",
+    "hakemerke i firkant"
   ],
   "white_circle": [
     "sirkel",
@@ -12249,13 +13339,15 @@
   ],
   "white_exclamation_mark": [
     "utrop",
-    "hvitt utropstegn"
+    "hvitt utropstegn",
+    "!"
   ],
   "white_flag": [
     "flagg",
     "fred",
     "overgivelse",
-    "hvitt"
+    "hvitt",
+    "flagring"
   ],
   "white_flower": [
     "blomst",
@@ -12265,7 +13357,8 @@
   ],
   "white_heart": [
     "hjerte",
-    "hvitt hjerte"
+    "hvitt hjerte",
+    "hvit"
   ],
   "white_large_square": [
     "firkant",
@@ -12287,13 +13380,15 @@
   ],
   "white_question_mark": [
     "spørsmål",
-    "hvitt spørsmålstegn"
+    "hvitt spørsmålstegn",
+    "?"
   ],
   "white_small_square": [
     "firkant",
     "geometrisk",
     "kvadratt",
-    "liten hvit firkant"
+    "liten hvit firkant",
+    "kvadrat"
   ],
   "white_square_button": [
     "firkant",
@@ -12322,7 +13417,12 @@
     "vindansikt"
   ],
   "window": [
-    "vindu"
+    "vindu",
+    "åpning",
+    "frisk luft",
+    "gjennomsiktig",
+    "ramme",
+    "utsikt"
   ],
   "wine_glass": [
     "vin",
@@ -12447,14 +13547,16 @@
   ],
   "woman": [
     "menneske",
-    "kvinne"
+    "kvinne",
+    "voksen"
   ],
   "woman_and_man_holding_hands": [
     "kvinne",
     "mann",
     "holder hender",
     "par",
-    "mann og kvinne som leier"
+    "mann og kvinne som leier",
+    "hånd"
   ],
   "woman_artist": [
     "maler",
@@ -12475,7 +13577,9 @@
     "hår",
     "dame",
     "hårklipp",
-    "skallet"
+    "skallet",
+    "menneske",
+    "voksen"
   ],
   "woman_beard": [
     "kvinne",
@@ -12485,11 +13589,16 @@
   "woman_biking": [
     "sykle",
     "sykkel",
-    "syklist"
+    "syklist",
+    "kvinne",
+    "kvinnelig syklist"
   ],
   "woman_bouncing_ball": [
     "ball",
-    "person med ball"
+    "person med ball",
+    "ballsport",
+    "kvinne",
+    "kvinne med ball"
   ],
   "woman_bowing": [
     "unnskyld",
@@ -12505,11 +13614,14 @@
     "person",
     "slå hjul",
     "gymnastikk",
-    "gym"
+    "gym",
+    "kvinne",
+    "kvinne som slår hjul"
   ],
   "woman_climbing": [
     "klatring",
-    "klatrer"
+    "klatrer",
+    "kvinnelig klatrer"
   ],
   "woman_cook": [
     "restaurant",
@@ -12523,7 +13635,10 @@
     "kvinne",
     "hår",
     "dame",
-    "hårklipp"
+    "hårklipp",
+    "kruset hår",
+    "menneske",
+    "voksen"
   ],
   "woman_dancing": [
     "blond",
@@ -12555,7 +13670,8 @@
     "vorspiel",
     "vise",
     "show",
-    "danselåt"
+    "danselåt",
+    "kvinne"
   ],
   "woman_detective": [
     "kvinne",
@@ -12611,7 +13727,9 @@
     "kvinne",
     "fabrikk",
     "industri",
-    "kvinnelig industriarbeider"
+    "kvinnelig industriarbeider",
+    "arbeider",
+    "industriarbeider"
   ],
   "woman_fairy": [
     "puck",
@@ -12625,29 +13743,40 @@
     "bonde",
     "kvinne",
     "dyrke",
-    "kvinnelig bonde"
+    "kvinnelig bonde",
+    "gårdbruker",
+    "kvinnelig gårdbruker"
   ],
   "woman_feeding_baby": [
     "mater",
     "baby",
     "mamma",
-    "ammer"
+    "ammer",
+    "kvinne",
+    "kvinne som mater baby",
+    "mat",
+    "tåteflaske"
   ],
   "woman_firefighter": [
     "kvinne",
     "brannmann",
     "brannkonstabel",
     "brannvesenet",
-    "kvinnelig brannkonstabel"
+    "kvinnelig brannkonstabel",
+    "brannbil"
   ],
   "woman_frowning": [
     "rynker pannen",
     "rynker brynene",
-    "mimikk"
+    "mimikk",
+    "kvinne",
+    "kvinne som rynker brynene",
+    "skeptisk"
   ],
   "woman_genie": [
     "ånd",
-    "djinn"
+    "djinn",
+    "kvinnelig ånd"
   ],
   "woman_gesturing_no": [
     "kvinne",
@@ -12670,13 +13799,20 @@
     "hårklipp",
     "skjønnhetssalong",
     "salong",
-    "skjønnhet"
+    "skjønnhet",
+    "kvinne",
+    "kvinne som får hårklipp"
   ],
   "woman_getting_massage": [
     "ansikt",
     "skjønnhetssalong",
     "ansiktsmassasje",
-    "massasje"
+    "massasje",
+    "avslapning",
+    "hodemassasje",
+    "kvinne",
+    "kvinne som får ansiktsmassasje",
+    "velvære"
   ],
   "woman_golfing": [
     "kvinne",
@@ -12692,25 +13828,36 @@
     "kvinne",
     "england",
     "kvinnelig gardist",
-    "garde"
+    "garde",
+    "vakt"
   ],
   "woman_health_worker": [
     "kvinne",
     "doktor",
     "lege",
     "helsevesen",
-    "kvinnelig lege"
+    "kvinnelig lege",
+    "kvinnelig helsearbeider",
+    "sykepleier",
+    "terapeut"
   ],
   "woman_in_lotus_position": [
     "meditasjon",
     "yoga",
-    "lotusstilling"
+    "lotusstilling",
+    "kvinne i lotusstilling"
   ],
   "woman_in_manual_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "kvinne",
+    "kvinne i manuell rullestol",
+    "tilgjengelighet"
   ],
   "woman_in_motorized_wheelchair": [
-    "rullestol"
+    "rullestol",
+    "kvinne",
+    "kvinne i motorisert rullestol",
+    "tilgjengelighet"
   ],
   "woman_in_steamy_room": [
     "sauna",
@@ -12735,18 +13882,27 @@
     "balanse",
     "multitasking",
     "sjonglering",
-    "ferdighet"
+    "ferdighet",
+    "kvinne",
+    "kvinnelig sjonglør",
+    "sirkus",
+    "sjonglere"
   ],
   "woman_kneeling": [
     "be",
     "bønn",
     "ber",
     "kneler",
-    "tilbedelse"
+    "tilbedelse",
+    "kvinne",
+    "kvinne som kneler"
   ],
   "woman_lifting_weights": [
     "bodybuilding",
-    "vektløfter"
+    "vektløfter",
+    "kvinne",
+    "kvinnelig vektløfter",
+    "vektløfting"
   ],
   "woman_mage": [
     "trollmann",
@@ -12759,18 +13915,25 @@
     "mekaniker",
     "bil",
     "motor",
-    "kvinnelig mekaniker"
+    "kvinnelig mekaniker",
+    "elektriker",
+    "håndverker",
+    "rørlegger"
   ],
   "woman_mountain_biking": [
     "terrengsyklist",
     "terrengsykkel",
-    "mountainbike"
+    "mountainbike",
+    "kvinne",
+    "kvinne på terrengsykkel",
+    "sykkel"
   ],
   "woman_office_worker": [
     "kvinne",
     "næringsliv",
     "kontor",
-    "kvinnelig kontorarbeider"
+    "kvinnelig kontorarbeider",
+    "leder"
   ],
   "woman_pilot": [
     "kvinne",
@@ -12782,14 +13945,18 @@
     "sport",
     "person",
     "ball",
-    "håndball"
+    "håndball",
+    "kvinne",
+    "kvinnelig håndballspiller"
   ],
   "woman_playing_water_polo": [
     "sport",
     "person",
     "vann",
     "vannpolo",
-    "polo"
+    "polo",
+    "kvinne",
+    "kvinnelig vannpolospiller"
   ],
   "woman_police_officer": [
     "menneske",
@@ -12799,13 +13966,16 @@
     "politimann",
     "lov",
     "politibetjent",
-    "kvinnelig politibetjent"
+    "kvinnelig politibetjent",
+    "betjent"
   ],
   "woman_pouting": [
     "surmuling",
     "mimikk",
     "furter",
-    "furting"
+    "furting",
+    "kvinne",
+    "kvinne som furter"
   ],
   "woman_raising_hand": [
     "person",
@@ -12822,12 +13992,19 @@
     "hår",
     "dame",
     "hårklipp",
-    "rød"
+    "rød",
+    "menneske",
+    "rødt hår",
+    "voksen"
   ],
   "woman_rowing_boat": [
     "båt",
     "fartøy",
-    "person i robåt"
+    "person i robåt",
+    "kvinne",
+    "kvinne i robåt",
+    "ro",
+    "robåt"
   ],
   "woman_running": [
     "sport",
@@ -12870,7 +14047,12 @@
     "kvinne",
     "laboratorium",
     "kjemi",
-    "kvinnelig forsker"
+    "kvinnelig forsker",
+    "biologi",
+    "forsker",
+    "forskning",
+    "lab",
+    "medisin"
   ],
   "woman_shrugging": [
     "kvinne",
@@ -12885,13 +14067,16 @@
     "kvinne",
     "artist",
     "konsert",
-    "kvinnelig artist"
+    "kvinnelig artist",
+    "rock",
+    "sanger"
   ],
   "woman_standing": [
     "stående",
     "kvinne",
     "dame",
-    "står"
+    "står",
+    "kvinne som står"
   ],
   "woman_student": [
     "skole",
@@ -12919,13 +14104,17 @@
   "woman_surfing": [
     "sport",
     "surfing",
-    "surfer"
+    "surfer",
+    "kvinne",
+    "kvinnelig surfer"
   ],
   "woman_swimming": [
     "sport",
     "svømme",
     "svømmer",
-    "svømming"
+    "svømming",
+    "kvinne",
+    "kvinnelig svømmer"
   ],
   "woman_teacher": [
     "skole",
@@ -12939,7 +14128,9 @@
     "it",
     "teknologi",
     "data",
-    "kvinnelig it-ekspert"
+    "kvinnelig it-ekspert",
+    "koding",
+    "programvare"
   ],
   "woman_tipping_hand": [
     "menneske",
@@ -12961,7 +14152,8 @@
     "gående",
     "gå",
     "fotgjenger",
-    "kvinnelig fotgjenger"
+    "kvinnelig fotgjenger",
+    "tur"
   ],
   "woman_wearing_turban": [
     "menneske",
@@ -12978,7 +14170,10 @@
     "hårklipp",
     "grå",
     "gammel",
-    "hvit"
+    "hvit",
+    "grått hår",
+    "menneske",
+    "voksen"
   ],
   "woman_with_headscarf": [
     "hodeskjerf",
@@ -12995,18 +14190,24 @@
   "woman_with_white_cane": [
     "stokk",
     "blind",
-    "blindestokk"
+    "blindestokk",
+    "kvinne",
+    "kvinne med blindestokk",
+    "tilgjengelighet"
   ],
   "woman_zombie": [
     "zombie",
     "vandød",
-    "udød"
+    "udød",
+    "kvinnelig zombie"
   ],
   "women_holding_hands": [
     "kvinne",
     "to kvinner som leier",
     "holder hender",
-    "par"
+    "par",
+    "hånd",
+    "kvinner som leier"
   ],
   "women_s_room": [
     "wc",
@@ -13031,12 +14232,18 @@
     "person",
     "bryter",
     "brytere",
-    "bryting"
+    "bryting",
+    "kvinne",
+    "kvinnelige brytere",
+    "kvinner"
   ],
   "wood": [
     "ved",
     "tre",
-    "stamme"
+    "stamme",
+    "stokk",
+    "tømmer",
+    "trelast"
   ],
   "woozy_face": [
     "ujevne øyne",
@@ -13052,7 +14259,13 @@
     "verdenskart"
   ],
   "worm": [
-    "mark"
+    "mark",
+    "dyr",
+    "leddorm",
+    "makk",
+    "meitemakk",
+    "meitemark",
+    "parasitt"
   ],
   "worried": [
     "fjes",
@@ -13080,7 +14293,9 @@
     "bursdag",
     "gave",
     "julegave",
-    "innpakket gave"
+    "innpakket gave",
+    "innpakket",
+    "presang"
   ],
   "wrench": [
     "verktøy",
@@ -13109,7 +14324,8 @@
     "gjesp",
     "gjesper",
     "gjesping",
-    "kjeder seg"
+    "kjeder seg",
+    "gjespende fjes"
   ],
   "yellow_circle": [
     "sirkel",
@@ -13125,7 +14341,9 @@
   ],
   "yellow_square": [
     "firkant",
-    "gul"
+    "gul",
+    "gult",
+    "kvadrat"
   ],
   "yemen": [
     "flagg",
@@ -13149,7 +14367,9 @@
   "yoyo": [
     "yo-yo",
     "jojo",
-    "jo-jo"
+    "jo-jo",
+    "leke",
+    "opp og ned"
   ],
   "zambia": [
     "flagg",
@@ -13171,7 +14391,8 @@
   ],
   "zero": [
     "null",
-    "0"
+    "0",
+    "taster"
   ],
   "zimbabwe": [
     "flagg",
@@ -13196,7 +14417,9 @@
     "fjes med glidelåsmunn"
   ],
   "zombie": [
-    "levende død"
+    "levende død",
+    "udød",
+    "vandød"
   ],
   "zzz": [
     "tegneserie",

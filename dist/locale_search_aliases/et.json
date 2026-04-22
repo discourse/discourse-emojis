@@ -1,0 +1,9449 @@
+{
+  "+1": [
+    "käsi",
+    "keha",
+    "meeldib",
+    "pöial"
+  ],
+  "-1": [
+    "ei meeldi",
+    "käsi",
+    "keha",
+    "pöial"
+  ],
+  "100": [
+    "punkt",
+    "sada",
+    "sada punkti",
+    "täis"
+  ],
+  "1234": [
+    "numbrid"
+  ],
+  "1st_place_medal": [
+    "esimene",
+    "kuld",
+    "kuldmedal",
+    "medal"
+  ],
+  "2nd_place_medal": [
+    "hõbe",
+    "hõbemedal",
+    "medal",
+    "teine"
+  ],
+  "3rd_place_medal": [
+    "kolmas",
+    "medal",
+    "pronks",
+    "pronksmedal"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "nupp a (veregrupp)",
+    "veri"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "nupp ab (veregrupp)",
+    "veri"
+  ],
+  "abacus": [
+    "arvelaud",
+    "arvutamine"
+  ],
+  "accordion": [
+    "akordion",
+    "lõõts",
+    "lõõtspill"
+  ],
+  "adhesive_bandage": [
+    "meditsiin",
+    "plaaster"
+  ],
+  "admission_tickets": [
+    "pilet",
+    "piletid",
+    "sissepääs"
+  ],
+  "aerial_tramway": [
+    "gondel",
+    "köis",
+    "köisraudtee",
+    "raudtee",
+    "sõiduk",
+    "vagun"
+  ],
+  "afghanistan": [
+    "lipp"
+  ],
+  "airplane": [
+    "lennuk",
+    "sõiduk"
+  ],
+  "airplane_arrival": [
+    "lennuk",
+    "maandumine",
+    "maanduv lennuk",
+    "sõiduk"
+  ],
+  "airplane_departure": [
+    "lennuk",
+    "õhkutõus",
+    "õhkutõusev lennuk",
+    "sõiduk"
+  ],
+  "alarm_clock": [
+    "äratus",
+    "äratuskell",
+    "kell"
+  ],
+  "albania": [
+    "lipp"
+  ],
+  "alembic": [
+    "destilleerimisnõu",
+    "keemia",
+    "tööriist"
+  ],
+  "algeria": [
+    "lipp"
+  ],
+  "alien": [
+    "fantaasia",
+    "jaapan",
+    "koletis",
+    "koll",
+    "maaväline",
+    "muinasjutt",
+    "nägu",
+    "olend",
+    "tulnukas"
+  ],
+  "alien_monster": [
+    "fantaasia",
+    "koletis",
+    "kosmos",
+    "maaväline",
+    "muinasjutt",
+    "nägu",
+    "olend",
+    "tulnukas",
+    "tulnukkoletis",
+    "ufo"
+  ],
+  "ambulance": [
+    "kiirabiauto",
+    "sõiduk"
+  ],
+  "american_football": [
+    "ameerika",
+    "ameerika jalgpall",
+    "jalgpall",
+    "pall"
+  ],
+  "american_samoa": [
+    "lipp"
+  ],
+  "amphora": [
+    "amfora",
+    "jook",
+    "kann",
+    "vaas",
+    "veevalaja"
+  ],
+  "anatomical_heart": [
+    "keskpunkt",
+    "organ",
+    "pulss",
+    "süda",
+    "südamelöök"
+  ],
+  "anchor": [
+    "ankur",
+    "laev",
+    "tööriist"
+  ],
+  "andorra": [
+    "lipp"
+  ],
+  "anger_symbol": [
+    "koomiks",
+    "tige",
+    "viha sümbol",
+    "vihane"
+  ],
+  "angola": [
+    "lipp"
+  ],
+  "angry": [
+    "nägu",
+    "tige",
+    "vihane"
+  ],
+  "angry_face_with_horns": [
+    "deemon",
+    "fantaasia",
+    "kurat",
+    "muinasjutt",
+    "nägu",
+    "paharet",
+    "saatan"
+  ],
+  "anguilla": [
+    "lipp"
+  ],
+  "anguished_face": [
+    "ahastus",
+    "ahastuses nägu",
+    "nägu"
+  ],
+  "ant": [
+    "putukas",
+    "sipelgas"
+  ],
+  "antarctica": [
+    "lipp"
+  ],
+  "antenna_bars": [
+    "antenn",
+    "levi",
+    "mobiil",
+    "signaal",
+    "telefon"
+  ],
+  "antigua_barbuda": [
+    "lipp"
+  ],
+  "anxious_face_with_sweat": [
+    "avatud",
+    "higi",
+    "külm",
+    "külma higiga kaetud ja avatud suuga nägu",
+    "nägu",
+    "sinine",
+    "suu"
+  ],
+  "aquarius": [
+    "sodiaak",
+    "veevalaja"
+  ],
+  "argentina": [
+    "lipp"
+  ],
+  "aries": [
+    "jäär",
+    "sodiaak"
+  ],
+  "armenia": [
+    "lipp"
+  ],
+  "articulated_lorry": [
+    "sõiduk",
+    "veoauto",
+    "veok"
+  ],
+  "artist": [
+    "kunstnik",
+    "palett"
+  ],
+  "artist_palette": [
+    "kunst",
+    "kunstniku palett",
+    "maal",
+    "muuseum",
+    "palett"
+  ],
+  "aruba": [
+    "lipp"
+  ],
+  "ascension_island": [
+    "lipp"
+  ],
+  "asterisk": [
+    "klahv"
+  ],
+  "astonished_face": [
+    "ehmunud",
+    "hämmastunud nägu",
+    "hämmastus",
+    "löödud",
+    "nägu"
+  ],
+  "astronaut": [
+    "rakett"
+  ],
+  "atm_sign": [
+    "pangaautomaat",
+    "sularaha",
+    "teller"
+  ],
+  "atom_symbol": [
+    "aatom",
+    "aatomi sümbol",
+    "ateist"
+  ],
+  "australia": [
+    "lipp"
+  ],
+  "austria": [
+    "lipp"
+  ],
+  "auto_rickshaw": [
+    "autorikša",
+    "tuk-tuk"
+  ],
+  "automobile": [
+    "auto",
+    "sõiduk"
+  ],
+  "avocado": [
+    "avokaado",
+    "puuvili",
+    "toit"
+  ],
+  "axe": [
+    "kirves",
+    "lõhkumine",
+    "puud",
+    "raiumine"
+  ],
+  "azerbaijan": [
+    "lipp"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "nupp b (veregrupp)",
+    "veri"
+  ],
+  "baby": [
+    "beebi",
+    "imik",
+    "tita",
+    "titt"
+  ],
+  "baby_angel": [
+    "ingel",
+    "inglibeebi",
+    "inglilaps",
+    "laps",
+    "lapsenägu",
+    "muinasjutt"
+  ],
+  "baby_bottle": [
+    "beebi",
+    "lutipudel",
+    "piim",
+    "pudel"
+  ],
+  "baby_chick": [
+    "tibu",
+    "väike tibu"
+  ],
+  "baby_symbol": [
+    "beebi",
+    "beebi sümbol",
+    "imik",
+    "mähe"
+  ],
+  "back_arrow": [
+    "nool",
+    "nool back",
+    "tagasi"
+  ],
+  "backhand_index_pointing_down": [
+    "alla osutav sõrm",
+    "käsi",
+    "keha",
+    "nimetissõrm",
+    "osutamine",
+    "sõrm"
+  ],
+  "backhand_index_pointing_left": [
+    "käsi",
+    "keha",
+    "nimetissõrm",
+    "osutamine",
+    "sõrm",
+    "vasakule osutav sõrm"
+  ],
+  "backhand_index_pointing_right": [
+    "käsi",
+    "keha",
+    "nimetissõrm",
+    "osutamine",
+    "paremale osutav sõrm",
+    "sõrm"
+  ],
+  "backhand_index_pointing_up": [
+    "käsi",
+    "keha",
+    "nimetissõrm",
+    "osutamine",
+    "sõrm",
+    "üles osutav sõrm tagantvaates"
+  ],
+  "backpack": [
+    "kool",
+    "kott",
+    "ranits"
+  ],
+  "bacon": [
+    "liha",
+    "peekon",
+    "toit"
+  ],
+  "badger": [
+    "mäger",
+    "meemäger",
+    "nuhtlus"
+  ],
+  "badminton": [
+    "mäng",
+    "reket",
+    "sulgpall"
+  ],
+  "bagel": [
+    "määre",
+    "pagaritoode",
+    "rõngassai"
+  ],
+  "baggage_claim": [
+    "kättesaamine",
+    "pagas",
+    "pagasi kättesaamine"
+  ],
+  "baguette_bread": [
+    "baguette",
+    "pikk",
+    "sai",
+    "toit"
+  ],
+  "bahamas": [
+    "lipp"
+  ],
+  "bahrain": [
+    "lipp"
+  ],
+  "balance_scale": [
+    "kaalud",
+    "kaalukausid",
+    "sodiaak",
+    "tööriist"
+  ],
+  "ballet_shoes": [
+    "balletikingad",
+    "ballett",
+    "tants"
+  ],
+  "balloon": [
+    "õhupall",
+    "tähistamine"
+  ],
+  "ballot_box_with_ballot": [
+    "hääletus",
+    "hääletuskast",
+    "kast"
+  ],
+  "banana": [
+    "banaan",
+    "puuvili",
+    "taim"
+  ],
+  "bangladesh": [
+    "lipp"
+  ],
+  "banjo": [
+    "bandžo",
+    "keelpill",
+    "muusika"
+  ],
+  "bank": [
+    "hoone",
+    "pank"
+  ],
+  "bar_chart": [
+    "diagramm",
+    "graafik",
+    "tulp",
+    "tulpdiagramm"
+  ],
+  "barbados": [
+    "lipp"
+  ],
+  "barber_pole": [
+    "habemeajaja",
+    "habemeajaja silt",
+    "juuksur"
+  ],
+  "baseball": [
+    "pall",
+    "pesapall"
+  ],
+  "basket": [
+    "korv",
+    "pesu",
+    "piknik",
+    "taluelu"
+  ],
+  "basketball": [
+    "korvpall",
+    "pall"
+  ],
+  "bat": [
+    "loom",
+    "nahkhiir",
+    "vampiir"
+  ],
+  "bathtub": [
+    "vann"
+  ],
+  "battery": [
+    "aku",
+    "patarei"
+  ],
+  "beach_with_umbrella": [
+    "päikesevari",
+    "päikesevari rannas",
+    "rand"
+  ],
+  "bear": [
+    "karu",
+    "nägu"
+  ],
+  "beating_heart": [
+    "löök",
+    "pulss",
+    "süda",
+    "tukslev süda"
+  ],
+  "beaver": [
+    "kobras",
+    "tamm"
+  ],
+  "bed": [
+    "hotell",
+    "uni",
+    "voodi"
+  ],
+  "beer_mug": [
+    "baar",
+    "jook",
+    "kann",
+    "õllekann",
+    "õlu"
+  ],
+  "beetle": [
+    "mardikas",
+    "putukas"
+  ],
+  "belarus": [
+    "lipp"
+  ],
+  "belgium": [
+    "lipp"
+  ],
+  "belize": [
+    "lipp"
+  ],
+  "bell": [
+    "kell",
+    "kelluke"
+  ],
+  "bell_pepper": [
+    "köögivili",
+    "paprika",
+    "pipar"
+  ],
+  "bell_with_slash": [
+    "keelatud",
+    "kelluke",
+    "kelluke keelumärgiga",
+    "vaigistatud kelluke",
+    "vaigistus",
+    "vaikne",
+    "vaikus"
+  ],
+  "bellhop_bell": [
+    "hotell",
+    "jooksupoiss",
+    "kell"
+  ],
+  "benin": [
+    "lipp"
+  ],
+  "bento_box": [
+    "bento einekarp",
+    "karp",
+    "toit"
+  ],
+  "bermuda": [
+    "lipp"
+  ],
+  "beverage_box": [
+    "joogipakk",
+    "mahlapakk"
+  ],
+  "bhutan": [
+    "lipp"
+  ],
+  "bicycle": [
+    "jalgratas",
+    "ratas",
+    "sõiduk"
+  ],
+  "bikini": [
+    "bikiinid",
+    "riided",
+    "ujumine"
+  ],
+  "billed_cap": [
+    "nokkmüts",
+    "pesapallimüts"
+  ],
+  "biohazard": [
+    "bioloogiline",
+    "oht"
+  ],
+  "bird": [
+    "lind"
+  ],
+  "birthday_cake": [
+    "küünlad",
+    "magustoit",
+    "sünnipäev",
+    "sünnipäevatort",
+    "tort"
+  ],
+  "bison": [
+    "kari",
+    "piison",
+    "pühvel",
+    "pürg"
+  ],
+  "black_cat": [
+    "ebaõnn",
+    "kass",
+    "must"
+  ],
+  "black_circle": [
+    "geomeetria",
+    "must ring",
+    "ring"
+  ],
+  "black_flag": [
+    "lehvimine",
+    "lipp",
+    "must lipp"
+  ],
+  "black_heart": [
+    "kuri",
+    "must",
+    "süda"
+  ],
+  "black_large_square": [
+    "geomeetria",
+    "ruut",
+    "suur must ruut"
+  ],
+  "black_medium_small_square": [
+    "geomeetria",
+    "ruut",
+    "väiksem must ruut"
+  ],
+  "black_medium_square": [
+    "geomeetria",
+    "keskmine must ruut",
+    "ruut"
+  ],
+  "black_nib": [
+    "must sulepea",
+    "pastakas",
+    "sulepea"
+  ],
+  "black_small_square": [
+    "geomeetria",
+    "ruut",
+    "väike must ruut"
+  ],
+  "black_square_button": [
+    "geomeetria",
+    "must ruudukujuline nupp",
+    "nupp",
+    "piirjoon",
+    "ruut"
+  ],
+  "blonde_man": [
+    "blond",
+    "blondiin",
+    "mees",
+    "mees: blond"
+  ],
+  "blonde_woman": [
+    "blond",
+    "blondiin",
+    "naine",
+    "naine: blond"
+  ],
+  "blossom": [
+    "lill",
+    "õis",
+    "taim"
+  ],
+  "blowfish": [
+    "kala",
+    "siilkala"
+  ],
+  "blue_book": [
+    "raamat",
+    "sinine"
+  ],
+  "blue_circle": [
+    "geomeetria",
+    "ring",
+    "sinine"
+  ],
+  "blue_heart": [
+    "sinine",
+    "süda"
+  ],
+  "blue_square": [
+    "nelinurk",
+    "ruut",
+    "sinine"
+  ],
+  "blueberries": [
+    "mari",
+    "mustikad",
+    "mustikas",
+    "sinine"
+  ],
+  "blush": [
+    "naeratavate silmadega naerunägu",
+    "naeratus",
+    "nägu",
+    "punastamine",
+    "silm"
+  ],
+  "boar": [
+    "kult",
+    "metssiga"
+  ],
+  "bolivia": [
+    "lipp"
+  ],
+  "bomb": [
+    "koomiks",
+    "pomm"
+  ],
+  "bone": [
+    "kont",
+    "luustik"
+  ],
+  "bookmark": [
+    "järjehoidja"
+  ],
+  "bookmark_tabs": [
+    "järjehoidja",
+    "järjehoidjad",
+    "märgis",
+    "marker"
+  ],
+  "books": [
+    "raamat",
+    "raamatud"
+  ],
+  "boomerang": [
+    "austraalia",
+    "bumerang",
+    "tagasilend",
+    "tagasipöördumine"
+  ],
+  "bosnia_herzegovina": [
+    "lipp"
+  ],
+  "botswana": [
+    "lipp"
+  ],
+  "bottle_with_popping_cork": [
+    "baar",
+    "jook",
+    "kork",
+    "pudel",
+    "pudeli avamine"
+  ],
+  "bouquet": [
+    "kimp",
+    "lill",
+    "romantika",
+    "taim"
+  ],
+  "bouvet_island": [
+    "lipp"
+  ],
+  "bow_and_arrow": [
+    "ambur",
+    "nool",
+    "relv",
+    "vibu",
+    "vibu ja nool"
+  ],
+  "bowl_with_spoon": [
+    "hommikueine",
+    "hommikusöögihelbed",
+    "lusikaga kauss",
+    "riisipuding"
+  ],
+  "bowling": [
+    "keegel",
+    "kurikas",
+    "kuul",
+    "mäng"
+  ],
+  "boxing_glove": [
+    "kinnas",
+    "poks",
+    "poksikinnas",
+    "sport"
+  ],
+  "boy": [
+    "noormees",
+    "poiss"
+  ],
+  "brain": [
+    "aju",
+    "intelligentne"
+  ],
+  "brazil": [
+    "lipp"
+  ],
+  "bread": [
+    "leib",
+    "päts"
+  ],
+  "breast_feeding": [
+    "imetamine",
+    "imik",
+    "rind",
+    "rinnaga toitmine"
+  ],
+  "brick": [
+    "mört",
+    "savi",
+    "sein",
+    "telliskivi",
+    "telliskivid"
+  ],
+  "bridge_at_night": [
+    "ilm",
+    "öö",
+    "sild",
+    "sild öösel"
+  ],
+  "briefcase": [
+    "kohver",
+    "portfell"
+  ],
+  "briefs": [
+    "aluspesu",
+    "ujumiskostüüm",
+    "ujumispüksid",
+    "ujumisriie"
+  ],
+  "bright_button": [
+    "ere",
+    "eredus",
+    "ereduse nupp"
+  ],
+  "british_indian_ocean_territory": [
+    "lipp"
+  ],
+  "british_virgin_islands": [
+    "lipp"
+  ],
+  "broccoli": [
+    "brokoli",
+    "metskapsas"
+  ],
+  "broken_heart": [
+    "murtud",
+    "süda"
+  ],
+  "broom": [
+    "luud",
+    "nõid",
+    "puhastamine",
+    "pühkimine"
+  ],
+  "brown_circle": [
+    "kera",
+    "pruun",
+    "ring"
+  ],
+  "brown_heart": [
+    "pruun",
+    "süda"
+  ],
+  "brown_square": [
+    "nelinurk",
+    "pruun",
+    "ruut"
+  ],
+  "brunei": [
+    "lipp"
+  ],
+  "bubble_tea": [
+    "mull",
+    "pärl",
+    "pärlitee",
+    "piim",
+    "tee"
+  ],
+  "bucket": [
+    "ämber",
+    "pang"
+  ],
+  "bug": [
+    "putukas",
+    "röövik"
+  ],
+  "building_construction": [
+    "ehitus",
+    "maja"
+  ],
+  "bulgaria": [
+    "lipp"
+  ],
+  "bullet_train": [
+    "kiirrong",
+    "raudtee",
+    "sõiduk",
+    "terava ninaga kiirrong"
+  ],
+  "bullseye": [
+    "noolemäng",
+    "sihtmärk",
+    "tabamus",
+    "täistabamus"
+  ],
+  "burkina_faso": [
+    "lipp"
+  ],
+  "burrito": [
+    "mehhiko"
+  ],
+  "burundi": [
+    "lipp"
+  ],
+  "bus": [
+    "buss",
+    "sõiduk"
+  ],
+  "bus_stop": [
+    "buss",
+    "bussipeatus",
+    "peatus"
+  ],
+  "bust_in_silhouette": [
+    "büst",
+    "büsti siluett",
+    "siluett"
+  ],
+  "busts_in_silhouette": [
+    "büst",
+    "büstide siluetid",
+    "siluett"
+  ],
+  "butter": [
+    "piimatoode",
+    "või"
+  ],
+  "butterfly": [
+    "ilus",
+    "liblikas",
+    "putukas"
+  ],
+  "cactus": [
+    "kaktus",
+    "taim"
+  ],
+  "call_me_hand": [
+    "helista",
+    "helista mulle",
+    "käsi"
+  ],
+  "cambodia": [
+    "lipp"
+  ],
+  "camel": [
+    "dromedar",
+    "kaamel",
+    "küür"
+  ],
+  "camera": [
+    "kaamera",
+    "video"
+  ],
+  "camera_with_flash": [
+    "foto",
+    "kaamera",
+    "pildistamine",
+    "välguga kaamera",
+    "välk"
+  ],
+  "cameroon": [
+    "lipp"
+  ],
+  "camping": [
+    "telk",
+    "telkimine"
+  ],
+  "canada": [
+    "lipp"
+  ],
+  "canary_islands": [
+    "lipp"
+  ],
+  "cancer": [
+    "sodiaak",
+    "vähk"
+  ],
+  "candle": [
+    "küünal",
+    "valgus"
+  ],
+  "candy": [
+    "komm",
+    "magus",
+    "magustoit"
+  ],
+  "canned_food": [
+    "konserv",
+    "toidukonserv"
+  ],
+  "canoe": [
+    "kanuu",
+    "paat"
+  ],
+  "cape_verde": [
+    "lipp"
+  ],
+  "capricorn": [
+    "kaljukits",
+    "sodiaak"
+  ],
+  "card_file_box": [
+    "dokumendikast",
+    "dokument",
+    "kast",
+    "register"
+  ],
+  "card_index": [
+    "kaart",
+    "kataloog",
+    "register"
+  ],
+  "card_index_dividers": [
+    "kaart",
+    "register"
+  ],
+  "caribbean_netherlands": [
+    "lipp"
+  ],
+  "carousel_horse": [
+    "hobune",
+    "karussell",
+    "karussellihobune"
+  ],
+  "carp_streamer": [
+    "kala",
+    "kalakujuline vimpel",
+    "lipp",
+    "vimpel"
+  ],
+  "carpentry_saw": [
+    "käsisaag",
+    "puit",
+    "puusepp",
+    "saag",
+    "tööriist"
+  ],
+  "carrot": [
+    "juurvili",
+    "porgand",
+    "toit"
+  ],
+  "castle": [
+    "hoone",
+    "loss"
+  ],
+  "cat": [
+    "kass",
+    "koer",
+    "lemmikloom"
+  ],
+  "cat_face": [
+    "kass",
+    "kassi nägu",
+    "lemmikloom",
+    "nägu"
+  ],
+  "cat_with_wry_smile": [
+    "irooniline",
+    "kass",
+    "naeratus",
+    "nägu",
+    "viril",
+    "virilalt naeratav kass"
+  ],
+  "cayman_islands": [
+    "lipp"
+  ],
+  "central_african_republic": [
+    "lipp"
+  ],
+  "ceuta_melilla": [
+    "lipp"
+  ],
+  "chad": [
+    "lipp"
+  ],
+  "chains": [
+    "ahel",
+    "ahelad",
+    "kett"
+  ],
+  "chair": [
+    "iste",
+    "istumine",
+    "tool"
+  ],
+  "chart_decreasing": [
+    "alla",
+    "graafik",
+    "langev graafik",
+    "langus",
+    "tendents"
+  ],
+  "chart_increasing": [
+    "graafik",
+    "kasv",
+    "tendents",
+    "tõusev graafik",
+    "üles"
+  ],
+  "chart_increasing_with_yen": [
+    "graafik",
+    "jeen",
+    "kasv",
+    "tõusev graafik jeenisümboliga",
+    "turg",
+    "valuuta"
+  ],
+  "check_box_with_check": [
+    "märge",
+    "märgitud ruut"
+  ],
+  "check_mark": [
+    "märge",
+    "suur märge"
+  ],
+  "cheese_wedge": [
+    "juust",
+    "juustutükk"
+  ],
+  "chequered_flag": [
+    "lipp",
+    "ruuduline",
+    "ruudulipp",
+    "võidusõit"
+  ],
+  "cherries": [
+    "kirsid",
+    "kirss",
+    "puuvili",
+    "taim"
+  ],
+  "cherry_blossom": [
+    "kirsiõis",
+    "kirss",
+    "lill",
+    "õis",
+    "taim"
+  ],
+  "chess_pawn": [
+    "ettur",
+    "kõrvalejäetav",
+    "male",
+    "tüssamine"
+  ],
+  "chestnut": [
+    "kastan",
+    "taim"
+  ],
+  "chicken": [
+    "kana"
+  ],
+  "child": [
+    "laps",
+    "noor",
+    "sooliselt neutraalne"
+  ],
+  "children_crossing": [
+    "jalakäija",
+    "laps",
+    "lapsed teel",
+    "liiklus",
+    "tänav"
+  ],
+  "chile": [
+    "lipp"
+  ],
+  "china": [
+    "lipp"
+  ],
+  "chipmunk": [
+    "orav",
+    "vöötorav"
+  ],
+  "chocolate_bar": [
+    "magus",
+    "magustoit",
+    "šokolaad",
+    "šokolaaditahvel"
+  ],
+  "chopsticks": [
+    "hashi",
+    "söögipulgad"
+  ],
+  "christmas_island": [
+    "lipp"
+  ],
+  "christmas_tree": [
+    "jõulud",
+    "jõulupuu",
+    "kuusk",
+    "pühad"
+  ],
+  "church": [
+    "kirik",
+    "kristlus",
+    "maja",
+    "rist",
+    "usk"
+  ],
+  "cigarette": [
+    "sigaret",
+    "suitsetama"
+  ],
+  "cinema": [
+    "film",
+    "kaamera",
+    "kino"
+  ],
+  "circled_m": [
+    "m",
+    "m ringis",
+    "ring"
+  ],
+  "circus_tent": [
+    "telk",
+    "tsirkus",
+    "tsirkusetelk"
+  ],
+  "cityscape": [
+    "linn",
+    "linna siluett",
+    "maja"
+  ],
+  "cityscape_at_dusk": [
+    "hoone",
+    "ilm",
+    "linna siluett videvikus",
+    "loojang",
+    "õhtu",
+    "päike",
+    "siluett",
+    "videvik"
+  ],
+  "cl_button": [
+    "cl",
+    "nupp cl"
+  ],
+  "clamp": [
+    "kruustangid",
+    "tööriist"
+  ],
+  "clap": [
+    "aplaus",
+    "käsi",
+    "keha",
+    "plaksutamine",
+    "plaksutavad käed"
+  ],
+  "clapper_board": [
+    "film",
+    "klapptahvel",
+    "video"
+  ],
+  "classical_building": [
+    "klassikaline",
+    "klassikaline hoone",
+    "maja"
+  ],
+  "clinking_beer_mugs": [
+    "baar",
+    "jook",
+    "kann",
+    "kõlisevad õllekannud",
+    "õlu"
+  ],
+  "clinking_glasses": [
+    "jooma",
+    "klaasid",
+    "kõlisevad klaasid",
+    "kõlks",
+    "tähistama"
+  ],
+  "clipboard": [
+    "alus",
+    "kirjutamisalus",
+    "leht",
+    "paber"
+  ],
+  "clipperton_island": [
+    "lipp"
+  ],
+  "clockwise_vertical_arrows": [
+    "laadimine",
+    "nool",
+    "päripäeva",
+    "vertikaalsed nooled päripäeva"
+  ],
+  "closed_book": [
+    "raamat",
+    "suletud"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "postkast",
+    "suletud",
+    "suletud postkast langetatud lipuga"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "postkast",
+    "suletud",
+    "suletud postkast tõstetud lipuga"
+  ],
+  "closed_umbrella": [
+    "ilm",
+    "riided",
+    "suletud vihmavari",
+    "vihm",
+    "vihmavari"
+  ],
+  "cloud": [
+    "ilm",
+    "pilv"
+  ],
+  "cloud_with_lightning": [
+    "äike",
+    "äikesepilv",
+    "ilm",
+    "pilv",
+    "välk"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "äike",
+    "äikese- ja vihmapilv",
+    "ilm",
+    "pilv",
+    "vihm"
+  ],
+  "cloud_with_rain": [
+    "ilm",
+    "pilv",
+    "vihm",
+    "vihmapilv"
+  ],
+  "cloud_with_snow": [
+    "ilm",
+    "külm",
+    "lumepilv",
+    "lumi",
+    "pilv"
+  ],
+  "clown_face": [
+    "kloun",
+    "klouninägu",
+    "nägu"
+  ],
+  "club_suit": [
+    "kaart",
+    "mäng",
+    "mast",
+    "risti"
+  ],
+  "clutch_bag": [
+    "kott",
+    "riided"
+  ],
+  "coat": [
+    "jakk",
+    "mantel"
+  ],
+  "cockroach": [
+    "prussakas",
+    "putukas",
+    "tarakan"
+  ],
+  "cocktail_glass": [
+    "baar",
+    "jook",
+    "klaas",
+    "kokteil",
+    "kokteiliklaas"
+  ],
+  "coconut": [
+    "kookospähkel",
+    "palm",
+    "piña colada"
+  ],
+  "cocos_keeling_islands": [
+    "lipp"
+  ],
+  "coffin": [
+    "kirst",
+    "surm"
+  ],
+  "coin": [
+    "hõbe",
+    "kuld",
+    "metall",
+    "münt",
+    "raha",
+    "varandus"
+  ],
+  "cold_face": [
+    "jääpurikad",
+    "jäätuv",
+    "külmakahjustus",
+    "külmunud",
+    "külmunud nägu",
+    "näost sinine"
+  ],
+  "collision": [
+    "koomiks",
+    "piraki"
+  ],
+  "colombia": [
+    "lipp"
+  ],
+  "comet": [
+    "komeet",
+    "kosmos"
+  ],
+  "comoros": [
+    "lipp"
+  ],
+  "compass": [
+    "kompass",
+    "magnetiline",
+    "navigeerimine",
+    "orienteerumine"
+  ],
+  "computer_disk": [
+    "arvuti",
+    "arvutiketas",
+    "ketas",
+    "optiline"
+  ],
+  "computer_mouse": [
+    "arvuti",
+    "arvutihiir",
+    "hiir",
+    "nupp"
+  ],
+  "confetti_ball": [
+    "konfetid",
+    "pall",
+    "pidu"
+  ],
+  "confounded_face": [
+    "kimbatus",
+    "kimbatuses nägu",
+    "nägu"
+  ],
+  "confused": [
+    "nägu",
+    "segaduses"
+  ],
+  "congo_brazzaville": [
+    "lipp"
+  ],
+  "congo_kinshasa": [
+    "lipp"
+  ],
+  "construction": [
+    "barjäär",
+    "ehitustööd",
+    "tõke"
+  ],
+  "construction_worker": [
+    "ehitaja",
+    "ehitus",
+    "kiiver",
+    "tööline"
+  ],
+  "construction_worker_man": [
+    "ehitaja",
+    "ehitus",
+    "kiiver",
+    "mees",
+    "meesehitaja"
+  ],
+  "construction_worker_woman": [
+    "ehitaja",
+    "ehitus",
+    "kiiver",
+    "naine",
+    "naisehitaja"
+  ],
+  "control_knobs": [
+    "heli",
+    "juhtnupud",
+    "muusika",
+    "nupud"
+  ],
+  "convenience_store": [
+    "hoone",
+    "kauplus",
+    "pood"
+  ],
+  "cook": [
+    "kokk",
+    "peakokk"
+  ],
+  "cook_islands": [
+    "lipp"
+  ],
+  "cooked_rice": [
+    "keedetud",
+    "riis"
+  ],
+  "cookie": [
+    "küpsis",
+    "magus",
+    "magustoit"
+  ],
+  "cooking": [
+    "muna",
+    "pann",
+    "praadimine",
+    "toiduvalmistamine"
+  ],
+  "cool_button": [
+    "lahe",
+    "nupp cool"
+  ],
+  "copyright": [
+    "autoriõigus",
+    "c"
+  ],
+  "costa_rica": [
+    "lipp"
+  ],
+  "couch_and_lamp": [
+    "diivan",
+    "diivan ja lamp",
+    "hotell",
+    "lamp"
+  ],
+  "counterclockwise_arrows_button": [
+    "nool",
+    "nooled vastupäeva",
+    "vastupäeva"
+  ],
+  "couple_with_heart": [
+    "armastus",
+    "paarike südamega",
+    "romantika",
+    "süda",
+    "mees",
+    "naine"
+  ],
+  "couple_with_heart_man_man": [
+    "armastus",
+    "mees",
+    "paarike südamega",
+    "romantika",
+    "süda"
+  ],
+  "couple_with_heart_woman_woman": [
+    "armastus",
+    "naine",
+    "paarike südamega",
+    "romantika",
+    "süda"
+  ],
+  "cow": [
+    "lehm",
+    "nägu"
+  ],
+  "cow_face": [
+    "lehm",
+    "lehma nägu",
+    "nägu"
+  ],
+  "cowboy_hat_face": [
+    "kauboi",
+    "kauboimütsiga nägu",
+    "müts",
+    "nägu"
+  ],
+  "crab": [
+    "krabi",
+    "sodiaak",
+    "vähk"
+  ],
+  "crayon": [
+    "kriit"
+  ],
+  "credit_card": [
+    "kaart",
+    "krediit",
+    "krediitkaart",
+    "pank",
+    "raha"
+  ],
+  "crescent_moon": [
+    "ilm",
+    "kosmos",
+    "kuu",
+    "kuusirp",
+    "sirp"
+  ],
+  "cricket": [
+    "kilk",
+    "rohutirts"
+  ],
+  "cricket_game": [
+    "kriket",
+    "kurikas",
+    "mäng",
+    "pall"
+  ],
+  "croatia": [
+    "lipp"
+  ],
+  "crocodile": [
+    "krokodill"
+  ],
+  "croissant": [
+    "prantsuse",
+    "sai",
+    "sarvesai",
+    "toit"
+  ],
+  "cross_mark": [
+    "×",
+    "ei",
+    "korrutamine",
+    "korrutusmärk",
+    "rist",
+    "x"
+  ],
+  "cross_mark_button": [
+    "×",
+    "korrutusmärgiga nupp",
+    "märk",
+    "ruut",
+    "x"
+  ],
+  "crossed_fingers": [
+    "käsi",
+    "õnn",
+    "risti",
+    "sõrmed"
+  ],
+  "crossed_flags": [
+    "lipp",
+    "pidu",
+    "ristatud lipud",
+    "risti"
+  ],
+  "crossed_swords": [
+    "mõõgad",
+    "relv",
+    "ristatud mõõgad",
+    "risti"
+  ],
+  "crown": [
+    "kroon",
+    "kuninganna",
+    "kuningas",
+    "riided"
+  ],
+  "cry": [
+    "kurb",
+    "nägu",
+    "nutt",
+    "nuttev nägu",
+    "pisar"
+  ],
+  "crying_cat": [
+    "kass",
+    "kurb",
+    "nägu",
+    "nutt",
+    "nuttev kass",
+    "pisar"
+  ],
+  "crystal_ball": [
+    "ennustamine",
+    "kristallkuul",
+    "muinasjutt",
+    "tööriist"
+  ],
+  "cuba": [
+    "lipp"
+  ],
+  "cucumber": [
+    "köögivili",
+    "kurk",
+    "toit"
+  ],
+  "cup_with_straw": [
+    "kõrrega tops",
+    "limonaad",
+    "mahl"
+  ],
+  "cupcake": [
+    "magus",
+    "muffin",
+    "pagaritoode"
+  ],
+  "curaçao": [
+    "lipp"
+  ],
+  "curling_stone": [
+    "jääkeegli kivi",
+    "kivi",
+    "mäng"
+  ],
+  "curly_loop": [
+    "lokk",
+    "silmus"
+  ],
+  "currency_exchange": [
+    "pank",
+    "raha",
+    "vahetus",
+    "valuuta",
+    "valuutavahetus"
+  ],
+  "curry_rice": [
+    "karri",
+    "karriga riis",
+    "riis"
+  ],
+  "custard": [
+    "magus",
+    "magustoit",
+    "puding",
+    "vanillipuding"
+  ],
+  "customs": [
+    "toll"
+  ],
+  "cut_of_meat": [
+    "karbonaad",
+    "lambalihakarbonaad",
+    "lihalõik",
+    "praelõik",
+    "sealihakarbonaad"
+  ],
+  "cyclone": [
+    "ilm",
+    "orkaan",
+    "taifuun",
+    "tornaado",
+    "tsüklon"
+  ],
+  "cyprus": [
+    "lipp"
+  ],
+  "czechia": [
+    "lipp"
+  ],
+  "côte_d_ivoire": [
+    "lipp"
+  ],
+  "dagger": [
+    "nuga",
+    "pistoda",
+    "relv"
+  ],
+  "dango": [
+    "magus",
+    "magustoit",
+    "pulk"
+  ],
+  "dashing_away": [
+    "jooksmine",
+    "kiirustamine",
+    "koomiks"
+  ],
+  "date": [
+    "kalender",
+    "kuupäev"
+  ],
+  "deaf_man": [
+    "kurt",
+    "mees"
+  ],
+  "deaf_person": [
+    "juurdepääs",
+    "kõrv",
+    "kurt",
+    "kurt inimene",
+    "kuulmine"
+  ],
+  "deaf_woman": [
+    "kurt",
+    "naine"
+  ],
+  "deciduous_tree": [
+    "leht",
+    "lehtpuu",
+    "puu",
+    "taim"
+  ],
+  "deer": [
+    "hirv",
+    "loom"
+  ],
+  "delivery_truck": [
+    "kuller",
+    "kulleriauto",
+    "sõiduk",
+    "veoauto"
+  ],
+  "denmark": [
+    "lipp"
+  ],
+  "department_store": [
+    "hoone",
+    "kaubamaja",
+    "pood"
+  ],
+  "derelict_house": [
+    "hoone",
+    "mahajäetud",
+    "maja"
+  ],
+  "desert": [
+    "kõrb"
+  ],
+  "desert_island": [
+    "asustamata",
+    "saar"
+  ],
+  "desktop_computer": [
+    "arvuti",
+    "lauaarvuti"
+  ],
+  "detective": [
+    "detektiiv",
+    "spioon",
+    "uurija"
+  ],
+  "diamond_suit": [
+    "kaart",
+    "mäng",
+    "mast",
+    "ruutu"
+  ],
+  "diamond_with_a_dot": [
+    "geomeetria",
+    "koomiks",
+    "punktiga romb",
+    "romb",
+    "sees",
+    "teemant"
+  ],
+  "diego_garcia": [
+    "lipp"
+  ],
+  "dim_button": [
+    "eredus",
+    "hämar",
+    "tuhm",
+    "tuhmistamisnupp"
+  ],
+  "disappointed_face": [
+    "kergendus",
+    "leevendus",
+    "nägu",
+    "pettunud"
+  ],
+  "disguised_face": [
+    "inkognito",
+    "maskeerima",
+    "maskeeritud nägu",
+    "nägu",
+    "nina",
+    "prillid"
+  ],
+  "divide": [
+    "÷",
+    "jagamine",
+    "jagamismärk",
+    "märk",
+    "matemaatika"
+  ],
+  "diving_mask": [
+    "akvalang",
+    "snorgeldamine",
+    "sukeldumine",
+    "sukeldumismask"
+  ],
+  "diya_lamp": [
+    "diya",
+    "diya-lamp",
+    "lamp",
+    "õli"
+  ],
+  "dizzy": [
+    "koomiks",
+    "peadpööritav",
+    "täht"
+  ],
+  "djibouti": [
+    "lipp"
+  ],
+  "dna": [
+    "bioloog",
+    "elu",
+    "evolutsioon",
+    "geen",
+    "geneetika"
+  ],
+  "dodo": [
+    "lind",
+    "mauritius",
+    "suur",
+    "väljasurev"
+  ],
+  "dog": [
+    "koer",
+    "lemmikloom"
+  ],
+  "dog_face": [
+    "koer",
+    "koera nägu",
+    "lemmikloom",
+    "nägu"
+  ],
+  "dollar_banknote": [
+    "dollar",
+    "pank",
+    "raha",
+    "rahatäht",
+    "valuuta"
+  ],
+  "dolphin": [
+    "delfiin",
+    "loib"
+  ],
+  "dominica": [
+    "lipp"
+  ],
+  "dominican_republic": [
+    "lipp"
+  ],
+  "door": [
+    "uks"
+  ],
+  "dotted_six_pointed_star": [
+    "õnn",
+    "punktiga kuusnurkne täht",
+    "täht"
+  ],
+  "double_curly_loop": [
+    "silmus",
+    "topelt",
+    "topeltsilmus"
+  ],
+  "double_exclamation_mark": [
+    "hüüumärk",
+    "topelthüüumärk"
+  ],
+  "doughnut": [
+    "magus",
+    "magustoit",
+    "sõõrik"
+  ],
+  "dove": [
+    "lind",
+    "rahu",
+    "tuvi"
+  ],
+  "down_arrow": [
+    "lõuna",
+    "nool",
+    "nool alla",
+    "suund"
+  ],
+  "down_left_arrow": [
+    "edel",
+    "nool",
+    "nool alla vasakule",
+    "suund"
+  ],
+  "down_right_arrow": [
+    "kagu",
+    "nool",
+    "nool alla paremale",
+    "suund"
+  ],
+  "downcast_face_with_sweat": [
+    "higi",
+    "külm",
+    "külma higiga kaetud nägu",
+    "nägu"
+  ],
+  "downwards_button": [
+    "alla",
+    "allanupp",
+    "nool",
+    "nupp"
+  ],
+  "dragon": [
+    "draakon",
+    "muinasjutt"
+  ],
+  "dragon_face": [
+    "draakon",
+    "draakoni nägu",
+    "muinasjutt",
+    "nägu"
+  ],
+  "dress": [
+    "kleit",
+    "riided"
+  ],
+  "drooling_face": [
+    "ila",
+    "ilastav nägu",
+    "nägu"
+  ],
+  "drop_of_blood": [
+    "meditsiin",
+    "menstruatsioon",
+    "veredoonorlus",
+    "veretilk"
+  ],
+  "droplet": [
+    "higi",
+    "ilm",
+    "koomiks",
+    "külm",
+    "piisk"
+  ],
+  "drum": [
+    "muusika",
+    "trumm",
+    "trummipulgad"
+  ],
+  "duck": [
+    "lind",
+    "part"
+  ],
+  "dumpling": [
+    "empanada",
+    "gyōza",
+    "jiaozi",
+    "pelmeen",
+    "pierogi"
+  ],
+  "dvd": [
+    "arvuti",
+    "blu-ray",
+    "ketas",
+    "optiline"
+  ],
+  "e_mail": [
+    "kiri",
+    "meil",
+    "meilisõnum",
+    "ümbrik"
+  ],
+  "eagle": [
+    "kotkas",
+    "lind"
+  ],
+  "ear": [
+    "keha",
+    "kõrv"
+  ],
+  "ear_of_corn": [
+    "mais",
+    "maisitõlvik",
+    "taim",
+    "tõlvik"
+  ],
+  "ear_with_hearing_aid": [
+    "juurdepääs",
+    "kuuldeaparaadiga kõrv",
+    "kuulmispuue"
+  ],
+  "ecuador": [
+    "lipp"
+  ],
+  "egg": [
+    "muna",
+    "toit"
+  ],
+  "eggplant": [
+    "baklažaan",
+    "köögivili",
+    "taim"
+  ],
+  "egypt": [
+    "lipp"
+  ],
+  "eight": [
+    "klahv"
+  ],
+  "eight_o_clock": [
+    "00",
+    "8",
+    "8:00",
+    "kaheksa",
+    "kell"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "kaheksa tipuga täht",
+    "täht"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "kaheksa tipuga tärn",
+    "tärn"
+  ],
+  "eight_thirty": [
+    "30",
+    "8",
+    "8:30",
+    "kell",
+    "pool",
+    "üheksa"
+  ],
+  "eject_button": [
+    "nupp",
+    "välja",
+    "väljutamisnupp"
+  ],
+  "el_salvador": [
+    "lipp"
+  ],
+  "electric_plug": [
+    "elekter",
+    "elektripistik",
+    "pistik"
+  ],
+  "elephant": [
+    "elevant"
+  ],
+  "elevator": [
+    "elevaator",
+    "lift",
+    "ligipääs",
+    "tõstuk"
+  ],
+  "eleven_o_clock": [
+    "00",
+    "11",
+    "11:00",
+    "kell",
+    "üksteist"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11:30",
+    "30",
+    "kell",
+    "kell pool kaksteist",
+    "pool kaksteist"
+  ],
+  "elf": [
+    "maagiline",
+    "päkapikk"
+  ],
+  "end_arrow": [
+    "lõpp",
+    "nool",
+    "nool end"
+  ],
+  "england": [
+    "lipp"
+  ],
+  "enraged_face": [
+    "mossitav",
+    "nägu",
+    "punane",
+    "tige",
+    "viha",
+    "vihane"
+  ],
+  "envelope": [
+    "e-post",
+    "kiri",
+    "post",
+    "ümbrik"
+  ],
+  "envelope_with_arrow": [
+    "e-kiri",
+    "nool",
+    "noolega ümbrik",
+    "saadetud",
+    "ümbrik"
+  ],
+  "equatorial_guinea": [
+    "lipp"
+  ],
+  "eritrea": [
+    "lipp"
+  ],
+  "estonia": [
+    "lipp"
+  ],
+  "eswatini": [
+    "lipp"
+  ],
+  "ethiopia": [
+    "lipp"
+  ],
+  "euro_banknote": [
+    "euro",
+    "pank",
+    "raha",
+    "rahatäht",
+    "valuuta"
+  ],
+  "european_union": [
+    "lipp"
+  ],
+  "evergreen_tree": [
+    "igihaljas",
+    "puu",
+    "taim"
+  ],
+  "ewe": [
+    "lammas"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "hüüumärk",
+    "küsimärgiga hüüumärk",
+    "küsimärk"
+  ],
+  "exploding_head": [
+    "plahvatav pea",
+    "šokeeritud"
+  ],
+  "expressionless_face": [
+    "ilmetu",
+    "mittemidagiütlev",
+    "nägu",
+    "väheütlev"
+  ],
+  "eye": [
+    "keha",
+    "silm"
+  ],
+  "eye_in_speech_bubble": [
+    "dialoog",
+    "jutumull",
+    "silm",
+    "silm jutumullis",
+    "tunnistaja"
+  ],
+  "eyes": [
+    "keha",
+    "nägu",
+    "silm",
+    "silmad"
+  ],
+  "face_blowing_a_kiss": [
+    "nägu",
+    "süda",
+    "suudlus",
+    "suudlust saatev nägu"
+  ],
+  "face_savoring_food": [
+    "maitsev",
+    "maitsvat toitu nautija nägu",
+    "naeratus",
+    "nägu",
+    "nautimine"
+  ],
+  "face_vomiting": [
+    "iiveldus",
+    "okse",
+    "oksendav nägu"
+  ],
+  "face_with_crossed_out_eyes": [
+    "nägu",
+    "oimetu"
+  ],
+  "face_with_hand_over_mouth": [
+    "kätt suul hoidev nägu",
+    "ups"
+  ],
+  "face_with_head_bandage": [
+    "kinniseotud",
+    "kinniseotud peaga nägu",
+    "nägu",
+    "side",
+    "vigastus"
+  ],
+  "face_with_medical_mask": [
+    "arst",
+    "haige",
+    "kirurgimaskiga kaetud nägu",
+    "külm",
+    "mask",
+    "nägu",
+    "ravim"
+  ],
+  "face_with_monocle": [
+    "monokliga nägu",
+    "vanamoeline"
+  ],
+  "face_with_raised_eyebrow": [
+    "kergitatud kulmudega nägu",
+    "skeptiline",
+    "umbusaldav"
+  ],
+  "face_with_steam_from_nose": [
+    "aur",
+    "nägu",
+    "nina",
+    "ninast auru ajav nägu"
+  ],
+  "face_with_symbols_on_mouth": [
+    "suul olevate sümbolitega nägu",
+    "vandumine"
+  ],
+  "face_with_thermometer": [
+    "haige",
+    "kraadiklaas",
+    "kraadiklaasiga nägu",
+    "nägu"
+  ],
+  "face_with_tongue": [
+    "keel",
+    "nägu",
+    "suust väljas keelega nägu"
+  ],
+  "face_without_mouth": [
+    "ilma suuta nägu",
+    "nägu",
+    "suu",
+    "vaikne",
+    "vaikus"
+  ],
+  "factory": [
+    "hoone",
+    "tehas"
+  ],
+  "factory_worker": [
+    "liinitööline",
+    "tehas",
+    "tehasetööline",
+    "tööline"
+  ],
+  "fairy": [
+    "haldjas",
+    "oberon",
+    "puck",
+    "titania"
+  ],
+  "falafel": [
+    "kikerhernes",
+    "lihapall"
+  ],
+  "falkland_islands": [
+    "lipp"
+  ],
+  "fallen_leaf": [
+    "langenud leht",
+    "langev",
+    "leht",
+    "taim"
+  ],
+  "family": [
+    "ema",
+    "isa",
+    "laps",
+    "perekond"
+  ],
+  "family_man_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_boy_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_man_girl_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss",
+    "tüdruk"
+  ],
+  "family_man_girl_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_man_man_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_man_boy_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_man_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_man_man_girl_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "poiss",
+    "tüdruk"
+  ],
+  "family_man_man_girl_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_man_woman_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_woman_boy_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_man_woman_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_man_woman_girl_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "naine",
+    "perekond",
+    "poiss",
+    "tüdruk"
+  ],
+  "family_man_woman_girl_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "mees",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_woman_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_woman_boy_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_woman_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_woman_girl_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss",
+    "tüdruk"
+  ],
+  "family_woman_girl_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_woman_woman_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_woman_woman_boy_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss"
+  ],
+  "family_woman_woman_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "family_woman_woman_girl_boy": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "poiss",
+    "tüdruk"
+  ],
+  "family_woman_woman_girl_girl": [
+    "ema",
+    "isa",
+    "laps",
+    "naine",
+    "perekond",
+    "tüdruk"
+  ],
+  "farmer": [
+    "aednik",
+    "talunik"
+  ],
+  "faroe_islands": [
+    "lipp"
+  ],
+  "fast_down_button": [
+    "alla",
+    "kiirkerimine alla",
+    "nool",
+    "topelt"
+  ],
+  "fast_forward_button": [
+    "edasi",
+    "edasikerimisnupp",
+    "kerimine",
+    "nool",
+    "topelt"
+  ],
+  "fast_reverse_button": [
+    "kerimine",
+    "kolmnurk",
+    "tagasi",
+    "tagasikerimise nupp",
+    "topelt"
+  ],
+  "fast_up_button": [
+    "kiirkerimine üles",
+    "nool",
+    "topelt"
+  ],
+  "fax_machine": [
+    "faks",
+    "faksimasin",
+    "masin"
+  ],
+  "fearful": [
+    "hirm",
+    "hirmunud nägu",
+    "hirmus",
+    "kartlik",
+    "nägu"
+  ],
+  "feather": [
+    "kerge",
+    "lendama",
+    "suled",
+    "sulg"
+  ],
+  "female_sign": [
+    "naine",
+    "naisesümbol",
+    "sümbol"
+  ],
+  "ferris_wheel": [
+    "lõbustuspark",
+    "vaateratas"
+  ],
+  "ferry": [
+    "laev",
+    "praam",
+    "sõiduk"
+  ],
+  "field_hockey": [
+    "maahoki",
+    "maahokikepp",
+    "mäng",
+    "pall",
+    "väljak"
+  ],
+  "fiji": [
+    "lipp"
+  ],
+  "file_cabinet": [
+    "dokumendikapp",
+    "dokument",
+    "kapp",
+    "register"
+  ],
+  "file_folder": [
+    "dokument",
+    "fail",
+    "kaust"
+  ],
+  "film_frames": [
+    "film",
+    "filmikaadrid",
+    "kaadrid",
+    "video"
+  ],
+  "film_projector": [
+    "film",
+    "filmiprojektor",
+    "kino",
+    "projektor",
+    "video"
+  ],
+  "finland": [
+    "lipp"
+  ],
+  "fire": [
+    "leek",
+    "tuli"
+  ],
+  "fire_engine": [
+    "auto",
+    "sõiduk",
+    "tuletõrje",
+    "tuletõrjeauto"
+  ],
+  "fire_extinguisher": [
+    "kustutamine",
+    "summutamine",
+    "tulekustuti",
+    "tuli"
+  ],
+  "firecracker": [
+    "dünamiit",
+    "ilutulestik",
+    "ilutulestikurakett",
+    "lõhkeaine"
+  ],
+  "firefighter": [
+    "tuletõrjeauto",
+    "tuletõrjuja"
+  ],
+  "fireworks": [
+    "ilutulestik",
+    "tähistamine"
+  ],
+  "first_quarter_moon": [
+    "ilm",
+    "kasvav poolkuu",
+    "kosmos",
+    "kuu",
+    "poolkuu"
+  ],
+  "first_quarter_moon_face": [
+    "ilm",
+    "kosmos",
+    "kuu",
+    "nägu",
+    "näoga kasvav kuu",
+    "poolkuu"
+  ],
+  "fish": [
+    "kala",
+    "sodiaak"
+  ],
+  "fish_cake_with_swirl": [
+    "keerdudega kalakotlet",
+    "kook",
+    "spiraal",
+    "tort"
+  ],
+  "fishing_pole": [
+    "kala",
+    "õng"
+  ],
+  "five": [
+    "klahv"
+  ],
+  "five_o_clock": [
+    "00",
+    "5",
+    "5:00",
+    "kell",
+    "viis"
+  ],
+  "five_thirty": [
+    "30",
+    "5",
+    "5:30",
+    "kell",
+    "kuus",
+    "pool"
+  ],
+  "flamingo": [
+    "lind",
+    "troopiline"
+  ],
+  "flashlight": [
+    "elekter",
+    "taskulamp",
+    "tööriist",
+    "valgus"
+  ],
+  "flat_shoe": [
+    "baleriina",
+    "madal king",
+    "paelteta king",
+    "sussking"
+  ],
+  "flatbread": [
+    "arepa",
+    "lameleib",
+    "lavašš",
+    "naan",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "bourbonide liilia",
+    "fleur-de-lis",
+    "prantsuse liilia"
+  ],
+  "flexed_biceps": [
+    "keha",
+    "lihas",
+    "muskel",
+    "pingutatud biitseps"
+  ],
+  "floppy_disk": [
+    "arvuti",
+    "diskett",
+    "ketas"
+  ],
+  "flower_playing_cards": [
+    "kaart",
+    "lill",
+    "mäng",
+    "mängukaardid"
+  ],
+  "flushed_face": [
+    "nägu",
+    "punastamine",
+    "punastav nägu"
+  ],
+  "fly": [
+    "haigus",
+    "kärbes",
+    "parm",
+    "roiskumine",
+    "toakärbes",
+    "tõuk",
+    "tsetsekärbes"
+  ],
+  "flying_disc": [
+    "taldrikulennutamine",
+    "visketaldrik"
+  ],
+  "flying_saucer": [
+    "lendav taldrik",
+    "ufo"
+  ],
+  "fog": [
+    "ilm",
+    "pilv",
+    "udu"
+  ],
+  "foggy": [
+    "ilm",
+    "udu",
+    "udune"
+  ],
+  "folded_hands": [
+    "aitäh",
+    "käed",
+    "palve",
+    "palveasendis käed",
+    "tänan",
+    "žest"
+  ],
+  "fondue": [
+    "fondüü",
+    "juust",
+    "nõu",
+    "šokolaad",
+    "sulatatud",
+    "šveitsi"
+  ],
+  "foot": [
+    "jalalaba",
+    "jalalöök",
+    "trampimine"
+  ],
+  "footprints": [
+    "jalajälg",
+    "jalajäljed",
+    "jälg",
+    "keha"
+  ],
+  "fork_and_knife": [
+    "kahvel",
+    "kahvel ja nuga",
+    "nuga",
+    "toit"
+  ],
+  "fork_and_knife_with_plate": [
+    "kahvel",
+    "kahvel, nuga ja taldrik",
+    "nuga",
+    "taldrik",
+    "toit"
+  ],
+  "fortune_cookie": [
+    "ennustus",
+    "õnneküpsis"
+  ],
+  "fountain": [
+    "purskkaev"
+  ],
+  "fountain_pen": [
+    "pastakas",
+    "sulepea"
+  ],
+  "four": [
+    "klahv"
+  ],
+  "four_leaf_clover": [
+    "leht",
+    "neli",
+    "nelja lehega ristik",
+    "ristik",
+    "taim"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4:00",
+    "kell",
+    "neli"
+  ],
+  "four_thirty": [
+    "30",
+    "4",
+    "4:30",
+    "kell",
+    "pool",
+    "viis"
+  ],
+  "fox": [
+    "loom",
+    "nägu",
+    "rebane",
+    "rebase nägu"
+  ],
+  "framed_picture": [
+    "kunst",
+    "maal",
+    "muuseum",
+    "pilt",
+    "raamitud pilt"
+  ],
+  "france": [
+    "lipp"
+  ],
+  "free_button": [
+    "nupp free",
+    "tasuta"
+  ],
+  "french_fries": [
+    "friikartul",
+    "friikartulid"
+  ],
+  "french_guiana": [
+    "lipp"
+  ],
+  "french_polynesia": [
+    "lipp"
+  ],
+  "french_southern_territories": [
+    "lipp"
+  ],
+  "fried_shrimp": [
+    "krevett",
+    "praetud",
+    "tempura"
+  ],
+  "frog": [
+    "konn",
+    "konna nägu",
+    "nägu"
+  ],
+  "front_facing_baby_chick": [
+    "tibu",
+    "väike tibu eestvaates"
+  ],
+  "frowning": [
+    "kulmu kortsutav nägu",
+    "kulmukortsutus",
+    "nägu"
+  ],
+  "frowning_face_with_open_mouth": [
+    "avatud",
+    "avatud suuga mossitav nägu",
+    "mossis",
+    "nägu",
+    "suu"
+  ],
+  "fu": [
+    "käsi",
+    "keha",
+    "keskmine",
+    "sõrm"
+  ],
+  "fuel_pump": [
+    "bensiin",
+    "kütus",
+    "kütusepump",
+    "pump",
+    "tankla"
+  ],
+  "full_moon": [
+    "ilm",
+    "kosmos",
+    "täiskuu"
+  ],
+  "full_moon_face": [
+    "ere",
+    "ilm",
+    "kosmos",
+    "kuu",
+    "nägu",
+    "näoga täiskuu",
+    "täiskuu"
+  ],
+  "funeral_urn": [
+    "matus",
+    "surm",
+    "tuhaurn",
+    "urn"
+  ],
+  "gabon": [
+    "lipp"
+  ],
+  "gambia": [
+    "lipp"
+  ],
+  "game_die": [
+    "mäng",
+    "täring"
+  ],
+  "garlic": [
+    "küüslauk",
+    "maitseaine"
+  ],
+  "gear": [
+    "hammasratas",
+    "tööriist"
+  ],
+  "gem_stone": [
+    "juveel",
+    "kalliskivi",
+    "romantika",
+    "teemant"
+  ],
+  "gemini": [
+    "kaksikud",
+    "sodiaak"
+  ],
+  "genie": [
+    "džinn"
+  ],
+  "georgia": [
+    "lipp"
+  ],
+  "germany": [
+    "lipp"
+  ],
+  "ghana": [
+    "lipp"
+  ],
+  "ghost": [
+    "kummitus",
+    "muinasjutt",
+    "nägu",
+    "olend",
+    "tont",
+    "viirastus"
+  ],
+  "gibraltar": [
+    "lipp"
+  ],
+  "giraffe": [
+    "kaelkirjak",
+    "laigud"
+  ],
+  "girl": [
+    "neiu",
+    "plika",
+    "tüdruk"
+  ],
+  "glass_of_milk": [
+    "jook",
+    "klaas",
+    "klaas piima",
+    "piim"
+  ],
+  "glasses": [
+    "mood",
+    "prillid",
+    "silm"
+  ],
+  "globe_showing_americas": [
+    "ameerika",
+    "ameerika mandrid gloobusel",
+    "gloobus",
+    "maa",
+    "maailm"
+  ],
+  "globe_showing_asia_australia": [
+    "aasia",
+    "aasia ja austraalia gloobusel",
+    "austraalia",
+    "gloobus",
+    "maa",
+    "maailm"
+  ],
+  "globe_showing_europe_africa": [
+    "aafrika",
+    "euroopa",
+    "euroopa ja aafrika gloobusel",
+    "gloobus",
+    "maa",
+    "maailm"
+  ],
+  "globe_with_meridians": [
+    "gloobus",
+    "maa",
+    "maailm",
+    "meridiaanid",
+    "meridiaanidega gloobus"
+  ],
+  "gloves": [
+    "käsi",
+    "kindad"
+  ],
+  "glowing_star": [
+    "helendav",
+    "sära",
+    "täht"
+  ],
+  "goal_net": [
+    "sport",
+    "värav",
+    "väravavõrk",
+    "võrk"
+  ],
+  "goat": [
+    "kaljukits",
+    "kits",
+    "sodiaak"
+  ],
+  "goblin": [
+    "fantaasia",
+    "jaapan",
+    "koletis",
+    "koll",
+    "mäekoll",
+    "muinasjutt",
+    "nägu",
+    "olend"
+  ],
+  "goggles": [
+    "kaitseprillid",
+    "keevitamine",
+    "silmakaitse",
+    "ujumine"
+  ],
+  "gorilla": [
+    "loom"
+  ],
+  "graduation_cap": [
+    "koolilõpumüts",
+    "lõpetamine",
+    "müts",
+    "riided"
+  ],
+  "grapes": [
+    "puuvili",
+    "taim",
+    "viinamari",
+    "viinamarjad"
+  ],
+  "greece": [
+    "lipp"
+  ],
+  "green_apple": [
+    "õun",
+    "puuvili",
+    "roheline",
+    "taim"
+  ],
+  "green_book": [
+    "raamat",
+    "roheline"
+  ],
+  "green_circle": [
+    "kera",
+    "ring",
+    "roheline"
+  ],
+  "green_heart": [
+    "roheline",
+    "süda"
+  ],
+  "green_salad": [
+    "roheline",
+    "salat",
+    "toit"
+  ],
+  "green_square": [
+    "nelinurk",
+    "roheline",
+    "ruut"
+  ],
+  "greenland": [
+    "lipp"
+  ],
+  "grenada": [
+    "lipp"
+  ],
+  "grimacing": [
+    "grimass",
+    "grimassitav nägu",
+    "nägu"
+  ],
+  "grin": [
+    "irve",
+    "naeratus",
+    "naerul silmade ja laia naeratusega nägu",
+    "nägu",
+    "silm"
+  ],
+  "grinning_cat": [
+    "avatud suuga naeratav kass",
+    "kass",
+    "lahti",
+    "naeratus",
+    "nägu",
+    "suu"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "irve",
+    "kass",
+    "lõbusate silmadega irvitav kass",
+    "naeratus",
+    "nägu",
+    "silm"
+  ],
+  "grinning_face": [
+    "irve",
+    "laia naeratusega nägu",
+    "naeratus",
+    "nägu"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "avatud",
+    "avatud suu ja naeratavate silmadega naerunägu",
+    "lahti",
+    "naeratus",
+    "nägu",
+    "silm",
+    "suu"
+  ],
+  "growing_heart": [
+    "kasvav",
+    "närviline",
+    "põnev",
+    "pulss",
+    "süda"
+  ],
+  "guadeloupe": [
+    "lipp"
+  ],
+  "guam": [
+    "lipp"
+  ],
+  "guard": [
+    "valvur"
+  ],
+  "guatemala": [
+    "lipp"
+  ],
+  "guernsey": [
+    "lipp"
+  ],
+  "guide_dog": [
+    "abi",
+    "juht",
+    "juhtkoer",
+    "koer",
+    "pime",
+    "vaegnägija"
+  ],
+  "guinea": [
+    "lipp"
+  ],
+  "guinea_bissau": [
+    "lipp"
+  ],
+  "guitar": [
+    "kitarr",
+    "muusika",
+    "pill"
+  ],
+  "guyana": [
+    "lipp"
+  ],
+  "haiti": [
+    "lipp"
+  ],
+  "hamburger": [
+    "burger"
+  ],
+  "hammer": [
+    "haamer",
+    "tööriist"
+  ],
+  "hammer_and_pick": [
+    "haamer",
+    "haamer ja kirka",
+    "kirka",
+    "tööriist"
+  ],
+  "hammer_and_wrench": [
+    "haamer",
+    "haamer ja mutrivõti",
+    "mutrivõti",
+    "tööriist"
+  ],
+  "hamster": [
+    "hamstri nägu",
+    "lemmikloom",
+    "nägu"
+  ],
+  "hand_with_fingers_splayed": [
+    "harali",
+    "harali sõrmedega käsi",
+    "käsi",
+    "keha",
+    "sõrm"
+  ],
+  "handbag": [
+    "käekott",
+    "kott",
+    "riided"
+  ],
+  "handshake": [
+    "käepigistus",
+    "käsi",
+    "kohtumine",
+    "tervitus"
+  ],
+  "hash": [
+    "klahv"
+  ],
+  "hatching_chick": [
+    "koorumine",
+    "kooruv tibu",
+    "tibu"
+  ],
+  "headphone": [
+    "kõrvaklapid"
+  ],
+  "headstone": [
+    "hauakivi",
+    "haud",
+    "kalmistu",
+    "surnuaed"
+  ],
+  "health_worker": [
+    "arst",
+    "meditsiiniõde",
+    "terapeut",
+    "tervishoid",
+    "tervishoiutöötaja"
+  ],
+  "hear_no_evil_monkey": [
+    "ahv",
+    "kaetud kõrvadega ahv",
+    "keelatud",
+    "keeld",
+    "kuri",
+    "kuulamine",
+    "nägu"
+  ],
+  "heard_mcdonald_islands": [
+    "lipp"
+  ],
+  "heart": [
+    "punane süda",
+    "süda"
+  ],
+  "heart_decoration": [
+    "süda",
+    "südamekujuline kaunistus"
+  ],
+  "heart_exclamation": [
+    "hüüumärk",
+    "kirjavahemärk",
+    "märk",
+    "süda",
+    "südamega hüüumärk"
+  ],
+  "heart_eyes": [
+    "armastus",
+    "naeratus",
+    "nägu",
+    "silm",
+    "süda",
+    "südamekujuliste silmadega naerunägu"
+  ],
+  "heart_suit": [
+    "ärtu",
+    "kaart",
+    "mäng",
+    "mast"
+  ],
+  "heart_with_arrow": [
+    "nool",
+    "noolega süda",
+    "romantika",
+    "süda"
+  ],
+  "heart_with_ribbon": [
+    "lindiga süda",
+    "lint",
+    "sõbrapäev",
+    "süda"
+  ],
+  "heavy_dollar_sign": [
+    "dollar",
+    "raha",
+    "suur dollarimärk",
+    "valuuta"
+  ],
+  "hedgehog": [
+    "okkaline",
+    "siil"
+  ],
+  "helicopter": [
+    "helikopter",
+    "sõiduk"
+  ],
+  "herb": [
+    "leht",
+    "maitsetaim",
+    "taim"
+  ],
+  "hibiscus": [
+    "hibisk",
+    "lill",
+    "taim"
+  ],
+  "high_heeled_shoe": [
+    "king",
+    "konts",
+    "kõrge kontsaga king",
+    "naine",
+    "riided"
+  ],
+  "high_speed_train": [
+    "kiirrong",
+    "raudtee",
+    "sõiduk"
+  ],
+  "high_voltage": [
+    "elekter",
+    "kõrgepinge",
+    "oht",
+    "pinge",
+    "šokk",
+    "välk"
+  ],
+  "hiking_boot": [
+    "matk",
+    "matkaja",
+    "matkamine",
+    "matkasaabas",
+    "saabas",
+    "seljakotimatk"
+  ],
+  "hindu_temple": [
+    "hindu",
+    "hinduism",
+    "hinduistlik tempel",
+    "tempel"
+  ],
+  "hippopotamus": [
+    "jõehobu",
+    "jõehobuke"
+  ],
+  "hole": [
+    "auk"
+  ],
+  "hollow_red_circle": [
+    "o",
+    "rõngas",
+    "seest tühi punane ringjoon",
+    "suur ringjoon"
+  ],
+  "honduras": [
+    "lipp"
+  ],
+  "honey_pot": [
+    "magus",
+    "meepott",
+    "mesi"
+  ],
+  "honeybee": [
+    "mesilane",
+    "putukas"
+  ],
+  "hong_kong_sar_china": [
+    "lipp"
+  ],
+  "hook": [
+    "kinnitamine",
+    "konks",
+    "kõver",
+    "püük",
+    "tõstmine"
+  ],
+  "horizontal_traffic_light": [
+    "foor",
+    "horisontaalne foor",
+    "liiklus"
+  ],
+  "horse": [
+    "hobune",
+    "ratsasport",
+    "võiduajamine"
+  ],
+  "horse_face": [
+    "hobune",
+    "hobuse nägu",
+    "nägu"
+  ],
+  "horse_racing": [
+    "hobune",
+    "hobuste võiduajamine",
+    "ratsutaja",
+    "võiduajamine"
+  ],
+  "hospital": [
+    "arst",
+    "haigla",
+    "hoone",
+    "meditsiin"
+  ],
+  "hot_beverage": [
+    "jook",
+    "kohv",
+    "kuum",
+    "tee"
+  ],
+  "hot_dog": [
+    "hotdog",
+    "viiner",
+    "vorst"
+  ],
+  "hot_face": [
+    "higistav",
+    "higistav nägu",
+    "kuumarabandus",
+    "näost punane",
+    "palavikuline"
+  ],
+  "hot_pepper": [
+    "pipar",
+    "taim",
+    "tuline"
+  ],
+  "hot_springs": [
+    "allikas",
+    "aur",
+    "kuum",
+    "kuumaveeallikad",
+    "soe"
+  ],
+  "hotel": [
+    "hoone",
+    "hotell"
+  ],
+  "hourglass_done": [
+    "kell",
+    "liiv",
+    "liivakell"
+  ],
+  "hourglass_not_done": [
+    "kell",
+    "liiv",
+    "voolava liivaga kell"
+  ],
+  "house": [
+    "kodu",
+    "maja"
+  ],
+  "house_with_garden": [
+    "aed",
+    "aiaga maja",
+    "kodu",
+    "maja"
+  ],
+  "houses": [
+    "hoone",
+    "maja",
+    "majad"
+  ],
+  "hugs": [
+    "kallistamine",
+    "kallistav nägu",
+    "kallistus",
+    "nägu"
+  ],
+  "hungary": [
+    "lipp"
+  ],
+  "hushed_face": [
+    "hämmingus",
+    "nägu",
+    "üllatunud",
+    "vaigistatud"
+  ],
+  "hut": [
+    "hütt",
+    "jurta",
+    "maja",
+    "tare"
+  ],
+  "ice": [
+    "jää",
+    "jääkuubik",
+    "külm",
+    "kuubik"
+  ],
+  "ice_cream": [
+    "jäätis",
+    "magus",
+    "magustoit"
+  ],
+  "ice_hockey": [
+    "jää",
+    "jäähoki",
+    "jäähokikepp",
+    "jäähokikepp ja litter",
+    "litter",
+    "mäng"
+  ],
+  "ice_skate": [
+    "jää",
+    "uisk"
+  ],
+  "iceland": [
+    "lipp"
+  ],
+  "id_button": [
+    "id",
+    "identiteet",
+    "nupp id"
+  ],
+  "in_hole": [
+    "auk",
+    "golf",
+    "golfilipp"
+  ],
+  "inbox_tray": [
+    "alus",
+    "kast",
+    "kiri",
+    "post",
+    "sissetulev post"
+  ],
+  "incoming_envelope": [
+    "e-post",
+    "kiri",
+    "meil",
+    "sissetulev ümbrik",
+    "ümbrik"
+  ],
+  "index_pointing_up": [
+    "käsi",
+    "keha",
+    "nimetissõrm",
+    "osutamine",
+    "sõrm",
+    "üles osutav sõrm"
+  ],
+  "india": [
+    "lipp"
+  ],
+  "indonesia": [
+    "lipp"
+  ],
+  "infinity": [
+    "igavesti",
+    "kõikehaarav",
+    "lõpmatu",
+    "lõpmatus"
+  ],
+  "information_source": [
+    "i",
+    "info",
+    "teabeallikas",
+    "teave"
+  ],
+  "innocent": [
+    "aupaistega naerunägu",
+    "fantaasia",
+    "halo",
+    "ingel",
+    "muinasjutt",
+    "naeratus",
+    "nägu",
+    "süütu"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "ladina",
+    "tähed",
+    "tähestik"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "ladina",
+    "tähed",
+    "väiketähed"
+  ],
+  "input_latin_uppercase": [
+    "abcd",
+    "ladina",
+    "suurtähed",
+    "tähed"
+  ],
+  "input_symbols": [
+    "sisestus",
+    "sümbolid"
+  ],
+  "iran": [
+    "lipp"
+  ],
+  "iraq": [
+    "lipp"
+  ],
+  "ireland": [
+    "lipp"
+  ],
+  "isle_of_man": [
+    "lipp"
+  ],
+  "israel": [
+    "lipp"
+  ],
+  "italy": [
+    "lipp"
+  ],
+  "jack_o_lantern": [
+    "halloween",
+    "kõrvits",
+    "kõrvitsalatern",
+    "latern"
+  ],
+  "jamaica": [
+    "lipp"
+  ],
+  "japan": [
+    "lipp"
+  ],
+  "japanese_acceptable_button": [
+    "\"vastuvõetav\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"vastuvõetav\"",
+    "可"
+  ],
+  "japanese_application_button": [
+    "\"rakendus\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"rakendus\"",
+    "申"
+  ],
+  "japanese_bargain_button": [
+    "\"soodne\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"soodne\"",
+    "得"
+  ],
+  "japanese_castle": [
+    "jaapan",
+    "jaapani loss",
+    "loss"
+  ],
+  "japanese_congratulations_button": [
+    "\"õnnitlused\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"õnnitlused\"",
+    "祝"
+  ],
+  "japanese_discount_button": [
+    "\"allahindlus\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"allahindlus\"",
+    "割"
+  ],
+  "japanese_dolls": [
+    "festival",
+    "jaapani nukud",
+    "nukk"
+  ],
+  "japanese_free_of_charge_button": [
+    "\"tasuta\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"tasuta\"",
+    "無"
+  ],
+  "japanese_here_button": [
+    "\"siin\"",
+    "jaapani keel",
+    "jaapani nupp \"siin\"",
+    "katakana",
+    "ココ"
+  ],
+  "japanese_monthly_amount_button": [
+    "\"kuutasu\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"kuutasu\"",
+    "月"
+  ],
+  "japanese_no_vacancy_button": [
+    "\"pole vaba\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"pole vaba\"",
+    "満"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "\"pole tasuta\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"pole tasuta\"",
+    "有"
+  ],
+  "japanese_open_for_business_button": [
+    "\"avatud\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"avatud\"",
+    "営"
+  ],
+  "japanese_passing_grade_button": [
+    "\"sooritatud\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"sooritatud\"",
+    "合"
+  ],
+  "japanese_post_office": [
+    "hoone",
+    "jaapani postkontor",
+    "post"
+  ],
+  "japanese_prohibited_button": [
+    "\"keelatud\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"keelatud\"",
+    "禁"
+  ],
+  "japanese_reserved_button": [
+    "\"reserveeritud\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"reserveeritud\"",
+    "指"
+  ],
+  "japanese_secret_button": [
+    "\"saladus\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"saladus\"",
+    "秘"
+  ],
+  "japanese_service_charge_button": [
+    "\"teenustasu\"",
+    "jaapani keel",
+    "jaapani nupp \"teenustasu\"",
+    "katakana",
+    "サ"
+  ],
+  "japanese_symbol_for_beginner": [
+    "algaja",
+    "algaja sümbol",
+    "kollane",
+    "leht",
+    "roheline"
+  ],
+  "japanese_vacancy_button": [
+    "\"vaba\"",
+    "ideogramm",
+    "jaapani keel",
+    "jaapani nupp \"vaba\"",
+    "空"
+  ],
+  "jeans": [
+    "püksid",
+    "riided",
+    "teksad"
+  ],
+  "jersey": [
+    "lipp"
+  ],
+  "joker": [
+    "jokker",
+    "kaart",
+    "mäng"
+  ],
+  "jordan": [
+    "lipp"
+  ],
+  "joy": [
+    "naer",
+    "nägu",
+    "pisar",
+    "rõõm",
+    "rõõmupisaratega nägu"
+  ],
+  "joy_cat": [
+    "kass",
+    "nägu",
+    "pisar",
+    "rõõm",
+    "rõõmupisarais kass"
+  ],
+  "joystick": [
+    "juhtpult",
+    "mäng",
+    "pult"
+  ],
+  "judge": [
+    "kohtunik",
+    "kohus",
+    "õigusemõistmine"
+  ],
+  "kaaba": [
+    "islam",
+    "moslem",
+    "usk"
+  ],
+  "kangaroo": [
+    "austraalia",
+    "hüpe",
+    "känguru",
+    "kukkur",
+    "kukkurloom"
+  ],
+  "kazakhstan": [
+    "lipp"
+  ],
+  "kenya": [
+    "lipp"
+  ],
+  "key": [
+    "lukk",
+    "parool",
+    "võti"
+  ],
+  "keyboard": [
+    "arvuti",
+    "klaviatuur"
+  ],
+  "kick_scooter": [
+    "tõukekas",
+    "tõukeratas"
+  ],
+  "kimono": [
+    "riided"
+  ],
+  "kiribati": [
+    "lipp"
+  ],
+  "kiss": [
+    "musi",
+    "suudlus"
+  ],
+  "kiss_man_man": [
+    "mees",
+    "musi",
+    "suudlus"
+  ],
+  "kiss_mark": [
+    "huuled",
+    "musi",
+    "romantika",
+    "süda",
+    "suudluse jälg"
+  ],
+  "kiss_woman_man": [
+    "mees",
+    "musi",
+    "naine",
+    "suudlus"
+  ],
+  "kiss_woman_woman": [
+    "musi",
+    "naine",
+    "suudlus"
+  ],
+  "kissing_cat": [
+    "kass",
+    "nägu",
+    "silm",
+    "suletud silmadega suudlev kass",
+    "suudlus"
+  ],
+  "kissing_face": [
+    "nägu",
+    "suudlev nägu",
+    "suudlus"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "nägu",
+    "silm",
+    "suletud",
+    "suletud silmadega suudlev nägu",
+    "suudlus"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "naeratavate silmadega suudlev nägu",
+    "naeratus",
+    "nägu",
+    "silm",
+    "suudlus"
+  ],
+  "kitchen_knife": [
+    "kööginuga",
+    "köök",
+    "nuga",
+    "relv",
+    "tööriist"
+  ],
+  "kite": [
+    "lennutamine",
+    "lohe",
+    "tuul",
+    "tuulelohe"
+  ],
+  "kiwi_fruit": [
+    "kiivi",
+    "puuvili",
+    "toit"
+  ],
+  "knot": [
+    "keerd",
+    "köis",
+    "nöör",
+    "siduma",
+    "sõlm"
+  ],
+  "koala": [
+    "koaala"
+  ],
+  "kosovo": [
+    "lipp"
+  ],
+  "kuwait": [
+    "lipp"
+  ],
+  "kyrgyzstan": [
+    "lipp"
+  ],
+  "lab_coat": [
+    "arst",
+    "katse",
+    "laborant",
+    "laborikittel",
+    "teadlane"
+  ],
+  "label": [
+    "silt"
+  ],
+  "lacrosse": [
+    "kahvpall",
+    "kahvpallikepp",
+    "kepp",
+    "pall",
+    "värav"
+  ],
+  "ladder": [
+    "aste",
+    "redel",
+    "ronima",
+    "trepp"
+  ],
+  "lady_beetle": [
+    "lepatriinu",
+    "põrnikas",
+    "putukas"
+  ],
+  "laos": [
+    "lipp"
+  ],
+  "laptop": [
+    "arvuti",
+    "sülearvuti"
+  ],
+  "large_blue_diamond": [
+    "geomeetria",
+    "romb",
+    "sinine",
+    "suur sinine romb",
+    "teemant"
+  ],
+  "large_orange_diamond": [
+    "geomeetria",
+    "oranž",
+    "romb",
+    "suur oranž romb",
+    "teemant"
+  ],
+  "last_quarter_moon": [
+    "ilm",
+    "kahanev poolkuu",
+    "kosmos",
+    "kuu",
+    "poolkuu"
+  ],
+  "last_quarter_moon_face": [
+    "ilm",
+    "kosmos",
+    "kuu",
+    "nägu",
+    "näoga kahanev kuu",
+    "poolkuu"
+  ],
+  "last_track_button": [
+    "eelmine",
+    "eelmise loo nupp",
+    "kolmnurk",
+    "lugu",
+    "nool",
+    "stseen"
+  ],
+  "latin_cross": [
+    "kristlus",
+    "ladina rist",
+    "rist",
+    "usk"
+  ],
+  "latvia": [
+    "lipp"
+  ],
+  "laughing": [
+    "avatud",
+    "avatud suu ja suletud silmadega naerunägu",
+    "lahti",
+    "naer",
+    "naeratus",
+    "nägu",
+    "rahul",
+    "suu"
+  ],
+  "leaf_fluttering_in_wind": [
+    "leht",
+    "taim",
+    "tuul",
+    "tuules lendlev leht"
+  ],
+  "leafy_green": [
+    "hiina kapsas",
+    "kapsas",
+    "lehtkapsas",
+    "lehtköögivili",
+    "lehtsalat"
+  ],
+  "lebanon": [
+    "lipp"
+  ],
+  "ledger": [
+    "arve",
+    "arveraamat",
+    "raamat"
+  ],
+  "left_arrow": [
+    "lääs",
+    "nool",
+    "nool vasakule",
+    "suund"
+  ],
+  "left_arrow_curving_right": [
+    "kaardus nool paremale",
+    "nool",
+    "parem"
+  ],
+  "left_facing_fist": [
+    "rusikas",
+    "vasakule",
+    "vasakule suunatud rusikas"
+  ],
+  "left_luggage": [
+    "hoiukapid",
+    "kapp",
+    "pagas"
+  ],
+  "left_right_arrow": [
+    "nool",
+    "nool paremale-vasakule"
+  ],
+  "left_speech_bubble": [
+    "dialoog",
+    "jutt",
+    "jutumull suunaga vasakule"
+  ],
+  "leg": [
+    "jalalöök",
+    "jalg",
+    "jäse"
+  ],
+  "lemon": [
+    "puuvili",
+    "sidrun",
+    "taim"
+  ],
+  "leo": [
+    "lõvi",
+    "sodiaak"
+  ],
+  "lesotho": [
+    "lipp"
+  ],
+  "level_slider": [
+    "liugur",
+    "muusika",
+    "tase"
+  ],
+  "liberia": [
+    "lipp"
+  ],
+  "libra": [
+    "kaalud",
+    "sodiaak"
+  ],
+  "libya": [
+    "lipp"
+  ],
+  "liechtenstein": [
+    "lipp"
+  ],
+  "light_bulb": [
+    "elekter",
+    "idee",
+    "lamp",
+    "pirn",
+    "valgus"
+  ],
+  "light_rail": [
+    "kergraudtee",
+    "raudtee",
+    "rong"
+  ],
+  "link": [
+    "lüli"
+  ],
+  "linked_paperclips": [
+    "kirjaklamber",
+    "klamber",
+    "ühendatud kirjaklambrid"
+  ],
+  "lion": [
+    "lõvi",
+    "nägu",
+    "sodiaak"
+  ],
+  "lipstick": [
+    "huulepulk",
+    "kosmeetika",
+    "meik"
+  ],
+  "lithuania": [
+    "lipp"
+  ],
+  "litter_in_bin_sign": [
+    "praht",
+    "prügikast",
+    "prügikasti silt"
+  ],
+  "lizard": [
+    "roomaja",
+    "sisalik"
+  ],
+  "llama": [
+    "alpaka",
+    "guanako",
+    "laama",
+    "vikunja",
+    "vill"
+  ],
+  "lobster": [
+    "homaar",
+    "homaarisupp",
+    "mereannid",
+    "sõrad"
+  ],
+  "locked": [
+    "lukk",
+    "lukus",
+    "suletud"
+  ],
+  "locked_with_key": [
+    "lukk",
+    "lukus",
+    "suletud",
+    "suletud lukk võtmega",
+    "võti"
+  ],
+  "locked_with_pen": [
+    "lukk",
+    "lukk ja pastakas",
+    "lukk ja sulepea",
+    "privaatsus",
+    "sulepea",
+    "tint"
+  ],
+  "locomotive": [
+    "aur",
+    "raudtee",
+    "rong",
+    "sõiduk",
+    "vedur"
+  ],
+  "lollipop": [
+    "komm",
+    "magus",
+    "magustoit",
+    "pulgakomm"
+  ],
+  "long_drum": [
+    "aafrika",
+    "djembe",
+    "rütm",
+    "trumm"
+  ],
+  "lotion_bottle": [
+    "emulsioon",
+    "emulsioonipudel",
+    "niisutav kreem",
+    "päevituskreem",
+    "šampoon"
+  ],
+  "loudspeaker": [
+    "avalik",
+    "kõne",
+    "vali",
+    "valjuhääldi"
+  ],
+  "love_hotel": [
+    "armastus",
+    "armuhotell",
+    "hoone",
+    "hotell"
+  ],
+  "love_letter": [
+    "armastus",
+    "armastuskiri",
+    "kiri",
+    "romantika",
+    "süda"
+  ],
+  "love_you_gesture": [
+    "armastust väljendav žest",
+    "ily",
+    "käsi"
+  ],
+  "luggage": [
+    "kohver",
+    "pakkimine",
+    "reis"
+  ],
+  "lungs": [
+    "hingamine",
+    "hingetõmme",
+    "kopsud",
+    "organ",
+    "sissehingamine",
+    "väljahingamine"
+  ],
+  "luxembourg": [
+    "lipp"
+  ],
+  "lying_face": [
+    "nägu",
+    "vale",
+    "valetav nägu"
+  ],
+  "macao_sar_china": [
+    "lipp"
+  ],
+  "madagascar": [
+    "lipp"
+  ],
+  "mage": [
+    "maag",
+    "nõiamoor",
+    "nõid",
+    "võlur"
+  ],
+  "magic_wand": [
+    "maagia",
+    "nõid",
+    "võlukepp",
+    "võlur"
+  ],
+  "magnet": [
+    "atraktsioon",
+    "hobuseraud"
+  ],
+  "magnifying_glass_tilted_left": [
+    "otsi",
+    "suurendusklaas",
+    "tööriist",
+    "vasakule kallutatud luup"
+  ],
+  "magnifying_glass_tilted_right": [
+    "otsi",
+    "paremale kallutatud luup",
+    "suurendusklaas",
+    "tööriist"
+  ],
+  "mahjong_red_dragon": [
+    "mahjong",
+    "mahjongi punane draakon",
+    "mäng",
+    "punane"
+  ],
+  "malawi": [
+    "lipp"
+  ],
+  "malaysia": [
+    "lipp"
+  ],
+  "maldives": [
+    "lipp"
+  ],
+  "male_sign": [
+    "mees",
+    "mehesümbol",
+    "sümbol"
+  ],
+  "mali": [
+    "lipp"
+  ],
+  "malta": [
+    "lipp"
+  ],
+  "mammoth": [
+    "karvane",
+    "kihv",
+    "mammut",
+    "suur",
+    "väljasurnud"
+  ],
+  "man": [
+    "mees"
+  ],
+  "man_artist": [
+    "kunstnik",
+    "mees",
+    "meeskunstnik",
+    "palett"
+  ],
+  "man_astronaut": [
+    "astronaut",
+    "kosmos",
+    "mees",
+    "meesastronaut",
+    "rakett"
+  ],
+  "man_bald": [
+    "kiilaspea",
+    "mees"
+  ],
+  "man_biking": [
+    "jalgratas",
+    "mees",
+    "meesrattur",
+    "ratas",
+    "rattur"
+  ],
+  "man_bouncing_ball": [
+    "mees",
+    "mees palliga",
+    "pall"
+  ],
+  "man_bowing": [
+    "kummardus",
+    "mees",
+    "sügavalt kummarduv mees",
+    "vabandus",
+    "žest"
+  ],
+  "man_cartwheeling": [
+    "hundiratas",
+    "hundiratast viskav mees",
+    "iluvõimlemine",
+    "mees",
+    "sport"
+  ],
+  "man_climbing": [
+    "mägironija",
+    "mäkke roniv mees"
+  ],
+  "man_cook": [
+    "kokk",
+    "mees",
+    "meeskokk"
+  ],
+  "man_curly_hair": [
+    "lokkis juuksed",
+    "mees"
+  ],
+  "man_dancing": [
+    "mees",
+    "tants",
+    "tantsiv mees"
+  ],
+  "man_detective": [
+    "detektiiv",
+    "mees",
+    "meesdetektiiv",
+    "spioon",
+    "uurija"
+  ],
+  "man_elf": [
+    "maagiline",
+    "meespäkapikk"
+  ],
+  "man_facepalming": [
+    "käega vastu pead lööv mees",
+    "meeleheide",
+    "mees",
+    "uskumatu"
+  ],
+  "man_factory_worker": [
+    "liinitööline",
+    "mees",
+    "meessoost tehasetööline",
+    "tehas",
+    "tööline"
+  ],
+  "man_fairy": [
+    "meeshaldjas",
+    "oberon",
+    "puck"
+  ],
+  "man_farmer": [
+    "aednik",
+    "farmer",
+    "mees",
+    "meesfarmer",
+    "põllumees"
+  ],
+  "man_feeding_baby": [
+    "beebi",
+    "beebit toitev mees",
+    "imetamine",
+    "mees",
+    "toitmine"
+  ],
+  "man_firefighter": [
+    "mees",
+    "meestuletõrjuja",
+    "tuletõrjeauto",
+    "tuletõrjuja"
+  ],
+  "man_frowning": [
+    "ilme",
+    "kulmu kortsutav mees",
+    "kulmukortsutus",
+    "mees"
+  ],
+  "man_genie": [
+    "džinn",
+    "meesdžinn"
+  ],
+  "man_gesturing_no": [
+    "eitavat žesti näitav mees",
+    "käed ristis",
+    "keelatud",
+    "mees",
+    "žest"
+  ],
+  "man_gesturing_ok": [
+    "käed pea peal",
+    "korras",
+    "nõustuvat žesti näitav mees",
+    "ok",
+    "žest"
+  ],
+  "man_getting_haircut": [
+    "ilusalong",
+    "juukselõikus",
+    "juuksur",
+    "mees",
+    "mees juuksuris"
+  ],
+  "man_getting_massage": [
+    "massaaž",
+    "mees",
+    "nägu",
+    "näomassaaž",
+    "näomassaaži saav mees"
+  ],
+  "man_golfing": [
+    "golf",
+    "golfi mängiv mees",
+    "mees"
+  ],
+  "man_guard": [
+    "mees",
+    "meesvalvur",
+    "valvur"
+  ],
+  "man_health_worker": [
+    "arst",
+    "meditsiin",
+    "meditsiiniõde",
+    "mees",
+    "meesarst"
+  ],
+  "man_in_lotus_position": [
+    "jooga",
+    "lootosasendis mees",
+    "meditatsioon"
+  ],
+  "man_in_manual_wheelchair": [
+    "ligipääs",
+    "manuaalratastoolis mees",
+    "manuaalratastoolis olev mees",
+    "mees",
+    "ratastool"
+  ],
+  "man_in_motorized_wheelchair": [
+    "elektriratastoolis mees",
+    "elektriratastoolis olev mees",
+    "ligipääs",
+    "mees",
+    "ratastool"
+  ],
+  "man_in_steamy_room": [
+    "leiliruum",
+    "leiliruumis olev mees",
+    "saun"
+  ],
+  "man_in_tuxedo": [
+    "mees",
+    "mees smokingis",
+    "mees smokingus",
+    "smoking"
+  ],
+  "man_judge": [
+    "kohus",
+    "mees",
+    "meeskohtunik",
+    "õigusemõistmine"
+  ],
+  "man_juggling": [
+    "mees",
+    "meesžonglöör",
+    "oskused",
+    "tasakaal",
+    "žongleerimine"
+  ],
+  "man_kneeling": [
+    "mees",
+    "põlvili",
+    "põlvitav"
+  ],
+  "man_lifting_weights": [
+    "jõutõstja",
+    "kang",
+    "mees",
+    "meesjõutõstja",
+    "tõstja"
+  ],
+  "man_mage": [
+    "meesmaag",
+    "võlur"
+  ],
+  "man_mechanic": [
+    "elektrik",
+    "mees",
+    "meesmehaanik",
+    "mehaanik",
+    "torulukksepp",
+    "torumees"
+  ],
+  "man_mountain_biking": [
+    "jalgratas",
+    "mägiratas",
+    "mees",
+    "meesmägirattur",
+    "rattur"
+  ],
+  "man_office_worker": [
+    "arhitekt",
+    "ärimees",
+    "juhataja",
+    "meeskontoritöötaja",
+    "valgekrae"
+  ],
+  "man_pilot": [
+    "lendur",
+    "lennuk",
+    "mees",
+    "meespiloot",
+    "piloot"
+  ],
+  "man_playing_handball": [
+    "käsipall",
+    "käsipalli mängiv mees",
+    "mees",
+    "pall",
+    "sport"
+  ],
+  "man_playing_water_polo": [
+    "inimene",
+    "mees",
+    "sport",
+    "veepall",
+    "veepalli mängiv mees"
+  ],
+  "man_police_officer": [
+    "konstaabel",
+    "mees",
+    "meespolitseinik",
+    "politseinik"
+  ],
+  "man_pouting": [
+    "ilme",
+    "mees",
+    "mossis",
+    "mossitav"
+  ],
+  "man_raising_hand": [
+    "käsi",
+    "kätt tõstev mees",
+    "mees",
+    "tervitus",
+    "žest"
+  ],
+  "man_red_hair": [
+    "mees",
+    "punased juuksed"
+  ],
+  "man_rowing_boat": [
+    "aerupaadiga mees",
+    "aerupaat",
+    "mees",
+    "paat"
+  ],
+  "man_running": [
+    "jooksev mees",
+    "jooksja",
+    "maraton",
+    "mees",
+    "võistlus"
+  ],
+  "man_s_shoe": [
+    "king",
+    "mees",
+    "meesteking",
+    "riided"
+  ],
+  "man_scientist": [
+    "bioloog",
+    "füüsik",
+    "insener",
+    "keemik",
+    "meesteadlane"
+  ],
+  "man_shrugging": [
+    "kehitus",
+    "mees",
+    "õlakehitus",
+    "õlgu kehitav mees",
+    "ükskõiksus"
+  ],
+  "man_singer": [
+    "artist",
+    "laulja",
+    "mees",
+    "meeslaulja",
+    "staar"
+  ],
+  "man_standing": [
+    "mees",
+    "seisev",
+    "seismine"
+  ],
+  "man_student": [
+    "lõpetaja",
+    "mees",
+    "meesõpilane",
+    "õpilane"
+  ],
+  "man_superhero": [
+    "hea",
+    "kangelane",
+    "mees",
+    "meeskangelane",
+    "supervõimed"
+  ],
+  "man_supervillain": [
+    "kuri",
+    "kurikael",
+    "kurjategija",
+    "mees",
+    "meessoost superkurikael",
+    "supervõimed"
+  ],
+  "man_surfing": [
+    "mees",
+    "meessurfar",
+    "surf",
+    "surfaja",
+    "surfar"
+  ],
+  "man_swimming": [
+    "mees",
+    "meesujuja",
+    "ujuja",
+    "ujumine"
+  ],
+  "man_teacher": [
+    "juhendaja",
+    "mees",
+    "meesõpetaja",
+    "õpetaja",
+    "professor"
+  ],
+  "man_technologist": [
+    "arendaja",
+    "mees",
+    "meesprogrammeerija",
+    "programmeerija",
+    "tarkvara",
+    "tehnoloog"
+  ],
+  "man_tipping_hand": [
+    "abi",
+    "infoleti meestöötaja",
+    "mees",
+    "teave"
+  ],
+  "man_vampire": [
+    "dracula",
+    "meesvampiir",
+    "surematu"
+  ],
+  "man_walking": [
+    "jalakäija",
+    "jalutamine",
+    "kõndimine",
+    "kõndiv mees",
+    "mees"
+  ],
+  "man_wearing_turban": [
+    "mees",
+    "mees turbaniga",
+    "turban"
+  ],
+  "man_white_hair": [
+    "heledad juuksed",
+    "mees"
+  ],
+  "man_with_veil": [
+    "loor",
+    "mees",
+    "mees looriga"
+  ],
+  "man_with_white_cane": [
+    "ligipääs",
+    "mees",
+    "pime",
+    "valge kepiga mees"
+  ],
+  "man_zombie": [
+    "elav surnu",
+    "meeszombi",
+    "surematu"
+  ],
+  "mango": [
+    "puuvili",
+    "troopiline"
+  ],
+  "mantelpiece_clock": [
+    "kaminakell",
+    "kell"
+  ],
+  "manual_wheelchair": [
+    "ligipääs",
+    "manuaalratastool",
+    "ratastool"
+  ],
+  "map_of_japan": [
+    "jaapan",
+    "jaapani kaart",
+    "kaart"
+  ],
+  "maple_leaf": [
+    "langev",
+    "leht",
+    "taim",
+    "vaher",
+    "vahtraleht"
+  ],
+  "marshall_islands": [
+    "lipp"
+  ],
+  "martial_arts_uniform": [
+    "džuudo",
+    "karate",
+    "riietus",
+    "võitluskunstid",
+    "võitluskunstide riietus"
+  ],
+  "martinique": [
+    "lipp"
+  ],
+  "mate": [
+    "jook",
+    "tee"
+  ],
+  "mauritania": [
+    "lipp"
+  ],
+  "mauritius": [
+    "lipp"
+  ],
+  "mayotte": [
+    "lipp"
+  ],
+  "meat_on_bone": [
+    "kondiga liha",
+    "kont",
+    "liha",
+    "luu"
+  ],
+  "mechanic": [
+    "elektrik",
+    "mehaanik",
+    "torulukksepp",
+    "torumees"
+  ],
+  "mechanical_arm": [
+    "ligipääs",
+    "mehaaniline käsi",
+    "protees"
+  ],
+  "mechanical_leg": [
+    "ligipääs",
+    "mehaaniline jalg",
+    "protees"
+  ],
+  "medical_symbol": [
+    "asklepios",
+    "meditsiin",
+    "meditsiinisümbol"
+  ],
+  "megaphone": [
+    "kõne",
+    "megafon"
+  ],
+  "melon": [
+    "puuvili",
+    "taim"
+  ],
+  "memo": [
+    "märge",
+    "pliiats"
+  ],
+  "men_holding_hands": [
+    "käed",
+    "käest kinni hoidvad mehed",
+    "kaks meest hoiavad käest kinni",
+    "kaksikud",
+    "mehed",
+    "paar"
+  ],
+  "men_s_room": [
+    "mees",
+    "meeste-wc",
+    "tualett",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "jänku",
+    "kõrvad",
+    "mehed",
+    "pidutsevad jänesekõrvadega mehed",
+    "tants"
+  ],
+  "men_wrestling": [
+    "inimesed",
+    "maadlevad mehed",
+    "maadlus",
+    "mees",
+    "sport"
+  ],
+  "menorah": [
+    "küünlajalg",
+    "menoraa",
+    "usk"
+  ],
+  "mermaid": [
+    "merineitsi",
+    "naisnäkk"
+  ],
+  "merman": [
+    "meesnäkk",
+    "triton"
+  ],
+  "merperson": [
+    "meesnäkk",
+    "merineitsi",
+    "naisnäkk",
+    "näkk"
+  ],
+  "metro": [
+    "metroo",
+    "rong",
+    "sõiduk"
+  ],
+  "mexico": [
+    "lipp"
+  ],
+  "microbe": [
+    "amööb",
+    "bakter",
+    "mikroob",
+    "viirus"
+  ],
+  "micronesia": [
+    "lipp"
+  ],
+  "microphone": [
+    "karaoke",
+    "mikrofon"
+  ],
+  "microscope": [
+    "mikroskoop",
+    "tööriist"
+  ],
+  "military_helmet": [
+    "armee",
+    "kiiver",
+    "sõdur",
+    "sõdurikiiver",
+    "sõjavägi"
+  ],
+  "military_medal": [
+    "medal",
+    "sõjamedal",
+    "sõjavägi"
+  ],
+  "milky_way": [
+    "kosmos",
+    "linnutee",
+    "tähed"
+  ],
+  "minibus": [
+    "buss",
+    "sõiduk",
+    "väikebuss"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "matemaatika",
+    "miinus",
+    "miinusmärk"
+  ],
+  "mirror": [
+    "peegel",
+    "peegeldi",
+    "peegeldus"
+  ],
+  "moai": [
+    "kuju",
+    "nägu"
+  ],
+  "mobile_phone": [
+    "mobiil",
+    "mobiiltelefon",
+    "telefon"
+  ],
+  "mobile_phone_off": [
+    "mobiil",
+    "telefon",
+    "väljalülitatud mobiiltelefon",
+    "väljas"
+  ],
+  "mobile_phone_with_arrow": [
+    "kõne",
+    "mobiil",
+    "nool",
+    "noolega mobiiltelefon",
+    "telefon"
+  ],
+  "moldova": [
+    "lipp"
+  ],
+  "monaco": [
+    "lipp"
+  ],
+  "money_bag": [
+    "dollar",
+    "kott",
+    "raha",
+    "rahakott",
+    "rahapaun"
+  ],
+  "money_mouth_face": [
+    "nägu",
+    "nägu, millel on raha suus",
+    "raha",
+    "suu"
+  ],
+  "money_with_wings": [
+    "dollar",
+    "pank",
+    "raha",
+    "tiibadega raha",
+    "tiivad"
+  ],
+  "mongolia": [
+    "lipp"
+  ],
+  "monkey": [
+    "ahv"
+  ],
+  "monkey_face": [
+    "ahv",
+    "ahvi nägu",
+    "nägu"
+  ],
+  "monorail": [
+    "raudtee",
+    "rong",
+    "sõiduk",
+    "üherööpmeline raudtee"
+  ],
+  "montenegro": [
+    "lipp"
+  ],
+  "montserrat": [
+    "lipp"
+  ],
+  "moon_cake": [
+    "festival",
+    "kuukook",
+    "sügis",
+    "yuèbǐng"
+  ],
+  "moon_viewing_ceremony": [
+    "festival",
+    "kuu",
+    "kuutseremoonia",
+    "tseremoonia"
+  ],
+  "morocco": [
+    "lipp"
+  ],
+  "mosque": [
+    "islam",
+    "mošee",
+    "moslem",
+    "usk"
+  ],
+  "mosquito": [
+    "haigus",
+    "malaaria",
+    "palavik",
+    "putukas",
+    "sääsk",
+    "viirus"
+  ],
+  "motor_boat": [
+    "mootorpaat",
+    "paat",
+    "sõiduk"
+  ],
+  "motor_scooter": [
+    "motoroller",
+    "skuuter"
+  ],
+  "motorcycle": [
+    "mootorratas",
+    "võidusõit"
+  ],
+  "motorized_wheelchair": [
+    "elektriratastool",
+    "ligipääs",
+    "ratastool"
+  ],
+  "motorway": [
+    "kiirtee",
+    "tänav"
+  ],
+  "mount_fuji": [
+    "fuji",
+    "fuji mägi",
+    "mägi"
+  ],
+  "mountain": [
+    "mägi"
+  ],
+  "mountain_cableway": [
+    "gondel",
+    "köis",
+    "köistee mägedes",
+    "mägi",
+    "sõiduk",
+    "vagun"
+  ],
+  "mountain_railway": [
+    "mägi",
+    "mägiraudtee",
+    "raudtee",
+    "rong",
+    "vagun"
+  ],
+  "mouse": [
+    "hiir"
+  ],
+  "mouse_face": [
+    "hiir",
+    "hiire nägu",
+    "nägu"
+  ],
+  "mouse_trap": [
+    "hiirelõks",
+    "lõks",
+    "püünis",
+    "sööt"
+  ],
+  "mouth": [
+    "huuled",
+    "suu"
+  ],
+  "movie_camera": [
+    "film",
+    "filmikaamera",
+    "kaamera",
+    "video"
+  ],
+  "mozambique": [
+    "lipp"
+  ],
+  "mrs_claus": [
+    "abikaasa",
+    "jõuluvana"
+  ],
+  "multiply": [
+    "korrutamine",
+    "korrutusmärk",
+    "suur korrutusmärk",
+    "x"
+  ],
+  "mushroom": [
+    "mürgiseen",
+    "seen"
+  ],
+  "musical_keyboard": [
+    "klahvpill",
+    "klaver",
+    "muusika",
+    "pill"
+  ],
+  "musical_note": [
+    "muusika",
+    "noot"
+  ],
+  "musical_notes": [
+    "muusika",
+    "noodid",
+    "noot"
+  ],
+  "musical_score": [
+    "muusika",
+    "noodijoonestik",
+    "noot"
+  ],
+  "muted_speaker": [
+    "heli",
+    "kõlar",
+    "vaigistatud kõlar",
+    "vaikne"
+  ],
+  "mx_claus": [
+    "päkapikk",
+    "päkapikk, jõulud",
+    "päkats"
+  ],
+  "myanmar_burma": [
+    "lipp"
+  ],
+  "nail_polish": [
+    "hooldus",
+    "keha",
+    "kosmeetika",
+    "küünelakk",
+    "küüs",
+    "lakk",
+    "maniküür"
+  ],
+  "name_badge": [
+    "märk",
+    "nimesilt",
+    "nimi"
+  ],
+  "namibia": [
+    "lipp"
+  ],
+  "national_park": [
+    "park",
+    "rahvuspark"
+  ],
+  "nauru": [
+    "lipp"
+  ],
+  "nauseated_face": [
+    "iiveldus",
+    "iiveldust tundev nägu",
+    "nägu",
+    "okse"
+  ],
+  "nazar_amulet": [
+    "amulett",
+    "helmes",
+    "kuri silm",
+    "nazari amulett",
+    "nazari silm",
+    "talisman"
+  ],
+  "necktie": [
+    "lips",
+    "riided"
+  ],
+  "nepal": [
+    "lipp"
+  ],
+  "nerd_face": [
+    "friik",
+    "nägu",
+    "nohik",
+    "nohiku nägu"
+  ],
+  "nesting_dolls": [
+    "matrjoška",
+    "matrjoškad",
+    "nukk",
+    "vene"
+  ],
+  "netherlands": [
+    "lipp"
+  ],
+  "neutral_face": [
+    "erapooletu nägu",
+    "nägu",
+    "neutraalne",
+    "surmtõsine"
+  ],
+  "new_button": [
+    "nupp new",
+    "uus"
+  ],
+  "new_caledonia": [
+    "lipp"
+  ],
+  "new_moon": [
+    "ilm",
+    "kosmos",
+    "kuu",
+    "noorkuu",
+    "pime"
+  ],
+  "new_moon_face": [
+    "ilm",
+    "kosmos",
+    "kuu",
+    "nägu",
+    "näoga noorkuu"
+  ],
+  "new_zealand": [
+    "lipp"
+  ],
+  "newspaper": [
+    "ajaleht",
+    "uudised"
+  ],
+  "next_track_button": [
+    "järgmine",
+    "järgmise loo nupp",
+    "kolmnurk",
+    "lugu",
+    "nool"
+  ],
+  "ng_button": [
+    "ng",
+    "nupp ng"
+  ],
+  "nicaragua": [
+    "lipp"
+  ],
+  "niger": [
+    "lipp"
+  ],
+  "nigeria": [
+    "lipp"
+  ],
+  "night_with_stars": [
+    "ilm",
+    "öine tähistaevas",
+    "öö",
+    "täht"
+  ],
+  "nine": [
+    "klahv"
+  ],
+  "nine_o_clock": [
+    "00",
+    "9",
+    "9:00",
+    "kell",
+    "üheksa"
+  ],
+  "nine_thirty": [
+    "30",
+    "9",
+    "9:30",
+    "kell",
+    "kümme",
+    "pool"
+  ],
+  "ninja": [
+    "jaapan",
+    "salakuulaja",
+    "sõdalane"
+  ],
+  "niue": [
+    "lipp"
+  ],
+  "no_bicycles": [
+    "jalgratas",
+    "jalgrattad keelatud",
+    "keelatud",
+    "sõiduk"
+  ],
+  "no_entry": [
+    "keelatud",
+    "liiklus",
+    "sisenemine"
+  ],
+  "no_littering": [
+    "keelatud",
+    "risustamine"
+  ],
+  "no_mobile_phones": [
+    "ei",
+    "keelatud",
+    "mobiil",
+    "telefon",
+    "telefonid on keelatud"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "alaealine",
+    "alla 18-aastastele keelatud",
+    "kaheksateist",
+    "keelatud",
+    "vanusepiirang"
+  ],
+  "no_pedestrians": [
+    "jalakäija",
+    "jalakäijad keelatud",
+    "keelatud"
+  ],
+  "no_smoking": [
+    "keelatud",
+    "suitsetamine"
+  ],
+  "non_potable_water": [
+    "joodav",
+    "joomiseks kõlbmatu vesi",
+    "keelatud",
+    "vesi"
+  ],
+  "norfolk_island": [
+    "lipp"
+  ],
+  "north_korea": [
+    "lipp"
+  ],
+  "north_macedonia": [
+    "lipp"
+  ],
+  "northern_mariana_islands": [
+    "lipp"
+  ],
+  "norway": [
+    "lipp"
+  ],
+  "nose": [
+    "keha",
+    "nina"
+  ],
+  "notebook": [
+    "päevik",
+    "raamat"
+  ],
+  "notebook_with_decorative_cover": [
+    "dekoratiivse kaanega märkmik",
+    "kaaned",
+    "märkmik",
+    "raamat"
+  ],
+  "nut_and_bolt": [
+    "mutter",
+    "polt",
+    "polt ja mutter",
+    "tööriist"
+  ],
+  "o_button_blood_type": [
+    "nupp 0 (veregrupp)",
+    "o",
+    "punane",
+    "veri"
+  ],
+  "ocean": [
+    "ilm",
+    "ookean",
+    "veelaine",
+    "vesi"
+  ],
+  "octopus": [
+    "kaheksajalg"
+  ],
+  "oden": [
+    "kebab",
+    "mereannid",
+    "pulk"
+  ],
+  "office_building": [
+    "hoone",
+    "kontorihoone",
+    "maja"
+  ],
+  "office_worker": [
+    "ametnik",
+    "arhitekt",
+    "ärimees",
+    "juhataja",
+    "kontoritöötaja",
+    "valgekrae"
+  ],
+  "ogre": [
+    "fantaasia",
+    "jaapan",
+    "koletis",
+    "koll",
+    "muinasjutt",
+    "nägu",
+    "olend",
+    "sookoll"
+  ],
+  "oil_drum": [
+    "õli",
+    "õlitünn",
+    "tünn"
+  ],
+  "ok_button": [
+    "nupp ok",
+    "ok"
+  ],
+  "ok_hand": [
+    "käsi",
+    "keha",
+    "ok-käemärk"
+  ],
+  "old_key": [
+    "lukk",
+    "vana",
+    "võti"
+  ],
+  "old_man": [
+    "eakas mees",
+    "mees",
+    "vana"
+  ],
+  "old_woman": [
+    "eakas naine",
+    "naine",
+    "vana"
+  ],
+  "older_person": [
+    "eakas",
+    "sooliselt neutraalne",
+    "vana"
+  ],
+  "olive": [
+    "oliiv",
+    "toit"
+  ],
+  "om": [
+    "hindu",
+    "hinduism",
+    "usk"
+  ],
+  "oman": [
+    "lipp"
+  ],
+  "on_arrow": [
+    "märk",
+    "nool",
+    "nool on!"
+  ],
+  "oncoming_automobile": [
+    "auto",
+    "auto eestvaates",
+    "eestvaade",
+    "sõiduk"
+  ],
+  "oncoming_bus": [
+    "buss",
+    "buss eestvaates",
+    "eestvaade"
+  ],
+  "oncoming_fist": [
+    "käsi",
+    "keha",
+    "löök",
+    "rusikalöök",
+    "rusikas"
+  ],
+  "oncoming_police_car": [
+    "auto",
+    "eestvaade",
+    "politsei",
+    "politseiauto eestvaates",
+    "sõiduk"
+  ],
+  "oncoming_taxi": [
+    "eestvaade",
+    "sõiduk",
+    "takso",
+    "takso eestvaates"
+  ],
+  "one": [
+    "klahv"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1:00",
+    "kell",
+    "üks"
+  ],
+  "one_piece_swimsuit": [
+    "trikoo",
+    "ujumiskostüüm",
+    "ujumistrikoo"
+  ],
+  "one_thirty": [
+    "1",
+    "1:30",
+    "30",
+    "kaks",
+    "kell",
+    "pool"
+  ],
+  "onion": [
+    "maitseaine",
+    "sibul"
+  ],
+  "open_book": [
+    "avatud",
+    "raamat"
+  ],
+  "open_file_folder": [
+    "avatud",
+    "dokument",
+    "fail",
+    "kaust"
+  ],
+  "open_hands": [
+    "avatud",
+    "avatud käed",
+    "käsi",
+    "keha"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "avatud",
+    "avatud postkast langetatud lipuga",
+    "postkast"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "avatud",
+    "avatud postkast tõstetud lipuga",
+    "postkast"
+  ],
+  "open_mouth": [
+    "avatud",
+    "avatud suuga nägu",
+    "kaastunne",
+    "lahti",
+    "nägu",
+    "suu"
+  ],
+  "ophiuchus": [
+    "maokandja",
+    "sodiaak"
+  ],
+  "optical_disk": [
+    "arvuti",
+    "cd",
+    "dvd",
+    "ketas",
+    "optiline"
+  ],
+  "orange_book": [
+    "oranž",
+    "raamat"
+  ],
+  "orange_circle": [
+    "kera",
+    "oranž",
+    "ring"
+  ],
+  "orange_heart": [
+    "oranž",
+    "oranž süda"
+  ],
+  "orange_square": [
+    "nelinurk",
+    "oranž",
+    "ruut"
+  ],
+  "orangutan": [
+    "inimahv"
+  ],
+  "orthodox_cross": [
+    "kristlus",
+    "õigeusu rist",
+    "rist",
+    "usk"
+  ],
+  "otter": [
+    "jõgi",
+    "kala",
+    "saarmas",
+    "udras"
+  ],
+  "outbox_tray": [
+    "alus",
+    "kast",
+    "kiri",
+    "post",
+    "väljaminev post"
+  ],
+  "owl": [
+    "lind",
+    "öökull"
+  ],
+  "ox": [
+    "härg",
+    "sodiaak",
+    "sõnn",
+    "veis"
+  ],
+  "oyster": [
+    "auster",
+    "elus",
+    "karp",
+    "pärl"
+  ],
+  "p_button": [
+    "nupp p",
+    "parkimine",
+    "parkla"
+  ],
+  "package": [
+    "kast",
+    "pakk"
+  ],
+  "page_facing_up": [
+    "dokument",
+    "leht",
+    "paberilehe eestvaade"
+  ],
+  "page_with_curl": [
+    "dokument",
+    "kaardunud paberileht",
+    "leht"
+  ],
+  "pager": [
+    "peiler",
+    "piipar"
+  ],
+  "paintbrush": [
+    "pintsel",
+    "värvimine"
+  ],
+  "pakistan": [
+    "lipp"
+  ],
+  "palau": [
+    "lipp"
+  ],
+  "palestinian_territories": [
+    "lipp"
+  ],
+  "palm_tree": [
+    "palm",
+    "palmipuu",
+    "puu",
+    "taim"
+  ],
+  "palms_up_together": [
+    "palve",
+    "peopesad üleval koos"
+  ],
+  "panama": [
+    "lipp"
+  ],
+  "pancakes": [
+    "crêpe",
+    "pannkoogid",
+    "pannkook",
+    "toit"
+  ],
+  "panda": [
+    "nägu"
+  ],
+  "paperclip": [
+    "kirjaklamber",
+    "klamber"
+  ],
+  "papua_new_guinea": [
+    "lipp"
+  ],
+  "parachute": [
+    "langevari",
+    "langevarjuga hüppamine",
+    "langevarjuhüpe",
+    "langevarjur"
+  ],
+  "paraguay": [
+    "lipp"
+  ],
+  "parrot": [
+    "jutt",
+    "lind",
+    "papagoi",
+    "piraat"
+  ],
+  "part_alternation_mark": [
+    "märk",
+    "osa",
+    "osa vaheldumise märk"
+  ],
+  "partying_face": [
+    "müts",
+    "peovile",
+    "pidu",
+    "pidutsemine",
+    "pidutsev nägu"
+  ],
+  "passenger_ship": [
+    "laev",
+    "reisija",
+    "reisilaev",
+    "sõiduk"
+  ],
+  "passport_control": [
+    "kontroll",
+    "pass",
+    "passikontroll"
+  ],
+  "pause_button": [
+    "paus",
+    "pausinupp",
+    "topelt",
+    "vertikaalne"
+  ],
+  "paw_prints": [
+    "jalg",
+    "jälg",
+    "käpajäljed",
+    "käpp"
+  ],
+  "peace_symbol": [
+    "rahu",
+    "rahu sümbol"
+  ],
+  "peach": [
+    "puuvili",
+    "taim",
+    "virsik"
+  ],
+  "peacock": [
+    "eneseimetlus",
+    "hooplemine",
+    "lind",
+    "paabulind",
+    "uhkus"
+  ],
+  "peanuts": [
+    "maapähkel",
+    "maapähklid",
+    "pähkel",
+    "toit"
+  ],
+  "pear": [
+    "pirn",
+    "puuvili",
+    "taim"
+  ],
+  "pen": [
+    "pastapliiats",
+    "pliiats"
+  ],
+  "pencil": [
+    "pliiats"
+  ],
+  "penguin": [
+    "pingviin"
+  ],
+  "pensive_face": [
+    "mõtlik",
+    "nägu",
+    "nukker"
+  ],
+  "people_holding_hands": [
+    "hoiavad käest",
+    "hoiavad käest kinni",
+    "inimene",
+    "inimesed hoiavad käest kinni",
+    "käed",
+    "paar"
+  ],
+  "people_hugging": [
+    "hüvastijätt",
+    "kallistavad inimesed",
+    "kallistus",
+    "tänu",
+    "tervitus"
+  ],
+  "people_with_bunny_ears": [
+    "jänesekõrvadega tüdrukud",
+    "jänku",
+    "kõrvad",
+    "pidutsevad jänesekõrvadega inimesed",
+    "tants",
+    "tüdrukud"
+  ],
+  "people_wrestling": [
+    "inimesed",
+    "maadlejad",
+    "maadlus",
+    "sport"
+  ],
+  "performing_arts": [
+    "kunst",
+    "lava",
+    "lavakunst",
+    "mask",
+    "teater"
+  ],
+  "persevering_face": [
+    "kannatamine",
+    "nägu",
+    "sihikindel nägu"
+  ],
+  "person": [
+    "sooliselt neutraalne",
+    "täiskasvanu"
+  ],
+  "person_bald": [
+    "kiilaspea",
+    "sooliselt neutraalne",
+    "täiskasvanu"
+  ],
+  "person_beard": [
+    "habe",
+    "habemega isik",
+    "mees: habemega"
+  ],
+  "person_biking": [
+    "jalgratas",
+    "jalgrattur",
+    "rattur"
+  ],
+  "person_blond_hair": [
+    "blond",
+    "blondide juustega inimene",
+    "blondiin",
+    "inimene: blondide juustega"
+  ],
+  "person_bouncing_ball": [
+    "inimene",
+    "inimene palliga",
+    "pall"
+  ],
+  "person_bowing": [
+    "kummardav inimene",
+    "kummardus",
+    "vabandus",
+    "žest"
+  ],
+  "person_cartwheeling": [
+    "hundiratas",
+    "hundiratast viskav inimene",
+    "iluvõimlemine",
+    "inimene",
+    "sport"
+  ],
+  "person_climbing": [
+    "mägironija",
+    "mäkke roniv inimene"
+  ],
+  "person_curly_hair": [
+    "lokkis juuksed",
+    "sooliselt neutraalne",
+    "täiskasvanu"
+  ],
+  "person_facepalming": [
+    "meeleheide",
+    "nägu",
+    "umbusk"
+  ],
+  "person_feeding_baby": [
+    "beebi",
+    "beebit toitev inimene",
+    "imetamine",
+    "inimene",
+    "toitmine"
+  ],
+  "person_fencing": [
+    "inimene",
+    "mõõk",
+    "sport",
+    "vehkleja",
+    "vehklemine"
+  ],
+  "person_frowning": [
+    "ilme",
+    "kulmu kortsutav inimene",
+    "kulmukortsutus"
+  ],
+  "person_gesturing_no": [
+    "ei",
+    "eitav žest",
+    "käed",
+    "keelatud",
+    "žest"
+  ],
+  "person_gesturing_ok": [
+    "käed",
+    "nõustuv žest",
+    "ok",
+    "žest"
+  ],
+  "person_getting_haircut": [
+    "ilusalong",
+    "juukselõikus",
+    "juuksur"
+  ],
+  "person_getting_massage": [
+    "massaaž",
+    "näomassaaž"
+  ],
+  "person_golfing": [
+    "golf",
+    "golfimängija",
+    "pall"
+  ],
+  "person_in_bed": [
+    "hotell",
+    "inimene voodis",
+    "uni"
+  ],
+  "person_in_lotus_position": [
+    "jooga",
+    "lootosasendis inimene",
+    "meditatsioon"
+  ],
+  "person_in_manual_wheelchair": [
+    "ligipääsetavus",
+    "manuaalses ratastoolis inimene",
+    "ratastool"
+  ],
+  "person_in_motorized_wheelchair": [
+    "elektrilises ratastoolis inimene",
+    "ligipääsetavus",
+    "ratastool"
+  ],
+  "person_in_steamy_room": [
+    "inimene leiliruumis",
+    "leiliruum",
+    "leiliruumis olev inimene",
+    "saun"
+  ],
+  "person_in_suit_levitating": [
+    "ärimees",
+    "hõljuv ülikonnaga mees",
+    "mees",
+    "ülikond"
+  ],
+  "person_in_tuxedo": [
+    "inimene smokingus",
+    "mees",
+    "peigmees"
+  ],
+  "person_juggling": [
+    "oskused",
+    "tasakaal",
+    "žongleerimine",
+    "žonglöör"
+  ],
+  "person_kneeling": [
+    "inimene",
+    "põlvili",
+    "põlvitav"
+  ],
+  "person_lifting_weights": [
+    "jõutõstja",
+    "kang",
+    "tõstja"
+  ],
+  "person_mountain_biking": [
+    "jalgratas",
+    "mägi",
+    "mägirattur",
+    "rattur"
+  ],
+  "person_playing_handball": [
+    "inimene",
+    "käsipall",
+    "käsipalli mängiv inimene",
+    "pall",
+    "sport"
+  ],
+  "person_playing_water_polo": [
+    "inimene",
+    "sport",
+    "veepall",
+    "veepalli mängiv inimene"
+  ],
+  "person_pouting": [
+    "ilme",
+    "mossis",
+    "mossitav",
+    "mossitav inimene"
+  ],
+  "person_raising_hand": [
+    "käsi",
+    "kätt tõstev rõõmus inimene",
+    "õnnelik",
+    "rõõmus",
+    "žest"
+  ],
+  "person_red_hair": [
+    "punased juuksed",
+    "sooliselt neutraalne",
+    "täiskasvanu"
+  ],
+  "person_rowing_boat": [
+    "aerupaadiga inimene",
+    "paat",
+    "sõiduk"
+  ],
+  "person_running": [
+    "jooks",
+    "jooksja",
+    "maraton"
+  ],
+  "person_shrugging": [
+    "kehitus",
+    "õlakehitus",
+    "õlg",
+    "ükskõiksus"
+  ],
+  "person_standing": [
+    "inimene",
+    "seisev",
+    "seismine"
+  ],
+  "person_surfing": [
+    "surfamine",
+    "surfar"
+  ],
+  "person_swimming": [
+    "ujuja",
+    "ujumine"
+  ],
+  "person_taking_bath": [
+    "inimene vannis",
+    "vann"
+  ],
+  "person_tipping_hand": [
+    "abi",
+    "info",
+    "infoleti töötaja",
+    "käsi",
+    "teave"
+  ],
+  "person_walking": [
+    "jalakäija",
+    "jalutamine",
+    "kõndimine"
+  ],
+  "person_wearing_turban": [
+    "mees",
+    "turban",
+    "turbaniga inimene"
+  ],
+  "person_white_hair": [
+    "heledad juuksed",
+    "sooliselt neutraalne",
+    "täiskasvanu"
+  ],
+  "person_with_skullcap": [
+    "hiina",
+    "hiina mütsiga mees",
+    "mees",
+    "müts"
+  ],
+  "person_with_veil": [
+    "loor",
+    "loori kandev inimene",
+    "loori kandev pruut",
+    "pruut",
+    "pulm"
+  ],
+  "person_with_white_cane": [
+    "ligipääs",
+    "pime",
+    "valge kepiga inimene"
+  ],
+  "peru": [
+    "lipp"
+  ],
+  "petri_dish": [
+    "bakterid",
+    "bioloog",
+    "bioloogia",
+    "kultuur",
+    "labor",
+    "petri tass"
+  ],
+  "philippines": [
+    "lipp"
+  ],
+  "pick": [
+    "kirka",
+    "tööriist"
+  ],
+  "pickup_truck": [
+    "kast",
+    "maastur",
+    "pikap"
+  ],
+  "pie": [
+    "pirukas",
+    "täidis"
+  ],
+  "pig": [
+    "emis",
+    "siga"
+  ],
+  "pig_face": [
+    "nägu",
+    "sea nägu",
+    "siga"
+  ],
+  "pig_nose": [
+    "nägu",
+    "nina",
+    "sea kärss",
+    "siga"
+  ],
+  "pill": [
+    "arst",
+    "haige",
+    "ravim",
+    "tablett"
+  ],
+  "pilot": [
+    "lennuk",
+    "piloot"
+  ],
+  "pinched_fingers": [
+    "kokkusurutud",
+    "küsimus",
+    "sarkastiline",
+    "sõrmed",
+    "žest"
+  ],
+  "pinching_hand": [
+    "pöialt ja nimetissõrme lähestikku hoidev käsi",
+    "väike kogus"
+  ],
+  "pine_decoration": [
+    "bambus",
+    "mänd",
+    "puu",
+    "taim",
+    "väravamänd"
+  ],
+  "pineapple": [
+    "ananass",
+    "puuvili",
+    "taim"
+  ],
+  "ping_pong": [
+    "lauatennis",
+    "mäng",
+    "pall",
+    "pingpong",
+    "reket"
+  ],
+  "pirate_flag": [
+    "piraadilipp",
+    "piraat",
+    "röövimine",
+    "varandus"
+  ],
+  "pisces": [
+    "kalad",
+    "sodiaak"
+  ],
+  "pitcairn_islands": [
+    "lipp"
+  ],
+  "pizza": [
+    "juust",
+    "pitsa",
+    "viil"
+  ],
+  "piñata": [
+    "peomäng",
+    "pidu"
+  ],
+  "placard": [
+    "meeleavaldus",
+    "plakat",
+    "protest",
+    "silt"
+  ],
+  "place_of_worship": [
+    "palvetamine",
+    "pühakoda",
+    "usk"
+  ],
+  "play_button": [
+    "esitamine",
+    "esitusnupp",
+    "kolmnurk",
+    "nool"
+  ],
+  "play_or_pause_button": [
+    "esitamine",
+    "esitus- ja pausinupp",
+    "kolmnurk",
+    "nool",
+    "paus"
+  ],
+  "pleading_face": [
+    "anuv nägu",
+    "halastust ootav",
+    "kutsikasilmad",
+    "paluv"
+  ],
+  "plunger": [
+    "imipump",
+    "pump",
+    "pumpamine",
+    "ummistus",
+    "valamu",
+    "valamupump"
+  ],
+  "plus": [
+    "+",
+    "matemaatika",
+    "pluss",
+    "plussmärk"
+  ],
+  "poland": [
+    "lipp"
+  ],
+  "polar_bear": [
+    "arktika",
+    "jääkaru",
+    "karu",
+    "valge"
+  ],
+  "police_car": [
+    "auto",
+    "patrull",
+    "politsei",
+    "politseiauto",
+    "sõiduk"
+  ],
+  "police_car_light": [
+    "auto",
+    "politsei",
+    "politseiauto vilkur",
+    "pöörlemine",
+    "sõiduk",
+    "vilkur"
+  ],
+  "police_officer": [
+    "politsei",
+    "politseinik"
+  ],
+  "poodle": [
+    "koer",
+    "puudel"
+  ],
+  "pool_8_ball": [
+    "8",
+    "kuul",
+    "mäng",
+    "piljard",
+    "piljardikuul"
+  ],
+  "poop": [
+    "kaka",
+    "kakahunnik",
+    "koletis",
+    "koll",
+    "koomiks",
+    "nägu",
+    "sõnnik"
+  ],
+  "popcorn": [
+    "mais",
+    "popkorn"
+  ],
+  "portugal": [
+    "lipp"
+  ],
+  "post_office": [
+    "hoone",
+    "post",
+    "postkontor"
+  ],
+  "postal_horn": [
+    "post",
+    "postisarv",
+    "sarv"
+  ],
+  "postbox": [
+    "post",
+    "postkast"
+  ],
+  "pot_of_food": [
+    "hautis",
+    "potitäis toitu",
+    "pott"
+  ],
+  "potable_water": [
+    "joodav",
+    "joogivesi",
+    "vesi"
+  ],
+  "potato": [
+    "juurvili",
+    "kartul",
+    "toit"
+  ],
+  "potted_plant": [
+    "hoolitsema",
+    "igav",
+    "kasutu",
+    "kasvatama",
+    "potilill",
+    "taim",
+    "tuba"
+  ],
+  "poultry_leg": [
+    "kana",
+    "kanakoib",
+    "koib",
+    "kont",
+    "luu"
+  ],
+  "pound_banknote": [
+    "nael",
+    "naelsterling",
+    "pank",
+    "rahatäht",
+    "valuuta"
+  ],
+  "pouting_cat": [
+    "kass",
+    "mossis",
+    "mossitav kass",
+    "nägu"
+  ],
+  "prayer_beads": [
+    "helmed",
+    "kaelakee",
+    "palvehelmed",
+    "palvetamine",
+    "riided",
+    "usk"
+  ],
+  "pregnant_woman": [
+    "naine",
+    "rase"
+  ],
+  "pretzel": [
+    "keerutatud",
+    "soolakringel"
+  ],
+  "prince": [
+    "prints"
+  ],
+  "princess": [
+    "fantaasia",
+    "muinasjutt",
+    "printsess"
+  ],
+  "printer": [
+    "arvuti"
+  ],
+  "prohibited": [
+    "keelatud",
+    "sisenemine"
+  ],
+  "puerto_rico": [
+    "lipp"
+  ],
+  "purple_circle": [
+    "kera",
+    "lilla",
+    "ring"
+  ],
+  "purple_heart": [
+    "lilla",
+    "süda"
+  ],
+  "purple_square": [
+    "lilla",
+    "nelinurk",
+    "ruut"
+  ],
+  "purse": [
+    "kott",
+    "münt",
+    "rahakott",
+    "ridikül"
+  ],
+  "pushpin": [
+    "nõel",
+    "nööpnõel"
+  ],
+  "puzzle_piece": [
+    "pusle",
+    "pusletükk",
+    "tükk",
+    "ühendamine"
+  ],
+  "qatar": [
+    "lipp"
+  ],
+  "rabbit": [
+    "jänes",
+    "lemmikloom"
+  ],
+  "rabbit_face": [
+    "jänes",
+    "jänese nägu",
+    "lemmikloom",
+    "nägu"
+  ],
+  "raccoon": [
+    "kaval",
+    "pesukaru",
+    "uudishimulik"
+  ],
+  "racing_car": [
+    "auto",
+    "võidusõiduauto",
+    "võidusõit"
+  ],
+  "radio": [
+    "raadio"
+  ],
+  "radio_button": [
+    "geomeetria",
+    "nupp",
+    "raadio",
+    "raadionupp"
+  ],
+  "radioactive": [
+    "oht",
+    "radioaktiivne"
+  ],
+  "railway_car": [
+    "elekter",
+    "rong",
+    "rongivagun",
+    "rööpad",
+    "sõiduk",
+    "tramm",
+    "troll",
+    "vagun"
+  ],
+  "railway_track": [
+    "raudtee",
+    "raudteerööpad",
+    "rong",
+    "sõiduk"
+  ],
+  "rainbow": [
+    "ilm",
+    "vihm",
+    "vikerkaar"
+  ],
+  "rainbow_flag": [
+    "lipp",
+    "vikerkaar",
+    "vikerkaarelipp"
+  ],
+  "raised_back_of_hand": [
+    "käsi",
+    "tõstetud"
+  ],
+  "raised_fist": [
+    "käsi",
+    "keha",
+    "löök",
+    "rusikas",
+    "ülestõstetud rusikas"
+  ],
+  "raised_hand": [
+    "käsi",
+    "keha",
+    "ülestõstetud käsi"
+  ],
+  "raising_hands": [
+    "hurraa",
+    "käed",
+    "tähistamine",
+    "ülestõstetud käed",
+    "žest"
+  ],
+  "ram": [
+    "jäär",
+    "oinas",
+    "sodiaak"
+  ],
+  "rat": [
+    "rott"
+  ],
+  "razor": [
+    "habe",
+    "habemenuga",
+    "raseerimine",
+    "terav"
+  ],
+  "receipt": [
+    "arvepidamine",
+    "kviitung",
+    "raamatupidamine",
+    "tõend"
+  ],
+  "record_button": [
+    "ring",
+    "salvestamine",
+    "salvestusnupp"
+  ],
+  "recycling_symbol": [
+    "taaskasutus",
+    "taaskasutuse sümbol"
+  ],
+  "red_apple": [
+    "õun",
+    "punane",
+    "puuvili",
+    "taim"
+  ],
+  "red_circle": [
+    "geomeetria",
+    "punane",
+    "ring"
+  ],
+  "red_envelope": [
+    "edu",
+    "hóngbāo",
+    "kingitus",
+    "õnn",
+    "punane ümbrik",
+    "raha"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "hüüumärk",
+    "kirjavahemärk"
+  ],
+  "red_paper_lantern": [
+    "lamp",
+    "latern",
+    "punane",
+    "punane paberlatern",
+    "valgus"
+  ],
+  "red_question_mark": [
+    "?",
+    "kirjavahemärk",
+    "küsimärk",
+    "küsimus"
+  ],
+  "red_square": [
+    "nelinurk",
+    "punane",
+    "ruut"
+  ],
+  "red_triangle_pointed_down": [
+    "alla",
+    "geomeetria",
+    "punane",
+    "punane tagurpidi kolmnurk"
+  ],
+  "red_triangle_pointed_up": [
+    "geomeetria",
+    "punane",
+    "punane kolmnurk",
+    "üles"
+  ],
+  "registered": [
+    "r",
+    "registreeritud"
+  ],
+  "relieved_face": [
+    "kergendus",
+    "kergendust tundev nägu",
+    "nägu"
+  ],
+  "reminder_ribbon": [
+    "kollane",
+    "lint"
+  ],
+  "repeat_button": [
+    "kordamisnupp",
+    "kordus",
+    "nool",
+    "päripäeva"
+  ],
+  "repeat_single_button": [
+    "kordus",
+    "nool",
+    "päripäeva",
+    "ühe korduse nupp"
+  ],
+  "rescue_worker_s_helmet": [
+    "abi",
+    "kiirabi",
+    "kiiver",
+    "müts",
+    "nägu",
+    "rist",
+    "valge ristiga kiiver"
+  ],
+  "restroom": [
+    "tualett",
+    "wc"
+  ],
+  "reunion": [
+    "lipp"
+  ],
+  "reverse_button": [
+    "kolmnurk",
+    "nool",
+    "tagasi",
+    "tagurpidi esitamise nupp"
+  ],
+  "revolving_hearts": [
+    "pöörlev",
+    "pöörlevad südamed",
+    "süda"
+  ],
+  "rhinoceros": [
+    "loom",
+    "ninasarvik"
+  ],
+  "ribbon": [
+    "lint",
+    "lips"
+  ],
+  "rice_ball": [
+    "pall",
+    "riis",
+    "riisipall"
+  ],
+  "rice_cracker": [
+    "leib",
+    "riis",
+    "riisiküpsis"
+  ],
+  "right_anger_bubble": [
+    "mull",
+    "tige",
+    "vihamull suunaga paremale",
+    "vihane"
+  ],
+  "right_arrow": [
+    "ida",
+    "nool",
+    "nool paremale",
+    "suund"
+  ],
+  "right_arrow_curving_down": [
+    "alla",
+    "kaardus nool alla",
+    "nool"
+  ],
+  "right_arrow_curving_left": [
+    "kaardus nool vasakule",
+    "nool",
+    "vasak"
+  ],
+  "right_arrow_curving_up": [
+    "kaardus nool üles",
+    "nool",
+    "üles"
+  ],
+  "right_facing_fist": [
+    "paremale",
+    "paremale suunatud rusikas",
+    "rusikas"
+  ],
+  "ring": [
+    "romantika",
+    "sõrmus",
+    "teemant"
+  ],
+  "ringed_planet": [
+    "rõngastega planeet",
+    "saturn"
+  ],
+  "roasted_sweet_potato": [
+    "kartul",
+    "röstitud",
+    "röstitud bataat"
+  ],
+  "robot": [
+    "koletis",
+    "nägu",
+    "roboti nägu"
+  ],
+  "rock": [
+    "kaljurahn",
+    "kivi",
+    "kivirahn",
+    "raske",
+    "tugev"
+  ],
+  "rocket": [
+    "kosmos",
+    "rakett",
+    "sõiduk"
+  ],
+  "rofl": [
+    "kõver",
+    "naer",
+    "naerust kõveras"
+  ],
+  "roll_eyes": [
+    "nägu",
+    "pööritamine",
+    "pööritavate silmadega nägu",
+    "silmad"
+  ],
+  "roll_of_paper": [
+    "paberirull",
+    "paberkäterätid",
+    "tualettpaber"
+  ],
+  "rolled_up_newspaper": [
+    "ajaleht",
+    "rull",
+    "rullikeeratud ajaleht",
+    "uudised"
+  ],
+  "roller_coaster": [
+    "ameerika",
+    "ameerika mäed",
+    "lõbustuspark",
+    "mäed"
+  ],
+  "roller_skate": [
+    "rulluisk",
+    "rulluisutama",
+    "uisk"
+  ],
+  "romania": [
+    "lipp"
+  ],
+  "rooster": [
+    "kukk"
+  ],
+  "rose": [
+    "lill",
+    "roos",
+    "taim"
+  ],
+  "rosette": [
+    "lill",
+    "rosett",
+    "taim"
+  ],
+  "round_pushpin": [
+    "nõel",
+    "nööpnõel",
+    "ümara peaga nööpnõel"
+  ],
+  "rugby_football": [
+    "jalgpall",
+    "pall",
+    "ragbi",
+    "ragbipall"
+  ],
+  "running_shirt": [
+    "jooks",
+    "jooksusärk",
+    "särk"
+  ],
+  "running_shoe": [
+    "jooksuking",
+    "king",
+    "riided",
+    "sport",
+    "toss"
+  ],
+  "russia": [
+    "lipp"
+  ],
+  "rwanda": [
+    "lipp"
+  ],
+  "sad_but_relieved_face": [
+    "kergendus",
+    "leevendus",
+    "nägu",
+    "pettunud",
+    "pettunud, kuid kergendust tundev nägu"
+  ],
+  "safety_pin": [
+    "haaknõel",
+    "mähe",
+    "punkrokk"
+  ],
+  "safety_vest": [
+    "hädaolukord",
+    "ohutus",
+    "ohutusvest",
+    "vest"
+  ],
+  "sagittarius": [
+    "ambur",
+    "sodiaak"
+  ],
+  "sailboat": [
+    "jaht",
+    "meri",
+    "paat",
+    "puhkus",
+    "purjepaat",
+    "sõiduk"
+  ],
+  "sake": [
+    "baar",
+    "jook",
+    "pudel",
+    "riisiviin",
+    "tass"
+  ],
+  "salt": [
+    "maitseaine",
+    "sool",
+    "soolatoos"
+  ],
+  "samoa": [
+    "lipp"
+  ],
+  "san_marino": [
+    "lipp"
+  ],
+  "sandwich": [
+    "leib",
+    "võileib"
+  ],
+  "santa_claus": [
+    "jõulud",
+    "jõuluvana",
+    "muinasjutt"
+  ],
+  "sao_tome_principe": [
+    "lipp"
+  ],
+  "sari": [
+    "kleit",
+    "rõivas"
+  ],
+  "satellite": [
+    "kosmos",
+    "satelliit",
+    "sõiduk"
+  ],
+  "satellite_antenna": [
+    "antenn",
+    "satelliit",
+    "satelliitantenn",
+    "taldrik"
+  ],
+  "saudi_arabia": [
+    "lipp"
+  ],
+  "sauropod": [
+    "brahhiosaurus",
+    "brontosaurus",
+    "diplodookus",
+    "sauropood"
+  ],
+  "saxophone": [
+    "muusika",
+    "pill",
+    "saksofon"
+  ],
+  "scarf": [
+    "kael",
+    "sall"
+  ],
+  "school": [
+    "hoone",
+    "kool"
+  ],
+  "scientist": [
+    "bioloog",
+    "füüsik",
+    "insener",
+    "keemik",
+    "teadlane"
+  ],
+  "scissors": [
+    "käärid",
+    "tööriist"
+  ],
+  "scorpio": [
+    "skorpion",
+    "sodiaak"
+  ],
+  "scorpion": [
+    "skorpion",
+    "sodiaak",
+    "suur skorpion"
+  ],
+  "scotland": [
+    "lipp"
+  ],
+  "scream": [
+    "hirm",
+    "hirmul",
+    "hirmunud",
+    "hirmunult karjuv nägu",
+    "karje",
+    "munch",
+    "nägu"
+  ],
+  "screwdriver": [
+    "kruvi",
+    "kruvikeeraja",
+    "tööriist"
+  ],
+  "scroll": [
+    "käsikiri",
+    "paber"
+  ],
+  "seal": [
+    "hüljes",
+    "merilõvi"
+  ],
+  "seat": [
+    "iste",
+    "tool"
+  ],
+  "see_no_evil_monkey": [
+    "ahv",
+    "kaetud silmadega ahv",
+    "keelatud",
+    "keeld",
+    "kuri",
+    "nägu",
+    "vaatamine"
+  ],
+  "seedling": [
+    "idu",
+    "taim",
+    "võrse"
+  ],
+  "selfie": [
+    "kaamera",
+    "selfi",
+    "telefon"
+  ],
+  "senegal": [
+    "lipp"
+  ],
+  "serbia": [
+    "lipp"
+  ],
+  "service_dog": [
+    "abi",
+    "koer",
+    "politsei",
+    "teenistus",
+    "teenistuskoer"
+  ],
+  "seven": [
+    "klahv"
+  ],
+  "seven_o_clock": [
+    "00",
+    "7",
+    "7:00",
+    "kell",
+    "seitse"
+  ],
+  "seven_thirty": [
+    "30",
+    "7",
+    "7:30",
+    "kaheksa",
+    "kell",
+    "pool"
+  ],
+  "sewing_needle": [
+    "nõel",
+    "õmblemine",
+    "õmblused",
+    "õmblusnõel",
+    "rätsep",
+    "tikkimine"
+  ],
+  "seychelles": [
+    "lipp"
+  ],
+  "shallow_pan_of_food": [
+    "paella",
+    "panniroog",
+    "toit"
+  ],
+  "shamrock": [
+    "ristik",
+    "taim"
+  ],
+  "shark": [
+    "hai",
+    "kala"
+  ],
+  "shaved_ice": [
+    "jää",
+    "magus",
+    "magustoit",
+    "mahlajää"
+  ],
+  "sheaf_of_rice": [
+    "riis",
+    "riisitaim",
+    "taim",
+    "vihk"
+  ],
+  "shield": [
+    "kilp",
+    "relv"
+  ],
+  "shinto_shrine": [
+    "shinto",
+    "tempel",
+    "usk"
+  ],
+  "ship": [
+    "laev",
+    "sõiduk"
+  ],
+  "shooting_star": [
+    "komeet",
+    "kosmos",
+    "langev",
+    "täht"
+  ],
+  "shopping_bags": [
+    "hotell",
+    "kott",
+    "ostud",
+    "ostukotid"
+  ],
+  "shopping_cart": [
+    "käru",
+    "ostma",
+    "ostukäru",
+    "poodlemine"
+  ],
+  "shortcake": [
+    "kook",
+    "liivataignakook",
+    "lõik",
+    "magus",
+    "magustoit"
+  ],
+  "shorts": [
+    "aluspesu",
+    "lühikesed püksid",
+    "šortsid",
+    "ujumisriie"
+  ],
+  "shower": [
+    "dušš",
+    "vesi"
+  ],
+  "shrimp": [
+    "koorikloom",
+    "krevett",
+    "toit"
+  ],
+  "shuffle_tracks_button": [
+    "juhuslik",
+    "juhusliku järjekorra nupp",
+    "nool",
+    "risti"
+  ],
+  "shushing_face": [
+    "kuss!",
+    "sõrme suul hoidev nägu",
+    "vaikust"
+  ],
+  "sierra_leone": [
+    "lipp"
+  ],
+  "sign_of_the_horns": [
+    "käsi",
+    "keha",
+    "rokk",
+    "sarved",
+    "sarvede märk",
+    "sõrm"
+  ],
+  "singapore": [
+    "lipp"
+  ],
+  "singer": [
+    "artist",
+    "laulja",
+    "meelelahutaja",
+    "staar"
+  ],
+  "sint_maarten": [
+    "lipp"
+  ],
+  "six": [
+    "klahv"
+  ],
+  "six_o_clock": [
+    "00",
+    "6",
+    "6:00",
+    "kell",
+    "kuus"
+  ],
+  "six_thirty": [
+    "30",
+    "6",
+    "6:30",
+    "kell",
+    "pool",
+    "seitse"
+  ],
+  "skateboard": [
+    "rula",
+    "rulalaud"
+  ],
+  "skier": [
+    "lumi",
+    "suusataja",
+    "suusk"
+  ],
+  "skis": [
+    "lumi",
+    "suusad",
+    "suusk"
+  ],
+  "skull": [
+    "kolm",
+    "kolp",
+    "kondid",
+    "luud",
+    "muinasjutt",
+    "nägu",
+    "pealuu",
+    "surm"
+  ],
+  "skull_and_crossbones": [
+    "keha",
+    "koletis",
+    "kolp",
+    "kolp ja sääreluud",
+    "kondid",
+    "luud",
+    "nägu",
+    "pealuu",
+    "surm"
+  ],
+  "skunk": [
+    "hais"
+  ],
+  "sled": [
+    "kelk",
+    "regi",
+    "saan"
+  ],
+  "sleeping_face": [
+    "magav nägu",
+    "nägu",
+    "uni",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "magamine",
+    "nägu",
+    "unine nägu"
+  ],
+  "slightly_frowning_face": [
+    "kulmukortsutus",
+    "nägu",
+    "veidi kulmu kortsutav nägu"
+  ],
+  "slightly_smiling_face": [
+    "naeratus",
+    "naeratusega nägu",
+    "nägu"
+  ],
+  "slot_machine": [
+    "automaat",
+    "mäng",
+    "mänguautomaat"
+  ],
+  "sloth": [
+    "aeglane",
+    "laisik",
+    "laisk",
+    "laiskloom"
+  ],
+  "slovakia": [
+    "lipp"
+  ],
+  "slovenia": [
+    "lipp"
+  ],
+  "small_airplane": [
+    "lennuk",
+    "sõiduk",
+    "väikelennuk"
+  ],
+  "small_blue_diamond": [
+    "geomeetria",
+    "romb",
+    "sinine",
+    "teemant",
+    "väike sinine romb"
+  ],
+  "small_orange_diamond": [
+    "geomeetria",
+    "oranž",
+    "romb",
+    "teemant",
+    "väike oranž romb"
+  ],
+  "smiley": [
+    "avatud",
+    "avatud suuga naerunägu",
+    "lahti",
+    "naeratus",
+    "nägu",
+    "suu"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "armastus",
+    "kass",
+    "naeratus",
+    "nägu",
+    "süda",
+    "südamekujuliste silmadega naeratav kass"
+  ],
+  "smiling_face": [
+    "naeratus",
+    "naerunägu",
+    "nägu",
+    "piirjoon",
+    "rahulik"
+  ],
+  "smiling_face_with_horns": [
+    "fantaasia",
+    "muinasjutt",
+    "naeratus",
+    "nägu",
+    "sarved",
+    "sarviline naerunägu"
+  ],
+  "smiling_face_with_sunglasses": [
+    "ere",
+    "ilm",
+    "lahe",
+    "naeratus",
+    "nägu",
+    "päike",
+    "päikeseprillid",
+    "päikeseprillidega naerunägu",
+    "prillid",
+    "silm"
+  ],
+  "smiling_face_with_tear": [
+    "kergendus",
+    "liigutatud",
+    "naeratav",
+    "naeratav pisaraga nägu",
+    "pisar",
+    "uhke"
+  ],
+  "smiling_face_with_three_hearts": [
+    "armunud",
+    "imetlev",
+    "naeratav kolme südamega nägu",
+    "naeratav südametega nägu",
+    "sisse võetud"
+  ],
+  "smirking_face": [
+    "irvitus",
+    "muigav nägu",
+    "nägu"
+  ],
+  "snail": [
+    "tigu"
+  ],
+  "snake": [
+    "madu",
+    "maokandja",
+    "sodiaak"
+  ],
+  "sneezing_face": [
+    "aevastav nägu",
+    "aevastus",
+    "nägu",
+    "terviseks"
+  ],
+  "snow_capped_mountain": [
+    "külm",
+    "lumi",
+    "lumine mägi",
+    "mägi"
+  ],
+  "snowboarder": [
+    "lumelaud",
+    "lumelaudur",
+    "lumi",
+    "suusk"
+  ],
+  "snowflake": [
+    "ilm",
+    "külm",
+    "lumehelves",
+    "lumi"
+  ],
+  "snowman": [
+    "ilm",
+    "külm",
+    "lumememm",
+    "lumi"
+  ],
+  "snowman_without_snow": [
+    "ilm",
+    "külm",
+    "lumememm",
+    "lumeta lumememm",
+    "lumi"
+  ],
+  "soap": [
+    "pesemine",
+    "puhastamine",
+    "seebialus",
+    "seebivaht",
+    "seep",
+    "tükiseep"
+  ],
+  "sob": [
+    "kurb",
+    "nägu",
+    "nutmine",
+    "nutt",
+    "pisar",
+    "valjusti nuttev nägu"
+  ],
+  "soccer_ball": [
+    "jalgpall",
+    "pall"
+  ],
+  "socks": [
+    "sokid",
+    "sukk"
+  ],
+  "soft_ice_cream": [
+    "jäätis",
+    "magus",
+    "magustoit",
+    "pehme"
+  ],
+  "softball": [
+    "kindad",
+    "pall",
+    "pehmepall",
+    "vise"
+  ],
+  "solomon_islands": [
+    "lipp"
+  ],
+  "somalia": [
+    "lipp"
+  ],
+  "soon_arrow": [
+    "nool",
+    "nool soon",
+    "varsti"
+  ],
+  "sos_button": [
+    "abi",
+    "appi",
+    "nupp sos",
+    "sos"
+  ],
+  "south_africa": [
+    "lipp"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "lipp"
+  ],
+  "south_korea": [
+    "lipp"
+  ],
+  "south_sudan": [
+    "lipp"
+  ],
+  "spade_suit": [
+    "kaart",
+    "mäng",
+    "mast",
+    "poti"
+  ],
+  "spaghetti": [
+    "pasta",
+    "spagetid"
+  ],
+  "spain": [
+    "lipp"
+  ],
+  "sparkle": [
+    "*",
+    "sädelus"
+  ],
+  "sparkler": [
+    "ilutulestik",
+    "säraküünal"
+  ],
+  "sparkles": [
+    "*",
+    "säde",
+    "sädemed",
+    "sära",
+    "täht"
+  ],
+  "sparkling_heart": [
+    "elevil",
+    "sädelev süda",
+    "sära",
+    "süda"
+  ],
+  "speak_no_evil_monkey": [
+    "ahv",
+    "kaetud suuga ahv",
+    "keelatud",
+    "keeld",
+    "kuri",
+    "nägu",
+    "rääkimine"
+  ],
+  "speaker_high_volume": [
+    "heli",
+    "kõlar",
+    "vali",
+    "valju heliga kõlar"
+  ],
+  "speaker_low_volume": [
+    "heli",
+    "vaikse heliga kõlar"
+  ],
+  "speaker_medium_volume": [
+    "heli",
+    "kõlar",
+    "poolvalju heliga kõlar",
+    "vaikne"
+  ],
+  "speaking_head": [
+    "kõnelev pea",
+    "nägu",
+    "pea",
+    "rääkimine",
+    "siluett"
+  ],
+  "speech_balloon": [
+    "dialoog",
+    "jutt",
+    "jutumull",
+    "koomiks",
+    "mull"
+  ],
+  "speedboat": [
+    "kiirkaater",
+    "paat",
+    "sõiduk"
+  ],
+  "spider": [
+    "ämblik"
+  ],
+  "spider_web": [
+    "ämblik",
+    "ämblikuvõrk",
+    "võrk"
+  ],
+  "spiral_calendar": [
+    "kalender",
+    "spiraal",
+    "spiraalkalender"
+  ],
+  "spiral_notepad": [
+    "spiraal",
+    "spiraalmärkmik"
+  ],
+  "spiral_shell": [
+    "karp",
+    "spiraalne",
+    "spiraalne teokarp"
+  ],
+  "sponge": [
+    "imav",
+    "pesemine",
+    "pesukäsn",
+    "poorne"
+  ],
+  "spoon": [
+    "lauanõud",
+    "lusikas"
+  ],
+  "sport_utility_vehicle": [
+    "auto",
+    "mahtuniversaal",
+    "sõiduk",
+    "universaal"
+  ],
+  "sports_medal": [
+    "medal",
+    "sport"
+  ],
+  "spouting_whale": [
+    "nägu",
+    "vaal",
+    "vesi",
+    "vett pritsiv vaal"
+  ],
+  "squid": [
+    "kalmaar",
+    "mollusk",
+    "toit"
+  ],
+  "squinting_face_with_tongue": [
+    "keel",
+    "maitse",
+    "nägu",
+    "õudne",
+    "silm",
+    "suust väljas keelega ja suletud silmadega nägu"
+  ],
+  "sri_lanka": [
+    "lipp"
+  ],
+  "st_barthelemy": [
+    "lipp"
+  ],
+  "st_helena": [
+    "lipp"
+  ],
+  "st_kitts_nevis": [
+    "lipp"
+  ],
+  "st_lucia": [
+    "lipp"
+  ],
+  "st_martin": [
+    "lipp"
+  ],
+  "st_pierre_miquelon": [
+    "lipp"
+  ],
+  "st_vincent_grenadines": [
+    "lipp"
+  ],
+  "stadium": [
+    "staadion"
+  ],
+  "star": [
+    "keskmine täht",
+    "täht"
+  ],
+  "star_and_crescent": [
+    "islam",
+    "moslem",
+    "täht ja kuusirp",
+    "usk"
+  ],
+  "star_of_david": [
+    "judaism",
+    "juut",
+    "taavet",
+    "taaveti täht",
+    "täht",
+    "usk"
+  ],
+  "star_struck": [
+    "nägu",
+    "silmad",
+    "staar",
+    "staariga silmitsi",
+    "suu kõrvuni"
+  ],
+  "station": [
+    "jaam",
+    "raudtee",
+    "rong"
+  ],
+  "statue_of_liberty": [
+    "kuju",
+    "sammas",
+    "vabadus",
+    "vabadussammas"
+  ],
+  "steaming_bowl": [
+    "aur",
+    "aurav kauss",
+    "kauss",
+    "nuudel"
+  ],
+  "stethoscope": [
+    "arst",
+    "kuuldetoru",
+    "meditsiin",
+    "stetoskoop",
+    "süda"
+  ],
+  "stop_button": [
+    "peatamisnupp",
+    "ruut",
+    "stopp"
+  ],
+  "stop_sign": [
+    "liiklusmärk",
+    "märk",
+    "stopp",
+    "stoppmärk"
+  ],
+  "stopwatch": [
+    "kell",
+    "stopper"
+  ],
+  "straight_ruler": [
+    "sirge",
+    "sirge joonlaud"
+  ],
+  "strawberry": [
+    "maasikas",
+    "mari",
+    "puuvili",
+    "taim"
+  ],
+  "student": [
+    "koolilõpetaja",
+    "õpilane"
+  ],
+  "studio_microphone": [
+    "mikrofon",
+    "muusika",
+    "stuudio",
+    "stuudiomikrofon"
+  ],
+  "stuffed_flatbread": [
+    "falafel",
+    "kebab",
+    "täidetud pita",
+    "toit"
+  ],
+  "sudan": [
+    "lipp"
+  ],
+  "sun": [
+    "ere",
+    "ilm",
+    "kiired",
+    "kosmos",
+    "päike"
+  ],
+  "sun_behind_cloud": [
+    "ilm",
+    "päike",
+    "päike pilve taga",
+    "pilv"
+  ],
+  "sun_behind_large_cloud": [
+    "ilm",
+    "päike",
+    "päike suure pilve taga",
+    "pilv"
+  ],
+  "sun_behind_rain_cloud": [
+    "ilm",
+    "päike",
+    "päike vihmapilve taga",
+    "pilv",
+    "vihm"
+  ],
+  "sun_behind_small_cloud": [
+    "ilm",
+    "päike",
+    "päike väikese pilve taga",
+    "pilv"
+  ],
+  "sun_with_face": [
+    "ere",
+    "ilm",
+    "kosmos",
+    "nägu",
+    "näoga päike",
+    "päike"
+  ],
+  "sunflower": [
+    "lill",
+    "päevalill",
+    "päike",
+    "taim"
+  ],
+  "sunglasses": [
+    "päikeseprillid",
+    "prillid",
+    "silm",
+    "tume"
+  ],
+  "sunrise": [
+    "hommik",
+    "ilm",
+    "päike",
+    "päikesetõus"
+  ],
+  "sunrise_over_mountains": [
+    "hommik",
+    "ilm",
+    "mägi",
+    "päike",
+    "päikesetõus",
+    "päikesetõus mägedes"
+  ],
+  "sunset": [
+    "hoone",
+    "ilm",
+    "loojang",
+    "päike",
+    "päikeseloojang"
+  ],
+  "superhero": [
+    "hea",
+    "kangelane",
+    "kangelanna",
+    "superkangelane",
+    "supervõime"
+  ],
+  "supervillain": [
+    "kuri",
+    "kurikael",
+    "kurjategija",
+    "superkurikael",
+    "supervõimed"
+  ],
+  "suriname": [
+    "lipp"
+  ],
+  "sushi": [
+    "suši"
+  ],
+  "suspension_railway": [
+    "raudtee",
+    "rippraudtee",
+    "sõiduk",
+    "vagun"
+  ],
+  "svalbard_jan_mayen": [
+    "lipp"
+  ],
+  "swan": [
+    "inetu pardipoeg",
+    "lind",
+    "luigepoeg",
+    "luik"
+  ],
+  "sweat_droplets": [
+    "higi",
+    "higipiisad",
+    "koomiks",
+    "piisad"
+  ],
+  "sweat_smile": [
+    "avatud",
+    "higi",
+    "külm",
+    "külma higiga kaetud ja avatud suuga naerunägu",
+    "naeratus",
+    "nägu"
+  ],
+  "sweden": [
+    "lipp"
+  ],
+  "switzerland": [
+    "lipp"
+  ],
+  "synagogue": [
+    "judaism",
+    "juut",
+    "sünagoog",
+    "usk"
+  ],
+  "syria": [
+    "lipp"
+  ],
+  "syringe": [
+    "arst",
+    "haigus",
+    "nõel",
+    "ravim",
+    "süstal"
+  ],
+  "t_rex": [
+    "türannosaurus"
+  ],
+  "t_shirt": [
+    "riided",
+    "särk",
+    "t-särk"
+  ],
+  "taco": [
+    "mehhiko",
+    "tako"
+  ],
+  "tada": [
+    "pidu",
+    "pidupäev",
+    "sünnipäev",
+    "üllatus"
+  ],
+  "taiwan": [
+    "lipp"
+  ],
+  "tajikistan": [
+    "lipp"
+  ],
+  "takeout_box": [
+    "kaasamüügikarp",
+    "kiirtoidukarp"
+  ],
+  "tamale": [
+    "maisikakk",
+    "mehhiko",
+    "täidetud"
+  ],
+  "tanabata_tree": [
+    "pidu",
+    "puu",
+    "tanabata soovipuu"
+  ],
+  "tangerine": [
+    "mandariin",
+    "puuvili",
+    "taim"
+  ],
+  "tanzania": [
+    "lipp"
+  ],
+  "taurus": [
+    "sodiaak",
+    "sõnn"
+  ],
+  "taxi": [
+    "sõiduk",
+    "takso"
+  ],
+  "teacher": [
+    "koolitaja",
+    "õpetaja",
+    "professor"
+  ],
+  "teacup_without_handle": [
+    "jook",
+    "kõrvata teetass",
+    "tass",
+    "tee"
+  ],
+  "teapot": [
+    "jooma",
+    "kann",
+    "tee",
+    "teekann"
+  ],
+  "tear_off_calendar": [
+    "kalender",
+    "kuupäev",
+    "rebitav kalender"
+  ],
+  "technologist": [
+    "arendaja",
+    "programmeerija",
+    "tarkvara",
+    "tehnoloog"
+  ],
+  "teddy_bear": [
+    "lelu",
+    "mänguasi",
+    "mängukaru",
+    "pehme",
+    "plüüs"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "telefon",
+    "telefonitoru",
+    "toru"
+  ],
+  "telescope": [
+    "teleskoop",
+    "tööriist"
+  ],
+  "television": [
+    "teler",
+    "tv",
+    "video"
+  ],
+  "ten": [
+    "klahv"
+  ],
+  "ten_o_clock": [
+    "00",
+    "10",
+    "10:00",
+    "kell",
+    "kümme"
+  ],
+  "ten_thirty": [
+    "10",
+    "10:30",
+    "30",
+    "kell",
+    "pool",
+    "üksteist"
+  ],
+  "tennis": [
+    "pall",
+    "reket",
+    "tennisepall"
+  ],
+  "tent": [
+    "laager",
+    "telk",
+    "telkimine"
+  ],
+  "test_tube": [
+    "katse",
+    "katseklaas",
+    "keemia",
+    "keemik",
+    "labor",
+    "teadus"
+  ],
+  "thailand": [
+    "lipp"
+  ],
+  "thermometer": [
+    "ilm",
+    "kraadiklaas"
+  ],
+  "thinking": [
+    "mõtlemine",
+    "mõtlev nägu",
+    "nägu"
+  ],
+  "thong_sandal": [
+    "plätud",
+    "rannajalatsid",
+    "rannasandaalid",
+    "sandaalid",
+    "varbavahesandaalid"
+  ],
+  "thought_balloon": [
+    "koomiks",
+    "mõte",
+    "mõttemull",
+    "mull"
+  ],
+  "thread": [
+    "niidirull",
+    "niit",
+    "nõel",
+    "õmblemine"
+  ],
+  "three": [
+    "klahv"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3:00",
+    "kell",
+    "kolm"
+  ],
+  "three_thirty": [
+    "3",
+    "3:30",
+    "30",
+    "kell",
+    "neli",
+    "pool"
+  ],
+  "ticket": [
+    "pääse",
+    "pilet"
+  ],
+  "tiger": [
+    "tiiger"
+  ],
+  "tiger_face": [
+    "nägu",
+    "tiiger",
+    "tiigri nägu"
+  ],
+  "timer_clock": [
+    "kell",
+    "taimer"
+  ],
+  "timor_leste": [
+    "lipp"
+  ],
+  "tired_face": [
+    "nägu",
+    "väsinud"
+  ],
+  "togo": [
+    "lipp"
+  ],
+  "toilet": [
+    "tualett",
+    "wc",
+    "wc-pott"
+  ],
+  "tokelau": [
+    "lipp"
+  ],
+  "tokyo_tower": [
+    "tokyo",
+    "tokyo torn",
+    "torn"
+  ],
+  "tomato": [
+    "köögivili",
+    "taim",
+    "tomat"
+  ],
+  "tonga": [
+    "lipp"
+  ],
+  "tongue": [
+    "keel",
+    "keha"
+  ],
+  "toolbox": [
+    "kast",
+    "laegas",
+    "tööriistad",
+    "tööriistakast"
+  ],
+  "tooth": [
+    "hambaarst",
+    "hammas"
+  ],
+  "toothbrush": [
+    "hambad",
+    "hambahari",
+    "hari",
+    "hügieen",
+    "pesema",
+    "vannituba"
+  ],
+  "top_arrow": [
+    "nool",
+    "nool top",
+    "üles"
+  ],
+  "top_hat": [
+    "kübar",
+    "müts",
+    "riided",
+    "torukübar"
+  ],
+  "tornado": [
+    "ilm",
+    "keeris",
+    "keeristorm",
+    "tornaado"
+  ],
+  "trackball": [
+    "arvuti",
+    "juhtkuul",
+    "kuul"
+  ],
+  "tractor": [
+    "sõiduk",
+    "traktor"
+  ],
+  "trade_mark": [
+    "kaubamärk",
+    "märk"
+  ],
+  "train": [
+    "raudtee",
+    "rong",
+    "sõiduk"
+  ],
+  "tram": [
+    "tramm",
+    "troll"
+  ],
+  "tram_car": [
+    "tramm",
+    "trammivagun",
+    "troll",
+    "vagun"
+  ],
+  "transgender_flag": [
+    "helesinine",
+    "lipp",
+    "roosa",
+    "transsoolisus",
+    "transsoolisuse lipp",
+    "valge"
+  ],
+  "transgender_symbol": [
+    "transsoolisus",
+    "transsoolisuse sümbol"
+  ],
+  "triangular_flag": [
+    "kolmnurk",
+    "kolmnurkne lipp",
+    "lipp"
+  ],
+  "triangular_ruler": [
+    "joonlaud",
+    "kolmnurk",
+    "kolmnurkne joonlaud"
+  ],
+  "trident_emblem": [
+    "ankur",
+    "embleem",
+    "kolmhargi sümbol",
+    "kolmhark",
+    "laev"
+  ],
+  "trinidad_tobago": [
+    "lipp"
+  ],
+  "tristan_da_cunha": [
+    "lipp"
+  ],
+  "trolleybus": [
+    "buss",
+    "tramm",
+    "troll",
+    "trollibuss"
+  ],
+  "trophy": [
+    "auhind",
+    "karikas"
+  ],
+  "tropical_drink": [
+    "baar",
+    "jook",
+    "troopiline"
+  ],
+  "tropical_fish": [
+    "kala",
+    "troopiline"
+  ],
+  "trumpet": [
+    "muusika",
+    "pill",
+    "trompet"
+  ],
+  "tulip": [
+    "lill",
+    "taim",
+    "tulp"
+  ],
+  "tumbler_glass": [
+    "joogiklaas",
+    "napsuklaas",
+    "viskiklaas"
+  ],
+  "tunisia": [
+    "lipp"
+  ],
+  "turkey": [
+    "kalkun"
+  ],
+  "turkmenistan": [
+    "lipp"
+  ],
+  "turks_caicos_islands": [
+    "lipp"
+  ],
+  "turtle": [
+    "kilpkonn"
+  ],
+  "tuvalu": [
+    "lipp"
+  ],
+  "twelve_o_clock": [
+    "00",
+    "12",
+    "12:00",
+    "kaksteist",
+    "kell"
+  ],
+  "twelve_thirty": [
+    "12",
+    "12:30",
+    "30",
+    "kell",
+    "pool",
+    "üks"
+  ],
+  "two": [
+    "klahv"
+  ],
+  "two_hearts": [
+    "armastus",
+    "kaks südant",
+    "süda"
+  ],
+  "two_hump_camel": [
+    "baktrian",
+    "kaamel",
+    "kahe küüruga kaamel",
+    "küür"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2:00",
+    "kaks",
+    "kell"
+  ],
+  "two_thirty": [
+    "2",
+    "2:30",
+    "30",
+    "kell",
+    "kolm",
+    "pool"
+  ],
+  "türkiye": [
+    "lipp"
+  ],
+  "uganda": [
+    "lipp"
+  ],
+  "ukraine": [
+    "lipp"
+  ],
+  "umbrella": [
+    "ilm",
+    "riided",
+    "vihm",
+    "vihmavari"
+  ],
+  "umbrella_on_ground": [
+    "ilm",
+    "päike",
+    "vihm",
+    "vihmavari",
+    "vihmavari maas"
+  ],
+  "umbrella_with_rain_drops": [
+    "ilm",
+    "piiskadega vihmavari",
+    "piist",
+    "riided",
+    "vihm",
+    "vihmavari"
+  ],
+  "unamused_face": [
+    "nägu",
+    "õnnetu",
+    "põlglik"
+  ],
+  "unicorn": [
+    "nägu",
+    "ükssarvik",
+    "ükssarviku nägu"
+  ],
+  "united_arab_emirates": [
+    "lipp"
+  ],
+  "united_kingdom": [
+    "lipp"
+  ],
+  "united_nations": [
+    "lipp"
+  ],
+  "united_states": [
+    "lipp"
+  ],
+  "unlocked": [
+    "avatud",
+    "lukk"
+  ],
+  "up_arrow": [
+    "nool",
+    "nool üles",
+    "põhi",
+    "suund"
+  ],
+  "up_button": [
+    "märk",
+    "nupp up!",
+    "üles"
+  ],
+  "up_down_arrow": [
+    "nool",
+    "nool üles-alla"
+  ],
+  "up_left_arrow": [
+    "loe",
+    "nool",
+    "nool üles vasakule",
+    "suund"
+  ],
+  "up_right_arrow": [
+    "kirre",
+    "nool",
+    "nool üles paremale",
+    "suund"
+  ],
+  "upside_down_face": [
+    "nägu",
+    "tagurpidi"
+  ],
+  "upwards_button": [
+    "nool",
+    "nupp",
+    "üles",
+    "ülesnupp"
+  ],
+  "uruguay": [
+    "lipp"
+  ],
+  "us_outlying_islands": [
+    "lipp"
+  ],
+  "us_virgin_islands": [
+    "lipp"
+  ],
+  "uzbekistan": [
+    "lipp"
+  ],
+  "vampire": [
+    "dracula",
+    "surematu",
+    "vampiir"
+  ],
+  "vanuatu": [
+    "lipp"
+  ],
+  "vatican_city": [
+    "lipp"
+  ],
+  "venezuela": [
+    "lipp"
+  ],
+  "vertical_traffic_light": [
+    "foor",
+    "liiklus",
+    "vertikaalne foor"
+  ],
+  "vibration_mode": [
+    "mobiil",
+    "režiim",
+    "telefon",
+    "värin",
+    "värinarežiim"
+  ],
+  "victory_hand": [
+    "käsi",
+    "keha",
+    "v",
+    "võit"
+  ],
+  "video_camera": [
+    "kaamera",
+    "video",
+    "videokaamera"
+  ],
+  "video_game": [
+    "mäng",
+    "pult",
+    "videomäng"
+  ],
+  "videocassette": [
+    "kassett",
+    "video",
+    "videokassett"
+  ],
+  "vietnam": [
+    "lipp"
+  ],
+  "violin": [
+    "muusika",
+    "pill",
+    "viiul"
+  ],
+  "virgo": [
+    "neitsi",
+    "sodiaak"
+  ],
+  "volcano": [
+    "laava",
+    "mägi",
+    "purse",
+    "vulkaan"
+  ],
+  "volleyball": [
+    "mäng",
+    "pall",
+    "võrkpall"
+  ],
+  "vs_button": [
+    "nupp vs",
+    "versus",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "käsi",
+    "keha",
+    "sõrm",
+    "spock",
+    "vulcan",
+    "vulcanite tervitus"
+  ],
+  "waffle": [
+    "kõhklev",
+    "vahvel",
+    "vahvliraud"
+  ],
+  "wales": [
+    "lipp"
+  ],
+  "wallis_futuna": [
+    "lipp"
+  ],
+  "waning_crescent_moon": [
+    "ilm",
+    "kahanev",
+    "kahanev kuusirp",
+    "kosmos",
+    "kuu",
+    "sirp"
+  ],
+  "waning_gibbous_moon": [
+    "ilm",
+    "kahanev",
+    "kosmos",
+    "kuu"
+  ],
+  "warning": [
+    "ettevaatust",
+    "hoiatus"
+  ],
+  "wastebasket": [
+    "prügi",
+    "prügikorv"
+  ],
+  "watch": [
+    "käekell",
+    "kell"
+  ],
+  "water_buffalo": [
+    "pühvel",
+    "vesi",
+    "vesipühvel"
+  ],
+  "water_closet": [
+    "tualett",
+    "vesi",
+    "wc"
+  ],
+  "water_pistol": [
+    "püstol",
+    "relv",
+    "revolver",
+    "tööriist"
+  ],
+  "watermelon": [
+    "arbuus",
+    "puuvili",
+    "taim"
+  ],
+  "waving_hand": [
+    "käsi",
+    "keha",
+    "lehvitav käsi",
+    "lehvitus"
+  ],
+  "wavy_dash": [
+    "kirjavahemärk",
+    "kriips",
+    "laineline"
+  ],
+  "waxing_crescent_moon": [
+    "ilm",
+    "kasvav kuusirp",
+    "kosmos",
+    "kuu",
+    "noorkuu",
+    "sirp"
+  ],
+  "waxing_gibbous_moon": [
+    "ilm",
+    "kasvav",
+    "kuu",
+    "poolkuu"
+  ],
+  "weary_cat": [
+    "kass",
+    "nägu",
+    "ootamatu",
+    "üllatunud",
+    "üllatus"
+  ],
+  "weary_face": [
+    "nägu",
+    "rammestunud",
+    "väsinud"
+  ],
+  "wedding": [
+    "kabel",
+    "kirik",
+    "pulmad",
+    "romantika"
+  ],
+  "western_sahara": [
+    "lipp"
+  ],
+  "whale": [
+    "vaal"
+  ],
+  "wheel_of_dharma": [
+    "budism",
+    "dharma",
+    "ratas",
+    "usk"
+  ],
+  "wheelchair_symbol": [
+    "juurdepääs",
+    "ratastool"
+  ],
+  "white_cane": [
+    "kohalejõudmine",
+    "ligipääs",
+    "pime",
+    "valge kepp"
+  ],
+  "white_check_mark": [
+    "märge",
+    "märkenupp",
+    "suur valge märge"
+  ],
+  "white_circle": [
+    "geomeetria",
+    "ring",
+    "valge ring"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "hüüumärk",
+    "valge hüüumärk"
+  ],
+  "white_flag": [
+    "lehvimine",
+    "lipp",
+    "valge lipp"
+  ],
+  "white_flower": [
+    "lill",
+    "valge lill"
+  ],
+  "white_heart": [
+    "süda",
+    "valge"
+  ],
+  "white_large_square": [
+    "geomeetria",
+    "ruut",
+    "suur valge ruut"
+  ],
+  "white_medium_small_square": [
+    "geomeetria",
+    "ruut",
+    "väiksem valge ruut"
+  ],
+  "white_medium_square": [
+    "geomeetria",
+    "keskmine valge ruut",
+    "ruut"
+  ],
+  "white_question_mark": [
+    "?",
+    "kirjavahemärk",
+    "küsimärk",
+    "küsimus",
+    "valge küsimärk"
+  ],
+  "white_small_square": [
+    "geomeetria",
+    "ruut",
+    "väike valge ruut"
+  ],
+  "white_square_button": [
+    "geomeetria",
+    "nupp",
+    "piirjoon",
+    "ruut",
+    "valge ruudukujuline nupp"
+  ],
+  "wilted_flower": [
+    "lill",
+    "närbunud"
+  ],
+  "wind_chime": [
+    "kell",
+    "tuul",
+    "tuulekell"
+  ],
+  "wind_face": [
+    "ilm",
+    "nägu",
+    "näoga kuu",
+    "tuul"
+  ],
+  "window": [
+    "aken",
+    "avamine",
+    "läbipaistev",
+    "raam",
+    "vaade"
+  ],
+  "wine_glass": [
+    "baar",
+    "jook",
+    "klaas",
+    "vein",
+    "veiniklaas"
+  ],
+  "wink": [
+    "nägu",
+    "silma pilgutav nägu",
+    "silmapilgutus"
+  ],
+  "winking_face_with_tongue": [
+    "keel",
+    "nägu",
+    "nali",
+    "silm",
+    "silmapilgutus",
+    "suust väljas keelega ja silma pilgutav nägu"
+  ],
+  "wolf": [
+    "hundi nägu",
+    "hunt",
+    "nägu"
+  ],
+  "woman": [
+    "naine"
+  ],
+  "woman_and_man_holding_hands": [
+    "käed",
+    "mees",
+    "mees ja naine hoiavad käest kinni",
+    "naine",
+    "paarike"
+  ],
+  "woman_artist": [
+    "kunstnik",
+    "naine",
+    "naiskunstnik",
+    "palett"
+  ],
+  "woman_astronaut": [
+    "astronaut",
+    "kosmos",
+    "naine",
+    "naisastronaut",
+    "rakett"
+  ],
+  "woman_bald": [
+    "kiilaspea",
+    "naine"
+  ],
+  "woman_biking": [
+    "jalgratas",
+    "naine",
+    "naisrattur",
+    "ratas",
+    "rattur"
+  ],
+  "woman_bouncing_ball": [
+    "naine",
+    "naine palliga",
+    "pall"
+  ],
+  "woman_bowing": [
+    "kummardus",
+    "naine",
+    "sügavalt kummarduv naine",
+    "vabandus",
+    "žest"
+  ],
+  "woman_cartwheeling": [
+    "hundiratas",
+    "hundiratast viskav naine",
+    "naine",
+    "sport"
+  ],
+  "woman_climbing": [
+    "mägironija",
+    "mäkke roniv naine"
+  ],
+  "woman_cook": [
+    "kokk",
+    "naine",
+    "naiskokk"
+  ],
+  "woman_curly_hair": [
+    "lokkis juuksed",
+    "naine"
+  ],
+  "woman_dancing": [
+    "naine",
+    "tants",
+    "tantsimine",
+    "tantsiv naine"
+  ],
+  "woman_detective": [
+    "detektiiv",
+    "naine",
+    "naisdetektiiv",
+    "spioon",
+    "uurija"
+  ],
+  "woman_elf": [
+    "maagiline",
+    "naispäkapikk"
+  ],
+  "woman_facepalming": [
+    "käega vastu pead lööv naine",
+    "meeleheide",
+    "naine",
+    "uskumatu"
+  ],
+  "woman_factory_worker": [
+    "liinitööline",
+    "naine",
+    "naissoost tehasetööline",
+    "tehas",
+    "tööline"
+  ],
+  "woman_fairy": [
+    "naishaldjas",
+    "titania"
+  ],
+  "woman_farmer": [
+    "aednik",
+    "farmer",
+    "naine",
+    "naisfarmer"
+  ],
+  "woman_feeding_baby": [
+    "beebi",
+    "beebit toitev naine",
+    "imetamine",
+    "naine",
+    "toitmine"
+  ],
+  "woman_firefighter": [
+    "naine",
+    "naistuletõrjuja",
+    "tuletõrjeauto",
+    "tuletõrjuja"
+  ],
+  "woman_frowning": [
+    "ilme",
+    "kulmu kortsutav naine",
+    "kulmukortsutus",
+    "naine"
+  ],
+  "woman_genie": [
+    "džinn",
+    "naisdžinn"
+  ],
+  "woman_gesturing_no": [
+    "eitavat žesti näitav naine",
+    "käed ristis",
+    "keelatud",
+    "naine",
+    "žest"
+  ],
+  "woman_gesturing_ok": [
+    "käed pea peal",
+    "korras",
+    "nõustuvat žesti näitav naine",
+    "ok",
+    "žest"
+  ],
+  "woman_getting_haircut": [
+    "ilusalong",
+    "juukselõikus",
+    "juuksur",
+    "naine",
+    "naine juuksuris"
+  ],
+  "woman_getting_massage": [
+    "massaaž",
+    "nägu",
+    "naine",
+    "näomassaaž",
+    "näomassaaži saav naine"
+  ],
+  "woman_golfing": [
+    "golf",
+    "golfi mängiv naine",
+    "naine"
+  ],
+  "woman_guard": [
+    "naine",
+    "naisvalvur",
+    "valvur"
+  ],
+  "woman_health_worker": [
+    "arst",
+    "meditsiin",
+    "meditsiiniõde",
+    "naine",
+    "naisarst"
+  ],
+  "woman_in_lotus_position": [
+    "jooga",
+    "lootosasendis naine",
+    "meditatsioon"
+  ],
+  "woman_in_manual_wheelchair": [
+    "juurdepääs",
+    "manuaalratastoolis naine",
+    "manuaalratastoolis olev naine",
+    "naine",
+    "ratastool"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "elektriratastoolis naine",
+    "elektriratastoolis olev naine",
+    "ligipääs",
+    "naine",
+    "ratastool"
+  ],
+  "woman_in_steamy_room": [
+    "leiliruum",
+    "leiliruumis olev naine",
+    "naine leiliruumis",
+    "saun"
+  ],
+  "woman_in_tuxedo": [
+    "naine",
+    "naine smokingus",
+    "smoking"
+  ],
+  "woman_judge": [
+    "kohus",
+    "naine",
+    "naiskohtunik",
+    "õigusemõistmine"
+  ],
+  "woman_juggling": [
+    "naine",
+    "naisžonglöör",
+    "oskused",
+    "tasakaal",
+    "žongleerimine"
+  ],
+  "woman_kneeling": [
+    "naine",
+    "põlvili",
+    "põlvitav"
+  ],
+  "woman_lifting_weights": [
+    "jõutõstja",
+    "kang",
+    "naine",
+    "naisjõutõstja",
+    "tõstja"
+  ],
+  "woman_mage": [
+    "naismaag",
+    "nõid"
+  ],
+  "woman_mechanic": [
+    "elektrik",
+    "mehaanik",
+    "naine",
+    "naismehaanik",
+    "torulukksepp"
+  ],
+  "woman_mountain_biking": [
+    "jalgratas",
+    "mägiratas",
+    "naine",
+    "naismägirattur",
+    "rattur"
+  ],
+  "woman_office_worker": [
+    "arhitekt",
+    "ärinaine",
+    "juhataja",
+    "naiskontoritöötaja",
+    "valgekrae"
+  ],
+  "woman_pilot": [
+    "lendur",
+    "lennuk",
+    "naine",
+    "naispiloot",
+    "piloot"
+  ],
+  "woman_playing_handball": [
+    "käsipall",
+    "käsipalli mängiv naine",
+    "naine",
+    "pall",
+    "sport"
+  ],
+  "woman_playing_water_polo": [
+    "inimene",
+    "naine",
+    "sport",
+    "veepall",
+    "veepalli mängiv naine"
+  ],
+  "woman_police_officer": [
+    "konstaabel",
+    "naine",
+    "naispolitseinik",
+    "politseinik"
+  ],
+  "woman_pouting": [
+    "ilme",
+    "mossis",
+    "mossitav",
+    "naine"
+  ],
+  "woman_raising_hand": [
+    "käsi",
+    "kätt tõstev naine",
+    "naine",
+    "tervitus",
+    "žest"
+  ],
+  "woman_red_hair": [
+    "naine",
+    "punased juuksed"
+  ],
+  "woman_rowing_boat": [
+    "aerupaadiga naine",
+    "aerupaat",
+    "naine",
+    "paat"
+  ],
+  "woman_running": [
+    "jooksev naine",
+    "jooksja",
+    "maraton",
+    "naine",
+    "võistlus"
+  ],
+  "woman_s_boot": [
+    "king",
+    "naine",
+    "naistesaabas",
+    "riided",
+    "saabas"
+  ],
+  "woman_s_clothes": [
+    "naine",
+    "naisteriided",
+    "riided"
+  ],
+  "woman_s_hat": [
+    "kübar",
+    "müts",
+    "naine",
+    "naistekübar",
+    "riided"
+  ],
+  "woman_s_sandal": [
+    "king",
+    "naine",
+    "naistesandaal",
+    "riided",
+    "sandaal"
+  ],
+  "woman_scientist": [
+    "bioloog",
+    "füüsik",
+    "insener",
+    "keemik",
+    "naisteadlane"
+  ],
+  "woman_shrugging": [
+    "kehitus",
+    "naine",
+    "õlakehitus",
+    "õlgu kehitav naine",
+    "ükskõiksus"
+  ],
+  "woman_singer": [
+    "artist",
+    "laulja",
+    "naine",
+    "naislaulja",
+    "staar"
+  ],
+  "woman_standing": [
+    "naine",
+    "seisev",
+    "seismine"
+  ],
+  "woman_student": [
+    "lõpetaja",
+    "naine",
+    "naisõpilane",
+    "õpilane"
+  ],
+  "woman_superhero": [
+    "hea",
+    "kangelane",
+    "kangelanna",
+    "naine",
+    "naissuperkangelane",
+    "supervõimed"
+  ],
+  "woman_supervillain": [
+    "kuri",
+    "kurikael",
+    "kurjategija",
+    "naine",
+    "naissoost superkurikael",
+    "supervõimed"
+  ],
+  "woman_surfing": [
+    "naine",
+    "naissurfar",
+    "surf",
+    "surfaja",
+    "surfar"
+  ],
+  "woman_swimming": [
+    "naine",
+    "naisujuja",
+    "ujuja",
+    "ujumine"
+  ],
+  "woman_teacher": [
+    "juhendaja",
+    "naine",
+    "naisõpetaja",
+    "õpetaja",
+    "professor"
+  ],
+  "woman_technologist": [
+    "arendaja",
+    "naine",
+    "naisprogrammeerija",
+    "programmeerija",
+    "tarkvara",
+    "tehnoloog"
+  ],
+  "woman_tipping_hand": [
+    "abi",
+    "infoleti naistöötaja",
+    "naine",
+    "teave"
+  ],
+  "woman_vampire": [
+    "naisvampiir",
+    "surematu"
+  ],
+  "woman_walking": [
+    "jalakäija",
+    "jalutamine",
+    "kõndimine",
+    "kõndiv naine",
+    "naine"
+  ],
+  "woman_wearing_turban": [
+    "naine",
+    "naine turbaninga",
+    "turban"
+  ],
+  "woman_white_hair": [
+    "heledad juuksed",
+    "naine"
+  ],
+  "woman_with_headscarf": [
+    "hijab",
+    "mantilja",
+    "pearätiga naine",
+    "pearätik",
+    "tichel"
+  ],
+  "woman_with_veil": [
+    "loor",
+    "naine",
+    "naine looriga"
+  ],
+  "woman_with_white_cane": [
+    "ligipääs",
+    "naine",
+    "pime",
+    "valge kepiga naine"
+  ],
+  "woman_zombie": [
+    "elav surnu",
+    "naiszombi",
+    "surematu"
+  ],
+  "women_holding_hands": [
+    "käed",
+    "käest kinni hoidvad naised",
+    "kaks naist hoiavad käest kinni",
+    "naised",
+    "paar"
+  ],
+  "women_s_room": [
+    "naine",
+    "naiste-wc",
+    "tualett",
+    "wc"
+  ],
+  "women_with_bunny_ears": [
+    "jänku",
+    "kõrvad",
+    "naised",
+    "pidutsevad jänesekõrvadega naised",
+    "tants"
+  ],
+  "women_wrestling": [
+    "inimesed",
+    "maadlevad naised",
+    "maadlus",
+    "naine",
+    "sport"
+  ],
+  "wood": [
+    "ehituspuit",
+    "palk",
+    "puit",
+    "saepuit"
+  ],
+  "woozy_face": [
+    "alkoholiuimas",
+    "joobnud",
+    "lainelised huuled",
+    "oimetu",
+    "uimane nägu",
+    "üks silm poolkinni"
+  ],
+  "world_map": [
+    "kaart",
+    "maailm",
+    "maailmakaart"
+  ],
+  "worm": [
+    "parasiit",
+    "rõnguss",
+    "uss",
+    "vihmauss"
+  ],
+  "worried": [
+    "murelik",
+    "nägu"
+  ],
+  "wrapped_gift": [
+    "karp",
+    "kingipakk",
+    "kink",
+    "pakitud"
+  ],
+  "wrench": [
+    "mutrivõti",
+    "tööriist"
+  ],
+  "writing_hand": [
+    "käsi",
+    "keha",
+    "kirjutamine",
+    "kirjutav käsi"
+  ],
+  "yarn": [
+    "heegeldamine",
+    "kera",
+    "kudumine",
+    "lõng",
+    "lõngakera"
+  ],
+  "yawning_face": [
+    "haigutamine",
+    "haigutav nägu",
+    "haigutus",
+    "igav",
+    "väsinud"
+  ],
+  "yellow_circle": [
+    "kera",
+    "kollane",
+    "ring"
+  ],
+  "yellow_heart": [
+    "kollane",
+    "süda"
+  ],
+  "yellow_square": [
+    "kollane",
+    "nelinurk",
+    "ruut"
+  ],
+  "yemen": [
+    "lipp"
+  ],
+  "yen_banknote": [
+    "jeen",
+    "jeeni rahatäht",
+    "pank",
+    "raha",
+    "rahatäht",
+    "valuuta"
+  ],
+  "yin_yang": [
+    "taoism",
+    "usk",
+    "yang",
+    "yin",
+    "yin-yang"
+  ],
+  "yoyo": [
+    "edasi-tagasi",
+    "jojo",
+    "keerlemine",
+    "ketas",
+    "mänguasi"
+  ],
+  "zambia": [
+    "lipp"
+  ],
+  "zany_face": [
+    "pöörase ilmega nägu",
+    "silm",
+    "suur",
+    "väike"
+  ],
+  "zebra": [
+    "sebra",
+    "triibud",
+    "vöödid"
+  ],
+  "zero": [
+    "klahv"
+  ],
+  "zimbabwe": [
+    "lipp"
+  ],
+  "zipper_mouth_face": [
+    "nägu",
+    "suu",
+    "tõmblukk",
+    "tõmblukusuuga nägu"
+  ],
+  "zombie": [
+    "elav surnu",
+    "surematu",
+    "zombi"
+  ],
+  "zzz": [
+    "koomiks",
+    "uni"
+  ],
+  "åland_islands": [
+    "lipp"
+  ]
+}

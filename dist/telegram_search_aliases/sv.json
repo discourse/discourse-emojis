@@ -1,0 +1,9930 @@
+{
+  "+1": [
+    "toppen",
+    "absolut",
+    "uppåt",
+    "bra",
+    "perfekt",
+    "tummen upp",
+    "visst",
+    "lifta",
+    "tumme"
+  ],
+  "-1": [
+    "nej",
+    "tummen ner",
+    "tumme ner",
+    "absolut inte",
+    "fel"
+  ],
+  "100": [
+    "topp",
+    "bäst",
+    "perfekt",
+    "100%",
+    "alla rätt"
+  ],
+  "1234": [
+    "nummer"
+  ],
+  "1st_place_medal": [
+    "medalj",
+    "vinnare",
+    "topp",
+    "vinna",
+    "tävling",
+    "första plats",
+    "första pris",
+    "finalist",
+    "guld",
+    "tävla",
+    "etta",
+    "guldmedalj"
+  ],
+  "2nd_place_medal": [
+    "medalj",
+    "topp",
+    "vinna",
+    "tävling",
+    "silver",
+    "silvermedalj",
+    "finalist",
+    "tävla",
+    "andra plats",
+    "tvåa",
+    "andra pris"
+  ],
+  "3rd_place_medal": [
+    "medalj",
+    "topp",
+    "tävling",
+    "finalist",
+    "tävla",
+    "tredje plats",
+    "bronsmedalj",
+    "trejde pris",
+    "brons"
+  ],
+  "a_button_blood_type": [
+    "blod",
+    "blodtyp",
+    "a blod",
+    "a"
+  ],
+  "ab_button_blood_type": [
+    "blod",
+    "blodtyp",
+    "ab blod",
+    "ab"
+  ],
+  "accordion": [
+    "instrument",
+    "spela",
+    "spelman",
+    "dragspel"
+  ],
+  "adhesive_bandage": [
+    "plåster"
+  ],
+  "admission_tickets": [
+    "biljett",
+    "event",
+    "events",
+    "biobiljett",
+    "entre biljett"
+  ],
+  "aerial_tramway": [
+    "kabin",
+    "skidlift",
+    "lift"
+  ],
+  "afghanistan": [
+    "flagga",
+    "afganistan",
+    "flag_af",
+    "af"
+  ],
+  "airplane": [
+    "plan",
+    "resa",
+    "flyga",
+    "semester",
+    "flygplan",
+    "flyg",
+    "resa bort"
+  ],
+  "alarm_clock": [
+    "tid",
+    "klocka",
+    "alarmklocka",
+    "alarm",
+    "vakna",
+    "väckarklocka"
+  ],
+  "albania": [
+    "flagga",
+    "flag_al",
+    "al",
+    "albanien"
+  ],
+  "algeria": [
+    "algeriet"
+  ],
+  "alien": [
+    "utomjording",
+    "et"
+  ],
+  "alien_monster": [
+    "monster",
+    "spel",
+    "utomjording",
+    "rymd",
+    "arkad"
+  ],
+  "ambulance": [
+    "bil",
+    "sjukvård",
+    "ambulans"
+  ],
+  "american_football": [
+    "sport",
+    "idrott",
+    "bollsport",
+    "rugby",
+    "amerikansk fotboll",
+    "rugbyboll"
+  ],
+  "american_samoa": [
+    "flagga",
+    "amerikanska samoa"
+  ],
+  "anatomical_heart": [
+    "hjärta"
+  ],
+  "anchor": [
+    "ankare"
+  ],
+  "andorra": [
+    "flagga",
+    "ad",
+    "flag_ad"
+  ],
+  "anger_symbol": [
+    "ilska",
+    "arg",
+    "galen"
+  ],
+  "angola": [
+    "flagga",
+    "flag_ao",
+    "ao"
+  ],
+  "angry": [
+    "irriterad",
+    "ilsken",
+    "arg",
+    "upprört"
+  ],
+  "angry_face_with_horns": [
+    "ilska",
+    "sur"
+  ],
+  "anguished_face": [
+    ":o",
+    "häpen",
+    "förvånad",
+    "förskräckt",
+    "åhh"
+  ],
+  "ant": [
+    "insekt",
+    "myra",
+    "kryp",
+    "småkryp"
+  ],
+  "antarctica": [
+    "flagga",
+    "antarktis"
+  ],
+  "antenna_bars": [
+    "wifi",
+    "signal"
+  ],
+  "anxious_face_with_sweat": [
+    "rädd",
+    "ledsamt",
+    "ledsamheter"
+  ],
+  "aquarius": [
+    "zodiac",
+    "stjärntecken",
+    "tecken",
+    "vattumannen",
+    "vattuman"
+  ],
+  "argentina": [
+    "flagga",
+    "ar",
+    "flag_ar"
+  ],
+  "aries": [
+    "stjärntecken",
+    "väduren",
+    "vädur"
+  ],
+  "armenia": [
+    "flagga",
+    "am",
+    "armenien",
+    "flag_am",
+    "armenier"
+  ],
+  "articulated_lorry": [
+    "bil",
+    "lastbil",
+    "kärra"
+  ],
+  "artist": [
+    "konstnär",
+    "målare"
+  ],
+  "artist_palette": [
+    "konst",
+    "målarpalett",
+    "palett",
+    "akryl",
+    "tavla",
+    "konstnär",
+    "färg",
+    "måla",
+    "färgpalett",
+    "oljefärg",
+    "kreativ"
+  ],
+  "aruba": [
+    "flagga",
+    "flag_aw",
+    "aw"
+  ],
+  "asterisk": [
+    "knapp asterisk",
+    "asterisk symbol"
+  ],
+  "astonished_face": [
+    "chockad",
+    "harrejesus",
+    "panik",
+    ":o",
+    "häpen",
+    "förvånad",
+    "förskräckt",
+    "panikslagen",
+    "med gud"
+  ],
+  "astronaut": [
+    "rymdman"
+  ],
+  "atm_sign": [
+    "symbol",
+    "pengar",
+    "bankomat",
+    "atm"
+  ],
+  "australia": [
+    "flagga",
+    "australien",
+    "flag_au",
+    "au"
+  ],
+  "austria": [
+    "flagga",
+    "flag_at",
+    "österrike",
+    "at"
+  ],
+  "auto_rickshaw": [
+    "tuktuk",
+    "tuk tuk",
+    "tuk-tuk"
+  ],
+  "automobile": [
+    "bil",
+    "köra bil",
+    "bilresa",
+    "resa",
+    "automobil",
+    "semester",
+    "röd bil",
+    "köra"
+  ],
+  "avocado": [
+    "grönsak",
+    "skivad",
+    "mexikansk",
+    "guacamole",
+    "avokado"
+  ],
+  "axe": [
+    "yxa"
+  ],
+  "b_button_blood_type": [
+    "blod",
+    "b blod",
+    "blodtyp",
+    "b"
+  ],
+  "baby": [
+    "nyfödd",
+    "barn",
+    "spädbarn",
+    "bebis",
+    "bäbis"
+  ],
+  "baby_angel": [
+    "gloria",
+    "ängel"
+  ],
+  "baby_bottle": [
+    "spädbarn",
+    "mata med flaska",
+    "flaska",
+    "baby",
+    "babymat",
+    "mjölk",
+    "nappflaska",
+    "välling"
+  ],
+  "baby_chick": [
+    "fågel",
+    "kyckling"
+  ],
+  "baby_symbol": [
+    "baby",
+    "skötrum"
+  ],
+  "backhand_index_pointing_down": [
+    "ner",
+    "nedåt",
+    "pekar ner"
+  ],
+  "backhand_index_pointing_left": [
+    "vänster",
+    "peka finger"
+  ],
+  "backhand_index_pointing_right": [
+    "höger",
+    "peka finger"
+  ],
+  "backhand_index_pointing_up": [
+    "uppåt",
+    "upp",
+    "pekar"
+  ],
+  "backpack": [
+    "väska",
+    "ryggsäck",
+    "röd väska",
+    "skolryggsäck"
+  ],
+  "bacon": [
+    "mat",
+    "frukost"
+  ],
+  "badger": [
+    "tvättbjörn"
+  ],
+  "badminton": [
+    "sport"
+  ],
+  "bagel": [
+    "mat"
+  ],
+  "baguette_bread": [
+    "mat",
+    "nybakat bröd",
+    "bröd",
+    "fralla",
+    "baguette",
+    "frukost",
+    "limpa",
+    "fransk baguette",
+    "brödfralla"
+  ],
+  "bahamas": [
+    "flagga",
+    "flag_bs",
+    "bs"
+  ],
+  "bahrain": [
+    "flagga"
+  ],
+  "balance_scale": [
+    "lagligt",
+    "juridik",
+    "lag",
+    "legal",
+    "våg",
+    "balans",
+    "lika",
+    "samma",
+    "rättvisa"
+  ],
+  "ballet_shoes": [
+    "dans",
+    "balett",
+    "balettsko"
+  ],
+  "balloon": [
+    "grattis",
+    "födelsedag",
+    "ballong",
+    "party",
+    "fest",
+    "överraskning",
+    "det",
+    "röd ballong",
+    "gender reveal"
+  ],
+  "ballot_box_with_ballot": [
+    "val",
+    "demokrati",
+    "valurna",
+    "röstlåda",
+    "rösta"
+  ],
+  "banana": [
+    "frukt",
+    "frukost",
+    "skalad banan",
+    "kuk",
+    "penis",
+    "banan"
+  ],
+  "bangladesh": [
+    "flagga",
+    "flag_bd",
+    "bd"
+  ],
+  "bank": [
+    "byggnad",
+    "bankkontor"
+  ],
+  "barbados": [
+    "flagga",
+    "flag_bb",
+    "bb"
+  ],
+  "barber_pole": [
+    "barber shop",
+    "frisör",
+    "barber",
+    "hårfrisör"
+  ],
+  "baseball": [
+    "sport",
+    "idrott",
+    "bollsport"
+  ],
+  "basket": [
+    "tvättkorg",
+    "tvätta",
+    "tvätt"
+  ],
+  "basketball": [
+    "sport",
+    "idrott",
+    "basket",
+    "bollsport",
+    "basketboll"
+  ],
+  "bat": [
+    "vampyr",
+    "nattdjur",
+    "fladdermus"
+  ],
+  "bathtub": [
+    "ta ett bad",
+    "badkar",
+    "bada"
+  ],
+  "battery": [
+    "laddning",
+    "ladda",
+    "laddbar",
+    "fulladdad",
+    "batteri",
+    "ladda om",
+    "energi"
+  ],
+  "beach_with_umbrella": [
+    "strand",
+    "resa",
+    "semester",
+    "sommar",
+    "sol",
+    "sola",
+    "stranden"
+  ],
+  "beans": [
+    "bönor",
+    "böna",
+    "kidneybönor"
+  ],
+  "bear": [
+    "björnansikte",
+    "björn"
+  ],
+  "beating_heart": [
+    "kärlek",
+    "kär",
+    "förälskad"
+  ],
+  "beaver": [
+    "djur",
+    "bäver"
+  ],
+  "bed": [
+    "sova",
+    "lat",
+    "trött",
+    "sömn"
+  ],
+  "beer_mug": [
+    "stor stark",
+    "dryck",
+    "öl",
+    "mugg",
+    "bärs",
+    "alkohol",
+    "starköl",
+    "aw",
+    "after work",
+    "öla"
+  ],
+  "beetle": [
+    "insekt",
+    "skalbagge",
+    "skarabé",
+    "småkryp"
+  ],
+  "belarus": [
+    "flagga",
+    "flag_by",
+    "by",
+    "vitryssland"
+  ],
+  "belgium": [
+    "flagga",
+    "be",
+    "belgien",
+    "flag_be"
+  ],
+  "bell": [
+    "klocka",
+    "ljud",
+    "bjällra",
+    "ringklocka"
+  ],
+  "bell_pepper": [
+    "mat",
+    "grönsak",
+    "grön paprika",
+    "paprika"
+  ],
+  "bell_with_slash": [
+    "silent",
+    "tyst",
+    "ljustlöst",
+    "ljud av",
+    "stäng av notiser"
+  ],
+  "bellhop_bell": [
+    "hotell",
+    "ringklocka"
+  ],
+  "bento_box": [
+    "mat",
+    "bento",
+    "asiatiskt",
+    "bentolåda"
+  ],
+  "bermuda": [
+    "flagga"
+  ],
+  "beverage_box": [
+    "juicepaket",
+    "dryck",
+    "juice",
+    "äpplejuice"
+  ],
+  "bhutan": [
+    "flagga"
+  ],
+  "bicycle": [
+    "cykel"
+  ],
+  "bikini": [
+    "baddräkt",
+    "simma"
+  ],
+  "billed_cap": [
+    "keps",
+    "kepa",
+    "baseball keps",
+    "blå keps"
+  ],
+  "biohazard": [
+    "symbol",
+    "radiation",
+    "varning",
+    "strålning"
+  ],
+  "bird": [
+    "fågel",
+    "duva"
+  ],
+  "birthday_cake": [
+    "mat",
+    "efterrätt",
+    "tårta",
+    "födelsedagstårta",
+    "fira",
+    "fika"
+  ],
+  "bison": [
+    "djur"
+  ],
+  "biting_lip": [
+    "bita läpp",
+    "biter läppar",
+    "mmm",
+    "läppar",
+    "läpp"
+  ],
+  "black_bird": [
+    "fågel",
+    "sparv",
+    "trast",
+    "svart fågel",
+    "kråka"
+  ],
+  "black_cat": [
+    "katt",
+    "djur",
+    "otur",
+    "husdjur",
+    "svart katt"
+  ],
+  "black_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "svart cirkel",
+    "svart symbol"
+  ],
+  "black_flag": [
+    "flagga",
+    "svart flagga"
+  ],
+  "black_heart": [
+    "hjärta"
+  ],
+  "black_large_square": [
+    "ruta",
+    "svart",
+    "kvadrat",
+    "svart kvadrat"
+  ],
+  "black_medium_small_square": [
+    "svart mellan fyrkant"
+  ],
+  "black_medium_square": [
+    "svart medium fyrkant"
+  ],
+  "black_nib": [
+    "penna"
+  ],
+  "black_small_square": [
+    "svart liten fyrkant"
+  ],
+  "black_square_button": [
+    "svart fyrkantig knapp"
+  ],
+  "blonde_man": [
+    "blond man",
+    "blond herre"
+  ],
+  "blonde_woman": [
+    "blondin",
+    "ung dam"
+  ],
+  "blossom": [
+    "smörblomma",
+    "blomma",
+    "sommar",
+    "blommor",
+    "vår",
+    "gul blomma"
+  ],
+  "blowfish": [
+    "blåsfisk"
+  ],
+  "blue_book": [
+    "bok",
+    "lexikon",
+    "serie",
+    "saga",
+    "blå bok",
+    "del 3"
+  ],
+  "blue_circle": [
+    "symbol",
+    "blå symbol",
+    "cirkel",
+    "knapp",
+    "blå cirkel"
+  ],
+  "blue_heart": [
+    "hjärta"
+  ],
+  "blue_square": [
+    "blå",
+    "ruta",
+    "kvadrat",
+    "blå kvadrat"
+  ],
+  "blueberries": [
+    "bär",
+    "blåbär"
+  ],
+  "blush": [
+    "le",
+    "inga problem",
+    "smil",
+    "rodnar",
+    "glad",
+    "absolut",
+    "ler",
+    "lugn",
+    "leende"
+  ],
+  "boar": [
+    "vildsvin"
+  ],
+  "bolivia": [
+    "flagga",
+    "flag_bo",
+    "bo"
+  ],
+  "bomb": [
+    "vapen",
+    "spränga",
+    "explosion",
+    "hota",
+    "boom",
+    "explosiv"
+  ],
+  "bone": [
+    "pirat",
+    "ben",
+    "skelett",
+    "benbit",
+    "lårben"
+  ],
+  "bookmark": [
+    "bokmärke"
+  ],
+  "books": [
+    "läsa",
+    "bok",
+    "trave böcker",
+    "böcker",
+    "läxor"
+  ],
+  "botswana": [
+    "flagga",
+    "bw",
+    "flag_bw"
+  ],
+  "bottle_with_popping_cork": [
+    "grattis",
+    "nyår",
+    "flaska",
+    "fira",
+    "bubbel",
+    "cava",
+    "champagne",
+    "prosecco"
+  ],
+  "bouquet": [
+    "blomma",
+    "sommar",
+    "blommor",
+    "bukett",
+    "bröllop"
+  ],
+  "bow_and_arrow": [
+    "sport",
+    "pil",
+    "skytt",
+    "sikta",
+    "pilbåge",
+    "bågskytte"
+  ],
+  "bowl_with_spoon": [
+    "skål",
+    "frukostskål",
+    "skål med flingor"
+  ],
+  "bowling": [
+    "sport",
+    "käglor",
+    "strike"
+  ],
+  "boxing_glove": [
+    "sport",
+    "boxning",
+    "handske",
+    "boxningshandske"
+  ],
+  "boy": [
+    "barn",
+    "pojke"
+  ],
+  "brain": [
+    "hjärna",
+    "tänka",
+    "smart",
+    "tankar"
+  ],
+  "brazil": [
+    "flagga",
+    "br",
+    "brasilien",
+    "flag_br"
+  ],
+  "bread": [
+    "mat",
+    "bröd",
+    "limpa",
+    "formfranska",
+    "rostbröd"
+  ],
+  "breast_feeding": [
+    "amning",
+    "spädbarn",
+    "bäbis"
+  ],
+  "brick": [
+    "tegelsten",
+    "tegel"
+  ],
+  "briefcase": [
+    "kontor",
+    "jobb",
+    "portfölj"
+  ],
+  "briefs": [
+    "kalsonger",
+    "underkläder",
+    "speedos"
+  ],
+  "bright_button": [
+    "öka ljusstyrkan",
+    "ljus",
+    "ljusstyrka"
+  ],
+  "broccoli": [
+    "mat",
+    "grönsak",
+    "grönsaker",
+    "nyttigt"
+  ],
+  "broken_heart": [
+    "hjärtekrossad",
+    "krossat hjärta",
+    "brustet hjärta"
+  ],
+  "broom": [
+    "sopa golvet",
+    "damma",
+    "sopkvast",
+    "sopa",
+    "städa"
+  ],
+  "brown_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "brun cirkel",
+    "brun symbol"
+  ],
+  "brown_heart": [
+    "hjärta",
+    "brunt hjärta"
+  ],
+  "brown_mushroom": [
+    "svamp"
+  ],
+  "brown_square": [
+    "brun",
+    "ruta",
+    "kvadrat",
+    "brun kvadrat"
+  ],
+  "brunei": [
+    "flagga",
+    "flag_bn",
+    "bn"
+  ],
+  "bubble_tea": [
+    "bubbletea",
+    "boba",
+    "boba tea"
+  ],
+  "bubbles": [
+    "bubbla",
+    "bubblor"
+  ],
+  "bucket": [
+    "hink"
+  ],
+  "bug": [
+    "insekt",
+    "tusenfoting",
+    "kryp",
+    "larv"
+  ],
+  "building_construction": [
+    "lyftkran",
+    "konstruktion",
+    "byggkran",
+    "byggarbetsplats",
+    "bygga"
+  ],
+  "bulgaria": [
+    "flag_bg",
+    "flag",
+    "bulgarien",
+    "bg"
+  ],
+  "bullet_train": [
+    "sj",
+    "tåg",
+    "resa",
+    "järnväg",
+    "snabbtåg",
+    "x2000",
+    "x3000"
+  ],
+  "bullseye": [
+    "bull's eye",
+    "pilar",
+    "pilkastning",
+    "dart"
+  ],
+  "burkina_faso": [
+    "flagga",
+    "bf",
+    "flag_bf"
+  ],
+  "burrito": [
+    "mat",
+    "rulle",
+    "mexikanskt"
+  ],
+  "burundi": [
+    "flagga",
+    "bi",
+    "flag_bi"
+  ],
+  "bus": [
+    "stadsbuss",
+    "resa",
+    "semester",
+    "buss"
+  ],
+  "bus_stop": [
+    "station",
+    "buss",
+    "busstop"
+  ],
+  "bust_in_silhouette": [
+    "person",
+    "siluette"
+  ],
+  "busts_in_silhouette": [
+    "personer",
+    "silluetter"
+  ],
+  "butter": [
+    "margarin",
+    "smör"
+  ],
+  "butterfly": [
+    "blå",
+    "insekt",
+    "fjäril"
+  ],
+  "cactus": [
+    "kaktus"
+  ],
+  "call_me_hand": [
+    "toppen"
+  ],
+  "cambodia": [
+    "flagga",
+    "kambodja"
+  ],
+  "camel": [
+    "dromedar"
+  ],
+  "camera": [
+    "digitalkamera",
+    "foto",
+    "kamera",
+    "bild",
+    "ta bild",
+    "fotografera"
+  ],
+  "camera_with_flash": [
+    "ta en bild",
+    "digitalkamera",
+    "foto",
+    "blixt",
+    "kamera",
+    "snappa",
+    "fota",
+    "fotografera",
+    "fotoblixt"
+  ],
+  "camping": [
+    "natur",
+    "tält",
+    "campa",
+    "tälta",
+    "semester",
+    "sova i tält",
+    "scout",
+    "naturen",
+    "ute i naturen"
+  ],
+  "canada": [
+    "flagga",
+    "kanada",
+    "ca"
+  ],
+  "canary_islands": [
+    "flag",
+    "kanerieöarna",
+    "flag_ic"
+  ],
+  "cancer": [
+    "zodiac",
+    "stjärntecken",
+    "tecken",
+    "kräfta",
+    "kräftan"
+  ],
+  "candle": [
+    "ljus",
+    "ljus på fat",
+    "stearinljus",
+    "tänt ljus"
+  ],
+  "candy": [
+    "sötsak",
+    "snask",
+    "godis",
+    "karamell",
+    "tablett"
+  ],
+  "canned_food": [
+    "mat",
+    "krossade tomater",
+    "burkmat",
+    "soppa",
+    "konserv",
+    "tomater på burk",
+    "burksoppa"
+  ],
+  "canoe": [
+    "båt",
+    "paddla",
+    "kanot",
+    "kajak"
+  ],
+  "cape_verde": [
+    "flagga",
+    "cap verde"
+  ],
+  "capricorn": [
+    "zodiac",
+    "stjärntecken",
+    "stenbock",
+    "tecken",
+    "stenbocken"
+  ],
+  "carousel_horse": [
+    "åkattraktion",
+    "karusell"
+  ],
+  "carpentry_saw": [
+    "verktyg",
+    "såg",
+    "handsåg"
+  ],
+  "carrot": [
+    "kanin",
+    "grönsak",
+    "orange",
+    "morot"
+  ],
+  "castle": [
+    "slott",
+    "medeltidsslott"
+  ],
+  "cat": [
+    "katt"
+  ],
+  "cat_face": [
+    "katt",
+    "djur",
+    "mjau",
+    "kattansikte"
+  ],
+  "cat_with_wry_smile": [
+    "hehe"
+  ],
+  "cayman_islands": [
+    "flagga",
+    "ky",
+    "flag_ky",
+    "cayman öarna"
+  ],
+  "central_african_republic": [
+    "flagga",
+    "cf",
+    "central afrikanska republiken",
+    "flag_cf"
+  ],
+  "ceuta_melilla": [
+    "flagga_cm",
+    "ceuta & melilla"
+  ],
+  "chad": [
+    "flagga",
+    "flag_td",
+    "td"
+  ],
+  "chains": [
+    "kedja",
+    "kedjor",
+    "länkar",
+    "url",
+    "länk"
+  ],
+  "chair": [
+    "matstol",
+    "stol"
+  ],
+  "cheese_wedge": [
+    "mat",
+    "ost",
+    "ostbit"
+  ],
+  "chequered_flag": [
+    "flagga",
+    "mål",
+    "varv",
+    "målflagga"
+  ],
+  "cherries": [
+    "mat",
+    "körsbär",
+    "frukt",
+    "bär",
+    "bigarrå",
+    "cherry"
+  ],
+  "cherry_blossom": [
+    "körsbär",
+    "blomster",
+    "våren",
+    "blomma",
+    "blommor",
+    "körsbärsblomma",
+    "rosa blomma"
+  ],
+  "chess_pawn": [
+    "brädspel",
+    "spel",
+    "schack"
+  ],
+  "chestnut": [
+    "nötter",
+    "kastanj",
+    "nöt"
+  ],
+  "chicken": [
+    "fågel",
+    "höna",
+    "kyckling",
+    "tupp"
+  ],
+  "child": [
+    "person",
+    "barn",
+    "flicka",
+    "tös"
+  ],
+  "chile": [
+    "flagga",
+    "flag_cl",
+    "cl"
+  ],
+  "china": [
+    "flagga",
+    "kina",
+    "cn"
+  ],
+  "chipmunk": [
+    "ekorre"
+  ],
+  "chocolate_bar": [
+    "sötsak",
+    "marabou",
+    "snask",
+    "godis",
+    "mjölkchoklad",
+    "chokladkaka",
+    "choklad"
+  ],
+  "chopsticks": [
+    "kinesiskt",
+    "pinnar"
+  ],
+  "christmas_island": [
+    "flagga",
+    "flag_cx",
+    "cx",
+    "julön"
+  ],
+  "christmas_tree": [
+    "jul",
+    "julgran"
+  ],
+  "church": [
+    "religion",
+    "kristendom",
+    "katolik",
+    "kyrka"
+  ],
+  "cigarette": [
+    "cigarett",
+    "röka",
+    "drog",
+    "droger",
+    "rökning"
+  ],
+  "cinema": [
+    "film",
+    "bio"
+  ],
+  "circled_m": [
+    "metro",
+    "m",
+    "cirkel med m",
+    "tunnelbana"
+  ],
+  "circus_tent": [
+    "tivolitält",
+    "cirkus",
+    "tivoli",
+    "cirkustält"
+  ],
+  "cityscape": [
+    "stad",
+    "byggnader",
+    "siluett",
+    "skyskrapor",
+    "skyline"
+  ],
+  "cityscape_at_dusk": [
+    "solnedgång",
+    "skymning",
+    "stad",
+    "stadsafton"
+  ],
+  "cl_button": [
+    "blod cl",
+    "blod",
+    "clear"
+  ],
+  "clap": [
+    "bravo",
+    "klappa händer",
+    "bra",
+    "klappar",
+    "applådera",
+    "applåder",
+    "applåd"
+  ],
+  "clapper_board": [
+    "film",
+    "regissör",
+    "filminspelning",
+    "tagning",
+    "klaff",
+    "bryt",
+    "klaffbräda",
+    "action",
+    "cut"
+  ],
+  "classical_building": [
+    "grekland",
+    "byggnad",
+    "klassisk byggnad",
+    "forum",
+    "parthenon"
+  ],
+  "clinking_beer_mugs": [
+    "stor stark",
+    "skål",
+    "dricka",
+    "dryck",
+    "öl",
+    "bärs",
+    "ölglas",
+    "ölmugg",
+    "alkohol",
+    "pint"
+  ],
+  "clinking_glasses": [
+    "nyår",
+    "moet",
+    "skål",
+    "dricka",
+    "semester",
+    "fira",
+    "bubbel",
+    "bubbelglas",
+    "champagne",
+    "alkohol",
+    "skåla",
+    "champagneglas"
+  ],
+  "closed_book": [
+    "bok",
+    "lexikon",
+    "serie",
+    "saga",
+    "röd bok",
+    "del 1"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "post",
+    "ingen post",
+    "brevlåda",
+    "amerikansk brevlåda"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "post",
+    "brevlåda",
+    "amerikansk brevlåda",
+    "nytt brev"
+  ],
+  "closed_umbrella": [
+    "paraply",
+    "stängt paraply"
+  ],
+  "cloud": [
+    "moln"
+  ],
+  "cloud_with_lightning": [
+    "oväder",
+    "blixtnedslag",
+    "blixt",
+    "åskväder"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "oväder",
+    "storm",
+    "regn",
+    "regnstorm",
+    "blixt",
+    "åska",
+    "åskmoln"
+  ],
+  "cloud_with_rain": [
+    "regn",
+    "moln",
+    "moln med regn",
+    "väder",
+    "mulet",
+    "regnmoln",
+    "skurar"
+  ],
+  "cloud_with_snow": [
+    "oväder",
+    "moln",
+    "vinter",
+    "snömoln",
+    "snö",
+    "snöar",
+    "snöväder"
+  ],
+  "clown_face": [
+    "generad",
+    "cirkus",
+    "clown",
+    "korkad",
+    "göra bort sig"
+  ],
+  "club_suit": [
+    "kort",
+    "klöver"
+  ],
+  "clutch_bag": [
+    "väska",
+    "pouch",
+    "handväska",
+    "clutch"
+  ],
+  "coat": [
+    "rock",
+    "jacka"
+  ],
+  "cockroach": [
+    "insekt",
+    "kackerlacka"
+  ],
+  "cocktail_glass": [
+    "drink",
+    "cocktail",
+    "dry martini",
+    "alkohol",
+    "cocktailglas",
+    "martini",
+    "james bond"
+  ],
+  "coconut": [
+    "mat",
+    "frukt",
+    "kokosnöt",
+    "kokos",
+    "nöt",
+    "halv kokosnöt"
+  ],
+  "coffin": [
+    "död",
+    "begravning",
+    "likkista",
+    "begraven",
+    "rip",
+    "grav",
+    "kista",
+    "drakula"
+  ],
+  "coin": [
+    "krona",
+    "pengar",
+    "mynt",
+    "cash",
+    "silvermynt",
+    "kontanter"
+  ],
+  "cold_face": [
+    "kallt",
+    "hacka tänder",
+    "vinter",
+    "nedkyld",
+    "kyla",
+    "kall",
+    "fryst",
+    "fryser"
+  ],
+  "collision": [
+    "explosion",
+    "bomb",
+    "rea",
+    "krasch",
+    "arg",
+    "boom",
+    "kollission"
+  ],
+  "colombia": [
+    "flag_co",
+    "flag",
+    "co"
+  ],
+  "comet": [
+    "rymden",
+    "stjärna",
+    "komet"
+  ],
+  "compass": [
+    "kompass"
+  ],
+  "computer_disk": [
+    "skiva",
+    "album",
+    "lagring",
+    "minidisk",
+    "cd-rom",
+    "cd-skiva"
+  ],
+  "computer_mouse": [
+    "dator",
+    "datormus",
+    "mus"
+  ],
+  "confetti_ball": [
+    "grattis",
+    "nyår",
+    "konfettibomb",
+    "yay",
+    "konfetti",
+    "födelsedag",
+    "fira",
+    "event",
+    "överraskning"
+  ],
+  "confounded_face": [
+    "sårad",
+    "sårat"
+  ],
+  "confused": [
+    "besviken",
+    ":(",
+    "konfunderad",
+    "fundersam",
+    "mysko"
+  ],
+  "congo_kinshasa": [
+    "flagga",
+    "cd",
+    "kongo",
+    "congo",
+    "flag_cd",
+    "kinshasa"
+  ],
+  "construction": [
+    "varning",
+    "vägarbete",
+    "konstruktion",
+    "vägskylt",
+    "avstängd"
+  ],
+  "construction_worker": [
+    "jobbare",
+    "byggare"
+  ],
+  "construction_worker_man": [
+    "arbetare",
+    "jobbare",
+    "knegare",
+    "byggare"
+  ],
+  "construction_worker_woman": [
+    "hjälm",
+    "arbetare"
+  ],
+  "convenience_store": [
+    "byggnad",
+    "supermarket",
+    "butik",
+    "snabbköp",
+    "buitk"
+  ],
+  "cook": [
+    "kökschef",
+    "kock"
+  ],
+  "cooked_rice": [
+    "mat",
+    "skål med ris",
+    "ris",
+    "asiatiskt"
+  ],
+  "cookie": [
+    "kaka",
+    "baka",
+    "chokladkaka",
+    "kakor"
+  ],
+  "cooking": [
+    "matlagning",
+    "stekt ägg",
+    "stekpanna",
+    "frukost",
+    "omelett"
+  ],
+  "cool_button": [
+    "cool"
+  ],
+  "copyright": [
+    "c"
+  ],
+  "coral": [
+    "hav",
+    "rev",
+    "koraller",
+    "korall"
+  ],
+  "costa_rica": [
+    "flagga"
+  ],
+  "couch_and_lamp": [
+    "vardagsrum",
+    "möbler",
+    "lampa",
+    "soffa",
+    "design"
+  ],
+  "couple_with_heart": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "par med hjärta",
+    "kärlekspar",
+    "kära",
+    "tillsammans"
+  ],
+  "couple_with_heart_man_man": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "gay",
+    "par med hjärta",
+    "homosexuella",
+    "bögar",
+    "kärlekspar",
+    "två killar",
+    "två män",
+    "ett par män"
+  ],
+  "couple_with_heart_woman_woman": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "par med hjärta",
+    "homosexuella",
+    "kärlekspar",
+    "kvinnopar",
+    "lesbiska",
+    "ett par kvinnor"
+  ],
+  "cow": [
+    "ko",
+    "kossa"
+  ],
+  "cow_face": [
+    "ko",
+    "koansikte",
+    "kossa",
+    "muu"
+  ],
+  "cowboy_hat_face": [
+    "hatt",
+    "glad",
+    "cowboy"
+  ],
+  "crab": [
+    "krabba"
+  ],
+  "crayon": [
+    "röd",
+    "måla",
+    "krita",
+    "röd krita"
+  ],
+  "credit_card": [
+    "kort",
+    "pengar",
+    "visa",
+    "kontokort",
+    "kredit",
+    "kreditkort",
+    "mastercard"
+  ],
+  "crescent_moon": [
+    "universum",
+    "måne",
+    "månhalva",
+    "halvmåne"
+  ],
+  "cricket": [
+    "insekt",
+    "gräshoppa",
+    "syrsa"
+  ],
+  "cricket_game": [
+    "sport",
+    "cricket"
+  ],
+  "croatia": [
+    "flag",
+    "kroatien",
+    "hr",
+    "flag_hr"
+  ],
+  "crocodile": [
+    "krokodil"
+  ],
+  "croissant": [
+    "mat",
+    "bakverk",
+    "bröd",
+    "frukost"
+  ],
+  "cross_mark": [
+    "stop",
+    "bannad",
+    "rött kryss",
+    "ta bort",
+    "kryss",
+    "förbjudet",
+    "delete",
+    "radera",
+    "bannlyst"
+  ],
+  "crossed_fingers": [
+    "håller tummarna",
+    "hoppas det",
+    "tur",
+    "lycka till",
+    "hoppas",
+    "hålla tummen",
+    "korsa fingrarna"
+  ],
+  "crossed_swords": [
+    "dolk",
+    "slåss",
+    "krig",
+    "svärd",
+    "attack",
+    "korsade svärd"
+  ],
+  "crown": [
+    "krona",
+    "juveler",
+    "kung",
+    "kunglig",
+    "kungligheter"
+  ],
+  "crutch": [
+    "olycka",
+    "krycka"
+  ],
+  "cry": [
+    "tårar",
+    "nedstämd",
+    "nedstämt",
+    "gråter",
+    "ledsen",
+    "gråt",
+    "ledsamt",
+    ":'(",
+    "tår",
+    "sorgligt",
+    "sorg"
+  ],
+  "crying_cat": [
+    "ledsen",
+    ":'(",
+    "ledsen katt"
+  ],
+  "crystal_ball": [
+    "magi",
+    "stjärntecken",
+    "siare",
+    "kristallkula",
+    "spåkula",
+    "förutspå",
+    "sierska",
+    "framtid",
+    "kristall",
+    "astrologi"
+  ],
+  "cuba": [
+    "cu"
+  ],
+  "cucumber": [
+    "mat",
+    "grönsak",
+    "gurka",
+    "hackad",
+    "skivad",
+    "grönsaker",
+    "saltgurka",
+    "nyttigt",
+    "pickles"
+  ],
+  "cup_with_straw": [
+    "coca cola",
+    "dryck",
+    "cola",
+    "mcdonalds",
+    "läsk",
+    "max"
+  ],
+  "cupcake": [
+    "bakverk",
+    "efterrätt",
+    "kaka",
+    "dessert",
+    "muffins"
+  ],
+  "curaçao": [
+    "flagga",
+    "curacao",
+    "cw",
+    "flag_cw"
+  ],
+  "curling_stone": [
+    "sport",
+    "curling"
+  ],
+  "currency_exchange": [
+    "växla",
+    "valutor",
+    "valuta växling"
+  ],
+  "custard": [
+    "efterrätt",
+    "pudding",
+    "flan",
+    "brulé pudding"
+  ],
+  "cut_of_meat": [
+    "mat",
+    "t-benstek",
+    "fläskkotlett",
+    "köttbit",
+    "kött",
+    "rått kött",
+    "stek"
+  ],
+  "cyclone": [
+    "orkan",
+    "tornado",
+    "cyklon",
+    "snurra"
+  ],
+  "cyprus": [
+    "flagga",
+    "cy",
+    "cypern",
+    "flag_cy"
+  ],
+  "czechia": [
+    "flagga",
+    "tjeckien",
+    "flag_cz",
+    "cz"
+  ],
+  "dagger": [
+    "vapen",
+    "dolk",
+    "kniv"
+  ],
+  "dashing_away": [
+    "fart",
+    "storm",
+    "vind",
+    "dash",
+    "snabb",
+    "blåsa",
+    "blåst",
+    "ånga"
+  ],
+  "date": [
+    "kontor",
+    "kalender",
+    "datum",
+    "schema"
+  ],
+  "deaf_man": [
+    "döv man",
+    "döv"
+  ],
+  "deaf_person": [
+    "döv",
+    "döv person",
+    "hör inte"
+  ],
+  "deaf_woman": [
+    "döv",
+    "döv kvinna"
+  ],
+  "deciduous_tree": [
+    "träd"
+  ],
+  "deer": [
+    "hjort"
+  ],
+  "delivery_truck": [
+    "bil",
+    "lastbil",
+    "kärra"
+  ],
+  "denmark": [
+    "flagga",
+    "norden",
+    "dk",
+    "flag_dk",
+    "danmark"
+  ],
+  "department_store": [
+    "hus",
+    "byggnad",
+    "köpcentrum",
+    "butik"
+  ],
+  "desert": [
+    "varmt",
+    "öken"
+  ],
+  "desert_island": [
+    "strand med palm",
+    "öde ö",
+    "ö",
+    "strand",
+    "resa",
+    "semester",
+    "sommar",
+    "palmer",
+    "paradis",
+    "oas"
+  ],
+  "desktop_computer": [
+    "pc",
+    "dator",
+    "desktop",
+    "stationär dator",
+    "mac"
+  ],
+  "detective": [
+    "deckare",
+    "detektiv"
+  ],
+  "diamond_suit": [
+    "ruter",
+    "card"
+  ],
+  "diego_garcia": [
+    "flagga_dg"
+  ],
+  "dim_button": [
+    "minska ljusstyrkan",
+    "ljus",
+    "ljusstyrka"
+  ],
+  "disappointed_face": [
+    "besviken",
+    ":(",
+    "nedstämd",
+    "nedstämt",
+    "trist",
+    "ledsen",
+    "kraftlös",
+    "ledsamt"
+  ],
+  "disguised_face": [
+    "maskerad",
+    "glasögon",
+    "gömmer mig",
+    "näsa",
+    "dold",
+    "inkognito",
+    "utklädd",
+    "mustasch",
+    "hemlig",
+    "klär ut sig"
+  ],
+  "divide": [
+    "symbol",
+    "matematik",
+    "/",
+    "matte",
+    "delat med",
+    "division"
+  ],
+  "diving_mask": [
+    "snorkla",
+    "scuba diving",
+    "dyka",
+    "snorkling"
+  ],
+  "dizzy": [
+    "magi",
+    "fallande stjärna",
+    "stjärna",
+    "stjärnskott"
+  ],
+  "dna": [
+    "vetenskap",
+    "rna"
+  ],
+  "dodo": [
+    "fågel"
+  ],
+  "dog": [
+    "djur",
+    "doge",
+    "valp",
+    "husdjur",
+    "hund"
+  ],
+  "dog_face": [
+    "doge",
+    "valp",
+    "husdjur",
+    "hund"
+  ],
+  "dollar_banknote": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "sedelbunt",
+    "rik",
+    "usd",
+    "budget",
+    "lön",
+    "sedlar",
+    "bunt pengar",
+    "pengar",
+    "bank",
+    "$"
+  ],
+  "dolphin": [
+    "delfin"
+  ],
+  "dominican_republic": [
+    "flagga",
+    "dominikanska republiken"
+  ],
+  "donkey": [
+    "mula",
+    "åsna",
+    "mulåsna",
+    "envis"
+  ],
+  "door": [
+    "dörr"
+  ],
+  "dotted_line_face": [
+    "generad",
+    "tyst"
+  ],
+  "double_exclamation_mark": [
+    "utropstecken",
+    "!",
+    "!!",
+    "dubbelt utropstecken"
+  ],
+  "doughnut": [
+    "amerikansk munk",
+    "glaserad munk",
+    "munk"
+  ],
+  "dove": [
+    "fredsduva"
+  ],
+  "down_arrow": [
+    "symbol",
+    "pil",
+    "pil nedåt",
+    "pilar",
+    "ner",
+    "nedåt pil"
+  ],
+  "downcast_face_with_sweat": [
+    "svettigt",
+    "svettas"
+  ],
+  "downwards_button": [
+    "knapp",
+    "ner",
+    "pil ner",
+    "neråt bil"
+  ],
+  "dragon": [
+    "orm",
+    "drake"
+  ],
+  "dragon_face": [
+    "drakhuvud"
+  ],
+  "dress": [
+    "klänning",
+    "kläder",
+    "fest"
+  ],
+  "drooling_face": [
+    "yum",
+    "mums",
+    "dräggel",
+    "mmm",
+    "smaskigt",
+    "drägglar"
+  ],
+  "drop_of_blood": [
+    "droppe",
+    "blod",
+    "skada",
+    "mens",
+    "bloddroppe",
+    "donera",
+    "skadad",
+    "donera blod"
+  ],
+  "droplet": [
+    "regn",
+    "droppe",
+    "vattendroppe",
+    "regndroppe",
+    "vatten"
+  ],
+  "drum": [
+    "instrument",
+    "drumroll",
+    "skämt",
+    "trumma",
+    "dåligt skämt",
+    "ba dum tss",
+    "tss"
+  ],
+  "duck": [
+    "fågel",
+    "anka",
+    "and",
+    "gräsand"
+  ],
+  "dumpling": [
+    "mat",
+    "asiatiskt"
+  ],
+  "dvd": [
+    "film",
+    "skiva"
+  ],
+  "e_mail": [
+    "post",
+    "e-mail",
+    "epost",
+    "e-post"
+  ],
+  "eagle": [
+    "fågel",
+    "örn"
+  ],
+  "ear": [
+    "höra",
+    "lyssna",
+    "hör",
+    "öra"
+  ],
+  "ear_of_corn": [
+    "mat",
+    "grönsak",
+    "majs",
+    "majskolv"
+  ],
+  "ear_with_hearing_aid": [
+    "hörapparat"
+  ],
+  "ecuador": [
+    "flagga"
+  ],
+  "egg": [
+    "mat",
+    "påsk",
+    "ägg"
+  ],
+  "eggplant": [
+    "mat",
+    "äggplanta",
+    "kuk",
+    "aubergine",
+    "dick",
+    "penis",
+    "snopp"
+  ],
+  "egypt": [
+    "egypten",
+    "eg"
+  ],
+  "eight": [
+    "siffror",
+    "åtta",
+    "8",
+    "knapp åtta"
+  ],
+  "eight_o_clock": [
+    "klockan 8",
+    "tid",
+    "kl 20",
+    "klocka",
+    "20:00",
+    "klockan åtta",
+    "kl 8",
+    "klockan 20"
+  ],
+  "eight_pointed_star": [
+    "stjärna"
+  ],
+  "eight_thirty": [
+    "tid",
+    "klocka",
+    "klockan 20:30",
+    "kl 8:30",
+    "klockan halv nio",
+    "klockan 8:30",
+    "kl 20:30",
+    "20:30"
+  ],
+  "eject_button": [
+    "knapp",
+    "mata ut"
+  ],
+  "el_salvador": [
+    "flagga",
+    "sv",
+    "flag_sv"
+  ],
+  "electric_plug": [
+    "laddare",
+    "väggkontakt",
+    "sladd",
+    "kontakt",
+    "lampsladd",
+    "energi"
+  ],
+  "elephant": [
+    "elefant"
+  ],
+  "elevator": [
+    "hiss"
+  ],
+  "eleven_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 23",
+    "23:00",
+    "kl 23",
+    "kl 11",
+    "klockan 11",
+    "klockan elva"
+  ],
+  "eleven_thirty": [
+    "tid",
+    "klocka",
+    "klockan halv tolv",
+    "klockan 23:30",
+    "klockan 11:30",
+    "kl 11:30",
+    "kl 23:30",
+    "23:30"
+  ],
+  "elf": [
+    "legolas",
+    "alv"
+  ],
+  "empty_nest": [
+    "tomt näste",
+    "näste"
+  ],
+  "england": [
+    "flagga_en",
+    "engelska flaggan"
+  ],
+  "enraged_face": [
+    "förbannad",
+    "förbaskat",
+    "irriterad",
+    "ilsken",
+    "röd",
+    "arg",
+    "aggressiv",
+    "upprörd"
+  ],
+  "envelope": [
+    "post",
+    "brev",
+    "oläst",
+    "epost",
+    "kuvert"
+  ],
+  "envelope_with_arrow": [
+    "brev",
+    "mail",
+    "oläst",
+    "epost",
+    "email"
+  ],
+  "estonia": [
+    "flagga",
+    "estland"
+  ],
+  "ethiopia": [
+    "flagga",
+    "flag_et",
+    "et",
+    "etiopien"
+  ],
+  "euro_banknote": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "sedelbunt",
+    "rik",
+    "budget",
+    "lön",
+    "sedlar",
+    "bunt pengar",
+    "pengar",
+    "bank",
+    "euro",
+    "€"
+  ],
+  "european_union": [
+    "flagga",
+    "flag_eu",
+    "europa",
+    "europeiska unionen",
+    "eu"
+  ],
+  "evergreen_tree": [
+    "gran"
+  ],
+  "ewe": [
+    "får"
+  ],
+  "exclamation_question_mark": [
+    "va fan",
+    "wtf",
+    "?!",
+    "?",
+    "interrobang",
+    "!?",
+    "ursäkta"
+  ],
+  "exploding_head": [
+    "chockad",
+    "sjukt",
+    "otroligt",
+    "mind blown",
+    "wow",
+    "sprängd",
+    "fattar inte"
+  ],
+  "expressionless_face": [
+    "uttråkad",
+    "sur",
+    "likgiltig",
+    "kraftlös"
+  ],
+  "eye": [
+    "titta",
+    "öga",
+    "se"
+  ],
+  "eyes": [
+    "glo",
+    "titta",
+    "kolla",
+    "spana",
+    "ser",
+    "kollar",
+    "ögon"
+  ],
+  "face_blowing_a_kiss": [
+    "kärlek",
+    "pussar",
+    ":*",
+    "puss",
+    "kär",
+    "kyss",
+    "förälskad",
+    "god natt"
+  ],
+  "face_exhaling": [
+    "sprang",
+    "trött",
+    "tur",
+    "kondition",
+    "kraftlös",
+    "lugn",
+    "andas ut",
+    "pusta"
+  ],
+  "face_holding_back_tears": [
+    "tårar",
+    "lovar",
+    "blyg",
+    "gråt",
+    "snäll",
+    "emotionell",
+    "gråtande leende",
+    "tårögd",
+    "blygt"
+  ],
+  "face_in_clouds": [
+    "moln",
+    "rök",
+    "rökigt",
+    "suddigt",
+    "smog",
+    "dimma",
+    "huvud bland molnen",
+    "ångbastu",
+    "ansikte i molnen",
+    "dimmigt",
+    "glömsk"
+  ],
+  "face_savoring_food": [
+    "slicka",
+    "tunga",
+    "yum",
+    "mums",
+    "smaskens",
+    "mmm",
+    "smaskigt"
+  ],
+  "face_vomiting": [
+    "kräk",
+    "äckligt",
+    "spy",
+    "fy",
+    "örk",
+    "blähh",
+    "illamående",
+    "kräkas",
+    "blä",
+    "mår illa",
+    "spya",
+    "urk"
+  ],
+  "face_with_crossed_out_eyes": [
+    "chockad",
+    "död",
+    "sömnig",
+    "orkar inte",
+    "sömnigt",
+    "döden"
+  ],
+  "face_with_diagonal_mouth": [
+    "besviken",
+    "nedstämd",
+    "skeptisk",
+    "nedstämt",
+    "tveka",
+    "tveksam",
+    ":\\",
+    "hmm"
+  ],
+  "face_with_hand_over_mouth": [
+    "hehe",
+    "generad",
+    "skratta",
+    "skämt",
+    "gäsp",
+    "fnittra",
+    "hålla för munne",
+    "hoppsan"
+  ],
+  "face_with_head_bandage": [
+    "sjuk",
+    "flunsan",
+    "huvudvärk",
+    "flunsa",
+    "omplåstrad",
+    "förkyld",
+    "skadad"
+  ],
+  "face_with_medical_mask": [
+    "flunsan",
+    "smittar",
+    "förkyld"
+  ],
+  "face_with_monocle": [
+    "smart",
+    "tänker",
+    "monokel",
+    "intelligent",
+    "snobb",
+    "funderar",
+    "översittare"
+  ],
+  "face_with_open_eyes_and_hand_over_mouth": [
+    "chockad",
+    "tyst",
+    "häpen",
+    "förvånad",
+    "hålla för munnen",
+    "hand för mun"
+  ],
+  "face_with_peeking_eye": [
+    "rädd",
+    "chockad",
+    "blyg",
+    "titta mellan fingrarna",
+    "nyfiken",
+    "smygkolla",
+    "gömma",
+    "kika",
+    "blundar"
+  ],
+  "face_with_raised_eyebrow": [
+    "otroligt",
+    "skeptisk",
+    "vet inte",
+    "osäker",
+    "hm",
+    "hmmm",
+    "osannolikt",
+    "tvivlar"
+  ],
+  "face_with_spiral_eyes": [
+    "rädd",
+    "uttråkad",
+    ":s",
+    "hypnotiserad"
+  ],
+  "face_with_steam_from_nose": [
+    "irriterad",
+    "arg",
+    "frustrerad",
+    "förbaskad",
+    "jättearg",
+    "fnysa"
+  ],
+  "face_with_symbols_on_mouth": [
+    "fan",
+    "ilska",
+    "irriterad",
+    "ilsken",
+    "arg",
+    "aggressiv",
+    "fuck",
+    "svära",
+    "jävlar"
+  ],
+  "face_with_thermometer": [
+    "tempen",
+    "sjuk",
+    "feber",
+    "influensa",
+    "mår dåligt",
+    "må dåligt"
+  ],
+  "face_with_tongue": [
+    "skojar",
+    "lol",
+    "haha",
+    ":p",
+    "lurad",
+    "sträcker ut tungan"
+  ],
+  "face_without_mouth": [
+    "chockad",
+    "generad",
+    "tveka",
+    "tveksam",
+    "mållös"
+  ],
+  "factory": [
+    "byggnad",
+    "fabrik"
+  ],
+  "factory_worker": [
+    "fabriksjobbare"
+  ],
+  "fairy": [
+    "fe"
+  ],
+  "fallen_leaf": [
+    "höstlöv"
+  ],
+  "family_man_boy": [
+    "pappa",
+    "familj",
+    "ensamstående",
+    "liten familj",
+    "pappa med barn"
+  ],
+  "family_man_boy_boy": [
+    "pappa",
+    "familj"
+  ],
+  "family_man_girl": [
+    "pappa",
+    "familj",
+    "dotter"
+  ],
+  "family_man_girl_boy": [
+    "pappa",
+    "familj",
+    "döttrar"
+  ],
+  "family_man_girl_girl": [
+    "pappa",
+    "familj",
+    "döttrar"
+  ],
+  "family_man_man_boy": [
+    "föräldrar",
+    "pappa",
+    "gay",
+    "förälder",
+    "familj",
+    "pappor",
+    "bögar",
+    "barn",
+    "son",
+    "fader"
+  ],
+  "family_man_man_boy_boy": [
+    "föräldrar",
+    "pappa",
+    "gay",
+    "förälder",
+    "familj",
+    "pappor",
+    "bögar",
+    "barn",
+    "son",
+    "fader",
+    "söner"
+  ],
+  "family_man_man_girl": [
+    "föräldrar",
+    "pappa",
+    "gay",
+    "förälder",
+    "familj",
+    "pappor",
+    "bögar",
+    "barn",
+    "fader",
+    "dotter"
+  ],
+  "family_man_man_girl_boy": [
+    "föräldrar",
+    "pappa",
+    "gay",
+    "förälder",
+    "familj",
+    "pappor",
+    "bögar",
+    "barn",
+    "son",
+    "fader",
+    "dotter"
+  ],
+  "family_man_man_girl_girl": [
+    "föräldrar",
+    "pappa",
+    "gay",
+    "förälder",
+    "familj",
+    "pappor",
+    "döttrar",
+    "bögar",
+    "barn",
+    "fader",
+    "dotter"
+  ],
+  "family_man_woman_boy": [
+    "familj"
+  ],
+  "family_man_woman_boy_boy": [
+    "föräldrar",
+    "pappa",
+    "förälder",
+    "familj",
+    "barn",
+    "son",
+    "fader",
+    "moder",
+    "mamma",
+    "söner"
+  ],
+  "family_man_woman_girl": [
+    "föräldrar",
+    "pappa",
+    "förälder",
+    "familj",
+    "barn",
+    "fader",
+    "moder",
+    "mamma",
+    "dotter"
+  ],
+  "family_man_woman_girl_boy": [
+    "familj"
+  ],
+  "family_man_woman_girl_girl": [
+    "familj",
+    "döttrar",
+    "barn"
+  ],
+  "family_woman_boy": [
+    "förälder",
+    "familj",
+    "barn",
+    "son",
+    "ensamstående",
+    "mamma",
+    "singel"
+  ],
+  "family_woman_boy_boy": [
+    "familj",
+    "ensamstående",
+    "mamma"
+  ],
+  "family_woman_girl": [
+    "förälder",
+    "familj",
+    "barn",
+    "ensamstående",
+    "mamma",
+    "dotter",
+    "singel"
+  ],
+  "family_woman_girl_boy": [
+    "förälder",
+    "familj",
+    "barn",
+    "ensamstående",
+    "mamma",
+    "singel"
+  ],
+  "family_woman_girl_girl": [
+    "familj",
+    "döttrar",
+    "mamma"
+  ],
+  "family_woman_woman_boy": [
+    "föräldrar",
+    "förälder",
+    "familj",
+    "lesbisk",
+    "barn",
+    "moder",
+    "mamma",
+    "dotter",
+    "mammor"
+  ],
+  "family_woman_woman_boy_boy": [
+    "föräldrar",
+    "förälder",
+    "familj",
+    "lesbisk",
+    "barn",
+    "son",
+    "moder",
+    "mamma",
+    "söner",
+    "mammor"
+  ],
+  "family_woman_woman_girl": [
+    "föräldrar",
+    "förälder",
+    "familj",
+    "lesbisk",
+    "barn",
+    "moder",
+    "mamma",
+    "dotter",
+    "mammor"
+  ],
+  "family_woman_woman_girl_boy": [
+    "föräldrar",
+    "förälder",
+    "familj",
+    "lesbisk",
+    "barn",
+    "son",
+    "moder",
+    "mamma",
+    "dotter",
+    "mammor"
+  ],
+  "family_woman_woman_girl_girl": [
+    "föräldrar",
+    "pappa",
+    "familj",
+    "far",
+    "barn",
+    "mamma",
+    "dotter",
+    "mor"
+  ],
+  "farmer": [
+    "bonde",
+    "lantbrukare",
+    "bybo"
+  ],
+  "faroe_islands": [
+    "flagga",
+    "skandinavien",
+    "färöarna",
+    "norden",
+    "flag_fo",
+    "fo"
+  ],
+  "fast_forward_button": [
+    "knapp",
+    "snabbspolning"
+  ],
+  "fast_reverse_button": [
+    "bakåtspola",
+    "knapp",
+    "snabbspolning bakåt"
+  ],
+  "fax_machine": [
+    "telefon",
+    "faxmaskin",
+    "fax"
+  ],
+  "fearful": [
+    "rädd",
+    "häpen",
+    "förvånad",
+    "ledsamt"
+  ],
+  "feather": [
+    "fjäder"
+  ],
+  "ferris_wheel": [
+    "tivoli",
+    "pariserhjul"
+  ],
+  "ferry": [
+    "färja",
+    "skepp"
+  ],
+  "field_hockey": [
+    "sport",
+    "innebandy",
+    "klubba"
+  ],
+  "fiji": [
+    "flagga",
+    "fj",
+    "flag_fj"
+  ],
+  "file_cabinet": [
+    "kontor",
+    "jobb",
+    "arkivera",
+    "arkivskåp",
+    "skåp"
+  ],
+  "film_frames": [
+    "film",
+    "video",
+    "filmband"
+  ],
+  "film_projector": [
+    "projektor",
+    "filmprojektor",
+    "biograf"
+  ],
+  "finland": [
+    "flagga",
+    "skandinavien",
+    "flag_fi",
+    "norden",
+    "fi"
+  ],
+  "fire": [
+    "varm",
+    "het",
+    "hot",
+    "lit",
+    "hett",
+    "brinna",
+    "flamma",
+    "sexig",
+    "eld"
+  ],
+  "fire_engine": [
+    "bil",
+    "sos",
+    "brandkår",
+    "brandbil"
+  ],
+  "fire_extinguisher": [
+    "släckare",
+    "brandsläckare",
+    "eldsläckare",
+    "säkerhet"
+  ],
+  "firecracker": [
+    "spränga",
+    "smällare",
+    "boom",
+    "fyrverkeri",
+    "explosiv",
+    "dynamit",
+    "tnt"
+  ],
+  "firefighter": [
+    "brandman"
+  ],
+  "first_quarter_moon": [
+    "måne",
+    "halvmåne"
+  ],
+  "first_quarter_moon_face": [
+    "måne",
+    "månhalva",
+    "halvmåne",
+    "första månhalvan"
+  ],
+  "fish": [
+    "fisk"
+  ],
+  "fishing_pole": [
+    "sport",
+    "fisk",
+    "fiskespö",
+    "pimpelfiske",
+    "fiska"
+  ],
+  "five": [
+    "5",
+    "siffror",
+    "fem",
+    "knapp fem"
+  ],
+  "five_o_clock": [
+    "tid",
+    "klockan fem",
+    "klocka",
+    "klockan 17",
+    "klockan 5",
+    "kl 17",
+    "17:00",
+    "kl 5"
+  ],
+  "five_thirty": [
+    "tid",
+    "kl 5:30",
+    "klocka",
+    "17:30",
+    "kl 17:30",
+    "klockan 17:30",
+    "klockan halv sex",
+    "klockan 5:30"
+  ],
+  "flashlight": [
+    "lampa",
+    "lysa upp",
+    "ficklampa"
+  ],
+  "flat_shoe": [
+    "sko",
+    "platt sko"
+  ],
+  "flatbread": [
+    "arepa",
+    "pita",
+    "flatbröd"
+  ],
+  "flexed_biceps": [
+    "träna",
+    "gym",
+    "styrka",
+    "arm",
+    "biceps",
+    "stark",
+    "flexa"
+  ],
+  "floppy_disk": [
+    "lagring",
+    "spara",
+    "diskett",
+    "diskett enhet"
+  ],
+  "flushed_face": [
+    "chockad",
+    "generad",
+    "blyg",
+    "rodnar",
+    "rodna",
+    "hoppsan",
+    "skäms",
+    "nervös",
+    "va!",
+    "stirra"
+  ],
+  "flute": [
+    "instrument",
+    "blockflöjt",
+    "flöjt"
+  ],
+  "fly": [
+    "insekt",
+    "fluga"
+  ],
+  "flying_disc": [
+    "sport",
+    "idrott",
+    "bollsport",
+    "friidrott",
+    "frisbee"
+  ],
+  "flying_saucer": [
+    "tefat",
+    "utomjording",
+    "rymden",
+    "ufo",
+    "farkost",
+    "flygande tefat",
+    "okänd farkost"
+  ],
+  "fog": [
+    "väder",
+    "höst",
+    "dimma"
+  ],
+  "foggy": [
+    "skymd sikt",
+    "väder",
+    "dold",
+    "dimma",
+    "dimmigt"
+  ],
+  "folded_hands": [
+    "be",
+    "lovar",
+    "välsignat",
+    "ber",
+    "high five",
+    "toppen",
+    "signe dig",
+    "välignat",
+    "super",
+    "satmaror",
+    "snällt",
+    "tusen tack",
+    "tackar",
+    "pray"
+  ],
+  "folding_hand_fan": [
+    "solfjäder"
+  ],
+  "fondue": [
+    "mat"
+  ],
+  "foot": [
+    "gå",
+    "fotsula",
+    "fötter",
+    "tår",
+    "fot"
+  ],
+  "footprints": [
+    "fotavtryck",
+    "fotsteg"
+  ],
+  "fork_and_knife": [
+    "middag",
+    "hungrig",
+    "gaffel",
+    "kniv",
+    "yum",
+    "mums",
+    "äta",
+    "mmm",
+    "bestick",
+    "smaskigt",
+    "kniv o gaffel"
+  ],
+  "fork_and_knife_with_plate": [
+    "mat",
+    "middag",
+    "lunch",
+    "frukost",
+    "äta",
+    "tallrik",
+    "cafe",
+    "restaurang"
+  ],
+  "fortune_cookie": [
+    "mat",
+    "lyckokaka",
+    "kaka"
+  ],
+  "fountain": [
+    "fontän"
+  ],
+  "fountain_pen": [
+    "penna"
+  ],
+  "four": [
+    "siffror",
+    "knapp fyra",
+    "4",
+    "fyra",
+    "fyraknapp"
+  ],
+  "four_leaf_clover": [
+    "tur",
+    "klöver",
+    "irland",
+    "4-klöver",
+    "st patricks day"
+  ],
+  "four_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 4",
+    "klockan fyra",
+    "16:00",
+    "klockan 16",
+    "kl 16",
+    "kl 4"
+  ],
+  "four_thirty": [
+    "tid",
+    "klocka",
+    "kl 4:30",
+    "klockan halv fem",
+    "kl 16:30",
+    "klockan 16:30",
+    "16:30",
+    "klockan 4:30"
+  ],
+  "fox": [
+    "räv",
+    "furry",
+    "rävansikte"
+  ],
+  "framed_picture": [
+    "konst",
+    "tavla",
+    "foto",
+    "bild",
+    "inramad",
+    "konstram",
+    "fotoram"
+  ],
+  "france": [
+    "paris",
+    "frankrike",
+    "fr"
+  ],
+  "free_button": [
+    "gratis",
+    "free"
+  ],
+  "french_fries": [
+    "mat",
+    "pommes frites",
+    "mcdonalds",
+    "pommes"
+  ],
+  "french_polynesia": [
+    "flagga",
+    "franska polynesien"
+  ],
+  "fried_shrimp": [
+    "räkor",
+    "räka",
+    "popcorn shrimp",
+    "friterat",
+    "asiatiskt",
+    "friterad räka"
+  ],
+  "frog": [
+    "amfibier",
+    "grodansikte",
+    "groda",
+    "pepe"
+  ],
+  "front_facing_baby_chick": [
+    "påsk",
+    "fågel",
+    "nykläckt",
+    "påskkyckling",
+    "kyckling"
+  ],
+  "frowning": [
+    "missnöjd",
+    ":(",
+    "sur",
+    "ledsen",
+    "missnöjt"
+  ],
+  "frowning_face_with_open_mouth": [
+    ":o",
+    "häpen",
+    "förvånad",
+    "förskräckt",
+    "usch",
+    "fy",
+    "men fy"
+  ],
+  "fu": [
+    "irriterad",
+    "ilsken",
+    "peka finger",
+    "arg",
+    "långfinger",
+    "fo",
+    "fan ta dig",
+    "fuck you",
+    "försvinn",
+    "fuck off"
+  ],
+  "fuel_pump": [
+    "pump",
+    "bensin"
+  ],
+  "full_moon": [
+    "fullmåne",
+    "måne"
+  ],
+  "full_moon_face": [
+    "fullmåne"
+  ],
+  "funeral_urn": [
+    "urna",
+    "död",
+    "begravning",
+    "kremerad"
+  ],
+  "gambia": [
+    "flagga"
+  ],
+  "game_die": [
+    "brädspel",
+    "yatzy",
+    "spel",
+    "spela",
+    "tärningsspel",
+    "slump",
+    "tärning"
+  ],
+  "garlic": [
+    "vitlök"
+  ],
+  "gear": [
+    "verktyg",
+    "settings",
+    "hjul",
+    "kugg",
+    "inställningar",
+    "kugghjul"
+  ],
+  "gem_stone": [
+    "satmaror"
+  ],
+  "gemini": [
+    "zodiac",
+    "stjärntecken",
+    "tvillingarna",
+    "tecken",
+    "tvilling"
+  ],
+  "genie": [
+    "magi",
+    "magisk lampa",
+    "ande",
+    "aladdin",
+    "väsen"
+  ],
+  "georgia": [
+    "flagga",
+    "georgien"
+  ],
+  "germany": [
+    "de",
+    "tyskland",
+    "deutschland"
+  ],
+  "ghana": [
+    "flagga"
+  ],
+  "ghost": [
+    "rädd",
+    "monster",
+    "spöke",
+    "ande"
+  ],
+  "gibraltar": [
+    "flagga",
+    "gi",
+    "flag_gi"
+  ],
+  "ginger_root": [
+    "ingefära"
+  ],
+  "giraffe": [
+    "giraff"
+  ],
+  "girl": [
+    "barn",
+    "flicka"
+  ],
+  "glass_of_milk": [
+    "dricka",
+    "dryck",
+    "mjölk",
+    "ett glas mjölk"
+  ],
+  "glasses": [
+    "glasögon",
+    "synfel",
+    "blind",
+    "solglasögon"
+  ],
+  "globe_showing_americas": [
+    "nordamerika",
+    "jordglob",
+    "jorden",
+    "sydamerika",
+    "amerika",
+    "glob",
+    "rymden",
+    "planet",
+    "världen",
+    "usa",
+    "sfär",
+    "värld"
+  ],
+  "globe_showing_asia_australia": [
+    "jordglob",
+    "jorden",
+    "asien",
+    "glob",
+    "rymden",
+    "australien",
+    "planet",
+    "världen",
+    "sfär",
+    "värld"
+  ],
+  "globe_showing_europe_africa": [
+    "jordglob",
+    "jorden",
+    "glob",
+    "rymden",
+    "planet",
+    "världen",
+    "afrika",
+    "sfär",
+    "värld"
+  ],
+  "gloves": [
+    "handskar",
+    "handske"
+  ],
+  "glowing_star": [
+    "stjärna",
+    "blinkande stjärna"
+  ],
+  "goal_net": [
+    "sport",
+    "nät",
+    "mål"
+  ],
+  "goat": [
+    "get"
+  ],
+  "goblin": [
+    "monster",
+    "japansk goblin"
+  ],
+  "goggles": [
+    "glasögon",
+    "skyddsglasögon",
+    "skydd"
+  ],
+  "goose": [
+    "fågel",
+    "anka",
+    "gås"
+  ],
+  "graduation_cap": [
+    "doktorera",
+    "utbildning",
+    "studentexamen",
+    "studentmössa",
+    "amerikansk examen",
+    "doktorshatt"
+  ],
+  "grapes": [
+    "vin",
+    "mat",
+    "frukt",
+    "vindruvor",
+    "bär",
+    "russin",
+    "druva",
+    "druvor"
+  ],
+  "greece": [
+    "grekland",
+    "gr"
+  ],
+  "green_apple": [
+    "mat",
+    "frukt",
+    "äpple",
+    "vegan",
+    "grön",
+    "nyttig",
+    "granny smith",
+    "grönt äpple"
+  ],
+  "green_book": [
+    "bok",
+    "lexikon",
+    "del 2",
+    "serie",
+    "saga",
+    "grön bok"
+  ],
+  "green_circle": [
+    "symbol",
+    "blå symbol",
+    "cirkel",
+    "knapp",
+    "blå cirkel"
+  ],
+  "green_heart": [
+    "hjärta"
+  ],
+  "green_salad": [
+    "mat",
+    "lunch",
+    "sallad",
+    "nyttig mat",
+    "grönsallad"
+  ],
+  "green_square": [
+    "grön kvadrat",
+    "ruta",
+    "grön ruta",
+    "grön",
+    "kvadrat"
+  ],
+  "greenland": [
+    "gl",
+    "grönland"
+  ],
+  "grey_heart": [
+    "grått hjärta",
+    "grå hjärta"
+  ],
+  "grimacing": [
+    "hehe",
+    "ilska",
+    "likgiltig",
+    "oj då",
+    "visa tänder",
+    "tänder",
+    "le med tänder"
+  ],
+  "grin": [
+    ":d",
+    "le",
+    "glad",
+    "skratt",
+    "haha",
+    "smile",
+    "leende",
+    "smiley"
+  ],
+  "grinning_cat": [
+    "smilande katt"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "smajl",
+    "glad katt"
+  ],
+  "grinning_face": [
+    "le",
+    "skratta",
+    "glad",
+    "skratt",
+    "smila",
+    "leende",
+    "smajl"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "lol",
+    ":d",
+    "glad",
+    "skratt",
+    "rolig",
+    "haha",
+    "roligt",
+    "skrattande"
+  ],
+  "growing_heart": [
+    "<3"
+  ],
+  "guam": [
+    "flagga",
+    "flag_gu",
+    "gu"
+  ],
+  "guard": [
+    "brittisk högvakt"
+  ],
+  "guide_dog": [
+    "ledarhund",
+    "labrador"
+  ],
+  "guitar": [
+    "rock",
+    "melodi",
+    "strängar",
+    "gitarr",
+    "elgitarr",
+    "lyra"
+  ],
+  "hair_pick": [
+    "kam"
+  ],
+  "haiti": [
+    "flagga"
+  ],
+  "hamburger": [
+    "mat",
+    "middag",
+    "lunch",
+    "snabbmat",
+    "burgare",
+    "onyttig mat",
+    "cheeseburgare",
+    "hamburgare"
+  ],
+  "hammer": [
+    "verktyg",
+    "hammare"
+  ],
+  "hammer_and_pick": [
+    "verktyg",
+    "hammare",
+    "hacka"
+  ],
+  "hammer_and_wrench": [
+    "verktyg",
+    "hammare",
+    "skiftnyckel"
+  ],
+  "hamster": [
+    "djur",
+    "hamsteransikte"
+  ],
+  "hand_with_fingers_splayed": [
+    "hand",
+    "tjena",
+    "handflata",
+    "hej",
+    "hallå"
+  ],
+  "hand_with_index_finger_and_thumb_crossed": [
+    "hjärta",
+    "kärlek",
+    "<3",
+    "kär",
+    "love",
+    "tycker om"
+  ],
+  "handbag": [
+    "väska",
+    "handväska"
+  ],
+  "handshake": [
+    "överenskommet",
+    "skaka hand",
+    "deal",
+    "handslag"
+  ],
+  "hash": [
+    "fyrkant",
+    "hashtag"
+  ],
+  "hatching_chick": [
+    "påsk",
+    "fågel",
+    "påskkyckling",
+    "kyckling",
+    "kycklingägg"
+  ],
+  "head_shaking_horizontally": [
+    "nej",
+    "nekande",
+    "skaka",
+    "skaka på huvudet",
+    "neka"
+  ],
+  "head_shaking_vertically": [
+    "jakande",
+    "absolut",
+    "acceptera",
+    "ja",
+    "nicka"
+  ],
+  "headphone": [
+    "dj",
+    "ljud",
+    "musik",
+    "deejay",
+    "hörlurar",
+    "airpods",
+    "lurar"
+  ],
+  "headstone": [
+    "begrava",
+    "död",
+    "gravsten",
+    "begravning",
+    "begraven",
+    "rip",
+    "grav"
+  ],
+  "health_worker": [
+    "doktor",
+    "läkare"
+  ],
+  "hear_no_evil_monkey": [
+    "apa",
+    "inget ont",
+    "höra",
+    "hålla för öronen",
+    "hör inget ont"
+  ],
+  "heart": [
+    "hjärta",
+    "kärlek",
+    "pussar",
+    "<3",
+    "kär",
+    "förälskad",
+    "glad",
+    "älskling"
+  ],
+  "heart_decoration": [
+    "hjärta",
+    "kärlek",
+    "pussar",
+    "<3",
+    "kär",
+    "förälskad",
+    "glad",
+    "älskling",
+    "lila hjärta"
+  ],
+  "heart_exclamation": [
+    "hjärta",
+    "kärlek",
+    "<3",
+    "puss",
+    "kyssar",
+    "älskling",
+    "jag älskar dig"
+  ],
+  "heart_eyes": [
+    "kärlek",
+    "lycklig",
+    "kär",
+    "amazing",
+    "förälskad",
+    "fantastiskt",
+    "älskar",
+    "hjärtan",
+    "wow"
+  ],
+  "heart_hands": [
+    "hjärta",
+    "kärlek",
+    "<3",
+    "kär",
+    "förälskad"
+  ],
+  "heart_on_fire": [
+    "kärlek",
+    "eld och lågor",
+    "brinnande",
+    "het",
+    "värmande",
+    "brinnande hjärta",
+    "brinner för dig"
+  ],
+  "heart_suit": [
+    "hjärta",
+    "kärlek",
+    "<3",
+    "spel",
+    "puss",
+    "röd",
+    "kyssar",
+    "älskling",
+    "jag älskar dig",
+    "hjärter"
+  ],
+  "heart_with_arrow": [
+    "kärlek",
+    "kär",
+    "förälskad"
+  ],
+  "heart_with_ribbon": [
+    "hjärta",
+    "kärlek",
+    "pussar",
+    "<3",
+    "kär",
+    "förälskad",
+    "glad",
+    "present",
+    "älskling",
+    "kärleksgåva",
+    "gåva"
+  ],
+  "heavy_dollar_sign": [
+    "bitcoin",
+    "usd",
+    "pengar",
+    "pris",
+    "rea",
+    "bank",
+    "$",
+    "dollar",
+    "kryptovaluta"
+  ],
+  "heavy_equals_sign": [
+    "symbol",
+    "lika med",
+    "matematik",
+    "matte",
+    "="
+  ],
+  "hedgehog": [
+    "igelkott"
+  ],
+  "helicopter": [
+    "flyga",
+    "helikopter"
+  ],
+  "herb": [
+    "ormbunke"
+  ],
+  "hibiscus": [
+    "hibiskus"
+  ],
+  "high_heeled_shoe": [
+    "finklädd",
+    "sko",
+    "högklackat",
+    "högklackad sko",
+    "party kläder"
+  ],
+  "high_voltage": [
+    "fara",
+    "högspänning",
+    "zeus",
+    "elektricitet",
+    "blixt",
+    "snabb",
+    "blixtra",
+    "blixten",
+    "åska"
+  ],
+  "hiking_boot": [
+    "vandringsskor",
+    "kängor",
+    "vandring",
+    "skor",
+    "vandringskängor"
+  ],
+  "hindu_temple": [
+    "tempel",
+    "byggnad",
+    "religion",
+    "hinduiskt tempel",
+    "hindu"
+  ],
+  "hippopotamus": [
+    "flodhäst"
+  ],
+  "hole": [
+    "svart hål",
+    "hål"
+  ],
+  "hollow_red_circle": [
+    "röd cirkel"
+  ],
+  "honduras": [
+    "flagga",
+    "hn",
+    "flag_hn"
+  ],
+  "honey_pot": [
+    "mat",
+    "söt",
+    "burk med honung",
+    "nalle puh",
+    "honing"
+  ],
+  "honeybee": [
+    "insekt",
+    "bi",
+    "humla",
+    "honungsbi"
+  ],
+  "hong_kong_sar_china": [
+    "flagga",
+    "hong kong",
+    "hk",
+    "flag_hk"
+  ],
+  "hook": [
+    "krok"
+  ],
+  "horizontal_traffic_light": [
+    "rödljus",
+    "trafikljus"
+  ],
+  "horse": [
+    "häst",
+    "galloperande häst",
+    "travhäst"
+  ],
+  "horse_face": [
+    "häst",
+    "hästansikte",
+    "hästhuvud"
+  ],
+  "horse_racing": [
+    "häst",
+    "galopp",
+    "race",
+    "trav"
+  ],
+  "hospital": [
+    "byggnad",
+    "sjukhus"
+  ],
+  "hot_beverage": [
+    "kaffe",
+    "java"
+  ],
+  "hot_dog": [
+    "mat",
+    "snabbmat",
+    "korv",
+    "grillkorv",
+    "korv med bröd",
+    "varmkorv",
+    "kokt korv"
+  ],
+  "hot_face": [
+    "varm",
+    "sexigt",
+    "varmt",
+    "svettas",
+    "kåt",
+    "hett",
+    "smälter"
+  ],
+  "hot_pepper": [
+    "mat",
+    "het",
+    "kryddstark",
+    "chili",
+    "stark",
+    "bränner",
+    "peppar",
+    "het som chili",
+    "chilipeppar"
+  ],
+  "hotel": [
+    "hotell",
+    "byggnad"
+  ],
+  "hourglass_done": [
+    "tid",
+    "timglas",
+    "tiden är kommen",
+    "tiden är slut",
+    "slut"
+  ],
+  "hourglass_not_done": [
+    "tid",
+    "tiden rinner ut",
+    "timglas",
+    "väntar",
+    "tiden går"
+  ],
+  "house": [
+    "hus",
+    "radhus",
+    "byggnad",
+    "villa",
+    "hemma",
+    "hem"
+  ],
+  "house_with_garden": [
+    "hus",
+    "radhus",
+    "byggnad",
+    "villa",
+    "hemma",
+    "hem",
+    "trädgård"
+  ],
+  "houses": [
+    "hus",
+    "byggnader",
+    "förort"
+  ],
+  "hugs": [
+    "glad",
+    "hälsningar",
+    "händer",
+    "tycker om",
+    "kramar",
+    "kram",
+    "krama"
+  ],
+  "hungary": [
+    "ungern",
+    "flag",
+    "flag_hu",
+    "hu"
+  ],
+  "hushed_face": [
+    ":o",
+    "häpen",
+    "förvånad",
+    "förvånande"
+  ],
+  "hut": [
+    "hus",
+    "hydda"
+  ],
+  "hyacinth": [
+    "blå",
+    "hyacint",
+    "blomma"
+  ],
+  "ice": [
+    "kallt",
+    "drink",
+    "isbit",
+    "is",
+    "frys",
+    "frusen"
+  ],
+  "ice_hockey": [
+    "sport",
+    "hocket",
+    "puck",
+    "ishockey"
+  ],
+  "ice_skate": [
+    "sport",
+    "vinter",
+    "skridsko"
+  ],
+  "iceland": [
+    "island"
+  ],
+  "id_button": [
+    "id",
+    "id knapp"
+  ],
+  "identification_card": [
+    "id-kort",
+    "id",
+    "legitimation",
+    "legitimera"
+  ],
+  "in_hole": [
+    "flagga",
+    "sport",
+    "golf",
+    "tee",
+    "green"
+  ],
+  "inbox_tray": [
+    "inkommande brev",
+    "post",
+    "brev",
+    "inkorg"
+  ],
+  "index_pointing_at_the_viewer": [
+    "peka",
+    "pekfinger",
+    "du"
+  ],
+  "index_pointing_up": [
+    "kom i håg",
+    "kom ihåg",
+    "för det första",
+    "första",
+    "en sak",
+    "ajabaja"
+  ],
+  "india": [
+    "indien",
+    "in"
+  ],
+  "indonesia": [
+    "id",
+    "indonesien"
+  ],
+  "infinity": [
+    "symbol",
+    "matte",
+    "oändlighet",
+    "evighet"
+  ],
+  "information_source": [
+    "info",
+    "i",
+    "information"
+  ],
+  "innocent": [
+    "hehe",
+    "oskyldig",
+    "helgon",
+    "ängel",
+    "snäll",
+    "angel"
+  ],
+  "input_latin_letters": [
+    "latinska bokstäver",
+    "abc",
+    "alfabet"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "gemener",
+    "små bokstäver",
+    "alfabet"
+  ],
+  "input_latin_uppercase": [
+    "bokstäver",
+    "versaler",
+    "abcd",
+    "alfabet"
+  ],
+  "iran": [
+    "flagga",
+    "flag_ir",
+    "tehran",
+    "ir"
+  ],
+  "iraq": [
+    "irak"
+  ],
+  "ireland": [
+    "flagga",
+    "irland"
+  ],
+  "italy": [
+    "flagga",
+    "italian",
+    "it",
+    "italien"
+  ],
+  "jack_o_lantern": [
+    "pumpa",
+    "halloween"
+  ],
+  "japan": [
+    "flagga",
+    "jp"
+  ],
+  "japanese_acceptable_button": [
+    "acceptabel"
+  ],
+  "japanese_application_button": [
+    "japanska app",
+    "applikation"
+  ],
+  "japanese_bargain_button": [
+    "rea"
+  ],
+  "japanese_congratulations_button": [
+    "grattis"
+  ],
+  "japanese_discount_button": [
+    "rabatt"
+  ],
+  "japanese_free_of_charge_button": [
+    "japanska gratis",
+    "gratis"
+  ],
+  "japanese_here_button": [
+    "koko",
+    "japanska här",
+    "här"
+  ],
+  "japanese_monthly_amount_button": [
+    "belopp",
+    "månadsbelopp"
+  ],
+  "japanese_no_vacancy_button": [
+    "upptaget"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "japanska inte gratis",
+    "kostar pengar"
+  ],
+  "japanese_open_for_business_button": [
+    "japanska öppet"
+  ],
+  "japanese_passing_grade_button": [
+    "godkänd",
+    "betyg"
+  ],
+  "japanese_prohibited_button": [
+    "förbjudet"
+  ],
+  "japanese_reserved_button": [
+    "japanska",
+    "reserverad"
+  ],
+  "japanese_secret_button": [
+    "hemlighet"
+  ],
+  "japanese_vacancy_button": [
+    "ledigt"
+  ],
+  "jar": [
+    "glas",
+    "burk"
+  ],
+  "jeans": [
+    "byxor"
+  ],
+  "jellyfish": [
+    "manet",
+    "blå manet",
+    "brännmanet"
+  ],
+  "jersey": [
+    "flagga",
+    "je",
+    "flag_je"
+  ],
+  "joker": [
+    "spel",
+    "kort"
+  ],
+  "jordan": [
+    "flagga",
+    "flag_jo",
+    "jordanien",
+    "jo"
+  ],
+  "joy": [
+    "skojar",
+    "lol",
+    "skrattar",
+    "gapskratt",
+    "asgarv",
+    "skratt",
+    "rolig",
+    "haha",
+    "xd",
+    "lurad"
+  ],
+  "joy_cat": [
+    "skrattkatt"
+  ],
+  "joystick": [
+    "spela",
+    "arkad",
+    "tv-spel",
+    "arkadspel"
+  ],
+  "judge": [
+    "domare"
+  ],
+  "kaaba": [
+    "byggnad",
+    "religion",
+    "islam",
+    "mecca",
+    "muslim",
+    "hajj"
+  ],
+  "kangaroo": [
+    "australien",
+    "känguru"
+  ],
+  "key": [
+    "nyckel"
+  ],
+  "keyboard": [
+    "dator",
+    "tangentbord"
+  ],
+  "kick_scooter": [
+    "sparkcykel",
+    "kickbike"
+  ],
+  "kiss": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "par med hjärta",
+    "homosexuella",
+    "bögar",
+    "kärlekspar",
+    "kyss",
+    "gays",
+    "ett par män"
+  ],
+  "kiss_man_man": [
+    "gay",
+    "puss",
+    "bögar",
+    "kyss"
+  ],
+  "kiss_mark": [
+    "kyss",
+    "pussmun",
+    "läppstift",
+    "läppar"
+  ],
+  "kiss_woman_man": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "pussar",
+    "par med hjärta",
+    "kärlekspar",
+    "kyss"
+  ],
+  "kiss_woman_woman": [
+    "hjärta",
+    "kärlek",
+    "par",
+    "par med hjärta",
+    "homosexuella",
+    "kärlekspar",
+    "kyss",
+    "kvinnopar",
+    "lesbiska",
+    "ett par kvinnor"
+  ],
+  "kissing_cat": [
+    "kattpuss"
+  ],
+  "kissing_face": [
+    ":*",
+    "puss",
+    "kyss"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "pussar",
+    ":*",
+    "puss",
+    "kyss",
+    "xx",
+    "=*"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    ":*",
+    "puss"
+  ],
+  "kitchen_knife": [
+    "vapen",
+    "skära",
+    "matlagning",
+    "kniv",
+    "arg",
+    "hacka",
+    "kniva",
+    "hugga"
+  ],
+  "kite": [
+    "drake",
+    "flyga drake"
+  ],
+  "kiwi_fruit": [
+    "frukt",
+    "kiwifrukt",
+    "kiwi",
+    "kiwibär"
+  ],
+  "knot": [
+    "knyta",
+    "knut",
+    "knop"
+  ],
+  "koala": [
+    "björn"
+  ],
+  "kosovo": [
+    "flagga",
+    "xk",
+    "flag_xk"
+  ],
+  "kuwait": [
+    "flagga",
+    "flag_kw",
+    "kw"
+  ],
+  "lab_coat": [
+    "rock",
+    "labbrock",
+    "forskare"
+  ],
+  "label": [
+    "pris",
+    "rea",
+    "etikett",
+    "prislapp"
+  ],
+  "lacrosse": [
+    "sport"
+  ],
+  "ladder": [
+    "trappstege",
+    "byggstege",
+    "stege",
+    "fällbar stege"
+  ],
+  "lady_beetle": [
+    "insekt",
+    "nyckelpiga",
+    "kryp"
+  ],
+  "laos": [
+    "flagga",
+    "la",
+    "flag_la"
+  ],
+  "laptop": [
+    "pc",
+    "dator",
+    "bärbar dator"
+  ],
+  "large_blue_diamond": [
+    "blå diamant",
+    "stor blå ruter"
+  ],
+  "large_orange_diamond": [
+    "stor orange diamant"
+  ],
+  "last_quarter_moon": [
+    "måne",
+    "halvmåne"
+  ],
+  "last_quarter_moon_face": [
+    "måne",
+    "månhalva",
+    "andra månhalvan",
+    "halvmåne"
+  ],
+  "last_track_button": [
+    "föregående spår"
+  ],
+  "latin_cross": [
+    "symbol",
+    "troende",
+    "protestantism",
+    "religion",
+    "kristendom",
+    "katolik",
+    "kors",
+    "jesus"
+  ],
+  "latvia": [
+    "flagga",
+    "lv",
+    "flag_lv",
+    "lettland"
+  ],
+  "laughing": [
+    "skojar",
+    "lol",
+    "skratta",
+    "haha",
+    "kikna",
+    "xd",
+    "höhö"
+  ],
+  "leaf_fluttering_in_wind": [
+    "höst",
+    "fallande löv",
+    "gröna blad",
+    "blad",
+    "löv i vinden",
+    "löv"
+  ],
+  "leafy_green": [
+    "mat",
+    "grönsak",
+    "sallad",
+    "grönsaker",
+    "nyttigt"
+  ],
+  "lebanon": [
+    "flagga",
+    "flag_lb",
+    "lb",
+    "libanon"
+  ],
+  "ledger": [
+    "bok",
+    "anteckningsbok",
+    "album",
+    "gul bok",
+    "spiralbok",
+    "spiralblock"
+  ],
+  "left_arrow": [
+    "symbol",
+    "vänster",
+    "pil",
+    "backa",
+    "pilar",
+    "pil vänster",
+    "tillbaka",
+    "<-",
+    "vänster pil"
+  ],
+  "left_facing_fist": [
+    "vänsterjabb"
+  ],
+  "leftwards_hand": [
+    "hand",
+    "handflata",
+    "vänster hand"
+  ],
+  "leftwards_pushing_hand": [
+    "hand",
+    "stop",
+    "stanna",
+    "stoppsignal",
+    "höger hand",
+    "halt"
+  ],
+  "leg": [
+    "ben"
+  ],
+  "lemon": [
+    "mat",
+    "frukt",
+    "citrus",
+    "citron",
+    "citrusfrukt"
+  ],
+  "leo": [
+    "zodiac",
+    "stjärntecken",
+    "lejon",
+    "lejonet",
+    "tecken"
+  ],
+  "libra": [
+    "zodiac",
+    "stjärntecken",
+    "våg",
+    "tecken",
+    "vågen"
+  ],
+  "liechtenstein": [
+    "flagga",
+    "flag_li",
+    "li"
+  ],
+  "light_blue_heart": [
+    "blått hjärta",
+    "ljusblått hjärta"
+  ],
+  "light_bulb": [
+    "lysande",
+    "idé",
+    "lampa",
+    "glödlampa"
+  ],
+  "light_rail": [
+    "tåg",
+    "järnväg"
+  ],
+  "lime": [
+    "limeklyfta"
+  ],
+  "link": [
+    "kedja",
+    "url",
+    "länk"
+  ],
+  "linked_paperclips": [
+    "gem"
+  ],
+  "lion": [
+    "kung",
+    "lejon",
+    "simba",
+    "djurens konung",
+    "lejonhuvud"
+  ],
+  "lipstick": [
+    "läppstift",
+    "rött läppstift",
+    "smink"
+  ],
+  "lithuania": [
+    "litauen"
+  ],
+  "lizard": [
+    "ödla",
+    "reptil"
+  ],
+  "llama": [
+    "lama"
+  ],
+  "lobster": [
+    "hummer"
+  ],
+  "locked": [
+    "hänglås",
+    "låst",
+    "lås"
+  ],
+  "locked_with_key": [
+    "hänglås",
+    "lås",
+    "nyckellås",
+    "kryptering",
+    "säkert",
+    "låst med nyckel",
+    "krypterat"
+  ],
+  "locomotive": [
+    "ånglok",
+    "tåg",
+    "lok"
+  ],
+  "lollipop": [
+    "sötsak",
+    "snask",
+    "godis",
+    "klubba",
+    "karamell"
+  ],
+  "long_drum": [
+    "instrument",
+    "trumma",
+    "långtrumma"
+  ],
+  "lotion_bottle": [
+    "hudkräm",
+    "body lotion",
+    "kräm",
+    "torr hud",
+    "lotion"
+  ],
+  "lotus": [
+    "blomma",
+    "näckros",
+    "vattenlilja"
+  ],
+  "loudspeaker": [
+    "megafon"
+  ],
+  "love_hotel": [
+    "hotell",
+    "byggnad",
+    "kärlekshotell"
+  ],
+  "love_letter": [
+    "kärlek",
+    "kärleksbrev",
+    "brev",
+    "kuvert"
+  ],
+  "love_you_gesture": [
+    "coolt"
+  ],
+  "low_battery": [
+    "dör snart",
+    "slut på batteri",
+    "lite energi",
+    "lågt batteri",
+    "tomt batteri"
+  ],
+  "luggage": [
+    "hotell",
+    "bagage",
+    "koffert",
+    "resväska"
+  ],
+  "lungs": [
+    "lunga",
+    "lungor"
+  ],
+  "luxembourg": [
+    "flagga",
+    "luxemburg"
+  ],
+  "lying_face": [
+    "lång näsa",
+    "lura",
+    "lögnare",
+    "ljuger",
+    "ljuga"
+  ],
+  "mage": [
+    "trollkarl",
+    "magiker"
+  ],
+  "magic_wand": [
+    "magi",
+    "harry potter",
+    "stav",
+    "trolla",
+    "trollstav"
+  ],
+  "magnifying_glass_tilted_left": [
+    "söker",
+    "zooma",
+    "förstoringsglas",
+    "letar",
+    "zooma in",
+    "leta",
+    "sök",
+    "ledtråd",
+    "förstora",
+    "hitta"
+  ],
+  "magnifying_glass_tilted_right": [
+    "söker",
+    "zooma",
+    "förstoringsglas",
+    "leta",
+    "sökruta",
+    "sök",
+    "ledtråd",
+    "förstora",
+    "zoom"
+  ],
+  "mahjong_red_dragon": [
+    "spel",
+    "majong",
+    "mahjong"
+  ],
+  "malawi": [
+    "mw"
+  ],
+  "malaysia": [
+    "my"
+  ],
+  "maldives": [
+    "mv",
+    "maldiverna"
+  ],
+  "mali": [
+    "flagga"
+  ],
+  "malta": [
+    "mt"
+  ],
+  "mammoth": [
+    "mammut"
+  ],
+  "man": [
+    "herre",
+    "herransikte"
+  ],
+  "man_artist": [
+    "konstnär",
+    "målare"
+  ],
+  "man_astronaut": [
+    "astronaut"
+  ],
+  "man_bald": [
+    "herre",
+    "man",
+    "karl"
+  ],
+  "man_beard": [
+    "skäggig",
+    "skägg"
+  ],
+  "man_biking": [
+    "sport",
+    "cykling",
+    "cyklist",
+    "cykla",
+    "person som cyklar"
+  ],
+  "man_bouncing_ball": [
+    "sport",
+    "boll",
+    "basket",
+    "dribbla",
+    "lira basket",
+    "manlig basketspelare",
+    "spela basket",
+    "man som dribblar",
+    "basketboll"
+  ],
+  "man_bowing": [
+    "beklagar",
+    "sorry"
+  ],
+  "man_cartwheeling": [
+    "hjula",
+    "volt",
+    "gymnastik"
+  ],
+  "man_climbing": [
+    "klättring",
+    "bestiga berg",
+    "friklättring",
+    "bouldering"
+  ],
+  "man_cook": [
+    "kock"
+  ],
+  "man_curly_hair": [
+    "person",
+    "man",
+    "kryllig"
+  ],
+  "man_dancing": [
+    "dans"
+  ],
+  "man_detective": [
+    "inspektör",
+    "deckare",
+    "detektiv"
+  ],
+  "man_elf": [
+    "alv"
+  ],
+  "man_facepalming": [
+    "skam"
+  ],
+  "man_factory_worker": [
+    "fabriksjobbare",
+    "jobbare"
+  ],
+  "man_fairy": [
+    "fe"
+  ],
+  "man_farmer": [
+    "bonde",
+    "lantbrukare"
+  ],
+  "man_feeding_baby": [
+    "matar matar baby"
+  ],
+  "man_firefighter": [
+    "hjälm",
+    "brand",
+    "brandman"
+  ],
+  "man_frowning": [
+    "fryner",
+    "man fryner"
+  ],
+  "man_genie": [
+    "magi",
+    "magisk lampa",
+    "ande",
+    "aladdin"
+  ],
+  "man_gesturing_no": [
+    "nix",
+    "nä",
+    "avfärdar"
+  ],
+  "man_gesturing_ok": [
+    "cirkel",
+    "k",
+    "gestikulera",
+    "man som gör ett ok tecken",
+    "ok",
+    "signal",
+    "händerna på huvudet",
+    "man som gör en cirkel"
+  ],
+  "man_getting_haircut": [
+    "frisör",
+    "sax",
+    "man som klipper håret",
+    "person som klipper håret",
+    "klippa sig",
+    "klippa håret"
+  ],
+  "man_getting_massage": [
+    "massage",
+    "person som får massage",
+    "huvud",
+    "händer",
+    "man får ansiktsmassage"
+  ],
+  "man_golfing": [
+    "sport",
+    "golfslag",
+    "spela golf",
+    "golf",
+    "fore",
+    "klubba"
+  ],
+  "man_guard": [
+    "högvakt",
+    "kvinnlig vakt"
+  ],
+  "man_health_worker": [
+    "doktor",
+    "akut",
+    "läkare"
+  ],
+  "man_in_lotus_position": [
+    "sport",
+    "fokus",
+    "stillsam",
+    "yoga",
+    "zen",
+    "lugn",
+    "man i lotusställning",
+    "lotus",
+    "meditera"
+  ],
+  "man_in_manual_wheelchair": [
+    "man i rullstol",
+    "rullstol"
+  ],
+  "man_in_motorized_wheelchair": [
+    "rullstol"
+  ],
+  "man_in_steamy_room": [
+    "bastu",
+    "spa",
+    "ångbastu",
+    "bad",
+    "ångrum"
+  ],
+  "man_in_tuxedo": [
+    "man"
+  ],
+  "man_judge": [
+    "domare"
+  ],
+  "man_juggling": [
+    "jonglera",
+    "cirkus",
+    "många bollar i luften",
+    "tivoli",
+    "jonglör",
+    "bollar"
+  ],
+  "man_kneeling": [
+    "be",
+    "knä",
+    "ber",
+    "stå på knä",
+    "lotus",
+    "stå på huk",
+    "bedjande"
+  ],
+  "man_lifting_weights": [
+    "sport",
+    "squats",
+    "frivändning",
+    "träna",
+    "skivstång",
+    "person som lyfter en skivstång",
+    "vikter",
+    "gym",
+    "bodybuilder",
+    "man som lyfter en skivstång",
+    "lyfta",
+    "tyngdlyftning",
+    "träning"
+  ],
+  "man_mage": [
+    "trollkarl",
+    "magiker"
+  ],
+  "man_mechanic": [
+    "arbetare",
+    "mekaniker",
+    "manlig mekaniker"
+  ],
+  "man_mountain_biking": [
+    "sport",
+    "cykling",
+    "cyklist",
+    "cykla",
+    "mountain bike",
+    "man på mountain bike"
+  ],
+  "man_office_worker": [
+    "kontorsman",
+    "manlig kontorist"
+  ],
+  "man_pilot": [
+    "pilot"
+  ],
+  "man_playing_handball": [
+    "sport",
+    "bollsport",
+    "handboll",
+    "handbollsspelare"
+  ],
+  "man_playing_water_polo": [
+    "boll",
+    "bollsport",
+    "vattenpolo",
+    "vattenpolospelare",
+    "polo",
+    "manlig vattenpolospelare",
+    "spela vattenpolo"
+  ],
+  "man_police_officer": [
+    "polis",
+    "snut"
+  ],
+  "man_pouting": [
+    "sur",
+    "sura",
+    "irriterad",
+    "fått nog",
+    "puta med läpparna",
+    "grinig"
+  ],
+  "man_raising_hand": [
+    "hej",
+    "höjd arm"
+  ],
+  "man_red_hair": [
+    "man",
+    "ansikte"
+  ],
+  "man_rowing_boat": [
+    "roddbåt",
+    "ror",
+    "ro"
+  ],
+  "man_running": [
+    "sport",
+    "person som springer",
+    "springa",
+    "sen",
+    "man som springer",
+    "löpa",
+    "skynda",
+    "löpträna",
+    "springer"
+  ],
+  "man_s_shoe": [
+    "herrsko",
+    "boots",
+    "skor",
+    "lädersko",
+    "skinnsko",
+    "brun sko"
+  ],
+  "man_scientist": [
+    "vetenskapsman"
+  ],
+  "man_shrugging": [
+    "man som rycker på axlarna",
+    "rycka på axlarna",
+    "vet inte",
+    "vet ej",
+    "herregud",
+    "idk",
+    "vem vet",
+    "person som rycker på axlarna"
+  ],
+  "man_singer": [
+    "teater",
+    "skådespelare"
+  ],
+  "man_standing": [
+    "person",
+    "man",
+    "människa",
+    "stå"
+  ],
+  "man_student": [
+    "student",
+    "manlig student",
+    "examen"
+  ],
+  "man_superhero": [
+    "hjälte",
+    "superman"
+  ],
+  "man_supervillain": [
+    "maskerad",
+    "superhjälte",
+    "buse",
+    "ögonmask",
+    "batman",
+    "skurk"
+  ],
+  "man_surfing": [
+    "våg",
+    "surfare",
+    "wakeboard",
+    "person som surfar",
+    "surfa",
+    "man som surfar"
+  ],
+  "man_swimming": [
+    "sport",
+    "simmare",
+    "crawla",
+    "simma"
+  ],
+  "man_teacher": [
+    "student",
+    "lärare",
+    "studerande"
+  ],
+  "man_technologist": [
+    "kontor",
+    "kodare",
+    "kollega",
+    "it",
+    "programmerare",
+    "manlig teknolog"
+  ],
+  "man_tipping_hand": [
+    "hand",
+    "oh well",
+    "welp",
+    "vicka på handen",
+    "informationsdisk",
+    "idk",
+    "lutar",
+    "man som vrider på handen"
+  ],
+  "man_vampire": [
+    "vampyr"
+  ],
+  "man_walking": [
+    "vandrare"
+  ],
+  "man_wearing_turban": [
+    "man med turban"
+  ],
+  "man_white_hair": [
+    "morfar",
+    "farfar"
+  ],
+  "man_with_veil": [
+    "brud"
+  ],
+  "man_with_white_cane": [
+    "blindkäpp",
+    "blind"
+  ],
+  "man_zombie": [
+    "zombie"
+  ],
+  "mango": [
+    "mat",
+    "frukt",
+    "exotiska frukter"
+  ],
+  "mantelpiece_clock": [
+    "klocka",
+    "ur"
+  ],
+  "manual_wheelchair": [
+    "rullstol"
+  ],
+  "map_of_japan": [
+    "japansk karta",
+    "karta över japan"
+  ],
+  "maple_leaf": [
+    "lönnlöv"
+  ],
+  "maracas": [
+    "marakas"
+  ],
+  "martial_arts_uniform": [
+    "sport",
+    "kimono",
+    "karate",
+    "kampsport",
+    "japan",
+    "judo"
+  ],
+  "mate": [
+    "drink",
+    "kokosnöt",
+    "calabash"
+  ],
+  "mauritius": [
+    "mu"
+  ],
+  "meat_on_bone": [
+    "mat",
+    "köttbit",
+    "kött på ben"
+  ],
+  "mechanic": [
+    "mekaniker"
+  ],
+  "mechanical_arm": [
+    "maskin",
+    "robot",
+    "mekanisk arm"
+  ],
+  "mechanical_leg": [
+    "robotben",
+    "mekanoben"
+  ],
+  "megaphone": [
+    "högtalare",
+    "regissör",
+    "megafon",
+    "tala högt"
+  ],
+  "melon": [
+    "mat",
+    "frukt",
+    "honungsmelon",
+    "nätmelon"
+  ],
+  "melting_face": [
+    "trött",
+    "kraftlös",
+    "smälta",
+    "smälter",
+    "smältande ansikte",
+    "smält"
+  ],
+  "men_holding_hands": [
+    "par",
+    "gay",
+    "partner",
+    "två män",
+    "hålla hand",
+    "hålla händerna",
+    "relation"
+  ],
+  "men_with_bunny_ears": [
+    "par",
+    "dansare",
+    "kostym",
+    "kaniner",
+    "utklädnad",
+    "playboy"
+  ],
+  "men_wrestling": [
+    "sport",
+    "brottas",
+    "brottning",
+    "kampsport",
+    "manliga brottare",
+    "brottare",
+    "herrbrottning"
+  ],
+  "mending_heart": [
+    "hjärtekrossad",
+    "krossat hjärta",
+    "brustet hjärta"
+  ],
+  "mermaid": [
+    "sjöjungfru"
+  ],
+  "merman": [
+    "näcken"
+  ],
+  "merperson": [
+    "poseidon"
+  ],
+  "metro": [
+    "tuben",
+    "sl",
+    "tunnelbana",
+    "tbana"
+  ],
+  "mexico": [
+    "mx"
+  ],
+  "microbe": [
+    "mutera",
+    "covid19",
+    "pandemi",
+    "karantän",
+    "sjukdom",
+    "bakterie",
+    "förkylning",
+    "corona",
+    "virus"
+  ],
+  "microphone": [
+    "dj",
+    "sång",
+    "deejay",
+    "mikrofon",
+    "platta",
+    "sjunga",
+    "spela in",
+    "mik"
+  ],
+  "microscope": [
+    "mikroskop",
+    "forskning"
+  ],
+  "military_helmet": [
+    "militärhjälm",
+    "militär"
+  ],
+  "military_medal": [
+    "medalj",
+    "militär rang",
+    "guldstjärna",
+    "emblem"
+  ],
+  "milky_way": [
+    "stjärnor",
+    "rymd",
+    "rymden",
+    "vintergatan"
+  ],
+  "minibus": [
+    "bil",
+    "minibuss"
+  ],
+  "minus": [
+    "symbol",
+    "matematik",
+    "matte",
+    "-"
+  ],
+  "mirror": [
+    "spegel"
+  ],
+  "mirror_ball": [
+    "spegelboll",
+    "disko",
+    "klubb",
+    "diskokula",
+    "party",
+    "fest",
+    "dansa"
+  ],
+  "moai": [
+    "stenstod",
+    "påskön",
+    "stenhuvud",
+    "staty",
+    "moyai"
+  ],
+  "mobile_phone": [
+    "telefon",
+    "mobil",
+    "smartphone",
+    "mobiltelefon",
+    "iphone"
+  ],
+  "mobile_phone_off": [
+    "mobil av"
+  ],
+  "mobile_phone_with_arrow": [
+    "ringa",
+    "telefon",
+    "mobil",
+    "smartphone"
+  ],
+  "moldova": [
+    "moldavien",
+    "md"
+  ],
+  "monaco": [
+    "mc"
+  ],
+  "money_bag": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "joakim von anka",
+    "rik",
+    "budget",
+    "lön",
+    "pengar",
+    "bank",
+    "pengasäck",
+    "säck med pengar"
+  ],
+  "money_mouth_face": [
+    "rik",
+    "pengar",
+    "vill ha",
+    "sugar daddy",
+    "ge mig",
+    "mutkolv"
+  ],
+  "money_with_wings": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "rik",
+    "usd",
+    "budget",
+    "lön",
+    "sedlar",
+    "bunt pengar",
+    "pengar",
+    "fattig",
+    "bank",
+    "$",
+    "spenderar pengar",
+    "kostar pengar",
+    "pengar flyger iväg",
+    "pengar med vingar"
+  ],
+  "mongolia": [
+    "flagga",
+    "mongoliet"
+  ],
+  "monkey": [
+    "apa"
+  ],
+  "monkey_face": [
+    "apa",
+    "apansikte"
+  ],
+  "monorail": [
+    "tåg",
+    "resa",
+    "järnväg",
+    "kollektivtrafik"
+  ],
+  "montenegro": [
+    "me"
+  ],
+  "moon_cake": [
+    "mat",
+    "efterrätt",
+    "kinesiskt",
+    "kinesiskt nyår",
+    "mooncake"
+  ],
+  "moose": [
+    "djur",
+    "älghuvud",
+    "älg",
+    "skogens konung"
+  ],
+  "morocco": [
+    "ma",
+    "marocko"
+  ],
+  "mosque": [
+    "byggnad",
+    "religion",
+    "moske",
+    "muslim"
+  ],
+  "mosquito": [
+    "insekt",
+    "mygg",
+    "mygga"
+  ],
+  "motor_boat": [
+    "båt",
+    "motorbåt",
+    "yacht"
+  ],
+  "motor_scooter": [
+    "cykel",
+    "moped",
+    "vespa",
+    "motorcykel"
+  ],
+  "motorcycle": [
+    "mc",
+    "motorcykel"
+  ],
+  "motorized_wheelchair": [
+    "rullstol",
+    "elektrisk rullstol",
+    "permobil"
+  ],
+  "motorway": [
+    "förbifart",
+    "motorväg",
+    "väg"
+  ],
+  "mount_fuji": [
+    "bergstopp",
+    "berg"
+  ],
+  "mountain": [
+    "topp",
+    "toppen",
+    "bestiga berg",
+    "bergsklättring",
+    "berg",
+    "alp"
+  ],
+  "mountain_cableway": [
+    "skidlift",
+    "kabinlift",
+    "skidåkning",
+    "lift"
+  ],
+  "mouse": [
+    "mus"
+  ],
+  "mouse_face": [
+    "djur",
+    "mus",
+    "råtta"
+  ],
+  "mouse_trap": [
+    "råttfälla"
+  ],
+  "mouth": [
+    "mun",
+    "läppar"
+  ],
+  "movie_camera": [
+    "film",
+    "regissör",
+    "bio",
+    "filma",
+    "videokamera",
+    "biofilm"
+  ],
+  "mrs_claus": [
+    "tomte",
+    "jul"
+  ],
+  "multiply": [
+    "symbol",
+    "matematik",
+    "*",
+    "matte",
+    "multiplikation",
+    "x",
+    "gånger"
+  ],
+  "mushroom": [
+    "flugsvamp"
+  ],
+  "musical_keyboard": [
+    "instrument",
+    "spela",
+    "underhållning",
+    "melodi",
+    "midi",
+    "musikinstrument",
+    "tangenter",
+    "keyboard",
+    "piano"
+  ],
+  "musical_note": [
+    "noter",
+    "not",
+    "sång",
+    "musik",
+    "sjunga",
+    "sångare"
+  ],
+  "musical_notes": [
+    "noter",
+    "dj",
+    "underhållning",
+    "melodi",
+    "sång",
+    "musik",
+    "musiknoter",
+    "toner",
+    "harmoni"
+  ],
+  "musical_score": [
+    "sång"
+  ],
+  "muted_speaker": [
+    "tyst",
+    "ljud av",
+    "tysta",
+    "ljudlöst",
+    "stäng av ljudet"
+  ],
+  "mx_claus": [
+    "tomte",
+    "tomteluva"
+  ],
+  "myanmar_burma": [
+    "flagga",
+    "burma",
+    "myanmar"
+  ],
+  "nail_polish": [
+    "manikyr",
+    "naglar"
+  ],
+  "namibia": [
+    "flagga",
+    "na",
+    "flag_na"
+  ],
+  "national_park": [
+    "park",
+    "nationalpark"
+  ],
+  "nauseated_face": [
+    "ugh",
+    "sjuk",
+    ":s",
+    "avund",
+    "urg",
+    "usch",
+    "grön",
+    "äckligt",
+    "jag mår illa",
+    "fy",
+    "sjösjuk",
+    "hatar",
+    "illamående",
+    "avskyr"
+  ],
+  "necktie": [
+    "skjorta",
+    "uppklädd",
+    "slipsknut",
+    "slips"
+  ],
+  "nepal": [
+    "np"
+  ],
+  "nerd_face": [
+    "läser",
+    "glasögon",
+    "smart",
+    "boknörd",
+    "nörd",
+    "töntig",
+    "nerd",
+    "tönt"
+  ],
+  "nest_with_eggs": [
+    "fågelbo",
+    "bo",
+    "näste"
+  ],
+  "nesting_dolls": [
+    "matryoshka",
+    "docka",
+    "ryssland"
+  ],
+  "netherlands": [
+    "flag",
+    "nederländerna",
+    "holland",
+    "flag_nl",
+    "dutch",
+    "nl"
+  ],
+  "neutral_face": [
+    "tråkigt",
+    "besviken",
+    "uttråkad",
+    "nedstämd",
+    "nedstämt",
+    "tveka",
+    "tveksam",
+    "likgiltig",
+    "boring"
+  ],
+  "new_button": [
+    "nya",
+    "nytt",
+    "ny",
+    "nyhet"
+  ],
+  "new_moon": [
+    "måne",
+    "nymåne"
+  ],
+  "new_moon_face": [
+    "måne",
+    "nymåne",
+    "månförmörkelse",
+    "nymånsansikte"
+  ],
+  "new_zealand": [
+    "nya zeeland",
+    "nz"
+  ],
+  "newspaper": [
+    "tidning"
+  ],
+  "next_track_button": [
+    "nästa låtknapp"
+  ],
+  "ng_button": [
+    "inte bra",
+    "not good"
+  ],
+  "nicaragua": [
+    "flagga",
+    "ni",
+    "flag_ni"
+  ],
+  "niger": [
+    "flagga",
+    "ne",
+    "flag_ne"
+  ],
+  "nigeria": [
+    "flagga"
+  ],
+  "night_with_stars": [
+    "natthimmel",
+    "natt",
+    "stjärnklar",
+    "stad i ljus"
+  ],
+  "nine": [
+    "knapp nio",
+    "siffror",
+    "nio",
+    "9"
+  ],
+  "nine_o_clock": [
+    "klockan 21",
+    "tid",
+    "klocka",
+    "21:00",
+    "klockan nio",
+    "kl 9",
+    "klockan 9",
+    "kl 21"
+  ],
+  "nine_thirty": [
+    "tid",
+    "klocka",
+    "klockan halv tio",
+    "klockan 21:30",
+    "21:30",
+    "klockan 9:30",
+    "kl 21:30",
+    "kl 9:30"
+  ],
+  "ninja": [
+    "dykare"
+  ],
+  "no_entry": [
+    "symbol",
+    "varning",
+    "stop",
+    "bannad",
+    "förbjudet",
+    "nekad",
+    "ingen entre",
+    "blockad"
+  ],
+  "no_one_under_eighteen": [
+    "symbol",
+    "förbjuden",
+    "18 års gräns",
+    "onlyfans",
+    "pornografi",
+    "vuxna",
+    "18-årsgräns",
+    "droger",
+    "porr",
+    "warning",
+    "vuxen",
+    "of",
+    "nsfw"
+  ],
+  "no_smoking": [
+    "symbol",
+    "rökning förbjuden",
+    "rökförbud",
+    "röka",
+    "rökning",
+    "ingen rökning",
+    "förbud"
+  ],
+  "north_korea": [
+    "kp",
+    "nord korea"
+  ],
+  "north_macedonia": [
+    "flagga",
+    "flag_mk",
+    "macedonia",
+    "norra makedonien",
+    "makedonien",
+    "mk"
+  ],
+  "norway": [
+    "skandinavien",
+    "sjuttonde maj",
+    "norska flaggan",
+    "norge",
+    "no"
+  ],
+  "nose": [
+    "näsa"
+  ],
+  "notebook": [
+    "bok",
+    "svart bok",
+    "anteckningsbok",
+    "anteckning"
+  ],
+  "notebook_with_decorative_cover": [
+    "bok",
+    "anteckningar",
+    "anteckningsbok",
+    "beige bok"
+  ],
+  "nut_and_bolt": [
+    "skruv",
+    "skruva",
+    "mutter",
+    "gänga"
+  ],
+  "o_button_blood_type": [
+    "blod",
+    "0",
+    "blodtyp",
+    "0 blod"
+  ],
+  "ocean": [
+    "tsunami",
+    "våg",
+    "vågor",
+    "hokusai",
+    "hav",
+    "surfa"
+  ],
+  "octopus": [
+    "bläckfisk"
+  ],
+  "office_building": [
+    "kontor",
+    "byggnad",
+    "höghus",
+    "kontorsbyggnad"
+  ],
+  "office_worker": [
+    "tjänsteman",
+    "kontorist"
+  ],
+  "ogre": [
+    "monster",
+    "japansk ogre",
+    "troll",
+    "ful",
+    "djävul",
+    "demon"
+  ],
+  "oil_drum": [
+    "röd tunna",
+    "tunna med olja",
+    "oljefat",
+    "oljetunna",
+    "olja"
+  ],
+  "ok_button": [
+    "okej",
+    "knapp",
+    "ok",
+    "ja"
+  ],
+  "ok_hand": [
+    "check",
+    "bravo",
+    "toppen",
+    "absolut",
+    "ok"
+  ],
+  "old_key": [
+    "nyckel"
+  ],
+  "old_man": [
+    "gamling",
+    "morfar",
+    "farfar"
+  ],
+  "old_woman": [
+    "farmor",
+    "mormor",
+    "dam"
+  ],
+  "older_person": [
+    "person",
+    "hår",
+    "frisyr"
+  ],
+  "olive": [
+    "grön oliv",
+    "cocktail",
+    "tapenade",
+    "oliv"
+  ],
+  "om": [
+    "symbol",
+    "troende",
+    "religion",
+    "hinduism",
+    "hindu"
+  ],
+  "oman": [
+    "om"
+  ],
+  "oncoming_automobile": [
+    "bil",
+    "bilresa",
+    "semester",
+    "röd bil",
+    "åka bil",
+    "roadtrip"
+  ],
+  "oncoming_fist": [
+    "toppen",
+    "slå"
+  ],
+  "oncoming_police_car": [
+    "bil",
+    "polis",
+    "polisbil"
+  ],
+  "oncoming_taxi": [
+    "taxi"
+  ],
+  "one": [
+    "1"
+  ],
+  "one_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 1",
+    "13:00",
+    "klockan 13",
+    "kl 13",
+    "kl 1"
+  ],
+  "one_piece_swimsuit": [
+    "baddräkt"
+  ],
+  "one_thirty": [
+    "tid",
+    "klocka",
+    "klockan 1:30",
+    "kl 1:30",
+    "kl 13:30",
+    "klockan 13:30",
+    "13:30",
+    "klockan halv två"
+  ],
+  "onion": [
+    "gul lök",
+    "lök"
+  ],
+  "open_book": [
+    "läsa",
+    "bok",
+    "saga",
+    "uppslagen bok",
+    "historia",
+    "öppen bok"
+  ],
+  "open_hands": [
+    "handflator",
+    "händer"
+  ],
+  "open_mouth": [
+    "chockad",
+    "panik",
+    ":o",
+    "häpen",
+    "förvånad",
+    "panikslagen",
+    "förvånande",
+    "ohhh",
+    "förvånar"
+  ],
+  "ophiuchus": [
+    "zodiac",
+    "stjärntecken",
+    "ormbäraren"
+  ],
+  "optical_disk": [
+    "cd",
+    "skiva",
+    "cd-skiva"
+  ],
+  "orange_book": [
+    "bok",
+    "lexikon",
+    "serie",
+    "saga",
+    "orange bok",
+    "del 4"
+  ],
+  "orange_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "orange cirkel",
+    "orange symbol"
+  ],
+  "orange_heart": [
+    "hjärta"
+  ],
+  "orange_square": [
+    "ruta",
+    "orange",
+    "kvadrat",
+    "orange ruta",
+    "orange kvadrat"
+  ],
+  "orangutan": [
+    "apa",
+    "apor",
+    "orangutang"
+  ],
+  "otter": [
+    "utter"
+  ],
+  "outbox_tray": [
+    "post",
+    "utkorg",
+    "utgående post"
+  ],
+  "owl": [
+    "fågel",
+    "uggla"
+  ],
+  "ox": [
+    "oxe",
+    "buffel"
+  ],
+  "oyster": [
+    "ostron",
+    "mussla"
+  ],
+  "p_button": [
+    "parkering",
+    "parkera",
+    "p-knapp"
+  ],
+  "package": [
+    "låda",
+    "post",
+    "kartong",
+    "present",
+    "beställning",
+    "order",
+    "box",
+    "paket"
+  ],
+  "page_facing_up": [
+    "skriva ut",
+    "ark",
+    "pappersark",
+    "dokument",
+    "papper",
+    "sida"
+  ],
+  "page_with_curl": [
+    "dokument",
+    "papper",
+    "hoprullad",
+    "rulla upp"
+  ],
+  "pager": [
+    "telefon",
+    "sökare"
+  ],
+  "paintbrush": [
+    "penna"
+  ],
+  "pakistan": [
+    "pk"
+  ],
+  "palestinian_territories": [
+    "flag",
+    "flag_ps",
+    "palestina",
+    "ps"
+  ],
+  "palm_down_hand": [
+    "vänster hand",
+    "handflata nedåt",
+    "vänster handflata"
+  ],
+  "palm_tree": [
+    "palm"
+  ],
+  "palm_up_hand": [
+    "be",
+    "lockar",
+    "handflata upp",
+    "höger handflata"
+  ],
+  "palms_up_together": [
+    "öppnar händer"
+  ],
+  "panama": [
+    "flagga",
+    "flag_pa",
+    "pa"
+  ],
+  "pancakes": [
+    "mat",
+    "frukost",
+    "pannkaka",
+    "amerikanska pannkakor",
+    "pannkakor"
+  ],
+  "panda": [
+    "pandaansikte",
+    "björnansikte",
+    "björn",
+    "hårig"
+  ],
+  "paperclip": [
+    "jobb",
+    "gem",
+    "office"
+  ],
+  "papua_new_guinea": [
+    "flag",
+    "flag_pg",
+    "papua nya guinea",
+    "pg"
+  ],
+  "parachute": [
+    "fallskärm",
+    "paragliding"
+  ],
+  "paraguay": [
+    "flagga",
+    "flag_py",
+    "py"
+  ],
+  "parrot": [
+    "papegoja"
+  ],
+  "partying_face": [
+    "grattis",
+    "hurra",
+    "födelsedag",
+    "fira",
+    "firande",
+    "party",
+    "fest",
+    "ferre",
+    "bday",
+    "partaj"
+  ],
+  "passenger_ship": [
+    "silja line",
+    "båt",
+    "kryssning",
+    "semester",
+    "färja",
+    "passagerarfartyg",
+    "finlandsfärja"
+  ],
+  "pause_button": [
+    "pauseknapp"
+  ],
+  "paw_prints": [
+    "tass",
+    "tassar"
+  ],
+  "pea_pod": [
+    "ärtskida",
+    "grönsak",
+    "ärtor",
+    "ärta"
+  ],
+  "peace_symbol": [
+    "symbol",
+    "religion",
+    "fred",
+    "hippie",
+    "peace",
+    "flower power"
+  ],
+  "peach": [
+    "mat",
+    "frukt",
+    "vegan",
+    "rumpa",
+    "aprikos",
+    "persika",
+    "frukter",
+    "röv"
+  ],
+  "peacock": [
+    "påfågel"
+  ],
+  "peanuts": [
+    "nötter",
+    "jordnötskal",
+    "jordnötter",
+    "nöt",
+    "dumbo"
+  ],
+  "pear": [
+    "mat",
+    "frukt",
+    "grön",
+    "päron"
+  ],
+  "pen": [
+    "skriva",
+    "penna",
+    "bläckpenna",
+    "kulspetspenna",
+    "rita"
+  ],
+  "pencil": [
+    "skriva",
+    "penna",
+    "blyertspenna",
+    "skriver",
+    "redigera",
+    "rita"
+  ],
+  "penguin": [
+    "fågel",
+    "pingvin",
+    "linux"
+  ],
+  "pensive_face": [
+    "besviken",
+    "nedstämd",
+    "nedstämt",
+    "trist",
+    "ledsen"
+  ],
+  "people_hugging": [
+    "kram"
+  ],
+  "people_with_bunny_ears": [
+    "par",
+    "dansare",
+    "kostym",
+    "kaniner",
+    "utklädnad",
+    "playboy"
+  ],
+  "people_wrestling": [
+    "sport",
+    "brottas",
+    "brottning",
+    "kampsport",
+    "brottare"
+  ],
+  "performing_arts": [
+    "konst",
+    "teater",
+    "maskerad",
+    "kostym",
+    "kultur",
+    "mask",
+    "masker",
+    "skådespelare"
+  ],
+  "persevering_face": [
+    "sårad",
+    "sårar"
+  ],
+  "person": [
+    "flicka",
+    "kvinna",
+    "kvinnoansikte"
+  ],
+  "person_bald": [
+    "flintis",
+    "flinskallig",
+    "flint"
+  ],
+  "person_beard": [
+    "man",
+    "gubbe"
+  ],
+  "person_biking": [
+    "sport",
+    "cykling",
+    "cyklist",
+    "cykla",
+    "person som cyklar"
+  ],
+  "person_blond_hair": [
+    "ljushårig",
+    "blond"
+  ],
+  "person_bouncing_ball": [
+    "sport",
+    "boll",
+    "basket",
+    "dribbla",
+    "lira basket",
+    "spela basket",
+    "basketspelare",
+    "basketboll",
+    "person som dribblar"
+  ],
+  "person_bowing": [
+    "bockar"
+  ],
+  "person_cartwheeling": [
+    "hjula",
+    "volt",
+    "gymnastik",
+    "gymnast"
+  ],
+  "person_climbing": [
+    "klättring",
+    "bestiga berg",
+    "friklättring",
+    "bouldering"
+  ],
+  "person_curly_hair": [
+    "kryllhårig",
+    "nyklippt"
+  ],
+  "person_facepalming": [
+    "otroligt",
+    "face palm",
+    "suck",
+    "facepalm"
+  ],
+  "person_feeding_baby": [
+    "amning",
+    "ammar"
+  ],
+  "person_fencing": [
+    "sport",
+    "fäktas",
+    "fäktning"
+  ],
+  "person_frowning": [
+    "ledsen"
+  ],
+  "person_gesturing_no": [
+    "nej",
+    "negativ",
+    "nix"
+  ],
+  "person_gesturing_ok": [
+    "cirkel",
+    "k",
+    "gestikulera",
+    "ok",
+    "signal",
+    "händerna på huvudet"
+  ],
+  "person_getting_haircut": [
+    "frisör",
+    "klippning",
+    "frissa"
+  ],
+  "person_getting_massage": [
+    "massage"
+  ],
+  "person_golfing": [
+    "sport",
+    "golfslag",
+    "spela golf",
+    "golf",
+    "fore",
+    "klubba"
+  ],
+  "person_in_bed": [
+    "sova",
+    "lat",
+    "trött",
+    "sömn"
+  ],
+  "person_in_lotus_position": [
+    "sport",
+    "fokus",
+    "stillsam",
+    "yoga",
+    "zen",
+    "lotusställning",
+    "lugn",
+    "lotus",
+    "meditera"
+  ],
+  "person_in_manual_wheelchair": [
+    "rullstol",
+    "rullstolsbunden"
+  ],
+  "person_in_motorized_wheelchair": [
+    "rullstol"
+  ],
+  "person_in_steamy_room": [
+    "bastu",
+    "spa",
+    "ångbastu",
+    "bad",
+    "ångrum"
+  ],
+  "person_in_suit_levitating": [
+    "hatt",
+    "man i kostym"
+  ],
+  "person_in_tuxedo": [
+    "bröllop",
+    "brudgum"
+  ],
+  "person_juggling": [
+    "jonglera",
+    "cirkus",
+    "många bollar i luften",
+    "tivoli",
+    "jonglör",
+    "bollar"
+  ],
+  "person_kneeling": [
+    "be",
+    "knä",
+    "ber",
+    "stå på knä",
+    "lotus",
+    "stå på huk",
+    "bedjande"
+  ],
+  "person_lifting_weights": [
+    "sport",
+    "squats",
+    "frivändning",
+    "träna",
+    "skivstång",
+    "person som lyfter en skivstång",
+    "vikter",
+    "gym",
+    "bodybuilder",
+    "lyfta",
+    "tyngdlyftning",
+    "träning"
+  ],
+  "person_mountain_biking": [
+    "sport",
+    "cykling",
+    "cyklist",
+    "cykla",
+    "mountain bike",
+    "person på mountain bike"
+  ],
+  "person_playing_handball": [
+    "sport",
+    "bollsport",
+    "handboll",
+    "handbollsspelare"
+  ],
+  "person_playing_water_polo": [
+    "boll",
+    "bollsport",
+    "vattenpolo",
+    "vattenpolospelare",
+    "polo",
+    "spela vattenpolo"
+  ],
+  "person_pouting": [
+    "sur",
+    "sura",
+    "irriterad",
+    "fått nog",
+    "puta med läpparna",
+    "grinig"
+  ],
+  "person_raising_hand": [
+    "hand",
+    "gest",
+    "elev",
+    "fråga",
+    "frågar",
+    "undrar",
+    "nyfiken",
+    "frågvis",
+    "räcka upp handen"
+  ],
+  "person_red_hair": [
+    "rödhårig",
+    "frisyr"
+  ],
+  "person_rowing_boat": [
+    "roddbåt",
+    "ror",
+    "ro"
+  ],
+  "person_running": [
+    "sport",
+    "person som springer",
+    "springa",
+    "sen",
+    "atletisk",
+    "löpa",
+    "skynda",
+    "jogga",
+    "löpträna",
+    "springer"
+  ],
+  "person_shrugging": [
+    "uppgiven"
+  ],
+  "person_standing": [
+    "stående",
+    "person",
+    "står",
+    "människa"
+  ],
+  "person_surfing": [
+    "våg",
+    "surfare",
+    "wakeboard",
+    "person som surfar",
+    "surfa"
+  ],
+  "person_swimming": [
+    "crawla",
+    "simma",
+    "simmar"
+  ],
+  "person_taking_bath": [
+    "kar",
+    "badkar",
+    "badrum",
+    "bada"
+  ],
+  "person_tipping_hand": [
+    "hand",
+    "oh well",
+    "welp",
+    "vicka på handen",
+    "person som vrider på handen",
+    "informationsdisk",
+    "idk",
+    "lutar"
+  ],
+  "person_walking": [
+    "promenad",
+    "promenerar",
+    "gående"
+  ],
+  "person_wearing_turban": [
+    "turban"
+  ],
+  "person_white_hair": [
+    "vithårig"
+  ],
+  "person_with_crown": [
+    "krona",
+    "drottning"
+  ],
+  "person_with_skullcap": [
+    "kinesisk mössa",
+    "kines"
+  ],
+  "person_with_veil": [
+    "bröllop",
+    "brud"
+  ],
+  "person_with_white_cane": [
+    "blindkäpp",
+    "käpp"
+  ],
+  "peru": [
+    "pe"
+  ],
+  "petri_dish": [
+    "vetenskap",
+    "petridisk",
+    "forskning",
+    "bakterier"
+  ],
+  "philippines": [
+    "flagga",
+    "filippinerna"
+  ],
+  "phoenix": [
+    "fågel",
+    "harry potter",
+    "fenix",
+    "brinner"
+  ],
+  "pick": [
+    "verktyg",
+    "hacka"
+  ],
+  "pickup_truck": [
+    "pickup ",
+    "flakbil",
+    "truck"
+  ],
+  "pie": [
+    "mat",
+    "efterrätt",
+    "paj"
+  ],
+  "pig": [
+    "gris"
+  ],
+  "pig_face": [
+    "svulla",
+    "tjockis",
+    "grisansikte",
+    "nöff",
+    "gris"
+  ],
+  "pig_nose": [
+    "svulla",
+    "tjockis",
+    "nöff",
+    "tryne",
+    "gris",
+    "gristryne"
+  ],
+  "pill": [
+    "behandling",
+    "medicin",
+    "doktor",
+    "recept",
+    "drog",
+    "tablett",
+    "droger",
+    "läkare",
+    "piller"
+  ],
+  "pinched_fingers": [
+    "hålla tummarna",
+    "italien",
+    "vad menar du"
+  ],
+  "pinching_hand": [
+    "sådär",
+    "mäta",
+    "ungefär",
+    "nyper",
+    "mellan tummen och pekfingret",
+    "lite"
+  ],
+  "pineapple": [
+    "frukt",
+    "ananas",
+    "exotisk frukt"
+  ],
+  "ping_pong": [
+    "sport",
+    "pingis",
+    "bordpingis",
+    "tennis"
+  ],
+  "pink_heart": [
+    "rosa hjärta"
+  ],
+  "pirate_flag": [
+    "flagga",
+    "pirat",
+    "piratflagga",
+    "jolly roger",
+    "pirater"
+  ],
+  "pisces": [
+    "zodiac",
+    "stjärntecken",
+    "fiskarna",
+    "tecken"
+  ],
+  "pizza": [
+    "mat",
+    "hungrig",
+    "snabbmat",
+    "peperoni",
+    "italien",
+    "pizzabit"
+  ],
+  "piñata": [
+    "pinata"
+  ],
+  "play_button": [
+    "höger",
+    "spela",
+    "knapp",
+    "pil framåt",
+    "körknapp"
+  ],
+  "play_or_pause_button": [
+    "start paus knapp",
+    "pausknapp",
+    "start/paus"
+  ],
+  "playground_slide": [
+    "lekpark",
+    "rutschkana"
+  ],
+  "pleading_face": [
+    "oskyldig",
+    "ber",
+    "snälla",
+    "jag ber dig",
+    "pretty please",
+    "saknar",
+    "storögd"
+  ],
+  "plunger": [
+    "vaskrensare"
+  ],
+  "plus": [
+    "symbol",
+    "+",
+    "addera",
+    "matematik",
+    "matte",
+    "addition"
+  ],
+  "poland": [
+    "polen",
+    "polskt"
+  ],
+  "polar_bear": [
+    "djur",
+    "isbjörn"
+  ],
+  "police_car": [
+    "bil",
+    "polis",
+    "polisbil"
+  ],
+  "police_car_light": [
+    "polis",
+    "sos",
+    "brandkår",
+    "saftblandare",
+    "nödläge",
+    "siren"
+  ],
+  "police_officer": [
+    "polis"
+  ],
+  "poodle": [
+    "pudel"
+  ],
+  "poop": [
+    "fan",
+    "stinker",
+    "shit",
+    "korv",
+    "bajs",
+    "bajskorv",
+    "skit"
+  ],
+  "popcorn": [
+    "bio",
+    "snacks"
+  ],
+  "portugal": [
+    "pt"
+  ],
+  "post_office": [
+    "post",
+    "byggnad",
+    "posthorn",
+    "posten"
+  ],
+  "postal_horn": [
+    "post",
+    "posthorn",
+    "horn"
+  ],
+  "postbox": [
+    "låda",
+    "brevlåda"
+  ],
+  "potable_water": [
+    "vattenkran",
+    "vatten",
+    "dricksvatten",
+    "kran"
+  ],
+  "potato": [
+    "potatis",
+    "lat",
+    "soffpotatis",
+    "slöfock"
+  ],
+  "potted_plant": [
+    "växt",
+    "blomma",
+    "kruka",
+    "växt i kruka",
+    "inomhusväxt",
+    "planta"
+  ],
+  "poultry_leg": [
+    "mat",
+    "snack",
+    "kyckling",
+    "kfc",
+    "kycklingklubba"
+  ],
+  "pound_banknote": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "sedelbunt",
+    "rik",
+    "budget",
+    "lön",
+    "sedlar",
+    "bunt pengar",
+    "pengar",
+    "bank",
+    "pund",
+    "pound"
+  ],
+  "pouring_liquid": [
+    "hälla ut",
+    "spilla",
+    "tomt glas"
+  ],
+  "pouting_cat": [
+    "irriterad",
+    "ilsken",
+    "arg",
+    "arg katt"
+  ],
+  "pregnant_man": [
+    "gravid",
+    "gravid man"
+  ],
+  "pregnant_person": [
+    "gravid",
+    "gravid person"
+  ],
+  "pregnant_woman": [
+    "gravid",
+    "mamma"
+  ],
+  "pretzel": [
+    "bagel",
+    "mat"
+  ],
+  "prince": [
+    "krona",
+    "kung",
+    "prins"
+  ],
+  "princess": [
+    "krona",
+    "princessa",
+    "drottning"
+  ],
+  "printer": [
+    "skriva",
+    "skrivare",
+    "skriva ut",
+    "epson",
+    "canon"
+  ],
+  "prohibited": [
+    "symbol",
+    "förbjuden",
+    "varning",
+    "nej",
+    "stop",
+    "nekad",
+    "avvisad",
+    "blockad",
+    "stoppad"
+  ],
+  "puerto_rico": [
+    "pr"
+  ],
+  "purple_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "lila symbol",
+    "lila cirkel"
+  ],
+  "purple_heart": [
+    "hjärta"
+  ],
+  "purple_square": [
+    "lila kvadrat",
+    "ruta",
+    "lila",
+    "kvadrat"
+  ],
+  "purse": [
+    "väska"
+  ],
+  "pushpin": [
+    "nål",
+    "häftstift",
+    "sätta upp",
+    "kartnål",
+    "häfta",
+    "fäst stift",
+    "fästa",
+    "pin",
+    "fästa upp"
+  ],
+  "puzzle_piece": [
+    "spel",
+    "pussel",
+    "pusselbit"
+  ],
+  "qatar": [
+    "quatars flagga"
+  ],
+  "rabbit": [
+    "kanin"
+  ],
+  "rabbit_face": [
+    "påsk",
+    "djur",
+    "kanin",
+    "hare",
+    "påskhare"
+  ],
+  "raccoon": [
+    "tvättbjörn"
+  ],
+  "racing_car": [
+    "rally",
+    "bil",
+    "speedway",
+    "rallybil",
+    "racing"
+  ],
+  "radio_button": [
+    "vit knapp",
+    "knapp"
+  ],
+  "radioactive": [
+    "symbol",
+    "varning",
+    "radioaktiv",
+    "kärnkraft"
+  ],
+  "railway_car": [
+    "tåg",
+    "tågvagn",
+    "vagn"
+  ],
+  "railway_track": [
+    "tåg",
+    "resa",
+    "räls",
+    "spår",
+    "tågräls"
+  ],
+  "rainbow": [
+    "regnbåge",
+    "gay",
+    "natur",
+    "sommar",
+    "färger"
+  ],
+  "rainbow_flag": [
+    "flagga",
+    "trans",
+    "regnbåge",
+    "gay",
+    "bög",
+    "lesbisk",
+    "lgbt",
+    "lgbtq",
+    "prideflagga",
+    "regnbågsflagga",
+    "pride",
+    "queer"
+  ],
+  "raised_back_of_hand": [
+    "hand",
+    "vänsterhand"
+  ],
+  "raised_fist": [
+    "absolut",
+    "kör hårt"
+  ],
+  "raised_hand": [
+    "hand",
+    "handflata",
+    "high five",
+    "give me five"
+  ],
+  "raising_hands": [
+    "toppen",
+    "absolut",
+    "fira",
+    "halleluja",
+    "höja till skyarna",
+    "woho",
+    "sträcker våra händer",
+    "praise jesus"
+  ],
+  "ram": [
+    "bagge",
+    "får"
+  ],
+  "rat": [
+    "råtta"
+  ],
+  "razor": [
+    "rakad",
+    "slät",
+    "raka",
+    "hyvel",
+    "rakhyvel",
+    "hårborttagning",
+    "rakat"
+  ],
+  "receipt": [
+    "kvitto"
+  ],
+  "record_button": [
+    "inspelningsknapp"
+  ],
+  "recycling_symbol": [
+    "återvinna",
+    "pant",
+    "sopor",
+    "återvinning",
+    "kretslopp",
+    "recycle"
+  ],
+  "red_apple": [
+    "mat",
+    "frukt",
+    "rött",
+    "äpple",
+    "vegan",
+    "röd",
+    "frukter",
+    "rött äpple"
+  ],
+  "red_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "röd cirkel",
+    "röd symbol"
+  ],
+  "red_envelope": [
+    "kina",
+    "nyår",
+    "rött",
+    "kinesiskt nyår",
+    "event",
+    "rött kuvert"
+  ],
+  "red_exclamation_mark": [
+    "rött utropstecken",
+    "utropstecken",
+    "viktigt",
+    "notera"
+  ],
+  "red_question_mark": [
+    "fråga",
+    "frågetecken",
+    "varför",
+    "?"
+  ],
+  "red_square": [
+    "röd ruta",
+    "ruta",
+    "röd",
+    "kvadrat",
+    "röd kvadrat"
+  ],
+  "red_triangle_pointed_down": [
+    "liten röd triangel nedåt"
+  ],
+  "red_triangle_pointed_up": [
+    "liten röd triangel uppåt"
+  ],
+  "registered": [
+    "r",
+    "registrerad"
+  ],
+  "relieved_face": [
+    "nöjd",
+    "lugn",
+    "lättad"
+  ],
+  "repeat_button": [
+    "knapp",
+    "repetera",
+    "repeat"
+  ],
+  "rescue_worker_s_helmet": [
+    "hjälm",
+    "röda korset",
+    "hjälparbetare"
+  ],
+  "restroom": [
+    "unisex",
+    "toalett"
+  ],
+  "revolving_hearts": [
+    "kärlek",
+    "<3",
+    "puss",
+    "många hjärtan",
+    "lycka till",
+    "love",
+    "hjärtan",
+    "ilu",
+    "jag älskar dig",
+    "älskar dig"
+  ],
+  "rhinoceros": [
+    "noshörning"
+  ],
+  "ribbon": [
+    "rosa",
+    "event",
+    "rosett"
+  ],
+  "rice_ball": [
+    "mat",
+    "asiatiskt",
+    "risboll"
+  ],
+  "right_anger_bubble": [
+    "pratbubbla",
+    "prata",
+    "skriker"
+  ],
+  "right_arrow": [
+    "->"
+  ],
+  "right_facing_fist": [
+    "högerjabb"
+  ],
+  "rightwards_hand": [
+    "hand",
+    "handflata",
+    "höger hand"
+  ],
+  "rightwards_pushing_hand": [
+    "hand",
+    "stop",
+    "stanna",
+    "stoppsignal",
+    "halt",
+    "vänster hand"
+  ],
+  "ring": [
+    "bling",
+    "förlovningsring",
+    "giftemål",
+    "bröllop",
+    "förlovning",
+    "fria",
+    "diamantring"
+  ],
+  "ring_buoy": [
+    "livboj"
+  ],
+  "ringed_planet": [
+    "planet",
+    "saturnus"
+  ],
+  "roasted_sweet_potato": [
+    "mat",
+    "potatis",
+    "sötpotatis"
+  ],
+  "robot": [
+    "robothuvud",
+    "maskin",
+    "ai"
+  ],
+  "rock": [
+    "klippa",
+    "sten"
+  ],
+  "rocket": [
+    "raket",
+    "rymden",
+    "apollo 13",
+    "rymdfärja",
+    "månlandare",
+    "rymdraket"
+  ],
+  "rofl": [
+    "lol",
+    "skrattar",
+    "skratt",
+    "fantastiskt",
+    "tokskrattar",
+    "hahaha",
+    "haha",
+    "asgarvar",
+    "xd",
+    "roligt",
+    "garv"
+  ],
+  "roll_eyes": [
+    "aja men",
+    "rullande ögon",
+    "oskyldig",
+    "okey",
+    "whatever",
+    "hallå",
+    "sure",
+    "himla med ögonen",
+    "himla",
+    "rulla"
+  ],
+  "roll_of_paper": [
+    "dasspapper",
+    "toa",
+    "toalettpapper",
+    "papper",
+    "tp"
+  ],
+  "rolled_up_newspaper": [
+    "hoprullad tidning",
+    "tidning",
+    "kvällstidning",
+    "nyheter",
+    "dagstidning"
+  ],
+  "roller_coaster": [
+    "nöjespark",
+    "berg- och dalbana",
+    "bergodalbana",
+    "åkattraktion",
+    "gröna lund",
+    "liseberg"
+  ],
+  "roller_skate": [
+    "rollerblades",
+    "rullskridsko"
+  ],
+  "romania": [
+    "ro",
+    "rumänien"
+  ],
+  "rooster": [
+    "fågel",
+    "höna",
+    "tupp"
+  ],
+  "rose": [
+    "ros"
+  ],
+  "rosette": [
+    "blomma",
+    "blommor",
+    "rosett"
+  ],
+  "round_pushpin": [
+    "nål",
+    "resa",
+    "kartnål",
+    "lokalisera",
+    "plats",
+    "pin",
+    "location"
+  ],
+  "rugby_football": [
+    "sport",
+    "rugby",
+    "rugbyboll"
+  ],
+  "running_shoe": [
+    "sport",
+    "träna",
+    "sko",
+    "sportsko",
+    "springa",
+    "gym",
+    "sneaker",
+    "träningssko",
+    "fitness",
+    "löparsko"
+  ],
+  "russia": [
+    "ryskt",
+    "ryssland"
+  ],
+  "rwanda": [
+    "flagga"
+  ],
+  "sad_but_relieved_face": [
+    "tråkigt",
+    "sur",
+    "ledsen",
+    "ledsamt"
+  ],
+  "safety_pin": [
+    "nål",
+    "säkerhetsnål"
+  ],
+  "safety_vest": [
+    "flytväst"
+  ],
+  "sagittarius": [
+    "zodiac",
+    "stjärntecken",
+    "skytt",
+    "tecken",
+    "skytten"
+  ],
+  "sailboat": [
+    "båt",
+    "skepp",
+    "segelbåt",
+    "segla"
+  ],
+  "sake": [
+    "dryck"
+  ],
+  "salt": [
+    "krydda",
+    "saltkar"
+  ],
+  "saluting_face": [
+    "absolut",
+    "kirrar",
+    "fixar",
+    "yessir",
+    "givakt",
+    "lydnad",
+    "salut",
+    "hälsa"
+  ],
+  "samoa": [
+    "flag",
+    "ws",
+    "flag_ws"
+  ],
+  "san_marino": [
+    "flagga"
+  ],
+  "sandwich": [
+    "mat",
+    "smörgås",
+    "frukost",
+    "macka",
+    "rostbröd",
+    "dubbelmacka",
+    "ostmacka"
+  ],
+  "santa_claus": [
+    "tomte",
+    "jul"
+  ],
+  "satellite": [
+    "rymden",
+    "satellit"
+  ],
+  "saudi_arabia": [
+    "saudi arabien",
+    "sa"
+  ],
+  "sauropod": [
+    "dinosaur"
+  ],
+  "saxophone": [
+    "instrument",
+    "jazz",
+    "musik",
+    "sax",
+    "blåsinstrument",
+    "saxofon"
+  ],
+  "scarf": [
+    "halsduk"
+  ],
+  "school": [
+    "skola",
+    "byggnad"
+  ],
+  "scientist": [
+    "vetenskapsman",
+    "forskare"
+  ],
+  "scissors": [
+    "kontor",
+    "sax",
+    "klippa",
+    "klipp ut"
+  ],
+  "scorpio": [
+    "skorpionen",
+    "zodiac",
+    "stjärntecken",
+    "skorpion",
+    "tecken"
+  ],
+  "scorpion": [
+    "skorpion"
+  ],
+  "scotland": [
+    "skottland"
+  ],
+  "scream": [
+    "rädd",
+    "chockad",
+    "harrejesus",
+    "panik",
+    "förskräckt",
+    "herregud",
+    "panikslagen",
+    "de var det värsta"
+  ],
+  "screwdriver": [
+    "verktyg",
+    "hantverkare",
+    "laga",
+    "skruvmejsel"
+  ],
+  "scroll": [
+    "pergament",
+    "brevrulle",
+    "rulle",
+    "skriftrulle",
+    "sida"
+  ],
+  "seal": [
+    "djur",
+    "säl",
+    "gråsäl",
+    "knubbsäl"
+  ],
+  "seat": [
+    "säte"
+  ],
+  "see_no_evil_monkey": [
+    "blyg",
+    "apa",
+    "inget ont",
+    "blunda",
+    "se",
+    "se inget ont"
+  ],
+  "seedling": [
+    "skott",
+    "stickling"
+  ],
+  "selfie": [
+    "hand",
+    "telefon",
+    "arm"
+  ],
+  "senegal": [
+    "flagga",
+    "flag_sn",
+    "sn"
+  ],
+  "serbia": [
+    "serbien"
+  ],
+  "service_dog": [
+    "hund",
+    "blindhund"
+  ],
+  "seven": [
+    "knapp sju",
+    "siffror",
+    "sju",
+    "7"
+  ],
+  "seven_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 7",
+    "19:00",
+    "klockan 19",
+    "kl 7",
+    "kl 19",
+    "klockan sju"
+  ],
+  "seven_thirty": [
+    "18:30",
+    "tid",
+    "klocka",
+    "kl 7:30",
+    "klockan 18:30",
+    "klockan halv åtta",
+    "klockan 7:30",
+    "kl 18:30"
+  ],
+  "sewing_needle": [
+    "nål",
+    "synål",
+    "sy",
+    "tråd",
+    "laga"
+  ],
+  "seychelles": [
+    "seychellerna",
+    "flag",
+    "sc",
+    "flag_sc"
+  ],
+  "shaking_face": [
+    "chockad",
+    "exalterad",
+    "skakar",
+    "skaka",
+    "skaka på huvudet",
+    "rädsla",
+    "yrsel",
+    "spännande",
+    "yr",
+    "jordbävning",
+    "upprymd",
+    "snurrar"
+  ],
+  "shallow_pan_of_food": [
+    "mat",
+    "paella",
+    "gjutjärnspanna med mat",
+    "risrätt",
+    "stekpanna med mat"
+  ],
+  "shamrock": [
+    "klöver"
+  ],
+  "shark": [
+    "haj"
+  ],
+  "sheaf_of_rice": [
+    "växt",
+    "ris"
+  ],
+  "shield": [
+    "vapen",
+    "sköld",
+    "försvar",
+    "skydda"
+  ],
+  "shinto_shrine": [
+    "religion",
+    "shinto",
+    "japan"
+  ],
+  "ship": [
+    "båt",
+    "resa",
+    "färja",
+    "skepp"
+  ],
+  "shooting_star": [
+    "rymd",
+    "fallande stjärna",
+    "stjärna",
+    "stjärnfall"
+  ],
+  "shopping_bags": [
+    "handla",
+    "shoppa",
+    "påsar",
+    "shoppingpåsar"
+  ],
+  "shopping_cart": [
+    "shoppa",
+    "shopping",
+    "handla mat",
+    "kundkorg",
+    "vagn",
+    "kundvagn"
+  ],
+  "shortcake": [
+    "mat",
+    "efterrätt",
+    "tårta",
+    "födelsedagstårta",
+    "fira",
+    "tårtbit",
+    "fika"
+  ],
+  "shorts": [
+    "kortbyxor"
+  ],
+  "shower": [
+    "tvätta mig",
+    "duscha",
+    "dusch",
+    "badrum",
+    "duschat",
+    "tvaga",
+    "tvätta sig",
+    "ren"
+  ],
+  "shrimp": [
+    "räka",
+    "sjöföda"
+  ],
+  "shuffle_tracks_button": [
+    "knapp",
+    "shuffle",
+    "blanda",
+    "mixa"
+  ],
+  "shushing_face": [
+    "secret",
+    "tyst",
+    "shhhh",
+    "hemlighet",
+    "hemligt"
+  ],
+  "sierra_leone": [
+    "flag",
+    "sl",
+    "flag_sl"
+  ],
+  "sign_of_the_horns": [
+    "cool",
+    "coolt",
+    "koolt"
+  ],
+  "singapore": [
+    "sg"
+  ],
+  "singer": [
+    "skådespelerska",
+    "artist"
+  ],
+  "six": [
+    "sex",
+    "siffror",
+    "6",
+    "knapp sex"
+  ],
+  "six_o_clock": [
+    "tid",
+    "klocka",
+    "kl 6",
+    "klockan 6",
+    "kl 18",
+    "klockan 18",
+    "klockan sex",
+    "18:00"
+  ],
+  "six_thirty": [
+    "18:30",
+    "tid",
+    "klocka",
+    "klockan 18:30",
+    "kl 18:30",
+    "klockan 6:30",
+    "kl 6:30",
+    "klockan halv sju"
+  ],
+  "skier": [
+    "sport",
+    "vintersport",
+    "slalom",
+    "skidåkning",
+    "alpint"
+  ],
+  "skis": [
+    "sport",
+    "skidor",
+    "vinter",
+    "slalom",
+    "pjäxa",
+    "skidåkning",
+    "pjäxor"
+  ],
+  "skull": [
+    "lol",
+    "död",
+    "skalle",
+    "xd",
+    "dödskalle",
+    "askul"
+  ],
+  "skull_and_crossbones": [
+    "pirat",
+    "död",
+    "hjärtekrossad",
+    "krossat hjärta",
+    "ben",
+    "skalle",
+    "brustet hjärta",
+    "döskalle",
+    "benknotor",
+    "dödskalle"
+  ],
+  "sled": [
+    "sport",
+    "vinter",
+    "släde"
+  ],
+  "sleeping_face": [
+    "sova",
+    "godnatt",
+    "lat",
+    "trött",
+    "lägga sig",
+    "gonatt",
+    "natt",
+    "sömn",
+    "zzz",
+    "sover",
+    "slut"
+  ],
+  "sleepy_face": [
+    "tårande",
+    "sjuk",
+    "snorig",
+    "snörvla",
+    "ledsamt",
+    "förkyld"
+  ],
+  "slightly_frowning_face": [
+    "missnöjd",
+    "tråkigt",
+    ":(",
+    "nedstämd",
+    "sur",
+    "nedstämt",
+    "ledsen",
+    "dåligt"
+  ],
+  "slightly_smiling_face": [
+    "topp",
+    "le",
+    "lycklig",
+    "glad",
+    "nöjd",
+    "smile",
+    "ler",
+    "bra",
+    "ja"
+  ],
+  "slot_machine": [
+    "spel",
+    "tur",
+    "kasino",
+    "enarmad bandit",
+    "jackpot",
+    "777",
+    "spelmaskin"
+  ],
+  "sloth": [
+    "drönare"
+  ],
+  "slovakia": [
+    "sk",
+    "slovakien"
+  ],
+  "slovenia": [
+    "si",
+    "slovenien"
+  ],
+  "small_airplane": [
+    "propeller",
+    "plan",
+    "resa",
+    "privatjet",
+    "flygplan",
+    "litet flygplan",
+    "jet"
+  ],
+  "small_blue_diamond": [
+    "liten blå diamant"
+  ],
+  "small_orange_diamond": [
+    "liten orange diamant"
+  ],
+  "smiley": [
+    "lol",
+    ":d",
+    "lycklig",
+    "skratta",
+    "glad",
+    "haha"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "kärlek",
+    "sexigt"
+  ],
+  "smiling_face": [
+    "le",
+    "lycklig",
+    "inga problem",
+    "glad",
+    "nöjd",
+    "lugn",
+    "härligt"
+  ],
+  "smiling_face_with_horns": [
+    "skojar",
+    "hehe",
+    "sex",
+    "lila",
+    "glad",
+    "flirt",
+    "kåt",
+    "ond",
+    "flirtar",
+    "flirta",
+    "lycklig fan",
+    "sugen",
+    "elak",
+    "djävul",
+    "lycklig djävul"
+  ],
+  "smiling_face_with_sunglasses": [
+    "cool",
+    "solisar",
+    "lugnt",
+    "solar",
+    "solglasögon",
+    "chill",
+    "ball",
+    "steker",
+    "häftig"
+  ],
+  "smiling_face_with_tear": [
+    "tårar",
+    "sorgsen",
+    "ledsen",
+    "tår",
+    "sorgligt",
+    "sad"
+  ],
+  "smiling_face_with_three_hearts": [
+    "kärlek",
+    "pussar",
+    "<3",
+    "kär",
+    "bäst",
+    "saknar dig",
+    "förälskad",
+    "många pussar",
+    "älskar",
+    "omtänksam",
+    "tänker på dig",
+    "omtyckt"
+  ],
+  "smirking_face": [
+    "hehe",
+    "kåt",
+    "fattar du",
+    ";)",
+    "flirtar",
+    "spanar",
+    "höhö",
+    "sugen"
+  ],
+  "snail": [
+    "slemmig",
+    "sakta",
+    "snigeltakt",
+    "långsam",
+    "snigel"
+  ],
+  "snake": [
+    "orm"
+  ],
+  "sneezing_face": [
+    "snorig",
+    "nästäppa",
+    "snyta sig",
+    "allergisk",
+    "näsduk",
+    "snuva",
+    "snor",
+    "täppt",
+    "nysa",
+    "förkyld"
+  ],
+  "snow_capped_mountain": [
+    "toppen",
+    "bergstopp",
+    "snöklädda berg",
+    "kebnekaise",
+    "berg"
+  ],
+  "snowboarder": [
+    "sport",
+    "snowboarding",
+    "snowboard"
+  ],
+  "snowflake": [
+    "kallt",
+    "vinter",
+    "frost",
+    "jul",
+    "kylskåp",
+    "is",
+    "kall",
+    "frys",
+    "fryser",
+    "snöflinga"
+  ],
+  "snowman": [
+    "vinter",
+    "jul",
+    "snögubbe"
+  ],
+  "snowman_without_snow": [
+    "vinter",
+    "jul",
+    "snögubbe"
+  ],
+  "soap": [
+    "tvätta",
+    "tvål",
+    "handtvål",
+    "tvätta händerna"
+  ],
+  "sob": [
+    "tårar",
+    "hjärtekrossad",
+    "krossat hjärta",
+    "orkar inte",
+    "gråter",
+    "ledsen",
+    "förkrossad",
+    ":'(",
+    "kaos",
+    "brustet hjärta",
+    "upprörd"
+  ],
+  "soccer_ball": [
+    "sport",
+    "fotboll",
+    "idrott",
+    "allsvenskan",
+    "bollsport",
+    "la liga",
+    "champions league",
+    "fifa",
+    "uefa"
+  ],
+  "socks": [
+    "sockor",
+    "strumpor",
+    "strumpa",
+    "socka"
+  ],
+  "soft_ice_cream": [
+    "mat",
+    "sötsak",
+    "efterrätt",
+    "glass",
+    "sommar",
+    "mjukglass",
+    "vanilj",
+    "socker"
+  ],
+  "softball": [
+    "sport",
+    "boll"
+  ],
+  "somalia": [
+    "flagga",
+    "flag_so",
+    "so"
+  ],
+  "sos_button": [
+    "hjälp"
+  ],
+  "south_africa": [
+    "za",
+    "sydafrika"
+  ],
+  "south_korea": [
+    "sydkorea",
+    "kr",
+    "korea"
+  ],
+  "south_sudan": [
+    "flagga",
+    "ss",
+    "flag_ss",
+    "syd sudan"
+  ],
+  "spade_suit": [
+    "kort",
+    "spader"
+  ],
+  "spaghetti": [
+    "mat",
+    "middag",
+    "lunch",
+    "tomatsås",
+    "pasta",
+    "italien",
+    "spagetti och köttfärssås",
+    "spagetti",
+    "pastasås",
+    "italienskt"
+  ],
+  "spain": [
+    "spanien",
+    "es"
+  ],
+  "sparkles": [
+    "magi",
+    "stjärnor",
+    "skiner",
+    "glitter",
+    "glimmer",
+    "event",
+    "party",
+    "lyster",
+    "glimmrar",
+    "glittra",
+    "blinka",
+    "gnistra"
+  ],
+  "sparkling_heart": [
+    "hjärta",
+    "kärlek",
+    "pussar",
+    "<3",
+    "kär",
+    "förälskad",
+    "glad",
+    "nykär",
+    "älskling"
+  ],
+  "speak_no_evil_monkey": [
+    "häpen",
+    "förvånad"
+  ],
+  "speaker_high_volume": [
+    "högtalare"
+  ],
+  "speaker_low_volume": [
+    "högtalare",
+    "tyst",
+    "tystare",
+    "sänk volym",
+    "volym"
+  ],
+  "speaker_medium_volume": [
+    "högtalare",
+    "ljud",
+    "underhållning",
+    "lyssna",
+    "volym"
+  ],
+  "speaking_head": [
+    "tala",
+    "talare",
+    "prata"
+  ],
+  "speech_balloon": [
+    "text",
+    "pratar",
+    "skriver",
+    "pratbubbla",
+    "talar",
+    "kommenterar",
+    "kommentar"
+  ],
+  "speedboat": [
+    "båt",
+    "motorbåt"
+  ],
+  "spider": [
+    "insekt",
+    "spindel"
+  ],
+  "spider_web": [
+    "spindelnät",
+    "insekt",
+    "nät"
+  ],
+  "spiral_notepad": [
+    "kontor",
+    "anteckningar",
+    "notera",
+    "anteckningsblock"
+  ],
+  "spiral_shell": [
+    "skal",
+    "snäcka"
+  ],
+  "sponge": [
+    "svamp"
+  ],
+  "spoon": [
+    "bestick",
+    "sked"
+  ],
+  "sport_utility_vehicle": [
+    "bil",
+    "köra bil",
+    "bilresa",
+    "resa",
+    "automobil",
+    "semester",
+    "röd bil",
+    "köra"
+  ],
+  "sports_medal": [
+    "medalj",
+    "vinnare",
+    "topp",
+    "vinna",
+    "tävling",
+    "första plats",
+    "första pris",
+    "finalist",
+    "guld",
+    "tävla",
+    "guldmedalj"
+  ],
+  "spouting_whale": [
+    "fisk",
+    "val",
+    "ocean",
+    "hav",
+    "vatten",
+    "sprutande val",
+    "blåval"
+  ],
+  "squid": [
+    "bläckfisk"
+  ],
+  "squinting_face_with_tongue": [
+    "skojar",
+    "tunga",
+    "skämt",
+    "haha",
+    "xd",
+    "lurad",
+    "skämtar"
+  ],
+  "sri_lanka": [
+    "lk"
+  ],
+  "st_martin": [
+    "saint-martin",
+    "flagga_s-m",
+    "s-m"
+  ],
+  "stadium": [
+    "sportstadium"
+  ],
+  "star": [
+    "universum",
+    "toppen",
+    "rymden",
+    "fantastiskt",
+    "stjärna",
+    "guldstjärna",
+    "betyg",
+    "favorit"
+  ],
+  "star_and_crescent": [
+    "symbol",
+    "troende",
+    "religion",
+    "islam"
+  ],
+  "star_of_david": [
+    "symbol",
+    "religion",
+    "judaism",
+    "stjärna",
+    "david",
+    "davidsstjärnan"
+  ],
+  "star_struck": [
+    "vinnare",
+    "vinna",
+    "stjärnor",
+    "helt tagen",
+    "bäst",
+    "amazing",
+    "fantastiskt",
+    "stjärna",
+    "wow",
+    "bästa jag sett",
+    "ser fram emot",
+    "helt slagen",
+    "stort",
+    "taggad"
+  ],
+  "station": [
+    "tåg",
+    "järnvägsstation",
+    "järnväg",
+    "tågstation"
+  ],
+  "statue_of_liberty": [
+    "amerika",
+    "usa",
+    "new york",
+    "frihetsgudinnan"
+  ],
+  "steaming_bowl": [
+    "mat",
+    "nudelskål",
+    "kinesiskt",
+    "skål med nudlar",
+    "asiatiskt",
+    "nudlar",
+    "ramen"
+  ],
+  "stethoscope": [
+    "stetoskop"
+  ],
+  "stop_button": [
+    "knapp",
+    "stoppknapp"
+  ],
+  "stop_sign": [
+    "förbjuden",
+    "stop",
+    "bannad",
+    "skylt",
+    "stoppskylt"
+  ],
+  "stopwatch": [
+    "tid",
+    "stoppur",
+    "timer",
+    "race",
+    "tidtagning",
+    "ta tid"
+  ],
+  "straight_ruler": [
+    "kontor",
+    "skola",
+    "linjal"
+  ],
+  "strawberry": [
+    "mat",
+    "frukt",
+    "bär",
+    "röd",
+    "frukost",
+    "smultron",
+    "jordgubbe",
+    "jordgubb"
+  ],
+  "student": [
+    "examen",
+    "kvinnlig student"
+  ],
+  "studio_microphone": [
+    "mikrofon",
+    "sjunga",
+    "artist",
+    "studio",
+    "mic",
+    "podcast"
+  ],
+  "stuffed_flatbread": [
+    "mat",
+    "fyllt pitabröd",
+    "flatbread",
+    "mexikanskt",
+    "tacos",
+    "pitabröd"
+  ],
+  "sudan": [
+    "sd"
+  ],
+  "sun": [
+    "strand",
+    "varmt",
+    "semester",
+    "sommar",
+    "vår",
+    "sol",
+    "soligt",
+    "värme"
+  ],
+  "sun_behind_cloud": [
+    "moln",
+    "halvklart",
+    "väder",
+    "växlande",
+    "sol",
+    "molnigt"
+  ],
+  "sun_behind_large_cloud": [
+    "moln",
+    "växlande",
+    "sol",
+    "molnig"
+  ],
+  "sun_behind_rain_cloud": [
+    "väder",
+    "växlande",
+    "regnmoln",
+    "sol med regn",
+    "regnskur",
+    "skurar"
+  ],
+  "sun_behind_small_cloud": [
+    "moln",
+    "väder",
+    "sol med moln",
+    "växlande",
+    "sommar",
+    "vår",
+    "soligt"
+  ],
+  "sun_with_face": [
+    "sol"
+  ],
+  "sunflower": [
+    "solros"
+  ],
+  "sunglasses": [
+    "glasögon",
+    "cool",
+    "mörka glasögon",
+    "solen",
+    "soligt",
+    "solglasögon"
+  ],
+  "sunrise": [
+    "morgon",
+    "soluppgång",
+    "god morgon"
+  ],
+  "sunrise_over_mountains": [
+    "soluppgång",
+    "soluppgång över berg",
+    "solnedgång",
+    "god morgon",
+    "berg"
+  ],
+  "sunset": [
+    "solnedgång",
+    "skymning",
+    "stad i ljus"
+  ],
+  "superhero": [
+    "hjälte"
+  ],
+  "supervillain": [
+    "buse"
+  ],
+  "sushi": [
+    "mat",
+    "japan",
+    "laxbit",
+    "lax"
+  ],
+  "suspension_railway": [
+    "tåg",
+    "tågvagn",
+    "vagn"
+  ],
+  "swan": [
+    "sångsvan",
+    "svan"
+  ],
+  "sweat_droplets": [
+    "tårar",
+    "regn",
+    "sats",
+    "höst",
+    "gråta",
+    "droppar",
+    "utlösning",
+    "sperma",
+    "stänk",
+    "blött",
+    "svett",
+    "komma"
+  ],
+  "sweat_smile": [
+    "skojar",
+    "hehe",
+    "generad",
+    "skrattar nervöst",
+    "nervöst skratt",
+    "härligt",
+    "nervös",
+    "skoj"
+  ],
+  "sweden": [
+    "svenskt",
+    "sverige"
+  ],
+  "switzerland": [
+    "ch",
+    "schweiz"
+  ],
+  "synagogue": [
+    "byggnad",
+    "religion",
+    "judendom",
+    "jude",
+    "synagoga"
+  ],
+  "syria": [
+    "sy",
+    "syrien"
+  ],
+  "syringe": [
+    "behandling",
+    "medicin",
+    "nål",
+    "botox",
+    "spruta",
+    "vaccin",
+    "drog",
+    "droger",
+    "läkare"
+  ],
+  "t_rex": [
+    "dinosaur",
+    "t-rex"
+  ],
+  "t_shirt": [
+    "plagg",
+    "kläder",
+    "blå tröja",
+    "tröja",
+    "tshirt",
+    "polotröja"
+  ],
+  "taco": [
+    "mat",
+    "snabbmat",
+    "mexikansk",
+    "tacos"
+  ],
+  "tada": [
+    "grattis",
+    "hurra",
+    "yay",
+    "konfetti",
+    "fantastiskt",
+    "födelsedag",
+    "fira",
+    "event",
+    "party",
+    "fest"
+  ],
+  "taiwan": [
+    "flagga_tw"
+  ],
+  "tajikistan": [
+    "flagga_tj"
+  ],
+  "takeout_box": [
+    "kinesiskt",
+    "hämtmat",
+    "äta ute",
+    "kinabox"
+  ],
+  "tamale": [
+    "tamal"
+  ],
+  "tangerine": [
+    "mat",
+    "frukt",
+    "apelsin",
+    "citrus",
+    "orange",
+    "jul",
+    "mandarin",
+    "citrusfrukt",
+    "clementin"
+  ],
+  "tanzania": [
+    "flagga_tz"
+  ],
+  "taurus": [
+    "zodiac",
+    "stjärntecken",
+    "oxe",
+    "oxen"
+  ],
+  "teacher": [
+    "lärare"
+  ],
+  "teapot": [
+    "te",
+    "tekanna"
+  ],
+  "tear_off_calendar": [
+    "bokad",
+    "kalender",
+    "datum",
+    "schema",
+    "boka tid"
+  ],
+  "technologist": [
+    "kodare",
+    "utvecklare",
+    "programmerare",
+    "teknolog",
+    "provare"
+  ],
+  "teddy_bear": [
+    "nallebjörn",
+    "nalle",
+    "teddy",
+    "teddybjörn",
+    "gosedjur",
+    "mjukisdjur",
+    "leksak"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "ringa",
+    "ring",
+    "telefon",
+    "lur",
+    "gammaldags telefon",
+    "telefonlur"
+  ],
+  "telescope": [
+    "rymden",
+    "vetenskap",
+    "stjärnkikare",
+    "forskning",
+    "teleskop"
+  ],
+  "television": [
+    "film",
+    "dumburk",
+    "tv",
+    "skärm"
+  ],
+  "ten": [
+    "siffror",
+    "10",
+    "knapp tio",
+    "tio"
+  ],
+  "ten_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 10",
+    "kl 10",
+    "klockan 22",
+    "22:00",
+    "kl 22",
+    "klockan tio"
+  ],
+  "ten_thirty": [
+    "tid",
+    "klocka",
+    "kl 22:30",
+    "klockan 10:30",
+    "kl 10:30",
+    "klockan halv elva",
+    "22:30",
+    "klockan 22:30"
+  ],
+  "tennis": [
+    "sport",
+    "idrott",
+    "apport",
+    "bollsport",
+    "tennisboll"
+  ],
+  "tent": [
+    "hike",
+    "tält",
+    "campa",
+    "tälta",
+    "vandring",
+    "camping",
+    "sova i tält",
+    "vandra",
+    "hiking"
+  ],
+  "thailand": [
+    "flagga_th"
+  ],
+  "thermometer": [
+    "sjuk",
+    "varm",
+    "ta tempen",
+    "temp",
+    "temperatur",
+    "förkyld",
+    "termometer"
+  ],
+  "thinking": [
+    "skeptisk",
+    "tänka",
+    "tveka",
+    "tveksam",
+    "tänker",
+    "osäker",
+    "fundersam",
+    "hmm",
+    "fundera"
+  ],
+  "thong_sandal": [
+    "toffla",
+    "sandal",
+    "flipflop",
+    "pool toffla"
+  ],
+  "thought_balloon": [
+    "idé",
+    "tänker",
+    "tanke",
+    "tankebubbla",
+    "fundera"
+  ],
+  "thread": [
+    "sytråd"
+  ],
+  "three": [
+    "siffror",
+    "tre",
+    "3",
+    "treknapp",
+    "knapp tre"
+  ],
+  "three_o_clock": [
+    "tid",
+    "klocka",
+    "kl 3",
+    "15:00",
+    "klockan 15",
+    "kl 15",
+    "klockan 3"
+  ],
+  "three_thirty": [
+    "tid",
+    "klocka",
+    "klockan 15:30",
+    "15:30",
+    "kl 3:30",
+    "klockan 3:30",
+    "klockan halv fyra",
+    "kl 15:30"
+  ],
+  "ticket": [
+    "biljett",
+    "event"
+  ],
+  "tiger_face": [
+    "tigeransikte",
+    "tiger"
+  ],
+  "timer_clock": [
+    "tid",
+    "matlagning",
+    "äggklocka",
+    "timer"
+  ],
+  "timor_leste": [
+    "flagga_tl",
+    "timor-leste",
+    "östtimor"
+  ],
+  "tired_face": [
+    "va fan",
+    "orkar inte",
+    "trött",
+    "körd",
+    "uttröttad"
+  ],
+  "togo": [
+    "flagga_tg"
+  ],
+  "toilet": [
+    "wc",
+    "toa",
+    "toalett",
+    "toalettstol"
+  ],
+  "tokelau": [
+    "eto",
+    "flagga_tk"
+  ],
+  "tokyo_tower": [
+    "byggnad",
+    "tokyotorn",
+    "tokyo"
+  ],
+  "tomato": [
+    "mat",
+    "frukt",
+    "grönsak",
+    "tomat"
+  ],
+  "tonga": [
+    "flagga_to"
+  ],
+  "tongue": [
+    "slicka",
+    "tunga",
+    "mun"
+  ],
+  "toolbox": [
+    "verktyg",
+    "verktygslåda"
+  ],
+  "tooth": [
+    "tand"
+  ],
+  "toothbrush": [
+    "borsta tänderna",
+    "tandborste"
+  ],
+  "top_arrow": [
+    "pil",
+    "toppen",
+    "uppåt",
+    "top"
+  ],
+  "top_hat": [
+    "cylinderhatt",
+    "chapeau-claque",
+    "stormhatt"
+  ],
+  "tornado": [
+    "oväder",
+    "storm",
+    "väder"
+  ],
+  "tractor": [
+    "bil",
+    "traktor"
+  ],
+  "trade_mark": [
+    "tm",
+    "varumärkesskydd",
+    "trademark"
+  ],
+  "train": [
+    "tåg",
+    "resa",
+    "räls",
+    "järnväg",
+    "spårvagn"
+  ],
+  "tram": [
+    "tåg",
+    "resa",
+    "spår",
+    "järnväg",
+    "reser"
+  ],
+  "tram_car": [
+    "tåg",
+    "tågvagn",
+    "vagn"
+  ],
+  "transgender_flag": [
+    "trans",
+    "transvestit",
+    "transflagga",
+    "trans flagga",
+    "transsexuell"
+  ],
+  "transgender_symbol": [
+    "trans",
+    "lgbtq+",
+    "transpersoner",
+    "transsexuell"
+  ],
+  "triangular_flag": [
+    "flagga",
+    "varning",
+    "röd flagg",
+    "varningstecken",
+    "röd flagga",
+    "varningsflagga"
+  ],
+  "triangular_ruler": [
+    "linjal",
+    "geometri"
+  ],
+  "trident_emblem": [
+    "poseidon",
+    "treudd",
+    "udd"
+  ],
+  "trinidad_tobago": [
+    "trinidad & tobago",
+    "flagga_tt"
+  ],
+  "trolleybus": [
+    "trådbuss"
+  ],
+  "trophy": [
+    "vinnare",
+    "topp",
+    "vinna",
+    "tävling",
+    "första pris",
+    "finalist",
+    "buckla",
+    "guld",
+    "tävla",
+    "prispokal",
+    "trofe",
+    "trofé"
+  ],
+  "tropical_drink": [
+    "drink",
+    "tropisk drink",
+    "semester",
+    "cocktail",
+    "alkohol",
+    "sangria"
+  ],
+  "tropical_fish": [
+    "fisk",
+    "tropisk fisk"
+  ],
+  "trumpet": [
+    "instrument",
+    "jazz",
+    "orkester",
+    "blåsinstrument",
+    "saxofon"
+  ],
+  "tulip": [
+    "tulpan"
+  ],
+  "tumbler_glass": [
+    "drink",
+    "dricka",
+    "whiskey",
+    "alkohol",
+    "sprit",
+    "whiskeyglas"
+  ],
+  "tunisia": [
+    "flagga-tn",
+    "tunisien"
+  ],
+  "turkey": [
+    "kalkon"
+  ],
+  "turkmenistan": [
+    "flagga_tm"
+  ],
+  "turks_caicos_islands": [
+    "flag_tc",
+    "turks- och caicosöarna"
+  ],
+  "turtle": [
+    "sköldpadda"
+  ],
+  "tuvalu": [
+    "flagga_tv"
+  ],
+  "twelve_o_clock": [
+    "tid",
+    "klocka",
+    "kl 12",
+    "klockan tolv",
+    "klockan 12",
+    "midnatt",
+    "kl 00",
+    "00:00"
+  ],
+  "twelve_thirty": [
+    "tid",
+    "klocka",
+    "00:30",
+    "klockan 00:30",
+    "klockan halv ett",
+    "kl 12:30",
+    "kl 00:30",
+    "klockan 12:30"
+  ],
+  "two": [
+    "2"
+  ],
+  "two_hearts": [
+    "kärlek",
+    "kär",
+    "förälskad"
+  ],
+  "two_hump_camel": [
+    "kanel"
+  ],
+  "two_o_clock": [
+    "tid",
+    "klocka",
+    "klockan 2",
+    "kl 2",
+    "14:00",
+    "klockan 13",
+    "kl 14"
+  ],
+  "two_thirty": [
+    "kl 14:30",
+    "tid",
+    "klocka",
+    "klockan halv tre",
+    "klockan 14:30",
+    "14:30",
+    "kl 2:30",
+    "klockan 2:30"
+  ],
+  "türkiye": [
+    "turkiet",
+    "flagga_tr",
+    "flagga-tr"
+  ],
+  "uganda": [
+    "flagga-ug"
+  ],
+  "ukraine": [
+    "ukrainaska flaggan",
+    "ukrainas flagga"
+  ],
+  "umbrella": [
+    "paraply"
+  ],
+  "umbrella_on_ground": [
+    "strand",
+    "solparasoll",
+    "strandparasoll",
+    "semester",
+    "parasoll"
+  ],
+  "umbrella_with_rain_drops": [
+    "regn",
+    "paraply"
+  ],
+  "unamused_face": [
+    "besviken",
+    "irriterad",
+    "kolla snett"
+  ],
+  "unicorn": [
+    "enhörning",
+    "glitter",
+    "enhörningshorn",
+    "fab",
+    "horn"
+  ],
+  "united_arab_emirates": [
+    "arabemiraten",
+    "förenade arabemiraten"
+  ],
+  "united_kingdom": [
+    "uk flagga",
+    "storbritannien",
+    "union jack"
+  ],
+  "united_nations": [
+    "flagga",
+    "förenta nationerna",
+    "fn"
+  ],
+  "united_states": [
+    "amerika",
+    "förenta staterna",
+    "usa",
+    "us"
+  ],
+  "unlocked": [
+    "hänglås",
+    "lås",
+    "öppet låt",
+    "olåst"
+  ],
+  "up_arrow": [
+    "symbol",
+    "pil",
+    "pil uppåt",
+    "uppåt pil",
+    "pilar",
+    "upp"
+  ],
+  "up_button": [
+    "up!",
+    "upp"
+  ],
+  "upside_down_face": [
+    "upponer",
+    "besviken",
+    "orkar inte",
+    "stressad",
+    "upside down",
+    "oj då",
+    "hoppsan",
+    "upp och ner",
+    "löjligt",
+    "uppochner"
+  ],
+  "upwards_button": [
+    "knapp",
+    "uppåtknapp",
+    "upp"
+  ],
+  "uruguay": [
+    "flag_uy"
+  ],
+  "us_virgin_islands": [
+    "flagga_vi",
+    "jungfruöarna"
+  ],
+  "uzbekistan": [
+    "flagga_uz",
+    "flag_uz"
+  ],
+  "vampire": [
+    "vampyr"
+  ],
+  "vanuatu": [
+    "flag_vu"
+  ],
+  "vatican_city": [
+    "vatikanen"
+  ],
+  "venezuela": [
+    "flag_ve"
+  ],
+  "vertical_traffic_light": [
+    "rödljus",
+    "trafikljus"
+  ],
+  "vibration_mode": [
+    "vibration",
+    "ljud av",
+    "vibration på"
+  ],
+  "victory_hand": [
+    "vinnare",
+    "vinna",
+    "fred",
+    "toppen",
+    "peace",
+    "seger"
+  ],
+  "video_camera": [
+    "kamera",
+    "handhållen kamera",
+    "filmkamera",
+    "videokamera"
+  ],
+  "video_game": [
+    "spela",
+    "gamer",
+    "tv spel",
+    "tv-spel",
+    "joystick",
+    "gamepad",
+    "kontroll",
+    "gaming",
+    "xbox",
+    "playstation"
+  ],
+  "videocassette": [
+    "film",
+    "bandspelare",
+    "videokassett",
+    "videoband",
+    "vhs"
+  ],
+  "vietnam": [
+    "vn"
+  ],
+  "violin": [
+    "instrument",
+    "spela",
+    "orkeseter",
+    "viol",
+    "stråkinstrument",
+    "fiol",
+    "spela instrument"
+  ],
+  "virgo": [
+    "zodiac",
+    "stjärntecken",
+    "tecken",
+    "jungru",
+    "jungfrun"
+  ],
+  "volcano": [
+    "vulkan",
+    "vulkanutbrott",
+    "lava",
+    "berg"
+  ],
+  "volleyball": [
+    "sport",
+    "idrott",
+    "bollsport",
+    "volleyboll"
+  ],
+  "vs_button": [
+    "versus",
+    "vs",
+    "skillnad",
+    "vs knapp"
+  ],
+  "vulcan_salute": [
+    "fred",
+    "hej",
+    "hallå",
+    "spock",
+    "v",
+    "star treck"
+  ],
+  "waffle": [
+    "mat",
+    "våffla",
+    "frukost",
+    "våfflor",
+    "belgisk våffla"
+  ],
+  "waning_crescent_moon": [
+    "måne",
+    "nymåne",
+    "halvmåne"
+  ],
+  "waning_gibbous_moon": [
+    "måne",
+    "månfas"
+  ],
+  "warning": [
+    "symbol",
+    "varning",
+    "fara",
+    "symboler"
+  ],
+  "wastebasket": [
+    "kontor",
+    "släng",
+    "kasta",
+    "skräp",
+    "papperskorg",
+    "korg",
+    "sopor",
+    "slänga",
+    "trash"
+  ],
+  "watch": [
+    "tid",
+    "sen",
+    "apple watch",
+    "armbandsur",
+    "ur",
+    "klicka"
+  ],
+  "water_buffalo": [
+    "vattenbuffel"
+  ],
+  "water_closet": [
+    "symbol",
+    "wc",
+    "toa",
+    "toalett"
+  ],
+  "water_pistol": [
+    "vapen",
+    "pistol",
+    "skjuta",
+    "vattenpistol"
+  ],
+  "watermelon": [
+    "frukt",
+    "skivad melon",
+    "melon",
+    "vattenmelon"
+  ],
+  "waving_hand": [
+    "hand",
+    "tjena",
+    "hej",
+    "hallå",
+    "tjabba",
+    "hejsan",
+    "vinka",
+    "tja"
+  ],
+  "waxing_crescent_moon": [
+    "måne",
+    "nymåne",
+    "månstrimla"
+  ],
+  "waxing_gibbous_moon": [
+    "måne"
+  ],
+  "weary_cat": [
+    "rädd",
+    "chockad",
+    "panik",
+    "häpen",
+    "förvånad",
+    "förskräckt",
+    "panikslagen",
+    "skrikande katt"
+  ],
+  "weary_face": [
+    "trist",
+    "urtrist"
+  ],
+  "wedding": [
+    "byggnad",
+    "kyrka"
+  ],
+  "western_sahara": [
+    "flagga",
+    "flag_eh",
+    "västsahara",
+    "eh"
+  ],
+  "whale": [
+    "val"
+  ],
+  "wheel": [
+    "hjul",
+    "bildäck",
+    "däck"
+  ],
+  "white_cane": [
+    "käpp",
+    "stav",
+    "gångstav",
+    "blindstav"
+  ],
+  "white_check_mark": [
+    "godkänd",
+    "done",
+    "+",
+    "check",
+    "färdig",
+    "ikryssad",
+    "sant",
+    "ok",
+    "acceptabel",
+    "verifierad",
+    "accepterad",
+    "klar",
+    "kryssruta"
+  ],
+  "white_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "vit cirkel",
+    "vit symbol"
+  ],
+  "white_exclamation_mark": [
+    "utropstecken",
+    "vitt utropstecken",
+    "!",
+    "!!"
+  ],
+  "white_flag": [
+    "flagga",
+    "fred",
+    "ge upp",
+    "vit flagg"
+  ],
+  "white_heart": [
+    "hjärta",
+    "vitt hjärta"
+  ],
+  "white_large_square": [
+    "vit",
+    "ruta",
+    "vit kvadrat",
+    "kvadrat"
+  ],
+  "white_medium_small_square": [
+    "vit mellan fyrkant"
+  ],
+  "white_medium_square": [
+    "vit medium fyrkant"
+  ],
+  "white_question_mark": [
+    "vitt frågetecken",
+    "fråga",
+    "frågetecken",
+    "varför",
+    "?"
+  ],
+  "white_small_square": [
+    "vit liten fyrkant"
+  ],
+  "white_square_button": [
+    "vit fyrkantig knapp"
+  ],
+  "wilted_flower": [
+    "vissnat",
+    "ros",
+    "kroknat",
+    "blomma",
+    "vissnad ros",
+    "blommor",
+    "vissnar",
+    "skönheten och odjuret",
+    "ros som tappar bladen"
+  ],
+  "wind_chime": [
+    "vindspel"
+  ],
+  "wind_face": [
+    "vind",
+    "blåsa",
+    "andetag",
+    "blåsigt"
+  ],
+  "window": [
+    "fönster"
+  ],
+  "wine_glass": [
+    "vin",
+    "date",
+    "glas",
+    "middag",
+    "drink",
+    "fredagskväll",
+    "romantisk",
+    "vinglas",
+    "alkohol",
+    "fest",
+    "rödvin",
+    "rött vin"
+  ],
+  "wing": [
+    "flyga",
+    "ängel",
+    "vingar",
+    "vinge",
+    "änglavingar",
+    "änglavinge"
+  ],
+  "wink": [
+    "skojar",
+    "skämt",
+    "flörta",
+    "ett öga",
+    ";)",
+    "flirtar",
+    "flirta",
+    "blinkning",
+    "flört",
+    "blinka"
+  ],
+  "winking_face_with_tongue": [
+    "skojar",
+    ":p",
+    "lurad",
+    ";p",
+    "sträcker ut tungan med blinkning",
+    "skoj"
+  ],
+  "wireless": [
+    "wifi",
+    "nätverk",
+    "trådlöst nätverk"
+  ],
+  "wolf": [
+    "varg",
+    "furry",
+    "vargansikte",
+    "varulv"
+  ],
+  "woman": [
+    "dam",
+    "kvinna"
+  ],
+  "woman_and_man_holding_hands": [
+    "date",
+    "par",
+    "hålla handen",
+    "partners",
+    "håller i handen",
+    "relation"
+  ],
+  "woman_artist": [
+    "konst",
+    "konstnär"
+  ],
+  "woman_astronaut": [
+    "astronaut",
+    "rymdman"
+  ],
+  "woman_bald": [
+    "flintis"
+  ],
+  "woman_beard": [
+    "skäggig",
+    "skägg"
+  ],
+  "woman_biking": [
+    "sport",
+    "cykling",
+    "cyklist",
+    "cykla",
+    "person som cyklar"
+  ],
+  "woman_bouncing_ball": [
+    "sport",
+    "boll",
+    "basket",
+    "kvinna som dribblar",
+    "kvinnlig basketspelare",
+    "dribbla",
+    "lira basket",
+    "spela basket",
+    "basketboll"
+  ],
+  "woman_bowing": [
+    "beklagar",
+    "ledsen",
+    "sorry"
+  ],
+  "woman_cartwheeling": [
+    "hjula",
+    "volt",
+    "gymnastik",
+    "gymnast"
+  ],
+  "woman_climbing": [
+    "klättring",
+    "bestiga berg",
+    "friklättring",
+    "bouldering"
+  ],
+  "woman_cook": [
+    "kokerska",
+    "kock"
+  ],
+  "woman_curly_hair": [
+    "kryllig",
+    "flicka",
+    "dam",
+    "kryllor"
+  ],
+  "woman_dancing": [
+    "klänning",
+    "dans"
+  ],
+  "woman_detective": [
+    "deckare",
+    "detektiv"
+  ],
+  "woman_elf": [
+    "alv",
+    "älva"
+  ],
+  "woman_facepalming": [
+    "ångrar",
+    "otroligt",
+    "kvinna gör facepalm",
+    "oh god",
+    "herregud",
+    "suck",
+    "skam",
+    "ånger",
+    "korkat",
+    "facepalm"
+  ],
+  "woman_factory_worker": [
+    "arbetskvinna"
+  ],
+  "woman_fairy": [
+    "fé"
+  ],
+  "woman_farmer": [
+    "bonde",
+    "lantbrukare",
+    "lantis"
+  ],
+  "woman_feeding_baby": [
+    "ammande mamma"
+  ],
+  "woman_firefighter": [
+    "brand",
+    "brandman"
+  ],
+  "woman_frowning": [
+    "fryner",
+    "frynanade",
+    "frynanade kvinna"
+  ],
+  "woman_genie": [
+    "magi",
+    "magisk lampa",
+    "ande",
+    "aladdin"
+  ],
+  "woman_gesturing_no": [
+    "nej",
+    "stop",
+    "absolut inte",
+    "avbryt",
+    "icke",
+    "kvinna som säger nej",
+    "fel"
+  ],
+  "woman_gesturing_ok": [
+    "k",
+    "gestikulera",
+    "kvinna som gör en cirkel",
+    "ok",
+    "signal",
+    "händerna på huvudet"
+  ],
+  "woman_getting_haircut": [
+    "frisör",
+    "saxar",
+    "frisering"
+  ],
+  "woman_getting_massage": [
+    "massage",
+    "kvinna masserar huvud"
+  ],
+  "woman_golfing": [
+    "sport",
+    "golfslag",
+    "spela golf",
+    "golf",
+    "fore",
+    "klubba"
+  ],
+  "woman_guard": [
+    "vakt",
+    "högvakt"
+  ],
+  "woman_health_worker": [
+    "sköterska",
+    "akutsköterska",
+    "akut",
+    "sjuksköterska"
+  ],
+  "woman_in_lotus_position": [
+    "sport",
+    "fokus",
+    "kvinna i lotusställning",
+    "stillsam",
+    "yoga",
+    "zen",
+    "lugn",
+    "lotus",
+    "meditera"
+  ],
+  "woman_in_manual_wheelchair": [
+    "rullstol"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "rullstol"
+  ],
+  "woman_in_steamy_room": [
+    "badrum",
+    "bad"
+  ],
+  "woman_in_tuxedo": [
+    "tjej"
+  ],
+  "woman_judge": [
+    "domare"
+  ],
+  "woman_juggling": [
+    "jonglera",
+    "cirkus",
+    "många bollar i luften",
+    "tivoli",
+    "jonglör",
+    "bollar"
+  ],
+  "woman_kneeling": [
+    "be",
+    "ber",
+    "sitta på knä"
+  ],
+  "woman_lifting_weights": [
+    "sport",
+    "squats",
+    "frivändning",
+    "träna",
+    "skivstång",
+    "person som lyfter en skivstång",
+    "vikter",
+    "gym",
+    "kvinna som lyfter en skivstång",
+    "lyfta",
+    "tyngdlyftning",
+    "träning"
+  ],
+  "woman_mage": [
+    "häxa"
+  ],
+  "woman_mechanic": [
+    "mekaniker",
+    "kvinnlig mekaniker"
+  ],
+  "woman_mountain_biking": [
+    "sport",
+    "cykling",
+    "cykla",
+    "mountain bike",
+    "kvinna på mountain bike"
+  ],
+  "woman_office_worker": [
+    "kvinnlig kollega",
+    "kontorstjej",
+    "kontorist",
+    "sekreterare"
+  ],
+  "woman_pilot": [
+    "pilot",
+    "kvinnlig pilot"
+  ],
+  "woman_playing_handball": [
+    "sport",
+    "bollsport",
+    "handboll",
+    "handbollsspelare"
+  ],
+  "woman_playing_water_polo": [
+    "boll",
+    "bollsport",
+    "vattenpolo",
+    "vattenpolospelare",
+    "polo",
+    "spela vattenpolo",
+    "kvinnlig vattenpolospelare"
+  ],
+  "woman_police_officer": [
+    "polis",
+    "snut"
+  ],
+  "woman_pouting": [
+    "sur",
+    "sura",
+    "irriterad",
+    "fått nog",
+    "puta med läpparna",
+    "grinig"
+  ],
+  "woman_raising_hand": [
+    "hand",
+    "gest",
+    "elev",
+    "fråga",
+    "frågar",
+    "undrar",
+    "kvinna som räcker upp handen",
+    "nyfiken",
+    "frågvis"
+  ],
+  "woman_red_hair": [
+    "flicka"
+  ],
+  "woman_rowing_boat": [
+    "roddbåt",
+    "ror",
+    "ro"
+  ],
+  "woman_running": [
+    "motionär",
+    "motion"
+  ],
+  "woman_s_boot": [
+    "kängor",
+    "känga",
+    "kvinnostövel",
+    "skor",
+    "kvinnosko",
+    "stövel"
+  ],
+  "woman_s_clothes": [
+    "rosa blus",
+    "blus"
+  ],
+  "woman_s_hat": [
+    "stråhatt",
+    "hatt",
+    "semesterhatt",
+    "kvinnohatt",
+    "hatt med grön rosett",
+    "halmhatt"
+  ],
+  "woman_s_sandal": [
+    "högklackad",
+    "sandal",
+    "kvinnosandal",
+    "skor",
+    "slip-on sko"
+  ],
+  "woman_scientist": [
+    "kvinnlig forskare",
+    "vetenskap"
+  ],
+  "woman_shrugging": [
+    "rycka på axlarna",
+    "vet inte",
+    "vet ej",
+    "herregud",
+    "idk",
+    "vem vet",
+    "kvinna som rycker på axlarna",
+    "person som rycker på axlarna"
+  ],
+  "woman_singer": [
+    "sångerska"
+  ],
+  "woman_standing": [
+    "person",
+    "flicka",
+    "människa",
+    "kvinna",
+    "stå"
+  ],
+  "woman_student": [
+    "student",
+    "kvinnlig student"
+  ],
+  "woman_superhero": [
+    "hjälte",
+    "superkvinna"
+  ],
+  "woman_supervillain": [
+    "buse"
+  ],
+  "woman_surfing": [
+    "våg",
+    "surfare",
+    "wakeboard",
+    "person som surfar",
+    "surfa",
+    "kvinna som surfar"
+  ],
+  "woman_swimming": [
+    "sport",
+    "simmare",
+    "crawla",
+    "simma"
+  ],
+  "woman_teacher": [
+    "lärarinna"
+  ],
+  "woman_technologist": [
+    "kontorstjej",
+    "kontorist",
+    "programererska"
+  ],
+  "woman_tipping_hand": [
+    "hand",
+    "oh well",
+    "welp",
+    "vicka på handen",
+    "informationsdisk",
+    "idk",
+    "kvinna som vrider på handen",
+    "lutar"
+  ],
+  "woman_vampire": [
+    "vampyr",
+    "kvinnovampyr"
+  ],
+  "woman_walking": [
+    "gång"
+  ],
+  "woman_wearing_turban": [
+    "kvinnoturban",
+    "kvinna med turban"
+  ],
+  "woman_white_hair": [
+    "dam",
+    "kvinna"
+  ],
+  "woman_with_headscarf": [
+    "huckle",
+    "muslim"
+  ],
+  "woman_with_veil": [
+    "brud"
+  ],
+  "woman_with_white_cane": [
+    "blindkäpp"
+  ],
+  "woman_zombie": [
+    "zombie"
+  ],
+  "women_holding_hands": [
+    "par",
+    "kompisar",
+    "två kvinnor som håller händerna",
+    "lesbiska",
+    "par som håller händerna",
+    "vänner",
+    "hålla händerna",
+    "relation"
+  ],
+  "women_s_room": [
+    "wc",
+    "dam",
+    "toalett",
+    "kvinna",
+    "kissa"
+  ],
+  "women_with_bunny_ears": [
+    "par",
+    "dansare",
+    "bunnyöron",
+    "kostym",
+    "kaniner",
+    "utklädnad",
+    "playboy"
+  ],
+  "women_wrestling": [
+    "sport",
+    "brottas",
+    "brottning",
+    "kampsport",
+    "brottare"
+  ],
+  "wood": [
+    "ved",
+    "träbit",
+    "vedträ",
+    "trä"
+  ],
+  "woozy_face": [
+    ":s",
+    "på lyset",
+    "full",
+    "på lyran"
+  ],
+  "world_map": [
+    "resa",
+    "atlas",
+    "världskarta",
+    "karta"
+  ],
+  "worm": [
+    "daggmask",
+    "mask"
+  ],
+  "worried": [
+    "förskräckt",
+    "ledsamt"
+  ],
+  "wrapped_gift": [
+    "grattis",
+    "ge",
+    "grattis på födelsedagen",
+    "julklapp",
+    "inslaget",
+    "födelsedag",
+    "fira",
+    "present",
+    "överraskning",
+    "slå in",
+    "gåva"
+  ],
+  "wrench": [
+    "verktyg",
+    "fixa",
+    "skiftnyckel"
+  ],
+  "writing_hand": [
+    "skriva",
+    "penna",
+    "meddelande",
+    "skriver",
+    "författar",
+    "författare"
+  ],
+  "x_ray": [
+    "x-ray",
+    "röntgen"
+  ],
+  "yarn": [
+    "nystan",
+    "garnnystan",
+    "sticka"
+  ],
+  "yawning_face": [
+    "tråkigt",
+    "sova",
+    "lat",
+    "trött",
+    "gäsp",
+    "kraftlös",
+    "boring",
+    "sömn"
+  ],
+  "yellow_circle": [
+    "symbol",
+    "cirkel",
+    "knapp",
+    "gul cirkel",
+    "gul symbol"
+  ],
+  "yellow_heart": [
+    "hjärta"
+  ],
+  "yellow_square": [
+    "gul kvadrat",
+    "ruta",
+    "gul",
+    "kvadrat",
+    "gul ruta"
+  ],
+  "yemen": [
+    "flag",
+    "jemen",
+    "flag_ye",
+    "ye"
+  ],
+  "yen_banknote": [
+    "bitcoin",
+    "dyrt",
+    "inkomst",
+    "sedelbunt",
+    "¥",
+    "rik",
+    "budget",
+    "lön",
+    "sedlar",
+    "bunt pengar",
+    "pengar",
+    "bank",
+    "yen"
+  ],
+  "yin_yang": [
+    "symbol",
+    "symbols",
+    "religion"
+  ],
+  "yoyo": [
+    "yo-yo"
+  ],
+  "zambia": [
+    "zm",
+    "flagga_zm"
+  ],
+  "zany_face": [
+    "skojar",
+    "lol",
+    "full",
+    "fåne",
+    "lurad",
+    "korkad",
+    ";p"
+  ],
+  "zero": [
+    "siffror",
+    "0",
+    "noll",
+    "knapp noll",
+    "nollknapp"
+  ],
+  "zimbabwe": [
+    "flag",
+    "zw",
+    "flag_zw"
+  ],
+  "zipper_mouth_face": [
+    "tyst",
+    "säg inget",
+    "håller tyst",
+    "hemlighet",
+    "säger inget",
+    "hemligt",
+    "jag är tyst",
+    "blixtlås",
+    "berätta inte"
+  ],
+  "zzz": [
+    "sova",
+    "lat",
+    "trött",
+    "sömn"
+  ],
+  "åland_islands": [
+    "åland",
+    "flagga_åland"
+  ]
+}

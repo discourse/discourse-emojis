@@ -131,7 +131,7 @@ namespace :emojis do
       locales_arg = args[:locales] || "en"
 
       emoji_to_name = JSON.parse(File.read("./dist/emoji_to_name.json"))
-      output_dir = "./dist/locale_search_aliases"
+      output_dir = "./dist/telegram_search_aliases"
       FileUtils.mkdir_p(output_dir)
 
       locales =

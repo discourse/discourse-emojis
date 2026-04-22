@@ -1,0 +1,5403 @@
+{
+  "+1": [
+    "siap",
+    "oke",
+    "mantap",
+    "jempol"
+  ],
+  "-1": [
+    "jari tangan",
+    "jempol",
+    "jelek",
+    "jempol ke bawah"
+  ],
+  "1st_place_medal": [
+    "olahraga",
+    "medali juara",
+    "medali",
+    "medali emas",
+    "juara pertama"
+  ],
+  "2nd_place_medal": [
+    "olahraga",
+    "medali juara",
+    "medali perak",
+    "medali",
+    "juara kedua"
+  ],
+  "3rd_place_medal": [
+    "olahraga",
+    "medali juara",
+    "medali perunggu",
+    "medali",
+    "juara ketiga"
+  ],
+  "admission_tickets": [
+    "tiket",
+    "acara",
+    "karcis"
+  ],
+  "aerial_tramway": [
+    "tram"
+  ],
+  "airplane": [
+    "kapal terbang",
+    "pesawat terbang",
+    "pesawat"
+  ],
+  "airplane_arrival": [
+    "kapal terbang",
+    "pesawat terbang",
+    "pesawat",
+    "kedatangan"
+  ],
+  "airplane_departure": [
+    "kapal terbang",
+    "pesawat terbang",
+    "pesawat",
+    "keberangkatan"
+  ],
+  "alarm_clock": [
+    "jam",
+    "alarm",
+    "jam analog",
+    "weker"
+  ],
+  "alien": [
+    "ufo"
+  ],
+  "alien_monster": [
+    "makhluk",
+    "monster",
+    "robot",
+    "alien",
+    "ufo"
+  ],
+  "ambulance": [
+    "mobil",
+    "ambulan",
+    "rumah sakit"
+  ],
+  "american_football": [
+    "olahraga",
+    "bola",
+    "rugby",
+    "football"
+  ],
+  "anatomical_heart": [
+    "jantung"
+  ],
+  "anchor": [
+    "jangkar"
+  ],
+  "angry": [
+    "kesal",
+    "marah",
+    "wajah kesal"
+  ],
+  "angry_face_with_horns": [
+    "cemberut",
+    "muka setan",
+    "setan",
+    "tanduk"
+  ],
+  "anguished_face": [
+    "ekspresi",
+    "muka kaget",
+    "terkejut",
+    "kaget"
+  ],
+  "ant": [
+    "serangga",
+    "semut"
+  ],
+  "anxious_face_with_sweat": [
+    "takut",
+    "berkeringat",
+    "cemas",
+    "khawatir",
+    "berdebar",
+    "muka cemas"
+  ],
+  "articulated_lorry": [
+    "kendaraan",
+    "truk",
+    "truk barang"
+  ],
+  "artist": [
+    "artis",
+    "pelukis",
+    "seniman"
+  ],
+  "artist_palette": [
+    "seni",
+    "gambar",
+    "palet",
+    "seni lukis",
+    "lukisan"
+  ],
+  "astonished_face": [
+    "terkejut",
+    "kaget"
+  ],
+  "astronaut": [
+    "angkasawan",
+    "antariksawan",
+    "kosmonaut"
+  ],
+  "automobile": [
+    "oto",
+    "mobil",
+    "kendaraan"
+  ],
+  "avocado": [
+    "makanan",
+    "buah",
+    "alpukat"
+  ],
+  "baby": [
+    "anak",
+    "bayi",
+    "anak kecil",
+    "anak bayi"
+  ],
+  "baby_angel": [
+    "malaikat",
+    "sayap"
+  ],
+  "baby_bottle": [
+    "minuman",
+    "minum",
+    "susu bayi",
+    "susu"
+  ],
+  "baby_chick": [
+    "burung",
+    "anak ayam",
+    "kepala anak ayam"
+  ],
+  "backhand_index_pointing_down": [
+    "jari",
+    "bawah",
+    "tunjuk ke bawah",
+    "telunjuk",
+    "telunjuk ke bawah",
+    "arah ke bawah"
+  ],
+  "backhand_index_pointing_left": [
+    "jari",
+    "kiri",
+    "tangan",
+    "jari tangan",
+    "menunjuk",
+    "telunjuk kiri",
+    "arah kiri",
+    "menunjuk kiri",
+    "tunjuk kiri"
+  ],
+  "backhand_index_pointing_right": [
+    "jari",
+    "tangan",
+    "arah kanan",
+    "jari tangan",
+    "menunjuk",
+    "kanan",
+    "telunjuk kanan",
+    "tunjuk kanan",
+    "menunjuk kanan"
+  ],
+  "backhand_index_pointing_up": [
+    "jari",
+    "tunjuk ke atas",
+    "tangan",
+    "telunjuk",
+    "atas",
+    "tunjuk atas"
+  ],
+  "backpack": [
+    "tas sekolah",
+    "ransel",
+    "tas punggung",
+    "ras ransel"
+  ],
+  "bacon": [
+    "makanan",
+    "daging"
+  ],
+  "badger": [
+    "luwak",
+    "luak"
+  ],
+  "badminton": [
+    "olahraga",
+    "kok",
+    "bulutangkis",
+    "raket"
+  ],
+  "bagel": [
+    "makanan",
+    "roti",
+    "kue",
+    "donat"
+  ],
+  "baguette_bread": [
+    "makanan",
+    "roti",
+    "kue",
+    "baguette"
+  ],
+  "banana": [
+    "makanan",
+    "buah",
+    "pisang"
+  ],
+  "bank": [
+    "bangunan",
+    "gedung"
+  ],
+  "baseball": [
+    "olahraga",
+    "bola",
+    "bisbol"
+  ],
+  "basketball": [
+    "olahraga",
+    "bola",
+    "basket"
+  ],
+  "bat": [
+    "kelelawar"
+  ],
+  "battery": [
+    "batre",
+    "baterai",
+    "energi"
+  ],
+  "beach_with_umbrella": [
+    "payung",
+    "payung pantai",
+    "pantai"
+  ],
+  "bear": [
+    "kepala beruang",
+    "beruang"
+  ],
+  "beer_mug": [
+    "minuman",
+    "minum",
+    "mug",
+    "bir"
+  ],
+  "bento_box": [
+    "makanan",
+    "asia",
+    "nasi",
+    "bento",
+    "jepang"
+  ],
+  "bicycle": [
+    "sepeda"
+  ],
+  "bikini": [
+    "bra",
+    "bh"
+  ],
+  "billed_cap": [
+    "topi",
+    "topi bisbol"
+  ],
+  "bird": [
+    "burung",
+    "kepala burung"
+  ],
+  "birthday_cake": [
+    "makanan",
+    "roti",
+    "kue",
+    "kue ulang tahun"
+  ],
+  "biting_lip": [
+    "bibir",
+    "gigit bibir",
+    "mmm"
+  ],
+  "black_circle": [
+    "lingkaran hitam",
+    "lingkaran",
+    "hitam"
+  ],
+  "blonde_man": [
+    "orang",
+    "bapak",
+    "ayah",
+    "manusia",
+    "laki-laki",
+    "papa",
+    "pria"
+  ],
+  "blonde_woman": [
+    "perempuan",
+    "gadis",
+    "wanita",
+    "kuncir"
+  ],
+  "blossom": [
+    "bunga",
+    "kembang"
+  ],
+  "blowfish": [
+    "ikan",
+    "ikan buntal"
+  ],
+  "blue_circle": [
+    "lingkaran",
+    "lingkaran biru"
+  ],
+  "blush": [
+    "halo",
+    "senyum",
+    "wajah",
+    "muka",
+    "gpp",
+    "wan"
+  ],
+  "boar": [
+    "celeng",
+    "babi hutan"
+  ],
+  "bone": [
+    "tulang"
+  ],
+  "books": [
+    "buku"
+  ],
+  "bottle_with_popping_cork": [
+    "pesta",
+    "minuman",
+    "botol",
+    "sampanye",
+    "sparkling"
+  ],
+  "bouquet": [
+    "bunga",
+    "kembang",
+    "buket bunga"
+  ],
+  "bow_and_arrow": [
+    "olahraga",
+    "panah",
+    "busur",
+    "cupid"
+  ],
+  "bowl_with_spoon": [
+    "mangkuk",
+    "mangkok"
+  ],
+  "bowling": [
+    "olahraga",
+    "bola",
+    "boling",
+    "pin"
+  ],
+  "boxing_glove": [
+    "olahraga",
+    "tinju kiri",
+    "tinju",
+    "sarung tangan",
+    "sarung tinju"
+  ],
+  "boy": [
+    "anak laki-laki",
+    "anak kecil"
+  ],
+  "brain": [
+    "otak"
+  ],
+  "bread": [
+    "makanan",
+    "roti",
+    "roti tawar"
+  ],
+  "breast_feeding": [
+    "ibu menyusui",
+    "bayi",
+    "menyusui"
+  ],
+  "bridge_at_night": [
+    "jembatan",
+    "malam"
+  ],
+  "briefcase": [
+    "tas kantor",
+    "tas kerja"
+  ],
+  "broccoli": [
+    "makanan",
+    "sayuran",
+    "brokoli"
+  ],
+  "bug": [
+    "serangga",
+    "ulet",
+    "ulat"
+  ],
+  "building_construction": [
+    "bangunan",
+    "kontraktor",
+    "konstruksi bangunan",
+    "konstruksi"
+  ],
+  "bullet_train": [
+    "kereta"
+  ],
+  "bullseye": [
+    "permainan",
+    "panah",
+    "mata",
+    "anak panah",
+    "papan sasaran",
+    "bidik",
+    "target"
+  ],
+  "burrito": [
+    "makanan",
+    "burito"
+  ],
+  "bus": [
+    "kendaraan",
+    "transportasi publik",
+    "transportasi",
+    "bis"
+  ],
+  "bus_stop": [
+    "halte bus"
+  ],
+  "bust_in_silhouette": [
+    "orang",
+    "manusia",
+    "siluet"
+  ],
+  "busts_in_silhouette": [
+    "orang",
+    "manusia",
+    "siluet",
+    "dua siluet"
+  ],
+  "butterfly": [
+    "kupu-kupu",
+    "serangga"
+  ],
+  "cactus": [
+    "kaktus"
+  ],
+  "call_me_hand": [
+    "telepon",
+    "panggil saya",
+    "telepon saya"
+  ],
+  "camel": [
+    "onta",
+    "unta"
+  ],
+  "camera": [
+    "foto",
+    "kamera"
+  ],
+  "camera_with_flash": [
+    "foto",
+    "kamera",
+    "flash"
+  ],
+  "camping": [
+    "pramuka",
+    "tenda",
+    "berkemah",
+    "kemah"
+  ],
+  "candle": [
+    "cahaya",
+    "lilin"
+  ],
+  "candy": [
+    "makanan",
+    "permen"
+  ],
+  "canned_food": [
+    "makanan",
+    "saos",
+    "makanan kaleng",
+    "kaleng",
+    "saus tomat"
+  ],
+  "canoe": [
+    "kayak",
+    "perahu",
+    "kano"
+  ],
+  "carousel_horse": [
+    "kuda",
+    "wahana",
+    "komidi putar"
+  ],
+  "carrot": [
+    "makanan",
+    "sayur",
+    "sayuran",
+    "wortel"
+  ],
+  "castle": [
+    "kastil",
+    "kastil eropa"
+  ],
+  "cat": [
+    "kucing"
+  ],
+  "cat_face": [
+    "kucing",
+    "kepala kucing"
+  ],
+  "cat_with_wry_smile": [
+    "muka kucing",
+    "sombong",
+    "sinis",
+    "kucing",
+    "wajah kucing",
+    "ejek"
+  ],
+  "cheese_wedge": [
+    "makanan",
+    "keju"
+  ],
+  "cherries": [
+    "makanan",
+    "buah",
+    "ceri"
+  ],
+  "cherry_blossom": [
+    "bunga",
+    "kembang",
+    "mekar"
+  ],
+  "chess_pawn": [
+    "pion",
+    "catur"
+  ],
+  "chestnut": [
+    "makanan",
+    "kastanye"
+  ],
+  "chicken": [
+    "ayam",
+    "kepala ayam"
+  ],
+  "child": [
+    "anak"
+  ],
+  "chipmunk": [
+    "marmut"
+  ],
+  "chocolate_bar": [
+    "makanan",
+    "coklat"
+  ],
+  "chopsticks": [
+    "makan",
+    "asia",
+    "alat makan",
+    "sumpit"
+  ],
+  "christmas_tree": [
+    "natal",
+    "pohon natal"
+  ],
+  "church": [
+    "bangunan",
+    "gedung",
+    "agama",
+    "gereja"
+  ],
+  "circus_tent": [
+    "sirkus",
+    "pertunjukkan",
+    "tenda sirkus"
+  ],
+  "cityscape": [
+    "bangunan",
+    "gedung",
+    "gedung bertingkat"
+  ],
+  "cityscape_at_dusk": [
+    "senja",
+    "kota",
+    "matahari tenggelam"
+  ],
+  "clamp": [
+    "alat",
+    "kompresi"
+  ],
+  "clap": [
+    "tangan",
+    "tepuk tangan"
+  ],
+  "clapper_board": [
+    "papan film",
+    "film"
+  ],
+  "classical_building": [
+    "bangunan",
+    "gedung",
+    "gedung bersejarah",
+    "bangunan bersejarah",
+    "gedung tua"
+  ],
+  "clinking_beer_mugs": [
+    "minuman",
+    "tos",
+    "alkohol",
+    "minuman keras",
+    "bir"
+  ],
+  "clinking_glasses": [
+    "wine",
+    "minuman",
+    "sampanye",
+    "tos"
+  ],
+  "closed_umbrella": [
+    "payung"
+  ],
+  "cloud": [
+    "awan",
+    "cuaca",
+    "mendung",
+    "hujan",
+    "gerimis",
+    "berawan"
+  ],
+  "cloud_with_lightning": [
+    "awan",
+    "cuaca",
+    "petir",
+    "mendung",
+    "hujan",
+    "hujan deras",
+    "gerimis",
+    "hujan petir"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "awan",
+    "cuaca",
+    "petir",
+    "mendung",
+    "hujan",
+    "hujan deras",
+    "gerimis",
+    "hujan petir",
+    "halilintar",
+    "ujan",
+    "guntur"
+  ],
+  "cloud_with_rain": [
+    "awan",
+    "cuaca",
+    "mendung",
+    "hujan",
+    "gerimis",
+    "ujan"
+  ],
+  "cloud_with_snow": [
+    "awan",
+    "cuaca",
+    "salju",
+    "mendung",
+    "hujan",
+    "gerimis",
+    "bersalju",
+    "musim salju"
+  ],
+  "clown_face": [
+    "sirkus",
+    "badut"
+  ],
+  "clutch_bag": [
+    "dompet",
+    "tas"
+  ],
+  "coat": [
+    "jaket"
+  ],
+  "cocktail_glass": [
+    "minuman",
+    "minum",
+    "alkohol",
+    "cocktail",
+    "sirup"
+  ],
+  "coconut": [
+    "makanan",
+    "santan",
+    "kelapa"
+  ],
+  "cold_face": [
+    "dingin"
+  ],
+  "collision": [
+    "meledak",
+    "ledakan",
+    "bom"
+  ],
+  "comet": [
+    "bintang",
+    "komet",
+    "meteor",
+    "asteroid"
+  ],
+  "compass": [
+    "kompas"
+  ],
+  "computer_disk": [
+    "cd",
+    "disk",
+    "komputer",
+    "disket"
+  ],
+  "computer_mouse": [
+    "mouse"
+  ],
+  "confounded_face": [
+    "kesal",
+    "pusing",
+    "stres",
+    "gelisah"
+  ],
+  "confused": [
+    "cemberut",
+    "sedih",
+    "bingung",
+    "heran"
+  ],
+  "construction": [
+    "konstruksi"
+  ],
+  "construction_worker": [
+    "pekerja bangunan",
+    "pekerja wanita",
+    "kontraktor"
+  ],
+  "construction_worker_man": [
+    "pekerja",
+    "kontraktor",
+    "helm",
+    "kuli",
+    "buruh"
+  ],
+  "construction_worker_woman": [
+    "buruh wanita",
+    "pekerja",
+    "pekerja wanita",
+    "helm",
+    "kuli",
+    "kuli wanita",
+    "kontraktor wanita"
+  ],
+  "control_knobs": [
+    "panel",
+    "konsol",
+    "tombol konsol"
+  ],
+  "convenience_store": [
+    "bangunan",
+    "gedung",
+    "supermarket",
+    "swalayan"
+  ],
+  "cook": [
+    "koki",
+    "juru masak"
+  ],
+  "cooked_rice": [
+    "makanan",
+    "asia",
+    "mangkuk",
+    "nasi"
+  ],
+  "cookie": [
+    "makanan",
+    "kue",
+    "biskuit",
+    "cookies"
+  ],
+  "cooking": [
+    "makanan",
+    "telur mata sapi",
+    "telur ceplok",
+    "ceplok",
+    "telur"
+  ],
+  "couple_with_heart": [
+    "cinta",
+    "romantis",
+    "pasangan dengan hati",
+    "pasangan"
+  ],
+  "couple_with_heart_man_man": [
+    "cinta",
+    "romantis",
+    "pasangan dengan hati",
+    "pasangan pria"
+  ],
+  "couple_with_heart_woman_woman": [
+    "cinta",
+    "romantis",
+    "pasangan",
+    "pasangan wanita dengan hati"
+  ],
+  "cow": [
+    "sapi"
+  ],
+  "cow_face": [
+    "sapi",
+    "kepala sapi"
+  ],
+  "cowboy_hat_face": [
+    "koboy",
+    "topi",
+    "koboi"
+  ],
+  "crab": [
+    "makanan",
+    "kepiting"
+  ],
+  "crescent_moon": [
+    "bulan",
+    "bulan sabit"
+  ],
+  "cricket": [
+    "jangkrik",
+    "serangga"
+  ],
+  "cricket_game": [
+    "olahraga",
+    "kriket"
+  ],
+  "crocodile": [
+    "reptil",
+    "buaya"
+  ],
+  "croissant": [
+    "makanan",
+    "roti",
+    "kue"
+  ],
+  "cross_mark": [
+    "berhenti",
+    "stop"
+  ],
+  "crossed_fingers": [
+    "jari",
+    "tangan",
+    "hoki",
+    "jari silang",
+    "jari disilang",
+    "beruntung",
+    "menyilang"
+  ],
+  "crown": [
+    "mahkota"
+  ],
+  "cry": [
+    "mewek",
+    "menangis",
+    "nangis",
+    "sedih",
+    "hiks",
+    "air mata",
+    "wajah sedih"
+  ],
+  "crying_cat": [
+    "mewek",
+    "menangis",
+    "nangis",
+    "sedih",
+    "kucing",
+    "tangis",
+    "air mata",
+    "kucing menangis",
+    "kucing sedih",
+    "muka kucing sedih"
+  ],
+  "cucumber": [
+    "makanan",
+    "mentimun",
+    "buah",
+    "sayuran",
+    "timun"
+  ],
+  "cup_with_straw": [
+    "gelas",
+    "sedotan",
+    "minuman",
+    "minum",
+    "soda"
+  ],
+  "cupcake": [
+    "makanan",
+    "roti",
+    "kue"
+  ],
+  "curling_stone": [
+    "permainan",
+    "batu",
+    "batu curling"
+  ],
+  "curry_rice": [
+    "makanan",
+    "makan",
+    "asia",
+    "nasi",
+    "nasi kari",
+    "kari"
+  ],
+  "custard": [
+    "makanan",
+    "pudding",
+    "puding",
+    "agar"
+  ],
+  "cut_of_meat": [
+    "makanan",
+    "daging"
+  ],
+  "dango": [
+    "makanan",
+    "asia",
+    "kue dango"
+  ],
+  "dashing_away": [
+    "hembusan",
+    "kentut",
+    "cepat",
+    "angin"
+  ],
+  "deaf_man": [
+    "laki-laki tuli",
+    "tuli",
+    "pria tuli"
+  ],
+  "deaf_person": [
+    "tuli",
+    "orang tuli"
+  ],
+  "deaf_woman": [
+    "tuli",
+    "perempuan tuli",
+    "wanita tuli"
+  ],
+  "deciduous_tree": [
+    "tanaman",
+    "pohon"
+  ],
+  "deer": [
+    "kijang",
+    "rusa"
+  ],
+  "delivery_truck": [
+    "kendaraan",
+    "truk",
+    "truk barang"
+  ],
+  "department_store": [
+    "bangunan",
+    "gedung",
+    "supermarket"
+  ],
+  "derelict_house": [
+    "rumah kuno",
+    "rumah rusak",
+    "rumah lama"
+  ],
+  "desert": [
+    "padang pasir",
+    "padang"
+  ],
+  "desert_island": [
+    "pantai",
+    "pohon kelapa",
+    "pulau"
+  ],
+  "desktop_computer": [
+    "komputer",
+    "desktop",
+    "monitor"
+  ],
+  "detective": [
+    "detektif wanita",
+    "detektif",
+    "sherlock",
+    "penyelidik"
+  ],
+  "disappointed_face": [
+    "sedih",
+    "kecewa"
+  ],
+  "disguised_face": [
+    "kacamata",
+    "menyamar",
+    "hidung",
+    "incognito"
+  ],
+  "dizzy": [
+    "bintang",
+    "komet"
+  ],
+  "dog": [
+    "anjing"
+  ],
+  "dog_face": [
+    "anjing",
+    "kepala anjing"
+  ],
+  "dolphin": [
+    "lumba-lumba"
+  ],
+  "doughnut": [
+    "makanan",
+    "roti",
+    "donat"
+  ],
+  "dove": [
+    "merpati",
+    "burung",
+    "damai"
+  ],
+  "downcast_face_with_sweat": [
+    "keringat",
+    "dingin",
+    "mengerut"
+  ],
+  "dragon": [
+    "naga",
+    "ular naga"
+  ],
+  "dragon_face": [
+    "kepala naga",
+    "naga"
+  ],
+  "dress": [
+    "gaun",
+    "rok"
+  ],
+  "drooling_face": [
+    "pengen",
+    "air liur",
+    "ngeces",
+    "ngiler",
+    "ingin"
+  ],
+  "droplet": [
+    "keringat",
+    "air",
+    "tetesan",
+    "tetes air"
+  ],
+  "duck": [
+    "bebek"
+  ],
+  "dumpling": [
+    "makanan",
+    "asia",
+    "siomay",
+    "gyoza"
+  ],
+  "dvd": [
+    "disk"
+  ],
+  "eagle": [
+    "burung",
+    "elang"
+  ],
+  "ear": [
+    "telinga",
+    "kuping"
+  ],
+  "ear_of_corn": [
+    "makanan",
+    "sayur",
+    "sayuran",
+    "jagung"
+  ],
+  "ear_with_hearing_aid": [
+    "tuli",
+    "telinga",
+    "dengar",
+    "alat bantu dengar"
+  ],
+  "egg": [
+    "makanan",
+    "telor",
+    "telur"
+  ],
+  "eggplant": [
+    "makanan",
+    "buah",
+    "sayur",
+    "terong"
+  ],
+  "electric_plug": [
+    "mengisi ulang",
+    "mengisi",
+    "steker",
+    "energi"
+  ],
+  "elephant": [
+    "gajah"
+  ],
+  "elf": [
+    "legolas",
+    "elven"
+  ],
+  "enraged_face": [
+    "marah",
+    "merah",
+    "muka merah",
+    "ngamuk"
+  ],
+  "evergreen_tree": [
+    "tanaman",
+    "pohon",
+    "pohon cemara"
+  ],
+  "ewe": [
+    "domba"
+  ],
+  "exploding_head": [
+    "terkejut",
+    "kaget",
+    "meledak",
+    "stres",
+    "takjub",
+    "kepala meledak"
+  ],
+  "expressionless_face": [
+    "ekspresi",
+    "meh",
+    "muka datar",
+    "lempeng",
+    "datar"
+  ],
+  "eye": [
+    "mata",
+    "melihat"
+  ],
+  "eyes": [
+    "mata",
+    "mengintip",
+    "dua mata"
+  ],
+  "face_blowing_a_kiss": [
+    "sayang",
+    "suka",
+    "cium",
+    "love"
+  ],
+  "face_exhaling": [
+    "capek",
+    "sedih",
+    "asap",
+    "phew",
+    "bosan",
+    "bernapas",
+    "menyesal",
+    "capai",
+    "lelah",
+    "napas",
+    "oof",
+    "sigh",
+    "letih",
+    "hembus"
+  ],
+  "face_holding_back_tears": [
+    "imut",
+    "lucu",
+    "tersenyum manis",
+    "mata memelas",
+    "gemas"
+  ],
+  "face_in_clouds": [
+    "awan",
+    "wajah di awan",
+    "asap",
+    "pelupa",
+    "wajah dalam awan",
+    "kabut",
+    "berkabut"
+  ],
+  "face_savoring_food": [
+    "enak",
+    "yum"
+  ],
+  "face_vomiting": [
+    "sakit",
+    "muntah",
+    "eneg",
+    "wajah muntah",
+    "jijik"
+  ],
+  "face_with_crossed_out_eyes": [
+    "sakit",
+    "kaget",
+    "pusing"
+  ],
+  "face_with_diagonal_mouth": [
+    ":\\",
+    "hmm"
+  ],
+  "face_with_hand_over_mouth": [
+    "ups",
+    "tutup mulut"
+  ],
+  "face_with_head_bandage": [
+    "sakit",
+    "perban",
+    "luka",
+    "cedera"
+  ],
+  "face_with_medical_mask": [
+    "sakit",
+    "pilek",
+    "flu",
+    "masker"
+  ],
+  "face_with_monocle": [
+    "ragu",
+    "mikir",
+    "kacamata",
+    "berpikir"
+  ],
+  "face_with_open_eyes_and_hand_over_mouth": [
+    "oops",
+    "menutupi mulut",
+    "hah",
+    "gosh",
+    "aduh",
+    "oh my",
+    "omg",
+    "gee"
+  ],
+  "face_with_peeking_eye": [
+    "takut",
+    "sembunyi"
+  ],
+  "face_with_raised_eyebrow": [
+    "ragu",
+    "alis",
+    "curiga",
+    "tidak percaya",
+    "skeptis"
+  ],
+  "face_with_spiral_eyes": [
+    "hypnotoad"
+  ],
+  "face_with_steam_from_nose": [
+    "kesal",
+    "menang",
+    "marah",
+    "kzl"
+  ],
+  "face_with_symbols_on_mouth": [
+    "marah",
+    "ngamuk",
+    "sangat marah",
+    "mengumpat"
+  ],
+  "face_with_thermometer": [
+    "panas",
+    "sakit",
+    "demam",
+    "termometer"
+  ],
+  "face_with_tongue": [
+    "lidah menjulur"
+  ],
+  "face_without_mouth": [
+    "tanpa mulut",
+    "diam",
+    "tenang"
+  ],
+  "factory": [
+    "bangunan",
+    "gedung",
+    "pabrik"
+  ],
+  "factory_worker": [
+    "pekerja",
+    "buruh pabrik",
+    "buruh",
+    "pekerja pabrik"
+  ],
+  "fairy": [
+    "peri"
+  ],
+  "fallen_leaf": [
+    "tanaman",
+    "daun",
+    "gugur"
+  ],
+  "family": [
+    "anak laki-laki",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "ayah"
+  ],
+  "family_man_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah",
+    "anak laki"
+  ],
+  "family_man_boy_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah",
+    "anak laki",
+    "dua anak"
+  ],
+  "family_man_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_man_girl_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah",
+    "dua anak"
+  ],
+  "family_man_girl_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "anak perempuan",
+    "ayah",
+    "dua anak"
+  ],
+  "family_man_man_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah",
+    "anak laki"
+  ],
+  "family_man_man_boy_boy": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah",
+    "anak laki"
+  ],
+  "family_man_man_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_man_man_girl_boy": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ayah"
+  ],
+  "family_man_man_girl_girl": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_man_woman_boy_boy": [
+    "keluarga dua anak",
+    "anak laki-laki",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "ayah"
+  ],
+  "family_man_woman_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_man_woman_girl_boy": [
+    "keluarga dua anak",
+    "anak laki-laki",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_man_woman_girl_girl": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan",
+    "ayah"
+  ],
+  "family_woman_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu"
+  ],
+  "family_woman_boy_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak laki",
+    "dua anak"
+  ],
+  "family_woman_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan"
+  ],
+  "family_woman_girl_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "dua anak"
+  ],
+  "family_woman_girl_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan",
+    "dua anak"
+  ],
+  "family_woman_woman_boy": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak laki"
+  ],
+  "family_woman_woman_boy_boy": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak laki"
+  ],
+  "family_woman_woman_girl": [
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan"
+  ],
+  "family_woman_woman_girl_boy": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu"
+  ],
+  "family_woman_woman_girl_girl": [
+    "keluarga dua anak",
+    "keluarga",
+    "orang tua",
+    "anak",
+    "ibu",
+    "anak perempuan"
+  ],
+  "farmer": [
+    "orang desa",
+    "petani",
+    "tani"
+  ],
+  "fax_machine": [
+    "telepon",
+    "faksimili",
+    "fax"
+  ],
+  "fearful": [
+    "muka kaget",
+    "kaget",
+    "ngeri",
+    "seram",
+    "wajah ketakutan"
+  ],
+  "ferris_wheel": [
+    "bianglala",
+    "wahana"
+  ],
+  "ferry": [
+    "kendaraan",
+    "feri",
+    "perahu",
+    "kapal",
+    "kapal feri"
+  ],
+  "field_hockey": [
+    "olahraga",
+    "stik",
+    "hoki"
+  ],
+  "film_frames": [
+    "klise",
+    "sinema",
+    "film"
+  ],
+  "film_projector": [
+    "bioskop",
+    "proyektor film",
+    "sinema",
+    "film"
+  ],
+  "fire": [
+    "kebakaran",
+    "api"
+  ],
+  "fire_engine": [
+    "pemadam kebakaran",
+    "kebakaran",
+    "mobil pemadam"
+  ],
+  "fire_extinguisher": [
+    "pemadam"
+  ],
+  "firefighter": [
+    "pemadam kebakaran"
+  ],
+  "fireworks": [
+    "kembang api"
+  ],
+  "first_quarter_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana"
+  ],
+  "first_quarter_moon_face": [
+    "bulan",
+    "bulan sabit",
+    "wajah bulan"
+  ],
+  "fish": [
+    "ikan"
+  ],
+  "fish_cake_with_swirl": [
+    "makanan",
+    "asia",
+    "bakso ikan",
+    "rebusan"
+  ],
+  "fishing_pole": [
+    "ikan",
+    "pancing",
+    "hobi",
+    "memancing"
+  ],
+  "flashlight": [
+    "cahaya",
+    "senter"
+  ],
+  "flat_shoe": [
+    "sepatu",
+    "flatshoe"
+  ],
+  "flexed_biceps": [
+    "tangan",
+    "otot",
+    "berotot"
+  ],
+  "floppy_disk": [
+    "floppy",
+    "komputer",
+    "disket"
+  ],
+  "flushed_face": [
+    "tersipu"
+  ],
+  "flying_disc": [
+    "piring terbang",
+    "frisbee"
+  ],
+  "flying_saucer": [
+    "alien",
+    "ufo",
+    "piring terbang"
+  ],
+  "fog": [
+    "mendung",
+    "asap",
+    "kabut"
+  ],
+  "foggy": [
+    "kabut"
+  ],
+  "folded_hands": [
+    "tolong",
+    "berdoa",
+    "mohon",
+    "maaf",
+    "terima kasih",
+    "tos",
+    "maap",
+    "lipat tangan",
+    "doa",
+    "melipat tangan"
+  ],
+  "foot": [
+    "kaki",
+    "telapak kaki"
+  ],
+  "footprints": [
+    "jejak",
+    "kaki",
+    "jejak kaki"
+  ],
+  "fork_and_knife": [
+    "makan",
+    "alat makan",
+    "pisau",
+    "garpu"
+  ],
+  "fork_and_knife_with_plate": [
+    "makan",
+    "piring",
+    "alat makan",
+    "pisau",
+    "garpu"
+  ],
+  "fortune_cookie": [
+    "makanan",
+    "asia",
+    "cina",
+    "biskuit",
+    "kue keberuntungan"
+  ],
+  "fountain": [
+    "air mancur"
+  ],
+  "four_leaf_clover": [
+    "tanaman",
+    "daun"
+  ],
+  "fox": [
+    "rubah",
+    "kepala rubah"
+  ],
+  "french_fries": [
+    "makanan",
+    "kentang",
+    "kentang goreng"
+  ],
+  "fried_shrimp": [
+    "makanan",
+    "udang",
+    "udang goreng",
+    "ebi"
+  ],
+  "frog": [
+    "katak",
+    "kepala katak",
+    "kepala kodok",
+    "kodok"
+  ],
+  "front_facing_baby_chick": [
+    "ayam",
+    "anak ayam"
+  ],
+  "frowning": [
+    "cemberut",
+    "wajah",
+    "sedih",
+    "gusar"
+  ],
+  "frowning_face_with_open_mouth": [
+    "ekspresi",
+    "kaget",
+    "mulut terbuka"
+  ],
+  "fu": [
+    "jari",
+    "tangan",
+    "jari tengah"
+  ],
+  "fuel_pump": [
+    "spbu",
+    "bensin",
+    "pompa",
+    "bahan bakar"
+  ],
+  "full_moon": [
+    "bulan",
+    "bulan penuh"
+  ],
+  "full_moon_face": [
+    "bulan",
+    "wajah bulan",
+    "bulan penuh"
+  ],
+  "game_die": [
+    "dadu"
+  ],
+  "genie": [
+    "jin",
+    "lamp",
+    "aladdin"
+  ],
+  "ghost": [
+    "setan",
+    "hantu",
+    "arwah"
+  ],
+  "giraffe": [
+    "jerapah"
+  ],
+  "girl": [
+    "anak perempuan",
+    "gadis",
+    "anak kecil"
+  ],
+  "glass_of_milk": [
+    "minuman",
+    "minum",
+    "susu"
+  ],
+  "glasses": [
+    "kacamata"
+  ],
+  "globe_showing_americas": [
+    "bumi",
+    "amerika",
+    "globe",
+    "bola dunia",
+    "dunia"
+  ],
+  "globe_showing_asia_australia": [
+    "asia",
+    "australia",
+    "bumi",
+    "globe",
+    "dunia"
+  ],
+  "globe_showing_europe_africa": [
+    "bumi",
+    "globe",
+    "dunia",
+    "afrika",
+    "eropa"
+  ],
+  "gloves": [
+    "sarung tangan"
+  ],
+  "glowing_star": [
+    "bintang"
+  ],
+  "goal_net": [
+    "olahraga",
+    "net",
+    "gawang"
+  ],
+  "goat": [
+    "kambing"
+  ],
+  "goblin": [
+    "monster",
+    "topeng jepang",
+    "topeng hidung panjang"
+  ],
+  "goggles": [
+    "kacamata renang"
+  ],
+  "gorilla": [
+    "gorila"
+  ],
+  "graduation_cap": [
+    "wisuda",
+    "toga",
+    "topi wisuda"
+  ],
+  "grapes": [
+    "makanan",
+    "buah",
+    "anggur"
+  ],
+  "green_apple": [
+    "makanan",
+    "buah",
+    "apel",
+    "apel hijau"
+  ],
+  "green_salad": [
+    "makanan",
+    "salad"
+  ],
+  "grimacing": [
+    "unjuk gigi",
+    "menyeringai"
+  ],
+  "grin": [
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "bahagia",
+    "senang",
+    "muka",
+    "seneng",
+    "gembira"
+  ],
+  "grinning_cat": [
+    "muka kucing",
+    "kucing",
+    "gembira"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "bahagia",
+    "muka kucing",
+    "seneng",
+    "kucing",
+    "gembira",
+    "tertawa"
+  ],
+  "grinning_face": [
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "bahagia",
+    "senang",
+    "muka",
+    "seneng",
+    "gembira"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "bahagia",
+    "senang",
+    "seneng",
+    "lucu",
+    "gembira"
+  ],
+  "guard": [
+    "pengawal",
+    "penjaga",
+    "tentara inggris",
+    "pengawal ratu",
+    "garda"
+  ],
+  "guitar": [
+    "musik",
+    "instrumen",
+    "gitar"
+  ],
+  "hamburger": [
+    "makanan",
+    "burger"
+  ],
+  "hamster": [
+    "kepala hamster"
+  ],
+  "hand_with_fingers_splayed": [
+    "tangan",
+    "telapak tangan",
+    "lima"
+  ],
+  "hand_with_index_finger_and_thumb_crossed": [
+    "hati korea",
+    "hati",
+    "gestur hati"
+  ],
+  "handbag": [
+    "tas tangan",
+    "tas"
+  ],
+  "handshake": [
+    "salaman",
+    "jabat tangan",
+    "bersalaman"
+  ],
+  "hatching_chick": [
+    "ayam",
+    "anak ayam",
+    "menetas"
+  ],
+  "headphone": [
+    "musik",
+    "lagu",
+    "dengar musik",
+    "suara"
+  ],
+  "health_worker": [
+    "dokter",
+    "medis",
+    "dr"
+  ],
+  "hear_no_evil_monkey": [
+    "monyet",
+    "tutup kuping",
+    "monyet bijaksana",
+    "monyet tak mendengar"
+  ],
+  "heart_eyes": [
+    "cinta",
+    "sayang",
+    "suka",
+    "love"
+  ],
+  "heart_hands": [
+    "hati",
+    "tangan hati"
+  ],
+  "hedgehog": [
+    "landak"
+  ],
+  "helicopter": [
+    "helikopter"
+  ],
+  "herb": [
+    "tanaman",
+    "daun"
+  ],
+  "hibiscus": [
+    "bunga",
+    "kembang",
+    "kembang sepatu",
+    "bunga sepatu"
+  ],
+  "high_heeled_shoe": [
+    "high heels",
+    "sepatu hak",
+    "sepatu wanita"
+  ],
+  "high_speed_train": [
+    "monorail",
+    "kereta",
+    "kendaraan",
+    "kereta cepat"
+  ],
+  "high_voltage": [
+    "petir",
+    "halilintar",
+    "cahaya",
+    "tegangan"
+  ],
+  "hiking_boot": [
+    "boot",
+    "sepatu boot"
+  ],
+  "hippopotamus": [
+    "kudanil"
+  ],
+  "honey_pot": [
+    "makanan",
+    "madu",
+    "madu lebah"
+  ],
+  "honeybee": [
+    "lebah",
+    "lebah madu",
+    "serangga"
+  ],
+  "horizontal_traffic_light": [
+    "lampu lalu lintas",
+    "lampu merah"
+  ],
+  "horse": [
+    "kuda berlari",
+    "kuda"
+  ],
+  "horse_face": [
+    "kuda",
+    "kepala kuda"
+  ],
+  "horse_racing": [
+    "olahraga",
+    "pacuan kuda",
+    "kuda",
+    "berkuda",
+    "atlet pacuan"
+  ],
+  "hospital": [
+    "bangunan",
+    "gedung",
+    "rumah sakit"
+  ],
+  "hot_beverage": [
+    "minuman",
+    "minum",
+    "kopi",
+    "cangkir"
+  ],
+  "hot_dog": [
+    "makanan",
+    "sosis",
+    "roti"
+  ],
+  "hot_face": [
+    "panas",
+    "pedas"
+  ],
+  "hot_pepper": [
+    "makanan",
+    "cabe",
+    "sayur",
+    "sayuran",
+    "cabai"
+  ],
+  "hotel": [
+    "bangunan",
+    "gedung"
+  ],
+  "hourglass_done": [
+    "jam",
+    "waktu",
+    "jam pasir"
+  ],
+  "hourglass_not_done": [
+    "jam",
+    "waktu",
+    "jam pasir"
+  ],
+  "house": [
+    "rumah"
+  ],
+  "house_with_garden": [
+    "taman",
+    "pohon",
+    "gedung",
+    "rumah"
+  ],
+  "houses": [
+    "rumah",
+    "perumahan",
+    "komplek"
+  ],
+  "hugs": [
+    "memeluk",
+    "peluk"
+  ],
+  "hushed_face": [
+    "muka kaget",
+    "terkejut",
+    "kaget",
+    "terdiam"
+  ],
+  "ice_cream": [
+    "makanan",
+    "es krim",
+    "es"
+  ],
+  "ice_hockey": [
+    "olahraga",
+    "stik",
+    "hoki"
+  ],
+  "ice_skate": [
+    "olahraga",
+    "es",
+    "sepatu ski",
+    "seluncur"
+  ],
+  "in_hole": [
+    "olahraga",
+    "bendera",
+    "golf",
+    "lobang golf"
+  ],
+  "index_pointing_at_the_viewer": [
+    "kamu",
+    "menunjuk",
+    "tunjuk"
+  ],
+  "index_pointing_up": [
+    "jari",
+    "tunjuk ke atas",
+    "telunjuk ke atas",
+    "jari telunjuk",
+    "telunjuk",
+    "angkat jari",
+    "atas",
+    "arah ke atas"
+  ],
+  "indonesia": [
+    "bendera",
+    "bendera indonesia",
+    "id"
+  ],
+  "innocent": [
+    "halo",
+    "senyum",
+    "wajah",
+    "muka",
+    "malaikat",
+    "baik"
+  ],
+  "jack_o_lantern": [
+    "halloween",
+    "labu"
+  ],
+  "japanese_castle": [
+    "kastil jepang",
+    "jepang"
+  ],
+  "japanese_post_office": [
+    "bangunan",
+    "gedung",
+    "kantor pos jepang",
+    "kantor pos"
+  ],
+  "jeans": [
+    "celana"
+  ],
+  "joy": [
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "bahagia",
+    "senang",
+    "muka",
+    "seneng",
+    "lucu",
+    "gembira",
+    "tawa",
+    "tertawa",
+    "ngakak"
+  ],
+  "joy_cat": [
+    "mewek",
+    "wkwkwk",
+    "nangis",
+    "senang",
+    "muka kucing",
+    "kucing",
+    "wajah kucing",
+    "air mata",
+    "gembira"
+  ],
+  "joystick": [
+    "tombol geser",
+    "video game"
+  ],
+  "judge": [
+    "hakim"
+  ],
+  "kaaba": [
+    "islam",
+    "agama",
+    "kabah"
+  ],
+  "kangaroo": [
+    "kangguru"
+  ],
+  "keyboard": [
+    "papan"
+  ],
+  "kick_scooter": [
+    "skuter"
+  ],
+  "kimono": [
+    "baju jepang"
+  ],
+  "kiss": [
+    "hati",
+    "romantis",
+    "pasangan hati",
+    "ciuman",
+    "berciuman",
+    "pasangan"
+  ],
+  "kiss_man_man": [
+    "hati",
+    "romantis",
+    "pasangan hati",
+    "ciuman",
+    "berciuman",
+    "pasangan pria"
+  ],
+  "kiss_mark": [
+    "bibir",
+    "ciuman",
+    "lipstik",
+    "cium"
+  ],
+  "kiss_woman_woman": [
+    "hati",
+    "romantis",
+    "pasangan hati",
+    "ciuman",
+    "berciuman",
+    "pasangan wanita"
+  ],
+  "kissing_cat": [
+    "muka kucing",
+    "ciuman",
+    "kucing",
+    "wajah kucing",
+    "cium"
+  ],
+  "kissing_face": [
+    "mencium",
+    "siul",
+    "cium",
+    "bersiul"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "dududu",
+    "cium"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "siul",
+    "cium"
+  ],
+  "kiwi_fruit": [
+    "makanan",
+    "buah",
+    "kiwi"
+  ],
+  "koala": [
+    "kepala koala"
+  ],
+  "lab_coat": [
+    "seragam",
+    "jas lab"
+  ],
+  "lacrosse": [
+    "olahraga",
+    "stik",
+    "tongkat"
+  ],
+  "lady_beetle": [
+    "serangga",
+    "kumbang"
+  ],
+  "laptop": [
+    "komputer"
+  ],
+  "last_quarter_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana",
+    "gerhana bulan setengah"
+  ],
+  "last_quarter_moon_face": [
+    "bulan",
+    "bulan sabit",
+    "wajah bulan"
+  ],
+  "laughing": [
+    "ketawa",
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "wkwk",
+    "senang",
+    "muka",
+    "lucu",
+    "gembira",
+    "tawa",
+    "tertawa"
+  ],
+  "leaf_fluttering_in_wind": [
+    "tanaman",
+    "daun"
+  ],
+  "leafy_green": [
+    "makanan",
+    "sawi",
+    "sayur",
+    "sayuran"
+  ],
+  "left_arrow": [
+    "kiri",
+    "panah",
+    "panah kiri",
+    "<-",
+    "simbol"
+  ],
+  "left_facing_fist": [
+    "tangan",
+    "tinju kiri",
+    "kepal",
+    "tinju"
+  ],
+  "leg": [
+    "kaki"
+  ],
+  "lemon": [
+    "makanan",
+    "buah",
+    "jeruk"
+  ],
+  "leopard": [
+    "macan",
+    "harimau",
+    "macan tutul"
+  ],
+  "level_slider": [
+    "tombol geser",
+    "volume"
+  ],
+  "light_bulb": [
+    "bohlam lampu",
+    "cahaya",
+    "lampu",
+    "bohlam"
+  ],
+  "light_rail": [
+    "kereta",
+    "kendaraan"
+  ],
+  "lion": [
+    "kepala singa",
+    "singa"
+  ],
+  "lipstick": [
+    "lipstik",
+    "gincu"
+  ],
+  "lizard": [
+    "reptil",
+    "kadal"
+  ],
+  "lobster": [
+    "makanan"
+  ],
+  "locomotive": [
+    "kereta",
+    "kendaraan",
+    "kereta api",
+    "lokomotif"
+  ],
+  "lollipop": [
+    "makanan",
+    "permen",
+    "lolipop"
+  ],
+  "love_hotel": [
+    "bangunan",
+    "hotel",
+    "gedung",
+    "hotel cinta"
+  ],
+  "love_you_gesture": [
+    "jari",
+    "tangan",
+    "jari tangan",
+    "metal"
+  ],
+  "luggage": [
+    "koper",
+    "tas koper"
+  ],
+  "lungs": [
+    "bernapas",
+    "organ",
+    "paru-paru"
+  ],
+  "lying_face": [
+    "berbohong",
+    "bohong",
+    "pinokio"
+  ],
+  "mage": [
+    "tukang sihir",
+    "penyihir",
+    "penyulap",
+    "dukun",
+    "ahli sihir"
+  ],
+  "man": [
+    "orang",
+    "manusia",
+    "laki-laki",
+    "pria"
+  ],
+  "man_artist": [
+    "seni",
+    "pelukis",
+    "seniman"
+  ],
+  "man_astronaut": [
+    "luar angkasa",
+    "astronot"
+  ],
+  "man_bald": [
+    "orang",
+    "manusia",
+    "laki-laki",
+    "botak",
+    "pria"
+  ],
+  "man_beard": [
+    "pria",
+    "jenggot",
+    "pria berjenggot"
+  ],
+  "man_biking": [
+    "atlet sepeda pria",
+    "olahraga",
+    "bersepeda",
+    "sepeda"
+  ],
+  "man_bouncing_ball": [
+    "olahraga",
+    "atlet basket",
+    "basket",
+    "atlet berlari",
+    "bola basket"
+  ],
+  "man_bowing": [
+    "menunduk",
+    "membungkuk",
+    "pria menunduk",
+    "jura",
+    "hormat",
+    "menjura",
+    "pria hormat",
+    "pria tunduk"
+  ],
+  "man_cartwheeling": [
+    "olahraga",
+    "atletik",
+    "gym"
+  ],
+  "man_climbing": [
+    "olahraga",
+    "panjat tebing",
+    "atlet panjat pria",
+    "panjat"
+  ],
+  "man_cook": [
+    "juru masak pria",
+    "koki",
+    "koki pria",
+    "chef pria",
+    "juru masak"
+  ],
+  "man_curly_hair": [
+    "orang",
+    "bapak",
+    "ayah",
+    "manusia",
+    "laki-laki",
+    "papa",
+    "pria"
+  ],
+  "man_dancing": [
+    "dansa",
+    "pria menari",
+    "joged",
+    "joget",
+    "menari"
+  ],
+  "man_detective": [
+    "detektif pria",
+    "detektif",
+    "detektif laki-laki"
+  ],
+  "man_elf": [
+    "elf",
+    "elf pria"
+  ],
+  "man_facepalming": [
+    "tepuk jidat",
+    "pria tepuk jidat",
+    "jidat"
+  ],
+  "man_factory_worker": [
+    "buruh pria",
+    "pekerja",
+    "buruh",
+    "pabrik"
+  ],
+  "man_fairy": [
+    "peri",
+    "peri laki-laki",
+    "peri pria"
+  ],
+  "man_farmer": [
+    "petani",
+    "petani pria"
+  ],
+  "man_feeding_baby": [
+    "laki-laki menyusui",
+    "menyusui",
+    "pria menyusui"
+  ],
+  "man_firefighter": [
+    "pemadam",
+    "pemadam kebakaran"
+  ],
+  "man_frowning": [
+    "kesal",
+    "muka kesal",
+    "wajah kesal",
+    "pria kesal"
+  ],
+  "man_genie": [
+    "jin pria",
+    "jin"
+  ],
+  "man_gesturing_no": [
+    "pria berkata tidak",
+    "tidak",
+    "isyarat tidak"
+  ],
+  "man_gesturing_ok": [
+    "pria berkata oke",
+    "gerakan oke",
+    "oke",
+    "isyarat oke"
+  ],
+  "man_getting_haircut": [
+    "rambut",
+    "gunting rambut pria",
+    "gunting rambut",
+    "potong rambut"
+  ],
+  "man_getting_massage": [
+    "pijat kepala pria",
+    "pijat",
+    "pijat kepala",
+    "pijat pria"
+  ],
+  "man_golfing": [
+    "olahraga",
+    "golf pria",
+    "golf",
+    "atlet golf"
+  ],
+  "man_guard": [
+    "tentara wanita",
+    "pengawal",
+    "pengawal wanita",
+    "penjaga wanita",
+    "london",
+    "inggris"
+  ],
+  "man_health_worker": [
+    "dokter",
+    "pak dokter",
+    "medis",
+    "dokter pria",
+    "ahli medis"
+  ],
+  "man_in_lotus_position": [
+    "meditasi",
+    "yoga",
+    "yoga pria"
+  ],
+  "man_in_manual_wheelchair": [
+    "kursi roda"
+  ],
+  "man_in_motorized_wheelchair": [
+    "kursi roda"
+  ],
+  "man_in_steamy_room": [
+    "sauna pria",
+    "sauna",
+    "mandi"
+  ],
+  "man_in_tuxedo": [
+    "laki-laki",
+    "pria",
+    "tuxedo",
+    "tuksedo"
+  ],
+  "man_judge": [
+    "hakim",
+    "jaksa",
+    "hukum"
+  ],
+  "man_juggling": [
+    "sirkus",
+    "bola",
+    "juggling",
+    "atraksi",
+    "sirkus pria"
+  ],
+  "man_lifting_weights": [
+    "olahraga",
+    "atletik",
+    "angkat besi",
+    "atlet angkat besi",
+    "atlet"
+  ],
+  "man_mage": [
+    "penyihir",
+    "pria penyihir",
+    "topi penyihir"
+  ],
+  "man_mechanic": [
+    "montir",
+    "bengkel",
+    "mekanik"
+  ],
+  "man_mountain_biking": [
+    "atlet sepeda pria",
+    "olahraga",
+    "bersepeda",
+    "sepeda"
+  ],
+  "man_office_worker": [
+    "kantor",
+    "pekerja",
+    "pekerja pria",
+    "karyawan"
+  ],
+  "man_pilot": [
+    "penerbang",
+    "pilot"
+  ],
+  "man_playing_handball": [
+    "olahraga",
+    "bola",
+    "bola tangan",
+    "atlet pria"
+  ],
+  "man_playing_water_polo": [
+    "olahraga",
+    "polo air pria",
+    "atlet polo air",
+    "polo air"
+  ],
+  "man_police_officer": [
+    "polisi"
+  ],
+  "man_pouting": [
+    "cemberut",
+    "muka cemberut",
+    "pria cemberut"
+  ],
+  "man_raising_hand": [
+    "hai",
+    "mengangkat tangan",
+    "angkat tangan",
+    "pria angkat tangan"
+  ],
+  "man_red_hair": [
+    "orang",
+    "bapak",
+    "ayah",
+    "manusia",
+    "laki-laki",
+    "papa",
+    "pria",
+    "kumis"
+  ],
+  "man_rowing_boat": [
+    "olahraga",
+    "dayung",
+    "perahu",
+    "atlet dayung"
+  ],
+  "man_running": [
+    "lari",
+    "olahraga",
+    "berlari",
+    "pelari",
+    "pria berlari",
+    "pelari pria"
+  ],
+  "man_s_shoe": [
+    "sepatu pria",
+    "sepatu"
+  ],
+  "man_scientist": [
+    "ahli kimia",
+    "teknik kimia",
+    "kimia"
+  ],
+  "man_shrugging": [
+    "tidak tahu",
+    "angkat bahu",
+    "pria tidak tahu"
+  ],
+  "man_singer": [
+    "artis",
+    "penyanyi",
+    "penyanyi pria"
+  ],
+  "man_student": [
+    "wisuda",
+    "toga",
+    "mahasiswa"
+  ],
+  "man_superhero": [
+    "pahlawan",
+    "superhero",
+    "pahlawan super",
+    "pahlawan pria"
+  ],
+  "man_supervillain": [
+    "penjahat",
+    "penjahat super"
+  ],
+  "man_surfing": [
+    "olahraga",
+    "selancar",
+    "selancar air",
+    "atlet selancar pria",
+    "atlet selancar"
+  ],
+  "man_swimming": [
+    "olahraga",
+    "atlet renang",
+    "berenang",
+    "atlet renang pria",
+    "renang"
+  ],
+  "man_teacher": [
+    "profesor",
+    "profesor pria",
+    "guru pria",
+    "guru"
+  ],
+  "man_technologist": [
+    "kantor",
+    "laptop",
+    "pekerja pria",
+    "karyawan"
+  ],
+  "man_tipping_hand": [
+    "tangan",
+    "informasi",
+    "bantuan",
+    "resepsionis pria",
+    "menengadahkan tangan"
+  ],
+  "man_vampire": [
+    "vampir pria",
+    "drakula",
+    "vampir",
+    "drakula wanita"
+  ],
+  "man_walking": [
+    "berjalan",
+    "jalan",
+    "pria berjalan"
+  ],
+  "man_wearing_turban": [
+    "laki-laki turban",
+    "turban",
+    "pria turban"
+  ],
+  "man_white_hair": [
+    "orang",
+    "orang tua",
+    "bapak",
+    "ayah",
+    "manusia",
+    "laki-laki",
+    "papa",
+    "pria",
+    "pria tua",
+    "rambut putih"
+  ],
+  "man_with_veil": [
+    "pria bertudung",
+    "cadar",
+    "tudung",
+    "selubung",
+    "kerudung",
+    "pria berselubung",
+    "pria berkerudung",
+    "pria bercadar"
+  ],
+  "man_zombie": [
+    "zombi pria",
+    "mayat hidup",
+    "zombi"
+  ],
+  "mango": [
+    "makanan",
+    "buah",
+    "mangga"
+  ],
+  "mantelpiece_clock": [
+    "jam",
+    "jam analog"
+  ],
+  "map_of_japan": [
+    "peta",
+    "peta jepang"
+  ],
+  "maple_leaf": [
+    "daun",
+    "gugur",
+    "musim gugur",
+    "maple"
+  ],
+  "martial_arts_uniform": [
+    "olahraga",
+    "kimono",
+    "karate",
+    "silat",
+    "seragam",
+    "beladiri",
+    "judo"
+  ],
+  "meat_on_bone": [
+    "makanan",
+    "daging"
+  ],
+  "mechanic": [
+    "montir",
+    "mekanik"
+  ],
+  "mechanical_arm": [
+    "tangan",
+    "mekanis",
+    "bisep",
+    "lengan",
+    "otot"
+  ],
+  "mechanical_leg": [
+    "kaki",
+    "lutut",
+    "mekanis"
+  ],
+  "melon": [
+    "makanan",
+    "buah"
+  ],
+  "melting_face": [
+    "meleleh"
+  ],
+  "men_holding_hands": [
+    "bergandengan tangan",
+    "gandeng tangan",
+    "pasangan",
+    "pasangan pria bergandengan tangan"
+  ],
+  "men_with_bunny_ears": [
+    "joget",
+    "pria kelinci",
+    "kuping kelinci",
+    "playboy",
+    "penari kelinci"
+  ],
+  "men_wrestling": [
+    "olahraga",
+    "gulat",
+    "gulat pria"
+  ],
+  "mermaid": [
+    "putri duyung"
+  ],
+  "merman": [
+    "putra duyung"
+  ],
+  "merperson": [
+    "putri duyung",
+    "poseidon",
+    "puteri duyung"
+  ],
+  "metro": [
+    "kereta",
+    "kendaraan",
+    "kereta bawah tanah"
+  ],
+  "microphone": [
+    "musik",
+    "mikrofon",
+    "menyanyi"
+  ],
+  "military_medal": [
+    "medali bintang",
+    "medali",
+    "penghargaan",
+    "hadiah"
+  ],
+  "milky_way": [
+    "bintang",
+    "bima sakti",
+    "galaksi"
+  ],
+  "minibus": [
+    "kendaraan",
+    "bus mini"
+  ],
+  "moai": [
+    "moyai"
+  ],
+  "mobile_phone": [
+    "telepon",
+    "telepon genggam",
+    "teknologi",
+    "ponsel",
+    "hp",
+    "seluler",
+    "perangkat"
+  ],
+  "mobile_phone_with_arrow": [
+    "telepon",
+    "telepon genggam",
+    "ponsel",
+    "perangkat",
+    "panggilan",
+    "selule"
+  ],
+  "monaco": [
+    "indonesia"
+  ],
+  "money_mouth_face": [
+    "mata duitan",
+    "uang"
+  ],
+  "monkey": [
+    "monyet",
+    "kera"
+  ],
+  "monkey_face": [
+    "monyet",
+    "kepala kera",
+    "kepala monyet",
+    "kera"
+  ],
+  "monorail": [
+    "kereta",
+    "kendaraan"
+  ],
+  "moon_cake": [
+    "asia",
+    "cina",
+    "kue",
+    "kue bulan"
+  ],
+  "moon_viewing_ceremony": [
+    "bulan",
+    "kue bulan",
+    "perayaan kue bulan"
+  ],
+  "mosque": [
+    "bangunan",
+    "ibadah",
+    "gedung",
+    "agama",
+    "masjid"
+  ],
+  "mosquito": [
+    "serangga",
+    "nyamuk"
+  ],
+  "motor_boat": [
+    "kapal pesiar",
+    "perahu",
+    "laut",
+    "pesiar"
+  ],
+  "motor_scooter": [
+    "skuter",
+    "kendaraan",
+    "motor"
+  ],
+  "motorcycle": [
+    "kendaraan",
+    "motor",
+    "motor balap"
+  ],
+  "motorway": [
+    "jalan",
+    "jalan tol",
+    "tol"
+  ],
+  "mount_fuji": [
+    "gunung",
+    "gunung fuji"
+  ],
+  "mountain": [
+    "gunung"
+  ],
+  "mountain_cableway": [
+    "kereta gantung"
+  ],
+  "mountain_railway": [
+    "kereta",
+    "kereta gunung"
+  ],
+  "mouse": [
+    "tikus",
+    "tikus putih"
+  ],
+  "mouse_face": [
+    "tikus",
+    "kepala tikus"
+  ],
+  "mouth": [
+    "bibir",
+    "lipstik",
+    "cium",
+    "mulut"
+  ],
+  "movie_camera": [
+    "sinema",
+    "film",
+    "kamera film"
+  ],
+  "mrs_claus": [
+    "natal",
+    "sinterklas",
+    "wanita natal",
+    "topi natal"
+  ],
+  "mushroom": [
+    "makanan",
+    "jamur"
+  ],
+  "musical_keyboard": [
+    "musik",
+    "tuts",
+    "tuts piano",
+    "lagu",
+    "piano"
+  ],
+  "musical_note": [
+    "nada",
+    "musik",
+    "not",
+    "not balok",
+    "notasi"
+  ],
+  "musical_notes": [
+    "nada",
+    "musik",
+    "not",
+    "not balok",
+    "notasi"
+  ],
+  "musical_score": [
+    "musik",
+    "tangga nada",
+    "lagu",
+    "partitur",
+    "kunci g"
+  ],
+  "mx_claus": [
+    "xmas",
+    "natal",
+    "santa",
+    "musim dingin",
+    "christmas"
+  ],
+  "nail_polish": [
+    "jari tangan",
+    "warna kuku",
+    "manikur",
+    "kuteks",
+    "cat kuku"
+  ],
+  "name_badge": [
+    "berhenti",
+    "stop"
+  ],
+  "national_park": [
+    "taman",
+    "taman nasional"
+  ],
+  "nauseated_face": [
+    "sakit",
+    "mual",
+    "muntah",
+    "eneg"
+  ],
+  "necktie": [
+    "kemeja",
+    "dasi"
+  ],
+  "nerd_face": [
+    "wajah",
+    "kutubuku",
+    "kacamata"
+  ],
+  "neutral_face": [
+    "muka datar",
+    "netral",
+    "datar"
+  ],
+  "new_moon": [
+    "bulan",
+    "bulan penuh",
+    "bulan gelap"
+  ],
+  "new_moon_face": [
+    "bulan",
+    "wajah bulan",
+    "bulan penuh",
+    "bulan gelap"
+  ],
+  "night_with_stars": [
+    "bintang",
+    "kota",
+    "gedung",
+    "lanskap",
+    "malam"
+  ],
+  "no_entry": [
+    "berhenti",
+    "stop"
+  ],
+  "nose": [
+    "cium",
+    "hidung"
+  ],
+  "ocean": [
+    "tsunami",
+    "lautan",
+    "laut",
+    "ombak",
+    "gelombang"
+  ],
+  "octopus": [
+    "gurita"
+  ],
+  "oden": [
+    "makanan",
+    "asia",
+    "sate",
+    "jepang"
+  ],
+  "office_building": [
+    "kantor",
+    "bangunan",
+    "gedung",
+    "perkantoran"
+  ],
+  "office_worker": [
+    "juru tulis",
+    "pekerja kantor"
+  ],
+  "ogre": [
+    "makhluk",
+    "muka setan",
+    "topeng",
+    "monster",
+    "garong"
+  ],
+  "oil_drum": [
+    "drum minyak"
+  ],
+  "ok_hand": [
+    "siap",
+    "jari",
+    "tangan",
+    "oke"
+  ],
+  "old_man": [
+    "orang",
+    "manusia",
+    "laki-laki",
+    "pria",
+    "pria tua",
+    "opa",
+    "kakek"
+  ],
+  "old_woman": [
+    "orang",
+    "wanita tua",
+    "oma",
+    "nenek"
+  ],
+  "older_person": [
+    "orang",
+    "perempuan",
+    "manusia",
+    "gadis",
+    "rambut pendek",
+    "wanita"
+  ],
+  "oncoming_automobile": [
+    "oto",
+    "mobil",
+    "kendaraan"
+  ],
+  "oncoming_bus": [
+    "kendaraan",
+    "transportasi publik",
+    "transportasi",
+    "bis"
+  ],
+  "oncoming_fist": [
+    "tangan",
+    "kepal",
+    "tinju",
+    "tonjok"
+  ],
+  "oncoming_police_car": [
+    "kendaraan",
+    "mobil polisi",
+    "mobil patroli"
+  ],
+  "oncoming_taxi": [
+    "mobil",
+    "kendaraan",
+    "taksi"
+  ],
+  "open_hands": [
+    "tangan",
+    "tangan terbuka"
+  ],
+  "open_mouth": [
+    "terkejut",
+    "kaget",
+    "mulut terbuka",
+    "wajah kaget"
+  ],
+  "optical_disk": [
+    "cd",
+    "disk"
+  ],
+  "owl": [
+    "burung",
+    "burung hantu"
+  ],
+  "ox": [
+    "kerbau",
+    "lembu"
+  ],
+  "pager": [
+    "radio panggil"
+  ],
+  "palm_down_hand": [
+    "tangan terbalik",
+    "tangan kiri",
+    "telungkup",
+    "tangan ke bawah"
+  ],
+  "palm_tree": [
+    "pohon",
+    "pohon kelapa"
+  ],
+  "palm_up_hand": [
+    "tengkurap",
+    "tangan ke atas",
+    "telentang",
+    "terbuka"
+  ],
+  "palms_up_together": [
+    "tangan",
+    "berdoa",
+    "maaf",
+    "tangan terbuka",
+    "maap",
+    "sembahyang"
+  ],
+  "pancakes": [
+    "makanan",
+    "kue",
+    "pancake"
+  ],
+  "panda": [
+    "kepala panda"
+  ],
+  "parrot": [
+    "burung"
+  ],
+  "partying_face": [
+    "pesta",
+    "perayaan"
+  ],
+  "passenger_ship": [
+    "kapal pesiar",
+    "perahu",
+    "laut",
+    "kapal penumpang"
+  ],
+  "paw_prints": [
+    "jejak",
+    "jejak hewan"
+  ],
+  "peach": [
+    "makanan",
+    "buah",
+    "persik"
+  ],
+  "peacock": [
+    "burung",
+    "burung merak"
+  ],
+  "peanuts": [
+    "makanan",
+    "kacang"
+  ],
+  "pear": [
+    "makanan",
+    "pir hijau",
+    "buah",
+    "pir"
+  ],
+  "penguin": [
+    "burung",
+    "kepala penguin"
+  ],
+  "pensive_face": [
+    "sedih",
+    "murung",
+    "termenung"
+  ],
+  "people_hugging": [
+    "memeluk",
+    "orang memeluk",
+    "peluk"
+  ],
+  "performing_arts": [
+    "seni",
+    "pesta",
+    "topeng",
+    "teater",
+    "pertunjukkan",
+    "penampilan",
+    "drama",
+    "tampil"
+  ],
+  "persevering_face": [
+    "kesal",
+    "wajah",
+    "gusar",
+    "ngotot"
+  ],
+  "person": [
+    "orang",
+    "manusia",
+    "dewasa"
+  ],
+  "person_bald": [
+    "rambut",
+    "botak",
+    "gundul",
+    "cukur"
+  ],
+  "person_beard": [
+    "orang",
+    "bapak",
+    "ayah",
+    "manusia",
+    "laki-laki",
+    "papa",
+    "pria",
+    "jenggot",
+    "kumis"
+  ],
+  "person_blond_hair": [
+    "rambut",
+    "rambut pirang",
+    "pirang",
+    "rambut putih"
+  ],
+  "person_bowing": [
+    "taat",
+    "menunduk",
+    "hargai",
+    "menaati",
+    "menghargai",
+    "hormat",
+    "menghormati",
+    "tunduk"
+  ],
+  "person_curly_hair": [
+    "rambut",
+    "keriting"
+  ],
+  "person_feeding_baby": [
+    "menyusui",
+    "orang menyusui"
+  ],
+  "person_fencing": [
+    "olahraga",
+    "atlet anggar",
+    "beladiri",
+    "anggar"
+  ],
+  "person_frowning": [
+    "kesal",
+    "sedih",
+    "sendu",
+    "menyesal",
+    "susah",
+    "sesal",
+    "muram"
+  ],
+  "person_gesturing_no": [
+    "buruk",
+    "negatif",
+    "gestur",
+    "bukan",
+    "tolak",
+    "jelek",
+    "tidak",
+    "jangan"
+  ],
+  "person_gesturing_ok": [
+    "ok",
+    "gestur",
+    "lingkaran",
+    "tanda"
+  ],
+  "person_getting_haircut": [
+    "tukang potong rambut",
+    "barbershop",
+    "pemangkas",
+    "pangkas rambut",
+    "barber",
+    "haircut",
+    "tukang cukur",
+    "potong rambut",
+    "hairdresser",
+    "gunting"
+  ],
+  "person_getting_massage": [
+    "pijat",
+    "relaksasi",
+    "memijat"
+  ],
+  "person_in_manual_wheelchair": [
+    "kursi roda"
+  ],
+  "person_in_motorized_wheelchair": [
+    "kursi roda"
+  ],
+  "person_in_steamy_room": [
+    "sauna",
+    "steam room",
+    "mandi",
+    "ruang uap",
+    "shower",
+    "mandi uap"
+  ],
+  "person_in_suit_levitating": [
+    "topi",
+    "pria eksekutif"
+  ],
+  "person_in_tuxedo": [
+    "pengantin",
+    "pernikahan",
+    "mempelai pria"
+  ],
+  "person_raising_hand": [
+    "tangan",
+    "gestur",
+    "angkat tangan"
+  ],
+  "person_red_hair": [
+    "rambut",
+    "rambut jahe",
+    "rambut merah"
+  ],
+  "person_shrugging": [
+    "tidak tahu",
+    "idk",
+    "angkat bahu",
+    "mengangkat bahu",
+    "i don't know"
+  ],
+  "person_walking": [
+    "berjalan",
+    "jalan",
+    "pejalan kaki",
+    "jalan kaki"
+  ],
+  "person_wearing_turban": [
+    "ikat kepala",
+    "serban"
+  ],
+  "person_white_hair": [
+    "rambut",
+    "rambut putih"
+  ],
+  "person_with_crown": [
+    "mahkota",
+    "ratu"
+  ],
+  "person_with_skullcap": [
+    "cina",
+    "laki-laki",
+    "pria",
+    "china",
+    "koko",
+    "topi cina",
+    "tionghoa"
+  ],
+  "person_with_veil": [
+    "mempelai wanita",
+    "pengantin",
+    "pernikahan"
+  ],
+  "pie": [
+    "makanan",
+    "roti",
+    "kue",
+    "pai"
+  ],
+  "pig": [
+    "babi"
+  ],
+  "pig_face": [
+    "kepala babi",
+    "babi"
+  ],
+  "pig_nose": [
+    "hidung babi",
+    "babi"
+  ],
+  "pilot": [
+    "penerbang"
+  ],
+  "pinched_fingers": [
+    "cubit",
+    "ayo",
+    "jepit",
+    "segera",
+    "luar biasa",
+    "cepatan",
+    "colek"
+  ],
+  "pinching_hand": [
+    "cubit",
+    "mencubit"
+  ],
+  "pine_decoration": [
+    "tanaman",
+    "bambu"
+  ],
+  "pineapple": [
+    "makanan",
+    "buah",
+    "nanas"
+  ],
+  "ping_pong": [
+    "olahraga",
+    "bola",
+    "pingpong",
+    "tenis meja"
+  ],
+  "pizza": [
+    "makanan"
+  ],
+  "pleading_face": [
+    "imut",
+    "mohon"
+  ],
+  "police_car": [
+    "mobil",
+    "mobil polisi",
+    "mobil patroli"
+  ],
+  "police_car_light": [
+    "polisi",
+    "mobil polisi",
+    "ambulan",
+    "sirine"
+  ],
+  "police_officer": [
+    "polisi",
+    "petugas",
+    "polwan",
+    "anggota kavaleri"
+  ],
+  "poodle": [
+    "anjing",
+    "anjing pudel"
+  ],
+  "pool_8_ball": [
+    "bilyar",
+    "bola bilyard",
+    "bola bilyar",
+    "bilyard"
+  ],
+  "poop": [
+    "tahi",
+    "tinja",
+    "kotoran"
+  ],
+  "popcorn": [
+    "makanan",
+    "jagung",
+    "berondong jagung"
+  ],
+  "post_office": [
+    "bangunan",
+    "gedung",
+    "kantor pos",
+    "kantor pos eropa"
+  ],
+  "pot_of_food": [
+    "makanan",
+    "makan",
+    "kuah",
+    "mangkuk",
+    "sup"
+  ],
+  "potato": [
+    "makanan",
+    "sayur",
+    "kentang",
+    "sayuran",
+    "umbi"
+  ],
+  "poultry_leg": [
+    "makanan",
+    "ayam",
+    "ayam goreng"
+  ],
+  "pouting_cat": [
+    "kucing",
+    "wajah kucing",
+    "kucing kesal",
+    "kucing cemberut"
+  ],
+  "pregnant_man": [
+    "hamil",
+    "kehamilan",
+    "pria hamil"
+  ],
+  "pregnant_person": [
+    "wanita hamil",
+    "hamil",
+    "kehamilan",
+    "bunting",
+    "orang hamil"
+  ],
+  "pregnant_woman": [
+    "hamil",
+    "ibu hamil",
+    "kehamilan"
+  ],
+  "pretzel": [
+    "makanan"
+  ],
+  "prince": [
+    "raja",
+    "mahkota",
+    "kerajaan",
+    "pangeran"
+  ],
+  "princess": [
+    "mahkota",
+    "ratu",
+    "kerajaan",
+    "putri"
+  ],
+  "printer": [
+    "komputer",
+    "cetak"
+  ],
+  "prohibited": [
+    "berhenti",
+    "stop"
+  ],
+  "purse": [
+    "dompet",
+    "tas",
+    "dompet wanita"
+  ],
+  "puzzle_piece": [
+    "puzzle"
+  ],
+  "rabbit": [
+    "kelinci"
+  ],
+  "rabbit_face": [
+    "kelinci",
+    "kepala kelinci"
+  ],
+  "raccoon": [
+    "rakun"
+  ],
+  "racing_car": [
+    "mobil",
+    "mobil balap",
+    "kendaraan"
+  ],
+  "railway_car": [
+    "kereta",
+    "kendaraan",
+    "kereta tambahan"
+  ],
+  "railway_track": [
+    "kereta",
+    "rel kereta"
+  ],
+  "rainbow": [
+    "pelangi"
+  ],
+  "raised_back_of_hand": [
+    "tangan",
+    "telapak tangan",
+    "lima"
+  ],
+  "raised_fist": [
+    "tangan",
+    "kepal",
+    "tinju"
+  ],
+  "raised_hand": [
+    "tangan",
+    "telapak tangan",
+    "lima"
+  ],
+  "raising_hands": [
+    "tangan",
+    "angkat tangan"
+  ],
+  "ram": [
+    "domba",
+    "biri-biri"
+  ],
+  "rat": [
+    "tikus"
+  ],
+  "red_apple": [
+    "makanan",
+    "buah",
+    "apel merah",
+    "apel"
+  ],
+  "red_circle": [
+    "lingkaran",
+    "lingkaran merah"
+  ],
+  "relieved_face": [
+    "wajah",
+    "lega",
+    "muka"
+  ],
+  "reminder_ribbon": [
+    "kampanye",
+    "pita"
+  ],
+  "rescue_worker_s_helmet": [
+    "helm p3k",
+    "helm",
+    "helm pekerja"
+  ],
+  "rhinoceros": [
+    "badak"
+  ],
+  "rice_ball": [
+    "makanan",
+    "nasi",
+    "nasi kepal",
+    "jepang"
+  ],
+  "rice_cracker": [
+    "makanan",
+    "asia",
+    "nasi",
+    "kue beras"
+  ],
+  "right_arrow": [
+    "kanan"
+  ],
+  "right_facing_fist": [
+    "tangan",
+    "kepal",
+    "tinju",
+    "tinju kanan"
+  ],
+  "ring": [
+    "cincin"
+  ],
+  "roasted_sweet_potato": [
+    "makanan",
+    "ubi",
+    "sayur",
+    "sayuran",
+    "singkong",
+    "talas",
+    "umbi"
+  ],
+  "robot": [
+    "muka robot",
+    "kepala robot"
+  ],
+  "rocket": [
+    "roket",
+    "luar angkasa",
+    "pesawat"
+  ],
+  "rofl": [
+    "ketawa",
+    "wkwkwk",
+    "hahaha",
+    "wkwk",
+    "lucu",
+    "tertawa",
+    "ngakak",
+    "kocak"
+  ],
+  "roll_eyes": [
+    "wajah",
+    "mata",
+    "mata berputar",
+    "masa?",
+    "berputar",
+    "hadap atas"
+  ],
+  "roller_coaster": [
+    "wahana",
+    "jet coaster",
+    "rel",
+    "kereta luncur"
+  ],
+  "rooster": [
+    "unggas",
+    "ayam",
+    "ayam betina"
+  ],
+  "rose": [
+    "bunga",
+    "mawar",
+    "bunga mawar",
+    "kembang"
+  ],
+  "rosette": [
+    "bunga",
+    "kembang"
+  ],
+  "rugby_football": [
+    "olahraga",
+    "bola",
+    "rugby"
+  ],
+  "running_shirt": [
+    "lari",
+    "olahraga",
+    "kaos olahraga",
+    "kaos",
+    "selempang"
+  ],
+  "running_shoe": [
+    "sepatu olahraga",
+    "sepatu",
+    "sepatu lari"
+  ],
+  "russia": [
+    "bendera",
+    "rusia",
+    "federasi rusia"
+  ],
+  "sad_but_relieved_face": [
+    "lega",
+    "kecewa",
+    "muka kecewa"
+  ],
+  "sailboat": [
+    "perahu",
+    "kapal",
+    "perahu layar"
+  ],
+  "sake": [
+    "minuman"
+  ],
+  "salt": [
+    "makanan",
+    "garam",
+    "bumbu"
+  ],
+  "saluting_face": [
+    "siap",
+    "taat",
+    "salam",
+    "ok",
+    "ya",
+    "baik",
+    "hormat",
+    "setuju",
+    "tugas",
+    "salut"
+  ],
+  "sandwich": [
+    "makanan",
+    "roti",
+    "roti lapis"
+  ],
+  "santa_claus": [
+    "natal",
+    "sinterklas",
+    "topi natal"
+  ],
+  "satellite": [
+    "orbit",
+    "satelit"
+  ],
+  "satellite_antenna": [
+    "antena",
+    "satelit",
+    "parabola"
+  ],
+  "sauropod": [
+    "dinosaurus"
+  ],
+  "saxophone": [
+    "musik",
+    "terompet",
+    "instrumen",
+    "saksofon"
+  ],
+  "scarf": [
+    "syal"
+  ],
+  "school": [
+    "bangunan",
+    "gedung",
+    "sekolah"
+  ],
+  "scientist": [
+    "peneliti",
+    "ilmuwan"
+  ],
+  "scorpion": [
+    "kalajengking"
+  ],
+  "scream": [
+    "ketakutan",
+    "muka kaget",
+    "kaget",
+    "wah",
+    "ngeri",
+    "seram",
+    "teriak"
+  ],
+  "seat": [
+    "kapal terbang",
+    "penumpang",
+    "pesawat",
+    "tempat duduk"
+  ],
+  "see_no_evil_monkey": [
+    "monyet tak melihat",
+    "monyet",
+    "tutup mata",
+    "monyet bijaksana"
+  ],
+  "seedling": [
+    "tanaman",
+    "daun",
+    "tunas",
+    "kecambah"
+  ],
+  "selfie": [
+    "foto",
+    "swafoto"
+  ],
+  "seven": [
+    "tujuh"
+  ],
+  "shallow_pan_of_food": [
+    "makanan",
+    "paella",
+    "panci"
+  ],
+  "shamrock": [
+    "tanaman",
+    "daun"
+  ],
+  "shark": [
+    "ikan",
+    "ikan hiu",
+    "hiu"
+  ],
+  "shaved_ice": [
+    "makanan",
+    "es teler",
+    "es",
+    "es campur"
+  ],
+  "sheaf_of_rice": [
+    "tanaman",
+    "beras",
+    "padi"
+  ],
+  "shinto_shrine": [
+    "shinto",
+    "agama",
+    "gapura",
+    "jepang",
+    "shrine"
+  ],
+  "ship": [
+    "kapal pesiar",
+    "kendaraan",
+    "perahu",
+    "kapal",
+    "pesiar"
+  ],
+  "shooting_star": [
+    "bintang",
+    "bintang jatuh"
+  ],
+  "shortcake": [
+    "makanan",
+    "roti",
+    "kue",
+    "cheesecake"
+  ],
+  "shrimp": [
+    "makanan",
+    "udang"
+  ],
+  "shushing_face": [
+    "diam",
+    "jangan berisik"
+  ],
+  "sign_of_the_horns": [
+    "jari",
+    "jari tangan",
+    "rock",
+    "metal",
+    "tanduk"
+  ],
+  "singer": [
+    "artis",
+    "penyanyi",
+    "penampil"
+  ],
+  "skateboard": [
+    "olahraga",
+    "papan luncur"
+  ],
+  "skier": [
+    "olahraga",
+    "salju",
+    "ski"
+  ],
+  "skis": [
+    "olahraga",
+    "ski"
+  ],
+  "skull": [
+    "tengkorak"
+  ],
+  "skull_and_crossbones": [
+    "tengkorak"
+  ],
+  "sled": [
+    "papan ski",
+    "papan luncur"
+  ],
+  "sleeping_face": [
+    "mengantuk",
+    "bosan",
+    "mimpi",
+    "tidur",
+    "kantuk"
+  ],
+  "sleepy_face": [
+    "meh",
+    "mengantuk",
+    "ngantuk"
+  ],
+  "slightly_frowning_face": [
+    "cemberut",
+    "wajah",
+    "sedih",
+    "muka"
+  ],
+  "slightly_smiling_face": [
+    "halo",
+    "hai",
+    "senyum",
+    "hihi"
+  ],
+  "slot_machine": [
+    "mesin slot",
+    "slot",
+    "kasino",
+    "777",
+    "dingdong"
+  ],
+  "small_airplane": [
+    "kapal terbang",
+    "pesawat terbang",
+    "pesawat"
+  ],
+  "smiley": [
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "senang",
+    "muka",
+    "gembira"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "cinta",
+    "hati",
+    "muka kucing",
+    "kucing",
+    "wajah kucing",
+    "gembira"
+  ],
+  "smiling_face": [
+    "senyum",
+    "wajah",
+    "muka",
+    "rileks",
+    "santai",
+    "malu",
+    "tersipu"
+  ],
+  "smiling_face_with_horns": [
+    "setan",
+    "drakula",
+    "tanduk",
+    "jahat"
+  ],
+  "smiling_face_with_sunglasses": [
+    "keren",
+    "kacamata hitam",
+    "gaya"
+  ],
+  "smiling_face_with_tear": [
+    "menangis",
+    "tangisan bahagia"
+  ],
+  "smiling_face_with_three_hearts": [
+    "cinta",
+    "sayang",
+    "suka",
+    "love"
+  ],
+  "smirking_face": [
+    "seringai",
+    "sombong",
+    "sinis",
+    "ejek"
+  ],
+  "snail": [
+    "siput",
+    "bekicot"
+  ],
+  "snake": [
+    "reptil",
+    "ular"
+  ],
+  "sneezing_face": [
+    "sakit",
+    "pilek",
+    "flu",
+    "bersin",
+    "tisu"
+  ],
+  "snow_capped_mountain": [
+    "gunung salju"
+  ],
+  "snowboarder": [
+    "olahraga",
+    "papan salju"
+  ],
+  "snowflake": [
+    "salju",
+    "kristal",
+    "kristal salju"
+  ],
+  "snowman": [
+    "salju",
+    "musim dingin",
+    "boneka salju"
+  ],
+  "snowman_without_snow": [
+    "salju",
+    "musim dingin",
+    "boneka salju"
+  ],
+  "sob": [
+    "mewek",
+    "menangis",
+    "tersedu",
+    "nangis",
+    "sedih",
+    "hiks",
+    "air mata",
+    "berduka",
+    "menangis keras"
+  ],
+  "soccer_ball": [
+    "olahraga",
+    "bola",
+    "sepak bola"
+  ],
+  "socks": [
+    "kaos kaki",
+    "kaus kaki"
+  ],
+  "soft_ice_cream": [
+    "makanan",
+    "es krim",
+    "es"
+  ],
+  "softball": [
+    "olahraga",
+    "bola",
+    "tenis"
+  ],
+  "spaghetti": [
+    "makanan",
+    "makan",
+    "mi",
+    "pasta",
+    "mie",
+    "spageti"
+  ],
+  "sparkler": [
+    "kembang api"
+  ],
+  "sparkles": [
+    "bintang",
+    "berkilau"
+  ],
+  "speak_no_evil_monkey": [
+    "diam",
+    "monyet",
+    "monyet bijaksana",
+    "tutup mulut",
+    "monyet tak bicara",
+    "monyet diam"
+  ],
+  "speaking_head": [
+    "orang",
+    "siluet",
+    "kepala",
+    "bicara",
+    "teriak"
+  ],
+  "speedboat": [
+    "perahu",
+    "kapal",
+    "perahu cepat"
+  ],
+  "spider": [
+    "serangga",
+    "laba-laba"
+  ],
+  "spider_web": [
+    "serangga",
+    "jaring laba-laba",
+    "laba laba"
+  ],
+  "spiral_shell": [
+    "kerang"
+  ],
+  "spoon": [
+    "makan",
+    "alat makan",
+    "sendok"
+  ],
+  "sport_utility_vehicle": [
+    "oto",
+    "mobil",
+    "kendaraan",
+    "suv"
+  ],
+  "sports_medal": [
+    "olahraga",
+    "medali juara",
+    "medali",
+    "juara",
+    "hadiah"
+  ],
+  "spouting_whale": [
+    "paus"
+  ],
+  "squid": [
+    "cumi-cumi",
+    "sotong"
+  ],
+  "squinting_face_with_tongue": [
+    "lidah"
+  ],
+  "stadium": [
+    "stadium olahraga"
+  ],
+  "star": [
+    "bintang"
+  ],
+  "star_struck": [
+    "bahagia",
+    "bintang",
+    "seneng",
+    "mata bintang"
+  ],
+  "station": [
+    "kereta",
+    "kendaraan",
+    "stasiun"
+  ],
+  "statue_of_liberty": [
+    "patung liberti"
+  ],
+  "steaming_bowl": [
+    "makanan",
+    "makan",
+    "asia",
+    "mi",
+    "mie",
+    "ramen"
+  ],
+  "stopwatch": [
+    "jam sukat",
+    "waktu"
+  ],
+  "strawberry": [
+    "makanan",
+    "strawberi",
+    "buah"
+  ],
+  "student": [
+    "pelajar",
+    "lulus",
+    "wisuda",
+    "mahasiswi",
+    "sarjana"
+  ],
+  "studio_microphone": [
+    "musik",
+    "radio",
+    "mikrofon",
+    "lagu"
+  ],
+  "stuffed_flatbread": [
+    "makanan",
+    "roti",
+    "kebab",
+    "roti prata"
+  ],
+  "sun": [
+    "matahari",
+    "musim",
+    "cerah"
+  ],
+  "sun_behind_cloud": [
+    "awan",
+    "cuaca",
+    "matahari",
+    "mendung",
+    "berawan"
+  ],
+  "sun_behind_large_cloud": [
+    "awan",
+    "cuaca",
+    "matahari",
+    "mendung",
+    "berawan"
+  ],
+  "sun_behind_rain_cloud": [
+    "awan",
+    "cuaca",
+    "matahari",
+    "mendung",
+    "hujan",
+    "gerimis",
+    "ujan"
+  ],
+  "sun_behind_small_cloud": [
+    "awan",
+    "cuaca",
+    "panas",
+    "matahari",
+    "mendung",
+    "matahari awan"
+  ],
+  "sun_with_face": [
+    "matahari",
+    "wajah matahari"
+  ],
+  "sunflower": [
+    "bunga",
+    "kembang",
+    "bunga matahari"
+  ],
+  "sunglasses": [
+    "kacamata",
+    "kacamata hitam",
+    "gaya",
+    "kacamata gelap"
+  ],
+  "sunrise": [
+    "matahari",
+    "matahari terbit"
+  ],
+  "sunrise_over_mountains": [
+    "gunung",
+    "pegunungan",
+    "matahari terbit",
+    "terbit"
+  ],
+  "sunset": [
+    "matahari",
+    "senja",
+    "matahari tenggelam"
+  ],
+  "superhero": [
+    "hero",
+    "pahlawan"
+  ],
+  "supervillain": [
+    "penjahat",
+    "villain"
+  ],
+  "sushi": [
+    "makanan",
+    "jepang",
+    "salmon"
+  ],
+  "suspension_railway": [
+    "kereta",
+    "kereta tambahan"
+  ],
+  "swan": [
+    "unggas",
+    "angsa"
+  ],
+  "sweat_droplets": [
+    "air",
+    "hujan",
+    "tangis",
+    "ujan",
+    "tetes",
+    "tetesan air"
+  ],
+  "sweat_smile": [
+    "keringat",
+    "wkwkwk",
+    "hahaha",
+    "senyum",
+    "wajah",
+    "dingin",
+    "muka",
+    "canggung"
+  ],
+  "synagogue": [
+    "bangunan",
+    "ibadah",
+    "gedung",
+    "agama",
+    "sinagoga"
+  ],
+  "t_rex": [
+    "dinosaurus",
+    "t-rex"
+  ],
+  "t_shirt": [
+    "t-shirt"
+  ],
+  "taco": [
+    "makanan"
+  ],
+  "takeout_box": [
+    "makanan",
+    "asia",
+    "box"
+  ],
+  "tanabata_tree": [
+    "tanaman",
+    "bambu",
+    "tanabata"
+  ],
+  "tangerine": [
+    "makanan",
+    "buah",
+    "jeruk"
+  ],
+  "taxi": [
+    "mobil",
+    "kendaraan",
+    "taksi"
+  ],
+  "teacher": [
+    "dosen",
+    "guru"
+  ],
+  "teacup_without_handle": [
+    "minuman",
+    "teh",
+    "teh hijau"
+  ],
+  "technologist": [
+    "teknologis",
+    "penguji",
+    "programmer",
+    "pengembang",
+    "pembuat kode",
+    "tukang coba"
+  ],
+  "telephone": [
+    "telepon"
+  ],
+  "telephone_receiver": [
+    "telepon",
+    "panggilan"
+  ],
+  "television": [
+    "tv",
+    "video",
+    "film",
+    "drama",
+    "televisi",
+    "sinetron"
+  ],
+  "tennis": [
+    "olahraga",
+    "bola",
+    "tenis"
+  ],
+  "tent": [
+    "tenda"
+  ],
+  "thinking": [
+    "mikir",
+    "pikir",
+    "berpikir",
+    "bingung",
+    "heran"
+  ],
+  "thought_balloon": [
+    "mimpi"
+  ],
+  "thread": [
+    "benang",
+    "gulungan"
+  ],
+  "ticket": [
+    "tiket",
+    "acara",
+    "karcis"
+  ],
+  "tiger": [
+    "macan",
+    "harimau"
+  ],
+  "tiger_face": [
+    "macan",
+    "harimau",
+    "kepala harimau",
+    "kepala macan"
+  ],
+  "timer_clock": [
+    "pengukur waktu",
+    "waktu",
+    "alat"
+  ],
+  "tired_face": [
+    "mewek",
+    "capek",
+    "kesal",
+    "wajah",
+    "lelah"
+  ],
+  "tokyo_tower": [
+    "tower tokyo",
+    "jepang"
+  ],
+  "tomato": [
+    "makanan",
+    "buah",
+    "sayur",
+    "tomat"
+  ],
+  "tongue": [
+    "lidah",
+    "jilat"
+  ],
+  "tooth": [
+    "gigi"
+  ],
+  "top_hat": [
+    "topi"
+  ],
+  "tornado": [
+    "angin topan",
+    "angin puting beliung",
+    "angin ribut",
+    "topan"
+  ],
+  "trackball": [
+    "komputer"
+  ],
+  "tractor": [
+    "traktor"
+  ],
+  "train": [
+    "kereta",
+    "kendaraan",
+    "kepala kereta"
+  ],
+  "tram": [
+    "kereta",
+    "kendaraan"
+  ],
+  "tram_car": [
+    "tram"
+  ],
+  "trolleybus": [
+    "kendaraan",
+    "transportasi publik",
+    "transportasi",
+    "bus"
+  ],
+  "trophy": [
+    "menang",
+    "piala",
+    "juara",
+    "hadiah"
+  ],
+  "tropical_drink": [
+    "buah",
+    "jus",
+    "minuman",
+    "minum",
+    "es buah"
+  ],
+  "tropical_fish": [
+    "ikan"
+  ],
+  "trumpet": [
+    "musik",
+    "terompet",
+    "instrumen"
+  ],
+  "tulip": [
+    "bunga",
+    "kembang",
+    "bunga tulip"
+  ],
+  "tumbler_glass": [
+    "gelas",
+    "minuman",
+    "whiskey",
+    "minum",
+    "alkohol"
+  ],
+  "turkey": [
+    "unggas",
+    "burung turki"
+  ],
+  "turtle": [
+    "reptil",
+    "penyu",
+    "kura-kura"
+  ],
+  "twelve_thirty": [
+    "jam"
+  ],
+  "two_hump_camel": [
+    "onta",
+    "unta"
+  ],
+  "umbrella": [
+    "payung"
+  ],
+  "umbrella_on_ground": [
+    "payung",
+    "payung pantai"
+  ],
+  "umbrella_with_rain_drops": [
+    "payung",
+    "hujan",
+    "ujan"
+  ],
+  "unamused_face": [
+    "kesal",
+    "meh",
+    "bosan"
+  ],
+  "unicorn": [
+    "kepala unicorn",
+    "kuda terbang"
+  ],
+  "united_states": [
+    "amerika",
+    "bendera"
+  ],
+  "upside_down_face": [
+    "senyum",
+    "wajah",
+    "muka",
+    "terbalik"
+  ],
+  "vampire": [
+    "tepes",
+    "drakula",
+    "vampir"
+  ],
+  "vertical_traffic_light": [
+    "lampu lalu lintas",
+    "lampu merah"
+  ],
+  "victory_hand": [
+    "jari",
+    "tangan",
+    "dua jari",
+    "dua"
+  ],
+  "video_camera": [
+    "rekam",
+    "rekaman",
+    "video",
+    "kamera video"
+  ],
+  "video_game": [
+    "permainan",
+    "video",
+    "stick",
+    "pengontrol"
+  ],
+  "videocassette": [
+    "video",
+    "pita",
+    "kaset",
+    "vhs"
+  ],
+  "violin": [
+    "biola",
+    "musik",
+    "instrumen"
+  ],
+  "volcano": [
+    "gunung",
+    "lava",
+    "gunung berapi",
+    "gunung api"
+  ],
+  "volleyball": [
+    "olahraga",
+    "bola",
+    "voli"
+  ],
+  "vulcan_salute": [
+    "tangan",
+    "salam vulcan",
+    "vulcan",
+    "spock"
+  ],
+  "waning_crescent_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana",
+    "gerhana bulan parsial"
+  ],
+  "waning_gibbous_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana"
+  ],
+  "watch": [
+    "jam",
+    "waktu",
+    "arloji",
+    "jam tangan"
+  ],
+  "water_buffalo": [
+    "kerbau",
+    "lembu"
+  ],
+  "watermelon": [
+    "makanan",
+    "buah",
+    "semangka"
+  ],
+  "waving_hand": [
+    "hai",
+    "tangan",
+    "lambai",
+    "lambai tangan",
+    "melambai"
+  ],
+  "waxing_crescent_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana"
+  ],
+  "waxing_gibbous_moon": [
+    "gerhana bulan",
+    "bulan",
+    "gerhana"
+  ],
+  "weary_cat": [
+    "ketakutan",
+    "terkejut",
+    "takut",
+    "wah",
+    "kucing",
+    "wajah kucing",
+    "kucing kaget",
+    "kucing terkejut"
+  ],
+  "weary_face": [
+    "mewek",
+    "capek",
+    "kesal",
+    "gusar",
+    "lelah"
+  ],
+  "wedding": [
+    "bangunan",
+    "gedung",
+    "gereja"
+  ],
+  "whale": [
+    "ikan",
+    "ikan hiu",
+    "hiu"
+  ],
+  "wilted_flower": [
+    "bunga",
+    "mawar",
+    "bunga mawar",
+    "kembang",
+    "mawar layu"
+  ],
+  "wind_face": [
+    "awan",
+    "cuaca",
+    "mendung",
+    "hujan",
+    "gerimis",
+    "hembusan",
+    "kentut",
+    "angin"
+  ],
+  "wine_glass": [
+    "gelas",
+    "wine",
+    "minuman",
+    "minum",
+    "alkohol",
+    "anggur"
+  ],
+  "wink": [
+    "halo",
+    "hai",
+    "senyum",
+    "kedip"
+  ],
+  "winking_face_with_tongue": [
+    "lidah",
+    "bercanda"
+  ],
+  "wolf": [
+    "serigala",
+    "kepala serigala"
+  ],
+  "woman": [
+    "perempuan",
+    "gadis",
+    "wanita"
+  ],
+  "woman_and_man_holding_hands": [
+    "bergandengan tangan",
+    "gandeng tangan",
+    "pasangan"
+  ],
+  "woman_artist": [
+    "seni",
+    "pelukis wanita",
+    "seniman wanita"
+  ],
+  "woman_astronaut": [
+    "luar angkasa",
+    "astronot wanita",
+    "astronot"
+  ],
+  "woman_bald": [
+    "orang",
+    "perempuan",
+    "manusia",
+    "botak",
+    "wanita"
+  ],
+  "woman_beard": [
+    "wanita berjenggot",
+    "jenggot",
+    "perempuan berjenggot",
+    "cewek berjenggot"
+  ],
+  "woman_biking": [
+    "atlet sepeda wanita",
+    "olahraga",
+    "bersepeda",
+    "sepeda"
+  ],
+  "woman_bouncing_ball": [
+    "olahraga",
+    "atlet basket",
+    "basket",
+    "atlet berlari",
+    "bola basket"
+  ],
+  "woman_bowing": [
+    "menunduk",
+    "membungkuk",
+    "jura",
+    "hormat",
+    "menjura",
+    "wanita tunduk",
+    "wanita menunduk",
+    "wanita hormat"
+  ],
+  "woman_cartwheeling": [
+    "olahraga",
+    "atletik",
+    "gym"
+  ],
+  "woman_climbing": [
+    "olahraga",
+    "panjat tebing",
+    "panjat",
+    "atlet panjat wanita"
+  ],
+  "woman_cook": [
+    "koki wanita",
+    "koki",
+    "chef wanita",
+    "juru masak wanita",
+    "juru masak"
+  ],
+  "woman_curly_hair": [
+    "ibu",
+    "perempuan",
+    "keriting",
+    "wanita"
+  ],
+  "woman_dancing": [
+    "dansa",
+    "joged",
+    "joget",
+    "wanita dansa",
+    "menari"
+  ],
+  "woman_detective": [
+    "detektif wanita",
+    "detektif perempuan",
+    "detektif"
+  ],
+  "woman_elf": [
+    "elf",
+    "elf wanita"
+  ],
+  "woman_facepalming": [
+    "tepuk jidat",
+    "jidat",
+    "wanita tepuk jidat"
+  ],
+  "woman_factory_worker": [
+    "buruh wanita",
+    "pekerja",
+    "buruh pabrik",
+    "buruh"
+  ],
+  "woman_fairy": [
+    "peri",
+    "peri perempuan",
+    "peri wanita"
+  ],
+  "woman_farmer": [
+    "petani wanita",
+    "petani"
+  ],
+  "woman_feeding_baby": [
+    "menyusui",
+    "wanita menyusui",
+    "perempuan menyusui"
+  ],
+  "woman_firefighter": [
+    "pemadam",
+    "pemadam kebakaran",
+    "pemadam kebakaran wanita"
+  ],
+  "woman_frowning": [
+    "kesal",
+    "wanita kesal",
+    "muka kesal",
+    "wajah kesal"
+  ],
+  "woman_genie": [
+    "jin wanita",
+    "jin"
+  ],
+  "woman_gesturing_no": [
+    "wanita berkata tidak",
+    "tidak",
+    "isyarat tidak"
+  ],
+  "woman_gesturing_ok": [
+    "gerakan oke",
+    "oke",
+    "wanita berkata oke",
+    "isyarat oke"
+  ],
+  "woman_getting_haircut": [
+    "rambut",
+    "gunting rambut",
+    "potong rambut",
+    "gunting rambut wanita"
+  ],
+  "woman_getting_massage": [
+    "pijat",
+    "pijat kepala wanita",
+    "pijat wanita",
+    "pijat kepala"
+  ],
+  "woman_golfing": [
+    "olahraga",
+    "golf",
+    "golf wanita",
+    "atlet golf"
+  ],
+  "woman_guard": [
+    "tentara wanita",
+    "pengawal",
+    "penjaga",
+    "pengawal wanita",
+    "london",
+    "tentara",
+    "inggris"
+  ],
+  "woman_health_worker": [
+    "dokter",
+    "medis",
+    "bu dokter",
+    "dokter wanita",
+    "ahli medis"
+  ],
+  "woman_in_lotus_position": [
+    "meditasi",
+    "yoga",
+    "yoga wanita"
+  ],
+  "woman_in_manual_wheelchair": [
+    "kursi roda"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "kursi roda"
+  ],
+  "woman_in_steamy_room": [
+    "sauna",
+    "mandi",
+    "sauna wanita"
+  ],
+  "woman_in_tuxedo": [
+    "perempuan",
+    "tuxedo",
+    "tuksedo"
+  ],
+  "woman_judge": [
+    "hukum",
+    "jaksa wanita",
+    "pengacara wanita",
+    "hakim wanita"
+  ],
+  "woman_juggling": [
+    "sirkus",
+    "bola",
+    "juggling",
+    "atraksi",
+    "sirkus wanita"
+  ],
+  "woman_lifting_weights": [
+    "olahraga",
+    "atletik",
+    "angkat besi",
+    "atlet angkat besi",
+    "angkat"
+  ],
+  "woman_mage": [
+    "topi sihir",
+    "penyihir",
+    "nenek sihir"
+  ],
+  "woman_mechanic": [
+    "bengkel",
+    "mekanik wanita",
+    "montir wanita"
+  ],
+  "woman_mountain_biking": [
+    "atlet sepeda wanita",
+    "olahraga",
+    "bersepeda",
+    "sepeda"
+  ],
+  "woman_office_worker": [
+    "kantor",
+    "pekerja",
+    "karyawati",
+    "pekerja wanita"
+  ],
+  "woman_pilot": [
+    "penerbang wanita",
+    "pilot",
+    "pilot wanita"
+  ],
+  "woman_playing_handball": [
+    "olahraga",
+    "bola",
+    "atlet wanita",
+    "bola tangan"
+  ],
+  "woman_playing_water_polo": [
+    "olahraga",
+    "atlet polo air",
+    "polo air",
+    "polo air wanita"
+  ],
+  "woman_police_officer": [
+    "polisi",
+    "polwan",
+    "polisi wanita"
+  ],
+  "woman_pouting": [
+    "cemberut",
+    "muka cemberut",
+    "wanita cemberut"
+  ],
+  "woman_raising_hand": [
+    "hai",
+    "mengangkat tangan",
+    "angkat tangan",
+    "wanita angkat tangan"
+  ],
+  "woman_red_hair": [
+    "orang",
+    "rambut",
+    "ibu",
+    "perempuan",
+    "manusia",
+    "wanita"
+  ],
+  "woman_rowing_boat": [
+    "olahraga",
+    "dayung",
+    "perahu",
+    "atlet dayung"
+  ],
+  "woman_running": [
+    "lari",
+    "olahraga",
+    "berlari",
+    "pelari wanita",
+    "pelari",
+    "wanita berlari"
+  ],
+  "woman_s_boot": [
+    "boot",
+    "sepatu boot"
+  ],
+  "woman_s_clothes": [
+    "kaos",
+    "kaos wanita",
+    "baju",
+    "pakaian wanita"
+  ],
+  "woman_s_hat": [
+    "topi wanita",
+    "topi"
+  ],
+  "woman_s_sandal": [
+    "sandal",
+    "sandal wanita"
+  ],
+  "woman_scientist": [
+    "ahli kimia",
+    "teknik kimia",
+    "kimia"
+  ],
+  "woman_shrugging": [
+    "tidak tahu",
+    "angkat bahu",
+    "wanita tidak tahu"
+  ],
+  "woman_singer": [
+    "artis",
+    "penyanyi",
+    "penyanyi wanita"
+  ],
+  "woman_student": [
+    "wisuda",
+    "toga",
+    "mahasiswi"
+  ],
+  "woman_superhero": [
+    "pahlawan",
+    "superhero",
+    "pahlawan super",
+    "pahlawan wanita"
+  ],
+  "woman_supervillain": [
+    "penjahat",
+    "penjahat super"
+  ],
+  "woman_surfing": [
+    "olahraga",
+    "selancar",
+    "selancar air",
+    "atlet selancar",
+    "atlet selancar wanita"
+  ],
+  "woman_swimming": [
+    "olahraga",
+    "atlet renang",
+    "berenang",
+    "renang",
+    "atlet renang wanita"
+  ],
+  "woman_teacher": [
+    "profesor",
+    "guru wanita",
+    "guru",
+    "profesor wanita"
+  ],
+  "woman_technologist": [
+    "kantor",
+    "laptop",
+    "karyawati",
+    "pekerja wanita"
+  ],
+  "woman_tipping_hand": [
+    "tangan",
+    "informasi",
+    "bantuan",
+    "resepsionis wanita",
+    "menengadahkan tangan"
+  ],
+  "woman_vampire": [
+    "drakula",
+    "vampir wanita",
+    "vampir",
+    "drakula wanita"
+  ],
+  "woman_walking": [
+    "berjalan",
+    "jalan",
+    "wanita berjalan"
+  ],
+  "woman_wearing_turban": [
+    "wanita turban",
+    "turban",
+    "perempuan turban"
+  ],
+  "woman_white_hair": [
+    "orang",
+    "perempuan",
+    "manusia",
+    "tua",
+    "wanita",
+    "wanita tua",
+    "rambut putih"
+  ],
+  "woman_with_headscarf": [
+    "muslimah",
+    "hijab",
+    "kerudung",
+    "wanita hijab"
+  ],
+  "woman_with_veil": [
+    "cadar",
+    "tudung",
+    "selubung",
+    "kerudung",
+    "tutupan"
+  ],
+  "woman_zombie": [
+    "zombi wanita",
+    "mayat hidup",
+    "zombi"
+  ],
+  "women_holding_hands": [
+    "bergandengan tangan",
+    "gandeng tangan",
+    "pasangan",
+    "pasangan wanita bergandengan tangan"
+  ],
+  "women_with_bunny_ears": [
+    "joget",
+    "kuping kelinci",
+    "playboy",
+    "wanita kelinci",
+    "penari kelinci"
+  ],
+  "women_wrestling": [
+    "olahraga",
+    "gulat",
+    "gulat wanita"
+  ],
+  "woozy_face": [
+    "pusing",
+    "muka lucu",
+    "konyol",
+    "mabuk"
+  ],
+  "world_map": [
+    "peta",
+    "peta dunia"
+  ],
+  "worried": [
+    "cemas",
+    "khawatir",
+    "kuatir"
+  ],
+  "writing_hand": [
+    "tulis",
+    "pen",
+    "menulis"
+  ],
+  "yarn": [
+    "benang",
+    "benang wol",
+    "wol"
+  ],
+  "yawning_face": [
+    "menguap",
+    "nguap"
+  ],
+  "zany_face": [
+    "wajah",
+    "lidah",
+    "konyol"
+  ],
+  "zipper_mouth_face": [
+    "diam",
+    "rahasia",
+    "rapat",
+    "resleting"
+  ],
+  "zombie": [
+    "zombi",
+    "undead",
+    "brains"
+  ],
+  "zzz": [
+    "mimpi"
+  ]
+}

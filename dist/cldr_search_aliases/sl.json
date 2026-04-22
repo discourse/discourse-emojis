@@ -1,0 +1,9912 @@
+{
+  "+1": [
+    "dlan",
+    "gor",
+    "palec",
+    "telo"
+  ],
+  "-1": [
+    "dlan",
+    "dol",
+    "palec",
+    "telo"
+  ],
+  "100": [
+    "sto",
+    "sto točk"
+  ],
+  "1234": [
+    "številke",
+    "vnos",
+    "vnos številk"
+  ],
+  "1st_place_medal": [
+    "medalja",
+    "prvo mesto",
+    "zlata medalja",
+    "zlato"
+  ],
+  "2nd_place_medal": [
+    "drugo mesto",
+    "medalja",
+    "srebrna medalja",
+    "srebro"
+  ],
+  "3rd_place_medal": [
+    "bron",
+    "bronasta medalja",
+    "medalja",
+    "tretje mesto"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "gumb s črko a (krvna skupina)",
+    "kri"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "gumb ab (krvna skupina)",
+    "kri"
+  ],
+  "abacus": [
+    "abak",
+    "izračun"
+  ],
+  "accordion": [
+    "harmonika",
+    "kromatična harmonika",
+    "meh"
+  ],
+  "adhesive_bandage": [
+    "hanzaplast",
+    "rana",
+    "samolepilni obliž"
+  ],
+  "admission_tickets": [
+    "vstopnica",
+    "vstopnice",
+    "vstopnina"
+  ],
+  "aerial_tramway": [
+    "gondola",
+    "jeklena vrv",
+    "tramvaj",
+    "vagon",
+    "vozilo",
+    "žičnica",
+    "zračno"
+  ],
+  "afghanistan": [
+    "zastava"
+  ],
+  "airplane": [
+    "letalo",
+    "vozilo"
+  ],
+  "airplane_arrival": [
+    "letalo",
+    "prihod",
+    "prihod letala",
+    "prihodi",
+    "pristanek",
+    "vozilo"
+  ],
+  "airplane_departure": [
+    "letalo",
+    "odhod",
+    "odhod letala",
+    "odhodi",
+    "prijava",
+    "vozilo"
+  ],
+  "alarm_clock": [
+    "alarm",
+    "budilka",
+    "ura"
+  ],
+  "albania": [
+    "zastava"
+  ],
+  "alembic": [
+    "destilator",
+    "kemija",
+    "orodje"
+  ],
+  "algeria": [
+    "zastava"
+  ],
+  "alien": [
+    "bitje",
+    "fantazija",
+    "nezemljan",
+    "nlp",
+    "obraz",
+    "vesolje",
+    "vesoljec"
+  ],
+  "alien_monster": [
+    "bitje",
+    "fantazija",
+    "nezemljan",
+    "nlp",
+    "obraz",
+    "pravljica",
+    "vesolje",
+    "vesoljec",
+    "vesoljska pošast"
+  ],
+  "ambulance": [
+    "reševalno vozilo",
+    "vozilo"
+  ],
+  "american_football": [
+    "ameriško",
+    "nogomet",
+    "žoga",
+    "žoga za ameriški nogomet"
+  ],
+  "american_samoa": [
+    "zastava"
+  ],
+  "amphora": [
+    "amfora",
+    "kuhanje",
+    "orodje",
+    "orožje",
+    "pijača",
+    "vodnar",
+    "vrč",
+    "zodiak"
+  ],
+  "anatomical_heart": [
+    "človeško srce",
+    "kardiologija",
+    "organ",
+    "osrčje",
+    "srčni utrip",
+    "utrip"
+  ],
+  "anchor": [
+    "ladja",
+    "orodje",
+    "sidro"
+  ],
+  "andorra": [
+    "zastava"
+  ],
+  "anger_symbol": [
+    "divje",
+    "jezno",
+    "simbol jeze",
+    "strip"
+  ],
+  "angola": [
+    "zastava"
+  ],
+  "angry": [
+    "besno",
+    "jezen obraz",
+    "jezno",
+    "obraz"
+  ],
+  "angry_face_with_horns": [
+    "demon",
+    "fantazija",
+    "hudič",
+    "obraz",
+    "pravljica",
+    "vragec"
+  ],
+  "anguilla": [
+    "zastava"
+  ],
+  "anguished_face": [
+    "obraz",
+    "trpeč obraz",
+    "trpeče"
+  ],
+  "ant": [
+    "mravlja",
+    "žuželka"
+  ],
+  "antarctica": [
+    "zastava"
+  ],
+  "antenna_bars": [
+    "antena",
+    "mobilnik",
+    "mobilno",
+    "signal",
+    "stolpec",
+    "telefon"
+  ],
+  "antigua_barbuda": [
+    "zastava"
+  ],
+  "anxious_face_with_sweat": [
+    "hladno",
+    "modro",
+    "naglo",
+    "obraz",
+    "obraz z odprtimi usti in mrzlim potom",
+    "odprto",
+    "pot",
+    "usta"
+  ],
+  "aquarius": [
+    "nosec",
+    "voda",
+    "vodnar",
+    "zodiak"
+  ],
+  "argentina": [
+    "zastava"
+  ],
+  "aries": [
+    "astrološki znak ovna",
+    "oven",
+    "zodiak"
+  ],
+  "armenia": [
+    "zastava"
+  ],
+  "articulated_lorry": [
+    "kamion",
+    "polpriklopnik",
+    "tovornjak",
+    "tovornjak s prikolico",
+    "vozilo"
+  ],
+  "artist": [
+    "paleta",
+    "slikar",
+    "umetnik"
+  ],
+  "artist_palette": [
+    "muzej",
+    "paleta",
+    "slika",
+    "slikarska paleta",
+    "umetnost"
+  ],
+  "aruba": [
+    "zastava"
+  ],
+  "ascension_island": [
+    "zastava"
+  ],
+  "asterisk": [
+    "keycap"
+  ],
+  "astonished_face": [
+    "frapirano",
+    "obraz",
+    "popolnoma",
+    "presenečeno",
+    "začuden obraz",
+    "začudeno"
+  ],
+  "astronaut": [
+    "astronavt",
+    "kozmonavt",
+    "raketa"
+  ],
+  "atm_sign": [
+    "avtomat",
+    "bankomat",
+    "denar",
+    "znak za bankomat"
+  ],
+  "atom_symbol": [
+    "ateist",
+    "atom",
+    "simbol za atom"
+  ],
+  "australia": [
+    "zastava"
+  ],
+  "austria": [
+    "zastava"
+  ],
+  "auto_rickshaw": [
+    "rikša z motorjem",
+    "tuk tuk"
+  ],
+  "automobile": [
+    "avto",
+    "avtomobil",
+    "vozilo"
+  ],
+  "avocado": [
+    "avokado",
+    "hrana",
+    "sadje"
+  ],
+  "axe": [
+    "cepljenje",
+    "drva",
+    "les",
+    "sekanje",
+    "sekira"
+  ],
+  "azerbaijan": [
+    "zastava"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "gumb s črko b (krvna skupina)",
+    "kri"
+  ],
+  "baby": [
+    "dojenček"
+  ],
+  "baby_angel": [
+    "angel",
+    "angelček",
+    "dojenček",
+    "fantazija",
+    "obraz",
+    "pravljica"
+  ],
+  "baby_bottle": [
+    "dojenček",
+    "mleko",
+    "piti",
+    "steklenica",
+    "steklenička"
+  ],
+  "baby_chick": [
+    "mladič",
+    "piščanček",
+    "valjenje"
+  ],
+  "baby_symbol": [
+    "dojenček",
+    "previjanje",
+    "simbol dojenčka"
+  ],
+  "back_arrow": [
+    "nazaj",
+    "puščica"
+  ],
+  "backhand_index_pointing_down": [
+    "dlan",
+    "dol",
+    "hrbtna stran",
+    "hrbtna stran dlani s kazalcem, ki kaže dol",
+    "kazalec",
+    "kazati",
+    "prst",
+    "telo"
+  ],
+  "backhand_index_pointing_left": [
+    "dlan",
+    "hrbtna stran",
+    "hrbtna stran dlani s kazalcem, ki kaže levo",
+    "kazalec",
+    "kazati",
+    "prst",
+    "telo"
+  ],
+  "backhand_index_pointing_right": [
+    "dlan",
+    "hrbtna stran",
+    "hrbtna stran dlani s kazalcem, ki kaže desno",
+    "kazalec",
+    "kazati",
+    "prst",
+    "telo"
+  ],
+  "backhand_index_pointing_up": [
+    "dlan",
+    "gor",
+    "hrbtna stran",
+    "hrbtna stran dlani s kazalcem, ki kaže gor",
+    "kazalec",
+    "kazati",
+    "prst",
+    "telo"
+  ],
+  "backpack": [
+    "nahrbtnik",
+    "šola",
+    "šolski nahrbtnik",
+    "torba"
+  ],
+  "bacon": [
+    "hrana",
+    "meso",
+    "slanina"
+  ],
+  "badger": [
+    "jazbec",
+    "medarski jazbec",
+    "nadloga"
+  ],
+  "badminton": [
+    "igra",
+    "lopar",
+    "perjanica",
+    "žogica"
+  ],
+  "bagel": [
+    "namaz",
+    "pekarna"
+  ],
+  "baggage_claim": [
+    "prevzem",
+    "prevzem prtljage",
+    "prtljaga"
+  ],
+  "baguette_bread": [
+    "bageta",
+    "francoska",
+    "hrana",
+    "kruh"
+  ],
+  "bahamas": [
+    "zastava"
+  ],
+  "bahrain": [
+    "zastava"
+  ],
+  "balance_scale": [
+    "orodje",
+    "pravičnost",
+    "ravnovesje",
+    "tehtnica",
+    "teža",
+    "zodiak"
+  ],
+  "ballet_shoes": [
+    "balet",
+    "baletni čeveljci",
+    "ples"
+  ],
+  "balloon": [
+    "balon",
+    "slavje"
+  ],
+  "ballot_box_with_ballot": [
+    "glasovnica",
+    "škatla",
+    "škatla za glasovanje z glasovnico"
+  ],
+  "banana": [
+    "rastlina",
+    "sadje"
+  ],
+  "bangladesh": [
+    "zastava"
+  ],
+  "banjo": [
+    "bendžo",
+    "brenkalo",
+    "glasba",
+    "glasbilo",
+    "strune"
+  ],
+  "bank": [
+    "banka",
+    "zgradba"
+  ],
+  "bar_chart": [
+    "črtni grafikon",
+    "črtno",
+    "graf",
+    "grafikon"
+  ],
+  "barbados": [
+    "zastava"
+  ],
+  "barber_pole": [
+    "brivec",
+    "brivski izvesek",
+    "izvesek",
+    "striženje"
+  ],
+  "baseball": [
+    "žoga",
+    "žogica za baseball"
+  ],
+  "basket": [
+    "kmetovanje",
+    "košara",
+    "perilo",
+    "piknik"
+  ],
+  "basketball": [
+    "koš",
+    "košarkarska žoga",
+    "obroč",
+    "žoga"
+  ],
+  "bat": [
+    "netopir",
+    "žival"
+  ],
+  "bathtub": [
+    "banja",
+    "kad"
+  ],
+  "battery": [
+    "baterija"
+  ],
+  "beach_with_umbrella": [
+    "plaža",
+    "plaža s senčnikom",
+    "senčnik"
+  ],
+  "bear": [
+    "medved",
+    "obraz"
+  ],
+  "beating_heart": [
+    "bitje",
+    "srce",
+    "srčni utrip",
+    "utripajoče srce",
+    "utripanje"
+  ],
+  "beaver": [
+    "bober",
+    "jez"
+  ],
+  "bed": [
+    "hotel",
+    "postelja",
+    "spanje"
+  ],
+  "beer_mug": [
+    "bar",
+    "pijača",
+    "pivo",
+    "vrček",
+    "vrček za pivo"
+  ],
+  "beetle": [
+    "hrošč",
+    "insekt",
+    "žuželka"
+  ],
+  "belarus": [
+    "zastava"
+  ],
+  "belgium": [
+    "zastava"
+  ],
+  "belize": [
+    "zastava"
+  ],
+  "bell": [
+    "zvonec"
+  ],
+  "bell_pepper": [
+    "babura",
+    "capsicum",
+    "paprika",
+    "zelenjava"
+  ],
+  "bell_with_slash": [
+    "brez zvoka",
+    "molčeče",
+    "ne",
+    "ni dovoljeno",
+    "prečrtan zvonec",
+    "prepovedano",
+    "tiho",
+    "zvonec"
+  ],
+  "bellhop_bell": [
+    "hotel",
+    "hotelski zvonec",
+    "portir",
+    "zvonec"
+  ],
+  "benin": [
+    "zastava"
+  ],
+  "bento_box": [
+    "bento",
+    "japonsko",
+    "malica",
+    "posoda",
+    "posoda za malico bento"
+  ],
+  "bermuda": [
+    "zastava"
+  ],
+  "beverage_box": [
+    "tetrapak s pijačo",
+    "tetrapak s sokom"
+  ],
+  "bhutan": [
+    "zastava"
+  ],
+  "bicycle": [
+    "kolo",
+    "vozilo"
+  ],
+  "bikini": [
+    "oblačila",
+    "plavati"
+  ],
+  "billed_cap": [
+    "kapa s ščitom"
+  ],
+  "biohazard": [
+    "biološka nevarnost",
+    "biološki poskusi",
+    "bionevarnost",
+    "tvegano",
+    "znak"
+  ],
+  "bird": [
+    "ptič",
+    "ptica",
+    "ptiček"
+  ],
+  "birthday_cake": [
+    "pecivo",
+    "posladek",
+    "rojstni dan",
+    "rojstnodnevna torta",
+    "sladko",
+    "slavje",
+    "torta"
+  ],
+  "bison": [
+    "bivol",
+    "bizon",
+    "čreda",
+    "zober"
+  ],
+  "black_cat": [
+    "črna",
+    "mačka",
+    "smola"
+  ],
+  "black_circle": [
+    "črn krog",
+    "geometrično",
+    "krog"
+  ],
+  "black_flag": [
+    "črna zastava",
+    "plapolanje"
+  ],
+  "black_heart": [
+    "črno",
+    "hudobno",
+    "podlo",
+    "srce",
+    "zlobno"
+  ],
+  "black_large_square": [
+    "geometrično",
+    "kvadrat",
+    "velik črn kvadrat"
+  ],
+  "black_medium_small_square": [
+    "geometrično",
+    "kvadrat",
+    "srednje majhen črn kvadrat"
+  ],
+  "black_medium_square": [
+    "geometrično",
+    "kvadrat",
+    "srednji črn kvadrat"
+  ],
+  "black_nib": [
+    "črna konica peresa",
+    "konica",
+    "pero"
+  ],
+  "black_small_square": [
+    "geometrično",
+    "kvadrat",
+    "majhen črn kvadrat"
+  ],
+  "black_square_button": [
+    "geometrično",
+    "gumb",
+    "gumb s črnim kvadratom",
+    "kvadrat"
+  ],
+  "blonde_man": [
+    "blondinec",
+    "fant",
+    "lasje",
+    "moški",
+    "moški: blondinec"
+  ],
+  "blonde_woman": [
+    "blondinka",
+    "dekle",
+    "lasje",
+    "ženska",
+    "ženska: blondinka"
+  ],
+  "blossom": [
+    "cvet",
+    "rastlina",
+    "roža"
+  ],
+  "blowfish": [
+    "riba",
+    "riba napihovalka",
+    "tropsko"
+  ],
+  "blue_book": [
+    "knjiga",
+    "modra knjiga",
+    "modro"
+  ],
+  "blue_circle": [
+    "geometrično",
+    "krog",
+    "moder krog",
+    "modro"
+  ],
+  "blue_heart": [
+    "modro",
+    "srce"
+  ],
+  "blue_square": [
+    "kvadrat",
+    "moder"
+  ],
+  "blueberries": [
+    "borovnica",
+    "borovnice",
+    "črnica",
+    "jagoda",
+    "modra"
+  ],
+  "blush": [
+    "nasmeh",
+    "obraz",
+    "oči",
+    "smejoči obraz s smejočimi očmi",
+    "zardevanje"
+  ],
+  "boar": [
+    "divja svinja",
+    "divji",
+    "prašič"
+  ],
+  "bolivia": [
+    "zastava"
+  ],
+  "bomb": [
+    "bomba",
+    "strip"
+  ],
+  "bone": [
+    "kost",
+    "okostje"
+  ],
+  "bookmark": [
+    "oznaka",
+    "zaznamek"
+  ],
+  "bookmark_tabs": [
+    "marker",
+    "oznaka",
+    "zavihki",
+    "zaznamek",
+    "zaznamki na straneh"
+  ],
+  "books": [
+    "knjiga",
+    "knjige"
+  ],
+  "boomerang": [
+    "avstralija",
+    "bumerang",
+    "udarec nazaj",
+    "vračanje"
+  ],
+  "bosnia_herzegovina": [
+    "zastava"
+  ],
+  "botswana": [
+    "zastava"
+  ],
+  "bottle_with_popping_cork": [
+    "bar",
+    "odleteti",
+    "odpiranje penine",
+    "pijača",
+    "steklenica",
+    "zamašek"
+  ],
+  "bouquet": [
+    "rastlina",
+    "romanca",
+    "roža",
+    "šopek"
+  ],
+  "bouvet_island": [
+    "zastava"
+  ],
+  "bow_and_arrow": [
+    "lok",
+    "lok in puščica",
+    "lokostrelec",
+    "orodje",
+    "orožje",
+    "puščica",
+    "strelec",
+    "zodiak"
+  ],
+  "bowl_with_spoon": [
+    "skodelica z žlico"
+  ],
+  "bowling": [
+    "igra",
+    "kegljanje",
+    "krogla"
+  ],
+  "boxing_glove": [
+    "boks",
+    "boksarska rokavica",
+    "rokavica",
+    "šport"
+  ],
+  "boy": [
+    "deček",
+    "fant"
+  ],
+  "brain": [
+    "inteligenca",
+    "možgani"
+  ],
+  "brazil": [
+    "zastava"
+  ],
+  "bread": [
+    "kruh",
+    "štruca"
+  ],
+  "breast_feeding": [
+    "dojenček",
+    "dojenje",
+    "prsi"
+  ],
+  "brick": [
+    "glina",
+    "malta",
+    "opeka",
+    "opeke",
+    "zid"
+  ],
+  "bridge_at_night": [
+    "most",
+    "most ponoči",
+    "noč",
+    "vreme"
+  ],
+  "briefcase": [
+    "aktovka",
+    "kovček"
+  ],
+  "briefs": [
+    "enodelno",
+    "kopalke",
+    "kopalno oblačilo",
+    "spodnje hlače",
+    "spodnje perilo"
+  ],
+  "bright_button": [
+    "gumb za svetlost",
+    "svetlo",
+    "svetlost"
+  ],
+  "british_indian_ocean_territory": [
+    "zastava"
+  ],
+  "british_virgin_islands": [
+    "zastava"
+  ],
+  "broccoli": [
+    "brokoli"
+  ],
+  "broken_heart": [
+    "počeno",
+    "srce",
+    "strto srce",
+    "zlomiti"
+  ],
+  "broom": [
+    "čarovnica",
+    "čiščenje",
+    "metla",
+    "pometanje"
+  ],
+  "brown_circle": [
+    "krog",
+    "rjav"
+  ],
+  "brown_heart": [
+    "rjavo",
+    "srce"
+  ],
+  "brown_square": [
+    "kvadrat",
+    "rjav"
+  ],
+  "brunei": [
+    "zastava"
+  ],
+  "bubble_tea": [
+    "biser",
+    "čaj",
+    "čaj s kroglicami",
+    "mleko",
+    "pena"
+  ],
+  "bucket": [
+    "čeber",
+    "škaf",
+    "sod",
+    "vedro"
+  ],
+  "bug": [
+    "žuželka"
+  ],
+  "building_construction": [
+    "gradbišče",
+    "gradnja",
+    "zgradba"
+  ],
+  "bulgaria": [
+    "zastava"
+  ],
+  "bullet_train": [
+    "hitri vlak s koničastim nosom",
+    "hitrost",
+    "koničast nos",
+    "shinkansen",
+    "vlak",
+    "vozilo",
+    "železnica"
+  ],
+  "bullseye": [
+    "igra",
+    "pikado",
+    "središče",
+    "zadetek",
+    "zadetek v polno"
+  ],
+  "burkina_faso": [
+    "zastava"
+  ],
+  "burrito": [
+    "burito",
+    "mehiški prigrizek"
+  ],
+  "burundi": [
+    "zastava"
+  ],
+  "bus": [
+    "avtobus",
+    "vozilo"
+  ],
+  "bus_stop": [
+    "avtobus",
+    "avtobusna postaja",
+    "avtobusno postajališče",
+    "postajališče"
+  ],
+  "bust_in_silhouette": [
+    "doprsje",
+    "silhueta",
+    "silhueta doprsja"
+  ],
+  "busts_in_silhouette": [
+    "doprsje",
+    "silhueta",
+    "silhueti doprsja"
+  ],
+  "butter": [
+    "maslo",
+    "mlečni izdelek",
+    "mlečno"
+  ],
+  "butterfly": [
+    "insekt",
+    "lep",
+    "metulj"
+  ],
+  "cactus": [
+    "kaktus",
+    "rastlina"
+  ],
+  "call_me_hand": [
+    "pokliči",
+    "pokliči me",
+    "roka"
+  ],
+  "cambodia": [
+    "zastava"
+  ],
+  "camel": [
+    "dromedar",
+    "grba",
+    "kamela"
+  ],
+  "camera": [
+    "fotoaparat",
+    "video"
+  ],
+  "camera_with_flash": [
+    "bliskavica",
+    "fotoaparat",
+    "fotoaparat z bliskavico",
+    "video"
+  ],
+  "cameroon": [
+    "zastava"
+  ],
+  "camping": [
+    "kampiranje",
+    "šotor"
+  ],
+  "canada": [
+    "zastava"
+  ],
+  "canary_islands": [
+    "zastava"
+  ],
+  "cancer": [
+    "rak",
+    "zodiak"
+  ],
+  "candle": [
+    "luč",
+    "sveča"
+  ],
+  "candy": [
+    "bonbon",
+    "posladek",
+    "sladko"
+  ],
+  "canned_food": [
+    "konzervirana hrana"
+  ],
+  "canoe": [
+    "čoln",
+    "kanu"
+  ],
+  "cape_verde": [
+    "zastava"
+  ],
+  "capricorn": [
+    "koza",
+    "kozorog",
+    "zodiak"
+  ],
+  "card_file_box": [
+    "dokumenti",
+    "škatla",
+    "škatla z dokumenti",
+    "spis"
+  ],
+  "card_index": [
+    "kartica",
+    "kartoteka",
+    "organizator vizitk"
+  ],
+  "card_index_dividers": [
+    "kartica",
+    "kartoteka",
+    "kartoteke z vmesnimi listi",
+    "vmesni listi"
+  ],
+  "caribbean_netherlands": [
+    "zastava"
+  ],
+  "carousel_horse": [
+    "konj",
+    "konj na vrtiljaku",
+    "vrtiljak"
+  ],
+  "carp_streamer": [
+    "barvno",
+    "riba",
+    "slavje",
+    "trak",
+    "zastavni trak z ribama"
+  ],
+  "carpentry_saw": [
+    "lisičja žaga",
+    "mizar",
+    "orodje",
+    "žaga",
+    "žagati"
+  ],
+  "carrot": [
+    "hrana",
+    "korenje",
+    "zelenjava"
+  ],
+  "castle": [
+    "evropsko",
+    "grad",
+    "zgradba"
+  ],
+  "cat": [
+    "domači ljubljenček",
+    "mačka"
+  ],
+  "cat_face": [
+    "domači ljubljenček",
+    "mačji obraz",
+    "mačka",
+    "obraz"
+  ],
+  "cat_with_wry_smile": [
+    "ironično",
+    "mačji obraz s prifrknjenim nasmeškom",
+    "mačka",
+    "mačka s prifrknjenim nasmeškom",
+    "nasmeh",
+    "obraz",
+    "porogljivo"
+  ],
+  "cayman_islands": [
+    "zastava"
+  ],
+  "central_african_republic": [
+    "zastava"
+  ],
+  "ceuta_melilla": [
+    "zastava"
+  ],
+  "chad": [
+    "zastava"
+  ],
+  "chains": [
+    "veriga",
+    "verige"
+  ],
+  "chair": [
+    "sedeti",
+    "sedež",
+    "stol"
+  ],
+  "chart_decreasing": [
+    "graf",
+    "grafikon",
+    "grafikon padca",
+    "navzdol",
+    "trend"
+  ],
+  "chart_increasing": [
+    "graf",
+    "grafikon",
+    "grafikon rasti",
+    "navzgor",
+    "rast",
+    "trend"
+  ],
+  "chart_increasing_with_yen": [
+    "banka",
+    "denar",
+    "graf",
+    "grafikon",
+    "grafikon rasti za jen",
+    "jen",
+    "navzgor",
+    "rast",
+    "rasti",
+    "trend",
+    "trg",
+    "valuta"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "kljukica",
+    "polje",
+    "potrditveno polje s kjukico",
+    "potrditveno polje s kljukico"
+  ],
+  "check_mark": [
+    "✓",
+    "kljukica",
+    "znak"
+  ],
+  "cheese_wedge": [
+    "kos sira",
+    "sir"
+  ],
+  "chequered_flag": [
+    "dirkanje",
+    "kockasta zastava",
+    "kockasto",
+    "zastava"
+  ],
+  "cherries": [
+    "češnja",
+    "češnje",
+    "rastlina",
+    "sadje"
+  ],
+  "cherry_blossom": [
+    "češnja",
+    "češnjev cvet",
+    "cvet",
+    "rastlina",
+    "roža"
+  ],
+  "chess_pawn": [
+    "kmet pri šahu",
+    "pogrešljiv",
+    "šah",
+    "tepček"
+  ],
+  "chestnut": [
+    "kostanj",
+    "rastlina"
+  ],
+  "chicken": [
+    "kokoš",
+    "kokoška",
+    "kura"
+  ],
+  "child": [
+    "otrok"
+  ],
+  "children_crossing": [
+    "otroci prečkajo cesto",
+    "otrok",
+    "pešec",
+    "prehod",
+    "promet"
+  ],
+  "chile": [
+    "zastava"
+  ],
+  "china": [
+    "zastava"
+  ],
+  "chipmunk": [
+    "progasta veverica",
+    "veverica"
+  ],
+  "chocolate_bar": [
+    "čokolada",
+    "posladek",
+    "sladko",
+    "tablica",
+    "tablica čokolade"
+  ],
+  "chopsticks": [
+    "jedilne paličice"
+  ],
+  "christmas_island": [
+    "zastava"
+  ],
+  "christmas_tree": [
+    "božič",
+    "drevešček",
+    "jelka",
+    "slavje"
+  ],
+  "church": [
+    "cerkev",
+    "križ",
+    "krščansko",
+    "vera",
+    "zgradba"
+  ],
+  "cigarette": [
+    "cigara",
+    "cigareta",
+    "kajenje"
+  ],
+  "cinema": [
+    "film",
+    "kamera",
+    "kino"
+  ],
+  "circled_m": [
+    "črka m v krogu",
+    "krog",
+    "m"
+  ],
+  "circus_tent": [
+    "cirkus",
+    "cirkuški šotor",
+    "šotor"
+  ],
+  "cityscape": [
+    "mestna pokrajina",
+    "mesto",
+    "zgradba"
+  ],
+  "cityscape_at_dusk": [
+    "mestna pokrajina v mraku",
+    "mesto",
+    "mrak",
+    "pokrajina",
+    "sonce",
+    "sončni zahod",
+    "večer",
+    "vreme",
+    "zgradba"
+  ],
+  "cl_button": [
+    "cl",
+    "gumb cl"
+  ],
+  "clamp": [
+    "orodje",
+    "primež",
+    "stiskanje"
+  ],
+  "clap": [
+    "dlan",
+    "ploskajoči dlani",
+    "ploskati",
+    "telo"
+  ],
+  "clapper_board": [
+    "film",
+    "klapa"
+  ],
+  "classical_building": [
+    "klasična zgradba",
+    "klasično",
+    "zgradba"
+  ],
+  "clinking_beer_mugs": [
+    "bar",
+    "nazdravljanje z vrčkoma za pivo",
+    "pijača",
+    "pivo",
+    "trkanje",
+    "vrček"
+  ],
+  "clinking_glasses": [
+    "nazdravljanje",
+    "pijača",
+    "praznovanje",
+    "trkanje"
+  ],
+  "clipboard": [
+    "podložna mapa"
+  ],
+  "clipperton_island": [
+    "zastava"
+  ],
+  "clockwise_vertical_arrows": [
+    "navpični puščici, ki se ukrivljata v smeri urinega kazalca",
+    "navpični puščici, ki se ukrivljata v smeri urnega kazalca",
+    "puščica",
+    "smer urinega kazalca",
+    "vnovično nalaganje"
+  ],
+  "closed_book": [
+    "knjiga",
+    "zaprta knjiga",
+    "zaprto"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "pošta",
+    "poštni nabiralnik",
+    "spuščeno",
+    "zaprt poštni nabiralnik s spuščeno zastavico",
+    "zaprto"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "pošta",
+    "poštni nabiralnik",
+    "zaprt poštni nabiralnik z dvignjeno zastavico",
+    "zaprto"
+  ],
+  "closed_umbrella": [
+    "dež",
+    "dežnik",
+    "oblačila",
+    "vreme",
+    "zaprt dežnik"
+  ],
+  "cloud": [
+    "oblak",
+    "vreme"
+  ],
+  "cloud_with_lightning": [
+    "oblak",
+    "oblak s strelo",
+    "strela",
+    "vreme"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "dež",
+    "oblak",
+    "oblak s strelo in dežjem",
+    "strela",
+    "vreme"
+  ],
+  "cloud_with_rain": [
+    "dež",
+    "oblak",
+    "oblak z dežjem",
+    "vreme"
+  ],
+  "cloud_with_snow": [
+    "mrzlo",
+    "oblak",
+    "oblak s snegom",
+    "sneg",
+    "vreme"
+  ],
+  "clown_face": [
+    "klovn",
+    "klovnesa",
+    "klovnovski obraz"
+  ],
+  "club_suit": [
+    "barva",
+    "igra",
+    "karta",
+    "križ",
+    "križi"
+  ],
+  "clutch_bag": [
+    "oblačila",
+    "torbica",
+    "večerna torbica"
+  ],
+  "coat": [
+    "plašč"
+  ],
+  "cockroach": [
+    "ščurek",
+    "žuželka"
+  ],
+  "cocktail_glass": [
+    "bar",
+    "koktajl",
+    "kozarec",
+    "kozarec za koktajl",
+    "pijača"
+  ],
+  "coconut": [
+    "kokos"
+  ],
+  "cocos_keeling_islands": [
+    "zastava"
+  ],
+  "coffin": [
+    "krsta",
+    "smrt"
+  ],
+  "coin": [
+    "denar",
+    "kovanec",
+    "kovina",
+    "srebro",
+    "zaklad",
+    "zlato"
+  ],
+  "cold_face": [
+    "ledene sveče",
+    "mrzel",
+    "mrzel obraz",
+    "ozebline",
+    "plav obraz",
+    "premražen"
+  ],
+  "collision": [
+    "bum",
+    "eksplozija",
+    "strip",
+    "trk"
+  ],
+  "colombia": [
+    "zastava"
+  ],
+  "comet": [
+    "komet",
+    "vesolje"
+  ],
+  "comoros": [
+    "zastava"
+  ],
+  "compass": [
+    "kompas",
+    "magnet",
+    "navigacija",
+    "orientacija"
+  ],
+  "computer_disk": [
+    "disk",
+    "minidisk",
+    "optično",
+    "računalnik"
+  ],
+  "computer_mouse": [
+    "računalnik",
+    "računalniška miška"
+  ],
+  "confetti_ball": [
+    "konfeti",
+    "krogla",
+    "slavje"
+  ],
+  "confounded_face": [
+    "obraz",
+    "zbegan obraz",
+    "zbegano"
+  ],
+  "confused": [
+    "obraz",
+    "zmeden obraz",
+    "zmedeno"
+  ],
+  "congo_brazzaville": [
+    "zastava"
+  ],
+  "congo_kinshasa": [
+    "zastava"
+  ],
+  "construction": [
+    "prepreka",
+    "zaprto zaradi gradnje"
+  ],
+  "construction_worker": [
+    "čepica",
+    "delavec",
+    "gradbenik",
+    "gradnja"
+  ],
+  "construction_worker_man": [
+    "delavec",
+    "fant",
+    "gradbeni delavec",
+    "gradbinec",
+    "gradbišče",
+    "moški"
+  ],
+  "construction_worker_woman": [
+    "dekle",
+    "delavka",
+    "gradbena delavka",
+    "gradbinka",
+    "gradbišče",
+    "ženska"
+  ],
+  "control_knobs": [
+    "glasba",
+    "gumbi",
+    "kontrolni gumbi",
+    "kontrolnik"
+  ],
+  "convenience_store": [
+    "hotel",
+    "komfort",
+    "trgovina",
+    "trgovina z mešanim blagom"
+  ],
+  "cook": [
+    "kuhar",
+    "kuharski mojster"
+  ],
+  "cook_islands": [
+    "zastava"
+  ],
+  "cooked_rice": [
+    "kuhan riž",
+    "kuhano",
+    "riž"
+  ],
+  "cookie": [
+    "piškot",
+    "posladek",
+    "sladko"
+  ],
+  "cooking": [
+    "cvrtje",
+    "jajce",
+    "kuhanje",
+    "ponev"
+  ],
+  "cool_button": [
+    "frajersko",
+    "gumb cool"
+  ],
+  "copyright": [
+    "avtorske pravice",
+    "c"
+  ],
+  "costa_rica": [
+    "zastava"
+  ],
+  "couch_and_lamp": [
+    "hotel",
+    "kavč",
+    "kavč in svetilka",
+    "svetilka"
+  ],
+  "counterclockwise_arrows_button": [
+    "gumb s puščicama, ki se ukrivljata v obratni smeri urinega kazalca",
+    "gumb s puščicama, ki se ukrivljata v obratni smeri urnega kazalca",
+    "nasprotna smer urinega kazalca",
+    "nazaj",
+    "puščica"
+  ],
+  "couple_with_heart": [
+    "ljubezen",
+    "par",
+    "par s srčkom",
+    "romanca",
+    "srce",
+    "moški",
+    "ženska"
+  ],
+  "couple_with_heart_man_man": [
+    "ljubezen",
+    "moški",
+    "par",
+    "par s srčkom",
+    "romanca",
+    "srce"
+  ],
+  "couple_with_heart_woman_woman": [
+    "ljubezen",
+    "par",
+    "par s srčkom",
+    "romanca",
+    "srce",
+    "ženska"
+  ],
+  "cow": [
+    "krava"
+  ],
+  "cow_face": [
+    "krava",
+    "kravji obraz",
+    "obraz"
+  ],
+  "cowboy_hat_face": [
+    "kavboj",
+    "klobuk",
+    "obraz s kavbojskim klobukom"
+  ],
+  "crab": [
+    "rak",
+    "rakovica",
+    "zodiak"
+  ],
+  "crayon": [
+    "barvica",
+    "voščenka"
+  ],
+  "credit_card": [
+    "banka",
+    "denar",
+    "kartica",
+    "kreditna kartica",
+    "kreditno"
+  ],
+  "crescent_moon": [
+    "krajec",
+    "luna",
+    "lunin srp",
+    "vesolje",
+    "vreme"
+  ],
+  "cricket": [
+    "muren"
+  ],
+  "cricket_game": [
+    "igra",
+    "kij",
+    "kriket",
+    "žogica"
+  ],
+  "croatia": [
+    "zastava"
+  ],
+  "crocodile": [
+    "krokodil"
+  ],
+  "croissant": [
+    "francoski",
+    "hrana",
+    "pecivo",
+    "rogljič"
+  ],
+  "cross_mark": [
+    "×",
+    "križec",
+    "množenje",
+    "množiti",
+    "oznaka",
+    "preklic",
+    "x"
+  ],
+  "cross_mark_button": [
+    "×",
+    "gumb s križcem",
+    "kvadrat",
+    "oznaka",
+    "x"
+  ],
+  "crossed_fingers": [
+    "prekrižani prsti",
+    "prsti",
+    "roka",
+    "sreča"
+  ],
+  "crossed_flags": [
+    "japonsko",
+    "križ",
+    "prekrižani zastavi",
+    "prekrižano",
+    "slavje"
+  ],
+  "crossed_swords": [
+    "meči",
+    "orožje",
+    "prekrižana meča",
+    "prekrižano"
+  ],
+  "crown": [
+    "kralj",
+    "kraljica",
+    "krona",
+    "oblačila"
+  ],
+  "cry": [
+    "jokajoči obraz",
+    "jokanje",
+    "obraz",
+    "solza",
+    "žalostno"
+  ],
+  "crying_cat": [
+    "jokajoča mačka",
+    "jokajoči mačji obraz",
+    "jokanje",
+    "mačka",
+    "obraz",
+    "solza",
+    "žalostno"
+  ],
+  "crystal_ball": [
+    "fantazija",
+    "kristalna",
+    "krogla",
+    "orodje",
+    "pravljica",
+    "prerokba"
+  ],
+  "cuba": [
+    "zastava"
+  ],
+  "cucumber": [
+    "hrana",
+    "kumara",
+    "zelenjava"
+  ],
+  "cup_with_straw": [
+    "kozarec s slamico"
+  ],
+  "cupcake": [
+    "kolaček",
+    "pekarna",
+    "posladek"
+  ],
+  "curaçao": [
+    "zastava"
+  ],
+  "curling_stone": [
+    "curling"
+  ],
+  "curly_loop": [
+    "pentlja",
+    "spirala",
+    "zanka",
+    "zavita pentlja"
+  ],
+  "currency_exchange": [
+    "banka",
+    "denar",
+    "menjava",
+    "menjava valut",
+    "valuta"
+  ],
+  "curry_rice": [
+    "kari",
+    "riž",
+    "riž s karijem"
+  ],
+  "custard": [
+    "posladek",
+    "puding",
+    "sladko",
+    "vanilijev puding"
+  ],
+  "customs": [
+    "carina",
+    "carinik"
+  ],
+  "cut_of_meat": [
+    "kos mesa"
+  ],
+  "cyclone": [
+    "ciklon",
+    "tajfun",
+    "tornado",
+    "vreme",
+    "vrtoglavica"
+  ],
+  "cyprus": [
+    "zastava"
+  ],
+  "czechia": [
+    "zastava"
+  ],
+  "côte_d_ivoire": [
+    "zastava"
+  ],
+  "dagger": [
+    "bodalo",
+    "nož",
+    "orožje"
+  ],
+  "dango": [
+    "japonsko",
+    "paličica",
+    "posladek",
+    "sladko",
+    "špila"
+  ],
+  "dashing_away": [
+    "strip",
+    "švigati",
+    "švigniti",
+    "tek"
+  ],
+  "date": [
+    "datum",
+    "koledar"
+  ],
+  "deaf_man": [
+    "gluh",
+    "moški"
+  ],
+  "deaf_person": [
+    "gluh",
+    "gluha oseba",
+    "invalid",
+    "sluh",
+    "uho"
+  ],
+  "deaf_woman": [
+    "gluha",
+    "ženska"
+  ],
+  "deciduous_tree": [
+    "drevo",
+    "listnato",
+    "odpadanje",
+    "rastlina"
+  ],
+  "deer": [
+    "jelen",
+    "žival"
+  ],
+  "delivery_truck": [
+    "dostavno",
+    "poltovornjak",
+    "vozilo"
+  ],
+  "denmark": [
+    "zastava"
+  ],
+  "department_store": [
+    "blago",
+    "trgovina",
+    "veleblagovnica",
+    "zgradba"
+  ],
+  "derelict_house": [
+    "hiša",
+    "zapuščena hiša",
+    "zapuščeno",
+    "zgradba"
+  ],
+  "desert": [
+    "puščava"
+  ],
+  "desert_island": [
+    "otok",
+    "puščava",
+    "samotni otok"
+  ],
+  "desktop_computer": [
+    "namizni računalnik",
+    "namizno",
+    "računalnik"
+  ],
+  "detective": [
+    "detektiv",
+    "preiskovalec",
+    "vohljač",
+    "vohun"
+  ],
+  "diamond_suit": [
+    "barva",
+    "kari igra",
+    "karo",
+    "karta"
+  ],
+  "diamond_with_a_dot": [
+    "geometrično",
+    "karo",
+    "karo s piko",
+    "strip",
+    "znotraj"
+  ],
+  "diego_garcia": [
+    "zastava"
+  ],
+  "dim_button": [
+    "gumb za zatemnitev",
+    "nizko",
+    "svetlost",
+    "zatemnitev"
+  ],
+  "disappointed_face": [
+    "obraz",
+    "razočaran obraz",
+    "razočarano"
+  ],
+  "disguised_face": [
+    "inkognito",
+    "maska",
+    "nos",
+    "obraz",
+    "očala",
+    "preobleka"
+  ],
+  "divide": [
+    "÷",
+    "deli",
+    "deljenje",
+    "matematika",
+    "znak",
+    "znak za deljenje"
+  ],
+  "diving_mask": [
+    "na dah",
+    "potapljanje",
+    "potapljaška maska",
+    "snorkljanje"
+  ],
+  "diya_lamp": [
+    "dyja",
+    "lučka",
+    "olje",
+    "oljna lučka",
+    "svetilka"
+  ],
+  "dizzy": [
+    "omotica",
+    "omotično",
+    "planeti",
+    "strip",
+    "zvezda"
+  ],
+  "djibouti": [
+    "zastava"
+  ],
+  "dna": [
+    "biolog",
+    "dnk",
+    "evolucija",
+    "gen",
+    "genetika",
+    "življenje"
+  ],
+  "dodo": [
+    "izumrtje",
+    "mavricij",
+    "velik"
+  ],
+  "dog": [
+    "domači ljubljenček",
+    "pes"
+  ],
+  "dog_face": [
+    "domači ljubljenček",
+    "obraz",
+    "pasji obraz",
+    "pes"
+  ],
+  "dollar_banknote": [
+    "apoen",
+    "banka",
+    "bankovec",
+    "denar",
+    "dolar",
+    "dolarski bankovec",
+    "valuta"
+  ],
+  "dolphin": [
+    "delfin",
+    "fliper"
+  ],
+  "dominica": [
+    "zastava"
+  ],
+  "dominican_republic": [
+    "zastava"
+  ],
+  "door": [
+    "vrata"
+  ],
+  "dotted_six_pointed_star": [
+    "šestkraka zvezda s piko",
+    "sreča",
+    "zvezda"
+  ],
+  "double_curly_loop": [
+    "dvojna zavita pentlja",
+    "dvojno",
+    "pentlja",
+    "spirala",
+    "zanka"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "dva klicaja",
+    "dvojni klicaj",
+    "klicaj",
+    "ločilo",
+    "znak"
+  ],
+  "doughnut": [
+    "krof",
+    "posladek",
+    "sladko"
+  ],
+  "dove": [
+    "golobica",
+    "leteti",
+    "mir",
+    "ptič"
+  ],
+  "down_arrow": [
+    "glavno",
+    "jug",
+    "navzdol",
+    "puščica",
+    "puščica dol",
+    "smer"
+  ],
+  "down_left_arrow": [
+    "jugozahod",
+    "puščica",
+    "puščica levo dol",
+    "smer",
+    "stransko"
+  ],
+  "down_right_arrow": [
+    "jugovzhod",
+    "puščica",
+    "puščica desno dol",
+    "smer",
+    "stransko"
+  ],
+  "downcast_face_with_sweat": [
+    "mrzlo",
+    "obraz",
+    "obraz z mrzlim potom",
+    "pot"
+  ],
+  "downwards_button": [
+    "gumb",
+    "gumb za dol",
+    "navzdol",
+    "puščica",
+    "rdeče"
+  ],
+  "dragon": [
+    "pravljica",
+    "zmaj"
+  ],
+  "dragon_face": [
+    "obraz",
+    "pravljica",
+    "zmaj",
+    "zmajski obraz"
+  ],
+  "dress": [
+    "oblačila",
+    "ženska obleka"
+  ],
+  "drooling_face": [
+    "obraz",
+    "obraz, ki se slini",
+    "slinjenje"
+  ],
+  "drop_of_blood": [
+    "kaplja krvi",
+    "krvodajalstvo",
+    "medicina",
+    "menstruacija",
+    "zdravstvo"
+  ],
+  "droplet": [
+    "kaplja",
+    "kapljica",
+    "mrzlo",
+    "pot",
+    "strip",
+    "vreme"
+  ],
+  "drum": [
+    "boben",
+    "glasba",
+    "tolkalo"
+  ],
+  "duck": [
+    "ptica",
+    "raca"
+  ],
+  "dumpling": [
+    "cmok"
+  ],
+  "dvd": [
+    "blu-ray",
+    "cd",
+    "disk",
+    "optično",
+    "računalnik"
+  ],
+  "e_mail": [
+    "e-pošta",
+    "elektronska pošta",
+    "pismo",
+    "pošta"
+  ],
+  "eagle": [
+    "orel",
+    "ptica"
+  ],
+  "ear": [
+    "telo",
+    "uho"
+  ],
+  "ear_of_corn": [
+    "klas",
+    "koruza",
+    "koruzni storž",
+    "rastlina"
+  ],
+  "ear_with_hearing_aid": [
+    "naglušni",
+    "okvara sluha",
+    "uho s slušnim aparatom"
+  ],
+  "ecuador": [
+    "zastava"
+  ],
+  "egg": [
+    "hrana",
+    "jajca",
+    "jajce"
+  ],
+  "eggplant": [
+    "jajčevec",
+    "rastlina",
+    "zelenjava"
+  ],
+  "egypt": [
+    "zastava"
+  ],
+  "eight": [
+    "keycap"
+  ],
+  "eight_o_clock": [
+    "00",
+    "8",
+    "8.00",
+    "osem",
+    "ura",
+    "ura je osem"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "osemkraka zvezda",
+    "zvezda"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "zvezdica",
+    "zvezdica z osmimi špicami"
+  ],
+  "eight_thirty": [
+    "30",
+    "8",
+    "8.30",
+    "devet",
+    "osem",
+    "pol",
+    "pol devetih",
+    "ura"
+  ],
+  "eject_button": [
+    "gumb za izvrženje",
+    "izvrženje"
+  ],
+  "el_salvador": [
+    "zastava"
+  ],
+  "electric_plug": [
+    "električni vtikač",
+    "električno",
+    "elektrika",
+    "vtikač"
+  ],
+  "elephant": [
+    "slon"
+  ],
+  "elevator": [
+    "dostopnost",
+    "dvigalo",
+    "lift"
+  ],
+  "eleven_o_clock": [
+    "00",
+    "11",
+    "11.00",
+    "enajst",
+    "ura",
+    "ura je enajst"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11.30",
+    "30",
+    "dvanajst",
+    "enajst",
+    "pol",
+    "pol dvanajstih",
+    "ura"
+  ],
+  "elf": [
+    "čarovnija",
+    "škrati",
+    "vilin"
+  ],
+  "end_arrow": [
+    "konec",
+    "puščica"
+  ],
+  "england": [
+    "zastava"
+  ],
+  "enraged_face": [
+    "besno",
+    "gnev",
+    "jezno",
+    "kujanje",
+    "obraz",
+    "obraz, ki kuha mulo",
+    "rdeče"
+  ],
+  "envelope": [
+    "e-pošta",
+    "ovojnica"
+  ],
+  "envelope_with_arrow": [
+    "e-pošta",
+    "elektronska pošta",
+    "kuverta",
+    "navzdol",
+    "odhodno",
+    "ovojnica s puščico",
+    "pismo",
+    "poslano",
+    "pošta",
+    "puščica"
+  ],
+  "equatorial_guinea": [
+    "zastava"
+  ],
+  "eritrea": [
+    "zastava"
+  ],
+  "estonia": [
+    "zastava"
+  ],
+  "eswatini": [
+    "zastava"
+  ],
+  "ethiopia": [
+    "zastava"
+  ],
+  "euro_banknote": [
+    "apoen",
+    "banka",
+    "bankovec",
+    "denar",
+    "evro",
+    "evrski bankovec",
+    "valuta"
+  ],
+  "european_union": [
+    "zastava"
+  ],
+  "evergreen_tree": [
+    "drevo",
+    "rastlina",
+    "zimzeleno drevo"
+  ],
+  "ewe": [
+    "ovca",
+    "ovčka"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "klicaj",
+    "klicaj in vprašaj",
+    "klicaj-vprašaj",
+    "ločilo",
+    "vprašaj",
+    "znak"
+  ],
+  "exploding_head": [
+    "eksplozija v glavi"
+  ],
+  "expressionless_face": [
+    "brezizrazni obraz",
+    "brezizrazno",
+    "neprizadeto",
+    "obraz",
+    "prazno"
+  ],
+  "eye": [
+    "oko",
+    "telo"
+  ],
+  "eye_in_speech_bubble": [
+    "dialog",
+    "oblaček z govorom",
+    "oko",
+    "oko v oblačku z govorom",
+    "priča"
+  ],
+  "eyes": [
+    "obraz",
+    "oči",
+    "telo"
+  ],
+  "face_blowing_a_kiss": [
+    "obraz",
+    "obraz, ki pošlje ljubčka",
+    "poljub",
+    "srce"
+  ],
+  "face_savoring_food": [
+    "nasmeh",
+    "njam",
+    "obraz",
+    "obraz, ki z užitkom pomalica okusno hrano",
+    "okušanje",
+    "slastno"
+  ],
+  "face_vomiting": [
+    "obraz, ki bruha"
+  ],
+  "face_with_crossed_out_eyes": [
+    "obraz",
+    "omotičen obraz",
+    "omotično"
+  ],
+  "face_with_hand_over_mouth": [
+    "obraz z roko čez usta"
+  ],
+  "face_with_head_bandage": [
+    "obraz",
+    "obraz, obvezan s povojem",
+    "poškodba",
+    "poškodovano",
+    "povoj"
+  ],
+  "face_with_medical_mask": [
+    "bolno",
+    "maska",
+    "obraz",
+    "obraz z medicinsko masko",
+    "prehlad",
+    "zdravilo",
+    "zdravnik"
+  ],
+  "face_with_monocle": [
+    "obraz z monoklom"
+  ],
+  "face_with_raised_eyebrow": [
+    "obraz z dvignjenimi obrvmi"
+  ],
+  "face_with_steam_from_nose": [
+    "obraz",
+    "obraz s paro skozi nos",
+    "zmaga",
+    "zmagoslavje"
+  ],
+  "face_with_symbols_on_mouth": [
+    "obraz, ki kolne"
+  ],
+  "face_with_thermometer": [
+    "bolno",
+    "obraz",
+    "obraz s termometrom",
+    "slabotno",
+    "termometer"
+  ],
+  "face_with_tongue": [
+    "jezik",
+    "obraz",
+    "obraz z molečim jezikom"
+  ],
+  "face_without_mouth": [
+    "molčeče",
+    "obraz",
+    "obraz brez ust",
+    "tiho",
+    "usta"
+  ],
+  "factory": [
+    "tovarna",
+    "zgradba"
+  ],
+  "factory_worker": [
+    "delavec",
+    "industrijski",
+    "tekoči trak",
+    "tovarna",
+    "tovarniški delavec"
+  ],
+  "fairy": [
+    "vilinsko bitje"
+  ],
+  "falafel": [
+    "čičerika",
+    "kroglica"
+  ],
+  "falkland_islands": [
+    "zastava"
+  ],
+  "fallen_leaf": [
+    "list",
+    "padanje",
+    "padlo listje",
+    "rastlina"
+  ],
+  "family": [
+    "družina",
+    "mati",
+    "oče",
+    "otrok"
+  ],
+  "family_man_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_boy_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_girl_boy": [
+    "dekle",
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_girl_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_man_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_man_boy_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_man_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_man_girl_boy": [
+    "dekle",
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_man_girl_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok"
+  ],
+  "family_man_woman_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_man_woman_boy_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_man_woman_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_man_woman_girl_boy": [
+    "dekle",
+    "družina",
+    "fant",
+    "mati",
+    "moški",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_man_woman_girl_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "moški",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_boy_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_girl_boy": [
+    "dekle",
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_girl_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_woman_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_woman_boy_boy": [
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_woman_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_woman_girl_boy": [
+    "dekle",
+    "družina",
+    "fant",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "family_woman_woman_girl_girl": [
+    "dekle",
+    "družina",
+    "mati",
+    "oče",
+    "otrok",
+    "ženska"
+  ],
+  "farmer": [
+    "kmet",
+    "vrtnar",
+    "živinorejec"
+  ],
+  "faroe_islands": [
+    "zastava"
+  ],
+  "fast_down_button": [
+    "dvojno",
+    "gumb za hitro dol",
+    "navzdol",
+    "puščica"
+  ],
+  "fast_forward_button": [
+    "dvojno",
+    "gumb za hitro previjanje naprej",
+    "hitro",
+    "naprej",
+    "puščica"
+  ],
+  "fast_reverse_button": [
+    "dvojno",
+    "gumb za hitro previjanje nazaj",
+    "previjanje nazaj",
+    "puščica"
+  ],
+  "fast_up_button": [
+    "dvojno",
+    "gumb za hitro gor",
+    "puščica"
+  ],
+  "fax_machine": [
+    "faks",
+    "telefaks"
+  ],
+  "fearful": [
+    "bojazljiv obraz",
+    "obraz",
+    "preplašeno",
+    "prestrašeno",
+    "strah"
+  ],
+  "feather": [
+    "lahek",
+    "letenje",
+    "perje",
+    "pero",
+    "ptica"
+  ],
+  "female_sign": [
+    "dekle",
+    "ženska",
+    "znak za ženski spol"
+  ],
+  "ferris_wheel": [
+    "lunapark",
+    "panoramsko kolo"
+  ],
+  "ferry": [
+    "ladja",
+    "trajekt"
+  ],
+  "field_hockey": [
+    "hokej",
+    "hokej na travi",
+    "igra",
+    "palica",
+    "polje",
+    "žogica"
+  ],
+  "fiji": [
+    "zastava"
+  ],
+  "file_cabinet": [
+    "predalnik",
+    "predalnik za dokumente",
+    "spis"
+  ],
+  "file_folder": [
+    "mapa",
+    "mapa za spise",
+    "spis"
+  ],
+  "film_frames": [
+    "film",
+    "filmski trak",
+    "kino",
+    "sličice"
+  ],
+  "film_projector": [
+    "film",
+    "filmski projektor",
+    "kino",
+    "projektor",
+    "video"
+  ],
+  "finland": [
+    "zastava"
+  ],
+  "fire": [
+    "ogenj",
+    "orodje",
+    "plamen"
+  ],
+  "fire_engine": [
+    "avto",
+    "gasilsko",
+    "požar",
+    "vozilo"
+  ],
+  "fire_extinguisher": [
+    "gašenje",
+    "gasilni aparat",
+    "ogenj",
+    "pogasiti"
+  ],
+  "firecracker": [
+    "dinamit",
+    "eksploziv",
+    "ognjemet",
+    "petarda"
+  ],
+  "firefighter": [
+    "gasilec",
+    "gasilni avto",
+    "poklicni gasilec"
+  ],
+  "fireworks": [
+    "ognjemet",
+    "slavje"
+  ],
+  "first_quarter_moon": [
+    "četrt",
+    "luna",
+    "polovično osvetljena luna v prvem krajcu",
+    "vesolje",
+    "vreme"
+  ],
+  "first_quarter_moon_face": [
+    "četrt",
+    "luna",
+    "obraz",
+    "polovično osvetljena luna v prvem krajcu z obrazom",
+    "vesolje",
+    "vreme"
+  ],
+  "fish": [
+    "riba",
+    "ribi",
+    "zodiak"
+  ],
+  "fish_cake_with_swirl": [
+    "kolač",
+    "pecivo",
+    "riba",
+    "ribji kolač s spiralo",
+    "spirala"
+  ],
+  "fishing_pole": [
+    "palica",
+    "riba",
+    "ribiška palica"
+  ],
+  "five": [
+    "keycap"
+  ],
+  "five_o_clock": [
+    "00",
+    "5",
+    "5.00",
+    "pet",
+    "ura",
+    "ura je pet"
+  ],
+  "five_thirty": [
+    "30",
+    "5",
+    "5.30",
+    "pet",
+    "pol",
+    "pol šestih",
+    "šest",
+    "ura"
+  ],
+  "flamingo": [
+    "nastopaški",
+    "tropski",
+    "vpadljiv"
+  ],
+  "flashlight": [
+    "električno",
+    "luč",
+    "orodje",
+    "svetilka"
+  ],
+  "flat_shoe": [
+    "balerinke",
+    "balernike",
+    "brez pete",
+    "natakniti"
+  ],
+  "flatbread": [
+    "arepa",
+    "indijski kruh",
+    "lavaš",
+    "naan",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "lilija"
+  ],
+  "flexed_biceps": [
+    "biceps",
+    "mišica",
+    "napenjati",
+    "napeti bicepsi",
+    "strip",
+    "telo"
+  ],
+  "floppy_disk": [
+    "disk",
+    "disketa",
+    "računalnik"
+  ],
+  "flower_playing_cards": [
+    "igra",
+    "igranje",
+    "japonsko",
+    "karta",
+    "roža",
+    "rožne igralne karte"
+  ],
+  "flushed_face": [
+    "obraz",
+    "zardeli obraz",
+    "zardelo",
+    "zmedeno"
+  ],
+  "fly": [
+    "bolezen",
+    "domača muha",
+    "gnitje",
+    "ličinka",
+    "muha",
+    "muha cece",
+    "obad"
+  ],
+  "flying_disc": [
+    "frizbi",
+    "najboljši"
+  ],
+  "flying_saucer": [
+    "leteči krožnik"
+  ],
+  "fog": [
+    "megla",
+    "oblak",
+    "vreme"
+  ],
+  "foggy": [
+    "megla",
+    "megleno",
+    "vreme"
+  ],
+  "folded_hands": [
+    "gesta",
+    "hvala",
+    "moliti",
+    "predklon",
+    "prosim",
+    "prositi",
+    "roka",
+    "sklenjeno",
+    "staknjeni dlani",
+    "telo"
+  ],
+  "fondue": [
+    "čokolada",
+    "fondi",
+    "lonček",
+    "sir",
+    "stopljena",
+    "švicarski"
+  ],
+  "foot": [
+    "brca",
+    "stopalo",
+    "topot"
+  ],
+  "footprints": [
+    "oblačila",
+    "odtis",
+    "stopinja",
+    "stopinje",
+    "telo"
+  ],
+  "fork_and_knife": [
+    "kuhanje",
+    "nož",
+    "vilice",
+    "vilice in nož"
+  ],
+  "fork_and_knife_with_plate": [
+    "krožnik",
+    "kuhanje",
+    "nož",
+    "vilice",
+    "vilice, nož in krožnik"
+  ],
+  "fortune_cookie": [
+    "piškotek sreče"
+  ],
+  "fountain": [
+    "fontana",
+    "vodnjak"
+  ],
+  "fountain_pen": [
+    "nalivnik",
+    "pero"
+  ],
+  "four": [
+    "keycap"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "detelja",
+    "list",
+    "rastlina",
+    "štiri",
+    "štiriperesna deteljica"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4.00",
+    "štiri",
+    "ura",
+    "ura je štiri"
+  ],
+  "four_thirty": [
+    "30",
+    "4",
+    "4.30",
+    "pet",
+    "pol",
+    "pol petih",
+    "štiri",
+    "ura"
+  ],
+  "fox": [
+    "lisica",
+    "obraz"
+  ],
+  "framed_picture": [
+    "muzej",
+    "okvir",
+    "risba",
+    "slika",
+    "umetnost",
+    "uokvirjena slika"
+  ],
+  "france": [
+    "zastava"
+  ],
+  "free_button": [
+    "gumb free",
+    "prosto"
+  ],
+  "french_fries": [
+    "krompirček",
+    "ocvrt krompirček",
+    "pomfrit"
+  ],
+  "french_guiana": [
+    "zastava"
+  ],
+  "french_polynesia": [
+    "zastava"
+  ],
+  "french_southern_territories": [
+    "zastava"
+  ],
+  "fried_shrimp": [
+    "kozica",
+    "ocvrt rakec",
+    "ocvrto",
+    "rakec",
+    "tempura"
+  ],
+  "frog": [
+    "obraz",
+    "žaba"
+  ],
+  "front_facing_baby_chick": [
+    "mladič",
+    "piščanček",
+    "piščanček, gleda naprej"
+  ],
+  "frowning": [
+    "mrščenje",
+    "namrščen obraz",
+    "obraz"
+  ],
+  "frowning_face_with_open_mouth": [
+    "namrščen obraz z odprtimi usti",
+    "namrščenost",
+    "obraz",
+    "odprto",
+    "usta"
+  ],
+  "fu": [
+    "dlan",
+    "kazati",
+    "prst",
+    "sredinec",
+    "telo"
+  ],
+  "fuel_pump": [
+    "bencin",
+    "črpalka",
+    "črpalka za gorivo",
+    "gorivo",
+    "servis"
+  ],
+  "full_moon": [
+    "luna",
+    "polna luna",
+    "polno",
+    "vesolje",
+    "vreme"
+  ],
+  "full_moon_face": [
+    "luna",
+    "obraz",
+    "polna luna z obrazom",
+    "polno",
+    "svetlo",
+    "vesolje",
+    "vreme"
+  ],
+  "funeral_urn": [
+    "pogreb",
+    "smrt",
+    "žara"
+  ],
+  "gabon": [
+    "zastava"
+  ],
+  "gambia": [
+    "zastava"
+  ],
+  "game_die": [
+    "igra",
+    "igralna kocka",
+    "kocka"
+  ],
+  "garlic": [
+    "aromatično",
+    "česen",
+    "dišavnica",
+    "začimba"
+  ],
+  "gear": [
+    "orodje",
+    "zobnik"
+  ],
+  "gem_stone": [
+    "diamant",
+    "dragi kamen",
+    "dragulj",
+    "romanca"
+  ],
+  "gemini": [
+    "dvojčka",
+    "zodiak"
+  ],
+  "genie": [
+    "duh iz steklenice"
+  ],
+  "georgia": [
+    "zastava"
+  ],
+  "germany": [
+    "zastava"
+  ],
+  "ghana": [
+    "zastava"
+  ],
+  "ghost": [
+    "bitje",
+    "duh",
+    "fantazija",
+    "obraz",
+    "pošast",
+    "pravljica"
+  ],
+  "gibraltar": [
+    "zastava"
+  ],
+  "giraffe": [
+    "žirafa"
+  ],
+  "girl": [
+    "dekle",
+    "devica",
+    "zodiak"
+  ],
+  "glass_of_milk": [
+    "kozarec",
+    "kozarec mleka",
+    "mleko",
+    "pijača"
+  ],
+  "glasses": [
+    "oblačila",
+    "očala",
+    "oči"
+  ],
+  "globe_showing_americas": [
+    "ameriki",
+    "globus",
+    "globus s severno in južno ameriko",
+    "svet",
+    "zemlja"
+  ],
+  "globe_showing_asia_australia": [
+    "avstralija",
+    "azija",
+    "globus",
+    "globus z azijo in avstralijo",
+    "svet",
+    "zemlja"
+  ],
+  "globe_showing_europe_africa": [
+    "afrika",
+    "evropa",
+    "globus",
+    "globus z evropo in afriko",
+    "svet",
+    "zemlja"
+  ],
+  "globe_with_meridians": [
+    "globus",
+    "globus s poldnevniki",
+    "poldnevniki",
+    "svet",
+    "zemlja"
+  ],
+  "gloves": [
+    "rokavice"
+  ],
+  "glowing_star": [
+    "bleščeče",
+    "lesketanje",
+    "sijanje",
+    "žar",
+    "žareča zvezda",
+    "zvezda"
+  ],
+  "goal_net": [
+    "gol",
+    "mreža",
+    "šport"
+  ],
+  "goat": [
+    "koza",
+    "kozorog",
+    "zodiak"
+  ],
+  "goblin": [
+    "bitje",
+    "fantazija",
+    "japonsko",
+    "obraz",
+    "pošast",
+    "pravljica",
+    "škratelj"
+  ],
+  "goggles": [
+    "plavanje",
+    "varjenje",
+    "zaščita oči",
+    "zaščitna očala"
+  ],
+  "gorilla": [
+    "gorila",
+    "žival"
+  ],
+  "graduation_cap": [
+    "kapa",
+    "klobuk",
+    "matura",
+    "maturantska kapa",
+    "oblačila",
+    "slavje"
+  ],
+  "grapes": [
+    "grozd",
+    "grozdje",
+    "rastlina",
+    "sadje"
+  ],
+  "greece": [
+    "zastava"
+  ],
+  "green_apple": [
+    "jabolko",
+    "rastlina",
+    "sadje",
+    "zeleno"
+  ],
+  "green_book": [
+    "knjiga",
+    "zelena knjiga",
+    "zeleno"
+  ],
+  "green_circle": [
+    "krog",
+    "zelen"
+  ],
+  "green_heart": [
+    "srce",
+    "zeleno"
+  ],
+  "green_salad": [
+    "hrana",
+    "solata",
+    "zelena"
+  ],
+  "green_square": [
+    "kvadrat",
+    "zelen"
+  ],
+  "greenland": [
+    "zastava"
+  ],
+  "grenada": [
+    "zastava"
+  ],
+  "grimacing": [
+    "grimasa",
+    "obraz",
+    "spačen obraz"
+  ],
+  "grin": [
+    "nasmeh",
+    "obraz",
+    "oči",
+    "režanje",
+    "režeči obraz s smejočimi očmi"
+  ],
+  "grinning_cat": [
+    "mačka",
+    "nasmeh",
+    "obraz",
+    "odprta",
+    "režeča se mačka",
+    "smeh",
+    "usta"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "mačka",
+    "nasmeh",
+    "obraz",
+    "oko",
+    "režanje",
+    "režeča se mačka s smejočimi očmi"
+  ],
+  "grinning_face": [
+    "obraz",
+    "režanje",
+    "režeči obraz"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "nasmeh",
+    "obraz",
+    "oči",
+    "odprto",
+    "smejoči obraz z odprtimi usti in smejočimi očmi",
+    "usta"
+  ],
+  "growing_heart": [
+    "rastoče",
+    "srce",
+    "srčni utrip",
+    "vznemirjeno",
+    "živčno"
+  ],
+  "guadeloupe": [
+    "zastava"
+  ],
+  "guam": [
+    "zastava"
+  ],
+  "guard": [
+    "stražar",
+    "stražar, čuvaj"
+  ],
+  "guatemala": [
+    "zastava"
+  ],
+  "guernsey": [
+    "zastava"
+  ],
+  "guide_dog": [
+    "pes vodnik",
+    "slepi",
+    "vodnik"
+  ],
+  "guinea": [
+    "zastava"
+  ],
+  "guinea_bissau": [
+    "zastava"
+  ],
+  "guitar": [
+    "glasba",
+    "glasbilo",
+    "kitara"
+  ],
+  "guyana": [
+    "zastava"
+  ],
+  "haiti": [
+    "zastava"
+  ],
+  "hammer": [
+    "kladivo",
+    "orodje"
+  ],
+  "hammer_and_pick": [
+    "kladivo",
+    "kladivo in kramp",
+    "kramp",
+    "orodje"
+  ],
+  "hammer_and_wrench": [
+    "kladivo",
+    "kladivo in ključ",
+    "ključ",
+    "orodje"
+  ],
+  "hamster": [
+    "domači ljubljenček",
+    "hrček",
+    "obraz"
+  ],
+  "hand_with_fingers_splayed": [
+    "dlan",
+    "dvignjena dlan z razprtimi prsti",
+    "prst",
+    "razprto",
+    "telo"
+  ],
+  "handbag": [
+    "oblačila",
+    "ročna torbica",
+    "torbica"
+  ],
+  "handshake": [
+    "roka",
+    "rokovanje",
+    "sporazum",
+    "srečanje"
+  ],
+  "hash": [
+    "keycap"
+  ],
+  "hatching_chick": [
+    "mladič",
+    "piščanček",
+    "pišče, ki se izvali",
+    "valjenje"
+  ],
+  "headphone": [
+    "slušalka",
+    "ušesna slušalka"
+  ],
+  "headstone": [
+    "grob",
+    "grobovi",
+    "nagrobnik",
+    "pokopališče",
+    "spomenik"
+  ],
+  "health_worker": [
+    "medicinska sestra",
+    "terapevt",
+    "zdravnik",
+    "zdravstveni delavci",
+    "zdravstvo"
+  ],
+  "hear_no_evil_monkey": [
+    "gesta",
+    "ne",
+    "obraz",
+    "opica",
+    "opica, ki ne sliši ničesar",
+    "prepovedano",
+    "slišati",
+    "zlobno"
+  ],
+  "heard_mcdonald_islands": [
+    "zastava"
+  ],
+  "heart": [
+    "rdeče srce",
+    "srce"
+  ],
+  "heart_decoration": [
+    "okrasje s srcem",
+    "srce"
+  ],
+  "heart_exclamation": [
+    "klicaj",
+    "klicaj v obliki srca",
+    "ločilo",
+    "srce",
+    "znak"
+  ],
+  "heart_eyes": [
+    "ljubezen",
+    "nasmeh",
+    "obraz",
+    "oči",
+    "smejoči obraz z očmi v obliki srčka",
+    "srce"
+  ],
+  "heart_suit": [
+    "barva",
+    "igra",
+    "karta",
+    "srca",
+    "srce"
+  ],
+  "heart_with_arrow": [
+    "kupid",
+    "puščica",
+    "romanca",
+    "srce",
+    "srce s puščico"
+  ],
+  "heart_with_ribbon": [
+    "pentlja",
+    "srce",
+    "srce s pentljo",
+    "valentin"
+  ],
+  "heavy_dollar_sign": [
+    "denar",
+    "dolar",
+    "valuta",
+    "znak za dolar"
+  ],
+  "hedgehog": [
+    "jež"
+  ],
+  "helicopter": [
+    "helikopter",
+    "vozilo"
+  ],
+  "herb": [
+    "list",
+    "rastlina",
+    "zelišče"
+  ],
+  "hibiscus": [
+    "hibiskus",
+    "rastlina",
+    "roža"
+  ],
+  "high_heeled_shoe": [
+    "čevelj",
+    "čevelj z visoko peto",
+    "oblačila",
+    "peta",
+    "ženska"
+  ],
+  "high_speed_train": [
+    "hitri vlak",
+    "hitrost",
+    "shinkansen",
+    "vlak",
+    "vozilo",
+    "železnica"
+  ],
+  "high_voltage": [
+    "električno",
+    "elektrika",
+    "napetost",
+    "nevarnost",
+    "strela",
+    "sunek",
+    "visoka napetost"
+  ],
+  "hiking_boot": [
+    "čevelj",
+    "kampiranje",
+    "planinarjenje",
+    "pohodniški čevelj",
+    "pohodništvo"
+  ],
+  "hindu_temple": [
+    "hindu",
+    "hindujski tempelj",
+    "tempelj"
+  ],
+  "hippopotamus": [
+    "hipo",
+    "povodni konj"
+  ],
+  "hole": [
+    "luknja"
+  ],
+  "hollow_red_circle": [
+    "krog",
+    "o",
+    "rdeč",
+    "velik",
+    "velik prazen krog"
+  ],
+  "honduras": [
+    "zastava"
+  ],
+  "honey_pot": [
+    "kozarec za med",
+    "lonček",
+    "med",
+    "sladko",
+    "vrč medu"
+  ],
+  "honeybee": [
+    "čebela",
+    "žuželka"
+  ],
+  "hong_kong_sar_china": [
+    "zastava"
+  ],
+  "hook": [
+    "kavelj",
+    "kljuka",
+    "krivuljnik",
+    "prednost",
+    "zanka",
+    "zaponka"
+  ],
+  "horizontal_traffic_light": [
+    "luč",
+    "promet",
+    "semafor",
+    "vodoravni semafor"
+  ],
+  "horse": [
+    "dirkanje",
+    "konj",
+    "konjske dirke"
+  ],
+  "horse_face": [
+    "konj",
+    "konjev obraz",
+    "obraz"
+  ],
+  "horse_racing": [
+    "dirkalni konj",
+    "dirkanje",
+    "džokej",
+    "konj",
+    "konjske dirke"
+  ],
+  "hospital": [
+    "bolnišnica",
+    "zdravilo",
+    "zdravnik",
+    "zgradba"
+  ],
+  "hot_beverage": [
+    "čaj",
+    "kava",
+    "napitek",
+    "piti",
+    "vrelo",
+    "vroč napitek",
+    "vroče"
+  ],
+  "hot_dog": [
+    "hrenovka"
+  ],
+  "hot_face": [
+    "poten",
+    "rdeč obraz",
+    "vroč obraz",
+    "vroče",
+    "vročina",
+    "vročinska kap"
+  ],
+  "hot_pepper": [
+    "feferon",
+    "paprika",
+    "pekoče"
+  ],
+  "hot_springs": [
+    "izvir",
+    "termalni vrelec",
+    "vrelec",
+    "vrelo",
+    "vroče"
+  ],
+  "hotel": [
+    "zgradba"
+  ],
+  "hourglass_done": [
+    "časovnik",
+    "peščena ura",
+    "pesek"
+  ],
+  "hourglass_not_done": [
+    "časovnik",
+    "peščena ura",
+    "peščena ura, ki teče",
+    "pesek"
+  ],
+  "house": [
+    "dom",
+    "hiša",
+    "zgradba"
+  ],
+  "house_with_garden": [
+    "dom",
+    "hiša",
+    "hiša z vrtom",
+    "vrt",
+    "zgradba"
+  ],
+  "houses": [
+    "hiša",
+    "hiše",
+    "zgradba"
+  ],
+  "hugs": [
+    "objem",
+    "objemanje",
+    "obraz",
+    "obraz, ki objema"
+  ],
+  "hungary": [
+    "zastava"
+  ],
+  "hushed_face": [
+    "obraz",
+    "osupljen obraz",
+    "osuplo",
+    "presenečeno",
+    "tiho"
+  ],
+  "hut": [
+    "hiša",
+    "jurta",
+    "koča",
+    "okrogla hiša"
+  ],
+  "ice": [
+    "hladno",
+    "ledena kocka",
+    "ledeno",
+    "ohladitev"
+  ],
+  "ice_cream": [
+    "krema",
+    "led",
+    "posladek",
+    "sladko",
+    "sladoled"
+  ],
+  "ice_hockey": [
+    "hokej",
+    "hokejska palica in plošček",
+    "igra",
+    "led",
+    "palica",
+    "plošček"
+  ],
+  "ice_skate": [
+    "drsalka",
+    "drsati",
+    "led"
+  ],
+  "iceland": [
+    "zastava"
+  ],
+  "id_button": [
+    "gumb id",
+    "id",
+    "identiteta"
+  ],
+  "in_hole": [
+    "golf",
+    "luknja",
+    "zastavica v luknji"
+  ],
+  "inbox_tray": [
+    "dohodna pošta",
+    "nabiralnik",
+    "pismo",
+    "pladenj",
+    "pladenj za dohodno pošto",
+    "pošta",
+    "prejeti"
+  ],
+  "incoming_envelope": [
+    "dohodna ovojnica",
+    "dohodno",
+    "e-pošta",
+    "elektronska pošta",
+    "pismo",
+    "pošta",
+    "prejeti"
+  ],
+  "index_pointing_up": [
+    "dlan",
+    "gor",
+    "kazalec",
+    "kazalec, ki kaže gor",
+    "kazati",
+    "prst",
+    "telo"
+  ],
+  "india": [
+    "zastava"
+  ],
+  "indonesia": [
+    "zastava"
+  ],
+  "infinity": [
+    "neomejeno",
+    "neskončnost",
+    "univerzalno",
+    "večno"
+  ],
+  "information_source": [
+    "i",
+    "informacije",
+    "vir informacij"
+  ],
+  "innocent": [
+    "angel",
+    "avra",
+    "fantazija",
+    "nasmeh",
+    "nedolžno",
+    "obraz",
+    "pravljica",
+    "smejoči obraz s svetniškim sijem"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "abeceda",
+    "črke",
+    "latinica",
+    "vnos",
+    "vnos črk latinice"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "črke",
+    "latinica",
+    "male črke",
+    "vnos",
+    "vnos malih črk latinice"
+  ],
+  "input_latin_uppercase": [
+    "črke",
+    "latinica",
+    "velike črke",
+    "vnos",
+    "vnos velikih črk latinice"
+  ],
+  "input_symbols": [
+    "vnos",
+    "vnos simbolov"
+  ],
+  "iran": [
+    "zastava"
+  ],
+  "iraq": [
+    "zastava"
+  ],
+  "ireland": [
+    "zastava"
+  ],
+  "isle_of_man": [
+    "zastava"
+  ],
+  "israel": [
+    "zastava"
+  ],
+  "italy": [
+    "zastava"
+  ],
+  "jack_o_lantern": [
+    "buča",
+    "izrezljana buča",
+    "laterna",
+    "noč čarovnic",
+    "slavje"
+  ],
+  "jamaica": [
+    "zastava"
+  ],
+  "japan": [
+    "zastava"
+  ],
+  "japanese_acceptable_button": [
+    "gumb za »sprejemljivo« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "sprejemljivo"
+  ],
+  "japanese_application_button": [
+    "gumb za »aplikacija« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "uporaba"
+  ],
+  "japanese_bargain_button": [
+    "gumb za »ugodno« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "ugoden nakup"
+  ],
+  "japanese_castle": [
+    "grad",
+    "japonski grad",
+    "japonsko",
+    "zgradba"
+  ],
+  "japanese_congratulations_button": [
+    "čestitka",
+    "čestitke",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak za čestitanje v krogu"
+  ],
+  "japanese_discount_button": [
+    "gumb za »popust« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "popust"
+  ],
+  "japanese_dolls": [
+    "festival",
+    "japonski lutki",
+    "japonsko",
+    "lutka",
+    "slavje"
+  ],
+  "japanese_free_of_charge_button": [
+    "brezplačno",
+    "gumb za »brezplačno« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak"
+  ],
+  "japanese_here_button": [
+    "gumb za »tukaj« v japonščini",
+    "japonsko",
+    "katakana",
+    "pisava",
+    "tukaj"
+  ],
+  "japanese_monthly_amount_button": [
+    "ideogram",
+    "japonski znak za \"mesečni znesek\"",
+    "japonski znak za \"mesečni znesek\" v kvadratu",
+    "japonsko",
+    "mesečni znesek",
+    "pojmovni znak"
+  ],
+  "japanese_no_vacancy_button": [
+    "gumb za »ni prosto« v japonščini",
+    "ideogram",
+    "japonsko",
+    "ni prosto",
+    "pojmovni znak",
+    "zasedeno"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "gumb za »ni brezplačno« v japonščini",
+    "ideogram",
+    "japonsko",
+    "ni brezplačno",
+    "plačljivo",
+    "pojmovni znak"
+  ],
+  "japanese_open_for_business_button": [
+    "gumb za »odprto« v japonščini",
+    "ideogram",
+    "japonsko",
+    "odprto za poslovanje",
+    "pojmovni znak"
+  ],
+  "japanese_passing_grade_button": [
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "pojmovni znak za skupaj v kvadratu",
+    "zadostna ocena",
+    "zadostni uspeh"
+  ],
+  "japanese_post_office": [
+    "japonska pošta",
+    "japonsko",
+    "pošta",
+    "zgradba"
+  ],
+  "japanese_prohibited_button": [
+    "gumb za »prepovedano« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "prepovedano"
+  ],
+  "japanese_reserved_button": [
+    "gumb za »rezervirano« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "rezervirano"
+  ],
+  "japanese_secret_button": [
+    "ideogram",
+    "japonsko",
+    "pojmovni znak za skrivnost v krogu",
+    "skrivnost"
+  ],
+  "japanese_service_charge_button": [
+    "japonski znak za \"napitnino\" v kvadratu",
+    "japonsko",
+    "katakana",
+    "napitnina",
+    "pisava",
+    "postrežnina"
+  ],
+  "japanese_symbol_for_beginner": [
+    "cik-cak",
+    "japonski simbol za začetnika",
+    "japonsko",
+    "list",
+    "orodje",
+    "puščica",
+    "rumeno",
+    "začetnik",
+    "zeleno"
+  ],
+  "japanese_vacancy_button": [
+    "gumb za »prosto« v japonščini",
+    "ideogram",
+    "japonsko",
+    "pojmovni znak",
+    "prazno",
+    "prosto"
+  ],
+  "jeans": [
+    "hlače",
+    "kavbojke",
+    "oblačila"
+  ],
+  "jersey": [
+    "zastava"
+  ],
+  "joker": [
+    "igra",
+    "igranje",
+    "karta"
+  ],
+  "jordan": [
+    "zastava"
+  ],
+  "joy": [
+    "obraz",
+    "obraz s solzami veselja",
+    "smeh",
+    "solze",
+    "veselje"
+  ],
+  "joy_cat": [
+    "mačji obraz s solzami sreče",
+    "mačka",
+    "mačka s solzami sreče",
+    "obraz",
+    "solze",
+    "veselje"
+  ],
+  "joystick": [
+    "igra",
+    "igralna palica",
+    "videoigra"
+  ],
+  "judge": [
+    "sodnik",
+    "tehtnica",
+    "varuh zakona"
+  ],
+  "kaaba": [
+    "islam",
+    "muslimansko",
+    "vera"
+  ],
+  "kangaroo": [
+    "avstralija",
+    "kenguru",
+    "mlad kenguru",
+    "skok",
+    "vrečar"
+  ],
+  "kazakhstan": [
+    "zastava"
+  ],
+  "kenya": [
+    "zastava"
+  ],
+  "key": [
+    "geslo",
+    "ključ",
+    "ključavnica"
+  ],
+  "keyboard": [
+    "računalnik",
+    "tipkovnica"
+  ],
+  "kick_scooter": [
+    "poganjanje",
+    "skiro"
+  ],
+  "kimono": [
+    "oblačila"
+  ],
+  "kiribati": [
+    "zastava"
+  ],
+  "kiss": [
+    "par",
+    "poljub",
+    "romanca"
+  ],
+  "kiss_man_man": [
+    "moški",
+    "par",
+    "poljub",
+    "romanca"
+  ],
+  "kiss_mark": [
+    "odtis",
+    "poljub",
+    "romanca",
+    "sled šminke po poljubu",
+    "srce",
+    "ustnice"
+  ],
+  "kiss_woman_man": [
+    "moški",
+    "par",
+    "poljub",
+    "romanca",
+    "ženska"
+  ],
+  "kiss_woman_woman": [
+    "par",
+    "poljub",
+    "romanca",
+    "ženska"
+  ],
+  "kissing_cat": [
+    "mačji obraz z zaprtimi očmi, ki poljublja",
+    "mačka",
+    "mačka poljublja z zaprtimi očmi",
+    "obraz",
+    "oči",
+    "poljub"
+  ],
+  "kissing_face": [
+    "obraz",
+    "obraz, ki poljublja",
+    "poljub"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "obraz",
+    "obraz z zaprtimi očmi, ki poljublja",
+    "oči",
+    "poljub",
+    "zaprto"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "nasmeh",
+    "obraz",
+    "obraz s smejočimi očmi, ki poljublja",
+    "oči",
+    "poljub"
+  ],
+  "kitchen_knife": [
+    "hocho",
+    "kuhanje",
+    "kuhinjski nož",
+    "nož",
+    "orodje",
+    "orožje"
+  ],
+  "kite": [
+    "jadrati",
+    "leteti",
+    "zmaj (igrača)"
+  ],
+  "kiwi_fruit": [
+    "hrana",
+    "kivi",
+    "sadje"
+  ],
+  "knot": [
+    "sukanec",
+    "vozel",
+    "vrv",
+    "vrvica",
+    "zanka"
+  ],
+  "koala": [
+    "medved"
+  ],
+  "kosovo": [
+    "zastava"
+  ],
+  "kuwait": [
+    "zastava"
+  ],
+  "kyrgyzstan": [
+    "zastava"
+  ],
+  "lab_coat": [
+    "eksperiment",
+    "laboratorijska halja",
+    "zdravnik",
+    "znanstvenik"
+  ],
+  "label": [
+    "etiketa",
+    "nalepka",
+    "oznaka"
+  ],
+  "lacrosse": [
+    "gol",
+    "palica",
+    "žoga"
+  ],
+  "ladder": [
+    "klin",
+    "lestev",
+    "plezanje",
+    "prečka"
+  ],
+  "lady_beetle": [
+    "hrošč",
+    "pikapolonica",
+    "žuželka"
+  ],
+  "laos": [
+    "zastava"
+  ],
+  "laptop": [
+    "osebno",
+    "prenosnik",
+    "računalnik",
+    "sistem",
+    "windows"
+  ],
+  "large_blue_diamond": [
+    "geometrično",
+    "karo",
+    "modro",
+    "velik moder karo"
+  ],
+  "large_orange_diamond": [
+    "geometrično",
+    "karo",
+    "oranžno",
+    "velik oranžen karo"
+  ],
+  "last_quarter_moon": [
+    "četrt",
+    "luna",
+    "polovično osvetljena luna v zadnjem krajcu",
+    "vesolje",
+    "vreme"
+  ],
+  "last_quarter_moon_face": [
+    "četrt",
+    "luna",
+    "obraz",
+    "polovično osvetljena luna v zadnjem krajcu z obrazom",
+    "vesolje",
+    "vreme"
+  ],
+  "last_track_button": [
+    "gumb za zadnjo skladbo",
+    "prejšnja skladba",
+    "prejšnji prizor",
+    "puščica",
+    "trikotnik"
+  ],
+  "latin_cross": [
+    "križ",
+    "krščanski križ",
+    "krščansko",
+    "vera"
+  ],
+  "latvia": [
+    "zastava"
+  ],
+  "laughing": [
+    "nasmeh",
+    "obraz",
+    "odprto",
+    "smejoči obraz z odprtimi usti in trdno zaprtimi očmi",
+    "usta",
+    "zadovoljno"
+  ],
+  "leaf_fluttering_in_wind": [
+    "list",
+    "listje, ki se vrtinči v vetru",
+    "pihati",
+    "rastlina",
+    "veter",
+    "vrtinčiti se"
+  ],
+  "leafy_green": [
+    "kitajsko zelje",
+    "listnato zelena",
+    "listni ohrovt",
+    "solata",
+    "zelje"
+  ],
+  "lebanon": [
+    "zastava"
+  ],
+  "ledger": [
+    "zvezek",
+    "zvezek s spiralno vezavo"
+  ],
+  "left_arrow": [
+    "glavno",
+    "puščica",
+    "puščica levo",
+    "smer",
+    "zahod"
+  ],
+  "left_arrow_curving_right": [
+    "puščica",
+    "puščica levo, ki se ukrivlja v desno"
+  ],
+  "left_facing_fist": [
+    "levo",
+    "pest",
+    "pest, obrnjena levo"
+  ],
+  "left_luggage": [
+    "kovčki",
+    "omarica",
+    "prtljaga",
+    "prtljaga v garderobi"
+  ],
+  "left_right_arrow": [
+    "puščica",
+    "puščica levo desno"
+  ],
+  "left_speech_bubble": [
+    "dialog",
+    "govor",
+    "levi oblaček z govorom"
+  ],
+  "leg": [
+    "brca",
+    "noga",
+    "okončina"
+  ],
+  "lemon": [
+    "agrum",
+    "limona",
+    "rastlina",
+    "sadje"
+  ],
+  "leo": [
+    "lev",
+    "zodiak",
+    "zodiak: lev"
+  ],
+  "lesotho": [
+    "zastava"
+  ],
+  "level_slider": [
+    "drsnik",
+    "drsnik za raven",
+    "glasba",
+    "raven"
+  ],
+  "liberia": [
+    "zastava"
+  ],
+  "libra": [
+    "pravičnost",
+    "ravnovesje",
+    "tehnica",
+    "tehtnica",
+    "zodiak"
+  ],
+  "libya": [
+    "zastava"
+  ],
+  "liechtenstein": [
+    "zastava"
+  ],
+  "light_bulb": [
+    "električno",
+    "luč",
+    "strip",
+    "zamisel",
+    "žarnica"
+  ],
+  "light_rail": [
+    "ozkotirna železnica",
+    "vozilo",
+    "železnica"
+  ],
+  "link": [
+    "člen"
+  ],
+  "linked_paperclips": [
+    "povezani sponki",
+    "povezano",
+    "sponka"
+  ],
+  "lion": [
+    "lev",
+    "obraz",
+    "zodiak"
+  ],
+  "lipstick": [
+    "kozmetika",
+    "ličila",
+    "šminka"
+  ],
+  "lithuania": [
+    "zastava"
+  ],
+  "litter_in_bin_sign": [
+    "koš",
+    "smeti",
+    "znak za smeti v košu"
+  ],
+  "lizard": [
+    "kuščar",
+    "plazilec"
+  ],
+  "llama": [
+    "alpaka",
+    "gvanako",
+    "lama",
+    "vikunja",
+    "volna"
+  ],
+  "lobster": [
+    "jastog",
+    "klešče",
+    "kremna juha",
+    "morska hrana"
+  ],
+  "locked": [
+    "ključavnica",
+    "zaklenjena ključavnica"
+  ],
+  "locked_with_key": [
+    "ključ",
+    "ključavnica",
+    "varno",
+    "zaprta ključavnica s ključem",
+    "zaprto"
+  ],
+  "locked_with_pen": [
+    "črnilo",
+    "ključavnica",
+    "ključavnica s peresom",
+    "konica",
+    "pero",
+    "zasebnost"
+  ],
+  "locomotive": [
+    "lokomotiva",
+    "para",
+    "stroj",
+    "vlak",
+    "vozilo",
+    "železnica"
+  ],
+  "lollipop": [
+    "lizika",
+    "posladek",
+    "sladkarija",
+    "sladko"
+  ],
+  "long_drum": [
+    "boben",
+    "kongo",
+    "ritem",
+    "visok boben"
+  ],
+  "lotion_bottle": [
+    "krema za sončenje",
+    "losjon",
+    "šampon",
+    "steklenička losjona",
+    "vlažilna krema"
+  ],
+  "loudspeaker": [
+    "glasnost",
+    "javna objava",
+    "javni zvočnik"
+  ],
+  "love_hotel": [
+    "hotel",
+    "ljubezen",
+    "ljubezenski hotel",
+    "zgradba"
+  ],
+  "love_letter": [
+    "ljubezen",
+    "ljubezensko pismo",
+    "pismo",
+    "pošta",
+    "romanca",
+    "srce"
+  ],
+  "love_you_gesture": [
+    "roka",
+    "rtm",
+    "znak za ljubim te"
+  ],
+  "luggage": [
+    "pakiranje",
+    "potovanje",
+    "prtljaga"
+  ],
+  "lungs": [
+    "dih",
+    "dihanje",
+    "izdih",
+    "organ",
+    "pljuča",
+    "vdih"
+  ],
+  "luxembourg": [
+    "zastava"
+  ],
+  "lying_face": [
+    "laž",
+    "lažnivec",
+    "lažnivi obraz",
+    "ostržek"
+  ],
+  "macao_sar_china": [
+    "zastava"
+  ],
+  "madagascar": [
+    "zastava"
+  ],
+  "mage": [
+    "čarovnica",
+    "čarovnik",
+    "oseba, ki čara"
+  ],
+  "magic_wand": [
+    "čarobna palica",
+    "čarovnica",
+    "čarovnija",
+    "čarovnik"
+  ],
+  "magnet": [
+    "magnetno",
+    "podkev",
+    "privlačnost"
+  ],
+  "magnifying_glass_tilted_left": [
+    "iskanje",
+    "orodje",
+    "povečevalno",
+    "povečevalno steklo, usmerjeno v levo",
+    "steklo"
+  ],
+  "magnifying_glass_tilted_right": [
+    "iskanje",
+    "orodje",
+    "povečevalno",
+    "povečevalno steklo, usmerjeno v desno",
+    "steklo"
+  ],
+  "mahjong_red_dragon": [
+    "igra",
+    "mahjong",
+    "rdeče",
+    "rdeči zmaj v mahjongu"
+  ],
+  "malawi": [
+    "zastava"
+  ],
+  "malaysia": [
+    "zastava"
+  ],
+  "maldives": [
+    "zastava"
+  ],
+  "male_sign": [
+    "fant",
+    "moški",
+    "znak za moški spol"
+  ],
+  "mali": [
+    "zastava"
+  ],
+  "malta": [
+    "zastava"
+  ],
+  "mammoth": [
+    "izumrtje",
+    "mamut",
+    "okel",
+    "velik",
+    "volnatost"
+  ],
+  "man": [
+    "fant",
+    "moški"
+  ],
+  "man_artist": [
+    "fant",
+    "moški",
+    "paleta",
+    "slikar",
+    "umetnik",
+    "umetnost"
+  ],
+  "man_astronaut": [
+    "astronavt",
+    "fant",
+    "moški",
+    "raketa",
+    "vesolje"
+  ],
+  "man_bald": [
+    "fant",
+    "moški",
+    "plešast"
+  ],
+  "man_biking": [
+    "fant",
+    "kolesar",
+    "kolesarjenje",
+    "kolo",
+    "moški"
+  ],
+  "man_bouncing_ball": [
+    "fant",
+    "moški",
+    "moški z žogo",
+    "žoga"
+  ],
+  "man_bowing": [
+    "fant",
+    "gesta",
+    "moški",
+    "moški, ki se globoko priklanja",
+    "opravičilo",
+    "oprosti",
+    "priklanjanje",
+    "priklon",
+    "usluga"
+  ],
+  "man_cartwheeling": [
+    "fant",
+    "gimnastika",
+    "kolo",
+    "moški",
+    "moški, ki dela premet vstran",
+    "oseba",
+    "premet vstran",
+    "šport"
+  ],
+  "man_climbing": [
+    "moški, ki pleza",
+    "plezalec"
+  ],
+  "man_cook": [
+    "chef",
+    "fant",
+    "kuhar",
+    "moški",
+    "šef kuhinje"
+  ],
+  "man_curly_hair": [
+    "fant",
+    "kodrasti lasje",
+    "moški"
+  ],
+  "man_dancing": [
+    "moški",
+    "ples",
+    "plesalec"
+  ],
+  "man_detective": [
+    "detektiv",
+    "dokaz",
+    "fant",
+    "moški",
+    "vohun"
+  ],
+  "man_elf": [
+    "čarovnija",
+    "škrat",
+    "vilin"
+  ],
+  "man_facepalming": [
+    "dvom",
+    "facepalm",
+    "fant",
+    "moški",
+    "moški, ki obraz prekriva z dlanjo",
+    "obup",
+    "ogorčenje",
+    "prekriti obraz z dlanjo"
+  ],
+  "man_factory_worker": [
+    "delavec",
+    "delavec v tovarni",
+    "fant",
+    "industrijski",
+    "moški",
+    "proizvodnja",
+    "tekoči trak",
+    "tovarna",
+    "tovarnar"
+  ],
+  "man_fairy": [
+    "vilinec"
+  ],
+  "man_farmer": [
+    "fant",
+    "kavboj",
+    "kmet",
+    "kmetovalec",
+    "moški",
+    "vrtnar",
+    "živinorejec"
+  ],
+  "man_feeding_baby": [
+    "dojenček",
+    "dojenje",
+    "hranjenje",
+    "moški",
+    "moški, ki hrani dojenčka"
+  ],
+  "man_firefighter": [
+    "fant",
+    "gasilec",
+    "gasilni avto",
+    "moški",
+    "ogenj"
+  ],
+  "man_frowning": [
+    "fant",
+    "moški",
+    "moški z namrščenim obrazom",
+    "mrščiti se",
+    "neodobravanje",
+    "obraz",
+    "obrazna mimika"
+  ],
+  "man_genie": [
+    "moški duh iz steklenice"
+  ],
+  "man_gesturing_no": [
+    "fant",
+    "kretnja",
+    "moški",
+    "moški, ki s kretnjo izraža prepoved",
+    "ne",
+    "neodobravanje",
+    "ni dovoljeno",
+    "ni v redu",
+    "prepovedano",
+    "roka"
+  ],
+  "man_gesturing_ok": [
+    "fant",
+    "kretnja",
+    "moški",
+    "moški, ki s kretnjo izraža odobravanje",
+    "ok",
+    "roka",
+    "v redu"
+  ],
+  "man_getting_haircut": [
+    "fant",
+    "frizerski salon",
+    "frizura",
+    "moški",
+    "moški pri frizerju",
+    "pričeska",
+    "striženje"
+  ],
+  "man_getting_massage": [
+    "fant",
+    "masaža",
+    "moški",
+    "moški na masaži obraza",
+    "obraz"
+  ],
+  "man_golfing": [
+    "fant",
+    "golf",
+    "golfist",
+    "moški"
+  ],
+  "man_guard": [
+    "fant",
+    "moški",
+    "paznik",
+    "varnostnik"
+  ],
+  "man_health_worker": [
+    "fant",
+    "medicinski tehnik",
+    "moški",
+    "terapevt",
+    "zdravnik",
+    "zdravstveni delavec",
+    "zdravstvo"
+  ],
+  "man_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "moški v lotusovem položaju"
+  ],
+  "man_in_manual_wheelchair": [
+    "invalid",
+    "moški",
+    "moški na ročnem invalidskem vozičku",
+    "voziček"
+  ],
+  "man_in_motorized_wheelchair": [
+    "invalid",
+    "moški",
+    "moški na motoriziranem invalidskem vozičku",
+    "voziček"
+  ],
+  "man_in_steamy_room": [
+    "moški v parni savni",
+    "parna savna",
+    "savna"
+  ],
+  "man_in_tuxedo": [
+    "moški",
+    "moški v smokingu",
+    "smoking"
+  ],
+  "man_judge": [
+    "fant",
+    "moški",
+    "pravica",
+    "pravosodje",
+    "sodnik",
+    "tehtnica"
+  ],
+  "man_juggling": [
+    "fant",
+    "moški",
+    "spretnost",
+    "večopravilnost",
+    "žongler",
+    "žongliranje"
+  ],
+  "man_kneeling": [
+    "klečanje",
+    "klečeč moški",
+    "moški"
+  ],
+  "man_lifting_weights": [
+    "dvigovalec uteži",
+    "fant",
+    "moški"
+  ],
+  "man_mage": [
+    "čarodej",
+    "čarovnik",
+    "mag"
+  ],
+  "man_mechanic": [
+    "avtomehanik",
+    "električar",
+    "fant",
+    "mehanična delavnica",
+    "mehanik",
+    "moški",
+    "orodje",
+    "prodajalec",
+    "vodovodar"
+  ],
+  "man_mountain_biking": [
+    "fant",
+    "gora",
+    "gorsko",
+    "kolesar",
+    "kolo",
+    "moški",
+    "moško gorsko kolesarjenje"
+  ],
+  "man_office_worker": [
+    "arhitekt",
+    "direktor",
+    "fant",
+    "moški",
+    "pisarna",
+    "pisarniški",
+    "pisarniški delavec",
+    "podjetje",
+    "tajnik"
+  ],
+  "man_pilot": [
+    "fant",
+    "letalo",
+    "moški",
+    "pilot",
+    "stevard"
+  ],
+  "man_playing_handball": [
+    "fant",
+    "moški",
+    "rokomet",
+    "rokometaš",
+    "šport"
+  ],
+  "man_playing_water_polo": [
+    "fant",
+    "moški",
+    "šport",
+    "vaterpolo"
+  ],
+  "man_police_officer": [
+    "fant",
+    "moški",
+    "policaj",
+    "policija",
+    "policist"
+  ],
+  "man_pouting": [
+    "fant",
+    "kujanje",
+    "moški",
+    "moški, ki kuha mulo",
+    "obrazna mimika"
+  ],
+  "man_raising_hand": [
+    "dvigovanje roke",
+    "fant",
+    "kretnje",
+    "moški",
+    "moški, ki dviguje roko"
+  ],
+  "man_red_hair": [
+    "fant",
+    "moški",
+    "rdeči lasje"
+  ],
+  "man_rowing_boat": [
+    "čoln na vesla",
+    "fant",
+    "moški",
+    "veslač",
+    "veslanje"
+  ],
+  "man_running": [
+    "fant",
+    "maraton",
+    "moški",
+    "moški, ki teče",
+    "šprint",
+    "tek",
+    "tekač",
+    "tekma"
+  ],
+  "man_s_shoe": [
+    "čevelj",
+    "moški",
+    "oblačila"
+  ],
+  "man_scientist": [
+    "biolog",
+    "fant",
+    "fizik",
+    "inženir",
+    "kemik",
+    "matematik",
+    "moški",
+    "znanstvenik"
+  ],
+  "man_shrugging": [
+    "dvom",
+    "fant",
+    "moški",
+    "moški, ki skomiga z rameni",
+    "nevednost",
+    "nezanimanje",
+    "skomigniti"
+  ],
+  "man_singer": [
+    "fant",
+    "igralec",
+    "komik",
+    "moški",
+    "pevec",
+    "roker",
+    "zabavljač",
+    "zvezdnik"
+  ],
+  "man_standing": [
+    "moški",
+    "stoječ moški",
+    "stoji"
+  ],
+  "man_student": [
+    "diplomant",
+    "fant",
+    "maturant",
+    "moški",
+    "študent"
+  ],
+  "man_superhero": [
+    "dober",
+    "junak",
+    "moški",
+    "super moč",
+    "superjunak"
+  ],
+  "man_supervillain": [
+    "kriminalec",
+    "moški",
+    "moški super negativec",
+    "negativec",
+    "super moč",
+    "zloben"
+  ],
+  "man_surfing": [
+    "deskanje",
+    "deskar",
+    "fant",
+    "moški",
+    "surfanje"
+  ],
+  "man_swimming": [
+    "fant",
+    "moški",
+    "plavalec",
+    "plavanje"
+  ],
+  "man_teacher": [
+    "fant",
+    "inštruktor",
+    "moški",
+    "profesor",
+    "učitelj"
+  ],
+  "man_technologist": [
+    "fant",
+    "izumitelj",
+    "moški",
+    "programer",
+    "programska oprema",
+    "računalnik",
+    "razvijalec",
+    "tehnolog",
+    "tehnologija"
+  ],
+  "man_tipping_hand": [
+    "informacije",
+    "moški",
+    "pomoč",
+    "uslužbenec na informacijah",
+    "zgovoren"
+  ],
+  "man_vampire": [
+    "drakula",
+    "moški vampir",
+    "nesmrtnost",
+    "vampir"
+  ],
+  "man_walking": [
+    "fant",
+    "hoja",
+    "moški",
+    "moški, ki hodi",
+    "pešec",
+    "sprehod"
+  ],
+  "man_wearing_turban": [
+    "fant",
+    "moški",
+    "moški s turbanom",
+    "turban"
+  ],
+  "man_white_hair": [
+    "fant",
+    "moški",
+    "sivi lasje"
+  ],
+  "man_with_veil": [
+    "moški",
+    "moški s pajčolanom",
+    "pajčolan"
+  ],
+  "man_with_white_cane": [
+    "invalid",
+    "moški",
+    "moški s palico za slepe",
+    "slep"
+  ],
+  "man_zombie": [
+    "nemrtev",
+    "živi mrtvec",
+    "zombi moški"
+  ],
+  "mango": [
+    "sadež",
+    "tropski"
+  ],
+  "mantelpiece_clock": [
+    "ura",
+    "ura za na okvir kamina"
+  ],
+  "manual_wheelchair": [
+    "invalid",
+    "ročni invalidski voziček"
+  ],
+  "map_of_japan": [
+    "japonska",
+    "zemljevid",
+    "zemljevid japonske"
+  ],
+  "maple_leaf": [
+    "javor",
+    "javorov list",
+    "list",
+    "padanje",
+    "rastlina"
+  ],
+  "marshall_islands": [
+    "zastava"
+  ],
+  "martial_arts_uniform": [
+    "borilne veščine",
+    "judo",
+    "karate",
+    "kimono za borilne športe",
+    "šport",
+    "taekwondo",
+    "uniforma"
+  ],
+  "martinique": [
+    "zastava"
+  ],
+  "mate": [
+    "mate čaj",
+    "napitek",
+    "pijača"
+  ],
+  "mauritania": [
+    "zastava"
+  ],
+  "mauritius": [
+    "zastava"
+  ],
+  "mayotte": [
+    "zastava"
+  ],
+  "meat_on_bone": [
+    "kost",
+    "meso",
+    "meso s kostjo"
+  ],
+  "mechanic": [
+    "električar",
+    "mehanik",
+    "serviser",
+    "trgovec",
+    "vodovodar"
+  ],
+  "mechanical_arm": [
+    "invalid",
+    "mehanska roka",
+    "proteza",
+    "umetni ud"
+  ],
+  "mechanical_leg": [
+    "invalid",
+    "mehanska noga",
+    "proteza",
+    "umetni ud"
+  ],
+  "medical_symbol": [
+    "eskulapova palica",
+    "medicina",
+    "osebje",
+    "simbol zdravstva",
+    "zdravnik",
+    "zdravstvo"
+  ],
+  "megaphone": [
+    "megafon",
+    "skandiranje"
+  ],
+  "melon": [
+    "melona",
+    "rastlina",
+    "sadje"
+  ],
+  "memo": [
+    "svinčnik",
+    "zapisek"
+  ],
+  "men_holding_hands": [
+    "dvojčka",
+    "moška se držita za roke",
+    "moški",
+    "par",
+    "zodiak"
+  ],
+  "men_s_room": [
+    "moški",
+    "stranišče",
+    "stranišče za moške",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "fantje",
+    "moška zabava",
+    "moški",
+    "plesalec",
+    "zabava",
+    "žur"
+  ],
+  "men_wrestling": [
+    "fant",
+    "moška rokoborba",
+    "moški",
+    "oseba",
+    "rokoborba",
+    "šport"
+  ],
+  "menorah": [
+    "menora",
+    "namizni svečnik",
+    "svečnik",
+    "vera"
+  ],
+  "mermaid": [
+    "morska deklica"
+  ],
+  "merman": [
+    "morski mož",
+    "triton"
+  ],
+  "merperson": [
+    "morska deklica",
+    "morska oseba",
+    "morska ženska",
+    "morski mož"
+  ],
+  "metro": [
+    "podzemna železnica",
+    "podzemni vlak",
+    "vozilo"
+  ],
+  "mexico": [
+    "zastava"
+  ],
+  "microbe": [
+    "ameba",
+    "bakterija",
+    "mikrob",
+    "virus"
+  ],
+  "micronesia": [
+    "zastava"
+  ],
+  "microphone": [
+    "karaoke",
+    "mikrofon"
+  ],
+  "microscope": [
+    "mikroskop",
+    "orodje"
+  ],
+  "military_helmet": [
+    "armija",
+    "bojevnik",
+    "čelada",
+    "vojak",
+    "vojaška čelada",
+    "vojska"
+  ],
+  "military_medal": [
+    "odlikovanje",
+    "slavje",
+    "vojaško"
+  ],
+  "milky_way": [
+    "rimska cesta",
+    "vesolje",
+    "vreme"
+  ],
+  "minibus": [
+    "avtobus",
+    "vozilo"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "matematika",
+    "znak"
+  ],
+  "mirror": [
+    "odsev",
+    "ogledalo",
+    "zrcalo"
+  ],
+  "moai": [
+    "kip",
+    "obraz"
+  ],
+  "mobile_phone": [
+    "mobilni telefon",
+    "mobilnik",
+    "mobilno",
+    "telefon"
+  ],
+  "mobile_phone_off": [
+    "izklopljeno",
+    "mobilni telefon izklopljen",
+    "mobilnik",
+    "mobilno",
+    "telefon"
+  ],
+  "mobile_phone_with_arrow": [
+    "klic",
+    "mobilni telefon s puščico",
+    "mobilnik",
+    "mobilno",
+    "puščica",
+    "sprejeti",
+    "telefon"
+  ],
+  "moldova": [
+    "zastava"
+  ],
+  "monaco": [
+    "zastava"
+  ],
+  "money_bag": [
+    "denar",
+    "dolar",
+    "vreča",
+    "vreča denarja"
+  ],
+  "money_mouth_face": [
+    "denar",
+    "obraz",
+    "obraz z denarjem namesto ust",
+    "usta"
+  ],
+  "money_with_wings": [
+    "apoen",
+    "banka",
+    "bankovec",
+    "denar",
+    "denar s krili",
+    "dolar",
+    "krila",
+    "leteti",
+    "valuta"
+  ],
+  "mongolia": [
+    "zastava"
+  ],
+  "monkey": [
+    "opica"
+  ],
+  "monkey_face": [
+    "obraz",
+    "opica",
+    "opičji obraz"
+  ],
+  "monorail": [
+    "enotirna železnica",
+    "vozilo"
+  ],
+  "montenegro": [
+    "zastava"
+  ],
+  "montserrat": [
+    "zastava"
+  ],
+  "moon_cake": [
+    "festival",
+    "jesen",
+    "lunina torta",
+    "yuebing"
+  ],
+  "moon_viewing_ceremony": [
+    "luna",
+    "lunino slavje",
+    "obred",
+    "slavje"
+  ],
+  "morocco": [
+    "zastava"
+  ],
+  "mosque": [
+    "islam",
+    "mošeja",
+    "muslimansko",
+    "vera"
+  ],
+  "mosquito": [
+    "bolezen",
+    "insekt",
+    "komar",
+    "malarija",
+    "mrzlica",
+    "virus"
+  ],
+  "motor_boat": [
+    "ladja",
+    "motorni čoln",
+    "vozilo"
+  ],
+  "motor_scooter": [
+    "motor",
+    "skuter"
+  ],
+  "motorcycle": [
+    "dirkanje",
+    "motor"
+  ],
+  "motorized_wheelchair": [
+    "invalid",
+    "motoriziran invalidski voziček"
+  ],
+  "motorway": [
+    "avtocesta",
+    "cesta"
+  ],
+  "mount_fuji": [
+    "fuji",
+    "gora"
+  ],
+  "mountain": [
+    "gora"
+  ],
+  "mountain_cableway": [
+    "gondola",
+    "gora",
+    "jeklena vrv",
+    "nihalka",
+    "vozilo"
+  ],
+  "mountain_railway": [
+    "avto",
+    "gora",
+    "gorska železnica",
+    "vozilo",
+    "železnica"
+  ],
+  "mouse": [
+    "miš",
+    "miška"
+  ],
+  "mouse_face": [
+    "miš",
+    "mišji obraz",
+    "obraz"
+  ],
+  "mouse_trap": [
+    "mišolovka",
+    "past za miši",
+    "vaba"
+  ],
+  "mouth": [
+    "telo",
+    "usta",
+    "ustnice"
+  ],
+  "movie_camera": [
+    "film",
+    "filmska kamera",
+    "kamera",
+    "kino"
+  ],
+  "mozambique": [
+    "zastava"
+  ],
+  "mrs_claus": [
+    "božič",
+    "gospa",
+    "gospa božiček"
+  ],
+  "multiply": [
+    "×",
+    "množenje",
+    "množi",
+    "množiti",
+    "prekliči",
+    "x",
+    "znak",
+    "znak za množenje"
+  ],
+  "mushroom": [
+    "goba",
+    "rastlina"
+  ],
+  "musical_keyboard": [
+    "glasba",
+    "glasbilo",
+    "klaviatura",
+    "klavir"
+  ],
+  "musical_note": [
+    "glasba",
+    "glasbena nota",
+    "nota"
+  ],
+  "musical_notes": [
+    "glasba",
+    "glasbene note",
+    "nota",
+    "note"
+  ],
+  "musical_score": [
+    "glasba",
+    "partitura"
+  ],
+  "muted_speaker": [
+    "brez zvoka",
+    "glasnost",
+    "tiho",
+    "ugasnjen zvočnik",
+    "zvočnik"
+  ],
+  "mx_claus": [
+    "božiček, božič",
+    "mx božiček"
+  ],
+  "myanmar_burma": [
+    "zastava"
+  ],
+  "nail_polish": [
+    "kozmetika",
+    "lak",
+    "lak za nohte",
+    "manikira",
+    "nega",
+    "noht",
+    "telo"
+  ],
+  "name_badge": [
+    "ime",
+    "značka",
+    "značka za ime"
+  ],
+  "namibia": [
+    "zastava"
+  ],
+  "national_park": [
+    "nacionalni park",
+    "park"
+  ],
+  "nauru": [
+    "zastava"
+  ],
+  "nauseated_face": [
+    "bruhanje",
+    "obraz, ki se počuti slabo",
+    "slabost"
+  ],
+  "nazar_amulet": [
+    "amulet",
+    "amulet zlobno oko",
+    "koralda",
+    "nazar",
+    "talisman",
+    "zlobno oko"
+  ],
+  "necktie": [
+    "kravata",
+    "oblačila"
+  ],
+  "nepal": [
+    "zastava"
+  ],
+  "nerd_face": [
+    "frik",
+    "obraz",
+    "piflar",
+    "piflarski obraz",
+    "znalec"
+  ],
+  "nesting_dolls": [
+    "babuška",
+    "gnezdenje",
+    "lutka",
+    "rusija"
+  ],
+  "netherlands": [
+    "zastava"
+  ],
+  "neutral_face": [
+    "mrtvo hladno",
+    "nevtralni obraz",
+    "nevtralno",
+    "obraz"
+  ],
+  "new_button": [
+    "gumb new",
+    "novo"
+  ],
+  "new_caledonia": [
+    "zastava"
+  ],
+  "new_moon": [
+    "luna",
+    "mlada luna",
+    "tema",
+    "vesolje",
+    "vreme"
+  ],
+  "new_moon_face": [
+    "luna",
+    "mlada luna z obrazom",
+    "obraz",
+    "vesolje",
+    "vreme"
+  ],
+  "new_zealand": [
+    "zastava"
+  ],
+  "newspaper": [
+    "časopis",
+    "novice"
+  ],
+  "next_track_button": [
+    "gumb za naslednjo skladbo",
+    "naslednja skladba",
+    "naslednji prizor",
+    "puščica",
+    "trikotnik"
+  ],
+  "ng_button": [
+    "gumb ng",
+    "ng"
+  ],
+  "nicaragua": [
+    "zastava"
+  ],
+  "niger": [
+    "zastava"
+  ],
+  "nigeria": [
+    "zastava"
+  ],
+  "night_with_stars": [
+    "noč",
+    "vreme",
+    "zvezda",
+    "zvezdnata noč"
+  ],
+  "nine": [
+    "keycap"
+  ],
+  "nine_o_clock": [
+    "00",
+    "9",
+    "9.00",
+    "devet",
+    "ura",
+    "ura je devet"
+  ],
+  "nine_thirty": [
+    "30",
+    "9",
+    "9.30",
+    "deset",
+    "devet",
+    "pol",
+    "pol desetih",
+    "ura"
+  ],
+  "ninja": [
+    "bojevnik",
+    "nindža",
+    "prikrivanje",
+    "skrivanje"
+  ],
+  "niue": [
+    "zastava"
+  ],
+  "no_bicycles": [
+    "kolo",
+    "ne",
+    "ni dovoljeno",
+    "prepovedano",
+    "prepovedano za kolesa",
+    "vozilo"
+  ],
+  "no_entry": [
+    "ne",
+    "ni dovoljeno",
+    "ni prehoda",
+    "prepovedano",
+    "promet",
+    "vstop"
+  ],
+  "no_littering": [
+    "ne",
+    "ni dovoljeno",
+    "odlagati",
+    "prepovedano",
+    "prepovedano odlaganje smeti",
+    "smeti"
+  ],
+  "no_mobile_phones": [
+    "mobilni telefoni prepovedani",
+    "mobilnik",
+    "mobilno",
+    "ne",
+    "ni dovoljeno",
+    "prepovedano",
+    "telefon"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "mladoletno",
+    "ne",
+    "ni dovoljeno",
+    "omejitev starosti",
+    "osemnajst",
+    "prepovedano",
+    "prepovedano za mlajše od 18 let"
+  ],
+  "no_pedestrians": [
+    "ne",
+    "ni dovoljeno",
+    "pešec",
+    "prepovedano",
+    "prepovedano za pešce"
+  ],
+  "no_smoking": [
+    "kajenje",
+    "ne",
+    "ni dovoljeno",
+    "prepovedano"
+  ],
+  "non_potable_water": [
+    "ne",
+    "ni dovoljeno",
+    "piti",
+    "pitno",
+    "prepovedati",
+    "voda",
+    "voda ni pitna"
+  ],
+  "norfolk_island": [
+    "zastava"
+  ],
+  "north_korea": [
+    "zastava"
+  ],
+  "north_macedonia": [
+    "zastava"
+  ],
+  "northern_mariana_islands": [
+    "zastava"
+  ],
+  "norway": [
+    "zastava"
+  ],
+  "nose": [
+    "nos",
+    "telo"
+  ],
+  "notebook": [
+    "zvezek"
+  ],
+  "notebook_with_decorative_cover": [
+    "knjiga",
+    "okrašeno",
+    "platnica",
+    "zvezek",
+    "zvezek z okrasno platnico"
+  ],
+  "nut_and_bolt": [
+    "matica",
+    "matica in vijak",
+    "orodje",
+    "vijak"
+  ],
+  "o_button_blood_type": [
+    "gumb s črko o (krvna skupina)",
+    "kri",
+    "o"
+  ],
+  "ocean": [
+    "morje",
+    "val",
+    "voda",
+    "vodni val",
+    "vreme"
+  ],
+  "octopus": [
+    "hobotnica"
+  ],
+  "oden": [
+    "kebab",
+    "morska hrana",
+    "paličica",
+    "špila"
+  ],
+  "office_building": [
+    "poslovna stavba",
+    "zgradba"
+  ],
+  "office_worker": [
+    "arhitekt",
+    "delavec v pisarni",
+    "direktor",
+    "pisarniški delavec",
+    "podjetje"
+  ],
+  "ogre": [
+    "bitje",
+    "fantazija",
+    "japonsko",
+    "obraz",
+    "pošast",
+    "pošastni velikan",
+    "pravljica"
+  ],
+  "oil_drum": [
+    "nafta",
+    "naftni sod",
+    "sod"
+  ],
+  "ok_button": [
+    "gumb ok",
+    "v redu"
+  ],
+  "ok_hand": [
+    "dlan",
+    "roka, ki kaže v redu",
+    "telo",
+    "v redu"
+  ],
+  "old_key": [
+    "ključ",
+    "ključavnica",
+    "namig",
+    "star ključ",
+    "staro"
+  ],
+  "old_man": [
+    "moški",
+    "starec",
+    "staro"
+  ],
+  "old_woman": [
+    "starka",
+    "staro",
+    "ženska"
+  ],
+  "older_person": [
+    "spolno nevtralen",
+    "starejši",
+    "starejši odrasli"
+  ],
+  "olive": [
+    "hrana",
+    "oliva"
+  ],
+  "om": [
+    "hinduistično",
+    "vera"
+  ],
+  "oman": [
+    "zastava"
+  ],
+  "on_arrow": [
+    "puščica",
+    "puščica naprej!",
+    "vklop",
+    "znak"
+  ],
+  "oncoming_automobile": [
+    "avto",
+    "avtomobil",
+    "prihajajoče",
+    "prihajajoči avtomobil",
+    "vozilo"
+  ],
+  "oncoming_bus": [
+    "avtobus",
+    "prihajajoče",
+    "prihajajoči avtobus",
+    "vozilo"
+  ],
+  "oncoming_fist": [
+    "bližajoča se pest",
+    "dlan",
+    "pest",
+    "pokrčeno",
+    "telo",
+    "udarec"
+  ],
+  "oncoming_police_car": [
+    "avto",
+    "policija",
+    "prihajajoče",
+    "prihajajoče policijsko vozilo",
+    "vozilo"
+  ],
+  "oncoming_taxi": [
+    "prihajajoče",
+    "prihajajoči taksi",
+    "taksi",
+    "vozilo"
+  ],
+  "one": [
+    "keycap"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1.00",
+    "ena",
+    "ura",
+    "ura je ena"
+  ],
+  "one_piece_swimsuit": [
+    "enodelne kopalke",
+    "kopalna obleka",
+    "ženske kopalke"
+  ],
+  "one_thirty": [
+    "1",
+    "1.30",
+    "30",
+    "dve",
+    "ena",
+    "pol",
+    "pol dveh",
+    "ura"
+  ],
+  "onion": [
+    "aromatično",
+    "čebula",
+    "solzenje"
+  ],
+  "open_book": [
+    "knjiga",
+    "odprta knjiga",
+    "odprto"
+  ],
+  "open_file_folder": [
+    "mapa",
+    "odprta mapa za spise",
+    "odprto",
+    "spis"
+  ],
+  "open_hands": [
+    "dlan",
+    "odprti dlani",
+    "odprto",
+    "telo"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "odprt poštni nabiralnik s spuščeno zastavico",
+    "odprto",
+    "pošta",
+    "poštni nabiralnik",
+    "spuščeno"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "odprt poštni nabiralnik z dvignjeno zastavico",
+    "odprto",
+    "pošta",
+    "poštni nabiralnik"
+  ],
+  "open_mouth": [
+    "obraz",
+    "obraz z odprtimi usti",
+    "odprto",
+    "sočutje",
+    "usta"
+  ],
+  "ophiuchus": [
+    "kača",
+    "kačenosec",
+    "nosec",
+    "zodiak"
+  ],
+  "optical_disk": [
+    "blu-ray",
+    "cd",
+    "disk",
+    "dvd",
+    "optični disk",
+    "optično",
+    "računalnik"
+  ],
+  "orange_book": [
+    "knjiga",
+    "oranžna knjiga",
+    "oranžno"
+  ],
+  "orange_circle": [
+    "krog",
+    "oranžen"
+  ],
+  "orange_heart": [
+    "oranžno srce"
+  ],
+  "orange_square": [
+    "kvadrat",
+    "oranžen"
+  ],
+  "orangutan": [
+    "opica"
+  ],
+  "orthodox_cross": [
+    "križ",
+    "krščansko",
+    "pravoslavni križ",
+    "vera"
+  ],
+  "otter": [
+    "igriva",
+    "lovi ribe",
+    "vidra"
+  ],
+  "outbox_tray": [
+    "nabiralnik",
+    "odhodna pošta",
+    "pismo",
+    "pladenj",
+    "pladenj za odhodno pošto",
+    "poslano",
+    "pošta"
+  ],
+  "owl": [
+    "pamet",
+    "ptica",
+    "sova"
+  ],
+  "ox": [
+    "bik",
+    "vol",
+    "zodiak"
+  ],
+  "oyster": [
+    "biser",
+    "ostriga",
+    "potapljanje",
+    "školjka"
+  ],
+  "p_button": [
+    "gumb s črko p",
+    "parkiranje"
+  ],
+  "package": [
+    "nabiralnik",
+    "paket"
+  ],
+  "page_facing_up": [
+    "dokument",
+    "list s prikazano popisano stranjo",
+    "stran"
+  ],
+  "page_with_curl": [
+    "dokument",
+    "nagrbančiti se",
+    "stran",
+    "zvita stran"
+  ],
+  "pager": [
+    "pozivnik"
+  ],
+  "paintbrush": [
+    "barvanje",
+    "čopič"
+  ],
+  "pakistan": [
+    "zastava"
+  ],
+  "palau": [
+    "zastava"
+  ],
+  "palestinian_territories": [
+    "zastava"
+  ],
+  "palm_tree": [
+    "drevo",
+    "palma",
+    "rastlina"
+  ],
+  "palms_up_together": [
+    "dvignjeni odprti dlani",
+    "molitev"
+  ],
+  "panama": [
+    "zastava"
+  ],
+  "pancakes": [
+    "hrana",
+    "palačinke"
+  ],
+  "panda": [
+    "obraz"
+  ],
+  "paperclip": [
+    "sponka za papir"
+  ],
+  "papua_new_guinea": [
+    "zastava"
+  ],
+  "parachute": [
+    "jadralni zmaj",
+    "jadralno padalo",
+    "padalo",
+    "parasailing",
+    "skok s padalom"
+  ],
+  "paraguay": [
+    "zastava"
+  ],
+  "parrot": [
+    "govor",
+    "papagaj",
+    "pirat",
+    "ptič"
+  ],
+  "part_alternation_mark": [
+    "part",
+    "znak",
+    "znak za part"
+  ],
+  "partying_face": [
+    "hupa",
+    "klobuček",
+    "praznovanje",
+    "praznujoči obraz",
+    "zabava"
+  ],
+  "passenger_ship": [
+    "ladja",
+    "potnik",
+    "potniška ladja",
+    "vozilo"
+  ],
+  "passport_control": [
+    "nadzor",
+    "potni list",
+    "pregled dokumentov"
+  ],
+  "pause_button": [
+    "dvojno",
+    "gumb za zaustavitev",
+    "navpično",
+    "stolpec",
+    "zaustavitev"
+  ],
+  "paw_prints": [
+    "odtis",
+    "odtisi tac",
+    "šapa",
+    "tace"
+  ],
+  "peace_symbol": [
+    "mir",
+    "simbol za mir"
+  ],
+  "peach": [
+    "breskev",
+    "rastlina",
+    "sadje"
+  ],
+  "peacock": [
+    "bahava",
+    "pav",
+    "pavica",
+    "ponosna",
+    "ptica"
+  ],
+  "peanuts": [
+    "arašid",
+    "arašidi",
+    "hrana",
+    "oreški",
+    "zelenjava"
+  ],
+  "pear": [
+    "hruška",
+    "rastlina",
+    "sadje"
+  ],
+  "pen": [
+    "kemični svinčnik",
+    "nalivnik",
+    "nalivno pero"
+  ],
+  "pencil": [
+    "pisalo",
+    "svinčnik"
+  ],
+  "penguin": [
+    "pingvin"
+  ],
+  "pensive_face": [
+    "brezvoljen obraz",
+    "brezvoljno",
+    "obraz",
+    "pobito"
+  ],
+  "people_holding_hands": [
+    "držati",
+    "oseba",
+    "osebi se držita za roke",
+    "par",
+    "roka"
+  ],
+  "people_hugging": [
+    "hvala",
+    "nasvidenje",
+    "objem",
+    "osebi, ki se objemata",
+    "živijo"
+  ],
+  "people_with_bunny_ears": [
+    "dekle",
+    "plesalka",
+    "uho",
+    "zabava",
+    "zajčica",
+    "ženska",
+    "žur",
+    "žurerski ženski"
+  ],
+  "people_wrestling": [
+    "rokoborba",
+    "šport"
+  ],
+  "performing_arts": [
+    "gledališče",
+    "maska",
+    "nastopanje",
+    "scenske umetnosti",
+    "umetnost"
+  ],
+  "persevering_face": [
+    "obraz",
+    "vztrajanje",
+    "vztrajen obraz"
+  ],
+  "person": [
+    "odrasla oseba"
+  ],
+  "person_bald": [
+    "odrasla oseba",
+    "plešast"
+  ],
+  "person_beard": [
+    "brada",
+    "moški",
+    "moški: brada",
+    "oseba"
+  ],
+  "person_biking": [
+    "kolesar",
+    "kolesarjenje",
+    "kolo",
+    "oseba na kolesu"
+  ],
+  "person_blond_hair": [
+    "lasje",
+    "oseba: svetli lasje",
+    "svetli lasje",
+    "svetlolasa oseba"
+  ],
+  "person_bouncing_ball": [
+    "oseba z žogo",
+    "žoga"
+  ],
+  "person_bowing": [
+    "gesta",
+    "opravičilo",
+    "oprosti",
+    "oseba, ki se prikloni",
+    "priklon"
+  ],
+  "person_cartwheeling": [
+    "gimnastika",
+    "kolo",
+    "oseba izvaja kolo",
+    "šport"
+  ],
+  "person_climbing": [
+    "oseba, ki pleza",
+    "plezalec"
+  ],
+  "person_curly_hair": [
+    "kodrasti lasje",
+    "odrasla oseba"
+  ],
+  "person_facepalming": [
+    "dvom",
+    "nejevera",
+    "oseba z dlanjo na obrazu",
+    "skepsa",
+    "skomigniti"
+  ],
+  "person_feeding_baby": [
+    "dojenček",
+    "dojenje",
+    "hranjenje",
+    "oseba",
+    "oseba, ki hrani doječnka",
+    "oseba, ki hrani dojenčka"
+  ],
+  "person_fencing": [
+    "meč",
+    "sabljač",
+    "sabljanje",
+    "šport"
+  ],
+  "person_frowning": [
+    "gesta",
+    "mrščenje",
+    "oseba, ki se mršči"
+  ],
+  "person_gesturing_no": [
+    "gesta",
+    "ne",
+    "ni dovoljeno",
+    "oseba, ki kaže ne",
+    "prepovedano",
+    "roka"
+  ],
+  "person_gesturing_ok": [
+    "gesta",
+    "oseba, ki kaže v redu",
+    "roka",
+    "v redu"
+  ],
+  "person_getting_haircut": [
+    "brivec",
+    "frizura",
+    "lepota",
+    "salon",
+    "striženje"
+  ],
+  "person_getting_massage": [
+    "masaža",
+    "masaža obraza",
+    "salon"
+  ],
+  "person_golfing": [
+    "golf",
+    "igralec golfa",
+    "žogica"
+  ],
+  "person_in_bed": [
+    "hotel",
+    "oseba v postelji",
+    "spanje"
+  ],
+  "person_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "oseba v lotusovem položaju"
+  ],
+  "person_in_manual_wheelchair": [
+    "invalid",
+    "oseba na ročnem invalidskem vozičku",
+    "voziček"
+  ],
+  "person_in_motorized_wheelchair": [
+    "invalid",
+    "oseba na motoriziranem invalidskem vozičku",
+    "voziček"
+  ],
+  "person_in_steamy_room": [
+    "oseba v parni savni",
+    "parna savna",
+    "savna"
+  ],
+  "person_in_suit_levitating": [
+    "moški",
+    "moški v poslovni obleki, ki lebdi",
+    "obleka",
+    "posli"
+  ],
+  "person_in_tuxedo": [
+    "oseba",
+    "oseba v smokingu",
+    "smoking",
+    "ženin"
+  ],
+  "person_juggling": [
+    "ravnotežje",
+    "spretnost",
+    "večopravilnost",
+    "žongliranje"
+  ],
+  "person_kneeling": [
+    "klečanje",
+    "klečeča oseba"
+  ],
+  "person_lifting_weights": [
+    "dvigalec",
+    "oseba dviga uteži",
+    "utež"
+  ],
+  "person_mountain_biking": [
+    "gora",
+    "gorski kolesar",
+    "kolesar",
+    "kolo"
+  ],
+  "person_playing_handball": [
+    "rokomet",
+    "šport",
+    "žoga"
+  ],
+  "person_playing_water_polo": [
+    "bazen",
+    "šport",
+    "vaterpolo",
+    "žoga"
+  ],
+  "person_pouting": [
+    "gesta",
+    "kujanje",
+    "oseba, ki kuha mulo"
+  ],
+  "person_raising_hand": [
+    "dvignjeno",
+    "gesta",
+    "roka",
+    "vesela oseba, ki dvigne roko",
+    "veselo"
+  ],
+  "person_red_hair": [
+    "odrasla oseba",
+    "rdeči lasje"
+  ],
+  "person_rowing_boat": [
+    "čoln",
+    "oseba v čolnu na vesla",
+    "vozilo"
+  ],
+  "person_running": [
+    "maraton",
+    "tek",
+    "tekač"
+  ],
+  "person_shrugging": [
+    "brezbrižnost",
+    "oseba, ki skomiga",
+    "skomigniti"
+  ],
+  "person_standing": [
+    "pokonci",
+    "stati",
+    "stoječa oseba"
+  ],
+  "person_surfing": [
+    "deskanje",
+    "oseba deska"
+  ],
+  "person_swimming": [
+    "oseba plava",
+    "plavati"
+  ],
+  "person_taking_bath": [
+    "kad",
+    "kopel",
+    "oseba, ki se kopa"
+  ],
+  "person_tipping_hand": [
+    "informacije",
+    "oseba, ki dela na informacijah",
+    "pomoč",
+    "roka",
+    "zgovorno",
+    "živahno"
+  ],
+  "person_walking": [
+    "hoja",
+    "pešec",
+    "pohod",
+    "sprehod"
+  ],
+  "person_wearing_turban": [
+    "moški",
+    "oseba s turbanom",
+    "turban"
+  ],
+  "person_white_hair": [
+    "odrasla oseba",
+    "sivi lasje"
+  ],
+  "person_with_skullcap": [
+    "čepica",
+    "kitajska čepica",
+    "moški",
+    "moški s kitajsko čepico"
+  ],
+  "person_with_veil": [
+    "nevesta",
+    "oseba",
+    "oseba s pajčolanom",
+    "pajčolan",
+    "poroka"
+  ],
+  "person_with_white_cane": [
+    "invalid",
+    "oseba s palico za slepe",
+    "slep"
+  ],
+  "peru": [
+    "zastava"
+  ],
+  "petri_dish": [
+    "bakterije",
+    "biolog",
+    "biologija",
+    "kultura",
+    "laboratorij",
+    "petrijevka"
+  ],
+  "philippines": [
+    "zastava"
+  ],
+  "pick": [
+    "kramp",
+    "orodje",
+    "rudarjenje"
+  ],
+  "pickup_truck": [
+    "pick-up",
+    "pickup",
+    "poltovornjak"
+  ],
+  "pie": [
+    "pita"
+  ],
+  "pig": [
+    "prašič",
+    "svinja"
+  ],
+  "pig_face": [
+    "obraz",
+    "prašič",
+    "prašičji obraz"
+  ],
+  "pig_nose": [
+    "obraz",
+    "prašič",
+    "prašičji rilec",
+    "rilec"
+  ],
+  "pill": [
+    "bolno",
+    "tableta",
+    "zdravilo",
+    "zdravnik"
+  ],
+  "pilot": [
+    "letalo",
+    "pilot letala"
+  ],
+  "pinched_fingers": [
+    "izpraševanje",
+    "kretnja z roko",
+    "prsti",
+    "prsti, stisnjeni skupaj",
+    "sarkastično",
+    "stisnjen"
+  ],
+  "pinching_hand": [
+    "majhna količina",
+    "malo",
+    "roka s ščepcem"
+  ],
+  "pine_decoration": [
+    "bambus",
+    "bor",
+    "japonsko",
+    "okrasitev bora",
+    "rastlina",
+    "slavje"
+  ],
+  "pineapple": [
+    "ananas",
+    "rastlina",
+    "sadje"
+  ],
+  "ping_pong": [
+    "igra",
+    "kij",
+    "lopar",
+    "namizni tenis",
+    "žogica"
+  ],
+  "pirate_flag": [
+    "gusarska zastava",
+    "pirat",
+    "piratska zastava",
+    "plenjenje",
+    "zaklad"
+  ],
+  "pisces": [
+    "riba",
+    "ribi",
+    "zodiak"
+  ],
+  "pitcairn_islands": [
+    "zastava"
+  ],
+  "pizza": [
+    "pica",
+    "rezina",
+    "sir"
+  ],
+  "piñata": [
+    "pinjata",
+    "praznovanje",
+    "zabava"
+  ],
+  "placard": [
+    "demonstracija",
+    "kol",
+    "plakat",
+    "protest",
+    "znak"
+  ],
+  "place_of_worship": [
+    "božji hram",
+    "čaščenje",
+    "vera"
+  ],
+  "play_button": [
+    "desno",
+    "gumb za predvajanje",
+    "predvajanje",
+    "puščica",
+    "trikotnik"
+  ],
+  "play_or_pause_button": [
+    "desno",
+    "gumb za predvajanje ali zaustavitev",
+    "predvajanje",
+    "puščica",
+    "trikotnik",
+    "zaustavitev"
+  ],
+  "pleading_face": [
+    "kužkove oči",
+    "milost",
+    "moledovanje",
+    "proseč obraz"
+  ],
+  "plunger": [
+    "odmaševalnik",
+    "sesalna skodela",
+    "sesanje",
+    "stranišče",
+    "vodoinštalater"
+  ],
+  "plus": [
+    "+",
+    "matematika",
+    "znak"
+  ],
+  "poland": [
+    "zastava"
+  ],
+  "polar_bear": [
+    "beli",
+    "medved",
+    "polarni",
+    "severni medved"
+  ],
+  "police_car": [
+    "avto",
+    "patruljno",
+    "policija",
+    "policijsko vozilo",
+    "vozilo"
+  ],
+  "police_car_light": [
+    "avto",
+    "luč",
+    "policija",
+    "policijska luč",
+    "rotacijska luč",
+    "vozilo",
+    "vrteče"
+  ],
+  "police_officer": [
+    "policaj",
+    "policija"
+  ],
+  "poodle": [
+    "pes",
+    "pudelj"
+  ],
+  "pool_8_ball": [
+    "8",
+    "biljard",
+    "igra",
+    "krogla",
+    "osmica"
+  ],
+  "poop": [
+    "drekec",
+    "iztrebki",
+    "kakec",
+    "kup kakca",
+    "obraz",
+    "pošast",
+    "strip"
+  ],
+  "popcorn": [
+    "kokice",
+    "pokovka"
+  ],
+  "portugal": [
+    "zastava"
+  ],
+  "post_office": [
+    "evropsko",
+    "pošta",
+    "zgradba"
+  ],
+  "postal_horn": [
+    "poštni rog",
+    "poštno",
+    "rog"
+  ],
+  "postbox": [
+    "pošta",
+    "poštni nabiralnik"
+  ],
+  "pot_of_food": [
+    "obara",
+    "skodelica",
+    "skodelica hrane"
+  ],
+  "potable_water": [
+    "piti",
+    "pitna voda",
+    "pitno",
+    "voda"
+  ],
+  "potato": [
+    "hrana",
+    "krompir",
+    "zelenjava"
+  ],
+  "potted_plant": [
+    "dolgčas",
+    "gojenje",
+    "hiša",
+    "lončnica",
+    "neuporabno",
+    "rasti",
+    "rastlina"
+  ],
+  "poultry_leg": [
+    "bedro",
+    "kost",
+    "perutnina",
+    "piščančje bedro",
+    "piščanec"
+  ],
+  "pound_banknote": [
+    "apoen",
+    "banka",
+    "bankovec",
+    "bankovec za funt",
+    "denar",
+    "funt",
+    "valuta"
+  ],
+  "pouting_cat": [
+    "kujanje",
+    "mačji obraz, ki kuha mulo",
+    "mačka",
+    "mačka kuha mulo",
+    "obraz"
+  ],
+  "prayer_beads": [
+    "koralde",
+    "molitev",
+    "oblačila",
+    "ogrlica",
+    "rožni venec",
+    "vera"
+  ],
+  "pregnant_woman": [
+    "nosečnica",
+    "ženska"
+  ],
+  "pretzel": [
+    "presta"
+  ],
+  "prince": [
+    "princ"
+  ],
+  "princess": [
+    "fantazija",
+    "pravljica",
+    "princesa"
+  ],
+  "printer": [
+    "računalnik",
+    "tiskalnik"
+  ],
+  "prohibited": [
+    "ne",
+    "prepovedano",
+    "vstop"
+  ],
+  "puerto_rico": [
+    "zastava"
+  ],
+  "purple_circle": [
+    "krog",
+    "škrlaten"
+  ],
+  "purple_heart": [
+    "srce",
+    "vijolično"
+  ],
+  "purple_square": [
+    "kvadrat",
+    "škrlaten"
+  ],
+  "purse": [
+    "drobižnica",
+    "kovanec",
+    "oblačila"
+  ],
+  "pushpin": [
+    "risalni žebljiček"
+  ],
+  "puzzle_piece": [
+    "delček",
+    "delček sestavljanke",
+    "namig",
+    "prileganje",
+    "sestavljanka"
+  ],
+  "qatar": [
+    "zastava"
+  ],
+  "rabbit": [
+    "domači ljubljenček",
+    "zajček",
+    "zajec"
+  ],
+  "rabbit_face": [
+    "domači ljubljenček",
+    "obraz",
+    "zajček",
+    "zajčji obraz",
+    "zajec"
+  ],
+  "raccoon": [
+    "radoveden",
+    "rakun",
+    "zvijačen"
+  ],
+  "racing_car": [
+    "avto",
+    "dirkalnik",
+    "dirkanje"
+  ],
+  "radio": [
+    "glasba"
+  ],
+  "radio_button": [
+    "geometrično",
+    "gumb",
+    "izbirni"
+  ],
+  "radioactive": [
+    "radioaktivno"
+  ],
+  "railway_car": [
+    "avtomobil",
+    "električno",
+    "tramvaj",
+    "trolejbus",
+    "vlak",
+    "vozilo",
+    "železnica",
+    "železniški vagon"
+  ],
+  "railway_track": [
+    "vlak",
+    "železnica",
+    "železniška proga"
+  ],
+  "rainbow": [
+    "dež",
+    "mavrica",
+    "vreme"
+  ],
+  "rainbow_flag": [
+    "mavrica",
+    "mavrična zastava",
+    "zastava"
+  ],
+  "raised_back_of_hand": [
+    "dlan",
+    "dvignjena",
+    "dvignjena hrbtna stran dlani",
+    "hrbtna stran"
+  ],
+  "raised_fist": [
+    "dlan",
+    "dvignjena pest",
+    "pest",
+    "pokrčeno",
+    "telo",
+    "udarec"
+  ],
+  "raised_hand": [
+    "dlan",
+    "dvignjena dlan",
+    "telo"
+  ],
+  "raising_hands": [
+    "dvignjeno",
+    "gesta",
+    "hura",
+    "oseba, ki dvigne roke",
+    "roka",
+    "slavje",
+    "telo"
+  ],
+  "ram": [
+    "ovca",
+    "oven",
+    "zodiak"
+  ],
+  "rat": [
+    "podgana"
+  ],
+  "razor": [
+    "britev",
+    "britje",
+    "britvica",
+    "ostro"
+  ],
+  "receipt": [
+    "dokaz",
+    "dokazilo",
+    "knjigovodstvo",
+    "račun",
+    "računovodstvo"
+  ],
+  "record_button": [
+    "gumb za snemanje",
+    "krog",
+    "snemanje"
+  ],
+  "recycling_symbol": [
+    "reciklirati",
+    "simbol za recikliranje"
+  ],
+  "red_apple": [
+    "jabolko",
+    "rastlina",
+    "rdeče",
+    "sadje"
+  ],
+  "red_circle": [
+    "geometrično",
+    "krog",
+    "rdeč krog",
+    "rdeče"
+  ],
+  "red_envelope": [
+    "darilo",
+    "denar",
+    "hóngbāo",
+    "lai see",
+    "rdeča ovojnica",
+    "sreča"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "klicaj",
+    "ločilo",
+    "znak"
+  ],
+  "red_paper_lantern": [
+    "bar",
+    "japonsko",
+    "lampijon",
+    "luč",
+    "rdeče",
+    "rdeči lampijon"
+  ],
+  "red_question_mark": [
+    "?",
+    "ločilo",
+    "vprašaj",
+    "znak"
+  ],
+  "red_square": [
+    "kvadrat",
+    "rdeč"
+  ],
+  "red_triangle_pointed_down": [
+    "geometrično",
+    "navzdol",
+    "rdeč trikotnik dol",
+    "rdeče"
+  ],
+  "red_triangle_pointed_up": [
+    "geometrično",
+    "rdeč trikotnik gor",
+    "rdeče"
+  ],
+  "registered": [
+    "r",
+    "registrirano"
+  ],
+  "relieved_face": [
+    "obraz",
+    "olajšan obraz",
+    "olajšano"
+  ],
+  "reminder_ribbon": [
+    "pentlja",
+    "simbol",
+    "simbolna pentlja",
+    "slavje"
+  ],
+  "repeat_button": [
+    "gumb za vnovično predvajanje",
+    "ponavljanje",
+    "puščica",
+    "smer urnega kazalca"
+  ],
+  "repeat_single_button": [
+    "enkratno",
+    "gumb za vnovično posamezno predvajanje",
+    "puščica",
+    "smer urnega kazalca"
+  ],
+  "rescue_worker_s_helmet": [
+    "čelada",
+    "čelada z belim križem",
+    "čepica",
+    "križ",
+    "obraz",
+    "pomoč"
+  ],
+  "restroom": [
+    "javno stranišče",
+    "wc"
+  ],
+  "reunion": [
+    "zastava"
+  ],
+  "reverse_button": [
+    "gumb za predvajanje nazaj",
+    "levo",
+    "nazaj",
+    "puščica",
+    "trikotnik"
+  ],
+  "revolving_hearts": [
+    "srce",
+    "vrteči se srci",
+    "vrtenje"
+  ],
+  "rhinoceros": [
+    "nosorog",
+    "žival"
+  ],
+  "ribbon": [
+    "pentlja",
+    "slavje"
+  ],
+  "rice_ball": [
+    "japonsko",
+    "kroglica",
+    "riž",
+    "riževa kroglica"
+  ],
+  "rice_cracker": [
+    "kreker",
+    "riž",
+    "rižev kreker"
+  ],
+  "right_anger_bubble": [
+    "balon",
+    "desni oblaček z jeznim govorom",
+    "divje",
+    "jezno",
+    "oblaček"
+  ],
+  "right_arrow": [
+    "glavno",
+    "puščica",
+    "puščica desno",
+    "smer",
+    "vzhod"
+  ],
+  "right_arrow_curving_down": [
+    "navzdol",
+    "puščica",
+    "puščica desno, ki se ukrivlja dol"
+  ],
+  "right_arrow_curving_left": [
+    "puščica",
+    "puščica desno, ki se ukrivlja v levo"
+  ],
+  "right_arrow_curving_up": [
+    "puščica",
+    "puščica desno, ki se ukrivlja gor"
+  ],
+  "right_facing_fist": [
+    "desno",
+    "pest",
+    "pest, obrnjena desno"
+  ],
+  "ring": [
+    "diamant",
+    "prstan",
+    "romanca"
+  ],
+  "ringed_planet": [
+    "planet z obročem",
+    "saturn",
+    "saturnov obroč"
+  ],
+  "roasted_sweet_potato": [
+    "krompir",
+    "pečeni sladki krompir",
+    "pečeno",
+    "sladko"
+  ],
+  "robot": [
+    "obraz",
+    "pošast"
+  ],
+  "rock": [
+    "kamen",
+    "pečina",
+    "skala",
+    "težek",
+    "trd"
+  ],
+  "rocket": [
+    "raketa",
+    "vesolje",
+    "vozilo"
+  ],
+  "rofl": [
+    "krohotanje",
+    "smeh",
+    "tla",
+    "valjanje po tleh"
+  ],
+  "roll_eyes": [
+    "obraz",
+    "obraz z zavijajočimi očmi",
+    "oči",
+    "zavijanje"
+  ],
+  "roll_of_paper": [
+    "papirnate brisače",
+    "toaletni papir",
+    "zvitek papirja"
+  ],
+  "rolled_up_newspaper": [
+    "časopis",
+    "novice",
+    "zvit časopis",
+    "zvito"
+  ],
+  "roller_coaster": [
+    "lunapark",
+    "vlak smrti",
+    "vlakec smrti"
+  ],
+  "roller_skate": [
+    "kotalka",
+    "kotalke",
+    "roler"
+  ],
+  "romania": [
+    "zastava"
+  ],
+  "rooster": [
+    "petelin"
+  ],
+  "rose": [
+    "rastlina",
+    "roža",
+    "vrtnica"
+  ],
+  "rosette": [
+    "rastlina",
+    "rozeta"
+  ],
+  "round_pushpin": [
+    "okrogli risalni žebljiček",
+    "risalni žebljiček"
+  ],
+  "rugby_football": [
+    "nogomet",
+    "ragbi",
+    "žoga",
+    "žoga za ragbi"
+  ],
+  "running_shirt": [
+    "lenta",
+    "majica",
+    "tek",
+    "tekaška majica"
+  ],
+  "running_shoe": [
+    "čevelj",
+    "oblačila",
+    "športno",
+    "superga",
+    "tekaški čevelj"
+  ],
+  "russia": [
+    "zastava"
+  ],
+  "rwanda": [
+    "zastava"
+  ],
+  "sad_but_relieved_face": [
+    "fiju",
+    "obraz",
+    "olajšano",
+    "razočaran, a olajšan obraz",
+    "razočarano"
+  ],
+  "safety_pin": [
+    "plenica",
+    "punk rock",
+    "varnostna zaponka"
+  ],
+  "safety_vest": [
+    "jopič",
+    "reševalni",
+    "v sili",
+    "varnostni jopič"
+  ],
+  "sagittarius": [
+    "strelec",
+    "zodiak"
+  ],
+  "sailboat": [
+    "čoln",
+    "jadrnica",
+    "jahta",
+    "letovišče",
+    "morje",
+    "vozilo"
+  ],
+  "sake": [
+    "bar",
+    "napitek",
+    "pijača",
+    "skodelica",
+    "steklenica"
+  ],
+  "salt": [
+    "sol",
+    "solnica",
+    "začimba"
+  ],
+  "samoa": [
+    "zastava"
+  ],
+  "san_marino": [
+    "zastava"
+  ],
+  "sandwich": [
+    "sendvič"
+  ],
+  "santa_claus": [
+    "božič",
+    "božiček",
+    "fantazija",
+    "oče",
+    "pravljica",
+    "slavje"
+  ],
+  "sao_tome_principe": [
+    "zastava"
+  ],
+  "sari": [
+    "oblačilo",
+    "obleka",
+    "ogrinjalo"
+  ],
+  "satellite": [
+    "satelit",
+    "vesolje",
+    "vozilo"
+  ],
+  "satellite_antenna": [
+    "antena",
+    "krožnik",
+    "satelitska antena",
+    "satelitsko"
+  ],
+  "saudi_arabia": [
+    "zastava"
+  ],
+  "sauropod": [
+    "brahiozaver",
+    "brontozaver",
+    "diplodok",
+    "zavropod"
+  ],
+  "saxophone": [
+    "glasba",
+    "instrument",
+    "saksofon"
+  ],
+  "scarf": [
+    "šal"
+  ],
+  "school": [
+    "šola",
+    "zgradba"
+  ],
+  "scientist": [
+    "biolog",
+    "fizik",
+    "inženir",
+    "kemik",
+    "matematik",
+    "raziskovalec",
+    "znanstvenik"
+  ],
+  "scissors": [
+    "orodje",
+    "škarje"
+  ],
+  "scorpio": [
+    "astrološki znak škorpijona",
+    "škorpijon",
+    "zodiak"
+  ],
+  "scorpion": [
+    "škorpijon",
+    "zodiak"
+  ],
+  "scotland": [
+    "zastava"
+  ],
+  "scream": [
+    "krik",
+    "munch",
+    "obraz",
+    "obraz, ki kriči od strahu",
+    "preplašeno",
+    "prestrašeno",
+    "strah"
+  ],
+  "screwdriver": [
+    "izvijač",
+    "orodje",
+    "vijak"
+  ],
+  "scroll": [
+    "papir",
+    "zvitek"
+  ],
+  "seal": [
+    "morski lev",
+    "tjulenj"
+  ],
+  "seat": [
+    "sedež",
+    "stol"
+  ],
+  "see_no_evil_monkey": [
+    "gesta",
+    "ne",
+    "obraz",
+    "opica",
+    "opica, ki ne vidi ničesar",
+    "prepovedano",
+    "videti",
+    "zlobno"
+  ],
+  "seedling": [
+    "mlado",
+    "rastlina",
+    "sadika"
+  ],
+  "selfie": [
+    "fotoaparat",
+    "kamera",
+    "mobilni telefon",
+    "selfi"
+  ],
+  "senegal": [
+    "zastava"
+  ],
+  "serbia": [
+    "zastava"
+  ],
+  "service_dog": [
+    "policijski",
+    "pomoč",
+    "reševalni",
+    "službeni pes",
+    "vojaški"
+  ],
+  "seven": [
+    "keycap"
+  ],
+  "seven_o_clock": [
+    "00",
+    "7",
+    "7.00",
+    "sedem",
+    "ura",
+    "ura je sedem"
+  ],
+  "seven_thirty": [
+    "30",
+    "7",
+    "7.30",
+    "osem",
+    "pol",
+    "pol osmih",
+    "sedem",
+    "ura"
+  ],
+  "sewing_needle": [
+    "igla",
+    "krojenje",
+    "šivanje",
+    "šivanka",
+    "šivi",
+    "spoji",
+    "vezenje"
+  ],
+  "seychelles": [
+    "zastava"
+  ],
+  "shallow_pan_of_food": [
+    "hrana",
+    "kozica",
+    "kozica s hrano",
+    "paella",
+    "ponev"
+  ],
+  "shamrock": [
+    "deteljica",
+    "rastlina"
+  ],
+  "shark": [
+    "morski pes",
+    "riba"
+  ],
+  "shaved_ice": [
+    "led",
+    "nastrgan led",
+    "nastrgano",
+    "posladek",
+    "sladko"
+  ],
+  "sheaf_of_rice": [
+    "klas",
+    "rastlina",
+    "riž",
+    "snop riža"
+  ],
+  "shield": [
+    "orožje",
+    "ščit"
+  ],
+  "shinto_shrine": [
+    "šinto",
+    "šintoistično svetišče",
+    "svetišče",
+    "vera"
+  ],
+  "ship": [
+    "ladja",
+    "vozilo"
+  ],
+  "shooting_star": [
+    "padanje",
+    "repatica",
+    "utrinek",
+    "vesolje",
+    "zvezda"
+  ],
+  "shopping_bags": [
+    "hotel",
+    "nakupovalni vrečki",
+    "nakupovanje",
+    "torbica"
+  ],
+  "shopping_cart": [
+    "košarica",
+    "nakupovalni voziček",
+    "nakupovanje",
+    "voziček"
+  ],
+  "shortcake": [
+    "krhek kolač",
+    "pecivo",
+    "posladek",
+    "rezina",
+    "sladko",
+    "torta"
+  ],
+  "shorts": [
+    "kopalke",
+    "kopalne hlače",
+    "kratke hlače",
+    "spodnje perilo"
+  ],
+  "shower": [
+    "tuš",
+    "voda"
+  ],
+  "shrimp": [
+    "hrana",
+    "kozica",
+    "morski rakec",
+    "rak",
+    "škamp"
+  ],
+  "shuffle_tracks_button": [
+    "gumb za naključno predvajanje",
+    "prekrižano",
+    "puščica"
+  ],
+  "shushing_face": [
+    "obraz s prstom čez usta"
+  ],
+  "sierra_leone": [
+    "zastava"
+  ],
+  "sign_of_the_horns": [
+    "dlan",
+    "prst",
+    "rock za vedno",
+    "rogovi",
+    "telo",
+    "znak za rogove"
+  ],
+  "singapore": [
+    "zastava"
+  ],
+  "singer": [
+    "igralec",
+    "izvajalec",
+    "komik",
+    "pevec",
+    "roker",
+    "zabavljač",
+    "zvezdnik"
+  ],
+  "sint_maarten": [
+    "zastava"
+  ],
+  "six": [
+    "keycap"
+  ],
+  "six_o_clock": [
+    "00",
+    "6",
+    "6.00",
+    "šest",
+    "ura",
+    "ura je šest"
+  ],
+  "six_thirty": [
+    "30",
+    "6",
+    "6.30",
+    "pol",
+    "pol sedmih",
+    "sedem",
+    "šest",
+    "ura"
+  ],
+  "skateboard": [
+    "deska",
+    "rolka"
+  ],
+  "skier": [
+    "smučar",
+    "smučati",
+    "sneg"
+  ],
+  "skis": [
+    "smučati",
+    "smučke",
+    "sneg"
+  ],
+  "skull": [
+    "mrtvaška glava",
+    "obraz",
+    "pošast",
+    "pravljica",
+    "smrt",
+    "telo"
+  ],
+  "skull_and_crossbones": [
+    "lobanja",
+    "mrtvaška glava s prekrižanima kostema",
+    "obraz",
+    "pošast",
+    "prekrižane kosti",
+    "smrt",
+    "telo"
+  ],
+  "skunk": [
+    "smrdi"
+  ],
+  "sled": [
+    "sanke"
+  ],
+  "sleeping_face": [
+    "obraz",
+    "spanje",
+    "speči obraz",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "obraz",
+    "spanje",
+    "zaspan obraz"
+  ],
+  "slightly_frowning_face": [
+    "mrščenje",
+    "nekoliko namrščen obraz",
+    "obraz"
+  ],
+  "slightly_smiling_face": [
+    "nasmeh",
+    "obraz",
+    "rahlo smejoči obraz"
+  ],
+  "slot_machine": [
+    "avtomat",
+    "igra",
+    "igralni avtomat"
+  ],
+  "sloth": [
+    "len",
+    "lenivec",
+    "počasen",
+    "zaspan"
+  ],
+  "slovakia": [
+    "zastava"
+  ],
+  "slovenia": [
+    "zastava"
+  ],
+  "small_airplane": [
+    "letalo",
+    "manjše letalo",
+    "vozilo"
+  ],
+  "small_blue_diamond": [
+    "geometrično",
+    "karo",
+    "majhen moder karo",
+    "modro"
+  ],
+  "small_orange_diamond": [
+    "geometrično",
+    "karo",
+    "majhen oranžen karo",
+    "oranžno"
+  ],
+  "smiley": [
+    "nasmeh",
+    "obraz",
+    "odprto",
+    "smejoči obraz z odprtimi usti",
+    "usta"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "ljubezen",
+    "mačka",
+    "nasmeh",
+    "obraz",
+    "oči",
+    "smejoča se mačka z očmi v obliki srčka",
+    "smejoči mačji obraz z očmi v obliki srčka",
+    "srce"
+  ],
+  "smiling_face": [
+    "nasmeh",
+    "obraz",
+    "obris",
+    "smejoči obraz",
+    "sproščeno"
+  ],
+  "smiling_face_with_horns": [
+    "fantazija",
+    "nasmeh",
+    "obraz",
+    "pravljica",
+    "rogovi",
+    "smejoči obraz z rogovi"
+  ],
+  "smiling_face_with_sunglasses": [
+    "frajersko",
+    "nasmeh",
+    "obraz",
+    "očala",
+    "oči",
+    "smejoči obraz s sončnimi očali",
+    "sonce",
+    "sončna očala",
+    "svetlo",
+    "vreme"
+  ],
+  "smiling_face_with_tear": [
+    "ganjenost",
+    "hvaležnost",
+    "nasmeh",
+    "olajšanje",
+    "ponos",
+    "smejoči obraz s solzo",
+    "solza"
+  ],
+  "smiling_face_with_three_hearts": [
+    "ljubezen",
+    "oboževanje",
+    "smejoči obraz s srčki",
+    "zaljubljenost"
+  ],
+  "smirking_face": [
+    "obraz",
+    "obraz s privoščljivim nasmeškom",
+    "privoščljiv nasmešek"
+  ],
+  "snail": [
+    "polž"
+  ],
+  "snake": [
+    "kača",
+    "kačenosec",
+    "prinašalec",
+    "zodiak"
+  ],
+  "sneezing_face": [
+    "kihanje",
+    "na zdravje",
+    "obraz, ki kiha"
+  ],
+  "snow_capped_mountain": [
+    "gora",
+    "hladno",
+    "sneg",
+    "zasnežena gora"
+  ],
+  "snowboarder": [
+    "deskar na snegu",
+    "smučati",
+    "sneg",
+    "snežna deska"
+  ],
+  "snowflake": [
+    "mrzlo",
+    "sneg",
+    "snežinka",
+    "vreme"
+  ],
+  "snowman": [
+    "mrzlo",
+    "sneg",
+    "snežak",
+    "vreme"
+  ],
+  "snowman_without_snow": [
+    "mrzlo",
+    "sneg",
+    "snežak",
+    "snežak brez snega",
+    "vreme"
+  ],
+  "soap": [
+    "čiščenje",
+    "kopanje",
+    "kos",
+    "milo",
+    "pena",
+    "posodica za milo"
+  ],
+  "sob": [
+    "cmerajoči obraz",
+    "ihtenje",
+    "jokanje",
+    "obraz",
+    "solze",
+    "žalostno"
+  ],
+  "soccer_ball": [
+    "nogomet",
+    "nogometna žoga",
+    "žoga"
+  ],
+  "socks": [
+    "nogavice"
+  ],
+  "soft_ice_cream": [
+    "krema",
+    "led",
+    "mehko",
+    "posladek",
+    "rahel sladoled",
+    "sladko",
+    "sladoled"
+  ],
+  "softball": [
+    "pod roko",
+    "rokavica",
+    "žoga",
+    "žoga za softball"
+  ],
+  "solomon_islands": [
+    "zastava"
+  ],
+  "somalia": [
+    "zastava"
+  ],
+  "soon_arrow": [
+    "kmalu",
+    "puščica"
+  ],
+  "sos_button": [
+    "gumb sos",
+    "na pomoč",
+    "sos"
+  ],
+  "south_africa": [
+    "zastava"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "zastava"
+  ],
+  "south_korea": [
+    "zastava"
+  ],
+  "south_sudan": [
+    "zastava"
+  ],
+  "spade_suit": [
+    "barva",
+    "igra",
+    "karta",
+    "pik"
+  ],
+  "spaghetti": [
+    "špageti",
+    "testenine"
+  ],
+  "spain": [
+    "zastava"
+  ],
+  "sparkle": [
+    "*",
+    "iskra"
+  ],
+  "sparkler": [
+    "iskrenje",
+    "ognjemet",
+    "sibirska lučka",
+    "slavje"
+  ],
+  "sparkles": [
+    "*",
+    "iskrenje",
+    "iskrice",
+    "zvezda"
+  ],
+  "sparkling_heart": [
+    "lesketajoče srce",
+    "lesketati se",
+    "srce",
+    "vznemirjeno"
+  ],
+  "speak_no_evil_monkey": [
+    "gesta",
+    "govoriti",
+    "ne",
+    "obraz",
+    "opica",
+    "opica, ki ničesar ne govori",
+    "prepovedano",
+    "zlobno"
+  ],
+  "speaker_high_volume": [
+    "glasno",
+    "zvočnik na glas"
+  ],
+  "speaker_low_volume": [
+    "glasnost",
+    "zvočnik pri nizki glasnosti"
+  ],
+  "speaker_medium_volume": [
+    "glasnost",
+    "nizko",
+    "val",
+    "zvočnik",
+    "zvočnik pri zmerni glasnosti"
+  ],
+  "speaking_head": [
+    "glava",
+    "govoreča glava",
+    "govoriti",
+    "govorjenje",
+    "obraz",
+    "silhueta"
+  ],
+  "speech_balloon": [
+    "balon",
+    "dialog",
+    "govor",
+    "oblaček",
+    "oblaček z govorom",
+    "strip"
+  ],
+  "speedboat": [
+    "čoln",
+    "gliser",
+    "vozilo"
+  ],
+  "spider": [
+    "pajek",
+    "žuželka"
+  ],
+  "spider_web": [
+    "mreža",
+    "pajek",
+    "pajkova mreža"
+  ],
+  "spiral_calendar": [
+    "beležka",
+    "koledar",
+    "spirala",
+    "spiralni koledar"
+  ],
+  "spiral_notepad": [
+    "beležka",
+    "beležnica",
+    "spirala",
+    "spiralna beležnica"
+  ],
+  "spiral_shell": [
+    "školjka",
+    "spiralna školjka",
+    "spiralno"
+  ],
+  "sponge": [
+    "čiščenje",
+    "porozno",
+    "spužva",
+    "vpojno"
+  ],
+  "spoon": [
+    "pribor",
+    "žlica"
+  ],
+  "sport_utility_vehicle": [
+    "cestni terenec",
+    "prostočasno",
+    "vozilo"
+  ],
+  "sports_medal": [
+    "medalja",
+    "športna medalja"
+  ],
+  "spouting_whale": [
+    "brizganje",
+    "kit",
+    "kit, ki brizga vodo",
+    "obraz"
+  ],
+  "squid": [
+    "hrana",
+    "ligenj",
+    "mehkužec"
+  ],
+  "squinting_face_with_tongue": [
+    "grozno",
+    "jezik",
+    "obraz",
+    "obraz z molečim jezikom in trdno zaprtimi očmi",
+    "oči",
+    "okus"
+  ],
+  "sri_lanka": [
+    "zastava"
+  ],
+  "st_barthelemy": [
+    "zastava"
+  ],
+  "st_helena": [
+    "zastava"
+  ],
+  "st_kitts_nevis": [
+    "zastava"
+  ],
+  "st_lucia": [
+    "zastava"
+  ],
+  "st_martin": [
+    "zastava"
+  ],
+  "st_pierre_miquelon": [
+    "zastava"
+  ],
+  "st_vincent_grenadines": [
+    "zastava"
+  ],
+  "stadium": [
+    "stadion"
+  ],
+  "star": [
+    "bela srednja zvezda",
+    "zvezda"
+  ],
+  "star_and_crescent": [
+    "islam",
+    "muslimansko",
+    "vera",
+    "zvezda in polmesec"
+  ],
+  "star_of_david": [
+    "david",
+    "davidova zvezda",
+    "jud",
+    "judovsko",
+    "vera",
+    "zvezda"
+  ],
+  "star_struck": [
+    "obraz z očmi v obliki zvezdic"
+  ],
+  "station": [
+    "postaja",
+    "vlak",
+    "vozilo",
+    "železnica"
+  ],
+  "statue_of_liberty": [
+    "kip",
+    "kip svobode",
+    "svoboda"
+  ],
+  "steaming_bowl": [
+    "ramen",
+    "rezanci",
+    "skleda",
+    "skleda rezancev",
+    "vrelo"
+  ],
+  "stethoscope": [
+    "medicina",
+    "pljuča",
+    "prsni koš",
+    "srce",
+    "stetoskop",
+    "zdravnik"
+  ],
+  "stop_button": [
+    "gumb za ustavitev",
+    "kvadrat",
+    "ustavitev"
+  ],
+  "stop_sign": [
+    "osemkotnik",
+    "stop",
+    "znak"
+  ],
+  "stopwatch": [
+    "štoparica",
+    "ura"
+  ],
+  "straight_ruler": [
+    "merilo",
+    "ravnilo"
+  ],
+  "strawberry": [
+    "jagoda",
+    "rastina",
+    "sadje"
+  ],
+  "student": [
+    "diplomant",
+    "diplomantka",
+    "študent"
+  ],
+  "studio_microphone": [
+    "glasba",
+    "mikrofon",
+    "studijski mikrofon",
+    "studio"
+  ],
+  "stuffed_flatbread": [
+    "falafel",
+    "gyros",
+    "hrana",
+    "kebab",
+    "nadev"
+  ],
+  "sudan": [
+    "zastava"
+  ],
+  "sun": [
+    "sonce",
+    "sončno",
+    "svetlo",
+    "vesolje",
+    "vreme",
+    "žarki"
+  ],
+  "sun_behind_cloud": [
+    "oblak",
+    "sonce",
+    "sonce za oblakom",
+    "vreme"
+  ],
+  "sun_behind_large_cloud": [
+    "oblak",
+    "sonce",
+    "sonce za velikim oblakom",
+    "vreme"
+  ],
+  "sun_behind_rain_cloud": [
+    "dež",
+    "oblak",
+    "sonce",
+    "sonce za oblakom z dežjem",
+    "vreme"
+  ],
+  "sun_behind_small_cloud": [
+    "oblak",
+    "sonce",
+    "sonce za oblačkom",
+    "vreme"
+  ],
+  "sun_with_face": [
+    "obraz",
+    "sonce",
+    "sonce z obrazom",
+    "svetlo",
+    "vesolje",
+    "vreme"
+  ],
+  "sunflower": [
+    "rastlina",
+    "roža",
+    "sonce",
+    "sončnica"
+  ],
+  "sunglasses": [
+    "očala",
+    "oči",
+    "sončna očala",
+    "temno"
+  ],
+  "sunrise": [
+    "jutro",
+    "sonce",
+    "sončni vzhod",
+    "vreme"
+  ],
+  "sunrise_over_mountains": [
+    "gora",
+    "jutro",
+    "sonce",
+    "sončni vzhod",
+    "sončni vzhod v gorah",
+    "vreme"
+  ],
+  "sunset": [
+    "mrak",
+    "sonce",
+    "sončni zahod",
+    "vreme",
+    "zgradba"
+  ],
+  "superhero": [
+    "dober",
+    "junak",
+    "junakinja",
+    "super moč",
+    "superjunak/superjunakinja"
+  ],
+  "supervillain": [
+    "kriminalec",
+    "negativec",
+    "super moč",
+    "super negativec",
+    "zloben"
+  ],
+  "suriname": [
+    "zastava"
+  ],
+  "sushi": [
+    "suši"
+  ],
+  "suspension_railway": [
+    "viseča železnica",
+    "viseče",
+    "vozilo",
+    "železnica"
+  ],
+  "svalbard_jan_mayen": [
+    "zastava"
+  ],
+  "swan": [
+    "grdi raček",
+    "labod",
+    "mlad labod",
+    "ptica"
+  ],
+  "sweat_droplets": [
+    "pljuskanje",
+    "pot",
+    "potne kapljice",
+    "strip"
+  ],
+  "sweat_smile": [
+    "mrzlo",
+    "nasmeh",
+    "obraz",
+    "odprto",
+    "pot",
+    "smejoči obraz z odprtimi usti in mrzlim potom"
+  ],
+  "sweden": [
+    "zastava"
+  ],
+  "switzerland": [
+    "zastava"
+  ],
+  "synagogue": [
+    "jud",
+    "judovsko",
+    "sinagoga",
+    "tempelj",
+    "vera"
+  ],
+  "syria": [
+    "zastava"
+  ],
+  "syringe": [
+    "bolno",
+    "igla",
+    "injekcija",
+    "medicina",
+    "orodje",
+    "zdravnik"
+  ],
+  "t_rex": [
+    "tiranozaver"
+  ],
+  "t_shirt": [
+    "kratka majica",
+    "majica",
+    "oblačila",
+    "srajca"
+  ],
+  "taco": [
+    "mehiški prigrizek"
+  ],
+  "tada": [
+    "pokalica",
+    "pokalica za zabave",
+    "slavje",
+    "zabava"
+  ],
+  "taiwan": [
+    "zastava"
+  ],
+  "tajikistan": [
+    "zastava"
+  ],
+  "takeout_box": [
+    "embalaža za hrano",
+    "kartonska embalaža za hrano"
+  ],
+  "tamale": [
+    "mehiška",
+    "zavitek"
+  ],
+  "tanabata_tree": [
+    "drevo",
+    "drevo za tanabato",
+    "japonsko",
+    "pasica",
+    "slavje"
+  ],
+  "tangerine": [
+    "mandarina",
+    "pomaranča",
+    "rastlina",
+    "sadje"
+  ],
+  "tanzania": [
+    "zastava"
+  ],
+  "taurus": [
+    "bik",
+    "vol",
+    "zodiak"
+  ],
+  "taxi": [
+    "taksi",
+    "vozilo"
+  ],
+  "teacher": [
+    "inštruktor",
+    "profesor",
+    "učitelj"
+  ],
+  "teacup_without_handle": [
+    "čaj",
+    "čajna skodelica brez ročaja",
+    "napitek",
+    "piti",
+    "skodelica",
+    "skodelica čaja"
+  ],
+  "teapot": [
+    "čaj",
+    "čajnik",
+    "pijača",
+    "vrč"
+  ],
+  "tear_off_calendar": [
+    "koledar",
+    "koledar z odstranljivimi listi"
+  ],
+  "technologist": [
+    "izumitelj",
+    "programer",
+    "programska oprema",
+    "računalnik",
+    "razvijalec",
+    "strokovnjak za tehnologijo",
+    "tehnolog",
+    "tehnologija"
+  ],
+  "teddy_bear": [
+    "igrača",
+    "lutka",
+    "medvedek",
+    "plišasta",
+    "polnjena"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "sprejemnik",
+    "telefon",
+    "telefonska slušalka"
+  ],
+  "telescope": [
+    "orodje",
+    "teleskop"
+  ],
+  "television": [
+    "televizija",
+    "tv",
+    "video"
+  ],
+  "ten": [
+    "keycap"
+  ],
+  "ten_o_clock": [
+    "00",
+    "10",
+    "10.00",
+    "deset",
+    "ura",
+    "ura je deset"
+  ],
+  "ten_thirty": [
+    "10",
+    "10.30",
+    "30",
+    "deset",
+    "enajst",
+    "pol",
+    "pol enajstih",
+    "ura"
+  ],
+  "tennis": [
+    "lopar",
+    "tenis",
+    "žoga"
+  ],
+  "tent": [
+    "šotor",
+    "taborjenje"
+  ],
+  "test_tube": [
+    "eksperiment",
+    "epruveta",
+    "kemija",
+    "kemik",
+    "laboratorij",
+    "znanost"
+  ],
+  "thailand": [
+    "zastava"
+  ],
+  "thermometer": [
+    "termometer",
+    "vreme"
+  ],
+  "thinking": [
+    "obraz",
+    "razmišljanje",
+    "razmišljujoči obraz"
+  ],
+  "thong_sandal": [
+    "japonke",
+    "obuvalo za plažo",
+    "sandali",
+    "sandali za plažo",
+    "zōri"
+  ],
+  "thought_balloon": [
+    "balon",
+    "misel",
+    "oblaček",
+    "oblaček z mislimi",
+    "strip"
+  ],
+  "thread": [
+    "navitek",
+    "nit",
+    "šivanje",
+    "šivanka",
+    "sukanec"
+  ],
+  "three": [
+    "keycap"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3.00",
+    "tri",
+    "ura",
+    "ura je tri"
+  ],
+  "three_thirty": [
+    "3",
+    "3.30",
+    "30",
+    "pol",
+    "pol štirih",
+    "štiri",
+    "tri",
+    "ura"
+  ],
+  "ticket": [
+    "vstopnica",
+    "vstopnina"
+  ],
+  "tiger_face": [
+    "obraz",
+    "tiger",
+    "tigrov obraz"
+  ],
+  "timer_clock": [
+    "časovnik",
+    "ura"
+  ],
+  "timor_leste": [
+    "zastava"
+  ],
+  "tired_face": [
+    "obraz",
+    "utrujen obraz",
+    "utrujeno"
+  ],
+  "togo": [
+    "zastava"
+  ],
+  "toilet": [
+    "stranišče",
+    "straniščna školjka"
+  ],
+  "tokelau": [
+    "zastava"
+  ],
+  "tokyo_tower": [
+    "stolp",
+    "tokijski stolp",
+    "tokio"
+  ],
+  "tomato": [
+    "paradižnik",
+    "rastlina",
+    "zelenjava"
+  ],
+  "tonga": [
+    "zastava"
+  ],
+  "tongue": [
+    "jezik",
+    "telo"
+  ],
+  "toolbox": [
+    "mehanik",
+    "orodje",
+    "zaboj",
+    "zaboj za orodje"
+  ],
+  "tooth": [
+    "zob",
+    "zobozdravnik"
+  ],
+  "toothbrush": [
+    "čisto",
+    "higiena",
+    "kopalnica",
+    "ščetka",
+    "zobje",
+    "zobna"
+  ],
+  "top_arrow": [
+    "navzgor",
+    "puščica",
+    "puščica na vrh",
+    "zgoraj"
+  ],
+  "top_hat": [
+    "cilinder",
+    "klobuk",
+    "oblačila"
+  ],
+  "tornado": [
+    "oblak",
+    "vreme",
+    "vrtinec"
+  ],
+  "trackball": [
+    "računalnik",
+    "sledilna kroglica"
+  ],
+  "tractor": [
+    "traktor",
+    "vozilo"
+  ],
+  "trade_mark": [
+    "blagovna znamka",
+    "tm",
+    "znak"
+  ],
+  "train": [
+    "vlak",
+    "vozilo",
+    "železnica"
+  ],
+  "tram": [
+    "tramvaj",
+    "trolejbus",
+    "vozilo"
+  ],
+  "tram_car": [
+    "tramvaj",
+    "trolejbus",
+    "vagon",
+    "vagon tramvaja",
+    "vozilo"
+  ],
+  "transgender_flag": [
+    "bela",
+    "rožnata",
+    "svetlo modra",
+    "transspolna zastava",
+    "transspolnost",
+    "zastava"
+  ],
+  "transgender_symbol": [
+    "simbol za transseksualnost",
+    "transseksualnost"
+  ],
+  "triangular_flag": [
+    "trikotna zastava",
+    "zastavica"
+  ],
+  "triangular_ruler": [
+    "merilo",
+    "nastaviti",
+    "trikotnik",
+    "trikotno ravnilo"
+  ],
+  "trident_emblem": [
+    "ladja",
+    "orodje",
+    "sidro",
+    "trizob",
+    "trizobo znamenje",
+    "znamenje"
+  ],
+  "trinidad_tobago": [
+    "zastava"
+  ],
+  "tristan_da_cunha": [
+    "zastava"
+  ],
+  "trolleybus": [
+    "avtobus",
+    "tramvaj",
+    "trolejbus",
+    "vozilo"
+  ],
+  "trophy": [
+    "nagrada",
+    "trofeja"
+  ],
+  "tropical_drink": [
+    "bar",
+    "pijača",
+    "tropska pijača",
+    "tropsko"
+  ],
+  "tropical_fish": [
+    "riba",
+    "tropska riba",
+    "tropsko"
+  ],
+  "trumpet": [
+    "glasba",
+    "glasbilo",
+    "trobenta"
+  ],
+  "tulip": [
+    "rastlina",
+    "roža",
+    "tulipan"
+  ],
+  "tumbler_glass": [
+    "kozarec",
+    "kozarec žgane pijače",
+    "merica",
+    "viski",
+    "žgane pijače"
+  ],
+  "tunisia": [
+    "zastava"
+  ],
+  "turkey": [
+    "puran"
+  ],
+  "turkmenistan": [
+    "zastava"
+  ],
+  "turks_caicos_islands": [
+    "zastava"
+  ],
+  "turtle": [
+    "želva"
+  ],
+  "tuvalu": [
+    "zastava"
+  ],
+  "twelve_o_clock": [
+    "00",
+    "12",
+    "dvanajst",
+    "poldne",
+    "ura"
+  ],
+  "twelve_thirty": [
+    "12",
+    "12.30",
+    "30",
+    "dvanajst",
+    "ena",
+    "pol",
+    "pol enih",
+    "ura"
+  ],
+  "two": [
+    "keycap"
+  ],
+  "two_hearts": [
+    "dve srci",
+    "ljubezen",
+    "srce"
+  ],
+  "two_hump_camel": [
+    "dvogrba kamela",
+    "dvogrbo",
+    "grba",
+    "kamela"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2.00",
+    "dve",
+    "ura",
+    "ura je dve"
+  ],
+  "two_thirty": [
+    "2",
+    "2.30",
+    "30",
+    "dve",
+    "pol",
+    "pol treh",
+    "tri",
+    "ura"
+  ],
+  "türkiye": [
+    "zastava"
+  ],
+  "uganda": [
+    "zastava"
+  ],
+  "ukraine": [
+    "zastava"
+  ],
+  "umbrella": [
+    "dež",
+    "dežnik",
+    "oblačila",
+    "vreme"
+  ],
+  "umbrella_on_ground": [
+    "dež",
+    "dežnik",
+    "dežnik na tleh",
+    "sonce",
+    "vreme"
+  ],
+  "umbrella_with_rain_drops": [
+    "dež",
+    "dežnik",
+    "dežnik z dežnimi kapljami",
+    "kaplja",
+    "oblačila",
+    "vreme"
+  ],
+  "unamused_face": [
+    "nenaklonjeno",
+    "nezadovoljno",
+    "obraz",
+    "obraz s hladnim nasmeškom"
+  ],
+  "unicorn": [
+    "obraz",
+    "samorog"
+  ],
+  "united_arab_emirates": [
+    "zastava"
+  ],
+  "united_kingdom": [
+    "zastava"
+  ],
+  "united_nations": [
+    "zastava"
+  ],
+  "united_states": [
+    "zastava"
+  ],
+  "unlocked": [
+    "ključavnica",
+    "odkleniti",
+    "odklenjena ključavnica",
+    "odprto"
+  ],
+  "up_arrow": [
+    "glavno",
+    "puščica",
+    "puščica gor",
+    "sever",
+    "smer"
+  ],
+  "up_button": [
+    "gumb z besedo up in klicajem",
+    "navzgor",
+    "znak"
+  ],
+  "up_down_arrow": [
+    "puščica",
+    "puščica gor dol"
+  ],
+  "up_left_arrow": [
+    "puščica",
+    "puščica levo gor",
+    "severozahodno",
+    "smer",
+    "stransko"
+  ],
+  "up_right_arrow": [
+    "puščica",
+    "puščica desno gor",
+    "severovzhod",
+    "smer",
+    "stransko"
+  ],
+  "upside_down_face": [
+    "na glavo obrnjen obraz",
+    "narobe obrnjeno",
+    "obraz"
+  ],
+  "upwards_button": [
+    "gumb",
+    "gumb za gor",
+    "puščica",
+    "rdeče"
+  ],
+  "uruguay": [
+    "zastava"
+  ],
+  "us_outlying_islands": [
+    "zastava"
+  ],
+  "us_virgin_islands": [
+    "zastava"
+  ],
+  "uzbekistan": [
+    "zastava"
+  ],
+  "vampire": [
+    "drakula",
+    "nesmrtnost",
+    "vampir",
+    "vampirji"
+  ],
+  "vanuatu": [
+    "zastava"
+  ],
+  "vatican_city": [
+    "zastava"
+  ],
+  "venezuela": [
+    "zastava"
+  ],
+  "vertical_traffic_light": [
+    "luč",
+    "navpični semafor",
+    "promet",
+    "semafor"
+  ],
+  "vibration_mode": [
+    "mobilnik",
+    "mobilno",
+    "način",
+    "način vibriranja",
+    "telefon",
+    "vibriranje"
+  ],
+  "victory_hand": [
+    "dlan",
+    "dlan s prstoma, ki kažeta znak za zmago",
+    "telo",
+    "v",
+    "zmaga"
+  ],
+  "video_camera": [
+    "video",
+    "videokamera"
+  ],
+  "video_game": [
+    "igra",
+    "krmilnik",
+    "videoigra"
+  ],
+  "videocassette": [
+    "kaseta",
+    "vhs",
+    "video",
+    "videokaseta"
+  ],
+  "vietnam": [
+    "zastava"
+  ],
+  "violin": [
+    "glasba",
+    "glasbilo",
+    "violina"
+  ],
+  "virgo": [
+    "deva",
+    "devica",
+    "zodiak"
+  ],
+  "volcano": [
+    "gora",
+    "izbruh",
+    "vreme",
+    "vulkan"
+  ],
+  "volleyball": [
+    "igra",
+    "žoga",
+    "žoga za odbojko"
+  ],
+  "vs_button": [
+    "gumb vs",
+    "proti"
+  ],
+  "vulcan_salute": [
+    "dlan",
+    "prst",
+    "spock",
+    "telo",
+    "vulkan",
+    "vulkanski pozdrav"
+  ],
+  "waffle": [
+    "oblat",
+    "pecivo",
+    "vafelj"
+  ],
+  "wales": [
+    "zastava"
+  ],
+  "wallis_futuna": [
+    "zastava"
+  ],
+  "waning_crescent_moon": [
+    "krajec",
+    "luna",
+    "vesolje",
+    "vreme",
+    "zadnji"
+  ],
+  "waning_gibbous_moon": [
+    "luna",
+    "polovično",
+    "več kot polovično osvetljen zadnji krajec",
+    "vesolje",
+    "vreme",
+    "zadnji"
+  ],
+  "warning": [
+    "opozorilo"
+  ],
+  "wastebasket": [
+    "koš za smeti"
+  ],
+  "watch": [
+    "ročna ura",
+    "ura"
+  ],
+  "water_buffalo": [
+    "bivol",
+    "voda",
+    "vodni bivol"
+  ],
+  "water_closet": [
+    "stranišče",
+    "voda",
+    "wc"
+  ],
+  "water_pistol": [
+    "orodje",
+    "orožje",
+    "pištola",
+    "revolver"
+  ],
+  "watermelon": [
+    "lubenica",
+    "rastlina",
+    "sadje"
+  ],
+  "waving_hand": [
+    "dlan",
+    "mahajoča dlan",
+    "mahanje",
+    "mahati",
+    "telo"
+  ],
+  "wavy_dash": [
+    "ločilo",
+    "pomišljaj",
+    "valovit pomišljaj",
+    "valovito"
+  ],
+  "waxing_crescent_moon": [
+    "krajec",
+    "luna",
+    "prvi",
+    "vesolje",
+    "vreme"
+  ],
+  "waxing_gibbous_moon": [
+    "luna",
+    "polovično",
+    "prvi",
+    "več kot polovično osvetljen prvi krajec",
+    "vesolje",
+    "vreme"
+  ],
+  "weary_cat": [
+    "mačka",
+    "naveličano",
+    "obraz",
+    "odprta usta",
+    "presenečena mačka",
+    "presenečeno"
+  ],
+  "weary_face": [
+    "izčrpan obraz",
+    "izčrpano",
+    "obraz",
+    "utrujeno"
+  ],
+  "wedding": [
+    "kapela",
+    "poročna kapela",
+    "romanca"
+  ],
+  "western_sahara": [
+    "zastava"
+  ],
+  "whale": [
+    "kit"
+  ],
+  "wheel_of_dharma": [
+    "budistično",
+    "darma",
+    "kolo",
+    "kolo darme",
+    "vera"
+  ],
+  "wheelchair_symbol": [
+    "dostop",
+    "invalidski voziček"
+  ],
+  "white_cane": [
+    "invalid",
+    "palica za slepe",
+    "slepota"
+  ],
+  "white_check_mark": [
+    "✓",
+    "gumb",
+    "gumb s kljukico",
+    "kljukica",
+    "potrditev"
+  ],
+  "white_circle": [
+    "bel krog",
+    "geometrično",
+    "krog"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "bel klicaj",
+    "klicaj",
+    "obrobljeno",
+    "znak"
+  ],
+  "white_flag": [
+    "plapolajoča bela zastava",
+    "plapolanje"
+  ],
+  "white_flower": [
+    "bela cvetlica",
+    "roža"
+  ],
+  "white_heart": [
+    "belo",
+    "srce"
+  ],
+  "white_large_square": [
+    "geometrično",
+    "kvadrat",
+    "velik bel kvadrat"
+  ],
+  "white_medium_small_square": [
+    "geometrično",
+    "kvadrat",
+    "srednje mali beli kvadrat"
+  ],
+  "white_medium_square": [
+    "geometrično",
+    "kvadrat",
+    "srednji bel kvadrat"
+  ],
+  "white_question_mark": [
+    "?",
+    "bel vprašaj",
+    "ločilo",
+    "obrobljeno",
+    "oznaka",
+    "vprašaj",
+    "vprašanje"
+  ],
+  "white_small_square": [
+    "geometrično",
+    "kvadrat",
+    "majhen bel kvadrat"
+  ],
+  "white_square_button": [
+    "geometrično",
+    "gumb",
+    "gumb z belim kvadratom",
+    "kvadrat",
+    "obrobljeno"
+  ],
+  "wilted_flower": [
+    "ovenela",
+    "roža"
+  ],
+  "wind_chime": [
+    "slavje",
+    "veter",
+    "vetrni zvončki",
+    "zvonček",
+    "zvonec"
+  ],
+  "wind_face": [
+    "oblak",
+    "obraz",
+    "obraz, ki piha veter",
+    "pihati",
+    "veter",
+    "vreme"
+  ],
+  "window": [
+    "odprtina",
+    "okno",
+    "okvir",
+    "pogled",
+    "prosojno",
+    "svež zrak"
+  ],
+  "wine_glass": [
+    "bar",
+    "napitek",
+    "pijača",
+    "steklenica",
+    "vino",
+    "vinski kozarec"
+  ],
+  "wink": [
+    "obraz",
+    "obraz s pomežikom",
+    "pomežik"
+  ],
+  "winking_face_with_tongue": [
+    "jezik",
+    "mežik",
+    "obraz",
+    "obraz z molečim jezikom in pomežikom",
+    "oči",
+    "šala"
+  ],
+  "wolf": [
+    "obraz",
+    "volk"
+  ],
+  "woman": [
+    "dekle",
+    "ženska"
+  ],
+  "woman_and_man_holding_hands": [
+    "držati",
+    "moški",
+    "moški in ženska se držita za roke",
+    "par",
+    "roka",
+    "ženska"
+  ],
+  "woman_artist": [
+    "dekle",
+    "paleta",
+    "slikarka",
+    "umetnica",
+    "umetnost",
+    "ženska"
+  ],
+  "woman_astronaut": [
+    "astronavtka",
+    "dekle",
+    "raketa",
+    "vesolje",
+    "ženska"
+  ],
+  "woman_bald": [
+    "dekle",
+    "plešast",
+    "ženska"
+  ],
+  "woman_biking": [
+    "dekle",
+    "kolesarjenje",
+    "kolesarka",
+    "kolo",
+    "ženska"
+  ],
+  "woman_bouncing_ball": [
+    "dekle",
+    "ženska",
+    "ženska z žogo",
+    "žoga"
+  ],
+  "woman_bowing": [
+    "dekle",
+    "gesta",
+    "opravičilo",
+    "oprosti",
+    "priklanjanje",
+    "priklon",
+    "usluga",
+    "ženska",
+    "ženska, ki se globoko priklanja"
+  ],
+  "woman_cartwheeling": [
+    "dekle",
+    "gimnastika",
+    "kolo",
+    "oseba",
+    "premet vstran",
+    "šport",
+    "ženska",
+    "ženska, ki dela premet vstran"
+  ],
+  "woman_climbing": [
+    "plezalec",
+    "plezalka",
+    "ženska, ki pleza"
+  ],
+  "woman_cook": [
+    "chef",
+    "dekle",
+    "kuharica",
+    "šefinja kuhinje",
+    "ženska"
+  ],
+  "woman_curly_hair": [
+    "dekle",
+    "kodrasti lasje",
+    "ženska"
+  ],
+  "woman_dancing": [
+    "ples",
+    "plesalka",
+    "ženska",
+    "ženska, ki pleše"
+  ],
+  "woman_detective": [
+    "detektivka",
+    "dokaz",
+    "vohunka",
+    "ženska"
+  ],
+  "woman_elf": [
+    "škratovka",
+    "vilinka"
+  ],
+  "woman_facepalming": [
+    "dekle",
+    "dvom",
+    "facepalm",
+    "obup",
+    "ogorčenje",
+    "prekriti obraz z dlanjo",
+    "ženska",
+    "ženska, ki obraz prekriva z dlanjo"
+  ],
+  "woman_factory_worker": [
+    "dekle",
+    "delavka",
+    "delavka v tovarni",
+    "industrijski",
+    "proizvodnja",
+    "tekoči trak",
+    "tovarna",
+    "tovarnarka",
+    "ženska"
+  ],
+  "woman_fairy": [
+    "vila"
+  ],
+  "woman_farmer": [
+    "dekle",
+    "kmetica",
+    "kmetovalka",
+    "vrtnarka",
+    "ženska",
+    "živinorejka"
+  ],
+  "woman_feeding_baby": [
+    "dojenček",
+    "dojenje",
+    "hranjenje",
+    "ženska",
+    "ženska, ki doji dojenčka"
+  ],
+  "woman_firefighter": [
+    "dekle",
+    "gasilka",
+    "gasilni avto",
+    "ogenj",
+    "ženska"
+  ],
+  "woman_frowning": [
+    "dekle",
+    "mrščiti se",
+    "neodobravanje",
+    "obraz",
+    "obrazna mimika",
+    "ženska",
+    "ženska z namrščenim obrazom"
+  ],
+  "woman_genie": [
+    "ženski duh iz steklenice"
+  ],
+  "woman_gesturing_no": [
+    "dekle",
+    "kretnja",
+    "ne",
+    "neodobravanje",
+    "ni dovoljeno",
+    "ni v redu",
+    "prepovedano",
+    "roka",
+    "ženska",
+    "ženska, ki s kretnjo izraža prepoved"
+  ],
+  "woman_gesturing_ok": [
+    "dekle",
+    "kretnja",
+    "ok",
+    "roka",
+    "v redu",
+    "ženska",
+    "ženska, ki s kretnjo izraža odobravanje"
+  ],
+  "woman_getting_haircut": [
+    "dekle",
+    "frizerski salon",
+    "frizura",
+    "pričeska",
+    "striženje",
+    "ženska",
+    "ženska pri frizerju"
+  ],
+  "woman_getting_massage": [
+    "dekle",
+    "masaža",
+    "obraz",
+    "ženska",
+    "ženska na masaži obraza"
+  ],
+  "woman_golfing": [
+    "dekle",
+    "golf",
+    "golfistka",
+    "ženska"
+  ],
+  "woman_guard": [
+    "dekle",
+    "paznica",
+    "varnostnica",
+    "ženska"
+  ],
+  "woman_health_worker": [
+    "dekle",
+    "medicinska sestra",
+    "terapevtka",
+    "zdravnica",
+    "zdravstvena delavka",
+    "zdravstvo",
+    "ženska"
+  ],
+  "woman_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "ženska v lotusovem položaju"
+  ],
+  "woman_in_manual_wheelchair": [
+    "invalid",
+    "voziček",
+    "ženska",
+    "ženska na ročnem invalidskem vozičku"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "invalid",
+    "voziček",
+    "ženska",
+    "ženska na motoriziranem invalidskem vozičku"
+  ],
+  "woman_in_steamy_room": [
+    "parna savna",
+    "savna",
+    "ženska v parni savni"
+  ],
+  "woman_in_tuxedo": [
+    "smoking",
+    "ženska",
+    "ženska v smokingu"
+  ],
+  "woman_judge": [
+    "dekle",
+    "pravica",
+    "sodnica",
+    "tehtnica",
+    "ženska"
+  ],
+  "woman_juggling": [
+    "dekle",
+    "spretnost",
+    "večopravilnost",
+    "ženska",
+    "žonglerka",
+    "žongliranje"
+  ],
+  "woman_kneeling": [
+    "klečanje",
+    "klečeča ženska",
+    "ženska"
+  ],
+  "woman_lifting_weights": [
+    "dekle",
+    "dvigovalka uteži",
+    "ženska"
+  ],
+  "woman_mage": [
+    "čarodejka",
+    "čarovnica"
+  ],
+  "woman_mechanic": [
+    "avtomehaničarka",
+    "dekle",
+    "električarka",
+    "mehaničarka",
+    "mehanična delavnica",
+    "orodje",
+    "prodajalka",
+    "vodovodarka",
+    "ženska"
+  ],
+  "woman_mountain_biking": [
+    "dekle",
+    "gora",
+    "gorsko",
+    "kolesarka",
+    "kolo",
+    "ženska",
+    "žensko gorsko kolesarjenje"
+  ],
+  "woman_office_worker": [
+    "arhitektka",
+    "dekle",
+    "direktorica",
+    "pisarna",
+    "pisarniška delavka",
+    "pisarniški",
+    "podjetje",
+    "tajnica",
+    "ženska"
+  ],
+  "woman_pilot": [
+    "dekle",
+    "letalo",
+    "pilotka",
+    "stevardesa",
+    "ženska"
+  ],
+  "woman_playing_handball": [
+    "dekle",
+    "rokomet",
+    "rokometašica",
+    "šport",
+    "ženske"
+  ],
+  "woman_playing_water_polo": [
+    "dekle",
+    "šport",
+    "vaterpolo",
+    "ženska",
+    "ženski vaterpolo"
+  ],
+  "woman_police_officer": [
+    "dekle",
+    "policajka",
+    "policija",
+    "policistka",
+    "ženska"
+  ],
+  "woman_pouting": [
+    "dekle",
+    "kujanje",
+    "obrazna mimika",
+    "ženska",
+    "ženska, ki kuha mulo"
+  ],
+  "woman_raising_hand": [
+    "dekle",
+    "dvigovanje roke",
+    "kretnje",
+    "ženska",
+    "ženska, ki dviguje roko"
+  ],
+  "woman_red_hair": [
+    "dekle",
+    "rdeči lasje",
+    "ženska"
+  ],
+  "woman_rowing_boat": [
+    "čoln na vesla",
+    "dekle",
+    "veslačica",
+    "veslanje",
+    "ženska"
+  ],
+  "woman_running": [
+    "dekle",
+    "maraton",
+    "šprint",
+    "tek",
+    "tekačica",
+    "tekma",
+    "ženska",
+    "ženska, ki teče"
+  ],
+  "woman_s_boot": [
+    "čevelj",
+    "oblačila",
+    "škorenj",
+    "ženska",
+    "ženski škorenj"
+  ],
+  "woman_s_clothes": [
+    "oblačila",
+    "ženska"
+  ],
+  "woman_s_hat": [
+    "klobuk",
+    "oblačila",
+    "ženska",
+    "ženski klobuk"
+  ],
+  "woman_s_sandal": [
+    "čevelj",
+    "oblačila",
+    "sandal",
+    "ženska",
+    "ženski sandali"
+  ],
+  "woman_scientist": [
+    "biologinja",
+    "dekle",
+    "fizika",
+    "inženirka",
+    "kemija",
+    "matematika",
+    "ženska",
+    "znanstvenica"
+  ],
+  "woman_shrugging": [
+    "dekle",
+    "dvom",
+    "nevednost",
+    "nezanimanje",
+    "skomigniti",
+    "ženska",
+    "ženska, ki skomiga z rameni"
+  ],
+  "woman_singer": [
+    "dekle",
+    "igralka",
+    "pevka",
+    "rokerica",
+    "zabavljačica",
+    "ženska",
+    "zvezdnica"
+  ],
+  "woman_standing": [
+    "stoječa ženska",
+    "stoji",
+    "ženska"
+  ],
+  "woman_student": [
+    "dekle",
+    "diplomantka",
+    "maturantka",
+    "študentka",
+    "ženska"
+  ],
+  "woman_superhero": [
+    "dober",
+    "junak",
+    "junakinja",
+    "super moč",
+    "superjunakinja"
+  ],
+  "woman_supervillain": [
+    "kriminalka",
+    "negativka",
+    "super moč",
+    "super negativka",
+    "ženska",
+    "zlobna"
+  ],
+  "woman_surfing": [
+    "dekle",
+    "deskanje",
+    "deskarka",
+    "surfanje",
+    "ženska"
+  ],
+  "woman_swimming": [
+    "dekle",
+    "plavalka",
+    "plavanje",
+    "ženska"
+  ],
+  "woman_teacher": [
+    "dekle",
+    "inštruktorica",
+    "profesorica",
+    "učiteljica",
+    "ženska"
+  ],
+  "woman_technologist": [
+    "dekle",
+    "izumiteljica",
+    "programerka",
+    "programska oprema",
+    "računalnik",
+    "razvijalka",
+    "tehnologija",
+    "tehnologinja",
+    "ženska"
+  ],
+  "woman_tipping_hand": [
+    "informacije",
+    "pomoč",
+    "uslužbenka na informacijah",
+    "ženska",
+    "zgovorna"
+  ],
+  "woman_vampire": [
+    "nesmrtnost",
+    "vampirka"
+  ],
+  "woman_walking": [
+    "dekle",
+    "hoja",
+    "peška",
+    "sprehod",
+    "ženska",
+    "ženska, ki hodi"
+  ],
+  "woman_wearing_turban": [
+    "dekle",
+    "turban",
+    "ženska",
+    "ženska s turbanom"
+  ],
+  "woman_white_hair": [
+    "dekle",
+    "sivi lasje",
+    "ženska"
+  ],
+  "woman_with_headscarf": [
+    "hidžab",
+    "mantilja",
+    "naglavna ruta",
+    "ženska z naglavno ruto"
+  ],
+  "woman_with_veil": [
+    "pajčolan",
+    "ženska",
+    "ženska s pajčolanom"
+  ],
+  "woman_with_white_cane": [
+    "invalid",
+    "slepa",
+    "ženska",
+    "ženska s palico za slepe"
+  ],
+  "woman_zombie": [
+    "nemrtev",
+    "živi mrtvec",
+    "zombi ženska"
+  ],
+  "women_holding_hands": [
+    "držati",
+    "par",
+    "roka",
+    "ženska",
+    "ženski se držita za roke"
+  ],
+  "women_s_room": [
+    "stranišče",
+    "stranišče za ženske",
+    "wc",
+    "ženska"
+  ],
+  "women_with_bunny_ears": [
+    "dekle",
+    "plesalec",
+    "zabava",
+    "ženska",
+    "žur"
+  ],
+  "women_wrestling": [
+    "dekleta",
+    "oseba",
+    "rokoborba",
+    "šport",
+    "ženska"
+  ],
+  "wood": [
+    "bruna",
+    "debla",
+    "klada",
+    "les"
+  ],
+  "woozy_face": [
+    "okajen obraz",
+    "omotičen",
+    "različni očesi",
+    "v rožicah",
+    "valovita usta",
+    "vinjen"
+  ],
+  "world_map": [
+    "svet",
+    "zemljevid",
+    "zemljevid sveta"
+  ],
+  "worm": [
+    "črv",
+    "deževnik",
+    "kolobarnik",
+    "zajedavec"
+  ],
+  "worried": [
+    "obraz",
+    "zaskrbljen obraz",
+    "zaskrbljeno"
+  ],
+  "wrapped_gift": [
+    "dar",
+    "darilo",
+    "škatla",
+    "slavje",
+    "zavito"
+  ],
+  "wrench": [
+    "ključ za matice",
+    "orodje"
+  ],
+  "writing_hand": [
+    "dlan",
+    "pisati",
+    "pišoča dlan",
+    "telo"
+  ],
+  "yarn": [
+    "klobčič",
+    "kvačkanje",
+    "pletenje",
+    "preja"
+  ],
+  "yawning_face": [
+    "dolgčas",
+    "utrujen",
+    "zehajoč obraz",
+    "zehanje"
+  ],
+  "yellow_circle": [
+    "krog",
+    "rumen"
+  ],
+  "yellow_heart": [
+    "rumeno",
+    "srce"
+  ],
+  "yellow_square": [
+    "kvadrat",
+    "rumen"
+  ],
+  "yemen": [
+    "zastava"
+  ],
+  "yen_banknote": [
+    "apoen",
+    "banka",
+    "bankovec",
+    "bankovec za jen",
+    "denar",
+    "jen",
+    "valuta"
+  ],
+  "yin_yang": [
+    "jang",
+    "jin",
+    "tao",
+    "taoistično",
+    "vera"
+  ],
+  "yoyo": [
+    "igrača",
+    "jojo",
+    "nihanje",
+    "proč sem"
+  ],
+  "zambia": [
+    "zastava"
+  ],
+  "zany_face": [
+    "majhen",
+    "nor obraz",
+    "oko",
+    "velik"
+  ],
+  "zero": [
+    "keycap"
+  ],
+  "zimbabwe": [
+    "zastava"
+  ],
+  "zipper_mouth_face": [
+    "obraz",
+    "obraz z usti v obliki zadrge",
+    "usta",
+    "zadrga",
+    "zapečateno",
+    "zaprto"
+  ],
+  "zombie": [
+    "nemrtev",
+    "živi mrtvec",
+    "zombi"
+  ],
+  "zzz": [
+    "spanec",
+    "spanje",
+    "strip"
+  ],
+  "åland_islands": [
+    "zastava"
+  ]
+}
