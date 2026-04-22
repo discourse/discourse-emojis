@@ -1,0 +1,9230 @@
+{
+  "+1": [
+    "į viršų",
+    "liuks",
+    "nykštys",
+    "nykštys į viršų",
+    "ranka"
+  ],
+  "-1": [
+    "blogai",
+    "nykštys",
+    "nykštys į apačią",
+    "ranka"
+  ],
+  "100": [
+    "pilnas",
+    "rezultatas",
+    "šimtas",
+    "šimtas taškų"
+  ],
+  "1234": [
+    "įvesties skaičiai",
+    "įvestis",
+    "skaičiai"
+  ],
+  "1st_place_medal": [
+    "1-osios vietos medalis",
+    "auksas",
+    "medalis",
+    "pirmoji"
+  ],
+  "2nd_place_medal": [
+    "2-osios vietos medalis",
+    "antroji",
+    "medalis",
+    "sidabras"
+  ],
+  "3rd_place_medal": [
+    "3-osios vietos medalis",
+    "bronza",
+    "medalis",
+    "trečioji"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "mygtukas „a“ (raudona)",
+    "raudona"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "mygtukas „ab“ (raudona)",
+    "raudona"
+  ],
+  "abacus": [
+    "skaičiavimas",
+    "skaitytuvai"
+  ],
+  "accordion": [
+    "akordeonas",
+    "armonika"
+  ],
+  "adhesive_bandage": [
+    "pleistras"
+  ],
+  "admission_tickets": [
+    "bilietas",
+    "įėjimas",
+    "įėjimo bilietai"
+  ],
+  "aerial_tramway": [
+    "automobilis",
+    "gondola",
+    "kabelis",
+    "lynų keltuvas",
+    "orinis",
+    "tramvajus"
+  ],
+  "afghanistan": [
+    "vėliava"
+  ],
+  "airplane": [
+    "lėktuvas"
+  ],
+  "airplane_arrival": [
+    "atvykimai",
+    "atvyksta",
+    "lėktuvas",
+    "lėktuvo nusileidimas",
+    "nusileidimas"
+  ],
+  "airplane_departure": [
+    "išvykimai",
+    "išvykimas",
+    "lėktuvas",
+    "lėktuvo pakilimas",
+    "registracija"
+  ],
+  "alarm_clock": [
+    "laikrodis",
+    "signalas",
+    "žadintuvas"
+  ],
+  "albania": [
+    "vėliava"
+  ],
+  "alembic": [
+    "chemija",
+    "distiliavimo indas",
+    "įrankis"
+  ],
+  "algeria": [
+    "vėliava"
+  ],
+  "alien": [
+    "ateivis",
+    "fantazija",
+    "kūrinys",
+    "nežemiška būtybė",
+    "veidas"
+  ],
+  "alien_monster": [
+    "ateivis",
+    "fantazija",
+    "kūrinys",
+    "monstras ateivis",
+    "nežemiška būtybė",
+    "pabaisa",
+    "veidas"
+  ],
+  "ambulance": [
+    "greitosios pagalbos automobilis",
+    "transporto priemonė"
+  ],
+  "american_football": [
+    "amerikietiškas",
+    "amerikietiškojo futbolo kamuolys",
+    "futbolas",
+    "kamuolys"
+  ],
+  "american_samoa": [
+    "vėliava"
+  ],
+  "amphora": [
+    "maisto gaminimas",
+    "senovinė vaza",
+    "vandenis",
+    "zodiakas"
+  ],
+  "anatomical_heart": [
+    "centras",
+    "organas",
+    "pulsas",
+    "širdies plakimas",
+    "širdis"
+  ],
+  "anchor": [
+    "inkaras",
+    "įrankis",
+    "laivas"
+  ],
+  "andorra": [
+    "vėliava"
+  ],
+  "anger_symbol": [
+    "komiksas",
+    "piktas",
+    "pykčio simbolis",
+    "supykęs"
+  ],
+  "angola": [
+    "vėliava"
+  ],
+  "angry": [
+    "piktas",
+    "pyktis",
+    "veidas"
+  ],
+  "angry_face_with_horns": [
+    "fantazija",
+    "pasaka",
+    "veidas",
+    "velnias",
+    "velniūkštis"
+  ],
+  "anguilla": [
+    "vėliava"
+  ],
+  "anguished_face": [
+    "kenčiantis",
+    "veidas"
+  ],
+  "ant": [
+    "skruzdėlė",
+    "vabzdys"
+  ],
+  "antarctica": [
+    "vėliava"
+  ],
+  "antenna_bars": [
+    "antena",
+    "antenos juostos",
+    "juosta",
+    "mobilusis",
+    "signalas",
+    "telefonas"
+  ],
+  "antigua_barbuda": [
+    "vėliava"
+  ],
+  "anxious_face_with_sweat": [
+    "burna",
+    "išsižiojęs",
+    "išsižiojęs veidas, išpiltas šalto prakaito",
+    "mėlyna",
+    "prakaitas",
+    "šaltis",
+    "veidas"
+  ],
+  "aquarius": [
+    "vandenio ženklas",
+    "vanduo",
+    "zodiakas"
+  ],
+  "argentina": [
+    "vėliava"
+  ],
+  "aries": [
+    "avinas",
+    "zodiakas"
+  ],
+  "armenia": [
+    "vėliava"
+  ],
+  "articulated_lorry": [
+    "priekaba",
+    "pusė",
+    "sunkvežimis",
+    "sunkvežimis su priekaba"
+  ],
+  "artist": [
+    "menininkas",
+    "paletė",
+    "tapytojas"
+  ],
+  "artist_palette": [
+    "dailininko paletė",
+    "menas",
+    "muziejus",
+    "paletė",
+    "piešinys"
+  ],
+  "aruba": [
+    "vėliava"
+  ],
+  "ascension_island": [
+    "vėliava"
+  ],
+  "asterisk": [
+    "mygtukas"
+  ],
+  "astonished_face": [
+    "apstulbęs",
+    "priblokštas",
+    "veidas",
+    "visiškai"
+  ],
+  "astronaut": [
+    "astronautas",
+    "kosmonautas",
+    "raketa"
+  ],
+  "atm_sign": [
+    "automatinis",
+    "bankas",
+    "bankomatas",
+    "bankomato ženklas",
+    "kasininkas"
+  ],
+  "atom_symbol": [
+    "ateistas",
+    "atomas",
+    "atomo simbolis"
+  ],
+  "australia": [
+    "vėliava"
+  ],
+  "austria": [
+    "vėliava"
+  ],
+  "auto_rickshaw": [
+    "autorikša",
+    "tuk tuk"
+  ],
+  "automobile": [
+    "automobilis",
+    "transporto priemonė"
+  ],
+  "avocado": [
+    "avokadas",
+    "maistas",
+    "vaisius"
+  ],
+  "axe": [
+    "kapoti",
+    "kirvis",
+    "mediena"
+  ],
+  "azerbaijan": [
+    "vėliava"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "mygtukas „b“ (raudona)",
+    "raudona"
+  ],
+  "baby": [
+    "jaunas",
+    "kūdikis"
+  ],
+  "baby_angel": [
+    "angelas",
+    "angeliukas",
+    "fantazija",
+    "kūdikis",
+    "pasaka",
+    "veidas"
+  ],
+  "baby_bottle": [
+    "buteliukas",
+    "gerti",
+    "kūdikio buteliukas",
+    "kūdikis",
+    "pienas"
+  ],
+  "baby_chick": [
+    "mažas",
+    "viščiukas"
+  ],
+  "baby_symbol": [
+    "kūdikio simbolis",
+    "kūdikis",
+    "vystyklų keitimas"
+  ],
+  "back_arrow": [
+    "atgal",
+    "rodyklė",
+    "rodyklė su užrašu „back“"
+  ],
+  "backhand_index_pointing_down": [
+    "delnu nusukta žemyn pirštu rodanti ranka",
+    "į apačią",
+    "indeksas",
+    "pirštas",
+    "ranka",
+    "rodyti"
+  ],
+  "backhand_index_pointing_left": [
+    "į kairę pirštu rodanti ranka",
+    "indeksas",
+    "pirštas",
+    "ranka",
+    "rodyti"
+  ],
+  "backhand_index_pointing_right": [
+    "į dešinę pirštu rodanti ranka",
+    "indeksas",
+    "pirštas",
+    "ranka",
+    "rodyti"
+  ],
+  "backhand_index_pointing_up": [
+    "delnu nusukta aukštyn pirštu rodanti ranka",
+    "į viršų",
+    "indeksas",
+    "kūnas",
+    "pirštas",
+    "ranka",
+    "rodyti"
+  ],
+  "backpack": [
+    "krepšys",
+    "kuprinė",
+    "mokykla",
+    "mokyklinė kuprinė"
+  ],
+  "bacon": [
+    "kumpis",
+    "maistas",
+    "mėsa"
+  ],
+  "badger": [
+    "barsukas",
+    "įkyruolis"
+  ],
+  "badminton": [
+    "badmintonas",
+    "plunksninukas",
+    "raketė",
+    "žaidimas"
+  ],
+  "bagel": [
+    "apvalus riestainis",
+    "duonos gaminiai",
+    "užtepas"
+  ],
+  "baggage_claim": [
+    "atsiimti",
+    "bagažas",
+    "bagažo skyrius"
+  ],
+  "baguette_bread": [
+    "batonas",
+    "ilgas",
+    "maistas",
+    "prancūzų"
+  ],
+  "bahamas": [
+    "vėliava"
+  ],
+  "bahrain": [
+    "vėliava"
+  ],
+  "balance_scale": [
+    "įrankis",
+    "pusiausvyra",
+    "svarstyklės",
+    "svarstyklės su lėkštėmis",
+    "svoris",
+    "teisingumas",
+    "zodiakas"
+  ],
+  "ballet_shoes": [
+    "baletas",
+    "baleto bateliai",
+    "šokis"
+  ],
+  "balloon": [
+    "balionas",
+    "šventė"
+  ],
+  "ballot_box_with_ballot": [
+    "balsavimas",
+    "balsavimo dėžutė su balsavimo biuleteniu",
+    "dėžutė"
+  ],
+  "banana": [
+    "bananas",
+    "vaisius"
+  ],
+  "bangladesh": [
+    "vėliava"
+  ],
+  "banjo": [
+    "bandža",
+    "muzika",
+    "styginis"
+  ],
+  "bank": [
+    "bankas",
+    "pastatas"
+  ],
+  "bar_chart": [
+    "diagrama",
+    "juosta",
+    "juostinė diagrama"
+  ],
+  "barbados": [
+    "vėliava"
+  ],
+  "barber_pole": [
+    "kirpėjas",
+    "kirpėjo suktukas",
+    "suktukas",
+    "šukuosena"
+  ],
+  "baseball": [
+    "beisbolo kamuoliukas",
+    "kamuolys"
+  ],
+  "basket": [
+    "iškyla",
+    "pintinė",
+    "skalbiniai",
+    "ūkininkavimas"
+  ],
+  "basketball": [
+    "kamuolys",
+    "krepšinio kamuolys",
+    "lankas"
+  ],
+  "bat": [
+    "šikšnosparnis",
+    "vampyras"
+  ],
+  "bathtub": [
+    "vonia"
+  ],
+  "battery": [
+    "baterija"
+  ],
+  "beach_with_umbrella": [
+    "paplūdimys",
+    "paplūdimys ir skėtis",
+    "skėtis"
+  ],
+  "bear": [
+    "meška",
+    "meškos snukis",
+    "veidas"
+  ],
+  "beating_heart": [
+    "plakanti",
+    "plakanti širdelė",
+    "pulsavimas",
+    "širdies plakimas",
+    "širdis"
+  ],
+  "beaver": [
+    "bebras",
+    "užtvanka"
+  ],
+  "bed": [
+    "lova",
+    "miegoti",
+    "viešbutis"
+  ],
+  "beer_mug": [
+    "alaus bokalas",
+    "alus",
+    "baras",
+    "gėrimas",
+    "puodelis"
+  ],
+  "beetle": [
+    "vabalas",
+    "vabaliukas",
+    "vabzdys"
+  ],
+  "belarus": [
+    "vėliava"
+  ],
+  "belgium": [
+    "vėliava"
+  ],
+  "belize": [
+    "vėliava"
+  ],
+  "bell": [
+    "varpelis"
+  ],
+  "bell_pepper": [
+    "daržovė",
+    "paprika",
+    "pipirai"
+  ],
+  "bell_with_slash": [
+    "draudžiama",
+    "nutildyti",
+    "perbrauktas varpelis",
+    "tyliai",
+    "varpelis"
+  ],
+  "bellhop_bell": [
+    "skambinti",
+    "skambutis",
+    "viešbutis"
+  ],
+  "benin": [
+    "vėliava"
+  ],
+  "bento_box": [
+    "bento",
+    "dėžutė"
+  ],
+  "bermuda": [
+    "vėliava"
+  ],
+  "beverage_box": [
+    "gėrimo pakelis",
+    "sulčių pakelis"
+  ],
+  "bhutan": [
+    "vėliava"
+  ],
+  "bicycle": [
+    "dviratis",
+    "transporto priemonė"
+  ],
+  "bikini": [
+    "bikinis",
+    "drabužiai",
+    "plaukti"
+  ],
+  "billed_cap": [
+    "beisbolo kepuraitė",
+    "reklaminė kepurė"
+  ],
+  "biohazard": [
+    "biorizika",
+    "ženklas"
+  ],
+  "bird": [
+    "paukštis"
+  ],
+  "birthday_cake": [
+    "desertas",
+    "gimtadienio tortas",
+    "gimtadienis",
+    "kepiniai",
+    "pyragas",
+    "saldu",
+    "šventė"
+  ],
+  "bison": [
+    "banda",
+    "bizonas",
+    "buivolas"
+  ],
+  "black_cat": [
+    "juoda",
+    "katė",
+    "nelaimė"
+  ],
+  "black_circle": [
+    "geometrija",
+    "juodas rutulys",
+    "rutulys"
+  ],
+  "black_flag": [
+    "juoda vėliava",
+    "mojavimas"
+  ],
+  "black_heart": [
+    "blogis",
+    "juoda",
+    "širdis"
+  ],
+  "black_large_square": [
+    "geometrija",
+    "juodas didelis kvadratas",
+    "kvadratas"
+  ],
+  "black_medium_small_square": [
+    "geometrija",
+    "juodas vidutiniškai mažas kvadratas",
+    "kvadratas"
+  ],
+  "black_medium_square": [
+    "geometrija",
+    "juodas vidutinis kvadratas",
+    "kvadratas"
+  ],
+  "black_nib": [
+    "juoda plunksna",
+    "rašiklis",
+    "smaigalys"
+  ],
+  "black_small_square": [
+    "geometrija",
+    "juodas mažas kvadratas",
+    "kvadratas"
+  ],
+  "black_square_button": [
+    "geometrija",
+    "juodas kvadratinis mygtukas",
+    "kvadratas",
+    "mygtukas"
+  ],
+  "blonde_man": [
+    "blondinas",
+    "vyras"
+  ],
+  "blonde_woman": [
+    "blondinė",
+    "moteris"
+  ],
+  "blossom": [
+    "augalas",
+    "gėlė",
+    "gėlės žiedas"
+  ],
+  "blowfish": [
+    "fugu",
+    "žuvis"
+  ],
+  "blue_book": [
+    "knyga",
+    "mėlyna"
+  ],
+  "blue_circle": [
+    "geometrija",
+    "mėlynas",
+    "rutulys"
+  ],
+  "blue_heart": [
+    "mėlyna",
+    "mėlyna širdelė"
+  ],
+  "blue_square": [
+    "kvadratas",
+    "mėlynas"
+  ],
+  "blueberries": [
+    "mėlyna",
+    "mėlynė",
+    "mėlynės",
+    "uoga"
+  ],
+  "blush": [
+    "akys",
+    "besišypsantis veidas su besišypsančiomis akimis",
+    "nurausti",
+    "šypsena",
+    "veidas"
+  ],
+  "boar": [
+    "kiaulė",
+    "šernas"
+  ],
+  "bolivia": [
+    "vėliava"
+  ],
+  "bomb": [
+    "bomba",
+    "komiksas"
+  ],
+  "bone": [
+    "kaulas",
+    "skeletas"
+  ],
+  "bookmark": [
+    "žyma",
+    "žymė"
+  ],
+  "bookmark_tabs": [
+    "skirtukai",
+    "žyma",
+    "žymė",
+    "žymeklis",
+    "žymių skirtukai"
+  ],
+  "books": [
+    "knyga",
+    "knygos"
+  ],
+  "boomerang": [
+    "australija",
+    "bumerangas",
+    "grįžimas"
+  ],
+  "bosnia_herzegovina": [
+    "vėliava"
+  ],
+  "botswana": [
+    "vėliava"
+  ],
+  "bottle_with_popping_cork": [
+    "baras",
+    "butelis",
+    "butelis su iššokusiu kamščiu",
+    "gėrimas",
+    "iššauti",
+    "kamštis"
+  ],
+  "bouquet": [
+    "gėlė",
+    "puokštė"
+  ],
+  "bouvet_island": [
+    "vėliava"
+  ],
+  "bow_and_arrow": [
+    "ginklas",
+    "įrankis",
+    "lankas",
+    "lankas ir strėlė",
+    "šaulys",
+    "strėlė",
+    "zodiako"
+  ],
+  "bowl_with_spoon": [
+    "dubuo su šaukštu",
+    "košė",
+    "pusryčiai"
+  ],
+  "bowling": [
+    "boulingas",
+    "kamuolys",
+    "žaidimas"
+  ],
+  "boxing_glove": [
+    "boksas",
+    "bokso pirštinė",
+    "pirštinė"
+  ],
+  "boy": [
+    "berniukas",
+    "jaunas"
+  ],
+  "brain": [
+    "protingas",
+    "smegenys"
+  ],
+  "brazil": [
+    "vėliava"
+  ],
+  "bread": [
+    "duona",
+    "kepalas"
+  ],
+  "breast_feeding": [
+    "krūtinė",
+    "kūdikis",
+    "maitinimas krūtimi",
+    "priežiūra"
+  ],
+  "brick": [
+    "molis",
+    "plyta",
+    "plytos",
+    "siena",
+    "skiedinys"
+  ],
+  "bridge_at_night": [
+    "naktis",
+    "tiltas",
+    "tiltas naktį"
+  ],
+  "briefcase": [
+    "portfelis"
+  ],
+  "briefs": [
+    "apatiniai",
+    "maudymosi kostiumėlis",
+    "trumpikės",
+    "viena dalis"
+  ],
+  "bright_button": [
+    "ryškumas",
+    "ryškumo mygtukas",
+    "ryškus"
+  ],
+  "british_indian_ocean_territory": [
+    "vėliava"
+  ],
+  "british_virgin_islands": [
+    "vėliava"
+  ],
+  "broccoli": [
+    "brokolis",
+    "laukinis kopūstas"
+  ],
+  "broken_heart": [
+    "sudaužyta",
+    "sudaužyta širdelė",
+    "sudaužyti"
+  ],
+  "broom": [
+    "ragana",
+    "šlavimas",
+    "šluota",
+    "valymas"
+  ],
+  "brown_circle": [
+    "apskritimas",
+    "rudas"
+  ],
+  "brown_heart": [
+    "ruda",
+    "širdelė"
+  ],
+  "brown_square": [
+    "kvadratas",
+    "rudas"
+  ],
+  "brunei": [
+    "vėliava"
+  ],
+  "bubble_tea": [
+    "arbata",
+    "burbulai",
+    "burbulinė arbata",
+    "pienas"
+  ],
+  "bucket": [
+    "kibiras"
+  ],
+  "bug": [
+    "vabalas",
+    "vabzdys"
+  ],
+  "building_construction": [
+    "klasikinis",
+    "pastato konstrukcija"
+  ],
+  "bulgaria": [
+    "vėliava"
+  ],
+  "bullet_train": [
+    "geležinkelis",
+    "greitasis traukinys su smailu priekiu",
+    "greitis",
+    "kulka",
+    "traukinys"
+  ],
+  "bullseye": [
+    "akis",
+    "dartas",
+    "pataikyti",
+    "smūgis tiesiai į taikinį",
+    "taikinys",
+    "žaidimas"
+  ],
+  "burkina_faso": [
+    "vėliava"
+  ],
+  "burrito": [
+    "buritas",
+    "meksikietiškas",
+    "suvyniotas"
+  ],
+  "burundi": [
+    "vėliava"
+  ],
+  "bus": [
+    "autobusas",
+    "transporto priemonė"
+  ],
+  "bus_stop": [
+    "autobusas",
+    "autobusų stotelė",
+    "stotelė"
+  ],
+  "bust_in_silhouette": [
+    "biustas",
+    "biusto siluetas",
+    "siluetas"
+  ],
+  "busts_in_silhouette": [
+    "biustas",
+    "biustų siluetai",
+    "siluetas"
+  ],
+  "butter": [
+    "pieno produktas",
+    "sviestas"
+  ],
+  "butterfly": [
+    "drugelis",
+    "gražus",
+    "vabzdys"
+  ],
+  "cactus": [
+    "augalas",
+    "kaktusas"
+  ],
+  "call_me_hand": [
+    "gestas paskambink man",
+    "ranka",
+    "skambinti"
+  ],
+  "cambodia": [
+    "vėliava"
+  ],
+  "camel": [
+    "kupra",
+    "kupranugaris",
+    "vienakupris kupranugaris"
+  ],
+  "camera": [
+    "fotoaparatas",
+    "vaizdo įrašas"
+  ],
+  "camera_with_flash": [
+    "blykstė",
+    "fotoaparatas",
+    "fotoaparatas su blykste",
+    "vaizdo įrašas"
+  ],
+  "cameroon": [
+    "vėliava"
+  ],
+  "camping": [
+    "stovyklavimas"
+  ],
+  "canada": [
+    "vėliava"
+  ],
+  "canary_islands": [
+    "vėliava"
+  ],
+  "cancer": [
+    "krabas",
+    "vėžys",
+    "zodiakas"
+  ],
+  "candle": [
+    "šviesa",
+    "žvakė"
+  ],
+  "candy": [
+    "desertas",
+    "saldainis",
+    "saldu"
+  ],
+  "canned_food": [
+    "konservai",
+    "skardinė"
+  ],
+  "canoe": [
+    "irkluoti",
+    "kanoja"
+  ],
+  "cape_verde": [
+    "vėliava"
+  ],
+  "capricorn": [
+    "ožiaragis",
+    "ožys",
+    "zodiakas"
+  ],
+  "card_file_box": [
+    "dėžė",
+    "failas",
+    "kortelė",
+    "kortelių saugojimo dėžė"
+  ],
+  "card_index": [
+    "dėklas",
+    "indeksas",
+    "kortelė",
+    "kortelių dėklas"
+  ],
+  "card_index_dividers": [
+    "indeksas",
+    "kortelė",
+    "kortelių laikiklio skirtukai",
+    "skirtukai"
+  ],
+  "caribbean_netherlands": [
+    "vėliava"
+  ],
+  "carousel_horse": [
+    "arklys",
+    "karuselė",
+    "karuselės arkliukas"
+  ],
+  "carp_streamer": [
+    "karpio vėtrungė",
+    "karpis",
+    "šventė",
+    "vėtrungė"
+  ],
+  "carpentry_saw": [
+    "dailidė",
+    "įrankis",
+    "mediena",
+    "pjūklas"
+  ],
+  "carrot": [
+    "daržovė",
+    "maistas",
+    "morka"
+  ],
+  "castle": [
+    "europos",
+    "pastatas",
+    "pilis"
+  ],
+  "cat": [
+    "katė",
+    "naminis gyvūnas"
+  ],
+  "cat_face": [
+    "katė",
+    "katės snukutis",
+    "naminis gyvūnas",
+    "veidas"
+  ],
+  "cat_with_wry_smile": [
+    "ironija",
+    "katė",
+    "nuvargęs",
+    "nuvargusios besišypsančios katės snukutis",
+    "šypsena",
+    "veidas"
+  ],
+  "cayman_islands": [
+    "vėliava"
+  ],
+  "central_african_republic": [
+    "vėliava"
+  ],
+  "ceuta_melilla": [
+    "vėliava"
+  ],
+  "chad": [
+    "vėliava"
+  ],
+  "chains": [
+    "grandinė",
+    "grandinės"
+  ],
+  "chair": [
+    "kėdė",
+    "sėdėti"
+  ],
+  "chart_decreasing": [
+    "diagrama",
+    "į apačią",
+    "mažėjimo tendencijos diagrama",
+    "tendencija"
+  ],
+  "chart_increasing": [
+    "augimas",
+    "diagrama",
+    "didėjimo tendencijos diagrama",
+    "schema",
+    "tendencija"
+  ],
+  "chart_increasing_with_yen": [
+    "augimas",
+    "diagrama",
+    "didėjimo diagrama su jenos simboliu",
+    "jena",
+    "tendencijos",
+    "valiuta"
+  ],
+  "check_box_with_check": [
+    "balsavimas",
+    "balsavimo laukelis su varnele",
+    "laukelis",
+    "varnelė"
+  ],
+  "check_mark": [
+    "paryškinta varnelė",
+    "varnelė",
+    "žymė"
+  ],
+  "cheese_wedge": [
+    "sūrio gabaliukas",
+    "sūris"
+  ],
+  "chequered_flag": [
+    "langeliai",
+    "lenktynės",
+    "vėliava langeliais"
+  ],
+  "cherries": [
+    "vaisius",
+    "vyšnia",
+    "vyšnios"
+  ],
+  "cherry_blossom": [
+    "gėlė",
+    "vyšnia",
+    "vyšnios žiedas",
+    "žydėti"
+  ],
+  "chess_pawn": [
+    "naivuolis",
+    "paaukotinas",
+    "šachmatai",
+    "šachmatų pėstininkas"
+  ],
+  "chestnut": [
+    "augalas",
+    "lazdyno riešutas"
+  ],
+  "chicken": [
+    "paukštis",
+    "višta"
+  ],
+  "child": [
+    "jaunas",
+    "neutrali lytis",
+    "vaikas"
+  ],
+  "children_crossing": [
+    "eismas",
+    "perėja",
+    "pėstysis",
+    "vaikas",
+    "vaikų perėja"
+  ],
+  "chile": [
+    "vėliava"
+  ],
+  "china": [
+    "vėliava"
+  ],
+  "chipmunk": [
+    "voverė"
+  ],
+  "chocolate_bar": [
+    "batonėlis",
+    "desertas",
+    "saldu",
+    "šokoladas",
+    "šokolado batonėlis"
+  ],
+  "chopsticks": [
+    "haši",
+    "lazdelės"
+  ],
+  "christmas_island": [
+    "vėliava"
+  ],
+  "christmas_tree": [
+    "eglutė",
+    "kalėdos",
+    "kalėdų eglutė",
+    "šventė"
+  ],
+  "church": [
+    "bažnyčia",
+    "krikščionis",
+    "kryžius",
+    "pastatas",
+    "religija"
+  ],
+  "cigarette": [
+    "rūkymas"
+  ],
+  "cinema": [
+    "filmas",
+    "kamera",
+    "kinas"
+  ],
+  "circled_m": [
+    "apskritimas",
+    "m",
+    "raidė „m“"
+  ],
+  "circus_tent": [
+    "cirkas",
+    "cirko palapinė",
+    "palapinė"
+  ],
+  "cityscape": [
+    "miestas",
+    "miesto vaizdas"
+  ],
+  "cityscape_at_dusk": [
+    "kraštovaizdis",
+    "miestas",
+    "pastatas",
+    "saulėlydis",
+    "sutemos virš miesto",
+    "vakaras"
+  ],
+  "cl_button": [
+    "cl",
+    "simbolis „cl“"
+  ],
+  "clamp": [
+    "įrankis",
+    "spaustuvai",
+    "suspaudimas"
+  ],
+  "clap": [
+    "plojančios rankos",
+    "ploti",
+    "rankos"
+  ],
+  "clapper_board": [
+    "filmas",
+    "pliauškė",
+    "pranešimo lenta"
+  ],
+  "classical_building": [
+    "klasikinis",
+    "klasikinis pastatas"
+  ],
+  "clinking_beer_mugs": [
+    "alus",
+    "baras",
+    "gėrimas",
+    "puodelis",
+    "susidaužiantys alaus bokalai",
+    "susidaužti"
+  ],
+  "clinking_glasses": [
+    "gėrimas",
+    "sudaužti",
+    "sudaužtos taurės",
+    "šventimas",
+    "taurės"
+  ],
+  "clipboard": [
+    "segtuvas"
+  ],
+  "clipperton_island": [
+    "vėliava"
+  ],
+  "clockwise_vertical_arrows": [
+    "pagal laikrodžio rodyklę",
+    "rodyklė",
+    "vertikalios laikrodžio rodyklės kryptimis nukreiptos rodyklės"
+  ],
+  "closed_book": [
+    "knyga",
+    "užversta knyga",
+    "užverta"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "nuleista",
+    "paštas",
+    "pašto dėžutė",
+    "uždaryta",
+    "uždaryta pašto dėžutė su nuleista vėliava"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "paštas",
+    "pašto dėžutė",
+    "uždaryta",
+    "uždaryta pašto dėžutė su pakelta vėliava"
+  ],
+  "closed_umbrella": [
+    "drabužiai",
+    "lietus",
+    "skėtis",
+    "suskleistas skėtis"
+  ],
+  "cloud": [
+    "debesis",
+    "oras"
+  ],
+  "cloud_with_lightning": [
+    "debesis",
+    "debesis su žaibu",
+    "žaibas"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "debesis",
+    "debesis su žaibu ir lietumi",
+    "lietus",
+    "žaibas"
+  ],
+  "cloud_with_rain": [
+    "debesis",
+    "debesis, iš kurio lyja",
+    "lietus"
+  ],
+  "cloud_with_snow": [
+    "debesis",
+    "debesis, iš kurio sninga",
+    "šaltis",
+    "sniegas"
+  ],
+  "clown_face": [
+    "klounas",
+    "klouno veidas",
+    "veidas"
+  ],
+  "club_suit": [
+    "kortos",
+    "kryžiai",
+    "žaidimas"
+  ],
+  "clutch_bag": [
+    "drabužiai",
+    "krepšys",
+    "maišelis"
+  ],
+  "coat": [
+    "paltas",
+    "švarkas"
+  ],
+  "cockroach": [
+    "tarakonas",
+    "vabzdys"
+  ],
+  "cocktail_glass": [
+    "baras",
+    "gėrimas",
+    "kokteilio taurė",
+    "kokteilis",
+    "taurė"
+  ],
+  "coconut": [
+    "kokosas",
+    "palmė",
+    "pina kolada"
+  ],
+  "cocos_keeling_islands": [
+    "vėliava"
+  ],
+  "coffin": [
+    "karstas",
+    "mirtis"
+  ],
+  "coin": [
+    "auksas",
+    "lobis",
+    "metalas",
+    "moneta",
+    "pinigai",
+    "sidabras"
+  ],
+  "cold_face": [
+    "mėlynveidis",
+    "nušalimas",
+    "šaltas",
+    "stingdantis",
+    "sušalęs veidas",
+    "varvekliai"
+  ],
+  "collision": [
+    "bum",
+    "komiksas",
+    "susidūrimas"
+  ],
+  "colombia": [
+    "vėliava"
+  ],
+  "comet": [
+    "kometa",
+    "kosmosas"
+  ],
+  "comoros": [
+    "vėliava"
+  ],
+  "compass": [
+    "kompasas",
+    "magnetinis",
+    "navigacija",
+    "orientacinis"
+  ],
+  "computer_disk": [
+    "diskas",
+    "kompiuterio diskas",
+    "kompiuteris",
+    "minidiskas",
+    "optinis"
+  ],
+  "computer_mouse": [
+    "kompiuterio pelė",
+    "kompiuteris"
+  ],
+  "confetti_ball": [
+    "kamuolys",
+    "konfeti",
+    "šventė"
+  ],
+  "confounded_face": [
+    "suglumęs",
+    "suglumintas veidas",
+    "veidas"
+  ],
+  "confused": [
+    "sutrikęs",
+    "veidas"
+  ],
+  "congo_brazzaville": [
+    "vėliava"
+  ],
+  "congo_kinshasa": [
+    "vėliava"
+  ],
+  "construction": [
+    "barjeras",
+    "statybos"
+  ],
+  "construction_worker": [
+    "darbuotojas",
+    "kepurė",
+    "statyba",
+    "statybininkas"
+  ],
+  "construction_worker_man": [
+    "darbininkas",
+    "statybininkas",
+    "vyras"
+  ],
+  "construction_worker_woman": [
+    "darbininkė",
+    "moteris",
+    "statybininkė"
+  ],
+  "control_knobs": [
+    "muzika",
+    "rankenos",
+    "valdymas",
+    "valdymo rankenos"
+  ],
+  "convenience_store": [
+    "parduotuvė",
+    "visą parą",
+    "visą parą dirbanti parduotuvė"
+  ],
+  "cook": [
+    "gaminantis žmogus",
+    "šefas",
+    "virėjas"
+  ],
+  "cook_islands": [
+    "vėliava"
+  ],
+  "cooked_rice": [
+    "ryžiai",
+    "virti"
+  ],
+  "cookie": [
+    "desertas",
+    "saldu",
+    "sausainis"
+  ],
+  "cooking": [
+    "kepimas",
+    "keptuvė",
+    "kiaušinis",
+    "valgio gaminimas"
+  ],
+  "cool_button": [
+    "simbolis „cool“",
+    "vėsu"
+  ],
+  "copyright": [
+    "autorių teisės"
+  ],
+  "costa_rica": [
+    "vėliava"
+  ],
+  "couch_and_lamp": [
+    "lempa",
+    "sofa",
+    "sofa ir lempa",
+    "viešbutis"
+  ],
+  "counterclockwise_arrows_button": [
+    "prieš laikrodžio rodyklę",
+    "prieš laikrodžio rodyklę nukreiptų rodyklių mygtukas",
+    "rodyklė"
+  ],
+  "couple_with_heart": [
+    "meilė",
+    "pora",
+    "pora su širdele",
+    "moteris",
+    "vyras"
+  ],
+  "couple_with_heart_man_man": [
+    "meilė",
+    "pora",
+    "pora su širdele",
+    "vyras"
+  ],
+  "couple_with_heart_woman_woman": [
+    "meilė",
+    "moteris",
+    "pora",
+    "pora su širdele"
+  ],
+  "cow": [
+    "karvė"
+  ],
+  "cow_face": [
+    "karvė",
+    "karvės snukis",
+    "veidas"
+  ],
+  "cowboy_hat_face": [
+    "kaubojaus veidas su skrybėle",
+    "kaubojus",
+    "skrybėlė",
+    "veidas"
+  ],
+  "crab": [
+    "krabas",
+    "vėžys",
+    "zodiakas"
+  ],
+  "crayon": [
+    "kreidelė"
+  ],
+  "credit_card": [
+    "bankas",
+    "kortelė",
+    "kreditas",
+    "kredito kortelė",
+    "pinigai"
+  ],
+  "crescent_moon": [
+    "mėnulis",
+    "pusė",
+    "pusmėnulis"
+  ],
+  "cricket": [
+    "svirplys",
+    "žiogas"
+  ],
+  "cricket_game": [
+    "kamuolys",
+    "kriketas",
+    "lazda",
+    "žaidimas"
+  ],
+  "croatia": [
+    "vėliava"
+  ],
+  "crocodile": [
+    "krokodilas"
+  ],
+  "croissant": [
+    "bandelė",
+    "duona",
+    "maistas",
+    "prancūziškas",
+    "raguolis"
+  ],
+  "cross_mark": [
+    "atšaukti",
+    "dauginti",
+    "daugyba",
+    "kryžiukas",
+    "x",
+    "žymė"
+  ],
+  "cross_mark_button": [
+    "kryžiuko mygtukas",
+    "kvadratas",
+    "žymė"
+  ],
+  "crossed_fingers": [
+    "kryžius",
+    "laimė",
+    "pirštai",
+    "ranka",
+    "sukryžiuoti pirštai"
+  ],
+  "crossed_flags": [
+    "japonų",
+    "kryžius",
+    "sukryžiuotos vėliavos",
+    "šventė"
+  ],
+  "crossed_swords": [
+    "ginklai",
+    "kardai",
+    "sukryžiuoti"
+  ],
+  "crown": [
+    "drabužiai",
+    "karalienė",
+    "karalius",
+    "karūna"
+  ],
+  "cry": [
+    "ašara",
+    "liūdnas",
+    "veidas",
+    "verkiantis veidas",
+    "verkti"
+  ],
+  "crying_cat": [
+    "ašara",
+    "katė",
+    "liūdesys",
+    "veidas",
+    "verkiančios katės snukutis",
+    "verkti"
+  ],
+  "crystal_ball": [
+    "fantazija",
+    "fortūna",
+    "krištolinis",
+    "pasaka",
+    "rutulys"
+  ],
+  "cuba": [
+    "vėliava"
+  ],
+  "cucumber": [
+    "agurkas",
+    "daržovė",
+    "maistas",
+    "raugintas"
+  ],
+  "cup_with_straw": [
+    "puodelis su šiaudeliu",
+    "soda",
+    "sultys"
+  ],
+  "cupcake": [
+    "duonos gaminiai",
+    "keksiukas",
+    "saldus"
+  ],
+  "curaçao": [
+    "vėliava"
+  ],
+  "curling_stone": [
+    "akmenslydis",
+    "akmuo",
+    "žaidimas"
+  ],
+  "curly_loop": [
+    "kilpa",
+    "kilpelė",
+    "raityti"
+  ],
+  "currency_exchange": [
+    "bankas",
+    "keitimas",
+    "pinigai",
+    "valiuta",
+    "valiutos keitimas"
+  ],
+  "curry_rice": [
+    "karis",
+    "ryžiai",
+    "ryžiai su kariu"
+  ],
+  "custard": [
+    "desertas",
+    "pudingas",
+    "saldu",
+    "saldus kremas"
+  ],
+  "customs": [
+    "muitinė"
+  ],
+  "cut_of_meat": [
+    "kepsnys",
+    "mėsos gabalėliai"
+  ],
+  "cyclone": [
+    "apsvaigęs",
+    "ciklonas",
+    "spiralė",
+    "taifūnas"
+  ],
+  "cyprus": [
+    "vėliava"
+  ],
+  "czechia": [
+    "vėliava"
+  ],
+  "côte_d_ivoire": [
+    "vėliava"
+  ],
+  "dagger": [
+    "durklas",
+    "ginklas",
+    "peilis"
+  ],
+  "dango": [
+    "desertas",
+    "iešmas",
+    "japonų",
+    "lazdelė",
+    "saldu"
+  ],
+  "dashing_away": [
+    "bėgimas",
+    "dulkės",
+    "komiksas",
+    "sukeltos dulkės"
+  ],
+  "date": [
+    "data",
+    "kalendorius"
+  ],
+  "deaf_man": [
+    "kurčias",
+    "vyras"
+  ],
+  "deaf_person": [
+    "ausis",
+    "girdėti",
+    "kurčias",
+    "kurčias žmogus",
+    "prieinamumas"
+  ],
+  "deaf_woman": [
+    "kurčia",
+    "moteris"
+  ],
+  "deciduous_tree": [
+    "augalas",
+    "lapuotis",
+    "medis",
+    "mesti"
+  ],
+  "deer": [
+    "elnias"
+  ],
+  "delivery_truck": [
+    "krovininis sunkvežimis",
+    "pristatymas",
+    "sunkvežimis"
+  ],
+  "denmark": [
+    "vėliava"
+  ],
+  "department_store": [
+    "parduotuvė",
+    "prekyba",
+    "prekybos centras"
+  ],
+  "derelict_house": [
+    "apleistas",
+    "apleistas pastatas",
+    "namas"
+  ],
+  "desert": [
+    "dykuma"
+  ],
+  "desert_island": [
+    "atoki sala",
+    "dykuma",
+    "sala"
+  ],
+  "desktop_computer": [
+    "kompiuteris",
+    "stalinis"
+  ],
+  "detective": [
+    "detektyvas",
+    "šnipas"
+  ],
+  "diamond_suit": [
+    "būgnai",
+    "būgnas",
+    "kortos",
+    "žaidimas"
+  ],
+  "diamond_with_a_dot": [
+    "deimantas",
+    "deimantas su tašku",
+    "geometrija",
+    "komiksas",
+    "viduje"
+  ],
+  "diego_garcia": [
+    "vėliava"
+  ],
+  "dim_button": [
+    "blankus",
+    "mažas",
+    "ryškumas",
+    "užtemdymo mygtukas"
+  ],
+  "disappointed_face": [
+    "nusivylęs",
+    "veidas"
+  ],
+  "disguised_face": [
+    "akiniai",
+    "inkognito",
+    "nosis",
+    "pasislėpęs",
+    "paslėptas veidas",
+    "veidas"
+  ],
+  "divide": [
+    "dalyba",
+    "matematika",
+    "paryškintas dalybos ženklas"
+  ],
+  "diving_mask": [
+    "nardymas",
+    "nardymo kaukė"
+  ],
+  "diya_lamp": [
+    "lempa",
+    "žibalas",
+    "žibalinė lempa",
+    "žvakė"
+  ],
+  "dizzy": [
+    "apsvaigęs",
+    "komiksas",
+    "žvaigždė"
+  ],
+  "djibouti": [
+    "vėliava"
+  ],
+  "dna": [
+    "biologas",
+    "dnr",
+    "evoliucija",
+    "genas",
+    "genetika",
+    "gyvybė"
+  ],
+  "dodo": [
+    "didelis",
+    "drontas",
+    "išnykimas",
+    "mauricijus"
+  ],
+  "dog": [
+    "naminis gyvūnas",
+    "šuo"
+  ],
+  "dog_face": [
+    "naminis gyvūnas",
+    "šuns snukutis",
+    "šuo",
+    "veidas"
+  ],
+  "dollar_banknote": [
+    "bankas",
+    "banknotas",
+    "dolerio banknotas",
+    "doleris",
+    "pinigai",
+    "valiuta"
+  ],
+  "dolphin": [
+    "delfinas",
+    "fliperis"
+  ],
+  "dominica": [
+    "vėliava"
+  ],
+  "dominican_republic": [
+    "vėliava"
+  ],
+  "door": [
+    "durys"
+  ],
+  "dotted_six_pointed_star": [
+    "sėkmė",
+    "šešiakampė žvaigždė su tašku",
+    "žvaigždė"
+  ],
+  "double_curly_loop": [
+    "dviguba",
+    "dviguba kilpelė",
+    "kilpa",
+    "raityti"
+  ],
+  "double_exclamation_mark": [
+    "du šauktukai",
+    "šauktukas",
+    "skyryba",
+    "žymė"
+  ],
+  "doughnut": [
+    "desertas",
+    "saldu",
+    "spurga"
+  ],
+  "dove": [
+    "balandis",
+    "paukštis",
+    "skristi",
+    "taika"
+  ],
+  "down_arrow": [
+    "į apačią",
+    "koordinatė",
+    "kryptis",
+    "pietūs",
+    "rodyklė",
+    "rodyklė į apačią"
+  ],
+  "down_left_arrow": [
+    "kryptis",
+    "pietvakariai",
+    "rodyklė",
+    "rodyklė į apačią ir į kairę"
+  ],
+  "down_right_arrow": [
+    "kryptis",
+    "pietryčiai",
+    "rodyklė",
+    "rodyklė į apačią ir į dešinę"
+  ],
+  "downcast_face_with_sweat": [
+    "prakaitas",
+    "šaltas",
+    "veidas",
+    "veidas, išpiltas šalto prakaito"
+  ],
+  "downwards_button": [
+    "į apačią",
+    "mygtukas",
+    "raudona",
+    "rodyklė"
+  ],
+  "dragon": [
+    "drakonas",
+    "pasaka"
+  ],
+  "dragon_face": [
+    "drakonas",
+    "drakono snukis",
+    "pasaka",
+    "veidas"
+  ],
+  "dress": [
+    "drabužiai",
+    "suknelė"
+  ],
+  "drooling_face": [
+    "besiseilėjantis veidas",
+    "seilės",
+    "veidas"
+  ],
+  "drop_of_blood": [
+    "kraujo aukojimas",
+    "kraujo lašas",
+    "medicina",
+    "menstruacijos"
+  ],
+  "droplet": [
+    "komiksas",
+    "lašas",
+    "oras",
+    "prakaitas",
+    "šaltis"
+  ],
+  "drum": [
+    "būgnas",
+    "muzika"
+  ],
+  "duck": [
+    "antis",
+    "paukštis"
+  ],
+  "dumpling": [
+    "kibinas",
+    "kukulis"
+  ],
+  "dvd": [
+    "blu-ray",
+    "diskas",
+    "kompaktinis diskas",
+    "kompiuteris",
+    "optinis",
+    "skaitmeninis vaizdo diskas"
+  ],
+  "e_mail": [
+    "el. laiškas",
+    "laiškas",
+    "paštas"
+  ],
+  "eagle": [
+    "erelis",
+    "paukštis"
+  ],
+  "ear": [
+    "ausis",
+    "kūnas"
+  ],
+  "ear_of_corn": [
+    "augalas",
+    "kukurūzas",
+    "kukurūzo burbuolė",
+    "varpa"
+  ],
+  "ear_with_hearing_aid": [
+    "ausis su klausos aparatu",
+    "neprigirdintis",
+    "prieinamumas"
+  ],
+  "ecuador": [
+    "vėliava"
+  ],
+  "egg": [
+    "kiaušinis",
+    "maistas"
+  ],
+  "eggplant": [
+    "augalas",
+    "baklažanas",
+    "daržovė"
+  ],
+  "egypt": [
+    "vėliava"
+  ],
+  "eight": [
+    "mygtukas"
+  ],
+  "eight_o_clock": [
+    "00",
+    "8",
+    "8:00",
+    "aštuonios",
+    "valandos"
+  ],
+  "eight_pointed_star": [
+    "aštuoniakampė žvaigždė",
+    "žvaigždė"
+  ],
+  "eight_spoked_asterisk": [
+    "aštuoniakampė žvaigždutė",
+    "žvaigždutė"
+  ],
+  "eight_thirty": [
+    "30",
+    "8",
+    "8:30",
+    "aštuonios",
+    "pusė devynių",
+    "trisdešimt",
+    "valandos"
+  ],
+  "eject_button": [
+    "išmesti",
+    "išmetimo mygtukas"
+  ],
+  "el_salvador": [
+    "vėliava"
+  ],
+  "electric_plug": [
+    "elektra",
+    "elektros kištukas",
+    "kištukas"
+  ],
+  "elephant": [
+    "dramblys"
+  ],
+  "elevator": [
+    "elevatorius",
+    "keltuvas",
+    "liftas",
+    "prieinamumas"
+  ],
+  "eleven_o_clock": [
+    "00",
+    "11",
+    "11:00",
+    "valandos",
+    "vienuolika",
+    "vienuolika valandų"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11:30",
+    "30",
+    "pusė dvylikos",
+    "trisdešimt",
+    "valandos",
+    "vienuolika"
+  ],
+  "elf": [
+    "elfas",
+    "magiškas"
+  ],
+  "end_arrow": [
+    "pabaiga",
+    "rodyklė",
+    "rodyklė su užrašu „end“"
+  ],
+  "england": [
+    "vėliava"
+  ],
+  "enraged_face": [
+    "įniršis",
+    "įsiutęs",
+    "piktas",
+    "raudonas",
+    "susiraukęs",
+    "veidas"
+  ],
+  "envelope": [
+    "el. laiškas",
+    "el. paštas",
+    "vokas"
+  ],
+  "envelope_with_arrow": [
+    "el. laiškas",
+    "el. paštas",
+    "rodyklė",
+    "vokas",
+    "vokas su rodykle"
+  ],
+  "equatorial_guinea": [
+    "vėliava"
+  ],
+  "eritrea": [
+    "vėliava"
+  ],
+  "estonia": [
+    "vėliava"
+  ],
+  "eswatini": [
+    "vėliava"
+  ],
+  "ethiopia": [
+    "vėliava"
+  ],
+  "euro_banknote": [
+    "bankas",
+    "banknotas",
+    "euras",
+    "euro banknotas",
+    "pinigai",
+    "valiuta"
+  ],
+  "european_union": [
+    "vėliava"
+  ],
+  "evergreen_tree": [
+    "amžinai žaliuojantis medis",
+    "medis"
+  ],
+  "ewe": [
+    "avis"
+  ],
+  "exclamation_question_mark": [
+    "klausimas",
+    "šauktukas",
+    "šauktukas ir klaustukas",
+    "skyryba",
+    "žymė"
+  ],
+  "exploding_head": [
+    "šokiruotas",
+    "sprogstanti galva"
+  ],
+  "expressionless_face": [
+    "be išraiškos",
+    "neišraiškingas",
+    "veidas",
+    "veidas be jokios išraiškos"
+  ],
+  "eye": [
+    "akis",
+    "kūnas"
+  ],
+  "eye_in_speech_bubble": [
+    "akis",
+    "akis kalbėjimo burbule",
+    "kalbėjimo burbulas",
+    "liudjimas"
+  ],
+  "eyes": [
+    "akis",
+    "akys",
+    "veidas"
+  ],
+  "face_blowing_a_kiss": [
+    "bučinį siunčiantis veidas",
+    "bučinys",
+    "širdelė",
+    "veidas"
+  ],
+  "face_savoring_food": [
+    "besimėgaujantis",
+    "niam",
+    "skaniu maistu besimėgaujantis veidas",
+    "skanu",
+    "šypsena",
+    "veidas"
+  ],
+  "face_vomiting": [
+    "liga",
+    "vemiantis veidas",
+    "vemti"
+  ],
+  "face_with_crossed_out_eyes": [
+    "apsvaigęs",
+    "veidas"
+  ],
+  "face_with_hand_over_mouth": [
+    "ups",
+    "veidas su ranka ant burnos"
+  ],
+  "face_with_head_bandage": [
+    "skausmas",
+    "sužeidimas",
+    "tvarstis",
+    "veidas",
+    "veidas su galvos tvarsčiu"
+  ],
+  "face_with_medical_mask": [
+    "gydytojas",
+    "kaukė",
+    "medicina",
+    "šaltis",
+    "sergantis",
+    "veidas",
+    "veidas su medicinine kauke"
+  ],
+  "face_with_monocle": [
+    "tvankus",
+    "veidas su monokliu"
+  ],
+  "face_with_raised_eyebrow": [
+    "nepasitikintis",
+    "skeptiškas",
+    "veidas su pakeltais antakiais"
+  ],
+  "face_with_steam_from_nose": [
+    "laimėjo",
+    "triumfas",
+    "veidas",
+    "veidas su iš nosies einančiais garais"
+  ],
+  "face_with_symbols_on_mouth": [
+    "besikeikiantis",
+    "veidas su simboliais ant burnos"
+  ],
+  "face_with_thermometer": [
+    "ligonis",
+    "serga",
+    "termometras",
+    "veidas",
+    "veidas su termometru"
+  ],
+  "face_with_tongue": [
+    "liežuvis",
+    "veidas",
+    "veidas su iškištu liežuviu"
+  ],
+  "face_without_mouth": [
+    "burna",
+    "tylus",
+    "veidas",
+    "veidas be burnos"
+  ],
+  "factory": [
+    "gamykla",
+    "pastatas"
+  ],
+  "factory_worker": [
+    "darbininkas",
+    "gamykla",
+    "gamyklos darbuotojas",
+    "industrinis",
+    "surinkimas"
+  ],
+  "fairy": [
+    "fėja",
+    "oberon",
+    "puck",
+    "titania"
+  ],
+  "falafel": [
+    "falafelis",
+    "mėsos kukulis",
+    "vištiena"
+  ],
+  "falkland_islands": [
+    "vėliava"
+  ],
+  "fallen_leaf": [
+    "krenta",
+    "lapas",
+    "nukritęs lapas"
+  ],
+  "family": [
+    "mama",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_man_boy": [
+    "berniukas",
+    "mama",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_boy_boy": [
+    "berniukas",
+    "mama",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_girl": [
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_girl_boy": [
+    "berniukas",
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_girl_girl": [
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_man_boy": [
+    "berniukas",
+    "mama",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_man_boy_boy": [
+    "berniukas",
+    "mama",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_man_girl": [
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_man_girl_boy": [
+    "berniukas",
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_man_girl_girl": [
+    "mama",
+    "mergaitė",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_woman_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_woman_boy_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_woman_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_woman_girl_boy": [
+    "berniukas",
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_man_woman_girl_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas",
+    "vyras"
+  ],
+  "family_woman_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_boy_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_girl_boy": [
+    "berniukas",
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_girl_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_woman_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_woman_boy_boy": [
+    "berniukas",
+    "mama",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_woman_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_woman_girl_boy": [
+    "berniukas",
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "family_woman_woman_girl_girl": [
+    "mama",
+    "mergaitė",
+    "moteris",
+    "šeima",
+    "tėvas",
+    "vaikas"
+  ],
+  "farmer": [
+    "sodininkas",
+    "ūkininkas",
+    "ūkininkaujantis žmogus"
+  ],
+  "faroe_islands": [
+    "vėliava"
+  ],
+  "fast_down_button": [
+    "dviguba",
+    "greitai į apačią",
+    "į apačią",
+    "rodyklė"
+  ],
+  "fast_forward_button": [
+    "du kartus",
+    "greitai",
+    "rodyklė",
+    "sukti",
+    "sukti pirmyn"
+  ],
+  "fast_reverse_button": [
+    "atsukti atgal",
+    "du kartus",
+    "rodyklė",
+    "sukti atgal"
+  ],
+  "fast_up_button": [
+    "dviguba",
+    "greitai į viršų",
+    "rodyklė"
+  ],
+  "fax_machine": [
+    "faksas",
+    "fakso aparatas"
+  ],
+  "fearful": [
+    "baimė",
+    "baimės pilnas veidas",
+    "išsigandęs",
+    "veidas"
+  ],
+  "feather": [
+    "lengvumas",
+    "plunksna",
+    "skrydis"
+  ],
+  "female_sign": [
+    "moteris",
+    "moteriškos lyties ženklas"
+  ],
+  "ferris_wheel": [
+    "apžvalgos",
+    "atrakcionų parkas",
+    "ratas"
+  ],
+  "ferry": [
+    "keleivis",
+    "keltas",
+    "valtis"
+  ],
+  "field_hockey": [
+    "kamuolys",
+    "laukas",
+    "lazda",
+    "riedulys",
+    "žaidimas",
+    "žolės riedulys"
+  ],
+  "fiji": [
+    "vėliava"
+  ],
+  "file_cabinet": [
+    "bylų spintelė su stalčiais",
+    "failas",
+    "failų spintelė su stalčiais",
+    "spintelė"
+  ],
+  "file_folder": [
+    "aplankas",
+    "failas",
+    "failų aplankas"
+  ],
+  "film_frames": [
+    "filmas",
+    "filmo kadrai",
+    "juosta",
+    "kadrai",
+    "kinas"
+  ],
+  "film_projector": [
+    "filmas",
+    "filmų projektorius",
+    "kinas",
+    "projektorius",
+    "vaizdo įrašas"
+  ],
+  "finland": [
+    "vėliava"
+  ],
+  "fire": [
+    "įrankis",
+    "liepsna",
+    "ugnis"
+  ],
+  "fire_engine": [
+    "sunkvežimis",
+    "ugniagesių automobilis",
+    "ugnis",
+    "variklis"
+  ],
+  "fire_extinguisher": [
+    "gesinti",
+    "gesintuvas",
+    "ugnis"
+  ],
+  "firecracker": [
+    "dinamitas",
+    "fejerverkai",
+    "fejerverkas",
+    "sprogus"
+  ],
+  "firefighter": [
+    "gaisrinė mašina",
+    "gaisrininkas",
+    "ugniagesys"
+  ],
+  "fireworks": [
+    "fejerverkai",
+    "šventė"
+  ],
+  "first_quarter_moon": [
+    "ketvirtis",
+    "mėnulis",
+    "pirmas fazės ketvirtis"
+  ],
+  "first_quarter_moon_face": [
+    "ketvirtis",
+    "mėnulis",
+    "priešpilnio mėnulis su veidu",
+    "veidas"
+  ],
+  "fish": [
+    "zodiakas",
+    "žuvis",
+    "žuvys"
+  ],
+  "fish_cake_with_swirl": [
+    "kepiniai",
+    "pyragėlis",
+    "sūkurys",
+    "žuvies pyragėlis su išpieštu sūkurio simboliu",
+    "žuvis"
+  ],
+  "fishing_pole": [
+    "meškerė",
+    "žuvis"
+  ],
+  "five": [
+    "mygtukas"
+  ],
+  "five_o_clock": [
+    "00",
+    "5",
+    "5:00",
+    "penkios",
+    "valandos"
+  ],
+  "five_thirty": [
+    "30",
+    "5",
+    "5:30",
+    "penkios",
+    "pusė šešių",
+    "trisdešimt",
+    "valandos"
+  ],
+  "flamingo": [
+    "flamingas",
+    "spalvingas",
+    "tropinis"
+  ],
+  "flashlight": [
+    "deglas",
+    "elektra",
+    "įrankis",
+    "šviesa",
+    "žibintuvėlis"
+  ],
+  "flat_shoe": [
+    "avalynė be raištelių",
+    "baleto batelis",
+    "lygiapadis batelis",
+    "šlepetė"
+  ],
+  "flatbread": [
+    "arepa",
+    "lavašas",
+    "naan",
+    "paplotis",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "lelija",
+    "lelijos simbolis"
+  ],
+  "flexed_biceps": [
+    "bicepsai",
+    "komiksas",
+    "kūnas",
+    "paryškinti bicepsai",
+    "raumuo"
+  ],
+  "floppy_disk": [
+    "diskas",
+    "diskelis",
+    "kompiuteris"
+  ],
+  "flower_playing_cards": [
+    "gėlė",
+    "japonų",
+    "kortos",
+    "kortos su gėlėmis",
+    "žaidimas"
+  ],
+  "flushed_face": [
+    "nuraudęs",
+    "raudonis",
+    "veidas"
+  ],
+  "fly": [
+    "cėcė",
+    "gyvulinė musė",
+    "kambarinė musė",
+    "mėšlinė musė",
+    "musė",
+    "negalavimas"
+  ],
+  "flying_disc": [
+    "aukščiausioji riba",
+    "skraidantis diskas"
+  ],
+  "flying_saucer": [
+    "nso",
+    "skraidanti lėkštė"
+  ],
+  "fog": [
+    "debesis",
+    "ūkana"
+  ],
+  "foggy": [
+    "oras",
+    "rūkas"
+  ],
+  "folded_hands": [
+    "melstis",
+    "prašymas",
+    "ranka",
+    "suglausti delnai"
+  ],
+  "fondue": [
+    "dubuo",
+    "fondiu",
+    "ištirpintas",
+    "šokoladas",
+    "sūris",
+    "šveicariškas"
+  ],
+  "foot": [
+    "pėda",
+    "spyris",
+    "trepsėti"
+  ],
+  "footprints": [
+    "drabužiai",
+    "kūnas",
+    "pėdsakai",
+    "pėdsakas"
+  ],
+  "fork_and_knife": [
+    "maisto gaminimas",
+    "peilis",
+    "šakutė",
+    "šakutė ir peilis"
+  ],
+  "fork_and_knife_with_plate": [
+    "lėkštė",
+    "maisto gaminimas",
+    "peilis",
+    "šakutė",
+    "šakutė ir peilis su lėkšte"
+  ],
+  "fortune_cookie": [
+    "laimės sausainiukas",
+    "pranašystė"
+  ],
+  "fountain": [
+    "fontanas"
+  ],
+  "fountain_pen": [
+    "automatinis plunksnakotis",
+    "plunksnakotis",
+    "rašiklis"
+  ],
+  "four": [
+    "mygtukas"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "dobilas",
+    "keturi",
+    "keturlapis dobilas",
+    "lapas"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4:00",
+    "keturios",
+    "valandos"
+  ],
+  "four_thirty": [
+    "30",
+    "4",
+    "4:30",
+    "pusė penkių",
+    "trisdešimt",
+    "valandos"
+  ],
+  "fox": [
+    "lapė",
+    "lapės snukis",
+    "snukis"
+  ],
+  "framed_picture": [
+    "menas",
+    "muziejus",
+    "paveikslas",
+    "piešinys",
+    "rėmas",
+    "rėmas su paveikslu"
+  ],
+  "france": [
+    "vėliava"
+  ],
+  "free_button": [
+    "nemokama",
+    "simbolis „free“"
+  ],
+  "french_fries": [
+    "bulvytės",
+    "gruzdintos"
+  ],
+  "french_guiana": [
+    "vėliava"
+  ],
+  "french_polynesia": [
+    "vėliava"
+  ],
+  "french_southern_territories": [
+    "vėliava"
+  ],
+  "fried_shrimp": [
+    "kepta",
+    "krevetė",
+    "tempura"
+  ],
+  "frog": [
+    "varlė",
+    "varlės snukutis",
+    "veidas"
+  ],
+  "front_facing_baby_chick": [
+    "atsisukęs snapu viščiukas",
+    "mažas",
+    "paukštis",
+    "viščiukas"
+  ],
+  "frowning": [
+    "paniuręs",
+    "veidas"
+  ],
+  "frowning_face_with_open_mouth": [
+    "burna",
+    "išsižiojęs",
+    "paniuręs",
+    "veidas"
+  ],
+  "fu": [
+    "pirštas",
+    "ranka",
+    "vidurinis pirštas"
+  ],
+  "fuel_pump": [
+    "degalai",
+    "degalinė",
+    "degalų siurblys",
+    "dujos",
+    "siurblys"
+  ],
+  "full_moon": [
+    "mėnulis",
+    "pilnas",
+    "pilnatis"
+  ],
+  "full_moon_face": [
+    "mėnulis",
+    "pilnatis",
+    "pilnatis su veidu",
+    "šviesu",
+    "veidas"
+  ],
+  "funeral_urn": [
+    "laidojimo urna",
+    "laidotuvės",
+    "mirtis",
+    "urna"
+  ],
+  "gabon": [
+    "vėliava"
+  ],
+  "gambia": [
+    "vėliava"
+  ],
+  "game_die": [
+    "kauliukas",
+    "žaidimas"
+  ],
+  "garlic": [
+    "česnakas",
+    "prieskonis"
+  ],
+  "gear": [
+    "įrankis",
+    "krumpliaratis"
+  ],
+  "gem_stone": [
+    "brangakmenis",
+    "deimantas",
+    "juvelyrika",
+    "romantika"
+  ],
+  "gemini": [
+    "dvyniai",
+    "zodiakas"
+  ],
+  "genie": [
+    "dvasia",
+    "džinas"
+  ],
+  "georgia": [
+    "vėliava"
+  ],
+  "germany": [
+    "vėliava"
+  ],
+  "ghana": [
+    "vėliava"
+  ],
+  "ghost": [
+    "fantazija",
+    "monstras",
+    "padaras",
+    "pasaka",
+    "vaiduoklis",
+    "veidas"
+  ],
+  "gibraltar": [
+    "vėliava"
+  ],
+  "giraffe": [
+    "dėmė",
+    "žirafa"
+  ],
+  "girl": [
+    "jauna",
+    "mergaitė",
+    "mergelė",
+    "zodiakas"
+  ],
+  "glass_of_milk": [
+    "gėrimas",
+    "pienas",
+    "pieno stiklinė",
+    "sktiklinė"
+  ],
+  "glasses": [
+    "akiniai",
+    "akys",
+    "apranga"
+  ],
+  "globe_showing_americas": [
+    "amerika",
+    "gaublys",
+    "pasaulis",
+    "žemė",
+    "žemės rutulys su šiaurės ir pietų amerikos žemynais"
+  ],
+  "globe_showing_asia_australia": [
+    "australija",
+    "azija",
+    "gaublys",
+    "pasaulis",
+    "žemė",
+    "žemės rutulys su azijos ir australijos žemynais"
+  ],
+  "globe_showing_europe_africa": [
+    "afrika",
+    "europa",
+    "gaublys",
+    "pasaulis",
+    "žemė",
+    "žemės rutulys su europos ir afrikos žemynais"
+  ],
+  "globe_with_meridians": [
+    "dienovidiniai",
+    "gaublys",
+    "pasaulis",
+    "žemė",
+    "žemės rutulys su dienovidiniais"
+  ],
+  "gloves": [
+    "pirštinės",
+    "ranka"
+  ],
+  "glowing_star": [
+    "kibirkštis",
+    "šviesti",
+    "žėrėti",
+    "žėrinti",
+    "žvaigždė"
+  ],
+  "goal_net": [
+    "tinklas",
+    "vartai"
+  ],
+  "goat": [
+    "ožiaragis",
+    "ožys",
+    "zodiakas"
+  ],
+  "goblin": [
+    "demonas",
+    "fantazija",
+    "monstras",
+    "padaras",
+    "pasaka",
+    "veidas"
+  ],
+  "goggles": [
+    "akių apsauga",
+    "apsauginiai akiniai",
+    "plaukimas",
+    "suvirinimas"
+  ],
+  "gorilla": [
+    "gorila",
+    "gyvūnas"
+  ],
+  "graduation_cap": [
+    "baigimas",
+    "drabužiai",
+    "kepurė",
+    "kepurėlė",
+    "mokyklos baigimo kepurėlė",
+    "šventė"
+  ],
+  "grapes": [
+    "vaisius",
+    "vynuogė",
+    "vynuogės"
+  ],
+  "greece": [
+    "vėliava"
+  ],
+  "green_apple": [
+    "obuolys",
+    "vaisius",
+    "žalias"
+  ],
+  "green_book": [
+    "knyga",
+    "žalia"
+  ],
+  "green_circle": [
+    "apskritimas",
+    "žalias"
+  ],
+  "green_heart": [
+    "žalia",
+    "žalia širdelė"
+  ],
+  "green_salad": [
+    "maistas",
+    "salotos",
+    "žalios"
+  ],
+  "green_square": [
+    "kvadratas",
+    "žalias"
+  ],
+  "greenland": [
+    "vėliava"
+  ],
+  "grenada": [
+    "vėliava"
+  ],
+  "grimacing": [
+    "besivaipantis veidas",
+    "grimasa",
+    "veidas"
+  ],
+  "grin": [
+    "akys",
+    "išsišiepęs veidas su besišypsančiomis akimis",
+    "išsišiepti",
+    "šypsena",
+    "veidas"
+  ],
+  "grinning_cat": [
+    "besišypsančios katės snukutis",
+    "burna",
+    "išsižiojęs",
+    "katė",
+    "šypsena",
+    "veidas"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "akys",
+    "išsišiepusios katės snukutis su besišypsančiomis akimis",
+    "katė",
+    "šypsena",
+    "vaipytis",
+    "veidas"
+  ],
+  "grinning_face": [
+    "išsišiepęs veidas",
+    "išsišiepti",
+    "veidas"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "akys",
+    "besišypsantis išsižiojęs veidas besišypsančiomis akimis",
+    "burna",
+    "praverta",
+    "šypsena",
+    "veidas"
+  ],
+  "growing_heart": [
+    "auganti širdelė",
+    "didėjimas",
+    "pulsas",
+    "susijaudinimas",
+    "susinervinęs"
+  ],
+  "guadeloupe": [
+    "vėliava"
+  ],
+  "guam": [
+    "vėliava"
+  ],
+  "guard": [
+    "sargyba",
+    "sargybinis"
+  ],
+  "guatemala": [
+    "vėliava"
+  ],
+  "guernsey": [
+    "vėliava"
+  ],
+  "guide_dog": [
+    "aklas",
+    "prieinamumas",
+    "šuo vedlys",
+    "vedlys"
+  ],
+  "guinea": [
+    "vėliava"
+  ],
+  "guinea_bissau": [
+    "vėliava"
+  ],
+  "guitar": [
+    "gitara",
+    "instrumentas",
+    "muzika"
+  ],
+  "guyana": [
+    "vėliava"
+  ],
+  "haiti": [
+    "vėliava"
+  ],
+  "hamburger": [
+    "mėsainis"
+  ],
+  "hammer": [
+    "įrankis",
+    "plaktukas"
+  ],
+  "hammer_and_pick": [
+    "įrankis",
+    "kirstuvas",
+    "plaktukas",
+    "plaktuvas ir kirstuvas"
+  ],
+  "hammer_and_wrench": [
+    "įrankis",
+    "plaktukas",
+    "plaktukas ir veržliaraktis",
+    "veržliaraktis"
+  ],
+  "hamster": [
+    "naminis gyvūnas",
+    "veidas",
+    "žiurkėnas",
+    "žiurkėno snukutis"
+  ],
+  "hand_with_fingers_splayed": [
+    "iškelta ranka su išskėstais pirštais",
+    "išskėsta",
+    "pirštas",
+    "ranka"
+  ],
+  "handbag": [
+    "drabužiai",
+    "krepšys",
+    "rankinė"
+  ],
+  "handshake": [
+    "pasisveikinimas",
+    "paspaudimas",
+    "ranka",
+    "rankos paspaudimas",
+    "susitarimas"
+  ],
+  "hash": [
+    "mygtukas"
+  ],
+  "hatching_chick": [
+    "išsiridenti",
+    "išsiritęs viščiukas",
+    "mažas",
+    "paukštis",
+    "viščiukas"
+  ],
+  "headphone": [
+    "ausinės"
+  ],
+  "headstone": [
+    "kapas",
+    "kapinės",
+    "paminklas"
+  ],
+  "health_worker": [
+    "gydytojas",
+    "slaugymas",
+    "sveikatos darbuotojas",
+    "sveikatos priežiūra",
+    "terapistas"
+  ],
+  "hear_no_evil_monkey": [
+    "beždžionė",
+    "blogis",
+    "draudžiama",
+    "klausyti",
+    "uždrausta",
+    "užsidengusi ausis beždžionė",
+    "veidas"
+  ],
+  "heard_mcdonald_islands": [
+    "vėliava"
+  ],
+  "heart": [
+    "raudona širdelė",
+    "širdis"
+  ],
+  "heart_decoration": [
+    "širdelės dekoracija",
+    "širdis"
+  ],
+  "heart_exclamation": [
+    "šauktukas",
+    "širdis",
+    "skyryba",
+    "storas širdelės formos šauktukas",
+    "ženklas"
+  ],
+  "heart_eyes": [
+    "akys",
+    "besišypsantis veidas su širdelės formos akimis",
+    "meilė",
+    "širdelės",
+    "šypsena",
+    "veidas"
+  ],
+  "heart_suit": [
+    "kortos",
+    "širdys",
+    "žaidimas"
+  ],
+  "heart_with_arrow": [
+    "bučinys",
+    "lūpos",
+    "širdelė su strėle"
+  ],
+  "heart_with_ribbon": [
+    "kaspinas",
+    "širdelė su kaspinu",
+    "valentino diena"
+  ],
+  "heavy_dollar_sign": [
+    "doleris",
+    "paryškintas dolerio ženklas",
+    "pinigai",
+    "valiuta"
+  ],
+  "hedgehog": [
+    "ežys",
+    "spygliuotas"
+  ],
+  "helicopter": [
+    "sraigstasparnis",
+    "transporto priemonė"
+  ],
+  "herb": [
+    "lapas",
+    "žolelė"
+  ],
+  "hibiscus": [
+    "augalas",
+    "gėlė",
+    "kinrožė"
+  ],
+  "high_heeled_shoe": [
+    "aukštakulnis batelis",
+    "batas",
+    "drabužiai",
+    "kulnas",
+    "moteris"
+  ],
+  "high_speed_train": [
+    "geležinkelis",
+    "greitasis",
+    "greitis",
+    "traukinys"
+  ],
+  "high_voltage": [
+    "aukštoji įtampa",
+    "elektra",
+    "įtampa",
+    "pavojus",
+    "žaibas"
+  ],
+  "hiking_boot": [
+    "batas",
+    "kuprinė",
+    "stovyklavietė",
+    "žygiai",
+    "žygio batai"
+  ],
+  "hindu_temple": [
+    "induistai",
+    "induistų šventykla",
+    "šventykla"
+  ],
+  "hippopotamus": [
+    "begemotas"
+  ],
+  "hole": [
+    "duobė"
+  ],
+  "hollow_red_circle": [
+    "o",
+    "ratas",
+    "ryškus didelis ratas"
+  ],
+  "honduras": [
+    "vėliava"
+  ],
+  "honey_pot": [
+    "medaus puodynė",
+    "medus",
+    "puodas",
+    "saldu"
+  ],
+  "honeybee": [
+    "bitė",
+    "vabzdys"
+  ],
+  "hong_kong_sar_china": [
+    "vėliava"
+  ],
+  "hook": [
+    "grobis",
+    "kablys",
+    "sugauti"
+  ],
+  "horizontal_traffic_light": [
+    "eismas",
+    "horizontalus šviesoforas",
+    "signalas",
+    "šviesa"
+  ],
+  "horse": [
+    "arklių varžybos",
+    "arklys",
+    "varžytis"
+  ],
+  "horse_face": [
+    "arklio snukis",
+    "arklys",
+    "veidas"
+  ],
+  "horse_racing": [
+    "arklių lenktynės",
+    "arklys",
+    "jojikas",
+    "lenktynės"
+  ],
+  "hospital": [
+    "gydytojas",
+    "ligoninė",
+    "medicina"
+  ],
+  "hot_beverage": [
+    "arbata",
+    "garuoja",
+    "gėrimas",
+    "gerti",
+    "karšta",
+    "karštas gėrimas",
+    "kava"
+  ],
+  "hot_dog": [
+    "dešrainis",
+    "dešrelė"
+  ],
+  "hot_face": [
+    "įkaitęs veidas",
+    "karščiuojantis",
+    "karštas",
+    "prakaitavimas",
+    "raudonveidis",
+    "šilumos smūgis"
+  ],
+  "hot_pepper": [
+    "aštrus",
+    "aštrusis pipiras",
+    "pipiras"
+  ],
+  "hot_springs": [
+    "garai",
+    "karšta",
+    "karštosios versmės",
+    "versmės"
+  ],
+  "hotel": [
+    "pastatas",
+    "viešbutis"
+  ],
+  "hourglass_done": [
+    "laikmatis",
+    "smėlio laikrodis",
+    "smėlis"
+  ],
+  "hourglass_not_done": [
+    "laikmatis",
+    "smėlio laikrodis",
+    "smėlio laikrodis su krentančiu smėliu",
+    "smėlis"
+  ],
+  "house": [
+    "namai",
+    "namas",
+    "pastatas"
+  ],
+  "house_with_garden": [
+    "namai",
+    "namas",
+    "namas su sodu",
+    "sodas"
+  ],
+  "houses": [
+    "namai"
+  ],
+  "hugs": [
+    "apkabinantis veidas",
+    "apkabinimas",
+    "apkabinti",
+    "veidas"
+  ],
+  "hungary": [
+    "vėliava"
+  ],
+  "hushed_face": [
+    "nuščiuvęs",
+    "nustebęs",
+    "priblokštas",
+    "veidas"
+  ],
+  "hut": [
+    "apvalus namas",
+    "jurta",
+    "namas",
+    "namelis"
+  ],
+  "ice": [
+    "ledas",
+    "ledo kubelis",
+    "šaltas"
+  ],
+  "ice_cream": [
+    "desertas",
+    "kremas",
+    "ledai",
+    "saldu"
+  ],
+  "ice_hockey": [
+    "lazda",
+    "ledas",
+    "ledo riedulys",
+    "ledo ritulio lazda ir ritulys",
+    "ritulys",
+    "žaidimas"
+  ],
+  "ice_skate": [
+    "čiuožinėti",
+    "ledas",
+    "pačiūžos"
+  ],
+  "iceland": [
+    "vėliava"
+  ],
+  "id_button": [
+    "id",
+    "simbolis „id“",
+    "tapatybė"
+  ],
+  "in_hole": [
+    "golfas",
+    "skylutė",
+    "vėliava skylutėje"
+  ],
+  "inbox_tray": [
+    "dėklas",
+    "gaunamų laiškų dėklas",
+    "gauti",
+    "laiškas",
+    "paštas"
+  ],
+  "incoming_envelope": [
+    "el. laiškas",
+    "gaunamas vokas",
+    "gavimas",
+    "laiškas",
+    "paštas",
+    "vokas"
+  ],
+  "index_pointing_up": [
+    "delnu atsukta aukštyn pirštu rodanti ranka",
+    "į viršų",
+    "indeksas",
+    "pirštas",
+    "ranka",
+    "rodyti"
+  ],
+  "india": [
+    "vėliava"
+  ],
+  "indonesia": [
+    "vėliava"
+  ],
+  "infinity": [
+    "amžinai",
+    "begalybė",
+    "neribotas",
+    "universalus"
+  ],
+  "information_source": [
+    "i",
+    "informacija"
+  ],
+  "innocent": [
+    "angelas",
+    "aureolė",
+    "besišypsantis veidas su aureole",
+    "fantazija",
+    "nekaltas",
+    "veidas"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "abėcėlė",
+    "įvestis",
+    "lotyniškos",
+    "raidės"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "įvestis",
+    "lotyniškos",
+    "mažosios",
+    "raidės"
+  ],
+  "input_latin_uppercase": [
+    "abcd",
+    "didžiosios",
+    "įvestis",
+    "lotyniškos",
+    "raidės"
+  ],
+  "input_symbols": [
+    "įvesties simboliai",
+    "įvestis"
+  ],
+  "iran": [
+    "vėliava"
+  ],
+  "iraq": [
+    "vėliava"
+  ],
+  "ireland": [
+    "vėliava"
+  ],
+  "isle_of_man": [
+    "vėliava"
+  ],
+  "israel": [
+    "vėliava"
+  ],
+  "italy": [
+    "vėliava"
+  ],
+  "jack_o_lantern": [
+    "helovinas",
+    "šventė",
+    "žibintas",
+    "žibintas iš moliūgo"
+  ],
+  "jamaica": [
+    "vėliava"
+  ],
+  "japan": [
+    "vėliava"
+  ],
+  "japanese_acceptable_button": [
+    "hieroglifas",
+    "japonų",
+    "sutikimą reiškiantis hieroglifas",
+    "sutikimas"
+  ],
+  "japanese_application_button": [
+    "hieroglifas",
+    "japonų",
+    "taikymą reiškiantis hieroglifas",
+    "taikymas"
+  ],
+  "japanese_bargain_button": [
+    "hieroglifas",
+    "japonų",
+    "susitarimą reiškiantis hieroglifas",
+    "susitarimas"
+  ],
+  "japanese_castle": [
+    "japoniška pilis",
+    "japonų",
+    "pilis"
+  ],
+  "japanese_congratulations_button": [
+    "hieroglifas",
+    "japonų",
+    "pasveikinimą reiškiantis hieroglifas",
+    "sveikinimas"
+  ],
+  "japanese_discount_button": [
+    "hieroglifas",
+    "japonų",
+    "nuolaida",
+    "nuolaidą reiškiantis hieroglifas"
+  ],
+  "japanese_dolls": [
+    "festivalis",
+    "japoniškos lėlės",
+    "japonų",
+    "lėlė",
+    "šventė"
+  ],
+  "japanese_free_of_charge_button": [
+    "hieroglifas",
+    "japonų",
+    "nemokamai",
+    "nemokamumą reiškiantis hieroglifas"
+  ],
+  "japanese_here_button": [
+    "čia",
+    "čia reiškiantis hieroglifas",
+    "hieroglifas",
+    "japonų"
+  ],
+  "japanese_monthly_amount_button": [
+    "hieroglifas",
+    "japonų",
+    "mėnesio suma",
+    "mėnesio sumą reiškiantis hieroglifas"
+  ],
+  "japanese_no_vacancy_button": [
+    "hieroglifas",
+    "japonų",
+    "pilnatvė",
+    "pilnatvę reiškiantis hieroglifas"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "hieroglifas",
+    "japonų",
+    "ne nemokamą reiškiantis hieroglifas",
+    "ne nemokamas"
+  ],
+  "japanese_open_for_business_button": [
+    "hieroglifas",
+    "japonų",
+    "veikimą reiškiantis hieroglifas",
+    "veikti"
+  ],
+  "japanese_passing_grade_button": [
+    "bendrumą reiškiantis hieroglifas",
+    "bendrumas",
+    "hieroglifas",
+    "japonų"
+  ],
+  "japanese_post_office": [
+    "japoniškas paštas",
+    "japonų",
+    "paštas"
+  ],
+  "japanese_prohibited_button": [
+    "draudimą reiškiantis hieroglifas",
+    "draudimas",
+    "hieroglifas",
+    "japonų"
+  ],
+  "japanese_reserved_button": [
+    "hieroglifas",
+    "japonų",
+    "rezervavimą reiškiantis hieroglifas",
+    "rezervuotas"
+  ],
+  "japanese_secret_button": [
+    "hieroglifas",
+    "japonų",
+    "paslaptį reiškiantis hieroglifas",
+    "paslaptis"
+  ],
+  "japanese_service_charge_button": [
+    "hieroglifas",
+    "japonų",
+    "paslaugos mokestį reiškiantis hieroglifas",
+    "paslaugos mokestis"
+  ],
+  "japanese_symbol_for_beginner": [
+    "geltonas",
+    "įrankis",
+    "japoniškas pradedančiojo simbolis",
+    "japonų",
+    "lapas",
+    "pradedantysis",
+    "simbolis",
+    "žalias"
+  ],
+  "japanese_vacancy_button": [
+    "hieroglifas",
+    "japonų",
+    "tuštuma",
+    "tuštumą reiškiantis hieroglifas"
+  ],
+  "jeans": [
+    "drabužiai",
+    "džinsai",
+    "kelnės",
+    "trumpikės"
+  ],
+  "jersey": [
+    "vėliava"
+  ],
+  "joker": [
+    "juokdarys",
+    "kortos",
+    "žaidimas"
+  ],
+  "jordan": [
+    "vėliava"
+  ],
+  "joy": [
+    "ašara",
+    "džiaugsmas",
+    "juokas",
+    "veidas",
+    "veidas su džiaugsmo ašaromis"
+  ],
+  "joy_cat": [
+    "ašara",
+    "džiaugsmas",
+    "katė",
+    "katės snukutis su džiaugsmo ašaromis",
+    "veidas"
+  ],
+  "joystick": [
+    "vaizdo žaidimas",
+    "valdymo svirtis",
+    "žaidimas"
+  ],
+  "judge": [
+    "svarstyklės",
+    "teisėjas",
+    "teisiantis žmogus"
+  ],
+  "kaaba": [
+    "islamas",
+    "musulmonas",
+    "religija"
+  ],
+  "kangaroo": [
+    "australija",
+    "jauniklis",
+    "kengūra",
+    "šokinėti",
+    "sterblinis gyvūnas"
+  ],
+  "kazakhstan": [
+    "vėliava"
+  ],
+  "kenya": [
+    "vėliava"
+  ],
+  "key": [
+    "raktas",
+    "slaptažodis",
+    "spyna"
+  ],
+  "keyboard": [
+    "klaviatūra",
+    "kompiuteris"
+  ],
+  "kick_scooter": [
+    "paspirtukas",
+    "spirti"
+  ],
+  "kimono": [
+    "drabužiai"
+  ],
+  "kiribati": [
+    "vėliava"
+  ],
+  "kiss": [
+    "bučinys",
+    "pora"
+  ],
+  "kiss_man_man": [
+    "bučinys",
+    "pora",
+    "vyras"
+  ],
+  "kiss_mark": [
+    "bučinio žymė",
+    "bučinys",
+    "lūpos"
+  ],
+  "kiss_woman_man": [
+    "bučinys",
+    "moteris",
+    "pora",
+    "vyras"
+  ],
+  "kiss_woman_woman": [
+    "bučinys",
+    "moteris",
+    "pora"
+  ],
+  "kissing_cat": [
+    "akys",
+    "bučinys",
+    "bučiuojančios katės snukutis",
+    "katė",
+    "veidas"
+  ],
+  "kissing_face": [
+    "bučinys",
+    "bučiuojantis veidas",
+    "veidas"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "akys",
+    "bučinys",
+    "bučiuojantis su užmerktomis akimis",
+    "užmerktos",
+    "veidas"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "akys",
+    "bučinys",
+    "bučiuojantis su besišypsančiomis akimis",
+    "šypsena",
+    "veidas"
+  ],
+  "kitchen_knife": [
+    "ginklas",
+    "įrankis",
+    "maisto gaminimas",
+    "peilis",
+    "virtuvinis peilis"
+  ],
+  "kite": [
+    "aitvaras",
+    "pakilti",
+    "skristi"
+  ],
+  "kiwi_fruit": [
+    "kivis",
+    "maistas",
+    "vaisius"
+  ],
+  "knot": [
+    "kaklaraištis",
+    "mazgas",
+    "surišti",
+    "virvė"
+  ],
+  "koala": [
+    "meška"
+  ],
+  "kosovo": [
+    "vėliava"
+  ],
+  "kuwait": [
+    "vėliava"
+  ],
+  "kyrgyzstan": [
+    "vėliava"
+  ],
+  "lab_coat": [
+    "bandymas",
+    "gydytojas",
+    "laboratorinis chalatas",
+    "mokslininkas"
+  ],
+  "label": [
+    "etiketė"
+  ],
+  "lacrosse": [
+    "įvartis",
+    "kamuoliukas",
+    "lakrosas",
+    "lazda"
+  ],
+  "ladder": [
+    "kopėčios",
+    "lipti",
+    "žingsnis"
+  ],
+  "lady_beetle": [
+    "boružė",
+    "vabalas",
+    "vabzdys"
+  ],
+  "laos": [
+    "vėliava"
+  ],
+  "laptop": [
+    "asmeninis",
+    "kompiuteris",
+    "skreitinis kompiuteris"
+  ],
+  "large_blue_diamond": [
+    "deimantas",
+    "didelis mėlynas deimantas",
+    "geometrija",
+    "mėlynas"
+  ],
+  "large_orange_diamond": [
+    "deimantas",
+    "didelis oranžinis deimantas",
+    "geometrija",
+    "oranžinis"
+  ],
+  "last_quarter_moon": [
+    "ketvirtis",
+    "mėnulis",
+    "paskutinis fazės ketvirtis"
+  ],
+  "last_quarter_moon_face": [
+    "delčios mėnulis su veidu",
+    "ketvirtis",
+    "mėnulis",
+    "veidas"
+  ],
+  "last_track_button": [
+    "ankstesnis takelis",
+    "ankstesnis vaizdas",
+    "paskutinis takelis",
+    "rodyklė",
+    "trikampis"
+  ],
+  "latin_cross": [
+    "krikščionis",
+    "kryžius",
+    "religija",
+    "romos katalikų kryžius"
+  ],
+  "latvia": [
+    "vėliava"
+  ],
+  "laughing": [
+    "besišypsantis išsižiojęs veidas su smarkiai užmerktomis akimis",
+    "burna",
+    "juokas",
+    "pasitenkinęs",
+    "praverta",
+    "šypsena",
+    "veidas"
+  ],
+  "leaf_fluttering_in_wind": [
+    "lapas",
+    "lapas vėjyje",
+    "pūsti",
+    "skrajoti",
+    "vėjas"
+  ],
+  "leafy_green": [
+    "kininis kopūstas",
+    "kopūstas",
+    "lapinė daržovė",
+    "salota"
+  ],
+  "lebanon": [
+    "vėliava"
+  ],
+  "ledger": [
+    "sąskaitų knyga",
+    "užrašų knygelė"
+  ],
+  "left_arrow": [
+    "koordinatė",
+    "kryptis",
+    "rodyklė",
+    "rodyklė į kairę",
+    "vakarai"
+  ],
+  "left_arrow_curving_right": [
+    "rodyklė",
+    "rodyklė į kairę, užlenkta į dešinę"
+  ],
+  "left_facing_fist": [
+    "į kairę nukreiptas kumštis",
+    "kairėn",
+    "kumštis"
+  ],
+  "left_luggage": [
+    "bagažas",
+    "lagaminas",
+    "paliktas bagažas",
+    "spintelė"
+  ],
+  "left_right_arrow": [
+    "rodyklė",
+    "rodyklė į kairę ir į dešinę"
+  ],
+  "left_speech_bubble": [
+    "dialogas",
+    "kairysis kalbos debesėlis",
+    "kalba"
+  ],
+  "leg": [
+    "galūnė",
+    "koja",
+    "spyris"
+  ],
+  "lemon": [
+    "citrina",
+    "citrusinis",
+    "vaisius"
+  ],
+  "leo": [
+    "liūtas",
+    "zodiakas"
+  ],
+  "leopard": [
+    "leopardas"
+  ],
+  "lesotho": [
+    "vėliava"
+  ],
+  "level_slider": [
+    "lygio slankiklis",
+    "lygis",
+    "muzika",
+    "slankiklis"
+  ],
+  "liberia": [
+    "vėliava"
+  ],
+  "libra": [
+    "pusiausvyra",
+    "svarstyklės",
+    "teisingumas",
+    "zodiakas"
+  ],
+  "libya": [
+    "vėliava"
+  ],
+  "liechtenstein": [
+    "vėliava"
+  ],
+  "light_bulb": [
+    "elektra",
+    "idėja",
+    "komiksas",
+    "lemputė",
+    "šviesa"
+  ],
+  "light_rail": [
+    "geležinkelis",
+    "miesto tramvajus"
+  ],
+  "link": [
+    "jungtis"
+  ],
+  "linked_paperclips": [
+    "sąvaržėlė",
+    "sujungimas",
+    "sukabintos sąvaržėlės"
+  ],
+  "lion": [
+    "liūtas",
+    "liūto snukis",
+    "veidas",
+    "zodiakas"
+  ],
+  "lipstick": [
+    "kosmetika",
+    "lūpų dažai",
+    "makiažas"
+  ],
+  "lithuania": [
+    "vėliava"
+  ],
+  "litter_in_bin_sign": [
+    "šiukšlė",
+    "šiukšliadėžė",
+    "šiukšlių metimo į šiukšliadėžes ženklas"
+  ],
+  "lizard": [
+    "driežas",
+    "roplys"
+  ],
+  "llama": [
+    "alpaka",
+    "guanakas",
+    "lama",
+    "lamos vilna",
+    "vilna"
+  ],
+  "lobster": [
+    "jūrų gėrybė",
+    "omaras",
+    "žnyplės"
+  ],
+  "locked": [
+    "spyna",
+    "uždaryta"
+  ],
+  "locked_with_key": [
+    "raktas",
+    "saugu",
+    "spyna",
+    "uždaryta",
+    "užrakinta spyna su raktu"
+  ],
+  "locked_with_pen": [
+    "privatumas",
+    "rašalas",
+    "rašiklis",
+    "smaigalys",
+    "spyna",
+    "spyna ir rašiklis"
+  ],
+  "locomotive": [
+    "garai",
+    "geležinkelis",
+    "lokomotyvas",
+    "traukinys",
+    "variklis"
+  ],
+  "lollipop": [
+    "desertas",
+    "ledinukas ant pagaliuko",
+    "saldainis",
+    "saldu"
+  ],
+  "long_drum": [
+    "būgnas",
+    "ilgas būgnas",
+    "kongas",
+    "ritmas"
+  ],
+  "lotion_bottle": [
+    "apsauga nuo saulės",
+    "drėkinamasis kremas",
+    "losjonas",
+    "losjono buteliukas",
+    "šampūnas"
+  ],
+  "loudspeaker": [
+    "garsiai",
+    "garsiakalbio simbolis",
+    "viešas"
+  ],
+  "love_hotel": [
+    "meilė",
+    "meilės viešbutis",
+    "viešbutis"
+  ],
+  "love_letter": [
+    "laiškas",
+    "meilė",
+    "meilės laiškas",
+    "paštas",
+    "širdis"
+  ],
+  "love_you_gesture": [
+    "„myliu tave“ gestas",
+    "myliu",
+    "ranka"
+  ],
+  "luggage": [
+    "bagažas",
+    "kelionė",
+    "pakavimas"
+  ],
+  "lungs": [
+    "įkvėpimas",
+    "iškvėpimas",
+    "kvėpavimas",
+    "organas",
+    "plaučiai"
+  ],
+  "luxembourg": [
+    "vėliava"
+  ],
+  "lying_face": [
+    "melas",
+    "meluojantis veidas",
+    "veidas"
+  ],
+  "macao_sar_china": [
+    "vėliava"
+  ],
+  "madagascar": [
+    "vėliava"
+  ],
+  "mage": [
+    "burtininkas",
+    "kerėtoja",
+    "kerėtojas",
+    "magas",
+    "ragana"
+  ],
+  "magic_wand": [
+    "burtininkas",
+    "ragana",
+    "stebuklinga lazdelė",
+    "stebuklingas"
+  ],
+  "magnet": [
+    "magnetas",
+    "magnetinis",
+    "pasaga",
+    "trauka"
+  ],
+  "magnifying_glass_tilted_left": [
+    "didinimo",
+    "didinimo stiklas į kairę",
+    "įrankis",
+    "paieška",
+    "stiklas"
+  ],
+  "magnifying_glass_tilted_right": [
+    "didinimo",
+    "didinimo stiklas į dešinę",
+    "įrankis",
+    "paieška",
+    "stiklas"
+  ],
+  "mahjong_red_dragon": [
+    "madžongas",
+    "madžongo raudonas drakonas",
+    "raudonas",
+    "žaidimas"
+  ],
+  "malawi": [
+    "vėliava"
+  ],
+  "malaysia": [
+    "vėliava"
+  ],
+  "maldives": [
+    "vėliava"
+  ],
+  "male_sign": [
+    "vyras",
+    "vyriškos lyties ženklas"
+  ],
+  "mali": [
+    "vėliava"
+  ],
+  "malta": [
+    "vėliava"
+  ],
+  "mammoth": [
+    "didelis",
+    "iltis",
+    "išnykimas",
+    "mamutas"
+  ],
+  "man": [
+    "vyras"
+  ],
+  "man_artist": [
+    "dailininkas",
+    "paletė",
+    "vyras"
+  ],
+  "man_astronaut": [
+    "astronautas",
+    "raketa",
+    "vyras"
+  ],
+  "man_bald": [
+    "plikas",
+    "vyras"
+  ],
+  "man_biking": [
+    "dviratininkas",
+    "dviratis",
+    "važinėjimas dviračiu",
+    "vyras"
+  ],
+  "man_bouncing_ball": [
+    "kamuolys",
+    "vyras",
+    "vyras su kamuoliu"
+  ],
+  "man_bowing": [
+    "apgailestavimas",
+    "atsiprašymas",
+    "gestas",
+    "nusilenkiantis vyras",
+    "nusilenkimas",
+    "paslauga",
+    "vyras"
+  ],
+  "man_cartwheeling": [
+    "gimnastika",
+    "suktukas",
+    "vyras",
+    "vyras daro suktuką"
+  ],
+  "man_climbing": [
+    "alpinistas",
+    "kopiantis vyras"
+  ],
+  "man_cook": [
+    "šefas",
+    "virėjas",
+    "vyras"
+  ],
+  "man_curly_hair": [
+    "garbanoti plaukai",
+    "vyras"
+  ],
+  "man_dancing": [
+    "šokantis vyras",
+    "šokis",
+    "vyras"
+  ],
+  "man_detective": [
+    "detektyvas",
+    "seklas",
+    "seklys",
+    "šnipas",
+    "vyras"
+  ],
+  "man_elf": [
+    "elfas vyras",
+    "magiškas"
+  ],
+  "man_facepalming": [
+    "netikėjimas",
+    "susierzinęs vyras",
+    "susierzinimas",
+    "vyras"
+  ],
+  "man_factory_worker": [
+    "darbuotojas",
+    "fabrikas",
+    "fabriko darbininkas",
+    "gamyba",
+    "susirinkimas",
+    "vyras"
+  ],
+  "man_fairy": [
+    "burtininkas",
+    "oberon",
+    "puck"
+  ],
+  "man_farmer": [
+    "darbininkas",
+    "sodininkas",
+    "ūkininkas",
+    "vyras"
+  ],
+  "man_feeding_baby": [
+    "kūdikį maitinantis vyras",
+    "kūdikis",
+    "maitinimas",
+    "maitinimas krūtimi",
+    "vyras"
+  ],
+  "man_firefighter": [
+    "gaisrininkas",
+    "gaisrininkų automobilis",
+    "vyras"
+  ],
+  "man_frowning": [
+    "gestas",
+    "paniuręs",
+    "vyras"
+  ],
+  "man_genie": [
+    "džinas"
+  ],
+  "man_gesturing_no": [
+    "draudžiama",
+    "draudžiantis vyras",
+    "gestas",
+    "neleistina",
+    "vyras"
+  ],
+  "man_gesturing_ok": [
+    "gerai",
+    "gestas",
+    "leidžiantis vyras",
+    "ranka",
+    "vyras"
+  ],
+  "man_getting_haircut": [
+    "apkerpamas vyras",
+    "kirpimas",
+    "vyras"
+  ],
+  "man_getting_massage": [
+    "masažas",
+    "masažuojama vyro galva",
+    "veidas",
+    "vyras"
+  ],
+  "man_golfing": [
+    "golfas",
+    "golfo žaidėjas vyras",
+    "vyras"
+  ],
+  "man_guard": [
+    "sargybinis",
+    "vyras"
+  ],
+  "man_health_worker": [
+    "gydytojas",
+    "medikas",
+    "slaugytojas",
+    "sveikata",
+    "terapeutas",
+    "vyras"
+  ],
+  "man_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "vyras lotoso pozoje"
+  ],
+  "man_in_manual_wheelchair": [
+    "prieinamumas",
+    "vežimėlis",
+    "vyras",
+    "vyras rankomis valdomame vežimėlyje"
+  ],
+  "man_in_motorized_wheelchair": [
+    "prieinamumas",
+    "vežimėlis",
+    "vyras",
+    "vyras motorizuotame vežimėlyje"
+  ],
+  "man_in_steamy_room": [
+    "garų kambarys",
+    "sauna",
+    "vyras garų kambaryje"
+  ],
+  "man_in_tuxedo": [
+    "smokingas",
+    "vyras",
+    "vyras su smokingu"
+  ],
+  "man_judge": [
+    "svarstyklės",
+    "teisėjas",
+    "teisingumas",
+    "vyras"
+  ],
+  "man_juggling": [
+    "sudėtinga",
+    "vyras",
+    "žongliravimas",
+    "žongliruotojas"
+  ],
+  "man_kneeling": [
+    "klūpantis",
+    "vyras"
+  ],
+  "man_lifting_weights": [
+    "keliantis svorį",
+    "svorius keliantis vyras",
+    "vyras"
+  ],
+  "man_mage": [
+    "burtininkas",
+    "kerėtojas",
+    "vyras magas"
+  ],
+  "man_mechanic": [
+    "elektrikas",
+    "mechanikas",
+    "prekybininkas",
+    "santechnikas",
+    "vyras"
+  ],
+  "man_mountain_biking": [
+    "dviratininkas",
+    "dviratis",
+    "kalnas",
+    "kalnų dviratininkas vyras",
+    "važinėjimas dviračiu",
+    "vyras"
+  ],
+  "man_office_worker": [
+    "architektas",
+    "biuras",
+    "biuro darbuotojas",
+    "darbas įstaigoje",
+    "vadybininkas",
+    "verslas",
+    "vyras"
+  ],
+  "man_pilot": [
+    "lėktuvas",
+    "pilotas",
+    "vyras"
+  ],
+  "man_playing_handball": [
+    "rankininkas",
+    "rankinis",
+    "vyras"
+  ],
+  "man_playing_water_polo": [
+    "vandensvydis",
+    "vandensvydžio žaidėjas",
+    "vyras"
+  ],
+  "man_police_officer": [
+    "pareigūnas",
+    "policija",
+    "policininkas",
+    "vyras"
+  ],
+  "man_pouting": [
+    "gestas",
+    "susiraukęs",
+    "vyras"
+  ],
+  "man_raising_hand": [
+    "gestas",
+    "pakelta ranka",
+    "ranką pakėlęs vyras",
+    "vyras"
+  ],
+  "man_red_hair": [
+    "raudoni plaukai",
+    "vyras"
+  ],
+  "man_rowing_boat": [
+    "irkluotojas",
+    "valtis",
+    "vyras"
+  ],
+  "man_running": [
+    "bėgantis vyras",
+    "bėgimas",
+    "lenktynės",
+    "maratonas",
+    "vyras"
+  ],
+  "man_s_shoe": [
+    "batas",
+    "drabužiai",
+    "vyras",
+    "vyriškas batas"
+  ],
+  "man_scientist": [
+    "biologas",
+    "chemikas",
+    "fizikas",
+    "inžinierius",
+    "matematikas",
+    "mokslininkas",
+    "vyras"
+  ],
+  "man_shrugging": [
+    "abejingumas",
+    "abejojantis vyras",
+    "abejonė",
+    "nežinojimas",
+    "trūkčioti pečiais",
+    "vyras"
+  ],
+  "man_singer": [
+    "aktorius",
+    "dainininkas",
+    "rokas",
+    "vyras",
+    "žvaigždė"
+  ],
+  "man_standing": [
+    "stovintis",
+    "vyras"
+  ],
+  "man_student": [
+    "absolventas",
+    "studentas",
+    "vyras"
+  ],
+  "man_superhero": [
+    "geras",
+    "herojus",
+    "supergalia",
+    "vyras",
+    "vyras superherojus"
+  ],
+  "man_supervillain": [
+    "blogas",
+    "nusikaltėlis",
+    "piktadarys",
+    "supergalia",
+    "vyras"
+  ],
+  "man_surfing": [
+    "banglenčių sportas",
+    "vyras",
+    "vyras banglentininkas"
+  ],
+  "man_swimming": [
+    "plaukimas",
+    "vyras",
+    "vyras plaukikas"
+  ],
+  "man_teacher": [
+    "dėstytojas",
+    "mokytojas",
+    "profesorius",
+    "vyras"
+  ],
+  "man_technologist": [
+    "išradėjas",
+    "kūrėjas",
+    "programinė įranga",
+    "programuotojas",
+    "technologas",
+    "vyras"
+  ],
+  "man_tipping_hand": [
+    "gyvas",
+    "lengvai pakelta ranka",
+    "lengvai ranką pakėlęs vyras",
+    "vyras"
+  ],
+  "man_vampire": [
+    "drakula",
+    "nemirtingas",
+    "vampyras vyras"
+  ],
+  "man_walking": [
+    "einantis vyras",
+    "eiti",
+    "vyras",
+    "žygiuoti"
+  ],
+  "man_wearing_turban": [
+    "turbanas",
+    "vyras",
+    "vyriškis su turbanu"
+  ],
+  "man_white_hair": [
+    "vyras",
+    "žili plaukai"
+  ],
+  "man_with_veil": [
+    "veliumas",
+    "vyras",
+    "vyras su veliumu"
+  ],
+  "man_with_white_cane": [
+    "aklas",
+    "prieinamumas",
+    "vyras",
+    "vyras su neregio lazdele"
+  ],
+  "man_zombie": [
+    "nemirtingas",
+    "vaikštantis numirėlis",
+    "zombis vyras"
+  ],
+  "mango": [
+    "mangas",
+    "tropinis",
+    "vaisius"
+  ],
+  "mantelpiece_clock": [
+    "laikrodis",
+    "virš židinio laikomas laikrodis"
+  ],
+  "manual_wheelchair": [
+    "prieinamumas",
+    "rankomis valdomas vežimėlis"
+  ],
+  "map_of_japan": [
+    "japonijos",
+    "žemėlapis"
+  ],
+  "maple_leaf": [
+    "klevas",
+    "klevo lapas",
+    "krenta",
+    "lapas"
+  ],
+  "marshall_islands": [
+    "vėliava"
+  ],
+  "martial_arts_uniform": [
+    "dziudo",
+    "karatė",
+    "kovos menas",
+    "kovos sporto šakos uniforma",
+    "uniforma"
+  ],
+  "martinique": [
+    "vėliava"
+  ],
+  "mate": [
+    "gėrimas",
+    "matė"
+  ],
+  "mauritania": [
+    "vėliava"
+  ],
+  "mauritius": [
+    "vėliava"
+  ],
+  "mayotte": [
+    "vėliava"
+  ],
+  "meat_on_bone": [
+    "kaulas",
+    "mėsa",
+    "mėsa ant kaulo"
+  ],
+  "mechanic": [
+    "elektrikas",
+    "mechanikas",
+    "remontuojantis žmogus",
+    "santechnikas"
+  ],
+  "mechanical_arm": [
+    "mechaninė ranka",
+    "prieinamumas",
+    "protezavimas"
+  ],
+  "mechanical_leg": [
+    "mechaninė koja",
+    "prieinamumas",
+    "protezavimas"
+  ],
+  "medical_symbol": [
+    "asklepijus",
+    "medicina",
+    "medicinos simbolis",
+    "personalas"
+  ],
+  "megaphone": [
+    "džiaugsmingi šūksniai",
+    "garsintuvas"
+  ],
+  "melon": [
+    "augalas",
+    "melionas",
+    "vaisius"
+  ],
+  "memo": [
+    "atmintinė",
+    "pieštukas"
+  ],
+  "men_holding_hands": [
+    "du vyrai, susikibę už rankų",
+    "dvyniai",
+    "laikyti",
+    "pora",
+    "ranka",
+    "vyras",
+    "zodiakas"
+  ],
+  "men_s_room": [
+    "tualetas",
+    "vyras",
+    "vyrų tualetas",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "iškio ausytės",
+    "šokėjas",
+    "vakarėlis",
+    "vakarėlyje dalyvaujantys vyrai",
+    "vyrai"
+  ],
+  "men_wrestling": [
+    "imtynės",
+    "vyrai",
+    "vyrų imtynės"
+  ],
+  "menorah": [
+    "menora",
+    "religija",
+    "žvakės",
+    "žvakidė"
+  ],
+  "mermaid": [
+    "undinėlė"
+  ],
+  "merman": [
+    "tritonas",
+    "vandenis/undinius"
+  ],
+  "merperson": [
+    "undinė",
+    "undinėlė",
+    "undinius"
+  ],
+  "metro": [
+    "transporto priemonė"
+  ],
+  "mexico": [
+    "vėliava"
+  ],
+  "microbe": [
+    "ameba",
+    "bakterija",
+    "mikrobas",
+    "virusas"
+  ],
+  "micronesia": [
+    "vėliava"
+  ],
+  "microphone": [
+    "karaokė",
+    "mikrofonas"
+  ],
+  "microscope": [
+    "įrankis",
+    "mikroskopas"
+  ],
+  "military_helmet": [
+    "armija",
+    "kareivis",
+    "kareiviškas šalmas",
+    "kariuomenė",
+    "karys",
+    "šalmas"
+  ],
+  "military_medal": [
+    "kariuomenė",
+    "kariuomenės medalis",
+    "medalis",
+    "šventė"
+  ],
+  "milky_way": [
+    "kosmosas",
+    "paukščių takas"
+  ],
+  "minibus": [
+    "autobusas",
+    "mikroautobusas"
+  ],
+  "minus": [
+    "matematika",
+    "minusas",
+    "paryškintas minusas"
+  ],
+  "mirror": [
+    "atspindys",
+    "atšvaitas",
+    "reflektorius",
+    "veidrodis"
+  ],
+  "moai": [
+    "statula",
+    "veidas"
+  ],
+  "mobile_phone": [
+    "mobilusis",
+    "telefonas"
+  ],
+  "mobile_phone_off": [
+    "išjungti",
+    "išjungti mobilųjį telefoną",
+    "mobilusis",
+    "telefonas"
+  ],
+  "mobile_phone_with_arrow": [
+    "mobilusis",
+    "mobilusis telefonas su rodykle",
+    "rodyklė",
+    "skambinti",
+    "telefonas"
+  ],
+  "moldova": [
+    "vėliava"
+  ],
+  "monaco": [
+    "vėliava"
+  ],
+  "money_bag": [
+    "doleris",
+    "maišas",
+    "pinigai",
+    "pinigų maišas"
+  ],
+  "money_mouth_face": [
+    "burna",
+    "pinigai",
+    "veidas",
+    "veidas su pinigu vietoje liežuvio"
+  ],
+  "money_with_wings": [
+    "bankas",
+    "banknotas",
+    "doleris",
+    "pinigai",
+    "pinigai su sparnais"
+  ],
+  "mongolia": [
+    "vėliava"
+  ],
+  "monkey": [
+    "beždžionė"
+  ],
+  "monkey_face": [
+    "beždžionė",
+    "beždžionės snukutis",
+    "veidas"
+  ],
+  "monorail": [
+    "transporto priemonė",
+    "vienbėgis geležinkelis"
+  ],
+  "montenegro": [
+    "vėliava"
+  ],
+  "montserrat": [
+    "vėliava"
+  ],
+  "moon_cake": [
+    "festivalis",
+    "mėnulio pyragas",
+    "ruduo"
+  ],
+  "moon_viewing_ceremony": [
+    "ceremonija",
+    "mėnesienos ceremonija",
+    "mėnulis",
+    "šventė"
+  ],
+  "morocco": [
+    "vėliava"
+  ],
+  "mosque": [
+    "islamas",
+    "mečetė",
+    "musulmonas",
+    "religija"
+  ],
+  "mosquito": [
+    "karštinė",
+    "maliarija",
+    "negalavimas",
+    "uodas",
+    "vabzdys",
+    "virusas"
+  ],
+  "motor_boat": [
+    "motorinė valtis",
+    "valtis"
+  ],
+  "motor_scooter": [
+    "motoroleris",
+    "transportas"
+  ],
+  "motorcycle": [
+    "lenktynės",
+    "motociklas"
+  ],
+  "motorized_wheelchair": [
+    "motorizuotas vežimėlis",
+    "prieinamumas"
+  ],
+  "motorway": [
+    "greitkelis",
+    "kelias"
+  ],
+  "mount_fuji": [
+    "fudžio kalnas",
+    "fudžis",
+    "kalnas"
+  ],
+  "mountain": [
+    "kalnas"
+  ],
+  "mountain_cableway": [
+    "gondola",
+    "kabelis",
+    "kalnas",
+    "kalnų keltuvas"
+  ],
+  "mountain_railway": [
+    "automobilis",
+    "geležinkelis",
+    "kalnas",
+    "kalnų traukinys"
+  ],
+  "mouse": [
+    "pelė"
+  ],
+  "mouse_face": [
+    "pelė",
+    "pelės snukutis",
+    "veidas"
+  ],
+  "mouse_trap": [
+    "pelėkautai",
+    "spąstai"
+  ],
+  "mouth": [
+    "burna",
+    "lūpos"
+  ],
+  "movie_camera": [
+    "filmas",
+    "filmavimo kamera",
+    "kamera",
+    "kinas"
+  ],
+  "mozambique": [
+    "vėliava"
+  ],
+  "mrs_claus": [
+    "kalėdos",
+    "mama",
+    "ponia",
+    "ponia claus",
+    "šventė"
+  ],
+  "multiply": [
+    "atšaukti",
+    "dauginti",
+    "daugyba",
+    "paryškintas daugybos ženklas",
+    "x"
+  ],
+  "mushroom": [
+    "grybas",
+    "šungrybis"
+  ],
+  "musical_keyboard": [
+    "instrumentas",
+    "klaviatūra",
+    "muzika",
+    "muzikos klaviatūra",
+    "pianinas"
+  ],
+  "musical_note": [
+    "muzika",
+    "muzikos nata",
+    "nata"
+  ],
+  "musical_notes": [
+    "muzika",
+    "muzikos natos",
+    "nata",
+    "natos"
+  ],
+  "musical_score": [
+    "muzika",
+    "partitūra"
+  ],
+  "muted_speaker": [
+    "garsiakalbis",
+    "garsiakalbis išjungtas",
+    "garsumas",
+    "nutildytas",
+    "tylus"
+  ],
+  "mx_claus": [
+    "kalėdos",
+    "kalėdų asmuo"
+  ],
+  "myanmar_burma": [
+    "vėliava"
+  ],
+  "nail_polish": [
+    "kosmetika",
+    "lakas",
+    "manikiūras",
+    "nagų lakas",
+    "priežiūra"
+  ],
+  "name_badge": [
+    "vardas",
+    "vardo ženklelis",
+    "ženklelis"
+  ],
+  "namibia": [
+    "vėliava"
+  ],
+  "national_park": [
+    "nacionalinis parkas",
+    "parkas"
+  ],
+  "nauru": [
+    "vėliava"
+  ],
+  "nauseated_face": [
+    "besiruošiantis vemti veidas",
+    "veidas",
+    "vemti"
+  ],
+  "nazar_amulet": [
+    "amuletas akis",
+    "blogio akis",
+    "karoliukas",
+    "nazaras",
+    "talismanas",
+    "žavesys"
+  ],
+  "necktie": [
+    "drabužiai",
+    "kaklaraištis"
+  ],
+  "nepal": [
+    "vėliava"
+  ],
+  "nerd_face": [
+    "moksliukas",
+    "moksliuko veidas",
+    "pirmūnas",
+    "veidas"
+  ],
+  "nesting_dolls": [
+    "lėlė",
+    "matrioška",
+    "matrioškos",
+    "rusija"
+  ],
+  "netherlands": [
+    "vėliava"
+  ],
+  "neutral_face": [
+    "neišraiškingas",
+    "neutralus",
+    "veidas"
+  ],
+  "new_button": [
+    "new",
+    "simbolis „new“"
+  ],
+  "new_caledonia": [
+    "vėliava"
+  ],
+  "new_moon": [
+    "jaunas mėnulis",
+    "mėnulis",
+    "tamsa"
+  ],
+  "new_moon_face": [
+    "jaunas mėnulis su veidu",
+    "mėnulis",
+    "veidas"
+  ],
+  "new_zealand": [
+    "vėliava"
+  ],
+  "newspaper": [
+    "laikraštis",
+    "naujienos",
+    "popierius"
+  ],
+  "next_track_button": [
+    "kitas takelis",
+    "kitas vaizdas",
+    "rodyklė",
+    "trikampis"
+  ],
+  "ng_button": [
+    "ng",
+    "simbolis „ng“"
+  ],
+  "nicaragua": [
+    "vėliava"
+  ],
+  "niger": [
+    "vėliava"
+  ],
+  "nigeria": [
+    "vėliava"
+  ],
+  "night_with_stars": [
+    "naktis",
+    "žvaigždė",
+    "žvaigždėta naktis"
+  ],
+  "nine": [
+    "mygtukas"
+  ],
+  "nine_o_clock": [
+    "00",
+    "9",
+    "9:00",
+    "devinta valanda",
+    "devynios",
+    "valandos"
+  ],
+  "nine_thirty": [
+    "30",
+    "9",
+    "9:30",
+    "devynios",
+    "pusė dešimt",
+    "trisdešimt",
+    "valandos"
+  ],
+  "ninja": [
+    "kovotojas",
+    "nindzė",
+    "užsimaskavęs"
+  ],
+  "niue": [
+    "vėliava"
+  ],
+  "no_bicycles": [
+    "draudžiama",
+    "dviračiai draudžiami",
+    "dviratis",
+    "ne",
+    "transporto priemonė",
+    "uždrausta"
+  ],
+  "no_entry": [
+    "draudžiama",
+    "eismas",
+    "įėjimas",
+    "įėjimo nėra",
+    "ne",
+    "uždrausta"
+  ],
+  "no_littering": [
+    "draudžiama",
+    "ne",
+    "šiukšlės",
+    "šiukšlinti draudžiama",
+    "uždrausta"
+  ],
+  "no_mobile_phones": [
+    "draudžiama",
+    "jokių mobiliųjų telefonų",
+    "mobilusis",
+    "ne",
+    "uždrausta"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "amžiaus apribojimas",
+    "aštuoniolika",
+    "draudžiama",
+    "ne",
+    "nepilnametis",
+    "tik pilnamečiams",
+    "uždrausta"
+  ],
+  "no_pedestrians": [
+    "draudžiama",
+    "ne",
+    "pėstiesiems eiti draudžiama",
+    "pėstysis",
+    "uždrausta"
+  ],
+  "no_smoking": [
+    "draudžiama",
+    "ne",
+    "rūkymas",
+    "rūkyti draudžiama",
+    "uždrausta"
+  ],
+  "non_potable_water": [
+    "draudžiama",
+    "draudžiama gerti vandenį",
+    "geriamas",
+    "gėrimas",
+    "ne",
+    "uždrausta",
+    "vanduo"
+  ],
+  "norfolk_island": [
+    "vėliava"
+  ],
+  "north_korea": [
+    "vėliava"
+  ],
+  "north_macedonia": [
+    "vėliava"
+  ],
+  "northern_mariana_islands": [
+    "vėliava"
+  ],
+  "norway": [
+    "vėliava"
+  ],
+  "nose": [
+    "kūnas",
+    "nosis"
+  ],
+  "notebook": [
+    "užrašinė"
+  ],
+  "notebook_with_decorative_cover": [
+    "dekoratyvinis",
+    "knyga",
+    "užrašų knygelė",
+    "užrašų knygelė su dekoratyviniu viršeliu",
+    "viršelis"
+  ],
+  "nut_and_bolt": [
+    "įrankis",
+    "varžtas",
+    "veržlė",
+    "veržlė ir varžtas"
+  ],
+  "o_button_blood_type": [
+    "o",
+    "raudona",
+    "simbolis „o“ (raudona)"
+  ],
+  "ocean": [
+    "banga",
+    "vandens banga",
+    "vandenynas",
+    "vanduo"
+  ],
+  "octopus": [
+    "aštuonkojis"
+  ],
+  "oden": [
+    "iešmas",
+    "jūros gėrybės",
+    "kebabas",
+    "lazdelė",
+    "odenas"
+  ],
+  "office_building": [
+    "biurų pastatas",
+    "pastatas"
+  ],
+  "office_worker": [
+    "architektas",
+    "balta apykaklė",
+    "dirbantysis biure",
+    "vadybininkas",
+    "verslas"
+  ],
+  "ogre": [
+    "fantazija",
+    "monstras",
+    "pabaisa",
+    "padaras",
+    "pasaka",
+    "veidas"
+  ],
+  "oil_drum": [
+    "degalai",
+    "degalų statinė",
+    "statinė"
+  ],
+  "ok_button": [
+    "ok",
+    "simbolis „ok“"
+  ],
+  "ok_hand": [
+    "gerai",
+    "gerai ženklas rankomis",
+    "ranka"
+  ],
+  "old_key": [
+    "raktas",
+    "sena",
+    "senas raktas",
+    "spyna"
+  ],
+  "old_man": [
+    "senas",
+    "vyras"
+  ],
+  "old_woman": [
+    "moteris",
+    "sena"
+  ],
+  "older_person": [
+    "kitas suaugusysis",
+    "neutrali lytis",
+    "senas"
+  ],
+  "olive": [
+    "alyvuogė",
+    "maistas"
+  ],
+  "om": [
+    "hindu",
+    "religija"
+  ],
+  "oman": [
+    "vėliava"
+  ],
+  "on_arrow": [
+    "rodyklė",
+    "rodyklė su užrašu „on!“",
+    "žymė"
+  ],
+  "oncoming_automobile": [
+    "artėjanti",
+    "artėjantis automobilis",
+    "automobilis",
+    "mašina"
+  ],
+  "oncoming_bus": [
+    "artėjantis",
+    "autobusas"
+  ],
+  "oncoming_fist": [
+    "artėjantis kumštis",
+    "kumštis",
+    "ranka",
+    "smūgis",
+    "sugniaužtas"
+  ],
+  "oncoming_police_car": [
+    "artėjantis",
+    "artėjantis policijos automobilis",
+    "automobilis",
+    "policija"
+  ],
+  "oncoming_taxi": [
+    "artėjantis",
+    "taksi"
+  ],
+  "one": [
+    "mygtukas"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1:00",
+    "pirma valanda",
+    "valandos",
+    "viena"
+  ],
+  "one_piece_swimsuit": [
+    "maudymosi kostiumėlis",
+    "vientisas maudymosi kostiumėlis"
+  ],
+  "one_thirty": [
+    "1",
+    "1:30",
+    "30",
+    "pusė dviejų",
+    "trisdešimt",
+    "viena"
+  ],
+  "onion": [
+    "prieskonis",
+    "svogūnas"
+  ],
+  "open_book": [
+    "atversta",
+    "knyga"
+  ],
+  "open_file_folder": [
+    "aplankas",
+    "atidarytas",
+    "atidarytas failų aplankas",
+    "failas"
+  ],
+  "open_hands": [
+    "atviros",
+    "rankos"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "atidaryta",
+    "atidaryta pašto dėžutė su nuleista vėliava",
+    "nuleista",
+    "paštas",
+    "pašto dėžutė"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "atidaryta",
+    "atidaryta pašto dėžutė su pakelta vėliava",
+    "paštas",
+    "pašto dėžutė"
+  ],
+  "open_mouth": [
+    "atverta",
+    "burna",
+    "išsižiojęs",
+    "veidas"
+  ],
+  "ophiuchus": [
+    "gyvatė",
+    "gyvatnešis",
+    "nešėjas",
+    "zodiakas"
+  ],
+  "optical_disk": [
+    "cd",
+    "diskas",
+    "kompaktinis diskas",
+    "kompiuteris",
+    "optinis"
+  ],
+  "orange_book": [
+    "knyga",
+    "oranžinė"
+  ],
+  "orange_circle": [
+    "apskritimas",
+    "oranžinis"
+  ],
+  "orange_heart": [
+    "oranžinė",
+    "oranžinė širdelė"
+  ],
+  "orange_square": [
+    "kvadratas",
+    "oranžinis"
+  ],
+  "orangutan": [
+    "beždžionė",
+    "orangutangas"
+  ],
+  "orthodox_cross": [
+    "krikščionis",
+    "kryžius",
+    "ortodoksų kryžius",
+    "religija"
+  ],
+  "otter": [
+    "ūdra",
+    "žaisminga",
+    "žvejojanti"
+  ],
+  "outbox_tray": [
+    "dėklas",
+    "išsiųsti",
+    "laiškas",
+    "paštas",
+    "siunčiami",
+    "siunčiamų laiškų dėklas"
+  ],
+  "owl": [
+    "išmintis",
+    "paukštis",
+    "pelėda"
+  ],
+  "ox": [
+    "bulius",
+    "jautis",
+    "tauras",
+    "zodiakas"
+  ],
+  "oyster": [
+    "austrė",
+    "nardymas",
+    "perlas"
+  ],
+  "p_button": [
+    "automobilių stovėjimas",
+    "simbolis „p“"
+  ],
+  "package": [
+    "dėžė",
+    "paketas",
+    "siuntinys"
+  ],
+  "page_facing_up": [
+    "dokumentas",
+    "puslapis",
+    "puslapis viršutine puse"
+  ],
+  "page_with_curl": [
+    "dokumentas",
+    "puslapis",
+    "užsirietęs"
+  ],
+  "pager": [
+    "gaviklis"
+  ],
+  "paintbrush": [
+    "tapymas",
+    "teptukas"
+  ],
+  "pakistan": [
+    "vėliava"
+  ],
+  "palau": [
+    "vėliava"
+  ],
+  "palestinian_territories": [
+    "vėliava"
+  ],
+  "palm_tree": [
+    "medis",
+    "palmė"
+  ],
+  "palms_up_together": [
+    "delnai suglausti",
+    "malda"
+  ],
+  "panama": [
+    "vėliava"
+  ],
+  "pancakes": [
+    "blynai",
+    "maistas"
+  ],
+  "panda": [
+    "pandos snukis",
+    "veidas"
+  ],
+  "paperclip": [
+    "sąvaržėlė"
+  ],
+  "papua_new_guinea": [
+    "vėliava"
+  ],
+  "parachute": [
+    "pakabinti",
+    "parašiutas"
+  ],
+  "paraguay": [
+    "vėliava"
+  ],
+  "parrot": [
+    "kalbantis",
+    "papūga",
+    "paukštis",
+    "piratas"
+  ],
+  "part_alternation_mark": [
+    "dalis",
+    "dalių apkeitimo ženklas",
+    "žymė"
+  ],
+  "partying_face": [
+    "skrybėlė",
+    "švenčiantis veidas",
+    "šventė",
+    "šventimas",
+    "švilpynė"
+  ],
+  "passenger_ship": [
+    "keleivinis laivas",
+    "keleivis",
+    "laivas"
+  ],
+  "passport_control": [
+    "kontrolė",
+    "pasas",
+    "pasų kontrolė"
+  ],
+  "pause_button": [
+    "dviguba",
+    "juosta",
+    "pauzė",
+    "pristabdyti",
+    "vertikali"
+  ],
+  "paw_prints": [
+    "letenos",
+    "pėdos",
+    "pėdsakai",
+    "pėdutės"
+  ],
+  "peace_symbol": [
+    "taika",
+    "taikos simbolis"
+  ],
+  "peach": [
+    "persikas",
+    "vaisius"
+  ],
+  "peacock": [
+    "išdidus",
+    "mėgstantis pasirodyti",
+    "paukštis",
+    "povas",
+    "povė"
+  ],
+  "peanuts": [
+    "maistas",
+    "riešutas",
+    "žemės"
+  ],
+  "pear": [
+    "kriaušė",
+    "vaisius"
+  ],
+  "pen": [
+    "rašiklis",
+    "tušinukas"
+  ],
+  "pencil": [
+    "pieštukas"
+  ],
+  "penguin": [
+    "paukštis",
+    "pingvinas"
+  ],
+  "pensive_face": [
+    "prislėgtas",
+    "susimąstęs",
+    "veidas"
+  ],
+  "people_holding_hands": [
+    "asmuo",
+    "laikyti",
+    "pora",
+    "ranka",
+    "rankomis susikibę žmonės",
+    "susikibusios rankos"
+  ],
+  "people_hugging": [
+    "apsikabinę žmonės",
+    "apsikabinti",
+    "dėkui",
+    "labas",
+    "viso"
+  ],
+  "people_with_bunny_ears": [
+    "ausys",
+    "besilinksminančios moterys",
+    "merginos",
+    "moterys",
+    "šokėjos",
+    "zuikutis"
+  ],
+  "people_wrestling": [
+    "imtynės",
+    "imtynininkai",
+    "imtynininkas"
+  ],
+  "performing_arts": [
+    "kaukė",
+    "menas",
+    "pasirodymas",
+    "scenos menas",
+    "teatras"
+  ],
+  "persevering_face": [
+    "atkaklus",
+    "veidas"
+  ],
+  "person": [
+    "neutrali lytis",
+    "suaugusysis"
+  ],
+  "person_bald": [
+    "neutrali lytis",
+    "plikas",
+    "suaugusysis"
+  ],
+  "person_beard": [
+    "barzda",
+    "barzdotas žmogus"
+  ],
+  "person_biking": [
+    "dviratininkas",
+    "dviratis"
+  ],
+  "person_blond_hair": [
+    "šviesiaplaukis",
+    "šviesiaplaukis žmogus"
+  ],
+  "person_bouncing_ball": [
+    "kamuolys",
+    "žmogus su kamuoliu"
+  ],
+  "person_bowing": [
+    "atsiprašymas",
+    "gestas",
+    "nusilenkęs žmogus",
+    "nusilenkimas"
+  ],
+  "person_cartwheeling": [
+    "gimnastika",
+    "persivertimas",
+    "persivertimas šonu"
+  ],
+  "person_climbing": [
+    "alpinistas",
+    "kopiantis žmogus"
+  ],
+  "person_curly_hair": [
+    "garbanoti plaukai",
+    "neutrali lytis",
+    "suaugusysis"
+  ],
+  "person_facepalming": [
+    "beviltiškumas",
+    "neįtikėtinumas",
+    "o varge",
+    "susierzinimas",
+    "veidas"
+  ],
+  "person_feeding_baby": [
+    "asmuo",
+    "kūdikį maitinantis asmuo",
+    "kūdikis",
+    "maitinimas",
+    "maitinimas krūtimi"
+  ],
+  "person_fencing": [
+    "fechtavimas",
+    "fechtuotojas",
+    "kardas"
+  ],
+  "person_frowning": [
+    "gestas",
+    "paniuręs žmogus",
+    "raukytis"
+  ],
+  "person_gesturing_no": [
+    "draudžiama",
+    "gestas",
+    "ne",
+    "neigiamas gestas",
+    "ranka"
+  ],
+  "person_gesturing_ok": [
+    "gerai",
+    "gestai",
+    "ranka",
+    "teigiamas gestas"
+  ],
+  "person_getting_haircut": [
+    "apkerpamas žmogus",
+    "grožis",
+    "kirpėjas",
+    "salonas",
+    "šukuosena"
+  ],
+  "person_getting_massage": [
+    "masažas",
+    "salonas",
+    "veidas",
+    "veido masažas"
+  ],
+  "person_golfing": [
+    "golfas",
+    "golfo žaidėjas",
+    "kamuoliukas"
+  ],
+  "person_in_bed": [
+    "miegoti",
+    "viešbutis",
+    "žmogus lovoje"
+  ],
+  "person_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "žmogus lotoso pozoje"
+  ],
+  "person_in_manual_wheelchair": [
+    "prieinamumas",
+    "vežimėlis",
+    "žmogus rankomis valdomame vežimėlyje"
+  ],
+  "person_in_motorized_wheelchair": [
+    "prieinamumas",
+    "vežimėlis",
+    "žmogus motorizuotame vežimėlyje"
+  ],
+  "person_in_steamy_room": [
+    "asmuo garų kambaryje",
+    "garų kambarys",
+    "sauna"
+  ],
+  "person_in_suit_levitating": [
+    "į orą kylantis vyras su kostiumu",
+    "kostiumas",
+    "verslas",
+    "vyras"
+  ],
+  "person_in_tuxedo": [
+    "asmuo su smokingu",
+    "jaunikis",
+    "smokingas",
+    "vyras",
+    "vyras su smokingu"
+  ],
+  "person_juggling": [
+    "įgūdis",
+    "pusiausvyra",
+    "reakcija",
+    "žongliravimas",
+    "žongliruoti"
+  ],
+  "person_kneeling": [
+    "klūpantis",
+    "klūpantis žmogus",
+    "klūpėti"
+  ],
+  "person_lifting_weights": [
+    "kilnotojas",
+    "svoris",
+    "svorių kilnotojas"
+  ],
+  "person_mountain_biking": [
+    "dviratininkas",
+    "dviratis",
+    "kalnas",
+    "kalnų dviratininkas"
+  ],
+  "person_playing_handball": [
+    "kamuolys",
+    "rankinis"
+  ],
+  "person_playing_water_polo": [
+    "vandensvydis",
+    "vanduo"
+  ],
+  "person_pouting": [
+    "gestas",
+    "raukymasis",
+    "susiraukęs žmogus"
+  ],
+  "person_raising_hand": [
+    "gestas",
+    "iškelta",
+    "laimingas",
+    "ranka",
+    "žmogus, iškėlęs ranką"
+  ],
+  "person_red_hair": [
+    "neutrali lytis",
+    "raudoni plaukai",
+    "suaugusysis"
+  ],
+  "person_rowing_boat": [
+    "irkluojantis žmogus",
+    "transporto priemonė",
+    "valtis"
+  ],
+  "person_running": [
+    "bėgikas",
+    "bėgiojimas",
+    "maratonas"
+  ],
+  "person_shrugging": [
+    "abejonė",
+    "gūžtelėjimas",
+    "gūžtelėjimas pečiais",
+    "nežinojimas"
+  ],
+  "person_standing": [
+    "stovėti",
+    "stovintis",
+    "stovintis žmogus"
+  ],
+  "person_surfing": [
+    "banglenčių sportas",
+    "banglentininkas"
+  ],
+  "person_swimming": [
+    "plaukikas",
+    "plaukti"
+  ],
+  "person_taking_bath": [
+    "vonia",
+    "žmogus prausiasi vonioje"
+  ],
+  "person_tipping_hand": [
+    "informacija",
+    "informacijos skyriaus darbuotojas",
+    "įžūlus",
+    "pagalba",
+    "ranka"
+  ],
+  "person_walking": [
+    "ėjimas",
+    "pėstysis",
+    "vaikščiojimas",
+    "vaikščioti"
+  ],
+  "person_wearing_turban": [
+    "turbanas",
+    "vyras su turbanu"
+  ],
+  "person_white_hair": [
+    "neutrali lytis",
+    "suaugusysis",
+    "žili plaukai"
+  ],
+  "person_with_skullcap": [
+    "kepurė",
+    "kinietiška kepurėlė",
+    "vyras",
+    "vyras su kinietiška kepurėle"
+  ],
+  "person_with_veil": [
+    "nuotaka",
+    "nuotaka su veliumu",
+    "veliumas",
+    "vestuvės"
+  ],
+  "person_with_white_cane": [
+    "aklas",
+    "prieinamumas",
+    "žmogus neregio lazdele"
+  ],
+  "peru": [
+    "vėliava"
+  ],
+  "petri_dish": [
+    "bakterijos",
+    "bakterijų auginimas",
+    "biologas",
+    "biologija",
+    "petri lėkštelė"
+  ],
+  "philippines": [
+    "vėliava"
+  ],
+  "pick": [
+    "įrankis",
+    "kasimas",
+    "kirstuvas"
+  ],
+  "pickup_truck": [
+    "pikapas",
+    "sunkvežimis"
+  ],
+  "pie": [
+    "pyragas",
+    "tešla",
+    "užpildytas"
+  ],
+  "pig": [
+    "kiaulė"
+  ],
+  "pig_face": [
+    "kiaulė",
+    "kiaulės snukis",
+    "veidas"
+  ],
+  "pig_nose": [
+    "kiaulė",
+    "kiaulės nosis",
+    "nosis",
+    "veidas"
+  ],
+  "pill": [
+    "gydytojas",
+    "ligonis",
+    "medicina",
+    "piliulė"
+  ],
+  "pilot": [
+    "lėktuvas",
+    "pilotas",
+    "pilotuojantis žmogus"
+  ],
+  "pinched_fingers": [
+    "pirštai",
+    "rankos gestas",
+    "sarkastiškas",
+    "suspausti"
+  ],
+  "pinching_hand": [
+    "mažas kiekis",
+    "žnybianti ranka"
+  ],
+  "pine_decoration": [
+    "bambukas",
+    "dekoracija iš pušies",
+    "japonų",
+    "pušis",
+    "šventė"
+  ],
+  "pineapple": [
+    "ananasas",
+    "vaisius"
+  ],
+  "ping_pong": [
+    "kamuolys",
+    "lazda",
+    "raketė",
+    "stalo tenisas",
+    "žaidimas"
+  ],
+  "pirate_flag": [
+    "linksmasis rodžeris",
+    "lobis",
+    "piratas",
+    "piratų vėliava",
+    "plėšikauti"
+  ],
+  "pisces": [
+    "zodiakas",
+    "žuvis",
+    "žuvys"
+  ],
+  "pitcairn_islands": [
+    "vėliava"
+  ],
+  "pizza": [
+    "gabalėlis",
+    "pica",
+    "sūris"
+  ],
+  "piñata": [
+    "pinjata",
+    "šventė",
+    "vakarėlis"
+  ],
+  "placard": [
+    "demonstracija",
+    "piketas",
+    "plakatas",
+    "protestas",
+    "ženklas"
+  ],
+  "place_of_worship": [
+    "garbinimo vieta",
+    "garbinti",
+    "religija"
+  ],
+  "play_button": [
+    "dešinė",
+    "paleisti",
+    "rodyklė",
+    "trikampis"
+  ],
+  "play_or_pause_button": [
+    "dešinė",
+    "paleisti",
+    "paleisti arba pristabdyti",
+    "pristabdyti",
+    "rodyklė",
+    "trikampis"
+  ],
+  "pleading_face": [
+    "gailestingumas",
+    "maldaujantis veidas",
+    "maldavimas",
+    "šuniuko akys"
+  ],
+  "plunger": [
+    "santechnikas",
+    "santechninė pompa",
+    "siurbimas",
+    "tualetas"
+  ],
+  "plus": [
+    "matematika",
+    "paryškintas pliusas",
+    "pliusas"
+  ],
+  "poland": [
+    "vėliava"
+  ],
+  "polar_bear": [
+    "baltasis lokys",
+    "baltoji meška",
+    "lokys",
+    "meška",
+    "poliarinis lokys",
+    "šiaurė"
+  ],
+  "police_car": [
+    "automobilis",
+    "patruliai",
+    "policija",
+    "policijos automobilis"
+  ],
+  "police_car_light": [
+    "automobilis",
+    "besisukanti",
+    "policija",
+    "policijos automobilio lempa",
+    "signalinis žibintas",
+    "šviesa"
+  ],
+  "police_officer": [
+    "pareigūnas",
+    "policija",
+    "policininkas"
+  ],
+  "poodle": [
+    "pudelis",
+    "šuo"
+  ],
+  "pool_8_ball": [
+    "8",
+    "8 kamuoliukas",
+    "biliardas",
+    "biliardo kamuoliukas",
+    "žaidimas"
+  ],
+  "poop": [
+    "išmatos",
+    "išmatų krūvelė",
+    "kakoti",
+    "komiksas",
+    "mėšlas",
+    "monstras",
+    "veidas"
+  ],
+  "popcorn": [
+    "spragėsiai"
+  ],
+  "portugal": [
+    "vėliava"
+  ],
+  "post_office": [
+    "europietiškas",
+    "paštas",
+    "pašto pastatas"
+  ],
+  "postal_horn": [
+    "paštas",
+    "pašto",
+    "ragas"
+  ],
+  "postbox": [
+    "paštas",
+    "pašto dėžutė"
+  ],
+  "pot_of_food": [
+    "puodas",
+    "puodas su maistu",
+    "troškinys"
+  ],
+  "potable_water": [
+    "geriamas",
+    "geriamasis vanduo",
+    "gerti",
+    "vanduo"
+  ],
+  "potato": [
+    "bulvė",
+    "daržovė",
+    "maistas"
+  ],
+  "potted_plant": [
+    "augalas",
+    "augti",
+    "bevertis",
+    "namas",
+    "nuobodus",
+    "pasodintas augalas",
+    "puoselėti"
+  ],
+  "poultry_leg": [
+    "kaulas",
+    "paukščio šlaunelė",
+    "paukštiena",
+    "šlaunis",
+    "višta"
+  ],
+  "pound_banknote": [
+    "bankas",
+    "banknotas",
+    "pinigai",
+    "svaras sterlingų",
+    "svaro sterlingų banknotas",
+    "valiuta"
+  ],
+  "pouting_cat": [
+    "katė",
+    "susiraukęs",
+    "susiraukusios katės snukutis",
+    "veidas"
+  ],
+  "prayer_beads": [
+    "drabužiai",
+    "karoliai",
+    "melstis",
+    "religija",
+    "rožinis",
+    "vėrinys"
+  ],
+  "pregnant_woman": [
+    "moteris",
+    "neščia",
+    "nėščia moteris"
+  ],
+  "pretzel": [
+    "riestainis",
+    "susuktas"
+  ],
+  "prince": [
+    "princas"
+  ],
+  "princess": [
+    "fantazija",
+    "pasaka",
+    "princesė"
+  ],
+  "printer": [
+    "kompiuteris",
+    "spausdintuvas"
+  ],
+  "prohibited": [
+    "draudžiama",
+    "įėjimas",
+    "ne",
+    "uždrausta"
+  ],
+  "puerto_rico": [
+    "vėliava"
+  ],
+  "purple_circle": [
+    "apskritimas",
+    "violetinis"
+  ],
+  "purple_heart": [
+    "purpurinė",
+    "purpurinė širdelė"
+  ],
+  "purple_square": [
+    "kvadratas",
+    "violetinis"
+  ],
+  "purse": [
+    "drabužiai",
+    "monetos",
+    "piniginė"
+  ],
+  "pushpin": [
+    "smeigtukas"
+  ],
+  "puzzle_piece": [
+    "dalis",
+    "dėlionė",
+    "galvosūkis",
+    "raktas",
+    "susijungiantis"
+  ],
+  "qatar": [
+    "vėliava"
+  ],
+  "rabbit": [
+    "naminis gyvūnas",
+    "triušis",
+    "triušiukas"
+  ],
+  "rabbit_face": [
+    "naminis gyvūnas",
+    "triušio snukutis",
+    "triušis",
+    "veidas",
+    "zuikis"
+  ],
+  "raccoon": [
+    "gudrus",
+    "meškėnas",
+    "smalsus"
+  ],
+  "racing_car": [
+    "automobilis",
+    "lenktynės",
+    "lenktyninis automobilis"
+  ],
+  "radio": [
+    "radijas",
+    "vaizdo įrašas"
+  ],
+  "radio_button": [
+    "akutė",
+    "geometrija",
+    "mygtukas"
+  ],
+  "radioactive": [
+    "radioaktyvu",
+    "ženklas"
+  ],
+  "railway_car": [
+    "automobilis",
+    "elektrinis",
+    "geležinkelis",
+    "tramvajus",
+    "traukinio vagonas",
+    "traukinys",
+    "troleibusas"
+  ],
+  "railway_track": [
+    "geležinkelio bėgiai",
+    "geležinkelis",
+    "traukinys"
+  ],
+  "rainbow": [
+    "lietus",
+    "vaivorykštė"
+  ],
+  "rainbow_flag": [
+    "vaivorykštė",
+    "vaivorykštinė vėliava"
+  ],
+  "raised_back_of_hand": [
+    "pakelta",
+    "pakelta viršutinė plaštakos pusė",
+    "plaštaka"
+  ],
+  "raised_fist": [
+    "iškeltas kumštis",
+    "kumštis",
+    "ranka",
+    "smūgis",
+    "sugniaužta"
+  ],
+  "raised_hand": [
+    "iškelta ranka",
+    "ranka"
+  ],
+  "raising_hands": [
+    "gestas",
+    "iškelta",
+    "kūnas",
+    "ranka",
+    "šventė",
+    "valio",
+    "žmogus, iškėlęs rankas"
+  ],
+  "ram": [
+    "avinas",
+    "avinas (gyvūnas)",
+    "avis",
+    "zodiakas"
+  ],
+  "rat": [
+    "žiurkė"
+  ],
+  "razor": [
+    "aštrus",
+    "skusti",
+    "skustuvas"
+  ],
+  "receipt": [
+    "apskaita",
+    "čekis",
+    "įrodymai"
+  ],
+  "record_button": [
+    "įrašas",
+    "įrašymo mygtukas",
+    "ratas"
+  ],
+  "recycling_symbol": [
+    "perdirbimo simbolis",
+    "perdirbti"
+  ],
+  "red_apple": [
+    "obuolys",
+    "raudonas",
+    "vaisius"
+  ],
+  "red_circle": [
+    "geometrija",
+    "raudonas",
+    "rutulys"
+  ],
+  "red_envelope": [
+    "dovana",
+    "pinigai",
+    "raudonas vokas",
+    "sėkmės"
+  ],
+  "red_exclamation_mark": [
+    "šauktukas",
+    "skyryba",
+    "žymė"
+  ],
+  "red_paper_lantern": [
+    "baras",
+    "raudonas",
+    "raudonas popierinis žibintas",
+    "šviesa",
+    "žibintas"
+  ],
+  "red_question_mark": [
+    "klausimas",
+    "klaustukas",
+    "skyryba",
+    "žymė"
+  ],
+  "red_square": [
+    "kvadratas",
+    "raudonas"
+  ],
+  "red_triangle_pointed_down": [
+    "geometrija",
+    "į apačią",
+    "raudona",
+    "raudonas į apačią nukreiptas trikampis"
+  ],
+  "red_triangle_pointed_up": [
+    "geometrija",
+    "raudona",
+    "raudonas į viršų nukreiptas trikampis"
+  ],
+  "registered": [
+    "užregistruota"
+  ],
+  "relieved_face": [
+    "palengvėjimas",
+    "veidas",
+    "veidas su palengvėjimu"
+  ],
+  "reminder_ribbon": [
+    "atminimo kaspinas",
+    "kaspinas",
+    "priminimas",
+    "šventė"
+  ],
+  "repeat_button": [
+    "kartoti",
+    "pagal laikrodžio rodyklę",
+    "rodyklė"
+  ],
+  "repeat_single_button": [
+    "kartoti vieną",
+    "pagal laikrodžio rodyklę",
+    "rodyklė",
+    "vieną kartą"
+  ],
+  "rescue_worker_s_helmet": [
+    "kepurė",
+    "kryžius",
+    "pagalba",
+    "šalmas",
+    "šalmas su baltu kryžiumi",
+    "veidas"
+  ],
+  "restroom": [
+    "moteris",
+    "tualetas",
+    "tualeto kambarys",
+    "wc"
+  ],
+  "reunion": [
+    "vėliava"
+  ],
+  "reverse_button": [
+    "atvirkštinė",
+    "atvirkštinė tvarka",
+    "kairė",
+    "rodyklė",
+    "trikampis"
+  ],
+  "revolving_hearts": [
+    "besisukančios širdelės",
+    "suktis"
+  ],
+  "rhinoceros": [
+    "raganosis"
+  ],
+  "ribbon": [
+    "kaspinas",
+    "šventė"
+  ],
+  "rice_ball": [
+    "japonų",
+    "rutuliukas",
+    "ryžiai",
+    "ryžių rutuliukas"
+  ],
+  "rice_cracker": [
+    "paplotėlis",
+    "ryžių"
+  ],
+  "right_anger_bubble": [
+    "balionas",
+    "debesėlis",
+    "dešinysis pykčio debesėlis",
+    "įsiutęs",
+    "piktas"
+  ],
+  "right_arrow": [
+    "koordinatė",
+    "kryptis",
+    "rodyklė",
+    "rodyklė į dešinę",
+    "rytai"
+  ],
+  "right_arrow_curving_down": [
+    "į apačią",
+    "rodyklė",
+    "rodyklė į dešinę, užlenkta į apačią"
+  ],
+  "right_arrow_curving_left": [
+    "rodyklė",
+    "rodyklė į dešinę, užlenkta į kairę"
+  ],
+  "right_arrow_curving_up": [
+    "rodyklė",
+    "rodyklė į dešinę, užlenkta į viršų"
+  ],
+  "right_facing_fist": [
+    "dešinėn",
+    "į dešinę nukreiptas kumštis",
+    "kumštis"
+  ],
+  "ring": [
+    "deimantas",
+    "žiedas"
+  ],
+  "ringed_planet": [
+    "planeta su žiedu",
+    "saturnas"
+  ],
+  "roasted_sweet_potato": [
+    "bulvė",
+    "kepta",
+    "kepta saldžioji bulvė",
+    "saldi"
+  ],
+  "robot": [
+    "monstras",
+    "robotas",
+    "roboto veidas",
+    "veidas"
+  ],
+  "rock": [
+    "akmuo",
+    "kietas",
+    "riedulys",
+    "sunkus",
+    "uola",
+    "uoliena"
+  ],
+  "rocket": [
+    "kosmosas",
+    "raketa"
+  ],
+  "rofl": [
+    "juokas",
+    "raitausi iš juoko",
+    "raitytis"
+  ],
+  "roll_eyes": [
+    "akys",
+    "vartyti",
+    "veidas",
+    "veidas, vartantis akis"
+  ],
+  "roll_of_paper": [
+    "popieriaus ritinys",
+    "popieriniai rankšluosčiai",
+    "tualetinis popierius"
+  ],
+  "rolled_up_newspaper": [
+    "laikraštis",
+    "naujienos",
+    "popierius",
+    "susuktas"
+  ],
+  "roller_coaster": [
+    "atrakcionų parkas",
+    "kalneliai",
+    "linksmieji"
+  ],
+  "roller_skate": [
+    "riedučiai"
+  ],
+  "romania": [
+    "vėliava"
+  ],
+  "rooster": [
+    "gaidys",
+    "paukštis"
+  ],
+  "rose": [
+    "augalas",
+    "gėlė",
+    "rožė"
+  ],
+  "rosette": [
+    "augalas",
+    "rozetė"
+  ],
+  "round_pushpin": [
+    "apvalus smeigtukas",
+    "smeigtukas"
+  ],
+  "rugby_football": [
+    "futbolas",
+    "kamuolys",
+    "regbio kamuolys",
+    "regbis"
+  ],
+  "running_shirt": [
+    "bėgimas",
+    "bėgimo marškinėliai",
+    "juosta",
+    "marškinėliai"
+  ],
+  "running_shoe": [
+    "atletiškas",
+    "batas",
+    "bėgimo batelis",
+    "drabužiai",
+    "sportinis batelis"
+  ],
+  "russia": [
+    "vėliava"
+  ],
+  "rwanda": [
+    "vėliava"
+  ],
+  "sad_but_relieved_face": [
+    "nusivylęs",
+    "nusivylęs veidas su palengvėjimu",
+    "palengvėjimas",
+    "veidas"
+  ],
+  "safety_pin": [
+    "pankrokas",
+    "vystyklai",
+    "žiogelis"
+  ],
+  "safety_vest": [
+    "gelbėjimosi",
+    "kritinė padėtis",
+    "liemenė"
+  ],
+  "sagittarius": [
+    "šaulys",
+    "zodiakas"
+  ],
+  "sailboat": [
+    "burlaivis",
+    "jachta",
+    "jūra",
+    "kurortas",
+    "valtis"
+  ],
+  "sake": [
+    "baras",
+    "butelis",
+    "gėrimas",
+    "puodelis",
+    "sakė"
+  ],
+  "salt": [
+    "druska",
+    "druskinė",
+    "prieskonis"
+  ],
+  "samoa": [
+    "vėliava"
+  ],
+  "san_marino": [
+    "vėliava"
+  ],
+  "sandwich": [
+    "duona",
+    "sumuštinis"
+  ],
+  "santa_claus": [
+    "kalėdos",
+    "kalėdų senelis",
+    "senelis",
+    "šventė",
+    "tėvas"
+  ],
+  "sao_tome_principe": [
+    "vėliava"
+  ],
+  "sari": [
+    "apranga",
+    "saris",
+    "suknelė"
+  ],
+  "satellite": [
+    "kosmosas",
+    "palydovas"
+  ],
+  "satellite_antenna": [
+    "antena",
+    "indas",
+    "palydovas",
+    "palydovinė antena"
+  ],
+  "saudi_arabia": [
+    "vėliava"
+  ],
+  "sauropod": [
+    "brachiozauras",
+    "brontozauas",
+    "diplodokas",
+    "sauropodas"
+  ],
+  "saxophone": [
+    "instrumentas",
+    "muzika",
+    "saksofonas"
+  ],
+  "scarf": [
+    "kaklas",
+    "skara"
+  ],
+  "school": [
+    "mokykla",
+    "pastatas"
+  ],
+  "scientist": [
+    "biologas",
+    "chemikas",
+    "fizikas",
+    "inžinierius",
+    "mokslininkas",
+    "mokslo darbuotojas"
+  ],
+  "scissors": [
+    "įrankis",
+    "žirklės"
+  ],
+  "scorpio": [
+    "skorpionas",
+    "zodiakas"
+  ],
+  "scorpion": [
+    "skorpionas",
+    "skorpionas (gyvūnas)",
+    "zodiakas"
+  ],
+  "scotland": [
+    "vėliava"
+  ],
+  "scream": [
+    "baimė",
+    "iš baimės šaukiantis veidas",
+    "išsigandęs",
+    "šauksmas",
+    "veidas"
+  ],
+  "screwdriver": [
+    "atsuktuvas",
+    "įrankis",
+    "varžtas"
+  ],
+  "scroll": [
+    "popierius",
+    "susuktas lapas"
+  ],
+  "seal": [
+    "jūrų liūtas",
+    "ruonis"
+  ],
+  "seat": [
+    "kėdė",
+    "vieta"
+  ],
+  "see_no_evil_monkey": [
+    "beždžionė",
+    "blogis",
+    "draudžiama",
+    "matyti",
+    "uždrausta",
+    "užsidengusi akis beždžionė",
+    "veidas"
+  ],
+  "seedling": [
+    "augalas",
+    "daigas",
+    "jaunas"
+  ],
+  "selfie": [
+    "asmenukė",
+    "fotoaparatas",
+    "telefonas"
+  ],
+  "senegal": [
+    "vėliava"
+  ],
+  "serbia": [
+    "vėliava"
+  ],
+  "service_dog": [
+    "aptarnavimas",
+    "pagalba",
+    "prieinamumas",
+    "šuo",
+    "tarnaujantis šuo"
+  ],
+  "seven": [
+    "mygtukas"
+  ],
+  "seven_o_clock": [
+    "00",
+    "7",
+    "7:00",
+    "septynios",
+    "valandos"
+  ],
+  "seven_thirty": [
+    "30",
+    "7",
+    "7:30",
+    "pusė aštuonių",
+    "septynios",
+    "trisdešimt"
+  ],
+  "sewing_needle": [
+    "adata",
+    "siūlai",
+    "siuvimas",
+    "siuvimo adata",
+    "siuvinėjimas"
+  ],
+  "seychelles": [
+    "vėliava"
+  ],
+  "shallow_pan_of_food": [
+    "maistas",
+    "prikaistuvis",
+    "prikaistuvis su maistu"
+  ],
+  "shamrock": [
+    "augalas",
+    "trilapis dobilas"
+  ],
+  "shark": [
+    "ryklys",
+    "žuvis"
+  ],
+  "shaved_ice": [
+    "desertas",
+    "ledas",
+    "saldu",
+    "smulkintas",
+    "susmulkintas ledas"
+  ],
+  "sheaf_of_rice": [
+    "augalas",
+    "ryžiai",
+    "ryžių pėdas",
+    "varpa"
+  ],
+  "shield": [
+    "ginklas",
+    "skydas"
+  ],
+  "shinto_shrine": [
+    "religija",
+    "šintoizmas",
+    "šintoizmo šventykla",
+    "šventykla"
+  ],
+  "ship": [
+    "keleivis",
+    "laivas",
+    "valtis"
+  ],
+  "shooting_star": [
+    "krintanti",
+    "žvaigždė"
+  ],
+  "shopping_bags": [
+    "apsipirkimas",
+    "krepšys",
+    "pirkinių krepšeliai",
+    "viešbutis"
+  ],
+  "shopping_cart": [
+    "apsipirkimas",
+    "parduotuvė",
+    "pirkinių vežimėlis",
+    "vežimėlis"
+  ],
+  "shortcake": [
+    "desertas",
+    "gabalėlis",
+    "kepiniai",
+    "pyragas",
+    "saldu",
+    "trapus pyragas"
+  ],
+  "shorts": [
+    "apatiniai",
+    "maudymosi kostiumas",
+    "šortai",
+    "trumpikės"
+  ],
+  "shower": [
+    "dušas",
+    "vanduo"
+  ],
+  "shrimp": [
+    "kiaukutinis",
+    "krevetė",
+    "maistas",
+    "mažas"
+  ],
+  "shuffle_tracks_button": [
+    "maišyti takelius",
+    "rodyklė",
+    "sukryžiuota"
+  ],
+  "shushing_face": [
+    "ššš",
+    "tildantis veidas",
+    "tylus"
+  ],
+  "sierra_leone": [
+    "vėliava"
+  ],
+  "sign_of_the_horns": [
+    "pirštas",
+    "ragai",
+    "ragų ženklas",
+    "ranka",
+    "rokas"
+  ],
+  "singapore": [
+    "vėliava"
+  ],
+  "singer": [
+    "aktorius",
+    "dainininkas",
+    "dainuojantis žmogus",
+    "linksmintojas",
+    "rokas",
+    "žvaigždė"
+  ],
+  "sint_maarten": [
+    "vėliava"
+  ],
+  "six": [
+    "mygtukas"
+  ],
+  "six_o_clock": [
+    "00",
+    "6",
+    "6:00",
+    "šešios",
+    "valandos"
+  ],
+  "six_thirty": [
+    "30",
+    "6",
+    "6:00",
+    "pusė septynių",
+    "šešios",
+    "trisdešimt",
+    "valandos"
+  ],
+  "skateboard": [
+    "lenta",
+    "riedlentė"
+  ],
+  "skier": [
+    "slidinėti",
+    "slidininkas",
+    "sniegas"
+  ],
+  "skis": [
+    "slidės",
+    "slidinėti",
+    "sniegas"
+  ],
+  "skull": [
+    "kaukolė",
+    "mirtis",
+    "monstras",
+    "pasaka",
+    "veidas"
+  ],
+  "skull_and_crossbones": [
+    "kaukolė",
+    "kaukolė ir sukryžiuoti kaulai",
+    "mirtis",
+    "monstras",
+    "sukryžiuoti kaulai",
+    "veidas"
+  ],
+  "skunk": [
+    "skunkas",
+    "smirdantis"
+  ],
+  "sled": [
+    "rogės"
+  ],
+  "sleeping_face": [
+    "miegantis veidas",
+    "miegas",
+    "veidas",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "miegas",
+    "mieguistas veidas",
+    "veidas"
+  ],
+  "slightly_frowning_face": [
+    "paniuręs",
+    "šiek tiek paniuręs veidas",
+    "veidas"
+  ],
+  "slightly_smiling_face": [
+    "šiek tiek besišypsantis veidas",
+    "šypsena",
+    "veidas"
+  ],
+  "slot_machine": [
+    "automatas",
+    "žaidimas",
+    "žaidimų automatas"
+  ],
+  "sloth": [
+    "lėtas",
+    "tinginys",
+    "tingus"
+  ],
+  "slovakia": [
+    "vėliava"
+  ],
+  "slovenia": [
+    "vėliava"
+  ],
+  "small_airplane": [
+    "lėktuvas",
+    "mažas lėktuvas"
+  ],
+  "small_blue_diamond": [
+    "deimantas",
+    "geometrija",
+    "mažas mėlynas deimantas",
+    "mėlynas"
+  ],
+  "small_orange_diamond": [
+    "deimantas",
+    "geometrija",
+    "mažas oranžinis deimantas",
+    "oranžinis"
+  ],
+  "smiley": [
+    "besišypsantis išsižiojęs veidas",
+    "burna",
+    "praverta",
+    "šypsena",
+    "veidas"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "akis",
+    "besišypsančios katės snukutis su širdelės formos akimis",
+    "katė",
+    "meilė",
+    "šypsena",
+    "veidas"
+  ],
+  "smiling_face": [
+    "atsipalaidavęs",
+    "besišypsantis veidas",
+    "šypsena",
+    "veidas"
+  ],
+  "smiling_face_with_horns": [
+    "besišypsantis veidas su ragais",
+    "fantazija",
+    "pasaka",
+    "ragai",
+    "šypsena",
+    "veidas"
+  ],
+  "smiling_face_with_sunglasses": [
+    "akiniai nuo saulės",
+    "besišypsantis veidas su akiniais nuo saulės",
+    "saulė",
+    "šaunus",
+    "šviesus",
+    "veidas"
+  ],
+  "smiling_face_with_tear": [
+    "ašara",
+    "besišypsantis",
+    "besišypsantis veidas su ašara",
+    "dėkingas",
+    "palengvėjimas",
+    "pasididžiavimas"
+  ],
+  "smiling_face_with_three_hearts": [
+    "besišypsantis veidas su trimis širdelėmis",
+    "dievinti",
+    "garbinimo objektas",
+    "įsimylėjęs"
+  ],
+  "smirking_face": [
+    "iš pasitenkinimo besišypsantis veidas",
+    "pasitenkinimas",
+    "veidas"
+  ],
+  "snail": [
+    "sraigė"
+  ],
+  "snake": [
+    "gyvatė",
+    "gyvatnešis",
+    "žaltys",
+    "zodiakas"
+  ],
+  "sneezing_face": [
+    "čiaudantis veidas",
+    "čiaudulys",
+    "veidas"
+  ],
+  "snow_capped_mountain": [
+    "kalnas",
+    "kalnas su snieguota viršūne",
+    "šaltis",
+    "sniegas"
+  ],
+  "snowboarder": [
+    "slidinėti",
+    "sniegas",
+    "snieglenčių sporto mėgėjas",
+    "snieglentė"
+  ],
+  "snowflake": [
+    "šaltis",
+    "snaigė",
+    "sniegas"
+  ],
+  "snowman": [
+    "šaltis",
+    "sniegas",
+    "sniego senis"
+  ],
+  "snowman_without_snow": [
+    "šaltis",
+    "sniegas",
+    "sniego senis",
+    "sniego senis be sniego"
+  ],
+  "soap": [
+    "maudytis",
+    "muilas",
+    "muilinė",
+    "muilinti",
+    "plytelė",
+    "praustis"
+  ],
+  "sob": [
+    "ašara",
+    "garsiai raudantis veidas",
+    "liūdnas",
+    "raudoti",
+    "veidas",
+    "verkti"
+  ],
+  "soccer_ball": [
+    "futbolas",
+    "futbolo kamuolys",
+    "kamuolys"
+  ],
+  "socks": [
+    "blauzdinė",
+    "kojinės"
+  ],
+  "soft_ice_cream": [
+    "desertas",
+    "kremas",
+    "ledai",
+    "minkšti",
+    "saldu"
+  ],
+  "softball": [
+    "kamuolys",
+    "pažastis",
+    "pirštinė",
+    "softbolas"
+  ],
+  "solomon_islands": [
+    "vėliava"
+  ],
+  "somalia": [
+    "vėliava"
+  ],
+  "soon_arrow": [
+    "greitai",
+    "rodyklė",
+    "rodyklė su užrašu „soon“"
+  ],
+  "sos_button": [
+    "pagalba",
+    "simbolis „sos“",
+    "sos"
+  ],
+  "south_africa": [
+    "vėliava"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "vėliava"
+  ],
+  "south_korea": [
+    "vėliava"
+  ],
+  "south_sudan": [
+    "vėliava"
+  ],
+  "spade_suit": [
+    "kortos",
+    "pikai",
+    "žaidimas"
+  ],
+  "spaghetti": [
+    "pasta",
+    "spagečiai"
+  ],
+  "spain": [
+    "vėliava"
+  ],
+  "sparkle": [
+    "kibirkštėlė",
+    "kibirkštis"
+  ],
+  "sparkler": [
+    "fejerverkai",
+    "kibirkštis",
+    "šaltoji ugnelė",
+    "šventė"
+  ],
+  "sparkles": [
+    "kibirkštėlės",
+    "kibirkštis",
+    "žvaigždė"
+  ],
+  "sparkling_heart": [
+    "susijaudinimas",
+    "žėrėti",
+    "žėrinti širdelė"
+  ],
+  "speak_no_evil_monkey": [
+    "beždžionė",
+    "blogis",
+    "uždrausta",
+    "užsidengusi burną beždžionė",
+    "veidas"
+  ],
+  "speaker_high_volume": [
+    "didelis garsiakalbio garsumas",
+    "garsus"
+  ],
+  "speaker_low_volume": [
+    "tylus",
+    "tylus garsiakalbis"
+  ],
+  "speaker_medium_volume": [
+    "vidutinio garso garsiakalbis",
+    "vidutinis"
+  ],
+  "speaking_head": [
+    "galva",
+    "kalbanti galva",
+    "kalbėjimas",
+    "kalbėti",
+    "siluetas",
+    "veidas"
+  ],
+  "speech_balloon": [
+    "balionas",
+    "debesėlis",
+    "dialogas",
+    "kalba",
+    "kalbos debesėlis",
+    "komiksas"
+  ],
+  "speedboat": [
+    "motorinis kateris",
+    "valtis"
+  ],
+  "spider": [
+    "vabzdys",
+    "voras"
+  ],
+  "spider_web": [
+    "tinklas",
+    "voras",
+    "voratinklis"
+  ],
+  "spiral_calendar": [
+    "kalendorius",
+    "kalendorius su spirale",
+    "spiralė",
+    "užrašinė"
+  ],
+  "spiral_notepad": [
+    "spiralė",
+    "užrašas",
+    "užrašinė",
+    "užrašinė su spirale"
+  ],
+  "spiral_shell": [
+    "kriauklė",
+    "spiralė",
+    "susisukusi kriauklė"
+  ],
+  "sponge": [
+    "akytas",
+    "kempinė",
+    "praustis",
+    "sugeriantis"
+  ],
+  "spoon": [
+    "įrankis",
+    "šaukštas"
+  ],
+  "sport_utility_vehicle": [
+    "rekreacijos",
+    "rekreacijos automobilis",
+    "transporto priemonė"
+  ],
+  "sports_medal": [
+    "medalis",
+    "sporto medalis"
+  ],
+  "spouting_whale": [
+    "banginis",
+    "purkšti",
+    "purškiantis banginis",
+    "veidas"
+  ],
+  "squid": [
+    "kalmaras",
+    "maistas",
+    "moliuskas"
+  ],
+  "squinting_face_with_tongue": [
+    "akys",
+    "bjaurus",
+    "liežuvis",
+    "skonis",
+    "veidas",
+    "veidas su iškištu liežuviu ir stipriai užmerktomis akimis"
+  ],
+  "sri_lanka": [
+    "vėliava"
+  ],
+  "st_barthelemy": [
+    "vėliava"
+  ],
+  "st_helena": [
+    "vėliava"
+  ],
+  "st_kitts_nevis": [
+    "vėliava"
+  ],
+  "st_lucia": [
+    "vėliava"
+  ],
+  "st_martin": [
+    "vėliava"
+  ],
+  "st_pierre_miquelon": [
+    "vėliava"
+  ],
+  "st_vincent_grenadines": [
+    "vėliava"
+  ],
+  "stadium": [
+    "stadionas"
+  ],
+  "star": [
+    "balta vidutinė žvaigždė",
+    "žvaigždė"
+  ],
+  "star_and_crescent": [
+    "islamas",
+    "musulmonas",
+    "religija",
+    "žvaigždė ir pusmėnulis"
+  ],
+  "star_of_david": [
+    "dovydas",
+    "dovydo žvaigždė",
+    "religija",
+    "žvaigždė",
+    "žydas",
+    "žydų"
+  ],
+  "star_struck": [
+    "akys",
+    "šypsotis",
+    "veidas",
+    "žvaigždė",
+    "žvaigždžių liga"
+  ],
+  "station": [
+    "geležinkelis",
+    "stotis",
+    "traukinys"
+  ],
+  "statue_of_liberty": [
+    "laisvė",
+    "laisvės statula",
+    "statula"
+  ],
+  "steaming_bowl": [
+    "dubuo",
+    "makaronai",
+    "makaronų sriubos dubenėlis",
+    "ramen",
+    "sriuba"
+  ],
+  "stethoscope": [
+    "gydytojas",
+    "medicina",
+    "širdis",
+    "stetoskopas"
+  ],
+  "stop_button": [
+    "kvadratas",
+    "stabdyti",
+    "sustabdymo mygtukas"
+  ],
+  "stop_sign": [
+    "aštuonkampis",
+    "sustojimo ženklas",
+    "sustoti",
+    "ženklas"
+  ],
+  "stopwatch": [
+    "chronometras",
+    "laikrodis"
+  ],
+  "straight_ruler": [
+    "liniuotė",
+    "tiesi"
+  ],
+  "strawberry": [
+    "braškė",
+    "uoga",
+    "vaisius"
+  ],
+  "student": [
+    "baigimas",
+    "paskutinio kurso studentas",
+    "studentas"
+  ],
+  "studio_microphone": [
+    "mikrofonas",
+    "muzika",
+    "studija",
+    "studijos mikrofonas"
+  ],
+  "stuffed_flatbread": [
+    "įdaras",
+    "įdarytas lavašas",
+    "lavašas",
+    "maistas"
+  ],
+  "sudan": [
+    "vėliava"
+  ],
+  "sun": [
+    "saulė",
+    "saulėta",
+    "spinduliai",
+    "šviesu"
+  ],
+  "sun_behind_cloud": [
+    "debesis",
+    "saulė",
+    "saulė už debesų"
+  ],
+  "sun_behind_large_cloud": [
+    "debesis",
+    "saulė",
+    "saulė už didelio debesies"
+  ],
+  "sun_behind_rain_cloud": [
+    "debesis",
+    "lietus",
+    "saulė",
+    "saulė už debesies, iš kurio lyja"
+  ],
+  "sun_behind_small_cloud": [
+    "debesis",
+    "saulė",
+    "saulė už nedidelio debesies"
+  ],
+  "sun_with_face": [
+    "saulė",
+    "saulė su veidu",
+    "šviesu",
+    "veidas"
+  ],
+  "sunflower": [
+    "gėlė",
+    "saulė",
+    "saulėgrąža"
+  ],
+  "sunglasses": [
+    "akiniai",
+    "akiniai nuo saulės",
+    "akys",
+    "tamsūs"
+  ],
+  "sunrise": [
+    "rytas",
+    "saulė",
+    "saulėtekis"
+  ],
+  "sunrise_over_mountains": [
+    "kalnas",
+    "rytas",
+    "saulė",
+    "saulėtekis",
+    "saulėtekis virš kalnų"
+  ],
+  "sunset": [
+    "saulė",
+    "saulėlydis",
+    "sutemos"
+  ],
+  "superhero": [
+    "geras",
+    "herojė",
+    "herojus",
+    "supergalia",
+    "superherojus"
+  ],
+  "supervillain": [
+    "blogas",
+    "nusikaltėlis",
+    "piktadarys",
+    "supergalia",
+    "superpiktadarys"
+  ],
+  "suriname": [
+    "vėliava"
+  ],
+  "sushi": [
+    "suši",
+    "sušis"
+  ],
+  "suspension_railway": [
+    "geležinkelis",
+    "kabanti",
+    "kabanti geležinkelio linija"
+  ],
+  "svalbard_jan_mayen": [
+    "vėliava"
+  ],
+  "swan": [
+    "bjaurusis ančiukas",
+    "gulbė",
+    "paukštis"
+  ],
+  "sweat_droplets": [
+    "komiksas",
+    "prakaitas",
+    "prakaito lašeliai",
+    "taškymas"
+  ],
+  "sweat_smile": [
+    "besišypsantis išsižiojęs veidas, išpiltas šalto prakaito",
+    "prakaitas",
+    "praverta",
+    "šaltas",
+    "šypsena",
+    "veidas"
+  ],
+  "sweden": [
+    "vėliava"
+  ],
+  "switzerland": [
+    "vėliava"
+  ],
+  "synagogue": [
+    "religija",
+    "sinagoga",
+    "šventykla",
+    "žydas",
+    "žydų"
+  ],
+  "syria": [
+    "vėliava"
+  ],
+  "syringe": [
+    "adata",
+    "dūris",
+    "gydytojas",
+    "įrankis",
+    "ligonis",
+    "medicina",
+    "švirkštas"
+  ],
+  "t_rex": [
+    "reksas",
+    "tiranozauras reksas"
+  ],
+  "t_shirt": [
+    "drabužiai",
+    "marškinėliai",
+    "marškiniai"
+  ],
+  "taco": [
+    "meksikietiškas",
+    "meksikietiškas paplotėlis"
+  ],
+  "tada": [
+    "bum",
+    "konfeti šaudyklė",
+    "šauti",
+    "šventė",
+    "vakarėlis"
+  ],
+  "taiwan": [
+    "vėliava"
+  ],
+  "tajikistan": [
+    "vėliava"
+  ],
+  "takeout_box": [
+    "austrių kibirėlis",
+    "dėžutė išsinešti"
+  ],
+  "tamale": [
+    "meksikietiškas",
+    "susuktas",
+    "vyniotinis"
+  ],
+  "tanabata_tree": [
+    "japonų",
+    "medis",
+    "šventė",
+    "tanabata medis"
+  ],
+  "tangerine": [
+    "mandarinas",
+    "oranžinis",
+    "vaisius"
+  ],
+  "tanzania": [
+    "vėliava"
+  ],
+  "taurus": [
+    "bulius",
+    "tauras",
+    "zodiakas"
+  ],
+  "taxi": [
+    "taksi",
+    "transporto priemonė"
+  ],
+  "teacher": [
+    "dėstytojas",
+    "instruktorius",
+    "mokantis žmogus",
+    "mokytojas"
+  ],
+  "teacup_without_handle": [
+    "arbata",
+    "arbatos puodelis",
+    "arbatos puodelis be rankenos",
+    "gėrimas",
+    "gerti",
+    "puodelis"
+  ],
+  "teapot": [
+    "arbata",
+    "arbatinukas",
+    "gėrimas",
+    "puodas"
+  ],
+  "tear_off_calendar": [
+    "kalendorius",
+    "nuplėšiamas kalendorius"
+  ],
+  "technologist": [
+    "išradėjas",
+    "koderis",
+    "programinė įranga",
+    "programuotojas",
+    "technikas"
+  ],
+  "teddy_bear": [
+    "kimštas",
+    "meškiukas",
+    "pliušas",
+    "žaislas"
+  ],
+  "telephone": [
+    "telefonas"
+  ],
+  "telephone_receiver": [
+    "ragelis",
+    "telefonas",
+    "telefono ragelis"
+  ],
+  "telescope": [
+    "įrankis",
+    "teleskopas"
+  ],
+  "television": [
+    "televizorius",
+    "tv",
+    "vaizdo įrašas"
+  ],
+  "ten": [
+    "mygtukas"
+  ],
+  "ten_o_clock": [
+    "00",
+    "10",
+    "10:00",
+    "dešimt",
+    "dešimt valandų",
+    "valandos"
+  ],
+  "ten_thirty": [
+    "10",
+    "10:30",
+    "30",
+    "dešimt",
+    "pusė vienuolikos",
+    "trisdešimt",
+    "valandos"
+  ],
+  "tennis": [
+    "kamuolys",
+    "raketė",
+    "teniso kamuoliukas"
+  ],
+  "tent": [
+    "palapinė",
+    "stovyklavimas"
+  ],
+  "test_tube": [
+    "bandymas",
+    "chemija",
+    "chemikas",
+    "laboratorija",
+    "mėgintuvėlis",
+    "mokslas"
+  ],
+  "thailand": [
+    "vėliava"
+  ],
+  "thermometer": [
+    "oras",
+    "termometras"
+  ],
+  "thinking": [
+    "mąstantis veidas",
+    "mąstymas",
+    "veidas"
+  ],
+  "thong_sandal": [
+    "dirželiai",
+    "paplūdimio sandalai",
+    "sandalai",
+    "sandalai su dirželiu"
+  ],
+  "thought_balloon": [
+    "balionas",
+    "debesėlis",
+    "komiksas",
+    "minties debesėlis",
+    "mintis"
+  ],
+  "thread": [
+    "adata",
+    "gija",
+    "ritė",
+    "siūlas",
+    "siuvimas"
+  ],
+  "three": [
+    "mygtukas"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3:00",
+    "trys",
+    "valandos"
+  ],
+  "three_thirty": [
+    "3",
+    "3:30",
+    "30",
+    "pusė keturių",
+    "trisdešimt",
+    "trys",
+    "valandos"
+  ],
+  "ticket": [
+    "bilietas",
+    "įėjimas"
+  ],
+  "tiger": [
+    "tigras"
+  ],
+  "tiger_face": [
+    "tigras",
+    "tigro snukis",
+    "veidas"
+  ],
+  "timer_clock": [
+    "laikmatis",
+    "laikrodis"
+  ],
+  "timor_leste": [
+    "vėliava"
+  ],
+  "tired_face": [
+    "pavargęs",
+    "veidas"
+  ],
+  "togo": [
+    "vėliava"
+  ],
+  "toilet": [
+    "tualetas"
+  ],
+  "tokelau": [
+    "vėliava"
+  ],
+  "tokyo_tower": [
+    "bokštas",
+    "tokijas",
+    "tokijo bokštas"
+  ],
+  "tomato": [
+    "augalas",
+    "daržovė",
+    "pomidoras"
+  ],
+  "tonga": [
+    "vėliava"
+  ],
+  "tongue": [
+    "kūnas",
+    "liežuvis"
+  ],
+  "toolbox": [
+    "dėžė",
+    "įrankis",
+    "įrankių rinkinys",
+    "mechanikas"
+  ],
+  "tooth": [
+    "dantis",
+    "dantistas"
+  ],
+  "toothbrush": [
+    "dantų šepetėlis",
+    "dantys",
+    "higiena",
+    "valyti",
+    "vonios kambarys"
+  ],
+  "top_arrow": [
+    "į viršų",
+    "rodyklė",
+    "rodyklė su užrašu „top“",
+    "viršus"
+  ],
+  "top_hat": [
+    "aukšta",
+    "cilindras",
+    "drabužiai",
+    "skrybėlė"
+  ],
+  "tornado": [
+    "debesis",
+    "sūkurys",
+    "tornadas"
+  ],
+  "trackball": [
+    "kompiuteris",
+    "rutulinis manipuliatorius"
+  ],
+  "tractor": [
+    "traktorius",
+    "transporto priemonė"
+  ],
+  "trade_mark": [
+    "prekės ženklas",
+    "žymė"
+  ],
+  "train": [
+    "geležinkelis",
+    "traukinys"
+  ],
+  "tram": [
+    "tramvajus",
+    "troleibusas"
+  ],
+  "tram_car": [
+    "automobilis",
+    "tramvajaus vagonas",
+    "tramvajus",
+    "troleibusas"
+  ],
+  "transgender_flag": [
+    "translytis",
+    "vėliava",
+    "žydra, rožinė ir balta vėliava"
+  ],
+  "transgender_symbol": [
+    "translyčių simbolis",
+    "translytis"
+  ],
+  "triangular_flag": [
+    "postas",
+    "trikampė vėliava"
+  ],
+  "triangular_ruler": [
+    "liniuotė",
+    "trikampė liniuotė",
+    "trikampis"
+  ],
+  "trident_emblem": [
+    "emblema",
+    "inkaras",
+    "įrankis",
+    "laivas",
+    "trišakė emblema",
+    "trišakis"
+  ],
+  "trinidad_tobago": [
+    "vėliava"
+  ],
+  "tristan_da_cunha": [
+    "vėliava"
+  ],
+  "trolleybus": [
+    "autobusas",
+    "tramvajus",
+    "troleibusas"
+  ],
+  "trophy": [
+    "prizas",
+    "trofėjus"
+  ],
+  "tropical_drink": [
+    "baras",
+    "gėrimas",
+    "tropinis"
+  ],
+  "tropical_fish": [
+    "tropinė",
+    "žuvis"
+  ],
+  "trumpet": [
+    "instrumentas",
+    "muzika",
+    "trimitas"
+  ],
+  "tulip": [
+    "augalas",
+    "gėlė",
+    "tulpė"
+  ],
+  "tumbler_glass": [
+    "alkoholis",
+    "stiklinė",
+    "viskis"
+  ],
+  "tunisia": [
+    "vėliava"
+  ],
+  "turkey": [
+    "kalakutas",
+    "paukštis"
+  ],
+  "turkmenistan": [
+    "vėliava"
+  ],
+  "turks_caicos_islands": [
+    "vėliava"
+  ],
+  "turtle": [
+    "vėžlys"
+  ],
+  "tuvalu": [
+    "vėliava"
+  ],
+  "twelve_o_clock": [
+    "00",
+    "12",
+    "12:00",
+    "dvylika",
+    "dvylika valandų",
+    "valandos"
+  ],
+  "twelve_thirty": [
+    "12",
+    "12:30",
+    "30",
+    "dvylika",
+    "trisdešimt"
+  ],
+  "two": [
+    "mygtukas"
+  ],
+  "two_hearts": [
+    "dvi širdelės",
+    "meilė"
+  ],
+  "two_hump_camel": [
+    "dvikupris kupranugaris",
+    "kupra",
+    "kupranugaris"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2:00",
+    "dvi",
+    "valandos"
+  ],
+  "two_thirty": [
+    "2",
+    "2:30",
+    "30",
+    "dvi",
+    "pusė trijų",
+    "trisdešimt"
+  ],
+  "türkiye": [
+    "vėliava"
+  ],
+  "uganda": [
+    "vėliava"
+  ],
+  "ukraine": [
+    "vėliava"
+  ],
+  "umbrella": [
+    "drabužiai",
+    "lietus",
+    "skėtis"
+  ],
+  "umbrella_on_ground": [
+    "lietus",
+    "saulė",
+    "skėtis",
+    "skėtis ant žemės"
+  ],
+  "umbrella_with_rain_drops": [
+    "drabužiai",
+    "lašas",
+    "lietus",
+    "skėtis",
+    "skėtis su lietaus lašais"
+  ],
+  "unamused_face": [
+    "nelaimingas",
+    "nelinksmas",
+    "veidas"
+  ],
+  "unicorn": [
+    "veidas",
+    "vienaragio snukis",
+    "vienaragis"
+  ],
+  "united_arab_emirates": [
+    "vėliava"
+  ],
+  "united_kingdom": [
+    "vėliava"
+  ],
+  "united_nations": [
+    "vėliava"
+  ],
+  "united_states": [
+    "vėliava"
+  ],
+  "unlocked": [
+    "atidaryta",
+    "atrakinta",
+    "spyna"
+  ],
+  "up_arrow": [
+    "koordinatė",
+    "kryptis",
+    "rodyklė",
+    "rodyklė į viršų",
+    "šiaurė"
+  ],
+  "up_button": [
+    "mygtukas „up!“",
+    "up",
+    "žymė"
+  ],
+  "up_down_arrow": [
+    "rodyklė",
+    "rodyklė į viršų ir į apačią"
+  ],
+  "up_left_arrow": [
+    "kryptis",
+    "rodyklė",
+    "rodyklė į viršų ir į kairę",
+    "šiaurės vakarai"
+  ],
+  "up_right_arrow": [
+    "kryptis",
+    "rodyklė",
+    "rodyklė į viršų ir į dešinę",
+    "šiaurės rytai"
+  ],
+  "upside_down_face": [
+    "apverstas veidas",
+    "aukštyn kojom",
+    "veidas"
+  ],
+  "upwards_button": [
+    "į viršų",
+    "mygtukas",
+    "raudonas",
+    "rodyklė"
+  ],
+  "uruguay": [
+    "vėliava"
+  ],
+  "us_outlying_islands": [
+    "vėliava"
+  ],
+  "us_virgin_islands": [
+    "vėliava"
+  ],
+  "uzbekistan": [
+    "vėliava"
+  ],
+  "vampire": [
+    "drakula",
+    "nemirtingas",
+    "vampyras"
+  ],
+  "vanuatu": [
+    "vėliava"
+  ],
+  "vatican_city": [
+    "vėliava"
+  ],
+  "venezuela": [
+    "vėliava"
+  ],
+  "vertical_traffic_light": [
+    "eismas",
+    "signalas",
+    "šviesa",
+    "vertikalus šviesoforas"
+  ],
+  "vibration_mode": [
+    "mobilusis",
+    "režimas",
+    "telefonas",
+    "vibravimas",
+    "vibravimo režimas"
+  ],
+  "victory_hand": [
+    "pergalė",
+    "pergalės ženklą rodanti ranka",
+    "ranka",
+    "v"
+  ],
+  "video_camera": [
+    "fotoaparatas",
+    "vaizdo įrašas",
+    "vaizdo kamera"
+  ],
+  "video_game": [
+    "vaizdo žaidimas",
+    "valdiklis",
+    "žaidimas"
+  ],
+  "videocassette": [
+    "juosta",
+    "vaizdo įrašas",
+    "vaizdo įrašų kasetė",
+    "vhs"
+  ],
+  "vietnam": [
+    "vėliava"
+  ],
+  "violin": [
+    "instrumentas",
+    "muzika",
+    "smuikas"
+  ],
+  "virgo": [
+    "mergelė",
+    "zodiakas"
+  ],
+  "volcano": [
+    "išsiveržimas",
+    "kalnas",
+    "ugnikalnis"
+  ],
+  "volleyball": [
+    "kamuolys",
+    "tinklinio kamuolys",
+    "žaidimas"
+  ],
+  "vs_button": [
+    "palyginti",
+    "simbolis „vs“"
+  ],
+  "vulcan_salute": [
+    "kūnas",
+    "pirštas",
+    "ranka",
+    "vulkanai",
+    "vulkanų rasės pasisveikinimo ženklas"
+  ],
+  "waffle": [
+    "geležinis",
+    "neaiškus",
+    "vaflis"
+  ],
+  "wales": [
+    "vėliava"
+  ],
+  "wallis_futuna": [
+    "vėliava"
+  ],
+  "waning_crescent_moon": [
+    "delčia (pabaiga)",
+    "mėnulis",
+    "pusmėnulis"
+  ],
+  "waning_gibbous_moon": [
+    "delčia",
+    "dylantis",
+    "mėnulis"
+  ],
+  "warning": [
+    "įspėjimas"
+  ],
+  "wastebasket": [
+    "šiukšliadėžė"
+  ],
+  "watch": [
+    "laikrodis"
+  ],
+  "water_buffalo": [
+    "azijinis",
+    "buivolas"
+  ],
+  "water_closet": [
+    "tualetas",
+    "tualeto patalpa",
+    "vanduo",
+    "wc"
+  ],
+  "water_pistol": [
+    "ginklas",
+    "įrankis",
+    "pistoletas",
+    "revolveris"
+  ],
+  "watermelon": [
+    "arbūzas",
+    "vaisius"
+  ],
+  "waving_hand": [
+    "mojuoja",
+    "mojuojanti ranka",
+    "mojuoti",
+    "ranka"
+  ],
+  "wavy_dash": [
+    "brūkšnys",
+    "skyryba",
+    "vingiuotas"
+  ],
+  "waxing_crescent_moon": [
+    "mėnulis",
+    "priešpilnis"
+  ],
+  "waxing_gibbous_moon": [
+    "mėnulis",
+    "priešpilnis",
+    "priešpilnis (pabaiga)"
+  ],
+  "weary_cat": [
+    "katė",
+    "nustebęs",
+    "nustebusios katės snukutis",
+    "oi",
+    "veidas"
+  ],
+  "weary_face": [
+    "nuvargęs",
+    "pavargęs",
+    "veidas"
+  ],
+  "wedding": [
+    "koplyčia",
+    "romantika",
+    "vestuvės"
+  ],
+  "western_sahara": [
+    "vėliava"
+  ],
+  "whale": [
+    "banginis"
+  ],
+  "wheel_of_dharma": [
+    "budistas",
+    "dharma",
+    "dharmos ratas",
+    "ratas",
+    "religija"
+  ],
+  "wheelchair_symbol": [
+    "neįgaliojo vežimėlio simbolis",
+    "pasiekiamumas"
+  ],
+  "white_cane": [
+    "aklas",
+    "neregio lazda",
+    "prieinamumas"
+  ],
+  "white_check_mark": [
+    "balta paryškinta varnelė",
+    "varnelė",
+    "žymė"
+  ],
+  "white_circle": [
+    "baltas rutulys",
+    "geometrija",
+    "rutulys"
+  ],
+  "white_exclamation_mark": [
+    "baltas šauktukas",
+    "kontūras",
+    "šauktukas",
+    "skyryba",
+    "žymė"
+  ],
+  "white_flag": [
+    "balta vėliava",
+    "mojavimas"
+  ],
+  "white_flower": [
+    "balta gėlė",
+    "gėlė"
+  ],
+  "white_heart": [
+    "balta",
+    "širdelė"
+  ],
+  "white_large_square": [
+    "baltas didelis kvadratas",
+    "geometrija",
+    "kvadratas"
+  ],
+  "white_medium_small_square": [
+    "baltas vidutiniškai mažas kvadratas",
+    "geometrija",
+    "kvadratas"
+  ],
+  "white_medium_square": [
+    "baltas vidutinis kvadratas",
+    "geometrija",
+    "kvadratas"
+  ],
+  "white_question_mark": [
+    "baltas klaustukas",
+    "klausimas",
+    "kontūras",
+    "skyryba",
+    "žymė"
+  ],
+  "white_small_square": [
+    "baltas mažas kvadratas",
+    "geometrija",
+    "kvadratas"
+  ],
+  "white_square_button": [
+    "baltas kvadratinis mygtukas",
+    "geometrija",
+    "kontūras",
+    "kvadratas",
+    "mygtukas"
+  ],
+  "wilted_flower": [
+    "gėlė",
+    "gležna"
+  ],
+  "wind_chime": [
+    "skambėti",
+    "šventė",
+    "varpelis",
+    "vėjas",
+    "vėjo varpeliai"
+  ],
+  "wind_face": [
+    "debesis",
+    "pūsti",
+    "veidas",
+    "vėjas",
+    "vėjo veidas"
+  ],
+  "window": [
+    "atvėrimas",
+    "langas",
+    "perregimas",
+    "rėmas",
+    "šviežias oras",
+    "vaizdas"
+  ],
+  "wine_glass": [
+    "baras",
+    "gėrimas",
+    "gerti",
+    "taurė",
+    "vynas",
+    "vyno taurė"
+  ],
+  "wink": [
+    "mirksintis veidas",
+    "mirktelėjimas",
+    "veidas"
+  ],
+  "winking_face_with_tongue": [
+    "akis",
+    "liežuvis",
+    "mirksnis",
+    "pokštas",
+    "veidas",
+    "veidas su iškištu liežuviu ir viena primerkta akimi"
+  ],
+  "wolf": [
+    "veidas",
+    "vilkas",
+    "vilko snukis"
+  ],
+  "woman": [
+    "moteris"
+  ],
+  "woman_and_man_holding_hands": [
+    "laikyti",
+    "moteris",
+    "pora",
+    "ranka",
+    "vyras",
+    "vyras ir moteris, susikibę už rankų"
+  ],
+  "woman_artist": [
+    "dailininkė",
+    "moteris",
+    "paletė"
+  ],
+  "woman_astronaut": [
+    "astronautė",
+    "moteris",
+    "raketa"
+  ],
+  "woman_bald": [
+    "moteris",
+    "plikas"
+  ],
+  "woman_biking": [
+    "dviratininkė",
+    "dviratis",
+    "moteris",
+    "važinėjimas dviračiu"
+  ],
+  "woman_bouncing_ball": [
+    "kamuolys",
+    "moteris",
+    "moteris su kamuoliu"
+  ],
+  "woman_bowing": [
+    "apgailestavimas",
+    "atsiprašymas",
+    "gestas",
+    "moteris",
+    "nusilenkianti moteris",
+    "nusilenkimas",
+    "paslauga"
+  ],
+  "woman_cartwheeling": [
+    "gimnastika",
+    "moteris",
+    "moteris daro suktuką",
+    "suktukas"
+  ],
+  "woman_climbing": [
+    "kopianti moteris"
+  ],
+  "woman_cook": [
+    "moteris",
+    "šefė",
+    "virėja"
+  ],
+  "woman_curly_hair": [
+    "garbanoti plaukai",
+    "moteris"
+  ],
+  "woman_dancing": [
+    "moteris",
+    "šokanti moteris",
+    "šokis"
+  ],
+  "woman_detective": [
+    "detektyvė",
+    "moteris",
+    "seklė",
+    "šnipė"
+  ],
+  "woman_elf": [
+    "elfė",
+    "magiška"
+  ],
+  "woman_facepalming": [
+    "moteris",
+    "netikėjimas",
+    "susierzinimas",
+    "susierzinusi moteris"
+  ],
+  "woman_factory_worker": [
+    "darbuotoja",
+    "fabrikas",
+    "fabriko darbininkė",
+    "gamyba",
+    "moteris",
+    "susirinkimas"
+  ],
+  "woman_fairy": [
+    "moteris fėja",
+    "titania"
+  ],
+  "woman_farmer": [
+    "darbininkė",
+    "moteris",
+    "sodininkė",
+    "ūkininkė"
+  ],
+  "woman_feeding_baby": [
+    "kūdikį maitinanti moteris",
+    "kūdikis",
+    "maitinimas",
+    "maitinimas krūtimi",
+    "moteris"
+  ],
+  "woman_firefighter": [
+    "gaisrininkė",
+    "gaisrininkų automobilis",
+    "moteris"
+  ],
+  "woman_frowning": [
+    "gestas",
+    "moteris",
+    "paniurusi"
+  ],
+  "woman_genie": [
+    "džinė"
+  ],
+  "woman_gesturing_no": [
+    "draudžiama",
+    "draudžianti moteris",
+    "gestas",
+    "moteris",
+    "neleistina"
+  ],
+  "woman_gesturing_ok": [
+    "gerai",
+    "gestas",
+    "leidžianti moteris",
+    "moteris",
+    "ranka"
+  ],
+  "woman_getting_haircut": [
+    "apkerpama moteris",
+    "kirpimas",
+    "moteris"
+  ],
+  "woman_getting_massage": [
+    "masažas",
+    "masažuojama moters galva",
+    "moteris",
+    "veidas"
+  ],
+  "woman_golfing": [
+    "golfas",
+    "golfo žaidėja",
+    "moteris"
+  ],
+  "woman_guard": [
+    "moteris",
+    "sargybinė"
+  ],
+  "woman_health_worker": [
+    "gydytoja",
+    "medikė",
+    "moteris",
+    "seselė",
+    "sveikata",
+    "terapeutė"
+  ],
+  "woman_in_lotus_position": [
+    "joga",
+    "meditacija",
+    "moteris lotoso pozoje"
+  ],
+  "woman_in_manual_wheelchair": [
+    "moteris",
+    "moteris rankomis valdomame vežimėlyje",
+    "prieinamumas",
+    "vežimėlis"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "moteris",
+    "moteris motorizuotame vežimėlyje",
+    "prieinamumas",
+    "vežimėlis"
+  ],
+  "woman_in_steamy_room": [
+    "garų kambarys",
+    "moteris garų kambaryje",
+    "sauna"
+  ],
+  "woman_in_tuxedo": [
+    "moteris",
+    "moteris su smokingu",
+    "smokingas"
+  ],
+  "woman_judge": [
+    "moteris",
+    "svarstyklės",
+    "teisėja",
+    "teisingumas"
+  ],
+  "woman_juggling": [
+    "moteris",
+    "sudėtinga",
+    "žongliravimas",
+    "žongliruotoja"
+  ],
+  "woman_kneeling": [
+    "klūpanti",
+    "moteris"
+  ],
+  "woman_lifting_weights": [
+    "kelianti svorį",
+    "moteris",
+    "svorius kelianti moteris"
+  ],
+  "woman_mage": [
+    "kerėtoja",
+    "magė",
+    "ragana"
+  ],
+  "woman_mechanic": [
+    "elektrikė",
+    "mechanikė",
+    "moteris",
+    "prekybininkė",
+    "santechnikė"
+  ],
+  "woman_mountain_biking": [
+    "dviratininkė",
+    "dviratis",
+    "kalnas",
+    "kalnų dviratininkė moteris",
+    "moteris",
+    "važinėjimas dviračiu"
+  ],
+  "woman_office_worker": [
+    "architektė",
+    "biuro darbuotoja",
+    "darbas įstaigoje",
+    "moteris",
+    "vadybininkė",
+    "verslas"
+  ],
+  "woman_pilot": [
+    "lėktuvas",
+    "moteris",
+    "pilotė"
+  ],
+  "woman_playing_handball": [
+    "moteris",
+    "rankininkė",
+    "rankinis"
+  ],
+  "woman_playing_water_polo": [
+    "moteris",
+    "vandensvydis",
+    "vandensvydžio žaidėja"
+  ],
+  "woman_police_officer": [
+    "moteris",
+    "pareigūnė",
+    "policija",
+    "policininkė"
+  ],
+  "woman_pouting": [
+    "gestas",
+    "moteris",
+    "susiraukusi"
+  ],
+  "woman_raising_hand": [
+    "gestas",
+    "moteris",
+    "pakelta ranka",
+    "ranką iškėlusi moteris"
+  ],
+  "woman_red_hair": [
+    "moteris",
+    "raudoni plaukai"
+  ],
+  "woman_rowing_boat": [
+    "irkluotoja",
+    "moteris",
+    "valtis"
+  ],
+  "woman_running": [
+    "bėganti moteris",
+    "bėgimas",
+    "lenktynės",
+    "maratonas",
+    "moteris"
+  ],
+  "woman_s_boot": [
+    "batas",
+    "batelis",
+    "drabužiai",
+    "moteris",
+    "moteriškas batas"
+  ],
+  "woman_s_clothes": [
+    "drabužiai",
+    "moteris",
+    "moteriški drabužiai"
+  ],
+  "woman_s_hat": [
+    "drabužiai",
+    "moteris",
+    "moteriška skrybėlė",
+    "skrybėlė"
+  ],
+  "woman_s_sandal": [
+    "batas",
+    "drabužiai",
+    "moteris",
+    "moteriška basutė",
+    "sandalas"
+  ],
+  "woman_scientist": [
+    "biologė",
+    "chemikė",
+    "fizikė",
+    "inžinierė",
+    "matematikė",
+    "mokslininkė",
+    "moteris"
+  ],
+  "woman_shrugging": [
+    "abejingumas",
+    "abejojanti moteris",
+    "abejonė",
+    "moteris",
+    "nežinojimas",
+    "trūkčioti pečiais"
+  ],
+  "woman_singer": [
+    "aktorė",
+    "dainininkė",
+    "moteris",
+    "rokas",
+    "žvaigždė"
+  ],
+  "woman_standing": [
+    "moteris",
+    "stovinti"
+  ],
+  "woman_student": [
+    "absolventė",
+    "moteris",
+    "studentė"
+  ],
+  "woman_superhero": [
+    "geras",
+    "herojė",
+    "herojus",
+    "moteris",
+    "moteris superherojė",
+    "supergalia"
+  ],
+  "woman_supervillain": [
+    "bloga",
+    "moteris",
+    "nusikaltėlė",
+    "piktadarė",
+    "supergalia"
+  ],
+  "woman_surfing": [
+    "banglenčių sportas",
+    "banglentininkė",
+    "moteris"
+  ],
+  "woman_swimming": [
+    "moteris",
+    "plaukikė",
+    "plaukimas"
+  ],
+  "woman_teacher": [
+    "dėstytoja",
+    "mokytoja",
+    "moteris",
+    "profesorė"
+  ],
+  "woman_technologist": [
+    "išradėja",
+    "kūrėja",
+    "moteris",
+    "programinė įranga",
+    "programuotoja",
+    "technologė"
+  ],
+  "woman_tipping_hand": [
+    "gyvas",
+    "lengvai pakelta ranka",
+    "moteris",
+    "ranką pakėlusi moteris"
+  ],
+  "woman_vampire": [
+    "nemirtingas",
+    "vampyrė"
+  ],
+  "woman_walking": [
+    "einanti moteris",
+    "eiti",
+    "moteris",
+    "žygiuoti"
+  ],
+  "woman_wearing_turban": [
+    "moteris",
+    "moteris su turbanu",
+    "turbanas"
+  ],
+  "woman_white_hair": [
+    "moteris",
+    "žili plaukai"
+  ],
+  "woman_with_headscarf": [
+    "moteris su skarele",
+    "skarelė"
+  ],
+  "woman_with_veil": [
+    "moteris",
+    "moteris su veliumu",
+    "veliumas"
+  ],
+  "woman_with_white_cane": [
+    "akla",
+    "moteris",
+    "moteris su neregio lazdele",
+    "prieinamumas"
+  ],
+  "woman_zombie": [
+    "nemirtinga",
+    "vaikštanti numirėlė",
+    "zombė"
+  ],
+  "women_holding_hands": [
+    "dvi moterys, susikibusios už rankų",
+    "laikyti",
+    "moteris",
+    "pora",
+    "ranka"
+  ],
+  "women_s_room": [
+    "moteris",
+    "moterų tualetas",
+    "tualetas",
+    "wc"
+  ],
+  "women_with_bunny_ears": [
+    "kiškio ausytės",
+    "moteris",
+    "moterys",
+    "šokėja",
+    "vakarėlis",
+    "vakarėlyje dalyvaujančios moterys"
+  ],
+  "women_wrestling": [
+    "imtynės",
+    "moteris",
+    "moterų imtynės"
+  ],
+  "wood": [
+    "mediena",
+    "rąstas"
+  ],
+  "woozy_face": [
+    "apkvaišęs veidas",
+    "apsvaigęs",
+    "banguojanti burna",
+    "įkaušęs",
+    "nelygios akys"
+  ],
+  "world_map": [
+    "pasaulio žemėlapis",
+    "pasaulis",
+    "žemėlapis"
+  ],
+  "worm": [
+    "kirmėlė",
+    "kirmėlės",
+    "parazitai",
+    "sliekai"
+  ],
+  "worried": [
+    "susirūpinęs",
+    "veidas"
+  ],
+  "wrapped_gift": [
+    "dėžutė",
+    "dovana",
+    "supakuota dovana",
+    "suvyniota",
+    "šventė"
+  ],
+  "wrench": [
+    "įrankis",
+    "veržliaraktis"
+  ],
+  "writing_hand": [
+    "ranka",
+    "rašanti ranka",
+    "rašyti"
+  ],
+  "yarn": [
+    "kamuolys",
+    "megzti",
+    "nerti",
+    "siūlų kamuolys"
+  ],
+  "yawning_face": [
+    "nuobodžiaujantis",
+    "pavargęs",
+    "žiovaujantis veidas",
+    "žiovauti"
+  ],
+  "yellow_circle": [
+    "apskritimas",
+    "geltonas"
+  ],
+  "yellow_heart": [
+    "geltona",
+    "geltona širdelė"
+  ],
+  "yellow_square": [
+    "geltonas",
+    "kvadratas"
+  ],
+  "yemen": [
+    "vėliava"
+  ],
+  "yen_banknote": [
+    "bankas",
+    "banknotas",
+    "jena",
+    "jenos banknotas",
+    "pinigai",
+    "valiuta"
+  ],
+  "yin_yang": [
+    "in",
+    "in ir jang",
+    "jang",
+    "religija",
+    "tao",
+    "taoizmas"
+  ],
+  "yoyo": [
+    "jo-jo",
+    "svyruojantis",
+    "žaislas"
+  ],
+  "zambia": [
+    "vėliava"
+  ],
+  "zany_face": [
+    "akis",
+    "didelis",
+    "mažas",
+    "pamišęs veidas"
+  ],
+  "zebra": [
+    "dryžis",
+    "zebras"
+  ],
+  "zero": [
+    "mygtukas"
+  ],
+  "zimbabwe": [
+    "vėliava"
+  ],
+  "zipper_mouth_face": [
+    "burna",
+    "užtrauktukas",
+    "veidas",
+    "veidas su užtrauktuku vietoje burnos"
+  ],
+  "zombie": [
+    "nemirtingas",
+    "vaikštantis numirėlis",
+    "zombis"
+  ],
+  "zzz": [
+    "komiksas",
+    "miegas",
+    "miego simbolis"
+  ],
+  "åland_islands": [
+    "vėliava"
+  ]
+}

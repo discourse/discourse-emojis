@@ -6,7 +6,11 @@
     "beğendim",
     "başparmak",
     "evet",
-    "anlaştık"
+    "anlaştık",
+    "baş parmak",
+    "baş parmak yukarıda",
+    "işaret",
+    "yukarı"
   ],
   "-1": [
     "işaret",
@@ -17,12 +21,16 @@
     "baş parmak aşağıda"
   ],
   "100": [
-    "yüz"
+    "yüz",
+    "100 puan",
+    "skor",
+    "yüz puan"
   ],
   "1234": [
     "sayılar",
     "sayı tuşu",
-    "sayı"
+    "sayı",
+    "sayı girişi"
   ],
   "1st_place_medal": [
     "spor",
@@ -51,24 +59,47 @@
     "kan grubu",
     "a düğmesi (kan grubu)",
     "kan a",
-    "a"
+    "a",
+    "a grubu kan",
+    "kan grubu a"
   ],
   "ab_button_blood_type": [
     "kan",
     "kan grubu",
     "ab düğmesi (kan grubu)",
-    "ab kan"
+    "ab kan",
+    "ab",
+    "ab grubu kan",
+    "kan grubu ab"
   ],
   "abacus": [
-    "abaküs"
+    "abaküs",
+    "hesaplama"
+  ],
+  "accordion": [
+    "akordeon",
+    "akordiyon"
+  ],
+  "adhesive_bandage": [
+    "bandaj",
+    "bant",
+    "yapışkanlı bandaj",
+    "yara bandı"
   ],
   "admission_tickets": [
     "etkinlik",
     "bilet",
-    "giriş bileti"
+    "giriş bileti",
+    "giriş"
   ],
   "aerial_tramway": [
-    "teleferik"
+    "teleferik",
+    "gondol",
+    "hava tramvayı",
+    "havadan yol",
+    "kablo yolu",
+    "taşıt",
+    "tramvay"
   ],
   "afghanistan": [
     "bayrak",
@@ -79,7 +110,8 @@
   "airplane": [
     "seyahat",
     "jet",
-    "uçak"
+    "uçak",
+    "taşıt"
   ],
   "airplane_arrival": [
     "seyahat",
@@ -87,7 +119,10 @@
     "uçak",
     "varış",
     "iniş",
-    "uçak varışı"
+    "uçak varışı",
+    "inen uçak",
+    "inme",
+    "taşıt"
   ],
   "airplane_departure": [
     "seyahat",
@@ -95,7 +130,10 @@
     "uçak",
     "kalkış",
     "havalanmak",
-    "uçak kalkışı"
+    "uçak kalkışı",
+    "check in",
+    "kalkan uçak",
+    "taşıt"
   ],
   "alarm_clock": [
     "saat",
@@ -108,19 +146,33 @@
     "arnavutluk",
     "al"
   ],
+  "alembic": [
+    "alet",
+    "damıtıcı",
+    "imbik",
+    "kimya"
+  ],
+  "algeria": [
+    "bayrak"
+  ],
   "alien": [
     "uzaylı",
     "fantastik",
     "ufo",
     "yaratık",
-    "dünya dışı"
+    "dünya dışı",
+    "yüz"
   ],
   "alien_monster": [
     "ufo",
     "uzaylı istilacı",
     "canavar",
     "uzaylı canavar",
-    "yabancı"
+    "yabancı",
+    "dünya dışı",
+    "uzaylı",
+    "yaratık",
+    "yüz"
   ],
   "ambulance": [
     "taşıt",
@@ -129,35 +181,77 @@
   "american_football": [
     "spor",
     "top",
-    "amerikan futbolu"
+    "amerikan futbolu",
+    "amerikan"
+  ],
+  "american_samoa": [
+    "bayrak"
+  ],
+  "amphora": [
+    "alet",
+    "amfora",
+    "antika",
+    "içecek",
+    "kap",
+    "silah"
   ],
   "anatomical_heart": [
     "kalp",
-    "organ"
+    "organ",
+    "kalp atışı",
+    "kardiyoloji",
+    "merkez",
+    "nabız"
   ],
   "anchor": [
     "gemi çapası",
-    "çapa"
+    "çapa",
+    "çıpa",
+    "gemi",
+    "işaret"
+  ],
+  "andorra": [
+    "bayrak"
+  ],
+  "anger_symbol": [
+    "çizgi roman",
+    "duygu",
+    "öfke işareti",
+    "öfke simgesi",
+    "öfkeli"
+  ],
+  "angola": [
+    "bayrak"
   ],
   "angry": [
     "öfkeli",
     "öfke",
     "deli gibi",
-    "öfkeli yüz"
+    "öfkeli yüz",
+    "yüz"
   ],
   "angry_face_with_horns": [
     "boynuz",
     "şeytan",
-    "boynuzlu kızgın yüz"
+    "boynuzlu kızgın yüz",
+    "küçük şeytan",
+    "yüz"
+  ],
+  "anguilla": [
+    "bayrak"
   ],
   "anguished_face": [
     "acı çeken",
     "kederli yüz",
-    "şaşırma"
+    "şaşırma",
+    "yüz"
   ],
   "ant": [
     "böcek",
     "karınca"
+  ],
+  "antarctica": [
+    "bayrak"
   ],
   "antenna_bars": [
     "telefon",
@@ -167,6 +261,9 @@
     "çubuk işaretli anten",
     "sinyal"
   ],
+  "antigua_barbuda": [
+    "bayrak"
+  ],
   "anxious_face_with_sweat": [
     "yüz",
     "terli ve endişeli yüz",
@@ -175,6 +272,10 @@
     "soğuk ter döken mavi yüz",
     "soğuk ter",
     "çok üzgün"
+  ],
+  "aquarius": [
+    "burçlar",
+    "kova burcu"
   ],
   "argentina": [
     "bayrak",
@@ -201,7 +302,9 @@
   ],
   "artist": [
     "çizim",
-    "ressam"
+    "ressam",
+    "palet",
+    "sanatçı"
   ],
   "artist_palette": [
     "palet",
@@ -211,12 +314,22 @@
     "sanat",
     "sanatçı paleti"
   ],
+  "aruba": [
+    "bayrak"
+  ],
+  "ascension_island": [
+    "bayrak"
+  ],
+  "asterisk": [
+    "tuş"
+  ],
   "astonished_face": [
     "tamamen şoke olmuş",
     "hayret içinde",
     "şoke olmuş",
     "afallamış",
-    "şaşkın"
+    "şaşkın",
+    "yüz"
   ],
   "astronaut": [
     "roket",
@@ -231,11 +344,29 @@
     "banka",
     "atm işareti",
     "ulaşım işareti",
-    "atm"
+    "atm",
+    "otomatik",
+    "vezne"
+  ],
+  "atom_symbol": [
+    "ateist",
+    "atom",
+    "atom sembolü"
+  ],
+  "australia": [
+    "bayrak"
+  ],
+  "austria": [
+    "bayrak"
+  ],
+  "auto_rickshaw": [
+    "elektrikli çekçek",
+    "tuk tuk"
   ],
   "automobile": [
     "araba",
-    "otomobil"
+    "otomobil",
+    "taşıt"
   ],
   "avocado": [
     "meyve",
@@ -244,7 +375,11 @@
   ],
   "axe": [
     "balta",
-    "oduncu"
+    "oduncu",
+    "ağaç",
+    "kesme",
+    "kısa balta",
+    "yarma"
   ],
   "azerbaijan": [
     "bayrak",
@@ -259,7 +394,10 @@
     "kan grubu",
     "b kan",
     "kan b",
-    "b"
+    "b",
+    "b grubu (kan grubu)",
+    "b grubu kan",
+    "kan grubu b"
   ],
   "baby": [
     "kişiler",
@@ -269,7 +407,9 @@
   "baby_angel": [
     "bebek",
     "melek",
-    "bebek melek"
+    "bebek melek",
+    "peri masalı",
+    "yüz"
   ],
   "baby_bottle": [
     "erkek",
@@ -289,7 +429,22 @@
   "baby_chick": [
     "tavuk",
     "kuş",
-    "civciv"
+    "civciv",
+    "hayvan",
+    "piliç",
+    "yavru"
+  ],
+  "baby_symbol": [
+    "bebek",
+    "bebek alt değiştirme yeri",
+    "bebek işareti",
+    "bebek teknede"
+  ],
+  "back_arrow": [
+    "geri oku",
+    "ok",
+    "sol geri ok",
+    "sol ok"
   ],
   "backhand_index_pointing_down": [
     "işaret parmağı",
@@ -321,7 +476,9 @@
   ],
   "backpack": [
     "okul",
-    "okul çantası"
+    "okul çantası",
+    "okul sırt çantası",
+    "sırt çantası"
   ],
   "bacon": [
     "yiyecek",
@@ -354,11 +511,32 @@
     "fransız",
     "baget"
   ],
+  "bahamas": [
+    "bayrak"
+  ],
+  "bahrain": [
+    "bayrak"
+  ],
+  "balance_scale": [
+    "adalet",
+    "ağırlık",
+    "alet",
+    "burç",
+    "denge",
+    "ölçek",
+    "terazi"
+  ],
+  "ballet_shoes": [
+    "bale",
+    "bale ayakkabıları",
+    "dans"
+  ],
   "balloon": [
     "etkinlik",
     "balon",
     "etkinlikler",
-    "balonlar"
+    "balonlar",
+    "kutlama"
   ],
   "ballot_box_with_ballot": [
     "sandık",
@@ -369,24 +547,50 @@
     "meyve",
     "muz"
   ],
+  "bangladesh": [
+    "bayrak"
+  ],
+  "banjo": [
+    "müzik",
+    "yaylı"
+  ],
   "bank": [
     "yapı",
     "banka",
-    "dolar"
+    "dolar",
+    "bina"
   ],
   "bar_chart": [
     "grafik",
     "çubuk grafiği"
+  ],
+  "barbados": [
+    "bayrak"
+  ],
+  "barber_pole": [
+    "berber",
+    "berber dükkanı",
+    "berber işareti",
+    "işaret"
   ],
   "baseball": [
     "spor",
     "top",
     "beyzbol"
   ],
+  "basket": [
+    "çamaşır",
+    "çiftçilik",
+    "piknik",
+    "sepet"
+  ],
   "basketball": [
     "spor",
     "basket",
-    "basketbol"
+    "basketbol",
+    "basketbol potası",
+    "pota",
+    "top"
   ],
   "bat": [
     "hayvan",
@@ -395,7 +599,8 @@
   ],
   "bathtub": [
     "banyo",
-    "küvet"
+    "küvet",
+    "banyo küveti"
   ],
   "battery": [
     "şarj etmek",
@@ -406,7 +611,9 @@
   "beach_with_umbrella": [
     "şemsiye",
     "plaj şemsiyesi",
-    "plaj"
+    "plaj",
+    "kumsal",
+    "plaj ve şemsiye"
   ],
   "beans": [
     "fasulye"
@@ -418,15 +625,22 @@
     "ayı"
   ],
   "beating_heart": [
-    "kalp"
+    "kalp",
+    "aşk",
+    "çarpan kalp",
+    "duygu"
   ],
   "beaver": [
     "hayvan",
-    "sincap"
+    "sincap",
+    "baraj",
+    "kunduz"
   ],
   "bed": [
     "yatak",
-    "uyku"
+    "uyku",
+    "otel",
+    "uyuma"
   ],
   "beer_mug": [
     "restoran",
@@ -451,18 +665,36 @@
     "belçika",
     "belçika bayrağı"
   ],
+  "belize": [
+    "bayrak"
+  ],
   "bell": [
-    "zil"
+    "zil",
+    "çan",
+    "kilise"
   ],
   "bell_pepper": [
     "sebze",
     "yiyecek",
     "dolmalık biber",
-    "dolma"
+    "dolma",
+    "biber",
+    "dolma biber"
+  ],
+  "bell_with_slash": [
+    "çan",
+    "iptal işaretli çan",
+    "ses yok",
+    "üzeri çizili zil"
   ],
   "bellhop_bell": [
     "otel",
-    "zil"
+    "zil",
+    "çan",
+    "resepsiyon zili"
+  ],
+  "benin": [
+    "bayrak"
   ],
   "bento_box": [
     "restoran",
@@ -470,9 +702,17 @@
     "bento paketi",
     "paket"
   ],
+  "bermuda": [
+    "bayrak"
+  ],
   "beverage_box": [
     "içecek",
-    "meyve suyu"
+    "meyve suyu",
+    "içecek kutusu",
+    "kutu meyve suyu"
+  ],
+  "bhutan": [
+    "bayrak"
   ],
   "bicycle": [
     "taşıt",
@@ -487,8 +727,13 @@
     "mavi şapka",
     "siperli şapka"
   ],
+  "biohazard": [
+    "biyolojik tehlike",
+    "sembol"
+  ],
   "bird": [
-    "kuş"
+    "kuş",
+    "hayvan"
   ],
   "birthday_cake": [
     "kutlama",
@@ -511,21 +756,29 @@
     "hayvan",
     "kedi",
     "siyah kedi",
-    "kara kedi"
+    "kara kedi",
+    "kara",
+    "uğursuz"
   ],
   "black_circle": [
     "top",
     "küre",
     "siyah",
     "siyah top",
-    "siyah küre"
+    "siyah küre",
+    "daire",
+    "geometri",
+    "siyah daire"
   ],
   "black_flag": [
     "bayrak",
     "siyah bayrak"
   ],
   "black_heart": [
-    "kalp"
+    "kalp",
+    "fena",
+    "kötü",
+    "siyah"
   ],
   "black_large_square": [
     "geometri",
@@ -542,6 +795,10 @@
     "kare",
     "orta boy siyah kare"
   ],
+  "black_nib": [
+    "kalem",
+    "siyah uç"
+  ],
   "black_small_square": [
     "geometri",
     "kare",
@@ -555,13 +812,16 @@
   "blonde_man": [
     "sarışın kişi",
     "sarışın",
-    "sarışın erkek"
+    "sarışın erkek",
+    "adam",
+    "erkek"
   ],
   "blonde_woman": [
     "kadın",
     "sarışın kadın",
     "sarışın kişi",
-    "sarışın"
+    "sarışın",
+    "bayan"
   ],
   "blossom": [
     "çiçek",
@@ -582,10 +842,15 @@
     "mavi",
     "mavi top",
     "küre",
-    "mavi küre"
+    "mavi küre",
+    "büyük mavi çember",
+    "çember",
+    "mavi daire"
   ],
   "blue_heart": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "mavi"
   ],
   "blue_square": [
     "mavi",
@@ -593,38 +858,71 @@
   ],
   "blueberries": [
     "yaban mersini",
-    "dut"
+    "dut",
+    "dağ mersini",
+    "mavi",
+    "mersin"
   ],
   "blush": [
     "gülümseme",
     "utangaç",
     "mutlu",
     "kızarmış",
-    "utanmış"
+    "utanmış",
+    "ağzı açık gülme",
+    "gülümseyen gözler",
+    "gülümseyen yüz",
+    "gülümseyen yüz ve gözler",
+    "yüz"
   ],
   "boar": [
     "domuz",
     "yaban domuzu"
   ],
+  "bolivia": [
+    "bayrak"
+  ],
   "bomb": [
     "patlama",
     "bam",
     "bum",
-    "bomba"
+    "bomba",
+    "çizgi roman",
+    "duygu"
   ],
   "bone": [
     "kemik",
     "iskelet"
   ],
+  "bookmark": [
+    "işaret",
+    "yer işareti"
+  ],
+  "bookmark_tabs": [
+    "ayraçlar",
+    "işaretçi",
+    "sayfa ayraçları",
+    "sayfa işareti"
+  ],
   "books": [
     "kitaplar",
     "kitap"
+  ],
+  "boomerang": [
+    "avustralya",
+    "bumerang",
+    "geri tepme",
+    "sekme",
+    "tepki"
   ],
   "bosnia_herzegovina": [
     "bayrak",
     "bosna hersek bayrağı",
     "bosna hersek",
     "ba"
+  ],
+  "botswana": [
+    "bayrak"
   ],
   "bottle_with_popping_cork": [
     "bar",
@@ -637,6 +935,9 @@
     "çiçek",
     "buket",
     "romantizm"
+  ],
+  "bouvet_island": [
+    "bayrak"
   ],
   "bow_and_arrow": [
     "burç",
@@ -656,7 +957,9 @@
   "bowling": [
     "spor",
     "top",
-    "bovling"
+    "bovling",
+    "bovling topu",
+    "oyun"
   ],
   "boxing_glove": [
     "spor",
@@ -675,9 +978,13 @@
     "akıllı",
     "zeki"
   ],
+  "brazil": [
+    "bayrak"
+  ],
   "bread": [
     "ekmek",
-    "ekmek dilimi"
+    "ekmek dilimi",
+    "restoran"
   ],
   "breast_feeding": [
     "emzirme",
@@ -686,7 +993,15 @@
     "emziren kadın"
   ],
   "brick": [
-    "tuğla"
+    "tuğla",
+    "duvar",
+    "harç",
+    "kil",
+    "tuğlalar"
+  ],
+  "bridge_at_night": [
+    "gece",
+    "gece vakti köprü"
   ],
   "briefcase": [
     "evrak çantası"
@@ -697,32 +1012,61 @@
     "mayo",
     "slip"
   ],
+  "bright_button": [
+    "parlak",
+    "parlaklık",
+    "yüksek parlaklık",
+    "yüksek parlaklık işareti"
+  ],
+  "british_indian_ocean_territory": [
+    "bayrak"
+  ],
+  "british_virgin_islands": [
+    "bayrak"
+  ],
   "broccoli": [
     "brokoli",
     "yabani lahana"
   ],
   "broken_heart": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "kırık kalp",
+    "kırılmış",
+    "kırma"
   ],
   "broom": [
     "süpürge",
     "süpürme",
-    "temizlik"
+    "temizlik",
+    "cadı"
   ],
   "brown_circle": [
     "top",
     "kahverengi",
     "küre",
     "kahverengi küre",
-    "kahverengi top"
+    "kahverengi top",
+    "daire"
   ],
   "brown_heart": [
     "kalp",
-    "kahverengi kalp"
+    "kahverengi kalp",
+    "kahverengi"
   ],
   "brown_square": [
     "kare",
     "kahverengi"
+  ],
+  "brunei": [
+    "bayrak"
+  ],
+  "bubble_tea": [
+    "baloncuk",
+    "çay",
+    "inci",
+    "inci çayı",
+    "süt"
   ],
   "bubbles": [
     "köpük",
@@ -730,7 +1074,10 @@
     "baloncuk"
   ],
   "bucket": [
-    "kova"
+    "kova",
+    "fıçı",
+    "kap",
+    "kepçe"
   ],
   "bug": [
     "hayvan",
@@ -751,7 +1098,12 @@
   ],
   "bullet_train": [
     "demiryolu",
-    "tren"
+    "tren",
+    "mermi burunlu",
+    "mermi burunlu shinkansen",
+    "shinkansen",
+    "taşıt",
+    "yuvarlak uçlu yüksek hızlı tren"
   ],
   "bullseye": [
     "tam isabet",
@@ -761,21 +1113,30 @@
     "hedef",
     "isabet"
   ],
+  "burkina_faso": [
+    "bayrak"
+  ],
   "burrito": [
     "burito",
     "meksika dürümü"
   ],
+  "burundi": [
+    "bayrak"
+  ],
   "bus": [
-    "otobüs"
+    "otobüs",
+    "taşıt"
   ],
   "bus_stop": [
     "otobüs durağı",
-    "durak"
+    "durak",
+    "otobüs"
   ],
   "bust_in_silhouette": [
     "siluet",
     "büst",
-    "büst silueti"
+    "büst silueti",
+    "kişiler"
   ],
   "busts_in_silhouette": [
     "kişiler",
@@ -784,7 +1145,9 @@
     "siluet büstler"
   ],
   "butter": [
-    "yağ"
+    "yağ",
+    "süt ürünü",
+    "tereyağı"
   ],
   "butterfly": [
     "böcek",
@@ -799,6 +1162,9 @@
     "el",
     "beni ara işareti",
     "ara"
+  ],
+  "cambodia": [
+    "bayrak"
   ],
   "camel": [
     "hayvan",
@@ -816,10 +1182,14 @@
     "flaş",
     "flaşlı fotoğraf makinesi"
   ],
+  "cameroon": [
+    "bayrak"
+  ],
   "camping": [
     "çadır",
     "kamp",
-    "kamp çadırı"
+    "kamp çadırı",
+    "kamp yapma"
   ],
   "canada": [
     "bayrak",
@@ -831,6 +1201,10 @@
     "kanarya adaları bayrağı",
     "ic",
     "kanarya adaları"
+  ],
+  "cancer": [
+    "burçlar",
+    "yengeç burcu"
   ],
   "candle": [
     "ışık",
@@ -848,11 +1222,53 @@
     "bot",
     "kano"
   ],
+  "cape_verde": [
+    "bayrak"
+  ],
+  "capricorn": [
+    "burçlar",
+    "oğlak burcu"
+  ],
+  "card_file_box": [
+    "dosya",
+    "dosya kutusu",
+    "kart",
+    "kutu"
+  ],
+  "card_index": [
+    "dizin",
+    "kart dizini",
+    "rolodeks"
+  ],
+  "card_index_dividers": [
+    "ayırıcı",
+    "dizin",
+    "dosya ayırıcı",
+    "kart"
+  ],
+  "caribbean_netherlands": [
+    "bayrak"
+  ],
+  "carousel_horse": [
+    "at",
+    "atlıkarınca",
+    "atlıkarınca atı",
+    "eğlence"
+  ],
   "carp_streamer": [
     "etkinlik",
     "olay",
     "bayraklar",
-    "sazan flama"
+    "sazan flama",
+    "flama",
+    "kutlama",
+    "sazan şekilli flama"
+  ],
+  "carpentry_saw": [
+    "alet",
+    "kereste",
+    "marangoz",
+    "testere"
   ],
   "carrot": [
     "sebze",
@@ -862,10 +1278,13 @@
   "castle": [
     "yapı",
     "avrupa kalesi",
-    "kale"
+    "kale",
+    "bina",
+    "şato"
   ],
   "cat": [
-    "kedi"
+    "kedi",
+    "hayvan"
   ],
   "cat_face": [
     "yüz",
@@ -881,11 +1300,63 @@
     "iğneleyici kedi yüzü",
     "iğneleyici",
     "iğneleyici gülümseme",
-    "kurnaz"
+    "kurnaz",
+    "ironik",
+    "yüz"
+  ],
+  "cayman_islands": [
+    "bayrak"
+  ],
+  "central_african_republic": [
+    "bayrak"
+  ],
+  "ceuta_melilla": [
+    "bayrak"
+  ],
+  "chad": [
+    "bayrak"
+  ],
+  "chains": [
+    "zincir"
   ],
   "chair": [
     "taht",
-    "sandalye"
+    "sandalye",
+    "iskemle",
+    "oturma"
+  ],
+  "chart_decreasing": [
+    "alçalan grafik",
+    "aşağı yönlü",
+    "grafik",
+    "iniş grafiği"
+  ],
+  "chart_increasing": [
+    "artış grafiği",
+    "grafik",
+    "yukarı yönlü",
+    "yükselen grafik"
+  ],
+  "chart_increasing_with_yen": [
+    "grafik",
+    "piyasa",
+    "yen simgeli artış grafiği",
+    "yukarı giden grafik",
+    "yukarı yönlü"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "kutu",
+    "kutulu",
+    "onay",
+    "seçili onay işareti",
+    "seçilmiş onay kutusu"
+  ],
+  "check_mark": [
+    "✓",
+    "işaret",
+    "onay",
+    "onay işareti"
   ],
   "cheese_wedge": [
     "peynir",
@@ -930,6 +1401,15 @@
     "çocuk",
     "genç"
   ],
+  "children_crossing": [
+    "çocuklar",
+    "işaret",
+    "karşıya geçen çocuklar",
+    "karşıya geçiş"
+  ],
+  "chile": [
+    "bayrak"
+  ],
   "china": [
     "bayrak",
     "çin",
@@ -948,6 +1428,9 @@
   "chopsticks": [
     "yemek çubukları"
   ],
+  "christmas_island": [
+    "bayrak"
+  ],
   "christmas_tree": [
     "etkinlik",
     "kutlama",
@@ -959,36 +1442,79 @@
   "church": [
     "yapı",
     "din",
-    "kilise"
+    "kilise",
+    "haç",
+    "hristiyan"
   ],
   "cigarette": [
-    "sigara"
+    "sigara",
+    "işaret",
+    "sigara içilebilir",
+    "sigara içme"
   ],
   "cinema": [
     "film",
-    "sinema"
+    "sinema",
+    "eğlence",
+    "film işareti"
   ],
   "circled_m": [
     "metro",
     "m",
-    "daire içine alınmış m"
+    "daire içine alınmış m",
+    "daire",
+    "daire içinde m harfi"
   ],
   "circus_tent": [
     "eğlence",
     "çadır",
     "sirk çadırı"
   ],
+  "cityscape": [
+    "bina",
+    "şehir",
+    "şehir manzarası"
+  ],
+  "cityscape_at_dusk": [
+    "akşam",
+    "alacakaranlık",
+    "bina",
+    "gün batımı",
+    "manzara",
+    "şehir",
+    "şehirde alacakaranlık"
+  ],
+  "cl_button": [
+    "cl",
+    "cl düğmesi",
+    "cl işareti",
+    "sil"
+  ],
+  "clamp": [
+    "alet",
+    "mengene",
+    "sıkıştırma"
+  ],
   "clap": [
     "bravo",
     "eller",
     "elleri çırpmak",
-    "alkış"
+    "alkış",
+    "çırpma",
+    "el çırpma",
+    "işaret"
   ],
   "clapper_board": [
     "film",
     "eğlence",
     "tahta",
     "film tahtası"
+  ],
+  "classical_building": [
+    "bina",
+    "klasik",
+    "tarihi",
+    "tarihi yapı"
   ],
   "clinking_beer_mugs": [
     "restoran",
@@ -1006,9 +1532,29 @@
     "tokuşturma",
     "kadeh tokuşturma"
   ],
+  "clipboard": [
+    "pano"
+  ],
+  "clipperton_island": [
+    "bayrak"
+  ],
+  "clockwise_vertical_arrows": [
+    "oklar",
+    "saat yönünde dikey oklar",
+    "saat yönünde dönen oklar",
+    "saat yönüne dönen oklar",
+    "yeniden yükle işareti"
+  ],
   "closed_book": [
     "kitap",
     "kapalı kitap"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "işaret",
+    "işareti aşağıda kapalı posta kutusu",
+    "işareti indirilmiş posta kutusu",
+    "kapalı",
+    "posta"
   ],
   "closed_mailbox_with_raised_flag": [
     "posta",
@@ -1019,11 +1565,14 @@
   ],
   "closed_umbrella": [
     "şemsiye",
-    "kapalı şemsiye"
+    "kapalı şemsiye",
+    "yağmur",
+    "yağmurlu"
   ],
   "cloud": [
     "bulut",
-    "bulutlu"
+    "bulutlu",
+    "hava durumu"
   ],
   "cloud_with_lightning": [
     "hava durumu",
@@ -1057,7 +1606,8 @@
     "şebek",
     "palyaço",
     "palyaço yüzü",
-    "joker"
+    "joker",
+    "yüz"
   ],
   "club_suit": [
     "iskambil",
@@ -1066,7 +1616,9 @@
     "trefl"
   ],
   "clutch_bag": [
-    "çanta"
+    "çanta",
+    "giyim",
+    "para kesesi"
   ],
   "coat": [
     "kaban",
@@ -1088,7 +1640,11 @@
   ],
   "coconut": [
     "hindistan cevizi",
-    "pina colada"
+    "pina colada",
+    "palmiye"
+  ],
+  "cocos_keeling_islands": [
+    "bayrak"
   ],
   "coffin": [
     "huzur içinde yatsın",
@@ -1100,7 +1656,14 @@
   ],
   "coin": [
     "para",
-    "metal para"
+    "metal para",
+    "altın",
+    "bozuk para",
+    "gümüş",
+    "hazine",
+    "jeton",
+    "metal",
+    "sikke"
   ],
   "cold_face": [
     "buz sarkıtları",
@@ -1125,38 +1688,69 @@
   ],
   "comet": [
     "yıldız",
-    "kuyruklu yıldız"
+    "kuyruklu yıldız",
+    "uzay"
+  ],
+  "comoros": [
+    "bayrak"
   ],
   "compass": [
-    "pusula"
+    "pusula",
+    "manyetik",
+    "navigasyon",
+    "orienteering"
+  ],
+  "computer_disk": [
+    "disk",
+    "mini disk"
+  ],
+  "computer_mouse": [
+    "bilgisayar",
+    "bilgisayar faresi",
+    "düğme",
+    "fare"
   ],
   "confetti_ball": [
     "etkinlik",
     "kutlama",
     "konfeti topu",
     "etkinlikler",
-    "yaşasın"
+    "yaşasın",
+    "konfeti",
+    "top"
   ],
   "confounded_face": [
     "kafası çok karışık yüz",
-    "kafası çok karışmış"
+    "kafası çok karışmış",
+    "yüz"
   ],
   "confused": [
     "üzgün",
     "kafası karışık yüz",
     "mutsuz",
     "karamsar",
-    "kafası karışmış"
+    "kafası karışmış",
+    "yüz"
+  ],
+  "congo_brazzaville": [
+    "bayrak"
+  ],
+  "congo_kinshasa": [
+    "bayrak"
   ],
   "construction": [
     "taşıma işareti",
     "inşaat",
-    "ulaşım işareti"
+    "ulaşım işareti",
+    "inşaat işareti",
+    "işaret"
   ],
   "construction_worker": [
     "inşaatçı",
     "işçi",
-    "inşaat işçisi"
+    "inşaat işçisi",
+    "inşaat",
+    "kişiler"
   ],
   "construction_worker_man": [
     "erkek",
@@ -1169,7 +1763,14 @@
     "kadın",
     "işçi",
     "kadın inşaat işçisi",
-    "inşaat"
+    "inşaat",
+    "bayan"
+  ],
+  "control_knobs": [
+    "düğme",
+    "kontrol",
+    "kontrol düğmeleri",
+    "müzik"
   ],
   "convenience_store": [
     "market",
@@ -1180,6 +1781,9 @@
   "cook": [
     "yemek pişirme",
     "aşçı"
+  ],
+  "cook_islands": [
+    "bayrak"
   ],
   "cooked_rice": [
     "restoran",
@@ -1196,27 +1800,64 @@
     "yemek pişirme",
     "pişirme"
   ],
+  "cool_button": [
+    "cool düğmesi",
+    "harika",
+    "hoş",
+    "serin",
+    "serin işareti"
+  ],
   "copyright": [
     "telif",
-    "telif hakkı"
+    "telif hakkı",
+    "c",
+    "telif hakkı işareti"
+  ],
+  "costa_rica": [
+    "bayrak"
+  ],
+  "couch_and_lamp": [
+    "kanepe",
+    "kanepe ve lamba",
+    "lamba",
+    "otel"
+  ],
+  "counterclockwise_arrows_button": [
+    "oklar",
+    "saat yönünün tersinde dönen oklar",
+    "saat yönünün tersine",
+    "saat yönünün tersine dönen oklar"
   ],
   "couple_with_heart": [
     "çift",
     "kalp",
     "sevgi",
     "sevgili",
-    "aşk"
+    "aşk",
+    "kalpli çift",
+    "kişiler",
+    "romantizm",
+    "erkek",
+    "kadın"
   ],
   "couple_with_heart_man_man": [
     "çift",
     "kalp",
     "gay",
-    "sevgili"
+    "sevgili",
+    "erkek",
+    "kalpli çift",
+    "kişiler",
+    "romantizm"
   ],
   "couple_with_heart_woman_woman": [
     "çift",
     "kalp",
-    "sevgili"
+    "sevgili",
+    "kadın",
+    "kalpli çift",
+    "kişiler",
+    "romantizm"
   ],
   "cow": [
     "düve",
@@ -1225,22 +1866,33 @@
   "cow_face": [
     "hayvan",
     "inek yüzü",
-    "inek"
+    "inek",
+    "yüz"
   ],
   "cowboy_hat_face": [
     "kovboy",
     "şapka",
-    "kovboy şapkalı surat"
+    "kovboy şapkalı surat",
+    "kadın kovboy",
+    "kovboy şapkalı yüz",
+    "yüz"
   ],
   "crab": [
     "ıstakoz",
     "burç",
     "yengeç"
   ],
+  "crayon": [
+    "mum",
+    "mum boya",
+    "pastel",
+    "pastel boya"
+  ],
   "credit_card": [
     "para",
     "kart",
-    "kredi kartı"
+    "kredi kartı",
+    "kredi"
   ],
   "crescent_moon": [
     "ay",
@@ -1257,8 +1909,12 @@
     "sopa",
     "kriket"
   ],
+  "croatia": [
+    "bayrak"
+  ],
   "crocodile": [
-    "timsah"
+    "timsah",
+    "hayvan"
   ],
   "croissant": [
     "yiyecek",
@@ -1266,6 +1922,21 @@
     "ekmek",
     "fransız",
     "kruvasan"
+  ],
+  "cross_mark": [
+    "×",
+    "çarpı",
+    "çarpı işareti",
+    "çarpma",
+    "iptal",
+    "işaret",
+    "x"
+  ],
+  "cross_mark_button": [
+    "×",
+    "çarpı işareti düğmesi",
+    "kare",
+    "x"
   ],
   "crossed_fingers": [
     "el",
@@ -1280,6 +1951,14 @@
     "bayraklar",
     "çapraz japon bayrakları"
   ],
+  "crossed_swords": [
+    "çapraz",
+    "çapraz kılıçlar",
+    "çarpı",
+    "çatma",
+    "kılıç",
+    "silah"
+  ],
   "crown": [
     "taç",
     "giyim"
@@ -1291,13 +1970,18 @@
   "cry": [
     "ağlayan yüz",
     "üzüntülü",
-    "gözyaşları"
+    "gözyaşları",
+    "yüz"
   ],
   "crying_cat": [
     "kedi yüzü",
     "kedi",
     "ağlayan kedi yüzü",
-    "ağlama"
+    "ağlama",
+    "ağlayan kedi",
+    "göz yaşı",
+    "üzgün",
+    "yüz"
   ],
   "crystal_ball": [
     "kristal",
@@ -1327,11 +2011,25 @@
     "kapkek",
     "tatlı"
   ],
+  "curaçao": [
+    "bayrak"
+  ],
   "curling_stone": [
     "körling taşı",
     "oyun",
     "taş",
     "curling taşı"
+  ],
+  "curly_loop": [
+    "döngü",
+    "dönüş",
+    "kıvrık döngü"
+  ],
+  "currency_exchange": [
+    "bozdurma",
+    "döviz",
+    "kambiyo",
+    "para"
   ],
   "curry_rice": [
     "restoran",
@@ -1356,6 +2054,26 @@
     "sote",
     "biftek"
   ],
+  "cyclone": [
+    "baş dönmesi",
+    "hortum",
+    "siklon",
+    "tayfun"
+  ],
+  "cyprus": [
+    "bayrak"
+  ],
+  "czechia": [
+    "bayrak"
+  ],
+  "côte_d_ivoire": [
+    "bayrak"
+  ],
+  "dagger": [
+    "bıçak",
+    "hançer",
+    "silah"
+  ],
   "dango": [
     "restoran",
     "çubukta pirinç tatlısı topları",
@@ -1368,6 +2086,10 @@
     "çizgi roman",
     "duygu",
     "kaçma"
+  ],
+  "date": [
+    "takvim",
+    "tarih"
   ],
   "deaf_man": [
     "erkek",
@@ -1394,17 +2116,27 @@
     "yaprak döken"
   ],
   "deer": [
-    "geyik"
+    "geyik",
+    "hayvan"
   ],
   "delivery_truck": [
     "taşıt",
     "nakliye kamyonu",
     "kamyon"
   ],
+  "denmark": [
+    "bayrak"
+  ],
   "department_store": [
     "çok katlı",
     "mağaza",
     "çok katlı mağaza"
+  ],
+  "derelict_house": [
+    "bina",
+    "ev",
+    "harabe",
+    "terkedilmiş ev"
   ],
   "desert": [
     "çöl"
@@ -1413,7 +2145,9 @@
     "vaha",
     "plaj",
     "çöl",
-    "çöl ada"
+    "çöl ada",
+    "ada",
+    "ıssız ada"
   ],
   "desktop_computer": [
     "bilgisayar",
@@ -1422,7 +2156,9 @@
   "detective": [
     "sherlock",
     "dedektif",
-    "araştırmacı"
+    "araştırmacı",
+    "casus",
+    "hafiye"
   ],
   "diamond_suit": [
     "iskambil",
@@ -1437,17 +2173,46 @@
     "içinde noktalı baklava şekli",
     "içinde noktalı karo"
   ],
+  "diego_garcia": [
+    "bayrak"
+  ],
+  "dim_button": [
+    "düşük",
+    "düşük parlaklık işareti",
+    "karanlık",
+    "parlaklık"
+  ],
   "disappointed_face": [
     "kırgın yüz",
     "kırgınlık",
-    "memnuniyetsiz yüz"
+    "memnuniyetsiz yüz",
+    "yüz"
   ],
   "disguised_face": [
     "burun",
     "gizlenmiş",
     "gözlük",
     "gizlenmiş yüz",
-    "kılık değiştirmiş yüz"
+    "kılık değiştirmiş yüz",
+    "gizlenmek",
+    "gizli",
+    "kimliğini gizleyen",
+    "maskeli",
+    "takma ad",
+    "yüz"
+  ],
+  "divide": [
+    "÷",
+    "bölü",
+    "bölü işareti",
+    "işaret",
+    "matematik"
+  ],
+  "diving_mask": [
+    "aletli dalış",
+    "dalgıç maskesi",
+    "dalış",
+    "şnorkelle dalış"
   ],
   "diya_lamp": [
     "lamba",
@@ -1461,19 +2226,36 @@
     "duygu",
     "baş dönmesi"
   ],
+  "djibouti": [
+    "bayrak"
+  ],
   "dna": [
     "bilim",
-    "rna"
+    "rna",
+    "biyolog",
+    "evrim",
+    "gen",
+    "genetik",
+    "yaşam"
   ],
   "dodo": [
-    "kuş"
+    "kuş",
+    "büyük",
+    "dodo kuşu",
+    "mauritius",
+    "nesli tükenmiş",
+    "soyu tükenmiş"
   ],
   "dog": [
-    "köpek"
+    "köpek",
+    "hayvan",
+    "süs köpeği"
   ],
   "dog_face": [
     "köpek",
-    "köpek yüzü"
+    "köpek yüzü",
+    "hayvan",
+    "yüz"
   ],
   "dollar_banknote": [
     "döviz",
@@ -1484,13 +2266,41 @@
     "usd"
   ],
   "dolphin": [
-    "yunus"
+    "yunus",
+    "hayvan"
+  ],
+  "dominica": [
+    "bayrak"
+  ],
+  "dominican_republic": [
+    "bayrak"
   ],
   "door": [
     "kapı"
   ],
   "dotted_line_face": [
     "sessiz"
+  ],
+  "dotted_six_pointed_star": [
+    "altı köşeli",
+    "altı köşeli yıldız",
+    "fal",
+    "fal bakma",
+    "yıldız"
+  ],
+  "double_curly_loop": [
+    "çift kıvrık döngü",
+    "japonya",
+    "kıvrık döngü",
+    "ücretsiz numara"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "çift ünlem",
+    "işaret",
+    "noktalama",
+    "ünlem"
   ],
   "doughnut": [
     "restoran",
@@ -1503,12 +2313,42 @@
     "uçma",
     "barış"
   ],
+  "down_arrow": [
+    "ana yön",
+    "aşağı",
+    "aşağı yönlü ok",
+    "güney",
+    "ok",
+    "yön"
+  ],
+  "down_left_arrow": [
+    "ara yön",
+    "güney batı",
+    "ok",
+    "sol aşağı ok",
+    "yön"
+  ],
+  "down_right_arrow": [
+    "ara yön",
+    "güney doğu",
+    "ok",
+    "sağ aşağı ok",
+    "yön"
+  ],
   "downcast_face_with_sweat": [
     "soğuk ter",
-    "soğuk terli yüz"
+    "soğuk terli yüz",
+    "yüz"
+  ],
+  "downwards_button": [
+    "aşağı düğmesi",
+    "aşağı üçgen düğmesi",
+    "düğme",
+    "üçgen"
   ],
   "dragon": [
-    "ejderha"
+    "ejderha",
+    "hayvan"
   ],
   "dragon_face": [
     "ejderha",
@@ -1523,7 +2363,8 @@
   ],
   "drooling_face": [
     "salya akıtan yüz",
-    "salya akıtma"
+    "salya akıtma",
+    "yüz"
   ],
   "drop_of_blood": [
     "adet",
@@ -1534,7 +2375,11 @@
     "regl",
     "kanama",
     "damla",
-    "kan damlası"
+    "kan damlası",
+    "âdet",
+    "aybaşı",
+    "ilaç",
+    "mens"
   ],
   "droplet": [
     "çizgi roman",
@@ -1544,7 +2389,8 @@
   ],
   "drum": [
     "müzik",
-    "davul"
+    "davul",
+    "tokmak"
   ],
   "duck": [
     "kuş",
@@ -1559,13 +2405,19 @@
     "pierogi"
   ],
   "dvd": [
-    "disk"
+    "disk",
+    "blu-ray",
+    "dvd disk"
   ],
   "e_mail": [
     "posta",
     "e-mail",
     "mail",
-    "email"
+    "email",
+    "e-posta",
+    "ileti",
+    "iletişim",
+    "mektup"
   ],
   "eagle": [
     "kuş",
@@ -1579,12 +2431,16 @@
   ],
   "ear_of_corn": [
     "mısır",
-    "mısır koçanı"
+    "mısır koçanı",
+    "başak"
   ],
   "ear_with_hearing_aid": [
     "işitme cihazı olan kulak",
     "erişilebilirlik",
     "işitme güçlüğü"
+  ],
+  "ecuador": [
+    "bayrak"
   ],
   "egg": [
     "yiyecek",
@@ -1603,7 +2459,37 @@
     "sayılar",
     "sekiz",
     "sayı tuşu",
-    "sayı"
+    "sayı",
+    "tuş"
+  ],
+  "eight_o_clock": [
+    "8:00",
+    "saat",
+    "saat 8",
+    "sekiz"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "sekiz noktalı yıldız",
+    "yıldız"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "asterisk",
+    "sekiz uçlu yıldız",
+    "yıldız"
+  ],
+  "eight_thirty": [
+    "8:30",
+    "saat",
+    "sekiz buçuk"
+  ],
+  "eject_button": [
+    "çıkar",
+    "çıkarma düğmesi"
+  ],
+  "el_salvador": [
+    "bayrak"
   ],
   "electric_plug": [
     "elektrik fişi",
@@ -1617,9 +2503,26 @@
     "erişilebilirlik",
     "lift"
   ],
+  "eleven_o_clock": [
+    "11:00",
+    "on bir",
+    "saat",
+    "saat 11"
+  ],
+  "eleven_thirty": [
+    "11:30",
+    "on bir buçuk",
+    "saat"
+  ],
   "elf": [
     "legolas",
     "sihirli"
+  ],
+  "end_arrow": [
+    "bitiş oku",
+    "ok",
+    "sol bitiş oku",
+    "sol ok"
   ],
   "england": [
     "ingiltere",
@@ -1628,7 +2531,8 @@
     "aziz george haçı",
     "en",
     "bayrak: ingiltere",
-    "ingiliz bayrağı"
+    "ingiliz bayrağı",
+    "bayrak"
   ],
   "enraged_face": [
     "kızgın",
@@ -1637,18 +2541,39 @@
     "öfke",
     "deli gibi",
     "kırmızı yüz",
-    "somurtkan yüz"
+    "somurtkan yüz",
+    "yüz"
   ],
   "envelope": [
     "e-posta",
     "mektup",
+    "zarf",
+    "e-mail"
+  ],
+  "envelope_with_arrow": [
+    "e-posta",
+    "giden",
+    "gönderilen posta",
+    "oklu zarf",
     "zarf"
+  ],
+  "equatorial_guinea": [
+    "bayrak"
+  ],
+  "eritrea": [
+    "bayrak"
   ],
   "estonia": [
     "bayrak",
     "estonya",
     "estonya bayrağı",
     "ee"
+  ],
+  "eswatini": [
+    "bayrak"
+  ],
+  "ethiopia": [
+    "bayrak"
   ],
   "euro_banknote": [
     "döviz",
@@ -1669,7 +2594,18 @@
     "yaprak dökmeyen ağaç"
   ],
   "ewe": [
-    "koyun"
+    "koyun",
+    "dişi koyun"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "işaret",
+    "noktalama",
+    "soru",
+    "ünlem",
+    "ünlemli soru işareti"
   ],
   "exploding_head": [
     "patlayan kafa",
@@ -1677,7 +2613,9 @@
   ],
   "expressionless_face": [
     "yorum yok yüzü",
-    "ifadesiz yüz"
+    "ifadesiz yüz",
+    "yorum yok",
+    "yüz"
   ],
   "eye": [
     "beden",
@@ -1698,7 +2636,9 @@
   ],
   "face_blowing_a_kiss": [
     "kalpli öpücük",
-    "öpücük"
+    "öpücük",
+    "öpücük gönderen yüz",
+    "yüz"
   ],
   "face_exhaling": [
     "sızlanma",
@@ -1719,7 +2659,9 @@
     "lezzetli",
     "lezzetli yiyecek",
     "oh oh harika",
-    "gülümseyen yüz"
+    "gülümseyen yüz",
+    "lezzetli yiyecek beğenen yüz",
+    "yüz"
   ],
   "face_vomiting": [
     "grip",
@@ -1731,7 +2673,8 @@
   "face_with_crossed_out_eyes": [
     "sersemlemiş yüz",
     "hasta",
-    "sersemlemiş"
+    "sersemlemiş",
+    "yüz"
   ],
   "face_with_diagonal_mouth": [
     ":\\",
@@ -1749,19 +2692,24 @@
     "bandaj",
     "kafası sarılı yüz",
     "kafa bandajı",
-    "yaralı"
+    "yaralı",
+    "yara",
+    "yüz"
   ],
   "face_with_medical_mask": [
     "rahatsız",
     "hasta",
     "soğuk",
     "tıbbi maske",
-    "maskeli yüz"
+    "maskeli yüz",
+    "maske",
+    "yüz"
   ],
   "face_with_monocle": [
     "tek gözlük",
     "gözlük",
-    "kendini beğenmiş"
+    "kendini beğenmiş",
+    "tek cam gözlüklü yüz"
   ],
   "face_with_open_eyes_and_hand_over_mouth": [
     "aman tanrım",
@@ -1797,27 +2745,33 @@
     "kızgın",
     "öfkeli",
     "öfke",
-    "küfür eden"
+    "küfür eden",
+    "ağzında semboller olan yüz"
   ],
   "face_with_thermometer": [
     "ağzında termometre olan yüz",
     "hasta",
     "termometre",
-    "termometreli yüz"
+    "termometreli yüz",
+    "yüz"
   ],
   "face_with_tongue": [
     "dil çıkarmış yüz",
     "dil dışarıda",
-    "dil dışarıda kalmış"
+    "dil dışarıda kalmış",
+    "yüz"
   ],
   "face_without_mouth": [
     "ağzı olmayan yüz",
     "sakin",
-    "sessiz"
+    "sessiz",
+    "ağız",
+    "yüz"
   ],
   "factory": [
     "yapı",
-    "fabrika"
+    "fabrika",
+    "bina"
   ],
   "factory_worker": [
     "montaj",
@@ -1828,11 +2782,17 @@
     "sanayi"
   ],
   "fairy": [
-    "peri"
+    "peri",
+    "oberon",
+    "puck",
+    "titania"
   ],
   "falafel": [
     "nohut",
     "köfte"
+  ],
+  "falkland_islands": [
+    "bayrak"
   ],
   "fallen_leaf": [
     "yaprak",
@@ -1844,84 +2804,136 @@
     "baba",
     "anne",
     "aile",
-    "çocuk"
+    "çocuk",
+    "kişiler"
   ],
   "family_man_boy": [
     "baba",
-    "aile"
+    "aile",
+    "anne",
+    "çocuk",
+    "erkek",
+    "kişiler"
   ],
   "family_man_boy_boy": [
     "baba",
-    "aile"
+    "aile",
+    "anne",
+    "çocuk",
+    "erkek",
+    "kişiler"
   ],
   "family_man_girl": [
     "baba",
     "aile",
-    "kız"
+    "kız",
+    "anne",
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_girl_boy": [
     "baba",
     "aile",
-    "çocuklar"
+    "çocuklar",
+    "anne",
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_girl_girl": [
     "baba",
     "aile",
-    "kızlar"
+    "kızlar",
+    "anne",
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_man_boy": [
     "baba",
     "anne",
     "aile",
     "ebeveyn",
-    "çocuk"
+    "çocuk",
+    "erkek",
+    "kişiler"
   ],
   "family_man_man_boy_boy": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "erkek",
+    "kişiler"
   ],
   "family_man_man_girl": [
     "baba",
     "anne",
     "aile",
     "ebeveyn",
-    "çocuk"
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_man_girl_boy": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_man_girl_girl": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "erkek",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_woman_boy": [
     "baba",
     "anne",
     "aile",
-    "çocuk"
+    "çocuk",
+    "erkek",
+    "kadın",
+    "kişiler"
   ],
   "family_man_woman_boy_boy": [
     "baba",
     "anne",
     "aile",
-    "çocuklar"
+    "çocuklar",
+    "çocuk",
+    "erkek",
+    "kadın",
+    "kişiler"
   ],
   "family_man_woman_girl": [
     "baba",
     "anne",
     "aile",
     "kız",
-    "kız kardeş"
+    "kız kardeş",
+    "çocuk",
+    "erkek",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_woman_girl_boy": [
     "baba",
@@ -1929,73 +2941,125 @@
     "aile",
     "çocuk",
     "kız kardeş",
-    "erkek kardeş"
+    "erkek kardeş",
+    "erkek",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_man_woman_girl_girl": [
     "baba",
     "anne",
     "aile",
-    "çocuklar"
+    "çocuklar",
+    "çocuk",
+    "erkek",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_boy": [
     "anne",
     "aile",
-    "çocuk"
+    "çocuk",
+    "baba",
+    "erkek çocuk",
+    "kadın",
+    "kişiler"
   ],
   "family_woman_boy_boy": [
     "anne",
     "aile",
-    "çocuklar"
+    "çocuklar",
+    "baba",
+    "çocuk",
+    "erkek çocuk",
+    "kadın",
+    "kişiler"
   ],
   "family_woman_girl": [
     "anne",
     "aile",
-    "çocuk"
+    "çocuk",
+    "baba",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_girl_boy": [
     "anne",
     "aile",
-    "çocuklar"
+    "çocuklar",
+    "baba",
+    "çocuk",
+    "erkek çocuk",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_girl_girl": [
     "anne",
     "aile",
-    "kız"
+    "kız",
+    "baba",
+    "çocuk",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_woman_boy": [
     "baba",
     "anne",
     "aile",
     "ebeveyn",
-    "çocuk"
+    "çocuk",
+    "erkek çocuk",
+    "kadın",
+    "kişiler"
   ],
   "family_woman_woman_boy_boy": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "erkek çocuk",
+    "kadın",
+    "kişiler"
   ],
   "family_woman_woman_girl": [
     "baba",
     "anne",
     "aile",
     "ebeveyn",
-    "çocuk"
+    "çocuk",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_woman_girl_boy": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "erkek çocuk",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "family_woman_woman_girl_girl": [
     "baba",
     "anne",
     "aile",
     "çocuklar",
-    "ebeveyn"
+    "ebeveyn",
+    "çocuk",
+    "kadın",
+    "kişiler",
+    "kız çocuk"
   ],
   "farmer": [
     "çiftçi",
@@ -2003,25 +3067,65 @@
     "rençper",
     "köylü"
   ],
+  "faroe_islands": [
+    "bayrak"
+  ],
+  "fast_down_button": [
+    "aşağı",
+    "aşağı çift ok",
+    "hızlı aşağı düğmesi",
+    "ok"
+  ],
+  "fast_forward_button": [
+    "ileri sarma düğmesi",
+    "ok",
+    "sağ",
+    "sağa çift ok"
+  ],
+  "fast_reverse_button": [
+    "hızlı geri düğmesi",
+    "ok",
+    "sol",
+    "sola çift ok"
+  ],
+  "fast_up_button": [
+    "hızlı yukarı düğmesi",
+    "ok",
+    "yukarı",
+    "yukarı çift ok"
+  ],
   "fax_machine": [
     "telefon",
     "belgeç",
-    "faks"
+    "faks",
+    "faks makinesi",
+    "iletişim"
   ],
   "fearful": [
     "korkmuş",
-    "korkulu yüz"
+    "korkulu yüz",
+    "yüz"
   ],
   "feather": [
     "kuş tüyü",
     "kuş",
     "tüy",
     "hafif",
-    "tüylü"
+    "tüylü",
+    "uçma"
+  ],
+  "female_sign": [
+    "bayan",
+    "kadın",
+    "kadın sembolü"
   ],
   "ferris_wheel": [
     "lunapark",
-    "dönme dolap"
+    "dönme dolap",
+    "dolap",
+    "dönme",
+    "eğlence",
+    "eğlence parkı"
   ],
   "ferry": [
     "tekne",
@@ -2035,6 +3139,35 @@
     "sopa",
     "saha"
   ],
+  "fiji": [
+    "bayrak"
+  ],
+  "file_cabinet": [
+    "dolap",
+    "dosya",
+    "dosya dolabı"
+  ],
+  "file_folder": [
+    "dosya",
+    "dosya klasörü",
+    "klasör"
+  ],
+  "film_frames": [
+    "film",
+    "film kareleri",
+    "film karesi",
+    "sinema"
+  ],
+  "film_projector": [
+    "film",
+    "film projektörü",
+    "projektör",
+    "sinema",
+    "video"
+  ],
+  "finland": [
+    "bayrak"
+  ],
   "fire": [
     "ateş",
     "alev"
@@ -2047,14 +3180,23 @@
     "itfaiye kamyonu"
   ],
   "fire_extinguisher": [
-    "yangın tüpü"
+    "yangın tüpü",
+    "ateş",
+    "söndürme",
+    "yangın",
+    "yangın söndürücü"
   ],
   "firecracker": [
-    "patlama"
+    "patlama",
+    "dinamit",
+    "havai fişek",
+    "maytap",
+    "patlayıcı"
   ],
   "firefighter": [
     "itfaiyeci",
-    "erkek itfaiyeci"
+    "erkek itfaiyeci",
+    "itfaiye aracı"
   ],
   "fireworks": [
     "kutlama",
@@ -2075,7 +3217,8 @@
     "yüzü olan ilk dördün"
   ],
   "fish": [
-    "balık"
+    "balık",
+    "hayvan"
   ],
   "fish_cake_with_swirl": [
     "restoran",
@@ -2089,17 +3232,32 @@
     "olta",
     "kamış olta ve balık",
     "balıkçılık",
-    "dinlenme"
+    "dinlenme",
+    "balık"
   ],
   "five": [
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "beş"
+    "beş",
+    "tuş"
+  ],
+  "five_o_clock": [
+    "5:00",
+    "beş",
+    "saat",
+    "saat 5"
+  ],
+  "five_thirty": [
+    "5:30",
+    "beş buçuk",
+    "saat"
   ],
   "flamingo": [
     "kuş",
-    "allı turna"
+    "allı turna",
+    "gösterişli",
+    "tropikal"
   ],
   "flashlight": [
     "el feneri",
@@ -2108,7 +3266,21 @@
   ],
   "flat_shoe": [
     "düz ayakkabı",
-    "babet"
+    "babet",
+    "terlik",
+    "topuksuz"
+  ],
+  "flatbread": [
+    "bazlama",
+    "lavaş",
+    "naan",
+    "pide",
+    "pita",
+    "yassı ekmek"
+  ],
+  "fleur_de_lis": [
+    "fleur-de-lis",
+    "zambak"
   ],
   "flexed_biceps": [
     "spor",
@@ -2122,20 +3294,37 @@
   ],
   "floppy_disk": [
     "disk",
-    "disket"
+    "disket",
+    "floppy"
+  ],
+  "flower_playing_cards": [
+    "çiçek",
+    "çiçekli kart",
+    "çiçekli oyun kağıtları",
+    "hanafuda",
+    "kağıt oyunu",
+    "kart",
+    "oyun"
   ],
   "flushed_face": [
     "şaşırmış",
     "kızarmış yüz",
     "şaşkınlık içinde",
-    "kızarmış ve şaşkın yüz"
+    "kızarmış ve şaşkın yüz",
+    "yüz"
   ],
   "fly": [
-    "sinek"
+    "sinek",
+    "böcek",
+    "çürüme",
+    "hastalık",
+    "karasinek",
+    "larva"
   ],
   "flying_disc": [
     "frizbi",
-    "uçan disk"
+    "uçan disk",
+    "ultimate"
   ],
   "flying_saucer": [
     "uzay",
@@ -2149,7 +3338,8 @@
   ],
   "foggy": [
     "pusu",
-    "sis"
+    "sis",
+    "sisli"
   ],
   "folded_hands": [
     "minnettar",
@@ -2162,13 +3352,23 @@
     "birleşen eller",
     "duacı"
   ],
+  "fondue": [
+    "çikolata",
+    "erimiş",
+    "fondü",
+    "i̇sviçre",
+    "kap",
+    "peynir"
+  ],
   "foot": [
     "ayak",
     "tekme"
   ],
   "footprints": [
     "ayak izi",
-    "ayak"
+    "ayak",
+    "gövde",
+    "iz"
   ],
   "fork_and_knife": [
     "restoran",
@@ -2187,11 +3387,20 @@
     "fal kurabiyesi",
     "kehanet"
   ],
+  "fountain": [
+    "çeşme",
+    "fıskiye"
+  ],
+  "fountain_pen": [
+    "dolma kalem",
+    "kalem"
+  ],
   "four": [
     "sayılar",
     "dört",
     "sayı tuşu",
-    "sayı"
+    "sayı",
+    "tuş"
   ],
   "four_leaf_clover": [
     "dört",
@@ -2199,6 +3408,17 @@
     "dört yapraklı yonca",
     "şanslı",
     "yonca"
+  ],
+  "four_o_clock": [
+    "4:00",
+    "dört",
+    "saat",
+    "saat 4"
+  ],
+  "four_thirty": [
+    "4:30",
+    "dört buçuk",
+    "saat"
   ],
   "fox": [
     "yüz",
@@ -2211,7 +3431,10 @@
     "çerçeve fotoğraf",
     "tablo",
     "resimli çerçeve",
-    "sanat"
+    "sanat",
+    "müze",
+    "resim",
+    "yağlı boya"
   ],
   "france": [
     "bayrak",
@@ -2223,12 +3446,25 @@
   "free_button": [
     "ücretsiz",
     "ücretsiz düğmesi",
-    "bedava"
+    "bedava",
+    "bedelsiz",
+    "free düğmesi",
+    "işaret",
+    "ücretsiz işareti"
   ],
   "french_fries": [
     "restoran",
     "patates kızartması",
     "kızartma patates"
+  ],
+  "french_guiana": [
+    "bayrak"
+  ],
+  "french_polynesia": [
+    "bayrak"
+  ],
+  "french_southern_territories": [
+    "bayrak"
   ],
   "fried_shrimp": [
     "restoran",
@@ -2253,13 +3489,17 @@
     "suratını asmış",
     "üzgün",
     "asık surat",
-    "suratı asık yüz"
+    "suratı asık yüz",
+    "asık",
+    "yüz"
   ],
   "frowning_face_with_open_mouth": [
     "ağzı açık",
     "hoşnutsuz yüz",
     "açık ağızlı",
-    "hoşnutsuz"
+    "hoşnutsuz",
+    "açık ağızlı hoşnutsuz yüz",
+    "yüz"
   ],
   "fu": [
     "beden",
@@ -2269,7 +3509,10 @@
   ],
   "fuel_pump": [
     "yakıt",
-    "yakıt pompası"
+    "yakıt pompası",
+    "akaryakıt istasyonu",
+    "benzin",
+    "istasyon"
   ],
   "full_moon": [
     "ay",
@@ -2286,40 +3529,72 @@
     "dolu",
     "dolunay yüzü"
   ],
+  "funeral_urn": [
+    "cenaze",
+    "kül",
+    "kül kavanozu",
+    "ölüm",
+    "vazo"
+  ],
+  "gabon": [
+    "bayrak"
+  ],
+  "gambia": [
+    "bayrak"
+  ],
   "game_die": [
     "oyun zarı",
     "zar",
     "oyun"
   ],
   "garlic": [
-    "sarımsak"
+    "sarımsak",
+    "baharat"
   ],
   "gear": [
     "dişli",
-    "araç"
+    "araç",
+    "alet"
   ],
   "gem_stone": [
     "mücevher taşı",
     "mücevher",
-    "elmas"
+    "elmas",
+    "romantizm"
+  ],
+  "gemini": [
+    "burçlar",
+    "ikizler burcu"
   ],
   "genie": [
     "cin",
     "lamba",
     "aladdin"
   ],
+  "georgia": [
+    "bayrak"
+  ],
   "germany": [
     "bayrak",
     "de",
     "almanya"
   ],
+  "ghana": [
+    "bayrak"
+  ],
   "ghost": [
     "hayalet",
     "peri masalı",
-    "canavar"
+    "canavar",
+    "yüz"
+  ],
+  "gibraltar": [
+    "bayrak"
   ],
   "giraffe": [
-    "zürafa"
+    "zürafa",
+    "noktalar",
+    "puanlar"
   ],
   "girl": [
     "kişiler",
@@ -2333,7 +3608,8 @@
     "süt bardağı"
   ],
   "glasses": [
-    "gözlük"
+    "gözlük",
+    "giyim"
   ],
   "globe_showing_americas": [
     "yerkürede amerika",
@@ -2353,8 +3629,16 @@
     "afrika",
     "dünya"
   ],
+  "globe_with_meridians": [
+    "boylamlar",
+    "dünya",
+    "meridyen",
+    "meridyenli yerküre",
+    "yerküre"
+  ],
   "gloves": [
-    "eldiven"
+    "eldiven",
+    "el"
   ],
   "glowing_star": [
     "kıvılcım",
@@ -2370,19 +3654,33 @@
     "kale ağı"
   ],
   "goat": [
-    "keçi"
+    "keçi",
+    "burçlar",
+    "oğlak",
+    "oğlak burcu",
+    "oğlak burcu burçlar"
   ],
   "goblin": [
     "cin",
     "canavar",
-    "maske"
+    "maske",
+    "japon cini",
+    "peri masalı",
+    "tengu",
+    "yüz"
   ],
   "goggles": [
     "gözlük",
-    "deniz gözlüğü"
+    "deniz gözlüğü",
+    "göz koruması",
+    "kaynak",
+    "koruyucu gözlük",
+    "yüzme"
   ],
   "gorilla": [
-    "maymun"
+    "maymun",
+    "goril",
+    "hayvan"
   ],
   "graduation_cap": [
     "kutlama",
@@ -2415,10 +3713,13 @@
     "küre",
     "yeşil",
     "yeşil küre",
-    "yeşil top"
+    "yeşil top",
+    "daire"
   ],
   "green_heart": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "yeşil"
   ],
   "green_salad": [
     "yiyecek",
@@ -2429,10 +3730,17 @@
     "kare",
     "yeşil"
   ],
+  "greenland": [
+    "bayrak"
+  ],
+  "grenada": [
+    "bayrak"
+  ],
   "grimacing": [
     "buruşturma",
     "dişli yüz",
-    "dişlerini gösteren yüz"
+    "dişlerini gösteren yüz",
+    "yüz"
   ],
   "grin": [
     "gülümseme",
@@ -2445,13 +3753,21 @@
     "sırıtmış",
     "gülen gözlerle sırıtma",
     "sırıtış",
-    "sırıtmış surat"
+    "sırıtmış surat",
+    "lol",
+    "neşeli",
+    "yüz"
   ],
   "grinning_cat": [
     "kedi yüzü",
     "kedi",
     "gülümseyen ve ağzı açık kedi",
-    "açık ağız gülümseyen kedi"
+    "açık ağız gülümseyen kedi",
+    "açık",
+    "ağız",
+    "gülümseme",
+    "sırıtan",
+    "yüz"
   ],
   "grinning_cat_with_smiling_eyes": [
     "gülümseme",
@@ -2459,7 +3775,11 @@
     "kedi",
     "mutlu",
     "sırıtan kedi yüzü",
-    "sırıtan ve gözleri gülümseyen kedi"
+    "sırıtan ve gözleri gülümseyen kedi",
+    "göz",
+    "gülen gözlerle sırıtan kedi",
+    "sırıtma",
+    "yüz"
   ],
   "grinning_face": [
     "gülmek",
@@ -2468,26 +3788,56 @@
     "mutlu",
     "sırıtan yüz",
     "sırıtmak",
-    "neşeli"
+    "neşeli",
+    "lol",
+    "yüz"
   ],
   "grinning_face_with_smiling_eyes": [
     "gülme",
     "mutlu",
-    "neşeli"
+    "neşeli",
+    "ağzı açık gülen gözler",
+    "gülen gözlerle ağzı açık sırıtma",
+    "gülen yüz",
+    "gülümseme",
+    "lol"
   ],
   "growing_heart": [
-    "kalp"
+    "kalp",
+    "aşk",
+    "büyüyen kalp",
+    "coşkulu",
+    "duygu",
+    "sinirli"
+  ],
+  "guadeloupe": [
+    "bayrak"
+  ],
+  "guam": [
+    "bayrak"
   ],
   "guard": [
     "kişiler",
     "bekçi",
     "muhafız"
   ],
+  "guatemala": [
+    "bayrak"
+  ],
+  "guernsey": [
+    "bayrak"
+  ],
   "guide_dog": [
     "erişilebilirlik",
     "görme engelli",
     "rehber",
     "rehber köpek"
+  ],
+  "guinea": [
+    "bayrak"
+  ],
+  "guinea_bissau": [
+    "bayrak"
   ],
   "guitar": [
     "müzik",
@@ -2496,17 +3846,32 @@
     "müzik aleti",
     "gitar"
   ],
+  "guyana": [
+    "bayrak"
+  ],
+  "haiti": [
+    "bayrak"
+  ],
   "hamburger": [
     "restoran"
   ],
   "hammer": [
     "alet",
-    "çekiç"
+    "çekiç",
+    "araç"
+  ],
+  "hammer_and_pick": [
+    "alet",
+    "çekiç",
+    "çekiç ve kazma",
+    "kazma"
   ],
   "hammer_and_wrench": [
     "alet",
     "çekiç",
-    "ingiliz anahtarı"
+    "ingiliz anahtarı",
+    "çekiç ve ingiliz anahtarı",
+    "çekiç ve somun anahtarı"
   ],
   "hamster": [
     "yüz",
@@ -2525,7 +3890,8 @@
   ],
   "handbag": [
     "çanta",
-    "el çantası"
+    "el çantası",
+    "giyim"
   ],
   "handshake": [
     "el",
@@ -2538,7 +3904,8 @@
     "selamlaşma"
   ],
   "hash": [
-    "klavye tuşu"
+    "klavye tuşu",
+    "tuş"
   ],
   "hatching_chick": [
     "hayvan",
@@ -2555,6 +3922,12 @@
     "ses",
     "kulaklık"
   ],
+  "headstone": [
+    "defin",
+    "mezar",
+    "mezar taşı",
+    "mezarlık"
+  ],
   "health_worker": [
     "sağlık çalışanı",
     "doktor",
@@ -2568,21 +3941,34 @@
     "duymayan maymun",
     "duymadım"
   ],
+  "heard_mcdonald_islands": [
+    "bayrak"
+  ],
   "heart": [
-    "kalp"
+    "kalp",
+    "kırmızı kalp"
   ],
   "heart_decoration": [
-    "kalp"
+    "kalp",
+    "kalpli dekorasyon"
   ],
   "heart_exclamation": [
-    "kalp"
+    "kalp",
+    "işaret",
+    "kalp şeklinde ünlem işareti",
+    "noktalama",
+    "ünlem işareti"
   ],
   "heart_eyes": [
     "aşk",
     "gözler kalp",
     "sevmek",
     "kalpli göz",
-    "değer verme"
+    "değer verme",
+    "gözler",
+    "kalp",
+    "kalp gözlü gülümseme",
+    "yüz"
   ],
   "heart_hands": [
     "kalp"
@@ -2595,10 +3981,18 @@
     "kör"
   ],
   "heart_with_arrow": [
-    "kalp"
+    "kalp",
+    "aşk",
+    "duygu",
+    "ok",
+    "ok saplanmış kalp"
   ],
   "heart_with_ribbon": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "kurdele",
+    "kurdeleli kalp",
+    "sevgililer günü"
   ],
   "heavy_dollar_sign": [
     "bitcoin",
@@ -2607,13 +4001,17 @@
     "dolar",
     "kripto para",
     "usd",
-    "dolar simgesi"
+    "dolar simgesi",
+    "dolar işareti",
+    "koyu renk dolar işareti"
   ],
   "hedgehog": [
-    "kirpi"
+    "kirpi",
+    "dikenli"
   ],
   "helicopter": [
-    "helikopter"
+    "helikopter",
+    "taşıt"
   ],
   "herb": [
     "yaprak",
@@ -2627,28 +4025,56 @@
   ],
   "high_heeled_shoe": [
     "ayakkabı",
-    "yüksek topuklu ayakkabı"
+    "yüksek topuklu ayakkabı",
+    "giyim"
   ],
   "high_speed_train": [
     "demiryolu",
-    "tren"
+    "tren",
+    "shinkansen",
+    "taşıt",
+    "yüksek hızlı tren"
   ],
   "high_voltage": [
     "yüksek gerilim",
     "şimşek",
     "yıldırım",
-    "gök gürültüsü"
+    "gök gürültüsü",
+    "işaret",
+    "tehlike",
+    "voltaj",
+    "yüksek",
+    "yüksek voltaj işareti",
+    "yüksek voltaj tehlikesi"
   ],
   "hiking_boot": [
     "yürüyüş botu",
     "kamp",
     "yürüyüş",
-    "bot"
+    "bot",
+    "sırt çantası"
+  ],
+  "hindu_temple": [
+    "hindu",
+    "hindu tapınağı",
+    "tapınak"
   ],
   "hippopotamus": [
     "hipopotam",
     "su aygırı",
     "hipo"
+  ],
+  "hole": [
+    "delik"
+  ],
+  "hollow_red_circle": [
+    "çember",
+    "kalın çember",
+    "kalın kırmızı çember",
+    "o"
+  ],
+  "honduras": [
+    "bayrak"
   ],
   "honey_pot": [
     "restoran",
@@ -2661,27 +4087,43 @@
     "bal arısı",
     "arı"
   ],
+  "hong_kong_sar_china": [
+    "bayrak"
+  ],
   "hook": [
-    "kanca"
+    "kanca",
+    "askı",
+    "çengel",
+    "eğri"
   ],
   "horizontal_traffic_light": [
     "trafik işareti",
-    "trafik lambası"
+    "trafik lambası",
+    "ışık",
+    "trafik",
+    "trafik sinyalleri",
+    "yatay trafik ışığı",
+    "yatay trafik ışıkları"
   ],
   "horse": [
     "at",
-    "yarış atı"
+    "yarış atı",
+    "yarış"
   ],
   "horse_face": [
     "at",
     "at yüzü",
-    "at kafası"
+    "at kafası",
+    "hayvan",
+    "yüz"
   ],
   "horse_racing": [
     "spor",
     "at yarışı",
     "at",
-    "yarış"
+    "yarış",
+    "jokey",
+    "yarış atı"
   ],
   "hospital": [
     "yapı",
@@ -2692,7 +4134,10 @@
     "içecek",
     "fincan",
     "kahve",
-    "sıcak içecek"
+    "sıcak içecek",
+    "çay",
+    "dumanı tüten",
+    "sıcak"
   ],
   "hot_dog": [
     "sosis",
@@ -2713,14 +4158,22 @@
     "kırmızı biber",
     "acı biber"
   ],
+  "hot_springs": [
+    "hamam",
+    "ılıca",
+    "kaplıca",
+    "sıcak"
+  ],
   "hotel": [
     "yapı",
-    "otel"
+    "otel",
+    "bina"
   ],
   "hourglass_done": [
     "saat",
     "kum saati",
-    "zaman"
+    "zaman",
+    "kum"
   ],
   "hourglass_not_done": [
     "saat",
@@ -2731,18 +4184,26 @@
   ],
   "house": [
     "yapı",
-    "ev"
+    "ev",
+    "bina"
   ],
   "house_with_garden": [
     "bahçe",
     "yapı",
     "ev",
-    "bahçeli ev"
+    "bahçeli ev",
+    "bina"
+  ],
+  "houses": [
+    "bina",
+    "ev",
+    "evler"
   ],
   "hugs": [
     "kucaklayarak gülümseme",
     "sarılma",
-    "kucaklama"
+    "kucaklama",
+    "yüz"
   ],
   "hungary": [
     "bayrak",
@@ -2753,14 +4214,22 @@
   "hushed_face": [
     "şaşırmış",
     "şok olmuş",
-    "şaşkın yüz"
+    "şaşkın yüz",
+    "yüz"
+  ],
+  "hut": [
+    "ev",
+    "kulübe",
+    "yurt"
   ],
   "ice": [
     "buz küpü",
     "buz",
     "donuk",
     "buzdolabı",
-    "donmuş"
+    "donmuş",
+    "aysberg",
+    "soğuk"
   ],
   "ice_cream": [
     "restoran",
@@ -2773,12 +4242,22 @@
     "hokey",
     "maç",
     "disk",
-    "sopa"
+    "sopa",
+    "buz"
   ],
   "ice_skate": [
     "buz",
     "paten",
     "buz pateni"
+  ],
+  "iceland": [
+    "bayrak"
+  ],
+  "id_button": [
+    "id düğmesi",
+    "işaret",
+    "kimlik",
+    "kimlik işareti"
   ],
   "identification_card": [
     "kimlik kartı",
@@ -2791,6 +4270,23 @@
     "delikteki bayrak",
     "golf bayrağı"
   ],
+  "inbox_tray": [
+    "gelen",
+    "gelen kutusu",
+    "iletişim",
+    "kutu",
+    "posta",
+    "tepsi"
+  ],
+  "incoming_envelope": [
+    "alınan posta",
+    "e-posta",
+    "gelen",
+    "iletişim",
+    "mektup",
+    "posta",
+    "zarf"
+  ],
   "index_pointing_at_the_viewer": [
     "sen"
   ],
@@ -2799,19 +4295,31 @@
     "el",
     "parmak",
     "yukarıya doğru",
-    "yukarıya doğru işaret"
+    "yukarıya doğru işaret",
+    "beden",
+    "gösterme",
+    "işaret parmağı",
+    "yukarı",
+    "yukarıyı gösteren işaret parmağı"
   ],
   "india": [
     "bayrak",
     "hindistan",
     "in"
   ],
+  "indonesia": [
+    "bayrak"
+  ],
   "infinity": [
-    "sonsuz"
+    "sonsuz",
+    "evrensel",
+    "sınırsız",
+    "sonsuzluk"
   ],
   "information_source": [
     "bilgi",
-    "bilgi kaynağı"
+    "bilgi kaynağı",
+    "i harfi"
   ],
   "innocent": [
     "gülümseme",
@@ -2819,7 +4327,33 @@
     "ışık halkası",
     "melek",
     "hale",
-    "masum"
+    "masum",
+    "yüz"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "i̇ngilizce",
+    "latin",
+    "latin alfabesi",
+    "latin alfabesiyle giriş"
+  ],
+  "input_latin_lowercase": [
+    "küçük harf",
+    "küçük harfler",
+    "latin",
+    "latin küçük harfleri",
+    "latin küçük harfleriyle giriş"
+  ],
+  "input_latin_uppercase": [
+    "büyük harf",
+    "büyük harfler",
+    "latin",
+    "latin büyük harfleri",
+    "latin büyük harfleriyle giriş"
+  ],
+  "input_symbols": [
+    "işaret girişi",
+    "işaretler"
   ],
   "iran": [
     "bayrak",
@@ -2831,6 +4365,12 @@
     "bayrak",
     "ırak",
     "iq"
+  ],
+  "ireland": [
+    "bayrak"
+  ],
+  "isle_of_man": [
+    "bayrak"
   ],
   "israel": [
     "bayrak",
@@ -2845,21 +4385,41 @@
   ],
   "jack_o_lantern": [
     "etkinlik",
-    "cadılar bayramı"
+    "cadılar bayramı",
+    "fener",
+    "halloween",
+    "jack",
+    "kabak",
+    "kutlama"
+  ],
+  "jamaica": [
+    "bayrak"
   ],
   "japan": [
     "bayrak",
     "jp",
     "japonya"
   ],
+  "japanese_acceptable_button": [
+    "japonca",
+    "japonca \"kabul edilebilir\" düğmesi"
+  ],
+  "japanese_application_button": [
+    "japonca",
+    "japonca \"uygulama\" düğmesi"
+  ],
   "japanese_bargain_button": [
     "japonca",
-    "japonca rezerve düğmesi"
+    "japonca rezerve düğmesi",
+    "japonca \"avantaj\" düğmesi"
   ],
   "japanese_castle": [
     "yapı",
     "japon kalesi",
-    "kale"
+    "kale",
+    "bina",
+    "japon şatosu",
+    "şato"
   ],
   "japanese_congratulations_button": [
     "sembol",
@@ -2867,40 +4427,91 @@
     "tebrikler",
     "japonca",
     "japonca tebrikler düğmesi",
-    "tebrik"
+    "tebrik",
+    "japonca \"tebrikler\" düğmesi"
+  ],
+  "japanese_discount_button": [
+    "japonca",
+    "japonca \"indirim\" düğmesi"
+  ],
+  "japanese_dolls": [
+    "bebek festivali",
+    "festival",
+    "japon",
+    "japon oyuncak bebekleri",
+    "kutlama"
+  ],
+  "japanese_free_of_charge_button": [
+    "japonca",
+    "japonca \"ücretsiz\" düğmesi"
   ],
   "japanese_here_button": [
     "japonca",
-    "japonca burada düğmesi"
+    "japonca burada düğmesi",
+    "japonca \"burada\" düğmesi"
   ],
   "japanese_monthly_amount_button": [
     "japonca",
-    "japonca aylık ücret düğmesi"
+    "japonca aylık ücret düğmesi",
+    "japonca \"aylık ücret\" düğmesi"
+  ],
+  "japanese_no_vacancy_button": [
+    "japonca",
+    "japonca \"yer yok\" düğmesi"
   ],
   "japanese_not_free_of_charge_button": [
     "japonca",
-    "japonca ücretsiz değil düğmesi"
+    "japonca ücretsiz değil düğmesi",
+    "japonca \"ücretsiz değil\" düğmesi"
   ],
   "japanese_open_for_business_button": [
-    "hizmete hazır"
+    "hizmete hazır",
+    "japonca",
+    "japonca \"hizmete hazır\" düğmesi"
   ],
   "japanese_passing_grade_button": [
-    "geçer not"
+    "geçer not",
+    "japonca",
+    "japonca \"geçer not\" düğmesi"
   ],
   "japanese_post_office": [
     "yapı",
     "japon postanesi",
-    "postane"
+    "postane",
+    "bina",
+    "japon",
+    "posta"
+  ],
+  "japanese_prohibited_button": [
+    "japonca",
+    "japonca \"yasak\" düğmesi"
+  ],
+  "japanese_reserved_button": [
+    "japonca",
+    "japonca \"rezerve\" düğmesi"
   ],
   "japanese_secret_button": [
-    "sır"
+    "sır",
+    "japonca",
+    "japonca \"sır\" düğmesi",
+    "sembol"
   ],
   "japanese_service_charge_button": [
     "japonca",
-    "japonca servis ücreti düğmesi"
+    "japonca servis ücreti düğmesi",
+    "japonca \"servis ücreti\" düğmesi"
+  ],
+  "japanese_symbol_for_beginner": [
+    "japonca",
+    "japonca yeni başlayan sembolü",
+    "yeni başlayan",
+    "yeşil ve sarı",
+    "yeşil ve sarı yaprak"
   ],
   "japanese_vacancy_button": [
-    "yer var"
+    "yer var",
+    "japonca",
+    "japonca \"yer var\" düğmesi"
   ],
   "jar": [
     "kavanoz",
@@ -2913,20 +4524,39 @@
     "kot",
     "blue jean"
   ],
+  "jersey": [
+    "bayrak"
+  ],
   "joker": [
     "kart",
     "iskambil kartı"
+  ],
+  "jordan": [
+    "bayrak"
   ],
   "joy": [
     "mutlu",
     "sevinçli",
     "gülmekten gözünden yaş gelmiş",
-    "sevinç gözyaşları"
+    "sevinç gözyaşları",
+    "gözyaşları",
+    "sevinç",
+    "sevinç gözyaşları olan yüz",
+    "yüz"
   ],
   "joy_cat": [
     "kedi yüzü",
     "sevinç gözyaşları döken kedi",
-    "sevinç gözyaşları olan kedi yüzü"
+    "sevinç gözyaşları olan kedi yüzü",
+    "göz yaşı",
+    "kedi",
+    "sevinç",
+    "yüz"
+  ],
+  "joystick": [
+    "oyun",
+    "oyun çubuğu",
+    "video oyunu"
   ],
   "judge": [
     "adalet",
@@ -2941,7 +4571,8 @@
     "kabe",
     "hac",
     "mekke",
-    "bina"
+    "bina",
+    "kâbe"
   ],
   "kangaroo": [
     "avustralya",
@@ -2963,7 +4594,9 @@
   ],
   "key": [
     "kilit",
-    "anahtar"
+    "anahtar",
+    "parola",
+    "şifre"
   ],
   "keyboard": [
     "bilgisayar",
@@ -2979,16 +4612,31 @@
     "elbise",
     "giyim"
   ],
+  "kiribati": [
+    "bayrak"
+  ],
   "kiss": [
-    "öpüşen çift"
+    "öpüşen çift",
+    "kişiler",
+    "öpücük",
+    "öpüşme",
+    "romantizm"
   ],
   "kiss_man_man": [
     "gay",
-    "öpüşen çift"
+    "öpüşen çift",
+    "erkek",
+    "kişiler",
+    "öpücük",
+    "öpüşme",
+    "romantizm"
   ],
   "kiss_mark": [
     "dudak",
-    "öpücük"
+    "öpücük",
+    "dudaklar",
+    "öpücük izi",
+    "romantizm"
   ],
   "kiss_woman_man": [
     "çift",
@@ -2996,44 +4644,63 @@
     "sevgi",
     "aşk",
     "öpüşmek",
-    "öpücük"
+    "öpücük",
+    "erkek",
+    "kadın",
+    "kişiler",
+    "öpüşme",
+    "romantizm"
   ],
   "kiss_woman_woman": [
     "öpüşen çift",
-    "lezbiyen"
+    "lezbiyen",
+    "kadın",
+    "kişiler",
+    "öpücük",
+    "öpüşme",
+    "romantizm"
   ],
   "kissing_cat": [
     "gözler kapalı",
     "kedi",
     "kapalı gözle öpen kedi yüzü",
     "öpücük",
-    "öpen"
+    "öpen",
+    "göz",
+    "öpen kedi",
+    "yüz"
   ],
   "kissing_face": [
     "öp",
     "öpücük",
     "öpmek",
-    "öpen yüz"
+    "öpen yüz",
+    "yüz"
   ],
   "kissing_face_with_closed_eyes": [
     "gözler kapalı",
     "kapalı gözlerle öpen yüz",
-    "gözler kapalı öpüşme"
+    "gözler kapalı öpüşme",
+    "yüz"
   ],
   "kissing_face_with_smiling_eyes": [
     "gülümseme",
     "gülen gözlerle öpen yüz",
     "gülümseyen gözler",
-    "gülümseyerek öpen yüz"
+    "gülümseyerek öpen yüz",
+    "yüz"
   ],
   "kitchen_knife": [
     "bıçak",
     "silah",
     "çatal bıçak takımı",
-    "bulaşık"
+    "bulaşık",
+    "mutfak bıçağı"
   ],
   "kite": [
-    "uçurtma"
+    "uçurtma",
+    "süzülme",
+    "uçma"
   ],
   "kiwi_fruit": [
     "meyve",
@@ -3042,11 +4709,22 @@
   ],
   "knot": [
     "düğüm",
-    "ilmek"
+    "ilmek",
+    "bağlı",
+    "denizci düğümü",
+    "dolaşık",
+    "halat",
+    "sicim"
   ],
   "koala": [
     "hayvan",
     "koala ayısı"
+  ],
+  "kosovo": [
+    "bayrak"
+  ],
+  "kuwait": [
+    "bayrak"
   ],
   "kyrgyzstan": [
     "bayrak",
@@ -3070,7 +4748,10 @@
     "lakros"
   ],
   "ladder": [
-    "merdiven"
+    "merdiven",
+    "adım",
+    "basamak",
+    "tırmanış"
   ],
   "lady_beetle": [
     "hayvan",
@@ -3080,6 +4761,9 @@
     "hanım",
     "ebem böceği",
     "uğurböceği"
+  ],
+  "laos": [
+    "bayrak"
   ],
   "laptop": [
     "bilgisayar",
@@ -3110,13 +4794,33 @@
     "son dördün ay yüzü",
     "yüzü olan son dördün"
   ],
+  "last_track_button": [
+    "ok",
+    "önceki parça",
+    "önceki sahne",
+    "son parça düğmesi",
+    "üçgen"
+  ],
+  "latin_cross": [
+    "din",
+    "haç",
+    "hristiyan",
+    "i̇sa",
+    "latin haçı"
+  ],
+  "latvia": [
+    "bayrak"
+  ],
   "laughing": [
     "gülümseme",
     "gülmek",
     "gülme",
     "ağız açık gözler kapalı",
     "kapalı gözlerle gülümseme",
-    "kapalı gözlerle ağzı açık sırıtma"
+    "kapalı gözlerle ağzı açık sırıtma",
+    "ağız açık",
+    "gözler kapalı",
+    "yüz"
   ],
   "leaf_fluttering_in_wind": [
     "esen",
@@ -3131,10 +4835,42 @@
     "karalahana",
     "çin lahanası"
   ],
+  "lebanon": [
+    "bayrak"
+  ],
+  "ledger": [
+    "not defteri",
+    "resmi defter"
+  ],
+  "left_arrow": [
+    "ana yön",
+    "batı",
+    "ok",
+    "sol ok",
+    "yön"
+  ],
+  "left_arrow_curving_right": [
+    "ok",
+    "sağa kıvrımlı sol ok"
+  ],
   "left_facing_fist": [
     "yumruk",
     "sola bakan yumruk",
     "sola doğru"
+  ],
+  "left_luggage": [
+    "bagaj",
+    "bagaj hizmeti",
+    "eşya emanet"
+  ],
+  "left_right_arrow": [
+    "ok",
+    "sol ve sağ ok"
+  ],
+  "left_speech_bubble": [
+    "diyalog",
+    "konuşma",
+    "sol konuşma balonu"
   ],
   "leftwards_hand": [
     "el"
@@ -3148,13 +4884,36 @@
     "limon",
     "narenciye"
   ],
+  "leo": [
+    "aslan burcu",
+    "burçlar"
+  ],
   "leopard": [
     "leopar"
+  ],
+  "lesotho": [
+    "bayrak"
+  ],
+  "level_slider": [
+    "ayar çubuğu",
+    "ayarlama çubuğu",
+    "kol",
+    "müzik"
+  ],
+  "liberia": [
+    "bayrak"
+  ],
+  "libra": [
+    "burçlar",
+    "terazi burcu"
   ],
   "libya": [
     "bayrak",
     "ly",
     "libya bayrağı"
+  ],
+  "liechtenstein": [
+    "bayrak"
   ],
   "light_bulb": [
     "çizgi roman",
@@ -3166,21 +4925,39 @@
   "light_rail": [
     "demiryolu",
     "tren",
-    "hafif raylı sistem"
+    "hafif raylı sistem",
+    "hafif",
+    "hafif raylı",
+    "taşıt"
   ],
   "link": [
     "bağlantı",
     "zincir",
-    "url"
+    "url",
+    "bağlantı işareti",
+    "bağlantılar",
+    "iki halka"
+  ],
+  "linked_paperclips": [
+    "ataş",
+    "bağlantı",
+    "iç içe geçmiş ataşlar"
   ],
   "lion": [
     "hayvan",
     "aslan",
-    "aslan yüzü"
+    "aslan yüzü",
+    "burç",
+    "yüz"
   ],
   "lipstick": [
     "ruj",
-    "dudak boyası"
+    "dudak boyası",
+    "kozmetik",
+    "makyaj"
+  ],
+  "lithuania": [
+    "bayrak"
   ],
   "litter_in_bin_sign": [
     "çöp kutusu",
@@ -3193,7 +4970,11 @@
     "sürüngen"
   ],
   "llama": [
-    "lama"
+    "lama",
+    "alpaka",
+    "guanako",
+    "vikunya",
+    "yün"
   ],
   "lobster": [
     "ıstakoz",
@@ -3203,27 +4984,70 @@
   ],
   "locked": [
     "kilit",
-    "kilitli"
+    "kilitli",
+    "kapalı kilit"
+  ],
+  "locked_with_key": [
+    "anahtarlı kapalı kilit",
+    "anahtarlı kilit",
+    "güvenli"
+  ],
+  "locked_with_pen": [
+    "gizlilik",
+    "kilit ve kalem",
+    "mürekkepli kalem",
+    "mürekkepli kalemli kilit"
   ],
   "locomotive": [
     "buharlı lokomotif",
     "tren",
-    "lokomotif"
+    "lokomotif",
+    "taşıt"
   ],
   "lollipop": [
     "restoran",
     "şekerleme",
     "lolipop"
   ],
+  "long_drum": [
+    "conga",
+    "davul",
+    "ritm",
+    "tempo",
+    "uzun davul",
+    "vuruş"
+  ],
+  "lotion_bottle": [
+    "güneş kremi",
+    "losyon",
+    "losyon şişesi",
+    "nemlendirici",
+    "şampuan"
+  ],
   "lotus": [
     "çiçek",
     "nilüfer"
+  ],
+  "loudspeaker": [
+    "halka hitap",
+    "hoparlör",
+    "iletişim",
+    "megafon"
+  ],
+  "love_hotel": [
+    "aşk",
+    "aşk oteli",
+    "bina",
+    "otel"
   ],
   "love_letter": [
     "kalp",
     "aşk",
     "mektup",
-    "kalp ünlemi"
+    "kalp ünlemi",
+    "aşk mektubu",
+    "kalpli mektup",
+    "romantizm"
   ],
   "love_you_gesture": [
     "el",
@@ -3240,33 +5064,66 @@
   ],
   "lungs": [
     "organ",
-    "akciğer"
+    "akciğer",
+    "nefes",
+    "soluk",
+    "solunum"
+  ],
+  "luxembourg": [
+    "bayrak"
   ],
   "lying_face": [
     "pinokyo",
     "yalancı surat",
     "yalan söyleme",
-    "yalancı"
+    "yalancı",
+    "yalan söyleyen yüz",
+    "yüz"
+  ],
+  "macao_sar_china": [
+    "bayrak"
+  ],
+  "madagascar": [
+    "bayrak"
   ],
   "mage": [
     "büyücü",
     "büyü",
-    "sihirbaz"
+    "sihirbaz",
+    "cadı"
   ],
   "magic_wand": [
     "büyü",
-    "değnek"
+    "değnek",
+    "büyücü",
+    "cadı",
+    "sihir",
+    "sihirli asa"
   ],
   "magnet": [
     "araç",
-    "mıknatıs"
+    "mıknatıs",
+    "at nalı",
+    "çekim",
+    "manyetik"
   ],
   "magnifying_glass_tilted_left": [
     "arama",
     "dergi",
     "tespit etme",
     "büyüteç",
-    "yakınlaştır"
+    "yakınlaştır",
+    "cam",
+    "sola dönük büyüteç",
+    "solu gösteren",
+    "solu gösteren büyüteç"
+  ],
+  "magnifying_glass_tilted_right": [
+    "arama",
+    "cam",
+    "sağa dönük büyüteç",
+    "sağı gösteren",
+    "sağı gösteren büyüteç"
   ],
   "mahjong_red_dragon": [
     "ejderha",
@@ -3274,6 +5131,26 @@
     "taş",
     "mahjong",
     "kızıl ejder"
+  ],
+  "malawi": [
+    "bayrak"
+  ],
+  "malaysia": [
+    "bayrak"
+  ],
+  "maldives": [
+    "bayrak"
+  ],
+  "male_sign": [
+    "adam",
+    "erkek",
+    "erkek sembolü"
+  ],
+  "mali": [
+    "bayrak"
+  ],
+  "malta": [
+    "bayrak"
   ],
   "mammoth": [
     "soyu tükenen",
@@ -3305,7 +5182,8 @@
     "erkek",
     "kel",
     "saçsız",
-    "kel erkek"
+    "kel erkek",
+    "kişiler"
   ],
   "man_beard": [
     "adam",
@@ -3318,7 +5196,8 @@
     "bisiklet süren erkek",
     "bisikletçi",
     "bisiklet",
-    "bisiklet sürme"
+    "bisiklet sürme",
+    "adam"
   ],
   "man_bouncing_ball": [
     "erkek",
@@ -3347,13 +5226,18 @@
     "spor",
     "perende atan erkek",
     "yanlamasına takla",
-    "jimnastik"
+    "jimnastik",
+    "adam",
+    "çember hareketi",
+    "erkek",
+    "kişi"
   ],
   "man_climbing": [
     "kaya",
     "erkek tırmanıcı",
     "tırmanma",
-    "kaya tırmanışı"
+    "kaya tırmanışı",
+    "dağcı erkek"
   ],
   "man_cook": [
     "erkek",
@@ -3367,22 +5251,28 @@
     "saç",
     "erkek",
     "kişi",
-    "kıvırcık saç"
+    "kıvırcık saç",
+    "kişiler"
   ],
   "man_dancing": [
     "dans",
-    "dans eden erkek"
+    "dans eden erkek",
+    "adam",
+    "dans eden adam"
   ],
   "man_detective": [
     "casus",
     "sherlock",
     "erkek dedektif",
     "dedektif",
-    "hafiye"
+    "hafiye",
+    "adam",
+    "erkek"
   ],
   "man_elf": [
     "erkek elf",
-    "elf"
+    "elf",
+    "sihirli"
   ],
   "man_facepalming": [
     "erkek",
@@ -3405,7 +5295,9 @@
   ],
   "man_fairy": [
     "peri",
-    "erkek peri"
+    "erkek peri",
+    "oberon",
+    "puck"
   ],
   "man_farmer": [
     "erkek",
@@ -3460,23 +5352,35 @@
   ],
   "man_getting_haircut": [
     "saç kesimi",
-    "berber"
+    "berber",
+    "adam",
+    "erkek",
+    "saç kestiren erkek"
   ],
   "man_getting_massage": [
     "masaj",
     "masaj yapan eller",
-    "başına masaj yaptıran erkek"
+    "başına masaj yaptıran erkek",
+    "adam",
+    "erkek",
+    "yüz",
+    "yüz masajı yaptıran erkek"
   ],
   "man_golfing": [
     "spor",
     "golfçü",
     "golf",
-    "erkek golfçü"
+    "erkek golfçü",
+    "adam",
+    "erkek",
+    "golf oynayan erkek"
   ],
   "man_guard": [
     "bekçi",
     "muhafız",
-    "kadın bekçi"
+    "kadın bekçi",
+    "adam",
+    "erkek"
   ],
   "man_health_worker": [
     "erkek",
@@ -3498,7 +5402,10 @@
   ],
   "man_in_manual_wheelchair": [
     "tekerlekli sandalye",
-    "tekerlekli sandalyeli adam"
+    "tekerlekli sandalyeli adam",
+    "erişilebilirlik",
+    "erkek",
+    "tekerlekli sandalyede erkek"
   ],
   "man_in_motorized_wheelchair": [
     "erkek",
@@ -3510,7 +5417,9 @@
     "erkek",
     "sauna",
     "buharlı oda",
-    "buhar banyosu"
+    "buhar banyosu",
+    "buhar odası",
+    "buhar odasındaki erkek"
   ],
   "man_in_tuxedo": [
     "adam",
@@ -3531,7 +5440,11 @@
     "yetenek",
     "jonglör",
     "aynı anda birçok iş yapma",
-    "hokkabazlık"
+    "hokkabazlık",
+    "adam",
+    "aynı anda birçok iş",
+    "erkek",
+    "jonglör erkek"
   ],
   "man_kneeling": [
     "erkek",
@@ -3545,7 +5458,8 @@
     "spor",
     "sporcu",
     "ağırlık kaldıran",
-    "ağırlık kaldıran erkek"
+    "ağırlık kaldıran erkek",
+    "adam"
   ],
   "man_mage": [
     "erkek büyücü",
@@ -3567,7 +5481,9 @@
     "dağ",
     "dağ bisikleti",
     "bisiklet sürme",
-    "dağ bisikleti süren erkek"
+    "dağ bisikleti süren erkek",
+    "adam",
+    "bisikletçi"
   ],
   "man_office_worker": [
     "erkek",
@@ -3590,20 +5506,29 @@
     "spor",
     "top",
     "hentbol",
-    "hentbol oynayan erkek"
+    "hentbol oynayan erkek",
+    "adam",
+    "erkek"
   ],
   "man_playing_water_polo": [
     "spor",
     "top",
     "su topu",
-    "su topu oynayan erkek"
+    "su topu oynayan erkek",
+    "adam",
+    "erkek"
   ],
   "man_police_officer": [
     "polis",
     "kişi",
     "polis memuru",
     "erkek polis",
-    "görevli"
+    "görevli",
+    "adam",
+    "aynasız",
+    "erkek",
+    "erkek polis memuru",
+    "memur"
   ],
   "man_pouting": [
     "erkek",
@@ -3630,14 +5555,17 @@
     "kızıl",
     "kişi",
     "bıyık",
-    "insan"
+    "insan",
+    "kişiler",
+    "kızıl saç"
   ],
   "man_rowing_boat": [
     "erkek",
     "spor",
     "sandal",
     "kayık",
-    "sandalda kürek çeken erkek"
+    "sandalda kürek çeken erkek",
+    "adam"
   ],
   "man_running": [
     "spor",
@@ -3646,7 +5574,13 @@
     "kişi koşuyor",
     "koşucu",
     "koşmak",
-    "erkek koşucu"
+    "erkek koşucu",
+    "adam",
+    "erkek",
+    "koşan erkek",
+    "koşma",
+    "maraton",
+    "yarış"
   ],
   "man_s_shoe": [
     "ayakkabı",
@@ -3689,7 +5623,8 @@
     "ayakta durmak",
     "ayakta duran",
     "ayakta duran erkek",
-    "ayakta"
+    "ayakta",
+    "adam"
   ],
   "man_student": [
     "erkek",
@@ -3718,14 +5653,19 @@
     "sörf yapan erkek",
     "sörf",
     "sörfçü",
-    "sörf yapan kişi"
+    "sörf yapan kişi",
+    "adam",
+    "erkek"
   ],
   "man_swimming": [
     "spor",
     "yüzme",
     "erkek yüzücü",
     "yüzücü",
-    "yüzen kişi"
+    "yüzen kişi",
+    "adam",
+    "erkek",
+    "yüzen erkek"
   ],
   "man_teacher": [
     "erkek",
@@ -3757,11 +5697,17 @@
   ],
   "man_vampire": [
     "vampir",
-    "erkek vampir"
+    "erkek vampir",
+    "drakula",
+    "hortlak"
   ],
   "man_walking": [
     "yürüyen erkek",
-    "yürümek"
+    "yürümek",
+    "adam",
+    "dolaşma",
+    "erkek",
+    "yürüme"
   ],
   "man_wearing_turban": [
     "erkek",
@@ -3774,23 +5720,33 @@
     "yaşlı",
     "gri",
     "bıyık",
-    "yaşlı erkek"
+    "yaşlı erkek",
+    "beyaz saç",
+    "erkek",
+    "kişiler"
   ],
   "man_with_veil": [
     "kişiler",
     "duvak",
     "duvaklı adam",
     "evlilik",
-    "peçeli adam"
+    "peçeli adam",
+    "adam",
+    "duvaklı erkek"
   ],
   "man_with_white_cane": [
     "beyaz baston",
     "görme engelli",
-    "kör"
+    "kör",
+    "erişilebilirlik",
+    "erkek",
+    "görme engelli bastonlu erkek"
   ],
   "man_zombie": [
     "erkek zombi",
-    "zombi"
+    "zombi",
+    "hortlak",
+    "yürüyen ölü"
   ],
   "mango": [
     "meyve",
@@ -3800,10 +5756,22 @@
     "saat",
     "raf saati"
   ],
+  "manual_wheelchair": [
+    "erişilebilirlik",
+    "tekerlekli sandalye"
+  ],
+  "map_of_japan": [
+    "harita",
+    "japonya",
+    "japonya haritası"
+  ],
   "maple_leaf": [
     "yaprak",
     "düşen yaprak",
     "akçaağaç yaprağı"
+  ],
+  "marshall_islands": [
+    "bayrak"
   ],
   "martial_arts_uniform": [
     "spor",
@@ -3813,6 +5781,22 @@
     "forma",
     "tekvando",
     "judo"
+  ],
+  "martinique": [
+    "bayrak"
+  ],
+  "mate": [
+    "içecek",
+    "mate çayı"
+  ],
+  "mauritania": [
+    "bayrak"
+  ],
+  "mauritius": [
+    "bayrak"
+  ],
+  "mayotte": [
+    "bayrak"
   ],
   "meat_on_bone": [
     "restoran",
@@ -3833,13 +5817,43 @@
     "mekanik bacak",
     "protez"
   ],
+  "medical_symbol": [
+    "asklepios",
+    "medikal sembol",
+    "tıbbi sembol",
+    "tıp",
+    "tıp çalışanı",
+    "tıp sembolü"
+  ],
+  "megaphone": [
+    "iletişim",
+    "karşılama",
+    "megafon"
+  ],
   "melon": [
     "meyve",
     "kavun"
   ],
+  "memo": [
+    "iletişim",
+    "not",
+    "not defteri"
+  ],
   "men_holding_hands": [
     "el ele tutuşan çift",
-    "iki erkek el ele"
+    "iki erkek el ele",
+    "çift",
+    "el ele tutuşan",
+    "el ele tutuşan erkekler",
+    "el ele tutuşan iki erkek",
+    "erkek",
+    "ikizler",
+    "kişiler"
+  ],
+  "men_s_room": [
+    "erkekler tuvaleti",
+    "işaret",
+    "tuvalet"
   ],
   "men_with_bunny_ears": [
     "erkek",
@@ -3855,21 +5869,37 @@
     "spor",
     "güreş",
     "güreşçi",
-    "güreşen erkekler"
+    "güreşen erkekler",
+    "adam",
+    "erkek",
+    "güreş yapan erkek",
+    "kişi"
+  ],
+  "menorah": [
+    "din",
+    "menora",
+    "mum",
+    "şamdan",
+    "yahudi şamdanı"
   ],
   "mermaid": [
-    "deniz kızı"
+    "deniz kızı",
+    "balık kadın",
+    "denizkızı"
   ],
   "merman": [
-    "deniz adamı"
+    "deniz adamı",
+    "balık adam"
   ],
   "merperson": [
     "deniz tanrısı",
     "poseidon",
-    "deniz kızı"
+    "deniz kızı",
+    "balık insan"
   ],
   "metro": [
-    "metro treni"
+    "metro treni",
+    "taşıt"
   ],
   "mexico": [
     "bayrak",
@@ -3888,29 +5918,61 @@
     "mikrop",
     "coronavirus"
   ],
+  "micronesia": [
+    "bayrak"
+  ],
   "microphone": [
     "eğlence",
     "mikrofon",
     "kayıt",
-    "şarkı"
+    "şarkı",
+    "karaoke"
+  ],
+  "microscope": [
+    "alet",
+    "bilim",
+    "mikroskop"
   ],
   "military_helmet": [
     "asker",
     "kask",
     "ordu",
-    "miğfer"
+    "miğfer",
+    "asker kaskı",
+    "askerlik",
+    "savaşçı"
   ],
   "military_medal": [
     "madalya",
     "ödül",
-    "askeri madalya"
+    "askeri madalya",
+    "askeri",
+    "kutlama"
+  ],
+  "milky_way": [
+    "gökyüzü",
+    "samanyolu",
+    "uzay"
   ],
   "minibus": [
     "taşıt",
-    "minibüs"
+    "minibüs",
+    "otobüs"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "eksi",
+    "eksi işareti",
+    "işaret",
+    "matematik"
   ],
   "mirror": [
-    "ayna"
+    "ayna",
+    "reflektör",
+    "spekulum",
+    "yansıma",
+    "yansıtıcı"
   ],
   "mirror_ball": [
     "disko topu",
@@ -3927,11 +5989,24 @@
     "cep telefonu",
     "mobil telefon"
   ],
+  "mobile_phone_off": [
+    "cep telefonu",
+    "cep telefonu kapalı",
+    "kapalı",
+    "mobil",
+    "telefon"
+  ],
   "mobile_phone_with_arrow": [
     "telefon",
     "mobil telefon",
     "ok işaretli cep telefonu",
     "çağrı yapmak"
+  ],
+  "moldova": [
+    "bayrak"
+  ],
+  "monaco": [
+    "bayrak"
   ],
   "money_bag": [
     "bitcoin",
@@ -3943,12 +6018,17 @@
     "para çuvalı",
     "zengin",
     "kripto para",
-    "para çantası"
+    "para çantası",
+    "çanta",
+    "dolar çantası",
+    "para torbası"
   ],
   "money_mouth_face": [
     "para",
     "para ağızlı yüz",
-    "para ağız"
+    "para ağız",
+    "ağız",
+    "yüz"
   ],
   "money_with_wings": [
     "bitcoin",
@@ -3960,7 +6040,12 @@
     "banknot",
     "kanatlı para",
     "zengin",
-    "kripto para"
+    "kripto para",
+    "banka",
+    "uçan banknot"
+  ],
+  "mongolia": [
+    "bayrak"
   ],
   "monkey": [
     "hayvan",
@@ -3976,7 +6061,14 @@
   "monorail": [
     "demiryolu",
     "tren",
-    "monoray"
+    "monoray",
+    "taşıt"
+  ],
+  "montenegro": [
+    "bayrak"
+  ],
+  "montserrat": [
+    "bayrak"
   ],
   "moon_cake": [
     "yuèbǐng",
@@ -3984,10 +6076,22 @@
     "ay pastası",
     "sonbahar"
   ],
+  "moon_viewing_ceremony": [
+    "ay",
+    "ay izleme töreni",
+    "izleme",
+    "kutlama"
+  ],
+  "morocco": [
+    "bayrak"
+  ],
   "mosque": [
     "yapı",
     "din",
-    "camii"
+    "camii",
+    "cami",
+    "i̇slam",
+    "müslüman"
   ],
   "mosquito": [
     "böcek",
@@ -4013,9 +6117,16 @@
     "yarış",
     "motosiklet"
   ],
+  "motorized_wheelchair": [
+    "elektrikli tekerlekli sandalye",
+    "erişilebilirlik"
+  ],
   "motorway": [
     "otoyol",
-    "yol"
+    "yol",
+    "anayol",
+    "cadde",
+    "otoban"
   ],
   "mount_fuji": [
     "dağ",
@@ -4025,21 +6136,37 @@
     "dağ"
   ],
   "mountain_cableway": [
-    "teleferik"
+    "teleferik",
+    "dağ",
+    "dağ teleferiği",
+    "dağ teleferik hattı",
+    "kablo",
+    "taşıt",
+    "vagon"
   ],
   "mountain_railway": [
     "tren",
-    "dağ tren"
+    "dağ tren",
+    "dağ",
+    "dağ teleferiği",
+    "demiryolu",
+    "taşıt",
+    "vagon"
   ],
   "mouse": [
     "fare"
   ],
   "mouse_face": [
-    "fare"
+    "fare",
+    "fare yüzü",
+    "hayvan",
+    "yüz"
   ],
   "mouse_trap": [
     "fare kapanı",
-    "kapan"
+    "kapan",
+    "kıskaç",
+    "tuzak"
   ],
   "mouth": [
     "yüz",
@@ -4052,12 +6179,26 @@
     "film",
     "film kamerası",
     "kamera",
-    "sinema"
+    "sinema",
+    "eğlence"
+  ],
+  "mozambique": [
+    "bayrak"
   ],
   "mrs_claus": [
     "yılbaşı",
     "noel",
-    "noel anne"
+    "noel anne",
+    "anne"
+  ],
+  "multiply": [
+    "×",
+    "çarpım",
+    "çarpım işareti",
+    "çarpma",
+    "iptal",
+    "işaret",
+    "x"
   ],
   "mushroom": [
     "bitki",
@@ -4079,17 +6220,29 @@
   ],
   "musical_notes": [
     "müzik",
-    "müzik notları"
+    "müzik notları",
+    "müzik notaları",
+    "nota",
+    "notalar"
   ],
   "musical_score": [
     "müzik",
     "sol anahtarı",
     "partisyon"
   ],
+  "muted_speaker": [
+    "iptal işaretli hoparlör",
+    "lütfen sessiz olun",
+    "ses kapalı",
+    "sessiz olun"
+  ],
   "mx_claus": [
     "noel",
     "cinsiyet belirtmeyen noel karakteri",
     "noel figürü"
+  ],
+  "myanmar_burma": [
+    "bayrak"
   ],
   "nail_polish": [
     "el",
@@ -4100,15 +6253,28 @@
     "oje",
     "kozmetik"
   ],
+  "name_badge": [
+    "ad",
+    "ad rozeti",
+    "rozet"
+  ],
+  "namibia": [
+    "bayrak"
+  ],
   "national_park": [
     "ulusal park",
-    "park"
+    "park",
+    "milli park"
+  ],
+  "nauru": [
+    "bayrak"
   ],
   "nauseated_face": [
     "hasta",
     "kusmak üzere olan yüz",
     "istifra",
-    "kusmak üzere"
+    "kusmak üzere",
+    "yüz"
   ],
   "nazar_amulet": [
     "nazar",
@@ -4116,19 +6282,31 @@
     "boncuk",
     "muska",
     "tılsım",
-    "kem göz"
+    "kem göz",
+    "mavi boncuk",
+    "nazarlık"
   ],
   "necktie": [
     "giyim",
     "kravat",
     "gömlek"
   ],
+  "nepal": [
+    "bayrak"
+  ],
   "nerd_face": [
     "gözlük",
     "inek surat",
     "bilgili",
     "ukala",
-    "inek öğrenci"
+    "inek öğrenci",
+    "yüz"
+  ],
+  "nesting_dolls": [
+    "bebek",
+    "iç içe",
+    "matruşka",
+    "rusya"
   ],
   "netherlands": [
     "bayrak",
@@ -4140,11 +6318,18 @@
     "duygusuz",
     "yorum yok",
     "nötr",
-    "yorumsuz yüz"
+    "yorumsuz yüz",
+    "yüz"
   ],
   "new_button": [
     "yeni",
-    "yeni düğmesi"
+    "yeni düğmesi",
+    "işaret",
+    "new düğmesi",
+    "yeni işareti"
+  ],
+  "new_caledonia": [
+    "bayrak"
   ],
   "new_moon": [
     "ay",
@@ -4158,13 +6343,35 @@
     "yeni ay yüzü",
     "yüzü olan yeni ay"
   ],
+  "new_zealand": [
+    "bayrak"
+  ],
   "newspaper": [
     "gazete",
-    "haber"
+    "haber",
+    "kâğıt"
   ],
   "next_track_button": [
     "sonraki parça",
-    "sonraki parça düğmesi"
+    "sonraki parça düğmesi",
+    "ok",
+    "sonraki sahne",
+    "üçgen"
+  ],
+  "ng_button": [
+    "işaret",
+    "ng",
+    "ng düğmesi",
+    "ng işareti"
+  ],
+  "nicaragua": [
+    "bayrak"
+  ],
+  "niger": [
+    "bayrak"
+  ],
+  "nigeria": [
+    "bayrak"
   ],
   "night_with_stars": [
     "yıldızlar",
@@ -4176,10 +6383,63 @@
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "dokuz"
+    "dokuz",
+    "tuş"
+  ],
+  "nine_o_clock": [
+    "9:00",
+    "dokuz",
+    "saat",
+    "saat 9"
+  ],
+  "nine_thirty": [
+    "9:30",
+    "dokuz buçuk",
+    "saat"
   ],
   "ninja": [
-    "dövüşçü"
+    "dövüşçü",
+    "gizli",
+    "saklı"
+  ],
+  "niue": [
+    "bayrak"
+  ],
+  "no_bicycles": [
+    "bisiklet",
+    "bisiklet giremez",
+    "bisiklet yasak",
+    "taşıt"
+  ],
+  "no_entry": [
+    "girilmez",
+    "hayır",
+    "işaret",
+    "yasak"
+  ],
+  "no_littering": [
+    "çöp atılmaz",
+    "çöp atmayın",
+    "çöp atmayın işareti",
+    "işaret"
+  ],
+  "no_mobile_phones": [
+    "çağrı yapılmaz",
+    "cep telefonu yasak",
+    "mobil",
+    "telefon"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "18 yaş altı",
+    "18 yaş altı yasak",
+    "18 yaş altı yasaktır"
+  ],
+  "no_pedestrians": [
+    "işaret",
+    "yaya",
+    "yayalar giremez",
+    "yayalara yasak"
   ],
   "no_smoking": [
     "semboller",
@@ -4189,13 +6449,34 @@
     "sigara yasak",
     "sigara içmeyin",
     "sigara",
-    "sigara yasağı"
+    "sigara yasağı",
+    "duman",
+    "sigara içilmez",
+    "tütün",
+    "yasak"
+  ],
+  "non_potable_water": [
+    "içilmeyen",
+    "içilmez",
+    "su"
+  ],
+  "norfolk_island": [
+    "bayrak"
   ],
   "north_korea": [
     "bayrak",
     "kore",
     "kp",
     "kuzey kore"
+  ],
+  "north_macedonia": [
+    "bayrak"
+  ],
+  "northern_mariana_islands": [
+    "bayrak"
+  ],
+  "norway": [
+    "bayrak"
   ],
   "nose": [
     "yüz",
@@ -4204,11 +6485,20 @@
     "vücut",
     "koku"
   ],
+  "notebook": [
+    "not defteri"
+  ],
   "notebook_with_decorative_cover": [
     "kapak",
     "süslü not defteri",
     "dekorasyonlu not defteri",
     "not defteri"
+  ],
+  "nut_and_bolt": [
+    "araç",
+    "somun",
+    "somun ve vida",
+    "vida"
   ],
   "o_button_blood_type": [
     "kan",
@@ -4216,7 +6506,11 @@
     "0",
     "o kan",
     "0 kan",
-    "o düğmesi (kan grubu)"
+    "o düğmesi (kan grubu)",
+    "0 düğmesi (kan grubu)",
+    "kan grubu o",
+    "o",
+    "o grubu kan"
   ],
   "ocean": [
     "dalga",
@@ -4224,7 +6518,8 @@
     "su dalgası"
   ],
   "octopus": [
-    "ahtapot"
+    "ahtapot",
+    "hayvan"
   ],
   "oden": [
     "restoran",
@@ -4234,7 +6529,8 @@
   "office_building": [
     "yapı",
     "ofis binası",
-    "ofis"
+    "ofis",
+    "bina"
   ],
   "office_worker": [
     "yönetici",
@@ -4246,11 +6542,26 @@
   ],
   "ogre": [
     "şeytan",
-    "canavar"
+    "canavar",
+    "dev",
+    "japon canavarı",
+    "oni",
+    "peri masalı",
+    "yüz"
   ],
   "oil_drum": [
     "varil",
-    "yağ varili"
+    "yağ varili",
+    "benzin",
+    "fıçı",
+    "petrol",
+    "petrol varili"
+  ],
+  "ok_button": [
+    "ok düğmesi",
+    "ok işareti",
+    "tamam",
+    "tamam işareti"
   ],
   "ok_hand": [
     "işaret",
@@ -4260,7 +6571,10 @@
     "tamam işareti"
   ],
   "old_key": [
-    "anahtar"
+    "anahtar",
+    "eski",
+    "ipucu",
+    "kilit"
   ],
   "old_man": [
     "erkek",
@@ -4285,19 +6599,36 @@
   ],
   "olive": [
     "zeytin",
-    "yeşilzeytin"
+    "yeşilzeytin",
+    "yiyecek"
+  ],
+  "om": [
+    "din",
+    "hinduizm"
+  ],
+  "oman": [
+    "bayrak"
+  ],
+  "on_arrow": [
+    "açık oku",
+    "ok",
+    "ünlem",
+    "ünlem işareti",
+    "ünlem işareti ve okla açik"
   ],
   "oncoming_automobile": [
     "araba",
     "taşıt",
     "kırmızı araba",
     "yaklaşan otomobil",
-    "otomobil"
+    "otomobil",
+    "yaklaşan"
   ],
   "oncoming_bus": [
     "taşıt",
     "otobüs",
-    "yaklaşan otobüs"
+    "yaklaşan otobüs",
+    "yaklaşan"
   ],
   "oncoming_fist": [
     "el",
@@ -4309,7 +6640,10 @@
     "araba",
     "polis arabası",
     "yaklaşmakta olan polis arabası",
-    "oto"
+    "oto",
+    "polis",
+    "taşıt",
+    "yaklaşan polis arabası"
   ],
   "oncoming_taxi": [
     "taşıt",
@@ -4321,17 +6655,37 @@
     "sayı tuşu",
     "sayı",
     "rakam",
-    "bir"
+    "bir",
+    "tuş"
+  ],
+  "one_o_clock": [
+    "1:00",
+    "bir",
+    "saat",
+    "saat 1"
   ],
   "one_piece_swimsuit": [
-    "mayo"
+    "mayo",
+    "tek parça mayo"
+  ],
+  "one_thirty": [
+    "1:30",
+    "bir buçuk",
+    "saat"
   ],
   "onion": [
-    "soğan"
+    "soğan",
+    "baharat"
   ],
   "open_book": [
     "kitap",
     "açık kitap"
+  ],
+  "open_file_folder": [
+    "açık",
+    "açık dosya klasörü",
+    "dosya",
+    "klasör"
   ],
   "open_hands": [
     "işaret",
@@ -4342,13 +6696,30 @@
     "avuç içi",
     "eller açık işareti"
   ],
+  "open_mailbox_with_lowered_flag": [
+    "açık",
+    "işaret",
+    "işareti aşağıda açık posta kutusu",
+    "işareti indirilmiş açık posta kutusu",
+    "posta"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "açık",
+    "işaret",
+    "işareti kaldırılmış açık posta kutusu",
+    "işareti yukarıda açık posta kutusu",
+    "posta"
+  ],
   "open_mouth": [
     "şaşırmış",
     "ağzı açık",
     "ah",
     "şok olmuş",
     "vay",
-    "açıkgöz"
+    "açıkgöz",
+    "ağız",
+    "ağzı açık yüz",
+    "yüz"
   ],
   "ophiuchus": [
     "zodyak",
@@ -4358,14 +6729,21 @@
   ],
   "optical_disk": [
     "cd",
-    "disk"
+    "disk",
+    "dvd",
+    "optik disk"
+  ],
+  "orange_book": [
+    "kitap",
+    "turuncu kitap"
   ],
   "orange_circle": [
     "top",
     "turuncu küre",
     "küre",
     "turuncu",
-    "turuncu top"
+    "turuncu top",
+    "daire"
   ],
   "orange_heart": [
     "portakal",
@@ -4379,14 +6757,30 @@
   "orangutan": [
     "maymun"
   ],
+  "orthodox_cross": [
+    "din",
+    "haç",
+    "hristiyan",
+    "i̇sa",
+    "ortodoks haçı"
+  ],
   "otter": [
     "oyuncu",
     "balık avlayan",
     "su samuru"
   ],
+  "outbox_tray": [
+    "giden",
+    "giden kutusu",
+    "iletişim",
+    "kutu",
+    "posta",
+    "tepsi"
+  ],
   "owl": [
     "kuş",
-    "baykuş"
+    "baykuş",
+    "bilge"
   ],
   "ox": [
     "burçlar",
@@ -4394,22 +6788,48 @@
     "öküz",
     "boğa"
   ],
+  "oyster": [
+    "dalma",
+    "inci",
+    "istiridye"
+  ],
   "p_button": [
     "p düğmesi",
     "park yeri"
   ],
   "package": [
     "kargo",
-    "paket"
+    "paket",
+    "kutu"
+  ],
+  "page_facing_up": [
+    "doküman",
+    "ön yüz",
+    "ön yüzü görünen sayfa",
+    "sayfa",
+    "yüzü yukarıda sayfa"
+  ],
+  "page_with_curl": [
+    "kenarı kıvrılmış sayfa",
+    "kıvrık sayfa",
+    "sayfa"
   ],
   "pager": [
     "telefon",
-    "çağrı cihazı"
+    "çağrı cihazı",
+    "iletişim"
+  ],
+  "paintbrush": [
+    "boya fırçası",
+    "boyama"
   ],
   "pakistan": [
     "bayrak",
     "pk",
     "pakistan bayrağı"
+  ],
+  "palau": [
+    "bayrak"
   ],
   "palestinian_territories": [
     "bayrak",
@@ -4432,6 +6852,9 @@
     "dua eden eller",
     "cuma"
   ],
+  "panama": [
+    "bayrak"
+  ],
   "pancakes": [
     "yiyecek",
     "krep",
@@ -4445,21 +6868,39 @@
   ],
   "paperclip": [
     "ofis",
-    "ataş"
+    "ataş",
+    "klips"
+  ],
+  "papua_new_guinea": [
+    "bayrak"
   ],
   "parachute": [
-    "paraşüt"
+    "paraşüt",
+    "delta kanat",
+    "deniz paraşütü",
+    "paraşütle atlama"
+  ],
+  "paraguay": [
+    "bayrak"
   ],
   "parrot": [
     "kuş",
-    "papağan"
+    "papağan",
+    "konuşma",
+    "korsan"
+  ],
+  "part_alternation_mark": [
+    "işaret",
+    "parça",
+    "parça değiştirme işareti"
   ],
   "partying_face": [
     "eğlence",
     "kutlama",
     "parti",
     "partide eğlenen yüz",
-    "parti düdüğü"
+    "parti düdüğü",
+    "şapka"
   ],
   "passenger_ship": [
     "taşıt",
@@ -4470,12 +6911,25 @@
   "passport_control": [
     "sembol",
     "pasaport kontrolü",
-    "gümrük"
+    "gümrük",
+    "kontrol",
+    "pasaport"
+  ],
+  "pause_button": [
+    "çift çizgi",
+    "çubuk",
+    "dikey",
+    "duraklatma",
+    "duraklatma düğmesi"
   ],
   "paw_prints": [
     "hayvan",
     "iz",
     "pençe izi"
+  ],
+  "peace_symbol": [
+    "barış",
+    "barış sembolü"
   ],
   "peach": [
     "meyve",
@@ -4499,14 +6953,32 @@
     "meyve",
     "armut"
   ],
+  "pen": [
+    "kalem",
+    "tükenmez kalem"
+  ],
+  "pencil": [
+    "kurşun kalem"
+  ],
   "penguin": [
     "penguen",
-    "kuş"
+    "kuş",
+    "hayvan"
   ],
   "pensive_face": [
     "düşünceli",
     "mutsuz",
-    "karamsar"
+    "karamsar",
+    "yüz"
+  ],
+  "people_holding_hands": [
+    "çift",
+    "el",
+    "el ele",
+    "el ele tutuşan insanlar",
+    "kişi",
+    "tutmak",
+    "tutuşan eller"
   ],
   "people_hugging": [
     "güle güle",
@@ -4528,6 +7000,13 @@
     "tavşan kulaklar",
     "tavşan kulaklı kişiler"
   ],
+  "people_wrestling": [
+    "birey",
+    "güreş",
+    "güreşçi",
+    "güreşen kişiler",
+    "spor"
+  ],
   "performing_arts": [
     "eğlence",
     "performans sanatı",
@@ -4538,7 +7017,8 @@
   "persevering_face": [
     "kararlı yüz",
     "dayanıklı",
-    "zorlanan yüz"
+    "zorlanan yüz",
+    "yüz"
   ],
   "person": [
     "kişi",
@@ -4548,7 +7028,9 @@
     "saç",
     "saç kesimi",
     "kel",
-    "traşlı"
+    "traşlı",
+    "kişi",
+    "yetişkin"
   ],
   "person_beard": [
     "sakallı kişi",
@@ -4556,7 +7038,8 @@
   ],
   "person_biking": [
     "bisikletçi",
-    "bisiklet"
+    "bisiklet",
+    "bisiklet süren kişi"
   ],
   "person_blond_hair": [
     "saç",
@@ -4575,6 +7058,13 @@
     "üzgünüm",
     "eğilme"
   ],
+  "person_cartwheeling": [
+    "birey",
+    "jimnastik",
+    "perende atan kişi",
+    "spor",
+    "yanlamasına takla"
+  ],
   "person_climbing": [
     "dağcı kişi"
   ],
@@ -4582,7 +7072,9 @@
     "saç",
     "saç kesimi",
     "kıvırcık",
-    "kıvırcık saç"
+    "kıvırcık saç",
+    "kişi",
+    "yetişkin"
   ],
   "person_facepalming": [
     "yüz",
@@ -4601,7 +7093,9 @@
   "person_fencing": [
     "spor",
     "eskrimci",
-    "eskrim"
+    "eskrim",
+    "birey",
+    "kılıç"
   ],
   "person_frowning": [
     "hareket",
@@ -4626,7 +7120,10 @@
   "person_getting_haircut": [
     "saç kesimi",
     "berber",
-    "makas"
+    "makas",
+    "güzellik",
+    "güzellik salonu",
+    "salon"
   ],
   "person_getting_massage": [
     "masaj",
@@ -4637,14 +7134,19 @@
   "person_golfing": [
     "golf klübü",
     "golfçü",
-    "golf"
+    "golf",
+    "golf oynayan kişi",
+    "top"
   ],
   "person_in_bed": [
     "yatak",
     "uyku",
     "zzz",
     "uyumak",
-    "uyuma yeri"
+    "uyuma yeri",
+    "otel",
+    "uyuma",
+    "yatakta yatan kişi"
   ],
   "person_in_lotus_position": [
     "yoga",
@@ -4653,7 +7155,8 @@
     "yogi",
     "lotus",
     "fitness",
-    "gym"
+    "gym",
+    "lotus pozisyonundaki kişi"
   ],
   "person_in_manual_wheelchair": [
     "tekerlekli sandalye",
@@ -4661,7 +7164,9 @@
     "tekerlekli sandalyede kişi"
   ],
   "person_in_motorized_wheelchair": [
-    "tekerlekli sandalye"
+    "tekerlekli sandalye",
+    "elektrikli tekerlekli sandalyede kişi",
+    "erişilebilirlik"
   ],
   "person_in_steamy_room": [
     "sauna",
@@ -4680,7 +7185,16 @@
     "adam",
     "smokin",
     "smokinli adam",
-    "damat"
+    "damat",
+    "kişi",
+    "smokinli kişi"
+  ],
+  "person_juggling": [
+    "aynı anda birçok iş yapma",
+    "denge",
+    "hokkabazlık",
+    "jonglör",
+    "yetenek"
   ],
   "person_kneeling": [
     "dua etmek",
@@ -4695,11 +7209,27 @@
     "kaldırmak",
     "kaldırıcı",
     "bodybuilder",
-    "ağırlık kaldırıcı"
+    "ağırlık kaldırıcı",
+    "ağırlık kaldıran kişi"
+  ],
+  "person_mountain_biking": [
+    "bisiklet",
+    "bisikletçi",
+    "dağ",
+    "dağ bisikletçisi"
   ],
   "person_playing_handball": [
     "spor",
-    "hentbol"
+    "hentbol",
+    "birey",
+    "top"
+  ],
+  "person_playing_water_polo": [
+    "birey",
+    "spor",
+    "su",
+    "su topu",
+    "top"
   ],
   "person_pouting": [
     "hareket",
@@ -4718,7 +7248,14 @@
   "person_red_hair": [
     "saç",
     "saç kesimi",
-    "kızıl saç"
+    "kızıl saç",
+    "kişi",
+    "yetişkin"
+  ],
+  "person_rowing_boat": [
+    "sandalda kürek çeken kişi",
+    "taşıt",
+    "tekne"
   ],
   "person_running": [
     "spor",
@@ -4738,12 +7275,20 @@
     "ayakta duran kişi",
     "ayakta durma"
   ],
+  "person_surfing": [
+    "sörf yapan kişi",
+    "sörfçü",
+    "spor"
+  ],
   "person_swimming": [
-    "yüzme"
+    "yüzme",
+    "spor",
+    "yüzen kişi"
   ],
   "person_taking_bath": [
     "banyo",
-    "küvet"
+    "küvet",
+    "banyo yapan kişi"
   ],
   "person_tipping_hand": [
     "kişiler",
@@ -4755,17 +7300,24 @@
     "yaya",
     "yürümek",
     "yürüme",
-    "yürüyen"
+    "yürüyen",
+    "yürüyen kişi"
   ],
   "person_wearing_turban": [
     "türbanlı",
-    "türban"
+    "türban",
+    "kişiler",
+    "sarık",
+    "sarıklı erkek",
+    "sarıklı kişi"
   ],
   "person_white_hair": [
     "saç",
     "saç kesimi",
     "ak saç",
-    "beyaz saç"
+    "beyaz saç",
+    "kişi",
+    "yetişkin"
   ],
   "person_with_crown": [
     "kraliçe"
@@ -4786,12 +7338,35 @@
   "person_with_white_cane": [
     "beyaz baston",
     "görme engelli",
-    "kör"
+    "kör",
+    "erişilebilirlik",
+    "görme engelli bastonlu kişi"
+  ],
+  "peru": [
+    "bayrak"
+  ],
+  "petri_dish": [
+    "bakteri",
+    "biyolog",
+    "biyoloji",
+    "kültür",
+    "laboratuvar",
+    "petri kabı"
+  ],
+  "philippines": [
+    "bayrak"
   ],
   "pick": [
     "alet",
     "çekiç",
-    "araç"
+    "araç",
+    "kazma",
+    "maden"
+  ],
+  "pickup_truck": [
+    "kamyon",
+    "kamyonet",
+    "pikap"
   ],
   "pie": [
     "poğaça",
@@ -4799,17 +7374,21 @@
     "tart"
   ],
   "pig": [
-    "domuz"
+    "domuz",
+    "dişi domuz"
   ],
   "pig_face": [
     "hayvan",
     "domuz",
-    "domuz yüzü"
+    "domuz yüzü",
+    "yüz"
   ],
   "pig_nose": [
     "burun",
     "domuz",
-    "domuz burnu"
+    "domuz burnu",
+    "hayvan",
+    "yüz"
   ],
   "pill": [
     "doktor",
@@ -4859,18 +7438,53 @@
     "korsan",
     "yağmacı",
     "hazine",
-    "korsan bayrağı"
+    "korsan bayrağı",
+    "jolly roger"
+  ],
+  "pisces": [
+    "balık burcu",
+    "burçlar"
+  ],
+  "pitcairn_islands": [
+    "bayrak"
   ],
   "pizza": [
     "restoran",
     "dilim",
     "pizza dilimi"
   ],
+  "piñata": [
+    "kutlama",
+    "parti",
+    "pinyata"
+  ],
+  "placard": [
+    "gösteri",
+    "işaret",
+    "protesto",
+    "tabela"
+  ],
+  "place_of_worship": [
+    "din",
+    "ibadethane",
+    "tapınma"
+  ],
   "play_button": [
     "sağ",
     "düğme",
     "ileri ok",
-    "oynatma düğmesi"
+    "oynatma düğmesi",
+    "ok",
+    "oynatma",
+    "üçgen"
+  ],
+  "play_or_pause_button": [
+    "duraklatma",
+    "ok",
+    "oynatma",
+    "oynatma veya duraklatma düğmesi",
+    "sağ",
+    "üçgen"
   ],
   "playground_slide": [
     "kaydırak"
@@ -4883,7 +7497,19 @@
     "yalvaran yüz"
   ],
   "plunger": [
-    "pompa"
+    "pompa",
+    "açıcı",
+    "çekme",
+    "lavabo açıcı",
+    "lavabo pompası",
+    "tuvalet"
+  ],
+  "plus": [
+    "+",
+    "artı",
+    "artı işareti",
+    "işaret",
+    "matematik"
   ],
   "poland": [
     "bayrak",
@@ -4893,20 +7519,31 @@
   ],
   "polar_bear": [
     "hayvan",
-    "panda"
+    "panda",
+    "arktik",
+    "ayı",
+    "beyaz",
+    "kutup ayısı"
   ],
   "police_car": [
     "araba",
-    "polis arabası"
+    "polis arabası",
+    "devriye arabası",
+    "polis",
+    "taşıt"
   ],
   "police_car_light": [
     "polis lambası",
-    "polis tepe lambası"
+    "polis tepe lambası",
+    "polis arabası"
   ],
   "police_officer": [
     "polis",
     "asker",
-    "subay"
+    "subay",
+    "görevli",
+    "kişiler",
+    "polis memuru"
   ],
   "poodle": [
     "hayvan",
@@ -4925,7 +7562,8 @@
     "dışkı",
     "bok",
     "kaka yığını",
-    "kaka"
+    "kaka",
+    "yığın"
   ],
   "popcorn": [
     "mısır",
@@ -4937,6 +7575,18 @@
     "portekiz",
     "pt"
   ],
+  "post_office": [
+    "avrupa",
+    "avrupa postanesi",
+    "bina",
+    "posta",
+    "postane"
+  ],
+  "postal_horn": [
+    "klakson",
+    "posta",
+    "posta klaksonu"
+  ],
   "postbox": [
     "posta",
     "posta kutusu"
@@ -4945,6 +7595,11 @@
     "restoran",
     "tencere yemeği",
     "yemek tenceresi"
+  ],
+  "potable_water": [
+    "içilebilir su",
+    "içme suyu",
+    "işaret"
   ],
   "potato": [
     "sebze",
@@ -4976,12 +7631,18 @@
     "kedi yüzü",
     "kedi",
     "somurtma",
-    "somurtan kedi yüzü"
+    "somurtan kedi yüzü",
+    "somurtan",
+    "yüz"
   ],
   "prayer_beads": [
     "tesbih",
     "boncuk",
-    "tespih"
+    "tespih",
+    "din",
+    "dua",
+    "giyim",
+    "kolye"
   ],
   "pregnant_man": [
     "hamile adam",
@@ -5015,17 +7676,29 @@
   ],
   "printer": [
     "yazıcı",
-    "yazdır"
+    "yazdır",
+    "bilgisayar"
+  ],
+  "prohibited": [
+    "girilmez",
+    "girmek yasak",
+    "işaret"
+  ],
+  "puerto_rico": [
+    "bayrak"
   ],
   "purple_circle": [
     "top",
     "mor",
     "küre",
     "mor top",
-    "mor küre"
+    "mor küre",
+    "daire"
   ],
   "purple_heart": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "mor"
   ],
   "purple_square": [
     "mor",
@@ -5034,13 +7707,23 @@
   "purse": [
     "çanta",
     "cüzdan",
-    "bozuk para çantası"
+    "bozuk para çantası",
+    "bozuk para",
+    "giyim"
+  ],
+  "pushpin": [
+    "iğne",
+    "raptiye"
   ],
   "puzzle_piece": [
     "oyun",
     "yapboz",
     "parça",
-    "bilmece"
+    "bilmece",
+    "ipucu",
+    "kenetleme",
+    "puzzle",
+    "yapboz parçası"
   ],
   "qatar": [
     "bayrak",
@@ -5059,7 +7742,9 @@
     "tavşan"
   ],
   "raccoon": [
-    "rakun"
+    "rakun",
+    "meraklı",
+    "sinsi"
   ],
   "racing_car": [
     "araba",
@@ -5067,12 +7752,17 @@
     "yarış arabası"
   ],
   "radio": [
-    "radyo"
+    "radyo",
+    "video"
   ],
   "radio_button": [
     "radyo",
     "düğme",
     "radyo düğmesi"
+  ],
+  "radioactive": [
+    "nükleer",
+    "radyoaktif"
   ],
   "railway_car": [
     "demiryolu",
@@ -5082,6 +7772,10 @@
     "tramvay",
     "elektrik",
     "elektrikli tren"
+  ],
+  "railway_track": [
+    "tren",
+    "tren yolu"
   ],
   "rainbow": [
     "hava durumu",
@@ -5129,15 +7823,30 @@
     "tıraş makinesi",
     "jilet",
     "bıçak ağzı",
-    "tıraş"
+    "tıraş",
+    "keskin",
+    "ustura"
   ],
   "receipt": [
     "fatura",
     "makbuz",
-    "fiş"
+    "fiş",
+    "defter tutma",
+    "kanıt",
+    "kayıt",
+    "muhasebe"
   ],
   "record_button": [
-    "kayıt düğmesi"
+    "kayıt düğmesi",
+    "daire",
+    "kayıt"
+  ],
+  "recycling_symbol": [
+    "evrensel",
+    "geri dönüşüm",
+    "geri dönüşüm simgesi",
+    "işaret",
+    "koyu renk evrensel geri dönüşüm simgesi"
   ],
   "red_apple": [
     "elma",
@@ -5148,7 +7857,25 @@
     "top",
     "küre",
     "kırmızı top",
-    "kırmızı küre"
+    "kırmızı küre",
+    "büyük kırmızı çember",
+    "çember",
+    "kırmızı",
+    "kırmızı daire"
+  ],
+  "red_envelope": [
+    "hediye",
+    "hóngbāo",
+    "iyi şanslar",
+    "kırmızı zarf",
+    "lai see",
+    "para"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "noktalama",
+    "ünlem",
+    "ünlem işareti"
   ],
   "red_paper_lantern": [
     "restoran",
@@ -5162,7 +7889,8 @@
     "soru",
     "işaret",
     "noktalama",
-    "soru işareti"
+    "soru işareti",
+    "?"
   ],
   "red_square": [
     "kırmızı",
@@ -5182,17 +7910,35 @@
   ],
   "registered": [
     "tescilli",
-    "kayıtlı"
+    "kayıtlı",
+    "r",
+    "tescil işareti",
+    "tescilli işareti"
   ],
   "relieved_face": [
     "rahatlamış yüz",
-    "rahatlama"
+    "rahatlama",
+    "rahatlamış",
+    "yüz"
   ],
   "reminder_ribbon": [
     "etkinlik",
     "anma kurdelesi",
     "kurdele",
-    "anma"
+    "anma",
+    "kutlama"
+  ],
+  "repeat_button": [
+    "oklar",
+    "saat yönünde",
+    "tekrarlama düğmesi"
+  ],
+  "repeat_single_button": [
+    "1 sayısı",
+    "1 sayısı olan saat yönünde oklar",
+    "oklar",
+    "saat yönünde",
+    "tek parça tekrarlama düğmesi"
   ],
   "rescue_worker_s_helmet": [
     "yüz",
@@ -5207,8 +7953,23 @@
     "lavabo",
     "tuvalet"
   ],
+  "reunion": [
+    "bayrak"
+  ],
+  "reverse_button": [
+    "geri düğmesi",
+    "ok",
+    "sol",
+    "ters",
+    "üçgen"
+  ],
   "revolving_hearts": [
-    "kalp"
+    "kalp",
+    "aşk",
+    "dönen",
+    "dönen kalpler",
+    "kawaii",
+    "sevimli"
   ],
   "rhinoceros": [
     "hayvan",
@@ -5217,17 +7978,45 @@
   "ribbon": [
     "etkinlik",
     "olay",
-    "kurdele"
+    "kurdele",
+    "kutlama"
   ],
   "rice_ball": [
     "restoran",
     "pirinç",
-    "pirinç topu"
+    "pirinç topu",
+    "onigiri"
   ],
   "rice_cracker": [
     "asya",
     "pirinç",
     "pirinç gevreği"
+  ],
+  "right_anger_bubble": [
+    "balon",
+    "kızgın",
+    "öfke",
+    "sağ öfke balonu"
+  ],
+  "right_arrow": [
+    "ana yön",
+    "doğu",
+    "ok",
+    "sağ ok",
+    "yön"
+  ],
+  "right_arrow_curving_down": [
+    "aşağı",
+    "aşağı kıvrımlı sağ ok",
+    "ok"
+  ],
+  "right_arrow_curving_left": [
+    "ok",
+    "sola kıvrımlı sağ ok"
+  ],
+  "right_arrow_curving_up": [
+    "ok",
+    "yukarı kıvrımlı sağ ok"
   ],
   "right_facing_fist": [
     "yumruk",
@@ -5239,14 +8028,16 @@
   ],
   "ring": [
     "yüzük",
-    "tek taş"
+    "tek taş",
+    "romantizm"
   ],
   "ring_buoy": [
     "can simidi"
   ],
   "ringed_planet": [
     "gezegen",
-    "satürn"
+    "satürn",
+    "halkalı gezegen"
   ],
   "roasted_sweet_potato": [
     "restoran",
@@ -5258,33 +8049,62 @@
   ],
   "robot": [
     "bot",
-    "robot suratı"
+    "robot suratı",
+    "canavar",
+    "yüz"
   ],
   "rock": [
     "kaya",
-    "taş"
+    "taş",
+    "ağır",
+    "katı",
+    "kayalık",
+    "sert"
   ],
   "rocket": [
     "roket",
-    "uzay"
+    "uzay",
+    "taşıt"
   ],
   "rofl": [
     "gülmekten ağlamak",
     "gülme",
     "gülmekten yerlere yuvarlanmış",
-    "gülmekten yerlere yatma"
+    "gülmekten yerlere yatma",
+    "yatma",
+    "yer",
+    "yüz"
   ],
   "roll_eyes": [
     "gözlerini deviren yüz",
-    "yuvarlanma"
+    "yuvarlanma",
+    "gözler",
+    "yüz"
   ],
   "roll_of_paper": [
     "tuvalet kağıdı",
-    "tuvalet"
+    "tuvalet",
+    "kağıt havlu",
+    "kağıt rulosu"
   ],
   "rolled_up_newspaper": [
     "gazete",
-    "rulo yapılmış gazete"
+    "rulo yapılmış gazete",
+    "haber",
+    "kağıt",
+    "rulo"
+  ],
+  "roller_coaster": [
+    "eğlence",
+    "eğlence parkı",
+    "hız",
+    "hız treni",
+    "tren"
+  ],
+  "roller_skate": [
+    "paten",
+    "tekerlek",
+    "tekerlekli paten"
   ],
   "romania": [
     "bayrak",
@@ -5306,11 +8126,17 @@
     "çiçek rozet",
     "gülce"
   ],
+  "round_pushpin": [
+    "iğne",
+    "raptiye",
+    "yuvarlak raptiye"
+  ],
   "rugby_football": [
     "spor",
     "top",
     "ragbi futbolu",
-    "ragbi"
+    "ragbi",
+    "futbol topu"
   ],
   "running_shirt": [
     "spor",
@@ -5332,19 +8158,39 @@
     "ru",
     "rusya"
   ],
+  "rwanda": [
+    "bayrak"
+  ],
   "sad_but_relieved_face": [
     "canı sıkkın ama rahatlamış",
     "canı sıkkın",
     "rahatlamış",
-    "üzgün ama rahatlamış yüz"
+    "üzgün ama rahatlamış yüz",
+    "yüz"
   ],
   "safety_pin": [
     "iğne",
-    "çengelli iğne"
+    "çengelli iğne",
+    "bebek bezi",
+    "punk rock"
   ],
   "safety_vest": [
     "can yeleği",
-    "yelek"
+    "yelek",
+    "acil durum",
+    "güvenlik",
+    "güvenlik yeleği"
+  ],
+  "sagittarius": [
+    "burçlar",
+    "yay burcu"
+  ],
+  "sailboat": [
+    "deniz tatil yeri",
+    "tatil yeri",
+    "tekne",
+    "yat",
+    "yelkenli tekne"
   ],
   "sake": [
     "restoran",
@@ -5357,7 +8203,14 @@
   "salt": [
     "yiyecek",
     "tuzluk",
-    "tuz"
+    "tuz",
+    "çeşni"
+  ],
+  "samoa": [
+    "bayrak"
+  ],
+  "san_marino": [
+    "bayrak"
   ],
   "sandwich": [
     "sandviç",
@@ -5369,6 +8222,9 @@
     "noel",
     "noel baba"
   ],
+  "sao_tome_principe": [
+    "bayrak"
+  ],
   "sari": [
     "elbise",
     "giysi"
@@ -5376,13 +8232,16 @@
   "satellite": [
     "uzay",
     "uydu",
-    "yörüngede uydu"
+    "yörüngede uydu",
+    "araç"
   ],
   "satellite_antenna": [
     "bilim",
     "anten",
     "uydu",
-    "uydu anteni"
+    "uydu anteni",
+    "çanak",
+    "iletişim"
   ],
   "saudi_arabia": [
     "bayrak",
@@ -5392,7 +8251,12 @@
     "suudi arabistan"
   ],
   "sauropod": [
-    "dinozor"
+    "dinozor",
+    "brachiosaurus",
+    "brontosaurus",
+    "brontozor",
+    "diplodocus",
+    "soropod"
   ],
   "saxophone": [
     "müzik",
@@ -5404,11 +8268,14 @@
   ],
   "scarf": [
     "atkı",
-    "kaşkol"
+    "kaşkol",
+    "yaka"
   ],
   "school": [
     "yapı",
-    "okul"
+    "okul",
+    "bina",
+    "okul binası"
   ],
   "scientist": [
     "biyolog",
@@ -5419,11 +8286,19 @@
   ],
   "scissors": [
     "makas",
-    "kesmek"
+    "kesmek",
+    "alet"
+  ],
+  "scorpio": [
+    "akrep burcu",
+    "burçlar"
   ],
   "scorpion": [
     "burç",
     "akrep"
+  ],
+  "scotland": [
+    "bayrak"
   ],
   "scream": [
     "korkunç",
@@ -5431,19 +8306,30 @@
     "korku içinde bağıran yüz",
     "korkmuş",
     "korkuyla haykıran yüz",
-    "korkuyla çığlık atan yüz"
+    "korkuyla çığlık atan yüz",
+    "yüz"
   ],
   "screwdriver": [
     "alet",
-    "tornavida"
+    "tornavida",
+    "sıkma",
+    "vida"
+  ],
+  "scroll": [
+    "kağıt parşömen",
+    "parşömen"
   ],
   "seal": [
     "hayvan",
-    "fok"
+    "fok",
+    "ayı balığı",
+    "denizaslanı",
+    "fok balığı"
   ],
   "seat": [
     "koltuk",
-    "uçak koltuğu"
+    "uçak koltuğu",
+    "sandalye"
   ],
   "see_no_evil_monkey": [
     "maymun",
@@ -5462,6 +8348,9 @@
     "selfie çekmek",
     "özçekim"
   ],
+  "senegal": [
+    "bayrak"
+  ],
   "serbia": [
     "bayrak",
     "sırbistan bayrağı",
@@ -5479,7 +8368,19 @@
     "sayılar",
     "sayı tuşu",
     "sayı",
+    "yedi",
+    "tuş"
+  ],
+  "seven_o_clock": [
+    "7:00",
+    "saat",
+    "saat 7",
     "yedi"
+  ],
+  "seven_thirty": [
+    "7:30",
+    "saat",
+    "yedi buçuk"
   ],
   "sewing_needle": [
     "iğne",
@@ -5489,6 +8390,9 @@
     "dikiş",
     "sökük",
     "nakış"
+  ],
+  "seychelles": [
+    "bayrak"
   ],
   "shallow_pan_of_food": [
     "yiyecek",
@@ -5503,7 +8407,8 @@
     "yonca"
   ],
   "shark": [
-    "köpek balığı"
+    "köpek balığı",
+    "balık"
   ],
   "shaved_ice": [
     "restoran",
@@ -5516,22 +8421,38 @@
     "başak",
     "pirinç bitkisi"
   ],
+  "shield": [
+    "kalkan",
+    "silah"
+  ],
   "shinto_shrine": [
     "din",
     "japonya",
-    "şinto tapınağı"
+    "şinto tapınağı",
+    "şinto",
+    "tapınak"
   ],
   "ship": [
-    "gemi"
+    "gemi",
+    "taşıt"
+  ],
+  "shooting_star": [
+    "kayan",
+    "yıldız",
+    "yıldız kayması"
   ],
   "shopping_bags": [
     "alışveriş",
-    "alışveriş çantası"
+    "alışveriş çantası",
+    "çanta",
+    "otel"
   ],
   "shopping_cart": [
     "sepet",
     "alışveriş",
-    "alışveriş arabası"
+    "alışveriş arabası",
+    "araba",
+    "pazar arabası"
   ],
   "shortcake": [
     "restoran",
@@ -5540,10 +8461,13 @@
     "pasta dilimi"
   ],
   "shorts": [
-    "şort"
+    "şort",
+    "alt",
+    "mayo"
   ],
   "shower": [
-    "duş"
+    "duş",
+    "su"
   ],
   "shrimp": [
     "yiyecek",
@@ -5551,11 +8475,19 @@
     "küçük",
     "kabuklu deniz hayvanı"
   ],
+  "shuffle_tracks_button": [
+    "çapraz sağ oklar",
+    "oklar",
+    "parça karıştırma düğmesi"
+  ],
   "shushing_face": [
     "sessiz ol",
     "sus işareti yapan yüz",
     "sessiz",
     "şişt"
+  ],
+  "sierra_leone": [
+    "bayrak"
   ],
   "sign_of_the_horns": [
     "beden",
@@ -5565,16 +8497,39 @@
     "boynuz",
     "boynuz işareti"
   ],
+  "singapore": [
+    "bayrak"
+  ],
   "singer": [
     "sanatçı",
     "şarkıcı",
-    "artist"
+    "artist",
+    "aktör",
+    "aktris",
+    "gösterici",
+    "star",
+    "yıldız"
+  ],
+  "sint_maarten": [
+    "bayrak"
   ],
   "six": [
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "altı"
+    "altı",
+    "tuş"
+  ],
+  "six_o_clock": [
+    "6:00",
+    "altı",
+    "saat",
+    "saat 6"
+  ],
+  "six_thirty": [
+    "6:30",
+    "altı buçuk",
+    "saat"
   ],
   "skateboard": [
     "tahta",
@@ -5594,17 +8549,26 @@
   "skull": [
     "kafatası",
     "kemik",
-    "iskelet"
+    "iskelet",
+    "masal",
+    "ölüm",
+    "yüz"
   ],
   "skull_and_crossbones": [
     "kafatası",
     "kemik",
     "iskelet",
-    "ölüm tehlikesi"
+    "ölüm tehlikesi",
+    "canavar",
+    "kuru kafa",
+    "ölüm",
+    "tehlike",
+    "yüz"
   ],
   "skunk": [
     "hayvan",
-    "kokarca"
+    "kokarca",
+    "kokan"
   ],
   "sled": [
     "kızak"
@@ -5613,24 +8577,28 @@
     "uyuyan yüz",
     "uyku",
     "uykulu yüz",
-    "uykulu"
+    "uykulu",
+    "yüz"
   ],
   "sleepy_face": [
     "üzgün ama uykulu",
     "uykulu yüz",
-    "uykulu ama üzgün"
+    "uykulu ama üzgün",
+    "yüz"
   ],
   "slightly_frowning_face": [
     "üzgün",
     "asık surat",
     "kasvetli",
-    "biraz asık surat"
+    "biraz asık surat",
+    "yüz"
   ],
   "slightly_smiling_face": [
     "gülümseme",
     "gülme",
     "mutlu",
-    "hafifçe gülümseyen yüz"
+    "hafifçe gülümseyen yüz",
+    "yüz"
   ],
   "slot_machine": [
     "kumar",
@@ -5643,13 +8611,22 @@
   "sloth": [
     "tembel",
     "tembellik",
-    "yavaş"
+    "yavaş",
+    "tembel hayvan"
+  ],
+  "slovakia": [
+    "bayrak"
   ],
   "slovenia": [
     "bayrak",
     "si",
     "slovenya",
     "slovenya bayrağı"
+  ],
+  "small_airplane": [
+    "küçük uçak",
+    "taşıt",
+    "uçak"
   ],
   "small_blue_diamond": [
     "mavi",
@@ -5671,7 +8648,10 @@
     "sırıtmak",
     "ağzı açık gülen yüz",
     "ağzı açık sırıtma",
-    "gülücük"
+    "gülücük",
+    "lol",
+    "neşeli",
+    "yüz"
   ],
   "smiling_cat_with_heart_eyes": [
     "kedi yüzü",
@@ -5679,13 +8659,20 @@
     "aşk",
     "gözleri gülümseyen ve kalp şeklinde gözleri olan kedi",
     "aşık",
-    "kalp gözlü gülümseyen kedi"
+    "kalp gözlü gülümseyen kedi",
+    "gülümseme",
+    "kedi",
+    "sevgi",
+    "yüz"
   ],
   "smiling_face": [
     "boş gülen",
     "rahatlamış",
     "sakin",
-    "rahat"
+    "rahat",
+    "gülen yüz",
+    "içi boş gülen yüz",
+    "yüz"
   ],
   "smiling_face_with_horns": [
     "gülümseme",
@@ -5693,7 +8680,9 @@
     "boynuz",
     "mutlu",
     "boynuzlu gülen yüz",
-    "şeytan"
+    "şeytan",
+    "boynuzlar",
+    "yüz"
   ],
   "smiling_face_with_sunglasses": [
     "gülümseme",
@@ -5702,13 +8691,23 @@
     "cool",
     "güneş gözlüklü gülümseme",
     "güneş gözlükleriyle gülümseme",
-    "soğukkanlı yüz"
+    "soğukkanlı yüz",
+    "soğukkanlı jane",
+    "soğukkanlı joe",
+    "yüz"
   ],
   "smiling_face_with_tear": [
     "gözyaşı",
     "mutlu gözyaşı",
     "mutluluk",
-    "mutluluktan ağlama"
+    "mutluluktan ağlama",
+    "duygulanmış",
+    "gözü yaşlı gülümseyen yüz",
+    "gülümseme",
+    "gururlu",
+    "hislenmiş",
+    "minnettar",
+    "rahatlamış"
   ],
   "smiling_face_with_three_hearts": [
     "hayranlık",
@@ -5717,12 +8716,15 @@
     "aşık olma",
     "çarpılma",
     "ponçik",
-    "3 kalpli gülümseyen yüz"
+    "3 kalpli gülümseyen yüz",
+    "kalpler",
+    "kalpli gülümseyen yüz"
   ],
   "smirking_face": [
     "yapmacık gülümseyen",
     "imalı gülümseme",
-    "yapmacık gülümseyen yüz"
+    "yapmacık gülümseyen yüz",
+    "yüz"
   ],
   "snail": [
     "salyangoz",
@@ -5736,11 +8738,14 @@
   "sneezing_face": [
     "çok yaşa",
     "hapşıran yüz",
-    "hapşırma"
+    "hapşırma",
+    "yüz"
   ],
   "snow_capped_mountain": [
     "karla kaplı dağ",
-    "dağ"
+    "dağ",
+    "kar",
+    "soğuk"
   ],
   "snowboarder": [
     "spor",
@@ -5750,30 +8755,45 @@
   ],
   "snowflake": [
     "kar",
-    "kar tanesi"
+    "kar tanesi",
+    "hava durumu",
+    "soğuk"
   ],
   "snowman": [
-    "kardan adam"
+    "kardan adam",
+    "hava durumu",
+    "kar",
+    "soğuk"
   ],
   "snowman_without_snow": [
-    "kardan adam"
+    "kardan adam",
+    "kar",
+    "kar yağmadan kardan adam",
+    "karsız kardan adam"
   ],
   "soap": [
     "banyo",
     "sabun",
     "duş",
-    "kalıp sabun"
+    "kalıp sabun",
+    "kalıp",
+    "köpük",
+    "sabunluk",
+    "temizlik"
   ],
   "sob": [
     "gözyaşı",
     "avaz avaz ağlayan yüz",
     "ağlama",
     "hıçkırık",
-    "ağlamak"
+    "ağlamak",
+    "gözyaşları",
+    "yüz"
   ],
   "soccer_ball": [
     "top",
-    "futbol"
+    "futbol",
+    "futbol topu"
   ],
   "socks": [
     "çorap"
@@ -5786,7 +8806,20 @@
   ],
   "softball": [
     "top",
-    "eldiven"
+    "eldiven",
+    "kol"
+  ],
+  "solomon_islands": [
+    "bayrak"
+  ],
+  "somalia": [
+    "bayrak"
+  ],
+  "soon_arrow": [
+    "ok",
+    "sağ okla yakında",
+    "yakında",
+    "yakında işareti"
   ],
   "sos_button": [
     "işaret",
@@ -5801,11 +8834,17 @@
     "güney afrika",
     "güney afrika bayrağı"
   ],
+  "south_georgia_south_sandwich_islands": [
+    "bayrak"
+  ],
   "south_korea": [
     "bayrak",
     "kore",
     "kr",
     "güney kore"
+  ],
+  "south_sudan": [
+    "bayrak"
   ],
   "spade_suit": [
     "iskambil",
@@ -5825,22 +8864,49 @@
     "ispanya"
   ],
   "sparkle": [
-    "parlama"
+    "parlama",
+    "*"
+  ],
+  "sparkler": [
+    "fişek",
+    "havai fişek",
+    "kutlama"
   ],
   "sparkles": [
     "parıltılar",
     "parıldayan yıldızlar",
     "yıldızlar",
-    "pırıltı"
+    "pırıltı",
+    "*",
+    "parıltı",
+    "yıldız"
   ],
   "sparkling_heart": [
-    "kalp"
+    "kalp",
+    "duygu",
+    "heyecanlı",
+    "pırıldayan"
   ],
   "speak_no_evil_monkey": [
     "maymun",
     "bilmiyorum",
     "söylemeyen maymun",
     "konuşmayan maymun"
+  ],
+  "speaker_high_volume": [
+    "yüksek",
+    "yüksek ses",
+    "yüksek sesli hoparlör"
+  ],
+  "speaker_low_volume": [
+    "kısık ses",
+    "ses düzeyi"
+  ],
+  "speaker_medium_volume": [
+    "düşük",
+    "düşük ses",
+    "düşük sesli hoparlör",
+    "ses açık"
   ],
   "speaking_head": [
     "yüz",
@@ -5855,7 +8921,11 @@
     "konuşma balonu",
     "konuşma",
     "sohbet balonu",
-    "sohbet"
+    "sohbet",
+    "balon",
+    "çizgi roman",
+    "iletişim",
+    "iletişim balonu"
   ],
   "speedboat": [
     "taşıt",
@@ -5870,6 +8940,17 @@
     "örümcek",
     "örümcek ağı"
   ],
+  "spiral_calendar": [
+    "defter",
+    "spiral",
+    "takvim"
+  ],
+  "spiral_notepad": [
+    "defter",
+    "not",
+    "spiral",
+    "spiral not defteri"
+  ],
   "spiral_shell": [
     "hayvan",
     "deniz kabuğu",
@@ -5877,7 +8958,10 @@
   ],
   "sponge": [
     "banyo",
-    "sünger"
+    "sünger",
+    "emici",
+    "gözenekli",
+    "temizlik"
   ],
   "spoon": [
     "yemek takımı",
@@ -5913,7 +8997,32 @@
     "gözler kapalı",
     "dil dışarıda ve gözler kapalı",
     "dil dışarıda",
-    "gözler kapalı ve dil dışarıda"
+    "gözler kapalı ve dil dışarıda",
+    "korkunç"
+  ],
+  "sri_lanka": [
+    "bayrak"
+  ],
+  "st_barthelemy": [
+    "bayrak"
+  ],
+  "st_helena": [
+    "bayrak"
+  ],
+  "st_kitts_nevis": [
+    "bayrak"
+  ],
+  "st_lucia": [
+    "bayrak"
+  ],
+  "st_martin": [
+    "bayrak"
+  ],
+  "st_pierre_miquelon": [
+    "bayrak"
+  ],
+  "st_vincent_grenadines": [
+    "bayrak"
   ],
   "stadium": [
     "stadyum"
@@ -5922,19 +9031,38 @@
     "beyaz orta yıldız",
     "yıldız"
   ],
+  "star_and_crescent": [
+    "ay yıldız",
+    "din",
+    "i̇slam",
+    "müslüman"
+  ],
+  "star_of_david": [
+    "davut",
+    "davut yıldızı",
+    "din",
+    "yahudi",
+    "yıldız"
+  ],
   "star_struck": [
     "gülen yıldız",
     "yıldız",
-    "sırıtan yıldız"
+    "sırıtan yıldız",
+    "gözler",
+    "sırıtan",
+    "yıldız çarpmış",
+    "yüz"
   ],
   "station": [
     "demiryolu",
     "istasyon",
-    "tren"
+    "tren",
+    "tren istasyonu"
   ],
   "statue_of_liberty": [
     "özgürlük",
-    "özgürlük heykeli"
+    "özgürlük heykeli",
+    "heykel"
   ],
   "steaming_bowl": [
     "restoran",
@@ -5945,11 +9073,29 @@
     "noodle"
   ],
   "stethoscope": [
-    "stetoskop"
+    "stetoskop",
+    "doktor",
+    "kalp",
+    "tıp"
+  ],
+  "stop_button": [
+    "durdur",
+    "durdurma düğmesi",
+    "kare"
+  ],
+  "stop_sign": [
+    "dur",
+    "dur işareti",
+    "işaret",
+    "sekizgen"
   ],
   "stopwatch": [
     "saat",
     "kronometre"
+  ],
+  "straight_ruler": [
+    "cetvel",
+    "düz cetvel"
   ],
   "strawberry": [
     "meyve",
@@ -5964,7 +9110,9 @@
   "studio_microphone": [
     "radyo",
     "mikrofon",
-    "stüdyo mikrofonu"
+    "stüdyo mikrofonu",
+    "müzik",
+    "stüdyo"
   ],
   "stuffed_flatbread": [
     "yiyecek",
@@ -5976,14 +9124,24 @@
     "döner",
     "salata"
   ],
+  "sudan": [
+    "bayrak"
+  ],
   "sun": [
     "güneşli",
-    "güneş"
+    "güneş",
+    "aydınlık",
+    "hava durumu",
+    "ışık",
+    "uzay"
   ],
   "sun_behind_cloud": [
     "bulut",
     "kısmen güneşli",
-    "güneş bulutun arkasında"
+    "güneş bulutun arkasında",
+    "bulutlar ardındaki güneş",
+    "bulutlu güneş",
+    "güneş"
   ],
   "sun_behind_large_cloud": [
     "hava durumu",
@@ -6016,26 +9174,49 @@
   ],
   "sunglasses": [
     "gözlük",
-    "koyu güneş gözlüğü"
+    "koyu güneş gözlüğü",
+    "göz",
+    "güneş gözlüğü",
+    "kara"
   ],
   "sunrise": [
     "günaydın",
     "sabah",
     "gündoğumu",
-    "yaz"
+    "yaz",
+    "güneşin doğuşu",
+    "sabah güneşi"
+  ],
+  "sunrise_over_mountains": [
+    "dağ",
+    "dağların arasından güneşin doğuşu",
+    "dağların ardında güneş",
+    "sabah güneşi"
   ],
   "sunset": [
     "gün batımı",
-    "alacakaranlık"
+    "alacakaranlık",
+    "bina",
+    "binaların üzerinden gün batımı"
   ],
   "superhero": [
     "süper kahraman",
     "kahraman",
-    "hero"
+    "hero",
+    "iyi",
+    "kadın kahraman",
+    "süper güç"
   ],
   "supervillain": [
     "süper kötü",
-    "kötü adam"
+    "kötü adam",
+    "kötü",
+    "şeytani",
+    "suçlu",
+    "süper güç"
+  ],
+  "suriname": [
+    "bayrak"
   ],
   "sushi": [
     "restoran",
@@ -6043,11 +9224,18 @@
   ],
   "suspension_railway": [
     "demiryolu",
-    "asma demiryolu"
+    "asma demiryolu",
+    "asma",
+    "taşıt"
+  ],
+  "svalbard_jan_mayen": [
+    "bayrak"
   ],
   "swan": [
     "kuş",
-    "kuğu"
+    "kuğu",
+    "çirkin ördek yavrusu",
+    "kuğu yavrusu"
   ],
   "sweat_droplets": [
     "çizgi roman",
@@ -6063,7 +9251,11 @@
     "soğuk terli",
     "soğuk ter",
     "ter gülümsemesi",
-    "gülmekten terlemiş"
+    "gülmekten terlemiş",
+    "soğuk terli ağzı açık gülümseme"
+  ],
+  "sweden": [
+    "bayrak"
   ],
   "switzerland": [
     "bayrak",
@@ -6075,7 +9267,9 @@
     "havra",
     "yapı",
     "din",
-    "sinagog"
+    "sinagog",
+    "tapınak",
+    "yahudi"
   ],
   "syria": [
     "bayrak",
@@ -6088,11 +9282,14 @@
     "şırınga",
     "tıp",
     "ilaç",
-    "tedavi"
+    "tedavi",
+    "iğne"
   ],
   "t_rex": [
     "trex",
-    "dinazor"
+    "dinazor",
+    "t-rex",
+    "tyrannosaurus rex"
   ],
   "t_shirt": [
     "giyim",
@@ -6108,7 +9305,16 @@
     "kutlama",
     "tebrikler",
     "etkinlikler",
-    "yaşasın"
+    "yaşasın",
+    "konfeti",
+    "parti",
+    "parti konfetisi"
+  ],
+  "taiwan": [
+    "bayrak"
+  ],
+  "tajikistan": [
+    "bayrak"
   ],
   "takeout_box": [
     "yiyecek paketi"
@@ -6129,6 +9335,9 @@
     "portakal",
     "mandalina"
   ],
+  "tanzania": [
+    "bayrak"
+  ],
   "taurus": [
     "burçlar",
     "boğa burcu"
@@ -6136,7 +9345,8 @@
   "taxi": [
     "araba",
     "taksi",
-    "otomobil"
+    "otomobil",
+    "taşıt"
   ],
   "teacher": [
     "öğretmen",
@@ -6152,7 +9362,12 @@
   "teapot": [
     "çay",
     "çaydanlık",
-    "demlik"
+    "demlik",
+    "içecek"
+  ],
+  "tear_off_calendar": [
+    "koparmalı takvim",
+    "takvim"
   ],
   "technologist": [
     "geliştirici",
@@ -6166,7 +9381,10 @@
   "teddy_bear": [
     "oyuncak",
     "oyuncak ayı",
-    "ayı"
+    "ayı",
+    "dolgu",
+    "oyun",
+    "pelüş"
   ],
   "telephone": [
     "telefon"
@@ -6174,58 +9392,93 @@
   "telephone_receiver": [
     "telefon",
     "ahize",
-    "arama"
+    "arama",
+    "alıcı"
   ],
   "telescope": [
     "bilim",
     "astronomi",
-    "teleskop"
+    "teleskop",
+    "alet"
   ],
   "television": [
     "televizyon",
     "film",
     "tv",
-    "ekran"
+    "ekran",
+    "video"
   ],
   "ten": [
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "on"
+    "on",
+    "tuş"
+  ],
+  "ten_o_clock": [
+    "10:00",
+    "on",
+    "saat",
+    "saat 10"
+  ],
+  "ten_thirty": [
+    "10:30",
+    "on buçuk",
+    "saat"
   ],
   "tennis": [
     "spor",
     "tenis",
-    "tenis topu"
+    "tenis topu",
+    "tenis raketi ve topu",
+    "top"
   ],
   "tent": [
     "çadır",
-    "kamp"
+    "kamp",
+    "kamp yeri"
   ],
   "test_tube": [
     "bilim",
     "deney",
     "tüp",
     "deney tüpü",
-    "kimya"
+    "kimya",
+    "kimyacı",
+    "laboratuvar"
+  ],
+  "thailand": [
+    "bayrak"
   ],
   "thermometer": [
     "derece",
-    "termometre"
+    "termometre",
+    "hava durumu"
   ],
   "thinking": [
     "düşünen",
     "düşünceli",
     "hımm",
     "düşünen yüz",
-    "düşünceli surat"
+    "düşünceli surat",
+    "düşünme",
+    "yüz"
   ],
   "thong_sandal": [
     "plaj terliği",
     "flip flops",
     "sandalet",
     "parmak arası",
-    "terlik"
+    "terlik",
+    "deniz terliği",
+    "kumsal terliği",
+    "parmak arası terlik"
+  ],
+  "thought_balloon": [
+    "balon",
+    "çizgi roman",
+    "düşünce",
+    "düşünce balonu"
   ],
   "thread": [
     "iğne",
@@ -6237,12 +9490,20 @@
     "sayılar",
     "sayı tuşu",
     "sayı",
+    "üç",
+    "tuş"
+  ],
+  "three_o_clock": [
+    "3:00",
+    "saat",
+    "saat 3",
     "üç"
   ],
   "three_thirty": [
     "saat",
     "üç buçuk",
-    "3.30"
+    "3.30",
+    "3:30"
   ],
   "ticket": [
     "etkinlik",
@@ -6262,21 +9523,37 @@
     "zamanlayıcı",
     "alarm"
   ],
+  "timor_leste": [
+    "bayrak"
+  ],
   "tired_face": [
     "yorulmuş",
-    "yorgun yüz"
+    "yorgun yüz",
+    "yüz"
+  ],
+  "togo": [
+    "bayrak"
   ],
   "toilet": [
     "klozet",
-    "tuvalet"
+    "tuvalet",
+    "wc"
+  ],
+  "tokelau": [
+    "bayrak"
   ],
   "tokyo_tower": [
     "yapı",
-    "tokyo kulesi"
+    "tokyo kulesi",
+    "kule",
+    "tokyo"
   ],
   "tomato": [
     "sebze",
     "domates"
+  ],
+  "tonga": [
+    "bayrak"
   ],
   "tongue": [
     "tat",
@@ -6284,13 +9561,31 @@
     "gövde",
     "dil"
   ],
+  "toolbox": [
+    "alet",
+    "alet çantası",
+    "sandık",
+    "tamirci"
+  ],
   "tooth": [
     "diş",
     "diş hekimi",
     "dişçi"
   ],
   "toothbrush": [
-    "diş fırçası"
+    "diş fırçası",
+    "banyo",
+    "dental",
+    "diş",
+    "fırça",
+    "hijyen",
+    "lavabo"
+  ],
+  "top_arrow": [
+    "yukarı",
+    "yukarı ok",
+    "yukarı okla yukarı",
+    "yukarı oku"
   ],
   "top_hat": [
     "eğlence",
@@ -6299,29 +9594,55 @@
   ],
   "tornado": [
     "hortum",
-    "bulut ile hortum"
+    "bulut ile hortum",
+    "bulut",
+    "hava durumu"
+  ],
+  "trackball": [
+    "bilgisayar",
+    "iz topu"
   ],
   "tractor": [
-    "traktör"
+    "traktör",
+    "taşıt"
   ],
   "trade_mark": [
     "tm",
     "marka",
-    "ticari marka"
+    "ticari marka",
+    "işaret",
+    "ticari marka işareti"
   ],
   "train": [
     "demiryolu",
     "tren",
-    "hızlı tren"
+    "hızlı tren",
+    "taşıt"
   ],
   "tram": [
     "demiryolu",
     "tren",
-    "tramvay"
+    "tramvay",
+    "taşıt"
   ],
   "tram_car": [
     "tramvay vagonu",
-    "tramvay"
+    "tramvay",
+    "taşıt",
+    "vagon"
+  ],
+  "transgender_flag": [
+    "açık mavi",
+    "bayrak",
+    "beyaz",
+    "pembe",
+    "transgender",
+    "transgender bayrağı"
+  ],
+  "transgender_symbol": [
+    "transgender",
+    "transgender sembolü",
+    "transseksüel"
   ],
   "triangular_flag": [
     "işaret",
@@ -6330,6 +9651,23 @@
     "konum bilgisi işareti",
     "üçgen işaret",
     "üçgen konum işareti"
+  ],
+  "triangular_ruler": [
+    "cetvel",
+    "gönye",
+    "üçgen"
+  ],
+  "trident_emblem": [
+    "amblem",
+    "çıpa",
+    "üçlü çatal",
+    "üçlü çatal işareti"
+  ],
+  "trinidad_tobago": [
+    "bayrak"
+  ],
+  "tristan_da_cunha": [
+    "bayrak"
   ],
   "troll": [
     "trol"
@@ -6378,13 +9716,27 @@
     "viski",
     "tek içki"
   ],
+  "tunisia": [
+    "bayrak"
+  ],
   "turkey": [
     "hindi"
+  ],
+  "turkmenistan": [
+    "bayrak"
+  ],
+  "turks_caicos_islands": [
+    "bayrak"
   ],
   "turtle": [
     "yavaş",
     "kamlumbağa",
-    "tosbağa"
+    "tosbağa",
+    "hayvan",
+    "kaplumbağa"
+  ],
+  "tuvalu": [
+    "bayrak"
   ],
   "twelve_o_clock": [
     "saat",
@@ -6392,14 +9744,26 @@
     "saat 12",
     "on iki"
   ],
+  "twelve_thirty": [
+    "12:30",
+    "on iki buçuk",
+    "on iki otuz",
+    "saat",
+    "yarım"
+  ],
   "two": [
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "iki"
+    "iki",
+    "tuş"
   ],
   "two_hearts": [
-    "kalp"
+    "kalp",
+    "aşıklar",
+    "aşk",
+    "duygu",
+    "iki kalp"
   ],
   "two_hump_camel": [
     "hayvan",
@@ -6407,11 +9771,25 @@
     "hörgüç",
     "iki hörgüçlü deve"
   ],
+  "two_o_clock": [
+    "2:00",
+    "iki",
+    "saat",
+    "saat 2"
+  ],
+  "two_thirty": [
+    "2:30",
+    "iki buçuk",
+    "saat"
+  ],
   "türkiye": [
     "bayrak",
     "bayrak_tr",
     "türk bayrağı",
     "tr"
+  ],
+  "uganda": [
+    "bayrak"
   ],
   "ukraine": [
     "bayrak",
@@ -6419,23 +9797,35 @@
     "ua"
   ],
   "umbrella": [
-    "şemsiye"
+    "şemsiye",
+    "giyim",
+    "hava durumu",
+    "yağmur"
   ],
   "umbrella_on_ground": [
-    "şemsiye"
+    "şemsiye",
+    "güneş",
+    "hava durumu",
+    "sabit şemsiye",
+    "yağmur"
   ],
   "umbrella_with_rain_drops": [
     "yağmur",
-    "şemsiye"
+    "şemsiye",
+    "giyim",
+    "hava durumu",
+    "yağmur damlalı şemsiye"
   ],
   "unamused_face": [
     "mutsuz",
-    "keyifsiz yüz"
+    "keyifsiz yüz",
+    "yüz"
   ],
   "unicorn": [
     "yüz",
     "tek boynuz",
-    "tek boynuzlu at yüzü"
+    "tek boynuzlu at yüzü",
+    "tek boynuzlu at"
   ],
   "united_arab_emirates": [
     "bayrak",
@@ -6468,7 +9858,17 @@
   "unlocked": [
     "açık kilit",
     "kilit",
-    "kilit açıldı"
+    "kilit açıldı",
+    "açık",
+    "kilidini açma"
+  ],
+  "up_arrow": [
+    "ana yön",
+    "kuzey",
+    "ok",
+    "yön",
+    "yukarı ok",
+    "yukarı yönlü ok"
   ],
   "up_button": [
     "işaret",
@@ -6476,15 +9876,55 @@
     "yukari!",
     "yukari! işareti"
   ],
+  "up_down_arrow": [
+    "ok",
+    "yukarı ve aşağı ok"
+  ],
+  "up_left_arrow": [
+    "ara yön",
+    "kuzey batı",
+    "ok",
+    "sol yukarı ok",
+    "yön"
+  ],
+  "up_right_arrow": [
+    "ara yön",
+    "kuzey doğu",
+    "ok",
+    "sağ yukarı ok",
+    "yön"
+  ],
   "upside_down_face": [
     "ters yüz",
     "tepe taklak",
-    "ter dönmüş"
+    "ter dönmüş",
+    "yüz"
+  ],
+  "upwards_button": [
+    "düğme",
+    "üçgen",
+    "yukarı düğmesi",
+    "yukarı üçgen düğmesi"
+  ],
+  "uruguay": [
+    "bayrak"
+  ],
+  "us_outlying_islands": [
+    "bayrak"
+  ],
+  "us_virgin_islands": [
+    "bayrak"
+  ],
+  "uzbekistan": [
+    "bayrak"
   ],
   "vampire": [
     "hortlak",
     "vampir",
     "drakula"
+  ],
+  "vanuatu": [
+    "bayrak"
   ],
   "vatican_city": [
     "bayrak",
@@ -6492,9 +9932,24 @@
     "vatikan şehri",
     "vatikan"
   ],
+  "venezuela": [
+    "bayrak"
+  ],
   "vertical_traffic_light": [
     "trafik işareti",
-    "trafik lambası"
+    "trafik lambası",
+    "dikey trafik ışığı",
+    "dikey trafik ışıkları",
+    "ışık",
+    "trafik",
+    "trafik sinyalleri"
+  ],
+  "vibration_mode": [
+    "cep telefonu",
+    "mobil",
+    "mod",
+    "telefon",
+    "titreşim modu"
   ],
   "victory_hand": [
     "zafer işareti",
@@ -6510,7 +9965,14 @@
     "kontrol cihazı",
     "oyun kolu",
     "oyun",
-    "video oyunu"
+    "video oyunu",
+    "oyun kontrol cihazı"
+  ],
+  "videocassette": [
+    "teyp",
+    "video",
+    "video kaseti",
+    "videokaset"
   ],
   "vietnam": [
     "bayrak",
@@ -6524,15 +9986,21 @@
     "müzik aleti",
     "keman"
   ],
+  "virgo": [
+    "başak burcu",
+    "burçlar"
+  ],
   "volcano": [
     "dağ",
     "yanardağ",
-    "volkan"
+    "volkan",
+    "yanardağ patlaması"
   ],
   "volleyball": [
     "spor",
     "top",
-    "voleybol"
+    "voleybol",
+    "maç"
   ],
   "vs_button": [
     "işaret",
@@ -6551,7 +10019,15 @@
     "vulkan selamı"
   ],
   "waffle": [
-    "gözleme"
+    "gözleme",
+    "hamur",
+    "vafıl"
+  ],
+  "wales": [
+    "bayrak"
+  ],
+  "wallis_futuna": [
+    "bayrak"
   ],
   "waning_crescent_moon": [
     "ay",
@@ -6568,7 +10044,9 @@
     "semboller",
     "sembol",
     "uyarı",
-    "dikkat"
+    "dikkat",
+    "işaret",
+    "uyarı işareti"
   ],
   "wastebasket": [
     "çöp kutusu",
@@ -6597,7 +10075,8 @@
   "water_pistol": [
     "ateş",
     "silah",
-    "tabanca"
+    "tabanca",
+    "revolver"
   ],
   "watermelon": [
     "meyve",
@@ -6608,6 +10087,11 @@
     "el",
     "el sallama",
     "sallama"
+  ],
+  "wavy_dash": [
+    "çizgi",
+    "dalgalı",
+    "uzun ses işareti"
   ],
   "waxing_crescent_moon": [
     "ay",
@@ -6624,19 +10108,26 @@
     "aman tanrım",
     "kedi",
     "şaşkın kedi yüzü",
-    "sahiden şaşırmış"
+    "sahiden şaşırmış",
+    "korkuyla bağıran kedi",
+    "yüz"
   ],
   "weary_face": [
     "yorulmuş",
     "çok yorgun",
-    "yorgun yüz"
+    "yorgun yüz",
+    "yüz"
   ],
   "wedding": [
     "yapı",
     "kilisede evlenme",
     "kilise",
     "düğün",
-    "evlenme"
+    "evlenme",
+    "romantizm"
+  ],
+  "western_sahara": [
+    "bayrak"
   ],
   "whale": [
     "hayvan",
@@ -6645,6 +10136,27 @@
   "wheel": [
     "teker",
     "lastik"
+  ],
+  "wheel_of_dharma": [
+    "budist",
+    "çember",
+    "darma çemberi",
+    "dharma",
+    "dharma tekeri",
+    "din"
+  ],
+  "wheelchair_symbol": [
+    "erişim",
+    "işaret",
+    "tekerlekli sandalye",
+    "tekerlekli sandalye erişimi",
+    "tekerlekli sandalye sembolü",
+    "tekerlekli sandalye simgesi"
+  ],
+  "white_cane": [
+    "erişilebilirlik",
+    "görme engelli",
+    "görme engelli bastonu"
   ],
   "white_check_mark": [
     "doğru",
@@ -6664,22 +10176,42 @@
     "onay",
     "kabul",
     "geçti",
-    "tik"
+    "tik",
+    "düğme",
+    "işaret",
+    "onay işareti düğmesi"
   ],
   "white_circle": [
     "top",
     "beyaz",
     "küre",
     "beyaz top",
-    "beyaz küre"
+    "beyaz küre",
+    "beyaz daire",
+    "daire",
+    "geometri"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "beyaz ünlem işareti",
+    "işaret",
+    "noktalama",
+    "ünlem"
   ],
   "white_flag": [
     "bayrak",
     "beyaz bayrak"
   ],
+  "white_flower": [
+    "beyaz çiçek",
+    "çiçek",
+    "damga",
+    "iyi çalışma damgası"
+  ],
   "white_heart": [
     "kalp",
-    "beyaz kalp"
+    "beyaz kalp",
+    "beyaz"
   ],
   "white_large_square": [
     "geometri",
@@ -6700,7 +10232,8 @@
     "soru",
     "işaret",
     "beyaz soru işareti",
-    "noktalama"
+    "noktalama",
+    "?"
   ],
   "white_small_square": [
     "geometri",
@@ -6716,13 +10249,23 @@
     "çiçek",
     "solmuş"
   ],
+  "wind_chime": [
+    "çan",
+    "rüzgar çanı"
+  ],
   "wind_face": [
     "hava durumu",
     "rüzgar",
     "esme"
   ],
   "window": [
-    "pencere"
+    "pencere",
+    "açılım",
+    "çerçeve",
+    "manzara",
+    "saydam",
+    "şeffaf",
+    "temiz hava"
   ],
   "wine_glass": [
     "bar",
@@ -6736,14 +10279,21 @@
   "wink": [
     "gülümseme",
     "göz kırpma",
-    "göz kırpan yüz"
+    "göz kırpan yüz",
+    "yüz"
   ],
   "winking_face_with_tongue": [
     "korkunç",
     "gözler kapalı",
     "dil dışarıda ve gözler kapalı",
     "dil dışarıda",
-    "gözler kapalı ve dil dışarıda"
+    "gözler kapalı ve dil dışarıda",
+    "dil dışardayken göz kırpma",
+    "dili dışarda göz kırpma",
+    "göz kırpma",
+    "kışkırtma",
+    "şaka",
+    "yüz"
   ],
   "wolf": [
     "yüz",
@@ -6756,13 +10306,22 @@
     "kişiler"
   ],
   "woman_and_man_holding_hands": [
-    "el ele tutuşan çift"
+    "el ele tutuşan çift",
+    "çift",
+    "el ele tutuşan",
+    "el ele tutuşan erkek ve kadın",
+    "erkek",
+    "kadın"
   ],
   "woman_artist": [
     "fırça",
     "artist",
     "ressam",
-    "kadın ressam"
+    "kadın ressam",
+    "bayan",
+    "kadın",
+    "palet",
+    "sanatçı"
   ],
   "woman_astronaut": [
     "roket",
@@ -6770,14 +10329,17 @@
     "kadın astronot",
     "uzay",
     "astronot",
-    "kozmonot"
+    "kozmonot",
+    "bayan"
   ],
   "woman_bald": [
     "tıraşlı",
     "kemoterapi",
     "kel",
     "saçsız",
-    "saç yok"
+    "saç yok",
+    "kadın",
+    "kişiler"
   ],
   "woman_biking": [
     "spor",
@@ -6785,7 +10347,8 @@
     "bisikletçi",
     "bisiklet",
     "bisiklet sürme",
-    "bisiklet süren kadın"
+    "bisiklet süren kadın",
+    "bayan"
   ],
   "woman_bouncing_ball": [
     "spor",
@@ -6795,7 +10358,8 @@
     "top zıplatma",
     "basketbol",
     "top zıplatan kişi",
-    "top sektiren kadın"
+    "top sektiren kadın",
+    "bayan"
   ],
   "woman_bowing": [
     "kadın",
@@ -6806,47 +10370,59 @@
     "özür",
     "başını öne eğen kadın",
     "afedersiniz",
-    "eğilmiş kadın"
+    "eğilmiş kadın",
+    "bayan"
   ],
   "woman_cartwheeling": [
     "spor",
     "yanlamasına takla",
     "jimnastik",
-    "perende atan kadın"
+    "perende atan kadın",
+    "bayan",
+    "çember hareketi",
+    "kadın",
+    "kişi"
   ],
   "woman_climbing": [
     "tırmanış",
     "kaya",
     "kadın tırmanıcı",
     "tırmanma",
-    "kaya tırmanışı"
+    "kaya tırmanışı",
+    "dağcı kadın"
   ],
   "woman_cook": [
     "kadın",
     "yemek yapma",
     "şef",
-    "kadın aşçı"
+    "kadın aşçı",
+    "bayan"
   ],
   "woman_curly_hair": [
     "saç",
     "kadın",
-    "kıvırcık"
+    "kıvırcık",
+    "kişiler",
+    "kıvırcık saç"
   ],
   "woman_dancing": [
     "elbise",
     "dans",
-    "dans eden kadın"
+    "dans eden kadın",
+    "kişiler"
   ],
   "woman_detective": [
     "kadın",
     "casus",
     "kadın dedektif",
     "dedektif",
-    "hafiye"
+    "hafiye",
+    "bayan"
   ],
   "woman_elf": [
     "elf",
-    "kadın elf"
+    "kadın elf",
+    "sihirli"
   ],
   "woman_facepalming": [
     "kadın",
@@ -6855,7 +10431,8 @@
     "utanmış",
     "utancından eliyle yüzünü kapatma",
     "eliyle yüzünü kapatan kadın",
-    "yüzünü saklayan kadın"
+    "yüzünü saklayan kadın",
+    "bayan"
   ],
   "woman_factory_worker": [
     "montaj",
@@ -6863,18 +10440,21 @@
     "işçi",
     "kadın fabrika işçisi",
     "fabrika",
-    "sanayi"
+    "sanayi",
+    "bayan"
   ],
   "woman_fairy": [
     "peri",
-    "kadın peri"
+    "kadın peri",
+    "titania"
   ],
   "woman_farmer": [
     "kadın",
     "çiftlik sahibi",
     "çiftçi",
     "bahçıvan",
-    "kadın çiftçi"
+    "kadın çiftçi",
+    "bayan"
   ],
   "woman_feeding_baby": [
     "kadın",
@@ -6887,14 +10467,16 @@
     "kadın",
     "itfaiyeci",
     "itfaiye aracı",
-    "itfaiye eri"
+    "itfaiye eri",
+    "bayan"
   ],
   "woman_frowning": [
     "kadın",
     "mimik",
     "endişeli",
     "somurtma",
-    "somurtan kadın"
+    "somurtan kadın",
+    "bayan"
   ],
   "woman_genie": [
     "kadın cin",
@@ -6908,7 +10490,8 @@
     "yasak",
     "hayır hareketi yapan kadın",
     "iyi değil",
-    "hareket yok"
+    "hareket yok",
+    "bayan"
   ],
   "woman_gesturing_ok": [
     "kadın",
@@ -6916,26 +10499,39 @@
     "hareket",
     "tamam hareketi",
     "tamam",
-    "tamam hareketi yapan kadın"
+    "tamam hareketi yapan kadın",
+    "bayan"
   ],
   "woman_getting_haircut": [
-    "saç kesimi"
+    "saç kesimi",
+    "bayan",
+    "kadın",
+    "saç kestiren kadın"
   ],
   "woman_getting_massage": [
     "başına masaj yaptıran kadın",
     "masaj",
-    "masaj yapan eller"
+    "masaj yapan eller",
+    "bayan",
+    "kadın",
+    "yüz",
+    "yüz masajı yaptıran kadın"
   ],
   "woman_golfing": [
     "spor",
     "golfçü",
     "golf",
-    "kadın golfçü"
+    "kadın golfçü",
+    "bayan",
+    "golf oynayan kadın",
+    "kadın"
   ],
   "woman_guard": [
     "kişiler",
     "bekçi",
-    "muhafız"
+    "muhafız",
+    "bayan",
+    "kadın"
   ],
   "woman_health_worker": [
     "kadın",
@@ -6943,7 +10539,8 @@
     "terapist",
     "sağlık",
     "hemşire",
-    "kadın sağlık çalışanı"
+    "kadın sağlık çalışanı",
+    "bayan"
   ],
   "woman_in_lotus_position": [
     "spor",
@@ -6955,7 +10552,10 @@
     "lotus"
   ],
   "woman_in_manual_wheelchair": [
-    "tekerlekli sandalye"
+    "tekerlekli sandalye",
+    "erişilebilirlik",
+    "kadın",
+    "tekerlekli sandalyede kadın"
   ],
   "woman_in_motorized_wheelchair": [
     "kadın",
@@ -6967,7 +10567,9 @@
     "kadın",
     "sauna",
     "buharlı oda",
-    "buhar banyosu"
+    "buhar banyosu",
+    "buhar odası",
+    "buhar odasındaki kadın"
   ],
   "woman_in_tuxedo": [
     "kadın",
@@ -6980,13 +10582,18 @@
     "adalet",
     "hakim",
     "terazi",
-    "yargıç"
+    "yargıç",
+    "bayan"
   ],
   "woman_juggling": [
     "yetenek",
     "jonglör",
     "aynı anda birçok iş yapma",
-    "hokkabazlık"
+    "hokkabazlık",
+    "aynı anda birçok iş",
+    "bayan",
+    "jonglör kadın",
+    "kadın"
   ],
   "woman_kneeling": [
     "kadın",
@@ -6999,7 +10606,8 @@
     "kadın",
     "sporcu",
     "ağırlık kaldıran",
-    "ağırlık kaldıran kadın"
+    "ağırlık kaldıran kadın",
+    "bayan"
   ],
   "woman_mage": [
     "büyücü",
@@ -7011,7 +10619,8 @@
     "kadın",
     "tesisatçı",
     "elektrikçi",
-    "tamirci"
+    "tamirci",
+    "bayan"
   ],
   "woman_mountain_biking": [
     "spor",
@@ -7020,7 +10629,9 @@
     "dağ",
     "dağ bisikleti",
     "dağ bisikleti süren kadın",
-    "bisiklet sürme"
+    "bisiklet sürme",
+    "bayan",
+    "bisikletçi"
   ],
   "woman_office_worker": [
     "kadın",
@@ -7029,33 +10640,44 @@
     "yönetici",
     "ofis",
     "beyaz yaka",
-    "mimar"
+    "mimar",
+    "bayan"
   ],
   "woman_pilot": [
     "kadın",
     "uçak",
     "pilot",
-    "kadın pilot"
+    "kadın pilot",
+    "bayan"
   ],
   "woman_playing_handball": [
     "spor",
     "top",
     "hentbol",
-    "hentbol oynayan kadın"
+    "hentbol oynayan kadın",
+    "bayan",
+    "kadın"
   ],
   "woman_playing_water_polo": [
     "spor",
     "top",
     "su topu",
     "su topu oynayan kadın",
-    "su"
+    "su",
+    "bayan",
+    "kadın"
   ],
   "woman_police_officer": [
     "kişiler",
     "polis",
     "polis memuru",
     "görevli",
-    "kadın polis"
+    "kadın polis",
+    "aynasız",
+    "bayan",
+    "kadın",
+    "kadın polis memuru",
+    "memur"
   ],
   "woman_pouting": [
     "kadın",
@@ -7063,7 +10685,8 @@
     "somurtgan",
     "darılma",
     "somurtan kadın",
-    "darılan kadın"
+    "darılan kadın",
+    "bayan"
   ],
   "woman_raising_hand": [
     "kadın",
@@ -7071,20 +10694,23 @@
     "el kaldırma",
     "el sallama",
     "elini kaldıran kadın",
-    "el sallayan kadın"
+    "el sallayan kadın",
+    "bayan"
   ],
   "woman_red_hair": [
     "kadın",
     "kırmızı",
     "kızıl",
-    "kızıl saç"
+    "kızıl saç",
+    "kişiler"
   ],
   "woman_rowing_boat": [
     "spor",
     "kadın",
     "sandal",
     "sandalda kürek çeken kadın",
-    "kayık"
+    "kayık",
+    "bayan"
   ],
   "woman_running": [
     "spor",
@@ -7093,7 +10719,13 @@
     "kişi koşuyor",
     "koşucu",
     "koşmak",
-    "kadın koşucu"
+    "kadın koşucu",
+    "bayan",
+    "kadın",
+    "koşan kadın",
+    "koşma",
+    "maraton",
+    "yarış"
   ],
   "woman_s_boot": [
     "kadın",
@@ -7127,7 +10759,8 @@
     "bilim insanı",
     "kimyacı",
     "kadın bilim insanı",
-    "matematikçi"
+    "matematikçi",
+    "bayan"
   ],
   "woman_shrugging": [
     "kadın",
@@ -7136,7 +10769,8 @@
     "cahillik",
     "bilmiyorum",
     "ilgisizlik",
-    "omuz silken kadın"
+    "omuz silken kadın",
+    "bayan"
   ],
   "woman_singer": [
     "kadın",
@@ -7145,7 +10779,8 @@
     "gösterici",
     "star",
     "aktör",
-    "kadın şarkıcı"
+    "kadın şarkıcı",
+    "bayan"
   ],
   "woman_standing": [
     "kadın",
@@ -7158,14 +10793,17 @@
     "kadın",
     "öğrenci",
     "mezun",
-    "kız öğrenci"
+    "kız öğrenci",
+    "bayan"
   ],
   "woman_superhero": [
     "süper kahraman",
     "kahraman",
     "iyi",
     "süper güç",
-    "kadın kahraman"
+    "kadın kahraman",
+    "kadın",
+    "kadın süper kahraman"
   ],
   "woman_supervillain": [
     "kadın",
@@ -7181,21 +10819,27 @@
     "sörfçü",
     "sörf yapan kişi",
     "sörf yapan kadın",
-    "spordalga"
+    "spordalga",
+    "bayan",
+    "kadın"
   ],
   "woman_swimming": [
     "spor",
     "yüzme",
     "yüzücü",
     "yüzen kişi",
-    "kadın yüzücü"
+    "kadın yüzücü",
+    "bayan",
+    "kadın",
+    "yüzen kadın"
   ],
   "woman_teacher": [
     "kadın",
     "öğretmen",
     "profesör",
     "kadın öğretmen",
-    "eğitmen"
+    "eğitmen",
+    "bayan"
   ],
   "woman_technologist": [
     "kadın",
@@ -7204,7 +10848,8 @@
     "yazılım",
     "kodlayıcı",
     "teknoloji uzmanı",
-    "kadın teknoloji uzmanı"
+    "kadın teknoloji uzmanı",
+    "bayan"
   ],
   "woman_tipping_hand": [
     "kadın",
@@ -7213,28 +10858,37 @@
     "küstah",
     "yana yatmış el",
     "yardım masası kadını",
-    "elini yana yatıran kadın"
+    "elini yana yatıran kadın",
+    "bayan"
   ],
   "woman_vampire": [
     "vampir",
-    "kadın vampir"
+    "kadın vampir",
+    "hortlak"
   ],
   "woman_walking": [
     "yürüyen kadın",
-    "yürümek"
+    "yürümek",
+    "bayan",
+    "dolaşma",
+    "kadın",
+    "yürüme"
   ],
   "woman_wearing_turban": [
     "kadın",
     "sarıklı kadın",
     "sarık",
-    "başörtülü kadın"
+    "başörtülü kadın",
+    "bayan"
   ],
   "woman_white_hair": [
     "saç",
     "kadın",
     "beyaz",
     "yaşlı",
-    "gri"
+    "gri",
+    "beyaz saç",
+    "kişiler"
   ],
   "woman_with_headscarf": [
     "türbanlı",
@@ -7246,20 +10900,37 @@
   "woman_with_veil": [
     "duvak",
     "gelin",
-    "gelinlik"
+    "gelinlik",
+    "duvaklı kadın",
+    "kadın"
   ],
   "woman_with_white_cane": [
     "beyaz baston",
     "görme engelli",
-    "kör"
+    "kör",
+    "erişilebilirlik",
+    "görme engelli bastonlu kadın",
+    "kadın"
   ],
   "woman_zombie": [
     "zombi",
-    "kadın zombi"
+    "kadın zombi",
+    "hortlak",
+    "yürüyen ölü"
   ],
   "women_holding_hands": [
     "el ele tutuşan çift",
-    "iki kadın el ele"
+    "iki kadın el ele",
+    "çift",
+    "el",
+    "el ele tutuşan",
+    "el ele tutuşan kadınlar",
+    "kadınlar"
+  ],
+  "women_s_room": [
+    "işaret",
+    "kadınlar tuvaleti",
+    "tuvalet"
   ],
   "women_with_bunny_ears": [
     "kadın",
@@ -7268,17 +10939,26 @@
     "dansçı",
     "tavşan dansçılar",
     "tavşan kulak",
-    "tavşan kulaklı kadın"
+    "tavşan kulaklı kadın",
+    "bayan"
   ],
   "women_wrestling": [
     "spor",
     "güreş",
     "güreşçi",
-    "güreşen kadınlar"
+    "güreşen kadınlar",
+    "bayan",
+    "güreş yapan kadın",
+    "kadın",
+    "kişi"
   ],
   "wood": [
     "odun",
-    "kütük"
+    "kütük",
+    "ağaç",
+    "ahşap",
+    "kereste",
+    "tomruk"
   ],
   "woozy_face": [
     "çakırkeyif",
@@ -7291,22 +10971,32 @@
   ],
   "world_map": [
     "dünya haritası",
-    "harita"
+    "harita",
+    "dünya"
   ],
   "worm": [
-    "solucan"
+    "solucan",
+    "kurt",
+    "kurtçuk",
+    "parazit"
   ],
   "worried": [
     "endişeli yüz",
     "üzgün",
     "endişeli",
-    "mutsuz"
+    "mutsuz",
+    "yüz"
   ],
   "wrapped_gift": [
     "kutlama",
     "paketlenmiş hediye",
     "paketli hediye",
     "paketli"
+  ],
+  "wrench": [
+    "araç",
+    "ingiliz anahtarı",
+    "somun anahtarı"
   ],
   "writing_hand": [
     "beden",
@@ -7337,7 +11027,8 @@
     "küre",
     "sarı",
     "sarı top",
-    "sarı küre"
+    "sarı küre",
+    "daire"
   ],
   "yellow_heart": [
     "kalp",
@@ -7359,32 +11050,63 @@
     "banknot",
     "yen"
   ],
+  "yin_yang": [
+    "din",
+    "tao",
+    "taocu",
+    "yang",
+    "yin"
+  ],
   "yoyo": [
-    "yo-yo"
+    "yo-yo",
+    "inip çıkma",
+    "oyuncak"
+  ],
+  "zambia": [
+    "bayrak"
   ],
   "zany_face": [
     "çılgın",
-    "çılgın surat"
+    "çılgın surat",
+    "büyük",
+    "göz",
+    "küçük"
+  ],
+  "zebra": [
+    "çizgili",
+    "şeritli"
   ],
   "zero": [
     "sayılar",
     "sayı tuşu",
     "sayı",
-    "sıfır"
+    "sıfır",
+    "tuş"
+  ],
+  "zimbabwe": [
+    "bayrak"
   ],
   "zipper_mouth_face": [
     "ağzı fermuarlı yüz",
-    "fermuar yüz"
+    "fermuar yüz",
+    "ağız",
+    "fermuar",
+    "yüz"
   ],
   "zombie": [
     "ölümsüz",
     "ölü",
-    "zombi"
+    "zombi",
+    "hortlak",
+    "yürüyen ölü"
   ],
   "zzz": [
     "çizgi roman",
     "duygu",
     "uyuma",
     "horlama"
+  ],
+  "åland_islands": [
+    "bayrak"
   ]
 }

@@ -1,0 +1,11801 @@
+{
+  "+1": [
+    "nahoru",
+    "palec",
+    "ruka",
+    "tělo"
+  ],
+  "-1": [
+    "dolů",
+    "palec",
+    "ruka",
+    "tělo"
+  ],
+  "100": [
+    "plný",
+    "skóre",
+    "sto",
+    "sto bodů"
+  ],
+  "1234": [
+    "čísla",
+    "zadávání",
+    "zadávání čísel"
+  ],
+  "1st_place_medal": [
+    "medaile",
+    "medaile za 1. místo",
+    "místo",
+    "první",
+    "zlato"
+  ],
+  "2nd_place_medal": [
+    "druhé",
+    "medaile",
+    "medaile za 2. místo",
+    "místo",
+    "stříbro"
+  ],
+  "3rd_place_medal": [
+    "bronz",
+    "medaile",
+    "medaile za 3. místo",
+    "místo",
+    "třetí"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "krev",
+    "štítek a (krevní skupina)"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "krev",
+    "štítek ab (krevní skupina)"
+  ],
+  "abacus": [
+    "abakus",
+    "počitadlo",
+    "počítání",
+    "počty"
+  ],
+  "accordion": [
+    "akordeon",
+    "dršťky",
+    "harmonika",
+    "koncertina",
+    "tahací",
+    "zednické piano"
+  ],
+  "adhesive_bandage": [
+    "bandáž",
+    "náplast",
+    "obvaz"
+  ],
+  "admission_tickets": [
+    "lístek",
+    "vstupenka",
+    "vstupenky"
+  ],
+  "aerial_tramway": [
+    "gondola",
+    "kabina",
+    "kabinka",
+    "kabinková",
+    "kabinová lanovka",
+    "lano",
+    "vozidlo"
+  ],
+  "afghanistan": [
+    "vlajka"
+  ],
+  "airplane": [
+    "doprava",
+    "letadlo",
+    "letoun"
+  ],
+  "airplane_arrival": [
+    "doprava",
+    "letadlo",
+    "letoun",
+    "přílet",
+    "přílety",
+    "přistání",
+    "přistávající letadlo"
+  ],
+  "airplane_departure": [
+    "check-in",
+    "doprava",
+    "letadlo",
+    "letoun",
+    "odbavení",
+    "odlet",
+    "odlety",
+    "vzlet",
+    "vzlétající letadlo"
+  ],
+  "alarm_clock": [
+    "budík",
+    "buzení",
+    "čas",
+    "hodiny",
+    "vstávání"
+  ],
+  "albania": [
+    "vlajka"
+  ],
+  "alembic": [
+    "alembik",
+    "chemie",
+    "destilace",
+    "destilační",
+    "křivule",
+    "náčiní",
+    "nádobí"
+  ],
+  "algeria": [
+    "vlajka"
+  ],
+  "alien": [
+    "bytost",
+    "fantasy",
+    "mimozemšťan",
+    "pohádka",
+    "příšera",
+    "smajlík",
+    "tvář",
+    "ufo",
+    "vesmír",
+    "výraz"
+  ],
+  "alien_monster": [
+    "bytost",
+    "fantasy",
+    "marťan",
+    "mimozemská příšera",
+    "mimozemšťan",
+    "pohádka",
+    "příšera",
+    "smajlík",
+    "tvář",
+    "ufo",
+    "vesmír",
+    "vetřelec",
+    "výraz"
+  ],
+  "ambulance": [
+    "sanitka",
+    "vozidlo"
+  ],
+  "american_football": [
+    "americký",
+    "fotbal",
+    "fotbalová",
+    "fotbalový",
+    "míč",
+    "míč na americký fotbal",
+    "šiška"
+  ],
+  "american_samoa": [
+    "vlajka"
+  ],
+  "amphora": [
+    "amfora",
+    "nádoba",
+    "nádobí",
+    "nápoj",
+    "vaření",
+    "váza",
+    "vodnář",
+    "zvěrokruh"
+  ],
+  "anatomical_heart": [
+    "kardiologie",
+    "puls",
+    "srdce",
+    "srdeční orgán",
+    "tep",
+    "tlukot"
+  ],
+  "anchor": [
+    "kotva",
+    "loď",
+    "zařízení"
+  ],
+  "andorra": [
+    "vlajka"
+  ],
+  "anger_symbol": [
+    "hněv",
+    "japonský symbol hněvu",
+    "komiks",
+    "manga",
+    "naštvaný",
+    "úder",
+    "vztek",
+    "žíly",
+    "zloba",
+    "zlost"
+  ],
+  "angola": [
+    "vlajka"
+  ],
+  "angry": [
+    "hněv",
+    "hněvivý",
+    "naštvaný",
+    "rozhněvaný",
+    "rozzlobený",
+    "rozzlobený obličej",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "vztek",
+    "zloba",
+    "zlost",
+    "zuřivost",
+    "zuřivý"
+  ],
+  "angry_face_with_horns": [
+    "ďábel",
+    "démon",
+    "fantasy",
+    "pohádka",
+    "rozzlobený obličej s rohy",
+    "skřet",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "anguilla": [
+    "vlajka"
+  ],
+  "anguished_face": [
+    "nepříjemný",
+    "obličej s úzkostným výrazem",
+    "překvapení",
+    "smajlík",
+    "šok",
+    "trpící",
+    "tvář",
+    "utrápený",
+    "utrpení",
+    "úzkost",
+    "výraz",
+    "ztrápený"
+  ],
+  "ant": [
+    "hmyz",
+    "mravenec"
+  ],
+  "antarctica": [
+    "vlajka"
+  ],
+  "antenna_bars": [
+    "anténa",
+    "indikátor síly signálu",
+    "mobil",
+    "mobilní",
+    "proužky",
+    "signál",
+    "síla",
+    "telefon",
+    "ukazatel"
+  ],
+  "antigua_barbuda": [
+    "vlajka"
+  ],
+  "anxious_face_with_sweat": [
+    "modrá",
+    "otevřený",
+    "pot",
+    "smajlík",
+    "studený",
+    "tvář",
+    "ústa",
+    "uštvaný",
+    "úzkostný obličej se studeným potem",
+    "výraz"
+  ],
+  "aquarius": [
+    "voda",
+    "vodnář",
+    "vodonoš",
+    "zvěrokruh"
+  ],
+  "argentina": [
+    "vlajka"
+  ],
+  "aries": [
+    "beran",
+    "skopec",
+    "zvěrokruh"
+  ],
+  "armenia": [
+    "vlajka"
+  ],
+  "articulated_lorry": [
+    "autodoprava",
+    "kamion",
+    "náklaďák",
+    "nákladní",
+    "tir",
+    "tirák",
+    "truck",
+    "vozidlo"
+  ],
+  "artist": [
+    "malíř",
+    "malíř/malířka",
+    "malířka",
+    "paleta",
+    "umělec",
+    "umělkyně",
+    "umění"
+  ],
+  "artist_palette": [
+    "malíř",
+    "malířská paleta",
+    "malířství",
+    "malování",
+    "muzeum",
+    "paleta",
+    "umění"
+  ],
+  "aruba": [
+    "vlajka"
+  ],
+  "ascension_island": [
+    "vlajka"
+  ],
+  "asterisk": [
+    "klávesa"
+  ],
+  "astonished_face": [
+    "naprosto",
+    "ohromený",
+    "smajlík",
+    "šok",
+    "tvář",
+    "úplně",
+    "úžas",
+    "užaslý obličej",
+    "výraz"
+  ],
+  "astronaut": [
+    "astronautka",
+    "kosmonaut",
+    "kosmonaut/kosmonautka",
+    "kosmonautka",
+    "raketa",
+    "vesmíír"
+  ],
+  "atm_sign": [
+    "atm",
+    "automat",
+    "banka",
+    "bankomat",
+    "značka bankomatu"
+  ],
+  "atom_symbol": [
+    "ateismus",
+    "atom",
+    "symbol atomu"
+  ],
+  "australia": [
+    "vlajka"
+  ],
+  "austria": [
+    "vlajka"
+  ],
+  "auto_rickshaw": [
+    "autorikša",
+    "tuk-tuk"
+  ],
+  "automobile": [
+    "auto",
+    "vozidlo",
+    "vůz"
+  ],
+  "avocado": [
+    "avokádo",
+    "jídlo",
+    "ovoce"
+  ],
+  "axe": [
+    "dříví",
+    "sekání",
+    "sekat",
+    "sekera",
+    "sekerka",
+    "sekyra",
+    "sekyrka",
+    "štípání",
+    "štípat"
+  ],
+  "azerbaijan": [
+    "vlajka"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "krev",
+    "štítek b (krevní skupina)"
+  ],
+  "baby": [
+    "batole",
+    "kojenec",
+    "malé dítě",
+    "nemluvně"
+  ],
+  "baby_angel": [
+    "anděl",
+    "andílek",
+    "dítě",
+    "fantasy",
+    "pohádka",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "baby_bottle": [
+    "dítě",
+    "kojenecká láhev",
+    "lahev",
+    "mléko",
+    "nápoj"
+  ],
+  "baby_chick": [
+    "kuřátko",
+    "kuře",
+    "ptáček",
+    "pták"
+  ],
+  "baby_symbol": [
+    "dítě",
+    "přebalení",
+    "přebalovací",
+    "symbol dítěte"
+  ],
+  "back_arrow": [
+    "back",
+    "šipka",
+    "zpět"
+  ],
+  "backhand_index_pointing_down": [
+    "dolů",
+    "hřbet ruky",
+    "prst",
+    "ruka",
+    "ruka s prstem ukazujícím dolů",
+    "tělo",
+    "ukazováček",
+    "ukazovat"
+  ],
+  "backhand_index_pointing_left": [
+    "hřbet ruky",
+    "prst",
+    "ruka",
+    "ruka s prstem ukazujícím vlevo",
+    "tělo",
+    "ukazováček",
+    "ukazovat"
+  ],
+  "backhand_index_pointing_right": [
+    "hřbet ruky",
+    "prst",
+    "ruka",
+    "ruka s prstem ukazujícím vpravo",
+    "tělo",
+    "ukazováček",
+    "ukazovat"
+  ],
+  "backhand_index_pointing_up": [
+    "hřbet ruky",
+    "nahoru",
+    "prst",
+    "ruka",
+    "ruka s prstem ukazujícím nahoru",
+    "tělo",
+    "ukazováček",
+    "ukazovat"
+  ],
+  "backpack": [
+    "aktovka",
+    "batoh",
+    "škola",
+    "školní batoh",
+    "taška",
+    "zavazadlo"
+  ],
+  "bacon": [
+    "jídlo",
+    "maso",
+    "slanina"
+  ],
+  "badger": [
+    "jezevec",
+    "medojed",
+    "nora"
+  ],
+  "badminton": [
+    "hra",
+    "košík",
+    "míček",
+    "raketa"
+  ],
+  "bagel": [
+    "bejgl",
+    "pečivo"
+  ],
+  "baggage_claim": [
+    "výdej",
+    "výdej zavazadel",
+    "zavazadlo"
+  ],
+  "baguette_bread": [
+    "bageta",
+    "francouzské",
+    "jídlo",
+    "pečivo"
+  ],
+  "bahamas": [
+    "vlajka"
+  ],
+  "bahrain": [
+    "vlajka"
+  ],
+  "balance_scale": [
+    "miskové váhy",
+    "nářadí",
+    "rovnováha",
+    "spravedlnost",
+    "váha",
+    "zvěrokruh"
+  ],
+  "ballet_shoes": [
+    "balet",
+    "baletní piškoty",
+    "tanec"
+  ],
+  "balloon": [
+    "balónek",
+    "oslava"
+  ],
+  "ballot_box_with_ballot": [
+    "krabice",
+    "schránka",
+    "urna s volebním lístkem",
+    "volby",
+    "volební"
+  ],
+  "banana": [
+    "banán",
+    "ovoce",
+    "rostlina"
+  ],
+  "bangladesh": [
+    "vlajka"
+  ],
+  "banjo": [
+    "bendžo",
+    "hudba",
+    "nástroj",
+    "strunný"
+  ],
+  "bank": [
+    "banka",
+    "budova"
+  ],
+  "bar_chart": [
+    "graf",
+    "sloupcový graf",
+    "sloupec"
+  ],
+  "barbados": [
+    "vlajka"
+  ],
+  "barber_pole": [
+    "holič",
+    "stříhání",
+    "tyč",
+    "značka holičství"
+  ],
+  "baseball": [
+    "baseballový míček",
+    "míč"
+  ],
+  "basket": [
+    "koš",
+    "košík",
+    "piknik",
+    "prádlo",
+    "proutí"
+  ],
+  "basketball": [
+    "basketbal",
+    "basketbalový míč",
+    "koš",
+    "košíková",
+    "košíkovou",
+    "míč"
+  ],
+  "bat": [
+    "netopýr",
+    "upír",
+    "vampýr",
+    "zvíře"
+  ],
+  "bathtub": [
+    "koupel",
+    "koupelna",
+    "lázeň",
+    "vana",
+    "voda"
+  ],
+  "battery": [
+    "akumulátor",
+    "baterie",
+    "baterka"
+  ],
+  "beach_with_umbrella": [
+    "deštník",
+    "pláž",
+    "pláž se slunečníkem",
+    "slunečník"
+  ],
+  "bear": [
+    "hlava medvěda",
+    "medvěd",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "beating_heart": [
+    "bušení",
+    "bušící srdce",
+    "puls",
+    "srdce",
+    "tep"
+  ],
+  "beaver": [
+    "bobr",
+    "hráz"
+  ],
+  "bed": [
+    "hotel",
+    "postel",
+    "spánek"
+  ],
+  "beer_mug": [
+    "bar",
+    "nápoj",
+    "pití",
+    "pivo",
+    "půllitr",
+    "půllitr piva",
+    "sklenice"
+  ],
+  "beetle": [
+    "brouček",
+    "brouk",
+    "hmyz"
+  ],
+  "belarus": [
+    "vlajka"
+  ],
+  "belgium": [
+    "vlajka"
+  ],
+  "belize": [
+    "vlajka"
+  ],
+  "bell": [
+    "zvon",
+    "zvonek"
+  ],
+  "bell_pepper": [
+    "kapie",
+    "paprika",
+    "sladká",
+    "zelenina"
+  ],
+  "bell_with_slash": [
+    "ne",
+    "přeškrtnutý zvonek",
+    "tichý",
+    "zákaz",
+    "zakázáno",
+    "zltumení",
+    "zvon"
+  ],
+  "bellhop_bell": [
+    "hotel",
+    "portýr",
+    "portýrský zvonek",
+    "poslíček",
+    "recepce",
+    "zvon",
+    "zvonek"
+  ],
+  "benin": [
+    "vlajka"
+  ],
+  "bento_box": [
+    "bento",
+    "krabička",
+    "krabička bentó"
+  ],
+  "bermuda": [
+    "vlajka"
+  ],
+  "beverage_box": [
+    "krabičkové pití",
+    "krabicový džus",
+    "nápoj v krabičce",
+    "nápojová krabice",
+    "pití v krabičce",
+    "pitíčko"
+  ],
+  "bhutan": [
+    "vlajka"
+  ],
+  "bicycle": [
+    "bicykl",
+    "kolo",
+    "vozidlo"
+  ],
+  "bikini": [
+    "bikiny",
+    "koupání",
+    "oblečení",
+    "plavání",
+    "plavky"
+  ],
+  "billed_cap": [
+    "baseball",
+    "čepice",
+    "kšiltovka"
+  ],
+  "biohazard": [
+    "biologické",
+    "nebezpečí",
+    "riziko",
+    "značka"
+  ],
+  "bird": [
+    "ptáček",
+    "pták"
+  ],
+  "birthday_cake": [
+    "cukrovinka",
+    "dezert",
+    "dort",
+    "narozeninový dort",
+    "narozeniny",
+    "oslava",
+    "sladkost",
+    "sladký",
+    "zákusek"
+  ],
+  "bison": [
+    "bizon",
+    "buvol",
+    "stádo",
+    "zubr"
+  ],
+  "black_cat": [
+    "černá",
+    "kočka",
+    "neštěstí",
+    "smůla"
+  ],
+  "black_circle": [
+    "černá",
+    "černý kroužek",
+    "geometrie",
+    "kruh"
+  ],
+  "black_flag": [
+    "černá vlajka",
+    "prapor",
+    "praporek",
+    "vlající"
+  ],
+  "black_heart": [
+    "černá",
+    "černé srdce",
+    "smutek",
+    "srdce",
+    "zkaženost",
+    "zlo"
+  ],
+  "black_large_square": [
+    "čtverec",
+    "geometrie",
+    "velký černý čtverec"
+  ],
+  "black_medium_small_square": [
+    "čtverec",
+    "geometrie",
+    "větší černý čtvereček"
+  ],
+  "black_medium_square": [
+    "čtverec",
+    "geometrie",
+    "střední černý čtverec"
+  ],
+  "black_nib": [
+    "hrot černého pera",
+    "pero"
+  ],
+  "black_small_square": [
+    "černý čtvereček",
+    "čtverec",
+    "geometrie"
+  ],
+  "black_square_button": [
+    "černé čtvercové tlačítko",
+    "čtvercové",
+    "čtverec",
+    "geometrie",
+    "tlačítko"
+  ],
+  "blonde_man": [
+    "blond",
+    "blonďák",
+    "muž",
+    "plavovlasý",
+    "světlovlasý"
+  ],
+  "blonde_woman": [
+    "blond",
+    "blondýna",
+    "blondýnka",
+    "plavovláska",
+    "světlovláska",
+    "žena"
+  ],
+  "blossom": [
+    "květ",
+    "květina",
+    "rostlina"
+  ],
+  "blowfish": [
+    "čtverzubec",
+    "ježík",
+    "ryba"
+  ],
+  "blue_book": [
+    "kniha",
+    "modrá"
+  ],
+  "blue_circle": [
+    "geometrie",
+    "kruh",
+    "modrá",
+    "modrý kroužek"
+  ],
+  "blue_heart": [
+    "modrá",
+    "modré srdce",
+    "srdce"
+  ],
+  "blue_square": [
+    "čtverec",
+    "čtvereček",
+    "modrá",
+    "modrý čtvereček"
+  ],
+  "blueberries": [
+    "bobule",
+    "borůvky",
+    "lesní",
+    "modrý",
+    "plod"
+  ],
+  "blush": [
+    "červenání",
+    "oko",
+    "ruměnec",
+    "smajlík",
+    "smějící se obličej s usměvavýma očima",
+    "tvář",
+    "úsměv",
+    "výraz",
+    "zardění"
+  ],
+  "boar": [
+    "divoké",
+    "kanec",
+    "kňour",
+    "prase"
+  ],
+  "bolivia": [
+    "vlajka"
+  ],
+  "bomb": [
+    "bomba",
+    "komiks"
+  ],
+  "bone": [
+    "kost",
+    "kostra"
+  ],
+  "bookmark": [
+    "záložka",
+    "značka"
+  ],
+  "bookmark_tabs": [
+    "ouška",
+    "ouško",
+    "papíry",
+    "poznámky",
+    "stránky se záložkami",
+    "záložka",
+    "značka"
+  ],
+  "books": [
+    "kniha",
+    "knihy"
+  ],
+  "boomerang": [
+    "austrálie",
+    "bumerang",
+    "návrat",
+    "odraz"
+  ],
+  "bosnia_herzegovina": [
+    "vlajka"
+  ],
+  "botswana": [
+    "vlajka"
+  ],
+  "bottle_with_popping_cork": [
+    "bar",
+    "korek",
+    "láhev",
+    "láhev sektu",
+    "nápoj",
+    "sekt",
+    "zátka"
+  ],
+  "bouquet": [
+    "květina",
+    "kytice",
+    "kytička",
+    "kytka",
+    "pugét",
+    "romance",
+    "romantika",
+    "rostlina"
+  ],
+  "bouvet_island": [
+    "vlajka"
+  ],
+  "bow_and_arrow": [
+    "luk",
+    "luk a šíp",
+    "šíp",
+    "střelec",
+    "výzbroj",
+    "zbraň",
+    "zvěrokruh"
+  ],
+  "bowl_with_spoon": [
+    "cereálie",
+    "cornflakes",
+    "kaše",
+    "kornflejks",
+    "kornflejky",
+    "krupičná",
+    "kukuřičné",
+    "lupínky",
+    "miska se lžící",
+    "muesli",
+    "musli",
+    "müsli",
+    "ovesná",
+    "snídaně"
+  ],
+  "bowling": [
+    "bowlingová",
+    "hra",
+    "koule",
+    "kuželka",
+    "kuželky"
+  ],
+  "boxing_glove": [
+    "box",
+    "boxerská rukavice",
+    "rukavice",
+    "sport"
+  ],
+  "boy": [
+    "chlapec",
+    "hoch",
+    "kluk"
+  ],
+  "brain": [
+    "inteligence",
+    "inteligentní",
+    "mozek"
+  ],
+  "brazil": [
+    "vlajka"
+  ],
+  "bread": [
+    "bochník",
+    "chléb",
+    "chleba",
+    "pecen"
+  ],
+  "breast_feeding": [
+    "dítě",
+    "kojenec",
+    "kojení",
+    "kojit",
+    "krmení",
+    "prsa",
+    "prso"
+  ],
+  "brick": [
+    "cihla",
+    "cihly",
+    "hlína",
+    "zeď"
+  ],
+  "bridge_at_night": [
+    "most",
+    "most v noci",
+    "noc",
+    "počasí"
+  ],
+  "briefcase": [
+    "aktovka",
+    "kufřík"
+  ],
+  "briefs": [
+    "jednodílné",
+    "pánské plavky",
+    "plavky",
+    "spodky"
+  ],
+  "bright_button": [
+    "jas",
+    "jasný",
+    "tlačítko zvýšení jasu",
+    "zesvětlení",
+    "zesvětlit",
+    "zjasnění",
+    "zjasnit"
+  ],
+  "british_indian_ocean_territory": [
+    "vlajka"
+  ],
+  "british_virgin_islands": [
+    "vlajka"
+  ],
+  "broccoli": [
+    "brokolice",
+    "brukev",
+    "kapusta",
+    "rostlina",
+    "zelenina"
+  ],
+  "broken_heart": [
+    "srdce",
+    "zlomené srdce",
+    "zlomený",
+    "zlomit"
+  ],
+  "broom": [
+    "čarodějnice",
+    "koště",
+    "úklid",
+    "uklízení",
+    "zametání"
+  ],
+  "brown_circle": [
+    "hnědá",
+    "hnědý kroužek",
+    "kolečko",
+    "kroužek",
+    "kruh"
+  ],
+  "brown_heart": [
+    "hnědá",
+    "hnědé srdce",
+    "srdce"
+  ],
+  "brown_square": [
+    "čtverec",
+    "čtvereček",
+    "hnědá",
+    "hnědý čtvereček"
+  ],
+  "brunei": [
+    "vlajka"
+  ],
+  "bubble_tea": [
+    "bublinkový",
+    "čaj",
+    "mléčný",
+    "perličkový",
+    "perličky",
+    "perlivý"
+  ],
+  "bucket": [
+    "džber",
+    "kbelík",
+    "kýbl",
+    "kyblík",
+    "vědro"
+  ],
+  "bug": [
+    "hmyz",
+    "housenka"
+  ],
+  "building_construction": [
+    "budova",
+    "stavba",
+    "staveniště"
+  ],
+  "bulgaria": [
+    "vlajka"
+  ],
+  "bullet_train": [
+    "japonský rychlovlak",
+    "pendolino",
+    "rychlost",
+    "šinkansen",
+    "špička",
+    "vlak",
+    "vozidlo",
+    "železnice"
+  ],
+  "bullseye": [
+    "cíl",
+    "hra",
+    "přesný zásah do terče",
+    "šipka",
+    "střed",
+    "středu",
+    "terč",
+    "trefa",
+    "zásah"
+  ],
+  "burkina_faso": [
+    "vlajka"
+  ],
+  "burrito": [
+    "burito",
+    "jídlo",
+    "mexická",
+    "mexické",
+    "rolka",
+    "wrap"
+  ],
+  "burundi": [
+    "vlajka"
+  ],
+  "bus": [
+    "autobus",
+    "vozidlo"
+  ],
+  "bus_stop": [
+    "autobus",
+    "autobusová zastávka",
+    "zastávka",
+    "zastávka autobusu"
+  ],
+  "bust_in_silhouette": [
+    "busta",
+    "bysta",
+    "silueta",
+    "silueta busty"
+  ],
+  "busts_in_silhouette": [
+    "busta",
+    "bysta",
+    "silueta",
+    "silueta dvojice bust"
+  ],
+  "butter": [
+    "máslo",
+    "mléčné",
+    "mlékárenské",
+    "mlékárna",
+    "mlékařské"
+  ],
+  "butterfly": [
+    "hmyz",
+    "krásný",
+    "motýl"
+  ],
+  "cactus": [
+    "kaktus",
+    "rostlina"
+  ],
+  "call_me_hand": [
+    "gesto „zavolej mi“",
+    "ruka",
+    "zatelefonovat",
+    "zavolat",
+    "zavolej"
+  ],
+  "cambodia": [
+    "vlajka"
+  ],
+  "camel": [
+    "dromedár",
+    "hrb",
+    "velbloud",
+    "velbloud jednohrbý"
+  ],
+  "camera": [
+    "aparát",
+    "foťák",
+    "fotoaparát",
+    "fotografický",
+    "video"
+  ],
+  "camera_with_flash": [
+    "aparát",
+    "blesk",
+    "foťák",
+    "fotoaparát s bleskem",
+    "fotografický",
+    "video"
+  ],
+  "cameroon": [
+    "vlajka"
+  ],
+  "camping": [
+    "kemp",
+    "kempování",
+    "stan",
+    "tábor",
+    "táboření"
+  ],
+  "canada": [
+    "vlajka"
+  ],
+  "canary_islands": [
+    "vlajka"
+  ],
+  "cancer": [
+    "rak",
+    "zvěrokruh"
+  ],
+  "candle": [
+    "světlo",
+    "svíčka"
+  ],
+  "candy": [
+    "bonbon",
+    "cukrovinka",
+    "sladkost",
+    "sladký"
+  ],
+  "canned_food": [
+    "jídlo v plechovce",
+    "plechovka"
+  ],
+  "canoe": [
+    "člun",
+    "kánoe",
+    "loď"
+  ],
+  "cape_verde": [
+    "vlajka"
+  ],
+  "capricorn": [
+    "koza",
+    "kozoroh",
+    "zvěrokruh"
+  ],
+  "card_file_box": [
+    "karta",
+    "krabice",
+    "krabice s kartotékou",
+    "spis"
+  ],
+  "card_index": [
+    "karta",
+    "kartotéka",
+    "vizitka",
+    "vizitkovník"
+  ],
+  "card_index_dividers": [
+    "karta",
+    "kartotéka",
+    "oddělovač",
+    "oddíl",
+    "rejstřík"
+  ],
+  "caribbean_netherlands": [
+    "vlajka"
+  ],
+  "carousel_horse": [
+    "kolotoč",
+    "kolotočový kůň",
+    "kůň"
+  ],
+  "carp_streamer": [
+    "kapr",
+    "kapří",
+    "koinobori",
+    "oslava",
+    "ryba",
+    "rybí",
+    "vlajka"
+  ],
+  "carpentry_saw": [
+    "dřevo",
+    "nástroj",
+    "ocaska",
+    "pila",
+    "pilka",
+    "ruční pila",
+    "truhlář"
+  ],
+  "carrot": [
+    "jídlo",
+    "mrkev",
+    "zelenina"
+  ],
+  "castle": [
+    "budova",
+    "evropský",
+    "hrad",
+    "zámek"
+  ],
+  "cat": [
+    "domácí",
+    "kočka",
+    "mazlíček"
+  ],
+  "cat_face": [
+    "hlava kočky",
+    "kočka",
+    "mazlíček",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "cat_with_wry_smile": [
+    "ironie",
+    "jízlivý",
+    "kočičí obličej s jízlivým úsměvem",
+    "kočka",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "výraz"
+  ],
+  "cayman_islands": [
+    "vlajka"
+  ],
+  "central_african_republic": [
+    "vlajka"
+  ],
+  "ceuta_melilla": [
+    "vlajka"
+  ],
+  "chad": [
+    "vlajka"
+  ],
+  "chains": [
+    "řetěz",
+    "řetězy"
+  ],
+  "chair": [
+    "posezení",
+    "sedačka",
+    "sedadlo",
+    "sedátko",
+    "sedět",
+    "sezení",
+    "židle"
+  ],
+  "chart_decreasing": [
+    "graf",
+    "klesající graf",
+    "pokles",
+    "sestupný",
+    "trend"
+  ],
+  "chart_increasing": [
+    "graf",
+    "rostoucí graf",
+    "růst",
+    "trend",
+    "vzestupný"
+  ],
+  "chart_increasing_with_yen": [
+    "banka",
+    "graf",
+    "jen",
+    "měna",
+    "nahoru",
+    "peníze",
+    "rostoucí graf se znakem jenu",
+    "růst",
+    "trend",
+    "trh",
+    "vzestup",
+    "vzestupný"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "okénko",
+    "políčko",
+    "zaškrtnuté políčko",
+    "zaškrtnutí"
+  ],
+  "check_mark": [
+    "✓",
+    "zaškrtnutí",
+    "značka"
+  ],
+  "cheese_wedge": [
+    "klínek sýra",
+    "sýr"
+  ],
+  "chequered_flag": [
+    "kostkovaná",
+    "praporek",
+    "šachovnicová vlajka",
+    "signální",
+    "vlajka",
+    "závod"
+  ],
+  "cherries": [
+    "ovoce",
+    "rostlina",
+    "třešeň",
+    "třešně"
+  ],
+  "cherry_blossom": [
+    "květ",
+    "květina",
+    "rostlina",
+    "třešeň",
+    "třešňový květ"
+  ],
+  "chess_pawn": [
+    "figurka",
+    "pěšák",
+    "pěšec",
+    "pión",
+    "šachy"
+  ],
+  "chestnut": [
+    "kaštan",
+    "rostlina"
+  ],
+  "chicken": [
+    "pták",
+    "slepice"
+  ],
+  "child": [
+    "dítě",
+    "malé",
+    "neutrální"
+  ],
+  "children_crossing": [
+    "chodci",
+    "chodec",
+    "dítě",
+    "doprava",
+    "dopravní",
+    "pozor, děti",
+    "přechod",
+    "značka"
+  ],
+  "chile": [
+    "vlajka"
+  ],
+  "china": [
+    "vlajka"
+  ],
+  "chipmunk": [
+    "veverka"
+  ],
+  "chocolate_bar": [
+    "čokoláda",
+    "cukrovinka",
+    "sladkost",
+    "sladký",
+    "tabulka",
+    "tabulka čokolády"
+  ],
+  "chopsticks": [
+    "hashi",
+    "haši",
+    "hůlky",
+    "jídelní",
+    "tyčinky"
+  ],
+  "christmas_island": [
+    "vlajka"
+  ],
+  "christmas_tree": [
+    "oslava",
+    "strom",
+    "svátek",
+    "svátky",
+    "vánoce",
+    "vánoční stromeček"
+  ],
+  "church": [
+    "budova",
+    "kostel",
+    "křesťanství",
+    "kříž",
+    "náboženství"
+  ],
+  "cigarette": [
+    "cigareta",
+    "kouření"
+  ],
+  "cinema": [
+    "film",
+    "kino",
+    "kinosál",
+    "opona",
+    "plátno",
+    "promítačka"
+  ],
+  "circled_m": [
+    "kroužek",
+    "kruh",
+    "m",
+    "m v kroužku"
+  ],
+  "circus_tent": [
+    "cirkus",
+    "cirkusový stan",
+    "šapitó",
+    "stan"
+  ],
+  "cityscape": [
+    "budova",
+    "krajina",
+    "město",
+    "městská",
+    "městská zástavba",
+    "silueta",
+    "vyhlídka"
+  ],
+  "cityscape_at_dusk": [
+    "budova",
+    "krajina",
+    "město",
+    "město za soumraku",
+    "městská",
+    "počasí",
+    "silueta",
+    "slunce",
+    "soumrak",
+    "večer",
+    "vyhlídka",
+    "západ"
+  ],
+  "cl_button": [
+    "cl",
+    "štítek cl"
+  ],
+  "clamp": [
+    "komprese",
+    "nářadí",
+    "svěrka",
+    "svorka",
+    "tlak"
+  ],
+  "clap": [
+    "ruka",
+    "tělo",
+    "tleskající ruce",
+    "tleskat"
+  ],
+  "clapper_board": [
+    "film",
+    "filmová klapka"
+  ],
+  "classical_building": [
+    "antická budova",
+    "antika",
+    "budova",
+    "klasicismus",
+    "klasická"
+  ],
+  "clinking_beer_mugs": [
+    "bar",
+    "cinkající půllitry piva",
+    "cinkání",
+    "nápoj",
+    "pití",
+    "pivo",
+    "přípitek",
+    "přiťuknutí",
+    "půllitr",
+    "sklenice"
+  ],
+  "clinking_glasses": [
+    "cinkající sklenice",
+    "cinkání",
+    "nápoj",
+    "oslava",
+    "pití",
+    "přípitek",
+    "přiťuknutí",
+    "sklenice"
+  ],
+  "clipboard": [
+    "deska",
+    "dokumenty",
+    "klip",
+    "podložka",
+    "psací podložka"
+  ],
+  "clipperton_island": [
+    "vlajka"
+  ],
+  "clockwise_vertical_arrows": [
+    "doprava",
+    "hodin",
+    "načíst",
+    "načtení",
+    "nové",
+    "opětovné",
+    "ručiček",
+    "šipka",
+    "směr",
+    "směru",
+    "svislé šipky ve směru hodinových ručiček",
+    "znovu"
+  ],
+  "closed_book": [
+    "kniha",
+    "zavřená kniha",
+    "zavřený"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "pošta",
+    "poštovní schránka",
+    "schránka",
+    "sklopený",
+    "spuštěný",
+    "zavřená schránka s praporkem dole",
+    "zavřený"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "pošta",
+    "poštovní schránka",
+    "schránka",
+    "zavřená schránka s praporkem nahoře",
+    "zavřený"
+  ],
+  "closed_umbrella": [
+    "déšť",
+    "deštník",
+    "oblečení",
+    "počasí",
+    "zavřený deštník"
+  ],
+  "cloud": [
+    "mrak",
+    "oblak",
+    "počasí"
+  ],
+  "cloud_with_lightning": [
+    "blesk",
+    "mrak",
+    "mrak s bleskem",
+    "oblak",
+    "počasí"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "blesk",
+    "déšť",
+    "hrom",
+    "mrak",
+    "mrak s bleskem a deštěm",
+    "oblak",
+    "počasí"
+  ],
+  "cloud_with_rain": [
+    "déšť",
+    "mrak",
+    "mrak s deštěm",
+    "oblak",
+    "počasí"
+  ],
+  "cloud_with_snow": [
+    "mrak",
+    "mrak se sněhem",
+    "oblak",
+    "počasí",
+    "sníh",
+    "zima"
+  ],
+  "clown_face": [
+    "klaun",
+    "klaunský obličej",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "club_suit": [
+    "barva",
+    "hra",
+    "karta",
+    "kříž",
+    "kříže"
+  ],
+  "clutch_bag": [
+    "kosmetická taška",
+    "oblečení",
+    "zavazadlo"
+  ],
+  "coat": [
+    "bunda",
+    "kabát"
+  ],
+  "cockroach": [
+    "hmyz",
+    "škůdce",
+    "šváb"
+  ],
+  "cocktail_glass": [
+    "bar",
+    "drink",
+    "koktejl",
+    "koktejlová sklenička",
+    "nápoj",
+    "pití",
+    "sklenice",
+    "sklo"
+  ],
+  "coconut": [
+    "kokos",
+    "ořech",
+    "palma",
+    "piňa colada"
+  ],
+  "cocos_keeling_islands": [
+    "vlajka"
+  ],
+  "coffin": [
+    "rakev",
+    "smrt"
+  ],
+  "coin": [
+    "kov",
+    "mince",
+    "peníze",
+    "poklad",
+    "stříbro",
+    "zlato"
+  ],
+  "cold_face": [
+    "modrý obličej",
+    "mráz",
+    "promrzlý",
+    "rampouchy",
+    "zima",
+    "zmrzlý obličej"
+  ],
+  "collision": [
+    "bum",
+    "komiks",
+    "náraz",
+    "srážka"
+  ],
+  "colombia": [
+    "vlajka"
+  ],
+  "comet": [
+    "kometa",
+    "vesmír"
+  ],
+  "comoros": [
+    "vlajka"
+  ],
+  "compass": [
+    "kompas",
+    "magnetický",
+    "navigace",
+    "orientace"
+  ],
+  "computer_disk": [
+    "disk",
+    "minidisk",
+    "optické",
+    "optický",
+    "počítač"
+  ],
+  "computer_mouse": [
+    "počítač",
+    "počítačová myš"
+  ],
+  "confetti_ball": [
+    "konfetová koule",
+    "konfety",
+    "míč",
+    "oslava"
+  ],
+  "confounded_face": [
+    "naštvaný",
+    "obličej s pláčem na krajíčku",
+    "překvapený",
+    "rozpačitý",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zatraceně",
+    "zmatený"
+  ],
+  "confused": [
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zmatený",
+    "zmatený obličej"
+  ],
+  "congo_brazzaville": [
+    "vlajka"
+  ],
+  "congo_kinshasa": [
+    "vlajka"
+  ],
+  "construction": [
+    "cedule",
+    "práce na silnici",
+    "stavba",
+    "stavební zábrana",
+    "značka"
+  ],
+  "construction_worker": [
+    "dělník na stavbě",
+    "helma",
+    "stavba"
+  ],
+  "construction_worker_man": [
+    "dělník",
+    "muž",
+    "stavař",
+    "stavba",
+    "stavební dělník"
+  ],
+  "construction_worker_woman": [
+    "dělnice",
+    "stavařka",
+    "stavba",
+    "stavební dělnice",
+    "žena"
+  ],
+  "control_knobs": [
+    "hudba",
+    "otočný",
+    "ovládací knoflíky",
+    "ovládání",
+    "potenciometr"
+  ],
+  "convenience_store": [
+    "budova",
+    "maloobchod",
+    "non-stop",
+    "nonstop",
+    "obchod",
+    "potraviny",
+    "prodej",
+    "prodejna",
+    "smíšené",
+    "večerka",
+    "zboží"
+  ],
+  "cook": [
+    "kuchař",
+    "kuchař/kuchařka",
+    "kuchařka",
+    "šéfkuchař",
+    "šéfkuchařka"
+  ],
+  "cook_islands": [
+    "vlajka"
+  ],
+  "cooked_rice": [
+    "rýže",
+    "vařená rýže",
+    "vařený"
+  ],
+  "cookie": [
+    "cukrovinka",
+    "dezert",
+    "koláček",
+    "sladkost",
+    "sladký",
+    "sušenka",
+    "zákusek"
+  ],
+  "cooking": [
+    "pánev",
+    "smažení",
+    "vaření",
+    "vejce",
+    "vejce na pánvi"
+  ],
+  "cool_button": [
+    "cool",
+    "štítek cool"
+  ],
+  "copyright": [
+    "autorská práva",
+    "c",
+    "znak ochrany autorského práva"
+  ],
+  "costa_rica": [
+    "vlajka"
+  ],
+  "couch_and_lamp": [
+    "gauč",
+    "gauč a lampa",
+    "hotel",
+    "lampa"
+  ],
+  "counterclockwise_arrows_button": [
+    "doleva",
+    "hodin",
+    "proti",
+    "ručiček",
+    "šipka",
+    "šipky proti směru hodinových ručiček",
+    "směr",
+    "směru"
+  ],
+  "couple_with_heart": [
+    "dvojice",
+    "láska",
+    "pár",
+    "pár se srdcem",
+    "romance",
+    "romantika",
+    "srdce",
+    "muž",
+    "žena"
+  ],
+  "couple_with_heart_man_man": [
+    "dvojice",
+    "láska",
+    "muž",
+    "pár",
+    "pár se srdcem",
+    "romance",
+    "romantika",
+    "srdce"
+  ],
+  "couple_with_heart_woman_woman": [
+    "dvojice",
+    "láska",
+    "pár",
+    "pár se srdcem",
+    "romance",
+    "romantika",
+    "srdce",
+    "žena"
+  ],
+  "cow": [
+    "kráva"
+  ],
+  "cow_face": [
+    "hlava krávy",
+    "kráva",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "cowboy_hat_face": [
+    "klobouk",
+    "kovboj",
+    "obličej s kovbojským kloboukem",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "crab": [
+    "krab",
+    "rak",
+    "zvěrokruh"
+  ],
+  "crayon": [
+    "fix",
+    "fixa",
+    "křída",
+    "pastelka",
+    "voskovka"
+  ],
+  "credit_card": [
+    "banka",
+    "karta",
+    "kredit",
+    "kreditka",
+    "kreditní",
+    "peníze",
+    "platební karta"
+  ],
+  "crescent_moon": [
+    "měsíc",
+    "srpek",
+    "srpek měsíce",
+    "vesmír"
+  ],
+  "cricket": [
+    "cvrček",
+    "kobylka",
+    "koník",
+    "luční"
+  ],
+  "cricket_game": [
+    "hra",
+    "kriket",
+    "míč",
+    "pálka"
+  ],
+  "croatia": [
+    "vlajka"
+  ],
+  "crocodile": [
+    "aligátor",
+    "krokodýl"
+  ],
+  "croissant": [
+    "francouzské",
+    "jídlo",
+    "loupáček",
+    "loupák",
+    "pečivo",
+    "rohlík"
+  ],
+  "cross_mark": [
+    "×",
+    "krát",
+    "křížek",
+    "násobení",
+    "součin",
+    "x",
+    "značka",
+    "zrušení"
+  ],
+  "cross_mark_button": [
+    "×",
+    "čtverec",
+    "čtvereček",
+    "tlačítko",
+    "tlačítko s křížkem",
+    "x",
+    "značka",
+    "znak"
+  ],
+  "crossed_fingers": [
+    "prsty",
+    "ruka",
+    "štěstí",
+    "zkřížené prsty",
+    "zkřížit"
+  ],
+  "crossed_flags": [
+    "japonský",
+    "kříž",
+    "oslava",
+    "zkřížené",
+    "zkřížené vlajky"
+  ],
+  "crossed_swords": [
+    "meče",
+    "zbraň",
+    "zkřížené"
+  ],
+  "crown": [
+    "koruna",
+    "král",
+    "královna",
+    "oblečení"
+  ],
+  "cry": [
+    "pláč",
+    "plačící obličej",
+    "slza",
+    "smajlík",
+    "smutek",
+    "tvář",
+    "výraz"
+  ],
+  "crying_cat": [
+    "kočka",
+    "pláč",
+    "plačící kočičí obličej",
+    "slza",
+    "smajlík",
+    "smutek",
+    "tvář",
+    "výraz"
+  ],
+  "crystal_ball": [
+    "budoucnost",
+    "fantasy",
+    "koule",
+    "křišťál",
+    "křišťálová koule",
+    "nástroj",
+    "pohádka",
+    "předpověď",
+    "sklo"
+  ],
+  "cuba": [
+    "vlajka"
+  ],
+  "cucumber": [
+    "jídlo",
+    "kyselá",
+    "nakládaná",
+    "okurek",
+    "okurka",
+    "zelenina"
+  ],
+  "cup_with_straw": [
+    "džus",
+    "limonáda",
+    "nealko",
+    "pohárek s brčkem",
+    "soda",
+    "sodovka"
+  ],
+  "cupcake": [
+    "cukroví",
+    "dortík",
+    "košíček",
+    "muffin",
+    "pečivo"
+  ],
+  "curaçao": [
+    "vlajka"
+  ],
+  "curling_stone": [
+    "curling",
+    "curlingový kámen",
+    "hra",
+    "kámen"
+  ],
+  "curly_loop": [
+    "smyčka",
+    "spirálka"
+  ],
+  "currency_exchange": [
+    "banka",
+    "měna",
+    "peníze",
+    "směna",
+    "směna peněz",
+    "směnárna",
+    "výměna"
+  ],
+  "curry_rice": [
+    "curry",
+    "karí",
+    "kari rýže",
+    "rýže"
+  ],
+  "custard": [
+    "dezert",
+    "puding",
+    "pudink",
+    "sladkost",
+    "sladký",
+    "zákusek"
+  ],
+  "customs": [
+    "celnice",
+    "clo",
+    "deklarovat",
+    "zboží"
+  ],
+  "cut_of_meat": [
+    "flákota",
+    "hovězí",
+    "jehněčí",
+    "kotleta",
+    "kus masa",
+    "maso",
+    "plátek masa",
+    "řízek",
+    "steak",
+    "vepřové",
+    "žebírko"
+  ],
+  "cyclone": [
+    "cyklón",
+    "cyklóna",
+    "hurikán",
+    "počasí",
+    "tajfun",
+    "twister",
+    "závrať"
+  ],
+  "cyprus": [
+    "vlajka"
+  ],
+  "czechia": [
+    "vlajka"
+  ],
+  "côte_d_ivoire": [
+    "vlajka"
+  ],
+  "dagger": [
+    "dýka",
+    "nůž",
+    "zbraň"
+  ],
+  "dango": [
+    "dezert",
+    "japonský",
+    "knedlíček",
+    "sladkost",
+    "sladký",
+    "špejle",
+    "tyčka",
+    "zákusek"
+  ],
+  "dashing_away": [
+    "běh",
+    "komiks",
+    "spěch"
+  ],
+  "date": [
+    "datum",
+    "kalendář"
+  ],
+  "deaf_man": [
+    "hluchota",
+    "hluchý",
+    "muž",
+    "nedoslýchavost",
+    "nedoslýchavý"
+  ],
+  "deaf_person": [
+    "handicap",
+    "hendikep",
+    "hluchá osoba",
+    "hluchota",
+    "nedoslýchavost",
+    "pomůcka",
+    "postižení",
+    "sluch",
+    "ucho",
+    "usnadnění"
+  ],
+  "deaf_woman": [
+    "hluchá",
+    "hluchota",
+    "nedoslýchavá",
+    "nedoslýchavost",
+    "žena"
+  ],
+  "deciduous_tree": [
+    "listnatý strom",
+    "opadavý",
+    "rostlina",
+    "strom"
+  ],
+  "deer": [
+    "jelen",
+    "kolouch",
+    "laň"
+  ],
+  "delivery_truck": [
+    "dodávka",
+    "vozidlo"
+  ],
+  "denmark": [
+    "vlajka"
+  ],
+  "department_store": [
+    "budova",
+    "centrum",
+    "nákupní",
+    "nákupy",
+    "obchod",
+    "obchodní dům",
+    "prodej"
+  ],
+  "derelict_house": [
+    "budova",
+    "dům",
+    "opuštěný"
+  ],
+  "desert": [
+    "poušť"
+  ],
+  "desert_island": [
+    "opuštěný",
+    "ostrov",
+    "palma",
+    "pláž",
+    "poušť",
+    "pustý ostrov",
+    "tropický",
+    "tropy"
+  ],
+  "desktop_computer": [
+    "desktop",
+    "osobní",
+    "počítač",
+    "stolní"
+  ],
+  "detective": [
+    "agent",
+    "čmuchal",
+    "detektiv",
+    "inspektor",
+    "očko",
+    "špeh",
+    "špión",
+    "vyšetřovatel"
+  ],
+  "diamond_suit": [
+    "barva",
+    "hra",
+    "kára",
+    "karta",
+    "káry"
+  ],
+  "diamond_with_a_dot": [
+    "geometrie",
+    "kosočtverec",
+    "kosočtverec s tečkou",
+    "obrázek",
+    "uvnitř"
+  ],
+  "diego_garcia": [
+    "vlajka"
+  ],
+  "dim_button": [
+    "jas",
+    "nízký",
+    "tlačítko ztlumení jasu",
+    "ztlumit",
+    "ztmavení",
+    "ztmavit"
+  ],
+  "disappointed_face": [
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zklamání",
+    "zklamaný obličej"
+  ],
+  "disguised_face": [
+    "brýle",
+    "incognito",
+    "inkognito",
+    "obličej v přestrojení",
+    "přestrojení",
+    "převlek",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "divide": [
+    "÷",
+    "dělení",
+    "děleno",
+    "matematika",
+    "podíl",
+    "znak dělení"
+  ],
+  "diving_mask": [
+    "brýle",
+    "potápěčská maska",
+    "potápěčské brýle",
+    "potápění",
+    "šnorchl",
+    "šnorchlování"
+  ],
+  "diya_lamp": [
+    "diya",
+    "indická olejová lampa",
+    "lampa",
+    "olej"
+  ],
+  "dizzy": [
+    "hvězda",
+    "hvězdičky",
+    "komiks",
+    "závrať"
+  ],
+  "djibouti": [
+    "vlajka"
+  ],
+  "dna": [
+    "biologie",
+    "evoluce",
+    "gen",
+    "genetika",
+    "šroubovice"
+  ],
+  "dodo": [
+    "blboun",
+    "dronte",
+    "mauricius",
+    "nejapný",
+    "pták",
+    "velký",
+    "vyhynulý"
+  ],
+  "dog": [
+    "domácí",
+    "mazlíček",
+    "pes"
+  ],
+  "dog_face": [
+    "domácí",
+    "hlava psa",
+    "mazlíček",
+    "pes",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "dollar_banknote": [
+    "banka",
+    "bankovka",
+    "dolar",
+    "dolarová bankovka",
+    "měna",
+    "peníze"
+  ],
+  "dolphin": [
+    "delfín",
+    "delfínek",
+    "skákající"
+  ],
+  "dominica": [
+    "vlajka"
+  ],
+  "dominican_republic": [
+    "vlajka"
+  ],
+  "door": [
+    "dveře"
+  ],
+  "dotted_six_pointed_star": [
+    "hvězda",
+    "šesticípá hvězda s tečkou uprostřed",
+    "šťastná",
+    "štěstěna",
+    "štěstí"
+  ],
+  "double_curly_loop": [
+    "dvojitá smyčka",
+    "dvojitý",
+    "smyčka",
+    "spirálka"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "dvojitý vykřičník",
+    "interpunkční znaménka",
+    "vykřičník"
+  ],
+  "doughnut": [
+    "americká",
+    "cukrovinka",
+    "dezert",
+    "donut",
+    "kobliha",
+    "sladkost",
+    "sladký",
+    "zákusek"
+  ],
+  "dove": [
+    "holubice",
+    "let",
+    "létat",
+    "letící",
+    "mír",
+    "pták"
+  ],
+  "down_arrow": [
+    "hlavní",
+    "jih",
+    "šipka",
+    "šipka dolů",
+    "směr",
+    "strany",
+    "světové"
+  ],
+  "down_left_arrow": [
+    "jihozápad",
+    "šipka",
+    "šipka doleva dolů",
+    "směr",
+    "strany",
+    "světové",
+    "vedlejší"
+  ],
+  "down_right_arrow": [
+    "jihovýchod",
+    "šipka",
+    "šipka doprava dolů",
+    "směr",
+    "strany",
+    "světové",
+    "vedlejší"
+  ],
+  "downcast_face_with_sweat": [
+    "pot",
+    "sklíčený obličej se studeným potem",
+    "smajlík",
+    "studený",
+    "tvář",
+    "výraz"
+  ],
+  "downwards_button": [
+    "dolů",
+    "šipka",
+    "tlačítko",
+    "trojúhelník"
+  ],
+  "dragon": [
+    "drak",
+    "pohádka"
+  ],
+  "dragon_face": [
+    "drak",
+    "hlava draka",
+    "pohádka",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "dress": [
+    "oblečení",
+    "šaty"
+  ],
+  "drooling_face": [
+    "slina",
+    "slintající obličej",
+    "slintání",
+    "slintat",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "drop_of_blood": [
+    "dárcovství",
+    "darování",
+    "kapka krve",
+    "krev",
+    "lékařství",
+    "medicína",
+    "menstruace"
+  ],
+  "droplet": [
+    "kapka",
+    "komiks",
+    "pot",
+    "slza",
+    "zima"
+  ],
+  "drum": [
+    "buben",
+    "bubenické",
+    "hudba",
+    "paličky"
+  ],
+  "duck": [
+    "kachna",
+    "kachnička",
+    "pták"
+  ],
+  "dumpling": [
+    "džiaozi",
+    "empanada",
+    "gjózu",
+    "gyoza",
+    "jiaozi",
+    "knedlíček",
+    "knedlík",
+    "pelmeň",
+    "pelmeně",
+    "piroh",
+    "pirohy",
+    "taštička"
+  ],
+  "dvd": [
+    "bd",
+    "blu-ray",
+    "blue-ray",
+    "cd",
+    "disk",
+    "optické",
+    "optický",
+    "počítač"
+  ],
+  "e_mail": [
+    "dopis",
+    "e-mail",
+    "email",
+    "pošta",
+    "zpráva"
+  ],
+  "eagle": [
+    "orel",
+    "pták"
+  ],
+  "ear": [
+    "tělo",
+    "ucho"
+  ],
+  "ear_of_corn": [
+    "klas",
+    "kukuřičný klas",
+    "obilí",
+    "rostlina",
+    "zrno"
+  ],
+  "ear_with_hearing_aid": [
+    "handicap",
+    "hendikep",
+    "naslouchadlo",
+    "nedoslýchavost",
+    "pomůcka",
+    "postižení",
+    "ucho s naslouchátkem",
+    "usnadnění"
+  ],
+  "ecuador": [
+    "vlajka"
+  ],
+  "egg": [
+    "jídlo",
+    "vejce"
+  ],
+  "eggplant": [
+    "baklažán",
+    "lilek",
+    "rostlina",
+    "zelenina"
+  ],
+  "egypt": [
+    "vlajka"
+  ],
+  "eight": [
+    "klávesa"
+  ],
+  "eight_o_clock": [
+    "00",
+    "8",
+    "8:00",
+    "čas",
+    "hodiny",
+    "osm",
+    "osm hodin"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "hvězda",
+    "osmicípá hvězda"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "hvězdička",
+    "osmicípá hvězdička"
+  ],
+  "eight_thirty": [
+    "30",
+    "8",
+    "8:30",
+    "hodiny",
+    "osm",
+    "půl deváté",
+    "třicet"
+  ],
+  "eject_button": [
+    "tlačítko vysunutí",
+    "vysunout"
+  ],
+  "el_salvador": [
+    "vlajka"
+  ],
+  "electric_plug": [
+    "elektrický",
+    "elektřina",
+    "síťová",
+    "vidlice",
+    "zástrčka"
+  ],
+  "elephant": [
+    "slon"
+  ],
+  "elevator": [
+    "přístup",
+    "usnadnění",
+    "výtah",
+    "zdviž"
+  ],
+  "eleven_o_clock": [
+    "00",
+    "11",
+    "11:00",
+    "čas",
+    "hodiny",
+    "jedenáct",
+    "jedenáct hodin"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11:30",
+    "30",
+    "hodiny",
+    "jedenáct",
+    "půl dvanácté",
+    "třicet"
+  ],
+  "elf": [
+    "kouzelná",
+    "les",
+    "magie",
+    "obličej elfa",
+    "postava"
+  ],
+  "end_arrow": [
+    "konec",
+    "šipka",
+    "šipka s nápisem end"
+  ],
+  "england": [
+    "vlajka"
+  ],
+  "enraged_face": [
+    "červený",
+    "hněv",
+    "naštvaný",
+    "nazlobený",
+    "obličej s podrážděným výrazem",
+    "podrážděný",
+    "rudý",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "vztek",
+    "zloba",
+    "zlost",
+    "zuřivý"
+  ],
+  "envelope": [
+    "dopis",
+    "e-mail",
+    "email",
+    "obálka",
+    "pošta",
+    "psaní"
+  ],
+  "envelope_with_arrow": [
+    "dolů",
+    "dopis",
+    "e-mail",
+    "email",
+    "k odeslání",
+    "obálka",
+    "obálka se šipkou",
+    "odchozí",
+    "odeslaná",
+    "odesláno",
+    "pošta",
+    "šipka",
+    "zpráva"
+  ],
+  "equatorial_guinea": [
+    "vlajka"
+  ],
+  "eritrea": [
+    "vlajka"
+  ],
+  "estonia": [
+    "vlajka"
+  ],
+  "eswatini": [
+    "vlajka"
+  ],
+  "ethiopia": [
+    "vlajka"
+  ],
+  "euro_banknote": [
+    "banka",
+    "bankovka",
+    "euro",
+    "eurobankovka",
+    "eurová",
+    "měna",
+    "peníze"
+  ],
+  "european_union": [
+    "vlajka"
+  ],
+  "evergreen_tree": [
+    "jehličnatý strom",
+    "rostlina",
+    "stálezelený",
+    "strom"
+  ],
+  "ewe": [
+    "bahnice",
+    "ovce",
+    "ovečka",
+    "samice"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "interpunkční znaménka",
+    "otazník",
+    "vykřičník",
+    "vykřičník a otazník"
+  ],
+  "exploding_head": [
+    "explodující hlava",
+    "obličej",
+    "smajlík",
+    "šok",
+    "tvář",
+    "výbuch",
+    "výraz"
+  ],
+  "expressionless_face": [
+    "bez výrazu",
+    "obličej bez výrazu",
+    "prázdný výraz",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "eye": [
+    "oko",
+    "tělo"
+  ],
+  "eye_in_speech_bubble": [
+    "oko",
+    "oko v řečové bublině",
+    "řečová bublina",
+    "svědectví",
+    "svědek"
+  ],
+  "eyes": [
+    "obličej",
+    "oči",
+    "oko",
+    "tělo"
+  ],
+  "face_blowing_a_kiss": [
+    "obličej posílající polibek",
+    "polibek",
+    "pusa",
+    "smajlík",
+    "srdce",
+    "tvář",
+    "výraz"
+  ],
+  "face_savoring_food": [
+    "chutný",
+    "lahodný",
+    "mňam",
+    "olizující se obličej",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "výraz"
+  ],
+  "face_vomiting": [
+    "smajlík",
+    "špatně",
+    "tvář",
+    "výraz",
+    "zvracející obličej",
+    "zvracet"
+  ],
+  "face_with_crossed_out_eyes": [
+    "obličej s výrazem závrati",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "závrať"
+  ],
+  "face_with_hand_over_mouth": [
+    "ajaj",
+    "jejda",
+    "jéje",
+    "obličej s dlaní před pusou",
+    "oj",
+    "oops",
+    "ouha",
+    "ups"
+  ],
+  "face_with_head_bandage": [
+    "bolest",
+    "obličej s ovázanou hlavou",
+    "obvaz",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zranění"
+  ],
+  "face_with_medical_mask": [
+    "doktor",
+    "lék",
+    "lékař",
+    "maska",
+    "nachlazený",
+    "nemocný",
+    "obličej s lékařskou rouškou",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "face_with_monocle": [
+    "konvenční",
+    "obličej s brýlovým monoklem",
+    "prudérní",
+    "staromódní"
+  ],
+  "face_with_raised_eyebrow": [
+    "nedůvěra",
+    "obličej se zvednutým obočím",
+    "skepse",
+    "skeptický"
+  ],
+  "face_with_steam_from_nose": [
+    "frustrace",
+    "hněv",
+    "obličej pouštějící páru nosem",
+    "odfouknutí",
+    "rozhořčení",
+    "smajlík",
+    "triumf",
+    "tvář",
+    "vítězství",
+    "výdech",
+    "vyfouknutí",
+    "výraz",
+    "vztek",
+    "zloba",
+    "zlost"
+  ],
+  "face_with_symbols_on_mouth": [
+    "klení",
+    "nadávající",
+    "nadávka",
+    "obličej se symboly na puse"
+  ],
+  "face_with_thermometer": [
+    "nemocný",
+    "obličej s teploměrem",
+    "smajlík",
+    "teploměr",
+    "tvář",
+    "výraz"
+  ],
+  "face_with_tongue": [
+    "jazyk",
+    "obličej s vyplazeným jazykem",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "face_without_mouth": [
+    "obličej bez úst",
+    "smajlík",
+    "tichý",
+    "tvář",
+    "ústa",
+    "výraz"
+  ],
+  "factory": [
+    "budova",
+    "továrna"
+  ],
+  "factory_worker": [
+    "dělnice",
+    "dělník",
+    "osoba pracující v továrně",
+    "průmysl",
+    "továrna",
+    "výroba"
+  ],
+  "fairy": [
+    "duch",
+    "oberon",
+    "puk",
+    "skřítek",
+    "titánie",
+    "víla"
+  ],
+  "falafel": [
+    "boby",
+    "cizrna",
+    "karbanátky",
+    "koule",
+    "kuličky"
+  ],
+  "falkland_islands": [
+    "vlajka"
+  ],
+  "fallen_leaf": [
+    "list",
+    "padající",
+    "rostlina",
+    "spadlý list"
+  ],
+  "family": [
+    "dítě",
+    "matka",
+    "otec",
+    "rodina"
+  ],
+  "family_man_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_boy_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_girl_boy": [
+    "chlapec",
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_girl_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_man_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_man_boy_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_man_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_man_girl_boy": [
+    "chlapec",
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_man_girl_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina"
+  ],
+  "family_man_woman_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_man_woman_boy_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "muž",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_man_woman_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_man_woman_girl_boy": [
+    "chlapec",
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_man_woman_girl_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "muž",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_boy_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_girl_boy": [
+    "chlapec",
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_girl_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_woman_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_woman_boy_boy": [
+    "chlapec",
+    "dítě",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_woman_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_woman_girl_boy": [
+    "chlapec",
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "family_woman_woman_girl_girl": [
+    "dítě",
+    "dívka",
+    "matka",
+    "otec",
+    "rodina",
+    "žena"
+  ],
+  "farmer": [
+    "farmář",
+    "farmář/farmářka",
+    "farmářka",
+    "sedlák",
+    "selka",
+    "zahradnice",
+    "zahradník",
+    "zemědělec",
+    "zemědělkyně"
+  ],
+  "faroe_islands": [
+    "vlajka"
+  ],
+  "fast_down_button": [
+    "dolů",
+    "dvojitý",
+    "šipka",
+    "tlačítko rychle dolů"
+  ],
+  "fast_forward_button": [
+    "dvojitý",
+    "převinout",
+    "rychle",
+    "rychloposuv",
+    "šipka",
+    "tlačítko převíjení vpřed",
+    "vpřed"
+  ],
+  "fast_reverse_button": [
+    "dvojitý",
+    "převinout",
+    "rychle",
+    "rychloposuv",
+    "šipka",
+    "tlačítko převíjení vzad",
+    "vzad",
+    "zpět"
+  ],
+  "fast_up_button": [
+    "dvojitý",
+    "šipka",
+    "tlačítko rychle nahoru"
+  ],
+  "fax_machine": [
+    "fax",
+    "telefax"
+  ],
+  "fearful": [
+    "děs",
+    "smajlík",
+    "strach",
+    "tvář",
+    "ustrašený obličej",
+    "výraz"
+  ],
+  "feather": [
+    "lehké",
+    "let",
+    "opeření",
+    "peří",
+    "péro",
+    "pírko",
+    "pták"
+  ],
+  "female_sign": [
+    "symbol ženského pohlaví",
+    "žena"
+  ],
+  "ferris_wheel": [
+    "ruské kolo",
+    "zábavní park"
+  ],
+  "ferry": [
+    "člun",
+    "doprava",
+    "loď",
+    "osobní",
+    "plavidlo",
+    "přívoz",
+    "trajekt"
+  ],
+  "field_hockey": [
+    "hokej",
+    "hokejka",
+    "hra",
+    "míč",
+    "pozemní hokej"
+  ],
+  "fiji": [
+    "vlajka"
+  ],
+  "file_cabinet": [
+    "archiv",
+    "kartotéka",
+    "pořadač",
+    "skříň",
+    "skříň na spisy",
+    "spis"
+  ],
+  "file_folder": [
+    "dokumenty",
+    "složka"
+  ],
+  "film_frames": [
+    "film",
+    "filmová okénka",
+    "kino",
+    "okénka",
+    "políčka",
+    "surovina"
+  ],
+  "film_projector": [
+    "film",
+    "filmový projektor",
+    "kino",
+    "promítačka",
+    "video"
+  ],
+  "finland": [
+    "vlajka"
+  ],
+  "fire": [
+    "hranice",
+    "nástroj",
+    "oheň",
+    "plamen",
+    "plameny",
+    "plamínek"
+  ],
+  "fire_engine": [
+    "hasiči",
+    "hasičské auto",
+    "oheň",
+    "požár",
+    "požárníci",
+    "vozidlo"
+  ],
+  "fire_extinguisher": [
+    "hašení",
+    "hasicí přístroj",
+    "oheň",
+    "požár"
+  ],
+  "firecracker": [
+    "dynamit",
+    "ohňostroj",
+    "petarda",
+    "výbušnina"
+  ],
+  "firefighter": [
+    "hasič",
+    "hasič/hasička",
+    "hasička",
+    "hasičské auto",
+    "požár",
+    "požárnice",
+    "požárník",
+    "stříkačka"
+  ],
+  "fireworks": [
+    "ohňostroj",
+    "oslava"
+  ],
+  "first_quarter_moon": [
+    "čtvrť",
+    "dorůstá",
+    "dorůstající",
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v první čtvrti",
+    "vesmír"
+  ],
+  "first_quarter_moon_face": [
+    "čtvrť",
+    "dorůstá",
+    "dorůstající",
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v první čtvrti s obličejem",
+    "smajlík",
+    "tvář",
+    "vesmír",
+    "výraz"
+  ],
+  "fish": [
+    "ryba",
+    "ryby",
+    "zvěrokruh"
+  ],
+  "fish_cake_with_swirl": [
+    "dort",
+    "koláček",
+    "ryba",
+    "rybí koláček se spirálkou",
+    "spirála"
+  ],
+  "fishing_pole": [
+    "prut",
+    "ryba",
+    "rybářský prut"
+  ],
+  "five": [
+    "klávesa"
+  ],
+  "five_o_clock": [
+    "00",
+    "5",
+    "5:00",
+    "čas",
+    "hodiny",
+    "pět",
+    "pět hodin"
+  ],
+  "five_thirty": [
+    "30",
+    "5",
+    "5:30",
+    "hodiny",
+    "pět",
+    "půl šesté",
+    "třicet"
+  ],
+  "flamingo": [
+    "okázalý",
+    "plameňák",
+    "tropický",
+    "tropy"
+  ],
+  "flashlight": [
+    "baterka",
+    "elektrický",
+    "nářadí",
+    "světlo",
+    "svítilna"
+  ],
+  "flat_shoe": [
+    "balerinka",
+    "baletní bota",
+    "bota na balet",
+    "piškotka",
+    "plochá bota",
+    "střevíček bez podpatku"
+  ],
+  "flatbread": [
+    "arepa",
+    "chlebová placka",
+    "lavaš",
+    "naan",
+    "nán",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "erb",
+    "heraldická lilie",
+    "lilie"
+  ],
+  "flexed_biceps": [
+    "biceps",
+    "obrázek",
+    "síla",
+    "sval",
+    "svaly",
+    "tělo",
+    "zatnutý biceps"
+  ],
+  "floppy_disk": [
+    "disk",
+    "disketa",
+    "počítač"
+  ],
+  "flower_playing_cards": [
+    "hra",
+    "hrací karty s květinami",
+    "hraní",
+    "japonský",
+    "karta",
+    "květina"
+  ],
+  "flushed_face": [
+    "červenající se obličej",
+    "červenání",
+    "omámení",
+    "ruměnec",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zardění",
+    "zčervenání",
+    "zrudnutí"
+  ],
+  "fly": [
+    "hmyz",
+    "hnijící",
+    "larva",
+    "moucha",
+    "nemoc",
+    "otravný"
+  ],
+  "flying_disc": [
+    "frisbee",
+    "frisbíčko",
+    "házecí talíř",
+    "létající talíř",
+    "ultimate"
+  ],
+  "flying_saucer": [
+    "létající talíř",
+    "ufo"
+  ],
+  "fog": [
+    "mlha",
+    "mlhavé počasí",
+    "mrak",
+    "oblak",
+    "počasí"
+  ],
+  "foggy": [
+    "mlha",
+    "počasí"
+  ],
+  "folded_hands": [
+    "díky",
+    "gesto",
+    "modlitba",
+    "otázka",
+    "prosím",
+    "ruka",
+    "sepjaté",
+    "sepjaté ruce",
+    "tělo",
+    "úklona"
+  ],
+  "fondue": [
+    "čokoládové",
+    "švýcarské",
+    "sýr",
+    "sýrové"
+  ],
+  "foot": [
+    "chodidlo",
+    "kopanec",
+    "kopnutí",
+    "noha",
+    "šlapka",
+    "šlápnutí"
+  ],
+  "footprints": [
+    "oblečení",
+    "otisk",
+    "stopa",
+    "stopy",
+    "tělo"
+  ],
+  "fork_and_knife": [
+    "nádobí",
+    "nůž",
+    "příbor",
+    "vaření",
+    "vidlička",
+    "vidlička a nůž"
+  ],
+  "fork_and_knife_with_plate": [
+    "nádobí",
+    "nůž",
+    "příbor",
+    "talíř",
+    "talíř s vidličkou a nožem",
+    "vaření",
+    "vidlička"
+  ],
+  "fortune_cookie": [
+    "budoucnost",
+    "čínský koláček štěstí",
+    "předpověď",
+    "proroctví",
+    "věštba"
+  ],
+  "fountain": [
+    "fontána",
+    "vodotrysk"
+  ],
+  "fountain_pen": [
+    "pero",
+    "plnicí"
+  ],
+  "four": [
+    "klávesa"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "čtyři",
+    "čtyřlístek",
+    "jetel",
+    "list",
+    "rostlina"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4:00",
+    "čas",
+    "čtyři",
+    "hodiny"
+  ],
+  "four_thirty": [
+    "30",
+    "4",
+    "4:30",
+    "čtyři",
+    "hodiny",
+    "půl páté",
+    "třicet"
+  ],
+  "fox": [
+    "hlava",
+    "hlava lišky",
+    "liška",
+    "zvíře"
+  ],
+  "framed_picture": [
+    "malířství",
+    "malování",
+    "muzeum",
+    "obraz",
+    "obraz v rámu",
+    "rám",
+    "umění"
+  ],
+  "france": [
+    "vlajka"
+  ],
+  "free_button": [
+    "free",
+    "štítek free"
+  ],
+  "french_fries": [
+    "bramborové",
+    "brambory",
+    "hranolky",
+    "pomfrity"
+  ],
+  "french_guiana": [
+    "vlajka"
+  ],
+  "french_polynesia": [
+    "vlajka"
+  ],
+  "french_southern_territories": [
+    "vlajka"
+  ],
+  "fried_shrimp": [
+    "garnát",
+    "kreveta",
+    "smažená kreveta",
+    "smažené",
+    "tempura"
+  ],
+  "frog": [
+    "hlava žáby",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "žába"
+  ],
+  "front_facing_baby_chick": [
+    "kuřátko",
+    "kuřátko zepředu",
+    "kuře",
+    "ptáček",
+    "pták"
+  ],
+  "frowning": [
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zamračení",
+    "zamračený obličej"
+  ],
+  "frowning_face_with_open_mouth": [
+    "otevřený",
+    "smajlík",
+    "tvář",
+    "ústa",
+    "výraz",
+    "zamračení",
+    "zamračený obličej s otevřenou pusou"
+  ],
+  "fu": [
+    "prostředníček",
+    "prst",
+    "ruka",
+    "tělo"
+  ],
+  "fuel_pump": [
+    "benzín",
+    "benzínka",
+    "benzínová pumpa",
+    "čerpací",
+    "nafta",
+    "palivo",
+    "pumpa",
+    "stanice"
+  ],
+  "full_moon": [
+    "fáze měsíce",
+    "jasný",
+    "měsíc",
+    "měsíc v úplňku",
+    "úplněk",
+    "vesmír"
+  ],
+  "full_moon_face": [
+    "fáze měsíce",
+    "jasný",
+    "měsíc",
+    "měsíc v úplňku s obličejem",
+    "smajlík",
+    "tvář",
+    "úplněk",
+    "vesmír",
+    "výraz"
+  ],
+  "funeral_urn": [
+    "ostatky",
+    "pohřeb",
+    "pohřební urna",
+    "popel",
+    "smrt",
+    "urna"
+  ],
+  "gabon": [
+    "vlajka"
+  ],
+  "gambia": [
+    "vlajka"
+  ],
+  "game_die": [
+    "hra",
+    "hrací kostka",
+    "kostka",
+    "kostky"
+  ],
+  "garlic": [
+    "česnek",
+    "koření",
+    "ochucování",
+    "zelenina"
+  ],
+  "gear": [
+    "nářadí",
+    "ozubené kolo"
+  ],
+  "gem_stone": [
+    "diamant",
+    "drahokam",
+    "šperk"
+  ],
+  "gemini": [
+    "blíženci",
+    "blíženec",
+    "dvojčata",
+    "zvěrokruh"
+  ],
+  "genie": [
+    "aladin",
+    "duch",
+    "duch z lahve",
+    "džin",
+    "lahev",
+    "lampa"
+  ],
+  "georgia": [
+    "vlajka"
+  ],
+  "germany": [
+    "vlajka"
+  ],
+  "ghana": [
+    "vlajka"
+  ],
+  "ghost": [
+    "bytost",
+    "duch",
+    "fantasy",
+    "pohádka",
+    "příšera",
+    "smajlík",
+    "strašidlo",
+    "tvář",
+    "výraz"
+  ],
+  "gibraltar": [
+    "vlajka"
+  ],
+  "giraffe": [
+    "fleky",
+    "skvrny",
+    "žirafa"
+  ],
+  "girl": [
+    "děvče",
+    "dívka",
+    "holka",
+    "panna",
+    "zvěrokruh"
+  ],
+  "glass_of_milk": [
+    "mléko",
+    "nápoj",
+    "sklenice",
+    "sklenice mléka"
+  ],
+  "glasses": [
+    "brýle",
+    "dioptrie",
+    "oblečení",
+    "oko",
+    "skla"
+  ],
+  "globe_showing_americas": [
+    "amerika",
+    "glóbus se severní a jižní amerikou",
+    "svět",
+    "země",
+    "zeměkoule"
+  ],
+  "globe_showing_asia_australia": [
+    "asie",
+    "austrálie",
+    "glóbus s asií a austrálií",
+    "svět",
+    "země",
+    "zeměkoule"
+  ],
+  "globe_showing_europe_africa": [
+    "afrika",
+    "evropa",
+    "glóbus s evropou a afrikou",
+    "svět",
+    "země",
+    "zeměkoule"
+  ],
+  "globe_with_meridians": [
+    "glóbus s poledníky a rovnoběžkami",
+    "poledníky",
+    "rovnoběžky",
+    "svět",
+    "země",
+    "zeměkoule",
+    "zeměpisná síť"
+  ],
+  "gloves": [
+    "ruka",
+    "rukavice"
+  ],
+  "glowing_star": [
+    "hvězda",
+    "jas",
+    "jiskra",
+    "záře",
+    "zářící"
+  ],
+  "goal_net": [
+    "brána",
+    "branka",
+    "gól",
+    "síť",
+    "sport",
+    "sportovní branka"
+  ],
+  "goat": [
+    "koza",
+    "kozoroh",
+    "zvěrokruh"
+  ],
+  "goblin": [
+    "bytost",
+    "fantasy",
+    "japonský",
+    "pohádka",
+    "příšera",
+    "skřítek",
+    "smajlík",
+    "šotek",
+    "strašák",
+    "strašidlo",
+    "tvář",
+    "výraz"
+  ],
+  "goggles": [
+    "ochrana očí",
+    "ochranné brýle",
+    "plavání",
+    "plavecké",
+    "svářečské",
+    "svařování"
+  ],
+  "gorilla": [
+    "gorila",
+    "hlava",
+    "zvíře"
+  ],
+  "graduation_cap": [
+    "absolvent",
+    "čapka",
+    "klobouk",
+    "oblečení",
+    "oslava",
+    "pokrývka hlavy",
+    "promoce",
+    "promoční čepice",
+    "student",
+    "studium"
+  ],
+  "grapes": [
+    "hrozen",
+    "hrozny",
+    "ovoce",
+    "rostlina",
+    "víno"
+  ],
+  "greece": [
+    "vlajka"
+  ],
+  "green_apple": [
+    "jablko",
+    "ovoce",
+    "rostlina",
+    "zelená",
+    "zelené jablko"
+  ],
+  "green_book": [
+    "kniha",
+    "zelená"
+  ],
+  "green_circle": [
+    "kolečko",
+    "kroužek",
+    "kruh",
+    "zelená",
+    "zelený kroužek"
+  ],
+  "green_heart": [
+    "srdce",
+    "zelená",
+    "zelené srdce"
+  ],
+  "green_salad": [
+    "jídlo",
+    "salát",
+    "zelený"
+  ],
+  "green_square": [
+    "čtverec",
+    "čtvereček",
+    "zelená",
+    "zelený čtvereček"
+  ],
+  "greenland": [
+    "vlajka"
+  ],
+  "grenada": [
+    "vlajka"
+  ],
+  "grimacing": [
+    "grimasa",
+    "grimasa s vyceněnými zuby",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "grin": [
+    "oko",
+    "rozzářený obličej s usměvavýma očima",
+    "smajlík",
+    "tvář",
+    "úšklebek",
+    "úsměv",
+    "výraz"
+  ],
+  "grinning_cat": [
+    "kočka",
+    "otevřený",
+    "šklebící se kočičí obličej",
+    "smajlík",
+    "tvář",
+    "úšklebek",
+    "úsměv",
+    "ústa",
+    "výraz"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "kočka",
+    "oko",
+    "šklebící se kočka s usměvavýma očima",
+    "smajlík",
+    "tvář",
+    "úšklebek",
+    "úsměv",
+    "výraz"
+  ],
+  "grinning_face": [
+    "smajlík",
+    "tvář",
+    "úšklebek",
+    "výraz",
+    "zubící se obličej"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "oko",
+    "otevřený",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "ústa",
+    "výraz",
+    "zubící se obličej s usměvavýma očima"
+  ],
+  "growing_heart": [
+    "nervozita",
+    "puls",
+    "rostoucí",
+    "srdce",
+    "vzrušení"
+  ],
+  "guadeloupe": [
+    "vlajka"
+  ],
+  "guam": [
+    "vlajka"
+  ],
+  "guard": [
+    "gardista",
+    "stráž"
+  ],
+  "guatemala": [
+    "vlajka"
+  ],
+  "guernsey": [
+    "vlajka"
+  ],
+  "guide_dog": [
+    "asistence",
+    "postižení",
+    "průvodce",
+    "slepecký pes",
+    "vodicí pes",
+    "vůdce"
+  ],
+  "guinea": [
+    "vlajka"
+  ],
+  "guinea_bissau": [
+    "vlajka"
+  ],
+  "guitar": [
+    "hudba",
+    "kytara",
+    "nástroj"
+  ],
+  "guyana": [
+    "vlajka"
+  ],
+  "haiti": [
+    "vlajka"
+  ],
+  "hamburger": [
+    "burger",
+    "burgr",
+    "hamburgr"
+  ],
+  "hammer": [
+    "kladívko",
+    "kladivo",
+    "nářadí"
+  ],
+  "hammer_and_pick": [
+    "kladivo",
+    "kladivo a špičák",
+    "nářadí",
+    "špičák"
+  ],
+  "hammer_and_wrench": [
+    "kladivo",
+    "kladivo a maticový klíč",
+    "klíč",
+    "montážní",
+    "nářadí"
+  ],
+  "hamster": [
+    "domácí",
+    "hlava křečka",
+    "křeček",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "hand_with_fingers_splayed": [
+    "prst",
+    "roztažené",
+    "ruka",
+    "ruka s roztaženými prsty",
+    "tělo"
+  ],
+  "handbag": [
+    "kabelka",
+    "oblečení",
+    "zavazadlo"
+  ],
+  "handshake": [
+    "podání",
+    "potřást",
+    "potřesení",
+    "ruka",
+    "rukou",
+    "ruky",
+    "seznámení",
+    "souhlas",
+    "stisk"
+  ],
+  "hash": [
+    "klávesa"
+  ],
+  "hatching_chick": [
+    "klubající",
+    "klubání",
+    "kuřátko",
+    "kuře",
+    "líhnoucí se kuře",
+    "líhnutí",
+    "pták",
+    "vajíčko",
+    "vejce"
+  ],
+  "headphone": [
+    "sluchátka"
+  ],
+  "headstone": [
+    "hřbitov",
+    "hrob",
+    "kámen",
+    "náhrobek",
+    "náhrobní",
+    "pomník"
+  ],
+  "health_worker": [
+    "doktor",
+    "doktorka",
+    "nemocnice",
+    "sestřička",
+    "terapeut",
+    "terapeutka",
+    "zdravotnice",
+    "zdravotník",
+    "zdravotník/zdravotnice"
+  ],
+  "hear_no_evil_monkey": [
+    "gesto",
+    "ne",
+    "opice",
+    "opička „nic neslyším“",
+    "slyšet",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zákaz",
+    "zakázáno",
+    "zlo"
+  ],
+  "heard_mcdonald_islands": [
+    "vlajka"
+  ],
+  "heart": [
+    "rudé srdce",
+    "srdce"
+  ],
+  "heart_decoration": [
+    "srdce",
+    "srdce jako ozdoba"
+  ],
+  "heart_exclamation": [
+    "interpunkce",
+    "srdce",
+    "srdce jako vykřičník",
+    "vykřičník",
+    "značka",
+    "znaménko"
+  ],
+  "heart_eyes": [
+    "láska",
+    "oko",
+    "smajlík",
+    "srdce",
+    "tvář",
+    "úsměv",
+    "usmívající se obličej se srdíčky místo očí",
+    "výraz"
+  ],
+  "heart_suit": [
+    "barva",
+    "hra",
+    "karta",
+    "srdce"
+  ],
+  "heart_with_arrow": [
+    "amor",
+    "amorek",
+    "láska",
+    "romance",
+    "romantika",
+    "šíp",
+    "srdce",
+    "srdce se šípem",
+    "střela"
+  ],
+  "heart_with_ribbon": [
+    "mašle",
+    "srdce",
+    "srdce s mašlí",
+    "stuha",
+    "stužka",
+    "valentýn"
+  ],
+  "heavy_dollar_sign": [
+    "dolar",
+    "měna",
+    "peníze",
+    "znak dolaru"
+  ],
+  "hedgehog": [
+    "bodliny",
+    "ježek",
+    "ostny"
+  ],
+  "helicopter": [
+    "helikoptéra",
+    "letoun",
+    "vrtulník"
+  ],
+  "herb": [
+    "bylina",
+    "bylinka",
+    "list",
+    "lístek",
+    "rostlina"
+  ],
+  "hibiscus": [
+    "ibišek",
+    "květ",
+    "květina",
+    "rostlina"
+  ],
+  "high_heeled_shoe": [
+    "bota",
+    "bota na podpatku",
+    "oblečení",
+    "podpatek",
+    "žena"
+  ],
+  "high_speed_train": [
+    "pendolino",
+    "rychlost",
+    "šinkansen",
+    "vlak",
+    "vozidlo",
+    "železnice"
+  ],
+  "high_voltage": [
+    "blesk",
+    "bzz",
+    "elektrický",
+    "elektřina",
+    "jiskra",
+    "napětí",
+    "nebezpečí",
+    "výboj",
+    "vysoké napětí"
+  ],
+  "hiking_boot": [
+    "kanada",
+    "kempování",
+    "pohorka",
+    "túra",
+    "turistika",
+    "výšlap"
+  ],
+  "hindu_temple": [
+    "chrám",
+    "hinduismus",
+    "hinduistický chrám",
+    "svatyně"
+  ],
+  "hippopotamus": [
+    "hroch",
+    "tlustokožec"
+  ],
+  "hole": [
+    "díra"
+  ],
+  "hollow_red_circle": [
+    "červený kruh bez výplně",
+    "kruh",
+    "o",
+    "velký"
+  ],
+  "honduras": [
+    "vlajka"
+  ],
+  "honey_pot": [
+    "med",
+    "sklenice",
+    "sklenice medu",
+    "sladkost",
+    "sladký"
+  ],
+  "honeybee": [
+    "hmyz",
+    "včela"
+  ],
+  "hong_kong_sar_china": [
+    "vlajka"
+  ],
+  "hook": [
+    "chytit",
+    "háček",
+    "hák",
+    "lovit",
+    "polapit",
+    "zahnutý"
+  ],
+  "horizontal_traffic_light": [
+    "doprava",
+    "signál",
+    "signalizace",
+    "světelná",
+    "světlo",
+    "vodorovný semafor"
+  ],
+  "horse": [
+    "dostihový kůň",
+    "dostihy",
+    "jezdectví",
+    "jízda",
+    "kůň",
+    "závod"
+  ],
+  "horse_face": [
+    "hlava koně",
+    "kůň",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "horse_racing": [
+    "dostihový kůň",
+    "dostihy",
+    "kůň",
+    "závod",
+    "žokej",
+    "žokej na koni"
+  ],
+  "hospital": [
+    "budova",
+    "doktor",
+    "léčení",
+    "lék",
+    "lékař",
+    "nemocnice"
+  ],
+  "hot_beverage": [
+    "čaj",
+    "horký",
+    "káva",
+    "kouřící",
+    "nápoj",
+    "pára",
+    "pití",
+    "teplý nápoj"
+  ],
+  "hot_dog": [
+    "hotdog",
+    "párek",
+    "párek v rohlíku"
+  ],
+  "hot_face": [
+    "horečka",
+    "horko",
+    "pocení",
+    "rozpálený obličej",
+    "rudý obličej",
+    "vedro"
+  ],
+  "hot_pepper": [
+    "chilli",
+    "čili",
+    "feferonka",
+    "ostrý",
+    "pálivý",
+    "paprička",
+    "paprika",
+    "rostlina"
+  ],
+  "hot_springs": [
+    "horké prameny",
+    "horko",
+    "horký pramen",
+    "lázeň",
+    "pára"
+  ],
+  "hotel": [
+    "budova"
+  ],
+  "hourglass_done": [
+    "čas",
+    "časomíra",
+    "časovač",
+    "minutka",
+    "písek",
+    "přesýpací hodiny"
+  ],
+  "hourglass_not_done": [
+    "běžící přesýpací hodiny",
+    "čas",
+    "časomíra",
+    "časovač",
+    "minutka",
+    "písek"
+  ],
+  "house": [
+    "budova",
+    "domek",
+    "domov",
+    "dům"
+  ],
+  "house_with_garden": [
+    "budova",
+    "domek se zahradou",
+    "domov",
+    "dům",
+    "zahrada"
+  ],
+  "houses": [
+    "budova",
+    "domky",
+    "domy",
+    "dům"
+  ],
+  "hugs": [
+    "obejmout",
+    "objetí",
+    "obličej s otevřenou náručí",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "hungary": [
+    "vlajka"
+  ],
+  "hushed_face": [
+    "obličej se zaraženým výrazem",
+    "překvapený",
+    "smajlík",
+    "tichý",
+    "tvář",
+    "výraz",
+    "zaražený"
+  ],
+  "hut": [
+    "chatka",
+    "chatrč",
+    "chýše",
+    "jurta",
+    "obydlí"
+  ],
+  "ice": [
+    "chlad",
+    "kostka ledu",
+    "led",
+    "ledová kostka",
+    "ledovec",
+    "studený"
+  ],
+  "ice_cream": [
+    "cukrovinka",
+    "dezert",
+    "kopečková zmrzlina",
+    "pohár",
+    "sladkost",
+    "sladký",
+    "zákusek",
+    "zmrzlina",
+    "zmrzlinový"
+  ],
+  "ice_hockey": [
+    "hokej",
+    "hokejka",
+    "hra",
+    "led",
+    "lední hokej",
+    "puk"
+  ],
+  "ice_skate": [
+    "brusle",
+    "bruslení",
+    "led"
+  ],
+  "iceland": [
+    "vlajka"
+  ],
+  "id_button": [
+    "id",
+    "identita",
+    "štítek id",
+    "totožnost"
+  ],
+  "in_hole": [
+    "golf",
+    "golfová",
+    "jamka",
+    "jamka s vlajkou"
+  ],
+  "inbox_tray": [
+    "dopis",
+    "doručená pošta",
+    "krabice",
+    "pošta",
+    "přihrádka",
+    "přihrádka na příchozí poštu",
+    "přijmout"
+  ],
+  "incoming_envelope": [
+    "dopis",
+    "doručená",
+    "e-mail",
+    "email",
+    "obálka",
+    "pošta",
+    "příchozí",
+    "přijmout",
+    "zpráva"
+  ],
+  "index_pointing_up": [
+    "nahoru",
+    "prst",
+    "ruka",
+    "ruka ukazující nahoru",
+    "tělo",
+    "ukazováček",
+    "ukazovat"
+  ],
+  "india": [
+    "vlajka"
+  ],
+  "indonesia": [
+    "vlajka"
+  ],
+  "infinity": [
+    "bez hranic",
+    "nekonečno",
+    "nekonečnost",
+    "neomezenost",
+    "věčnost"
+  ],
+  "information_source": [
+    "i",
+    "informace"
+  ],
+  "innocent": [
+    "anděl",
+    "fantasy",
+    "nevinný",
+    "pohádka",
+    "smajlík",
+    "svatozář",
+    "tvář",
+    "úsměv",
+    "usmívající se obličej se svatozáří",
+    "výraz"
+  ],
+  "input_latin_letters": [
+    "abcd",
+    "abeceda",
+    "klávesnice",
+    "latinka",
+    "písmena",
+    "psaní",
+    "vstup",
+    "zadávání",
+    "zadávání písmen v latince"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "abeceda",
+    "klávesnice",
+    "latinka",
+    "malá písmena",
+    "písmena",
+    "psaní",
+    "vstup",
+    "zadávání",
+    "zadávání v latince, malá písmena"
+  ],
+  "input_latin_uppercase": [
+    "abcd",
+    "abeceda",
+    "klávesnice",
+    "latinka",
+    "písmena",
+    "psaní",
+    "velká písmena",
+    "vstup",
+    "zadávání",
+    "zadávání v latince, velká písmena"
+  ],
+  "input_symbols": [
+    "〒♪&%",
+    "klávesnice",
+    "psaní",
+    "vstup",
+    "zadávání",
+    "zadávání symbolů"
+  ],
+  "iran": [
+    "vlajka"
+  ],
+  "iraq": [
+    "vlajka"
+  ],
+  "ireland": [
+    "vlajka"
+  ],
+  "isle_of_man": [
+    "vlajka"
+  ],
+  "israel": [
+    "vlajka"
+  ],
+  "italy": [
+    "vlajka"
+  ],
+  "jack_o_lantern": [
+    "dýně",
+    "dýňová lucerna",
+    "halloween",
+    "oslava",
+    "svátek"
+  ],
+  "jamaica": [
+    "vlajka"
+  ],
+  "japan": [
+    "vlajka"
+  ],
+  "japanese_acceptable_button": [
+    "ideogram",
+    "japonština",
+    "příjem",
+    "přijetí",
+    "štítek s japonským znakem „přijatelné“",
+    "可"
+  ],
+  "japanese_application_button": [
+    "dotazy",
+    "ideogram",
+    "japonština",
+    "kontakt",
+    "přihláška",
+    "štítek s japonským znakem „žádost”",
+    "申"
+  ],
+  "japanese_bargain_button": [
+    "ideogram",
+    "japonština",
+    "koupě",
+    "štítek – japonský znak „výhodná koupě“",
+    "výhodná",
+    "výhodnost",
+    "得"
+  ],
+  "japanese_castle": [
+    "budova",
+    "hrad",
+    "japonský"
+  ],
+  "japanese_congratulations_button": [
+    "blahopřejeme",
+    "gratulace",
+    "ideogram",
+    "japonština",
+    "štěstí",
+    "štítek s japonským znakem „blahopřání“",
+    "祝"
+  ],
+  "japanese_discount_button": [
+    "akce",
+    "ideogram",
+    "japonština",
+    "sleva",
+    "štítek s japonským znakem „sleva“",
+    "výprodej",
+    "割"
+  ],
+  "japanese_dolls": [
+    "festival",
+    "japonské panenky",
+    "japonský",
+    "oslava",
+    "panenka"
+  ],
+  "japanese_free_of_charge_button": [
+    "bezplatně",
+    "ideogram",
+    "japonština",
+    "štítek s japonským znakem „zdarma“",
+    "zdarma",
+    "無"
+  ],
+  "japanese_here_button": [
+    "japonština",
+    "katakana",
+    "štítek s japonským znakem „zde“",
+    "tady",
+    "zde",
+    "ココ"
+  ],
+  "japanese_monthly_amount_button": [
+    "ideogram",
+    "japonština",
+    "měsíčně",
+    "měsíční",
+    "štítek s japonským znakem „měsíc“",
+    "月"
+  ],
+  "japanese_no_vacancy_button": [
+    "ideogram",
+    "japonština",
+    "plno",
+    "štítek s japonským znakem „obsazeno“",
+    "žádná volná",
+    "žádné volné",
+    "満"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "ideogram",
+    "japonština",
+    "majetek",
+    "není zdarma",
+    "štítek s japonským znakem „není zdarma“",
+    "vlastnictví",
+    "有"
+  ],
+  "japanese_open_for_business_button": [
+    "ideogram",
+    "japonština",
+    "provozní doba",
+    "štítek s japonským znakem „otevřeno“",
+    "営"
+  ],
+  "japanese_passing_grade_button": [
+    "hodnocení",
+    "ideogram",
+    "japonština",
+    "prospěl",
+    "štítek s japonským znakem „prospěl“",
+    "vyhověl",
+    "vyhovující",
+    "známka",
+    "合"
+  ],
+  "japanese_post_office": [
+    "budova",
+    "japonská pošta",
+    "japonský",
+    "pošta"
+  ],
+  "japanese_prohibited_button": [
+    "ideogram",
+    "japonština",
+    "štítek s japonským znakem „zákaz“",
+    "zakázáno",
+    "禁"
+  ],
+  "japanese_reserved_button": [
+    "ideogram",
+    "japonština",
+    "obsazeno",
+    "prst",
+    "směr",
+    "štítek s japonským znakem „rezervováno“",
+    "指"
+  ],
+  "japanese_secret_button": [
+    "ideogram",
+    "japonština",
+    "štítek s japonským znakem „tajné“",
+    "tajemství",
+    "utajení",
+    "秘"
+  ],
+  "japanese_service_charge_button": [
+    "bezplatně",
+    "japonština",
+    "katakana",
+    "poplatek",
+    "služba",
+    "štítek – japonský znak „pozornost podniku“",
+    "zdarma",
+    "サ"
+  ],
+  "japanese_symbol_for_beginner": [
+    "japonský",
+    "japonský symbol pro začátečníka",
+    "list",
+    "pomůcka",
+    "začátečník",
+    "zelená",
+    "žlutá"
+  ],
+  "japanese_vacancy_button": [
+    "ideogram",
+    "japonština",
+    "neobsazený",
+    "prázdný",
+    "štítek s japonským znakem „volno“",
+    "volný",
+    "空"
+  ],
+  "jeans": [
+    "džíny",
+    "kalhoty",
+    "oblečení"
+  ],
+  "jersey": [
+    "vlajka"
+  ],
+  "joker": [
+    "divoká",
+    "hra",
+    "karta",
+    "karty",
+    "žolík"
+  ],
+  "jordan": [
+    "vlajka"
+  ],
+  "joy": [
+    "obličej slzící smíchy",
+    "radost",
+    "slzy",
+    "smajlík",
+    "smích",
+    "tvář",
+    "výraz"
+  ],
+  "joy_cat": [
+    "kočičí obličej slzící smíchy",
+    "kočka",
+    "radost",
+    "slzy",
+    "smajlík",
+    "smích",
+    "tvář",
+    "výraz"
+  ],
+  "joystick": [
+    "hra",
+    "ovladač",
+    "videohra"
+  ],
+  "judge": [
+    "právo",
+    "soudce",
+    "soudce/soudkyně",
+    "soudkyně",
+    "spravedlnost",
+    "váhy"
+  ],
+  "kaaba": [
+    "islám",
+    "kába",
+    "muslim",
+    "náboženství"
+  ],
+  "kangaroo": [
+    "austrálie",
+    "kapsa",
+    "klokan",
+    "skákavý",
+    "vačnatec"
+  ],
+  "kazakhstan": [
+    "vlajka"
+  ],
+  "kenya": [
+    "vlajka"
+  ],
+  "key": [
+    "heslo",
+    "klíč",
+    "zámek"
+  ],
+  "keyboard": [
+    "klávesnice",
+    "počítač"
+  ],
+  "kick_scooter": [
+    "koloběžka"
+  ],
+  "kimono": [
+    "oblečení"
+  ],
+  "kiribati": [
+    "vlajka"
+  ],
+  "kiss": [
+    "dvojice",
+    "líbání",
+    "pár",
+    "polibek",
+    "romance",
+    "romantika"
+  ],
+  "kiss_man_man": [
+    "dvojice",
+    "líbání",
+    "muž",
+    "pár",
+    "polibek",
+    "romance",
+    "romantika"
+  ],
+  "kiss_mark": [
+    "otisk rtů",
+    "polibek",
+    "pusa",
+    "romance",
+    "romantika",
+    "rty",
+    "srdce"
+  ],
+  "kiss_woman_man": [
+    "dvojice",
+    "líbání",
+    "muž",
+    "pár",
+    "polibek",
+    "romance",
+    "romantika",
+    "žena"
+  ],
+  "kiss_woman_woman": [
+    "dvojice",
+    "líbání",
+    "pár",
+    "polibek",
+    "romance",
+    "romantika",
+    "žena"
+  ],
+  "kissing_cat": [
+    "kočka",
+    "líbající kočičí obličej",
+    "oko",
+    "polibek",
+    "pusa",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "kissing_face": [
+    "líbající obličej",
+    "polibek",
+    "pusa",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "líbající obličej se zavřenýma očima",
+    "oko",
+    "polibek",
+    "pusa",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zavřený"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "líbající obličej s usměvavýma očima",
+    "oko",
+    "polibek",
+    "pusa",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "výraz"
+  ],
+  "kitchen_knife": [
+    "kuchyňský nůž",
+    "nádobí",
+    "nástroj",
+    "nůž",
+    "vaření",
+    "zbraň"
+  ],
+  "kite": [
+    "let",
+    "létání",
+    "papírový drak",
+    "pouštění",
+    "stoupání",
+    "vzlétnutí"
+  ],
+  "kiwi_fruit": [
+    "jídlo",
+    "kivi",
+    "kiwi",
+    "ovoce"
+  ],
+  "knot": [
+    "lano",
+    "provaz",
+    "uvázat",
+    "uzel",
+    "zapletený"
+  ],
+  "koala": [
+    "medvěd",
+    "medvídek"
+  ],
+  "kosovo": [
+    "vlajka"
+  ],
+  "kuwait": [
+    "vlajka"
+  ],
+  "kyrgyzstan": [
+    "vlajka"
+  ],
+  "lab_coat": [
+    "doktor",
+    "experiment",
+    "laboratorní plášť",
+    "lékař",
+    "pokus",
+    "vědec"
+  ],
+  "label": [
+    "cedulka",
+    "cenovka",
+    "jmenovka",
+    "štítek",
+    "visačka"
+  ],
+  "lacrosse": [
+    "gól",
+    "lakros",
+    "lakroska",
+    "míč"
+  ],
+  "ladder": [
+    "příčka",
+    "schod",
+    "šplhat",
+    "šprušel",
+    "žebřík"
+  ],
+  "lady_beetle": [
+    "beruška",
+    "brouk",
+    "hmyz",
+    "sedmitečné",
+    "slunéčko"
+  ],
+  "laos": [
+    "vlajka"
+  ],
+  "laptop": [
+    "notebook",
+    "osobní",
+    "pc",
+    "počítač"
+  ],
+  "large_blue_diamond": [
+    "geometrie",
+    "kosočtverec",
+    "modrá",
+    "velký modrý kosočtverec"
+  ],
+  "large_orange_diamond": [
+    "geometrie",
+    "kosočtverec",
+    "oranžová",
+    "velký oranžový kosočtverec"
+  ],
+  "last_quarter_moon": [
+    "couvá",
+    "couvající",
+    "čtvrť",
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v poslední čtvrti",
+    "ubývá",
+    "ubývající",
+    "vesmír"
+  ],
+  "last_quarter_moon_face": [
+    "couvá",
+    "couvající",
+    "čtvrť",
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v poslední čtvrti s obličejem",
+    "smajlík",
+    "tvář",
+    "ubývá",
+    "ubývající",
+    "vesmír",
+    "výraz"
+  ],
+  "last_track_button": [
+    "poslední",
+    "předcházející",
+    "předchozí",
+    "scéna",
+    "šipka",
+    "skladba",
+    "stopa",
+    "tlačítko předchozí stopy",
+    "trojúhelník"
+  ],
+  "latin_cross": [
+    "křesťan",
+    "křesťanský",
+    "křesťanství",
+    "kříž",
+    "latinský kříž",
+    "náboženství"
+  ],
+  "latvia": [
+    "vlajka"
+  ],
+  "laughing": [
+    "otevřený",
+    "smajlík",
+    "smích",
+    "spokojený",
+    "tvář",
+    "úsměv",
+    "ústa",
+    "výraz",
+    "zubící se obličej s mžourajícíma očima"
+  ],
+  "leaf_fluttering_in_wind": [
+    "foukat",
+    "list",
+    "lístek",
+    "padající list ve větru",
+    "rostlina",
+    "třepetající",
+    "třepetat",
+    "třepotající",
+    "třepotat",
+    "vánek",
+    "vítr"
+  ],
+  "leafy_green": [
+    "bok čoj",
+    "čínské",
+    "kapusta",
+    "pak čoj",
+    "salát",
+    "salátové listy",
+    "zelí"
+  ],
+  "lebanon": [
+    "vlajka"
+  ],
+  "ledger": [
+    "sešit",
+    "účetní kniha",
+    "zápisník"
+  ],
+  "left_arrow": [
+    "hlavní",
+    "šipka",
+    "šipka doleva",
+    "směr",
+    "strany",
+    "světové",
+    "západ"
+  ],
+  "left_arrow_curving_right": [
+    "šipka",
+    "šipka doleva stáčející se doprava"
+  ],
+  "left_facing_fist": [
+    "doleva",
+    "pěst",
+    "pěst mířící doleva"
+  ],
+  "left_luggage": [
+    "odložení",
+    "skříňky",
+    "úschova",
+    "úschovna",
+    "úschovna zavazadel",
+    "zavazadla"
+  ],
+  "left_right_arrow": [
+    "šipka",
+    "šipka doleva a doprava"
+  ],
+  "left_speech_bubble": [
+    "dialog",
+    "levá řečová bublina",
+    "řeč"
+  ],
+  "leg": [
+    "končetina",
+    "kopanec",
+    "kopnutí",
+    "noha"
+  ],
+  "lemon": [
+    "citron",
+    "citrus",
+    "ovoce",
+    "rostlina"
+  ],
+  "leo": [
+    "lev",
+    "zvěrokruh"
+  ],
+  "leopard": [
+    "levhart",
+    "panter",
+    "pardál"
+  ],
+  "lesotho": [
+    "vlajka"
+  ],
+  "level_slider": [
+    "fader",
+    "hlasitost",
+    "hudba",
+    "jezdec",
+    "posuvný ovladač hlasitosti",
+    "potenciometr",
+    "úroveň"
+  ],
+  "liberia": [
+    "vlajka"
+  ],
+  "libra": [
+    "rovnováha",
+    "spravedlnost",
+    "váha",
+    "váhy",
+    "zvěrokruh"
+  ],
+  "libya": [
+    "vlajka"
+  ],
+  "liechtenstein": [
+    "vlajka"
+  ],
+  "light_bulb": [
+    "baňka",
+    "elektrická",
+    "elektřina",
+    "komiks",
+    "nápad",
+    "světlo",
+    "žárovka"
+  ],
+  "light_rail": [
+    "rychlodrážní tramvaj",
+    "vozidlo",
+    "železnice"
+  ],
+  "link": [
+    "článek",
+    "články řetězu",
+    "řetěz",
+    "spojení"
+  ],
+  "linked_paperclips": [
+    "článek",
+    "papír",
+    "řetěz",
+    "spojené kancelářské sponky",
+    "spojení",
+    "sponky",
+    "svorka"
+  ],
+  "lion": [
+    "hlava lva",
+    "lev",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zvěrokruh"
+  ],
+  "lipstick": [
+    "kosmetika",
+    "make-up",
+    "rtěnka"
+  ],
+  "lithuania": [
+    "vlajka"
+  ],
+  "litter_in_bin_sign": [
+    "koš",
+    "odpad",
+    "odpadky",
+    "smetí",
+    "značka odpadkového koše"
+  ],
+  "lizard": [
+    "ještěrka",
+    "plaz"
+  ],
+  "llama": [
+    "alpaka",
+    "guanako",
+    "lama",
+    "vikuňa",
+    "vlna"
+  ],
+  "lobster": [
+    "humr",
+    "klepeta",
+    "langusta",
+    "plody moře"
+  ],
+  "locked": [
+    "visací",
+    "zamčeno",
+    "zamčený",
+    "zamknuto",
+    "zamknutý zámek",
+    "zavřeno",
+    "zavřený"
+  ],
+  "locked_with_key": [
+    "bezpečný",
+    "klíč",
+    "zabezpečení",
+    "zámek",
+    "zamknutý zámek s klíčem",
+    "zavřený"
+  ],
+  "locked_with_pen": [
+    "inkoust",
+    "pero",
+    "soukromí",
+    "soukromý",
+    "tajné",
+    "utajení",
+    "zámek",
+    "zamknutý zámek s plnicím perem"
+  ],
+  "locomotive": [
+    "lokomotiva",
+    "pára",
+    "vlak",
+    "vozidlo",
+    "železnice"
+  ],
+  "lollipop": [
+    "cukrovinka",
+    "lízátko",
+    "sladkost",
+    "sladký",
+    "špejle"
+  ],
+  "long_drum": [
+    "buben",
+    "bubnování",
+    "conga",
+    "congo",
+    "konga",
+    "kongo",
+    "protáhlý buben",
+    "rytmus"
+  ],
+  "lotion_bottle": [
+    "gel",
+    "krém",
+    "láhev na kosmetiku",
+    "opalovací",
+    "pleťový",
+    "šampon"
+  ],
+  "loudspeaker": [
+    "hlášení",
+    "hlasitý",
+    "rozhlas",
+    "sdělení",
+    "tlampač",
+    "veřejné",
+    "veřejný"
+  ],
+  "love_hotel": [
+    "budova",
+    "hodinový hotel",
+    "hotel",
+    "láska"
+  ],
+  "love_letter": [
+    "dopis",
+    "láska",
+    "milostný dopis",
+    "pošta",
+    "romance",
+    "romantika",
+    "srdce"
+  ],
+  "love_you_gesture": [
+    "gesto",
+    "gesto „miluji tě“",
+    "láska",
+    "miluju",
+    "ruka"
+  ],
+  "luggage": [
+    "balení",
+    "cestování",
+    "cestovní kufr",
+    "zavazadlo"
+  ],
+  "lungs": [
+    "dech",
+    "dýchání",
+    "nádech",
+    "orgán",
+    "plíce",
+    "respirace",
+    "výdech"
+  ],
+  "luxembourg": [
+    "vlajka"
+  ],
+  "lying_face": [
+    "lhát",
+    "obličej lháře",
+    "pinocchio",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "macao_sar_china": [
+    "vlajka"
+  ],
+  "madagascar": [
+    "vlajka"
+  ],
+  "mage": [
+    "čaroděj",
+    "čarodějník",
+    "kouzelník",
+    "mág"
+  ],
+  "magic_wand": [
+    "čarodějnice",
+    "kouzelná hůlka",
+    "kouzelník",
+    "kouzlo",
+    "magie"
+  ],
+  "magnet": [
+    "podkova",
+    "přitažlivost"
+  ],
+  "magnifying_glass_tilted_left": [
+    "hledání",
+    "lupa nakloněná doleva",
+    "nářadí",
+    "nástroj",
+    "sklo",
+    "zvětšení",
+    "zvětšovací",
+    "zvětšování"
+  ],
+  "magnifying_glass_tilted_right": [
+    "hledání",
+    "lupa nakloněná doprava",
+    "nářadí",
+    "nástroj",
+    "sklo",
+    "zvětšení",
+    "zvětšovací",
+    "zvětšování"
+  ],
+  "mahjong_red_dragon": [
+    "červená",
+    "červený drak v mahjongu",
+    "hra",
+    "madžong",
+    "mah-jong",
+    "mahjong"
+  ],
+  "malawi": [
+    "vlajka"
+  ],
+  "malaysia": [
+    "vlajka"
+  ],
+  "maldives": [
+    "vlajka"
+  ],
+  "male_sign": [
+    "muž",
+    "symbol mužského pohlaví"
+  ],
+  "mali": [
+    "vlajka"
+  ],
+  "malta": [
+    "vlajka"
+  ],
+  "mammoth": [
+    "huňatý",
+    "kel",
+    "kly",
+    "mamut",
+    "velký",
+    "vyhynulý"
+  ],
+  "man": [
+    "muž"
+  ],
+  "man_artist": [
+    "malíř",
+    "muž",
+    "paleta",
+    "umělec",
+    "umění"
+  ],
+  "man_astronaut": [
+    "astronaut",
+    "kosmonaut",
+    "muž",
+    "raketa",
+    "vesmír"
+  ],
+  "man_bald": [
+    "bez vlasů",
+    "muž"
+  ],
+  "man_biking": [
+    "cyklista",
+    "cyklistika",
+    "kolo",
+    "muž"
+  ],
+  "man_bouncing_ball": [
+    "míč",
+    "muž",
+    "muž driblující s míčem"
+  ],
+  "man_bowing": [
+    "gesto",
+    "lítost",
+    "muž",
+    "omluva",
+    "poklona",
+    "prosba",
+    "úcta",
+    "uklánějící se muž",
+    "úklona"
+  ],
+  "man_cartwheeling": [
+    "gymnastika",
+    "hvězda",
+    "muž",
+    "muž dělající přemet stranou",
+    "sport"
+  ],
+  "man_climbing": [
+    "horolezec",
+    "lezec",
+    "stěna"
+  ],
+  "man_cook": [
+    "kuchař",
+    "muž",
+    "šéfkuchař"
+  ],
+  "man_curly_hair": [
+    "kudrnaté vlasy",
+    "muž"
+  ],
+  "man_dancing": [
+    "muž",
+    "tanec",
+    "tanečník"
+  ],
+  "man_detective": [
+    "agent",
+    "čmuchal",
+    "detektiv",
+    "inspektor",
+    "kriminální inspektor",
+    "muž",
+    "očko",
+    "špeh",
+    "špión",
+    "vyšetřovatel"
+  ],
+  "man_elf": [
+    "elf",
+    "kouzelná",
+    "les",
+    "lesní",
+    "magie",
+    "muž",
+    "postava"
+  ],
+  "man_facepalming": [
+    "čelo",
+    "chycení",
+    "dlaň",
+    "facepalm",
+    "hlava",
+    "muž",
+    "muž chytající se za hlavu",
+    "nevíra",
+    "rozhořčení",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zoufalství"
+  ],
+  "man_factory_worker": [
+    "dělník",
+    "dělník v továrně",
+    "muž",
+    "průmysl",
+    "výroba"
+  ],
+  "man_fairy": [
+    "oberon",
+    "okřídlený skřítek",
+    "puk",
+    "vílák"
+  ],
+  "man_farmer": [
+    "farmář",
+    "muž",
+    "sedlák",
+    "zahradník",
+    "zemědělec"
+  ],
+  "man_feeding_baby": [
+    "dítě",
+    "kojenec",
+    "kojení",
+    "krmení",
+    "muž",
+    "muž krmící dítě z lahve",
+    "nemluvně"
+  ],
+  "man_firefighter": [
+    "hasič",
+    "hasičské auto",
+    "muž",
+    "požár",
+    "požárník",
+    "stříkačka"
+  ],
+  "man_frowning": [
+    "muž",
+    "výraz",
+    "zamračený"
+  ],
+  "man_genie": [
+    "aladin",
+    "duch",
+    "džin",
+    "lahev",
+    "lampa",
+    "muž"
+  ],
+  "man_gesturing_no": [
+    "muž",
+    "muž s gestem nesouhlasu",
+    "ne",
+    "nesouhlas",
+    "zákaz"
+  ],
+  "man_gesturing_ok": [
+    "ano",
+    "muž",
+    "muž s gestem souhlasu",
+    "ok",
+    "souhlas"
+  ],
+  "man_getting_haircut": [
+    "holič",
+    "kadeřník",
+    "krása",
+    "muž",
+    "muž u kadeřníka",
+    "salon",
+    "sestřih",
+    "stříhání",
+    "účes",
+    "vlasy"
+  ],
+  "man_getting_massage": [
+    "masáž",
+    "muž",
+    "muž na masáži obličeje",
+    "obličej",
+    "tvář"
+  ],
+  "man_golfing": [
+    "golf",
+    "golfista",
+    "muž"
+  ],
+  "man_guard": [
+    "muž",
+    "stráž",
+    "strážce"
+  ],
+  "man_health_worker": [
+    "doktor",
+    "nemocnice",
+    "terapeut",
+    "zdravotník"
+  ],
+  "man_in_lotus_position": [
+    "jóga",
+    "lotos",
+    "lotosová",
+    "meditace",
+    "muž v lotosovém sedu",
+    "pozice"
+  ],
+  "man_in_manual_wheelchair": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "muž",
+    "muž na mechanickém invalidním vozíku",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík"
+  ],
+  "man_in_motorized_wheelchair": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "muž",
+    "muž na elektrickém invalidním vozíku",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík"
+  ],
+  "man_in_steamy_room": [
+    "lázeň",
+    "lázně",
+    "muž v sauně",
+    "pára",
+    "parní",
+    "sauna"
+  ],
+  "man_in_tuxedo": [
+    "muž",
+    "muž ve smokingu",
+    "smoking",
+    "ženich"
+  ],
+  "man_judge": [
+    "muž",
+    "právo",
+    "soudce",
+    "spravedlnost",
+    "váhy"
+  ],
+  "man_juggling": [
+    "multitasking",
+    "muž",
+    "rovnováha",
+    "šikovnost",
+    "žonglér",
+    "žonglování"
+  ],
+  "man_kneeling": [
+    "klečet",
+    "klečící",
+    "klek",
+    "muž",
+    "poklek"
+  ],
+  "man_lifting_weights": [
+    "činka",
+    "muž",
+    "silák",
+    "tíha",
+    "váha",
+    "vzpěrač",
+    "vzpírání"
+  ],
+  "man_mage": [
+    "čaroděj",
+    "čarodějník",
+    "kouzelník",
+    "mág"
+  ],
+  "man_mechanic": [
+    "elektrikář",
+    "mechanik",
+    "montér",
+    "muž",
+    "opravář",
+    "řemeslník",
+    "živnostník"
+  ],
+  "man_mountain_biking": [
+    "cyklistika",
+    "hora",
+    "horský cyklista",
+    "kolo",
+    "muž"
+  ],
+  "man_office_worker": [
+    "bílý límeček",
+    "byznys",
+    "kancelář",
+    "manažer",
+    "muž",
+    "úředník"
+  ],
+  "man_pilot": [
+    "letadlo",
+    "muž",
+    "pilot"
+  ],
+  "man_playing_handball": [
+    "házená",
+    "házenkář",
+    "míč",
+    "muž",
+    "sport"
+  ],
+  "man_playing_water_polo": [
+    "hráč vodního póla",
+    "muž",
+    "pólo",
+    "sport",
+    "voda"
+  ],
+  "man_police_officer": [
+    "muž",
+    "policajt",
+    "policie",
+    "policista",
+    "strážník"
+  ],
+  "man_pouting": [
+    "muž",
+    "podrážděný",
+    "výraz"
+  ],
+  "man_raising_hand": [
+    "muž",
+    "muž se zvednutou rukou",
+    "přihlášení",
+    "ruka",
+    "zvednutí"
+  ],
+  "man_red_hair": [
+    "muž",
+    "zrzavé vlasy"
+  ],
+  "man_rowing_boat": [
+    "člun",
+    "loďka",
+    "muž",
+    "plavidlo",
+    "pramice",
+    "veslař",
+    "veslice",
+    "veslování"
+  ],
+  "man_running": [
+    "běh",
+    "běžící muž",
+    "maraton",
+    "muž",
+    "závod"
+  ],
+  "man_s_shoe": [
+    "bota",
+    "muž",
+    "oblečení",
+    "pánská bota"
+  ],
+  "man_scientist": [
+    "biolog",
+    "chemik",
+    "fyzik",
+    "inženýr",
+    "matematik",
+    "muž",
+    "věda",
+    "vědec"
+  ],
+  "man_shrugging": [
+    "muž",
+    "muž krčící rameny",
+    "nejistota",
+    "nerozhodnost",
+    "nevědomost",
+    "nevím",
+    "nezájem",
+    "pochybnost",
+    "pochyby",
+    "pokrčení",
+    "pokrčit",
+    "ramena"
+  ],
+  "man_singer": [
+    "bavič",
+    "herec",
+    "hvězda",
+    "muž",
+    "rock",
+    "rocker",
+    "zábava",
+    "zpěvák"
+  ],
+  "man_standing": [
+    "muž",
+    "postoj",
+    "stoj",
+    "stojící"
+  ],
+  "man_student": [
+    "absolvent",
+    "muž",
+    "student"
+  ],
+  "man_superhero": [
+    "hrdina",
+    "kladná postava",
+    "muž",
+    "superhrdina",
+    "superschopnost"
+  ],
+  "man_supervillain": [
+    "muž",
+    "padouch",
+    "superpadouch",
+    "superschopnost",
+    "superzločinec",
+    "záporná postava"
+  ],
+  "man_surfing": [
+    "muž",
+    "prkno",
+    "surf",
+    "surfař",
+    "surfing",
+    "surfování"
+  ],
+  "man_swimming": [
+    "muž",
+    "plavání",
+    "plavec"
+  ],
+  "man_teacher": [
+    "instruktor",
+    "muž",
+    "profesor",
+    "učitel"
+  ],
+  "man_technologist": [
+    "kodér",
+    "muž",
+    "notebook",
+    "počítač",
+    "programátor",
+    "programování",
+    "software",
+    "technologie",
+    "vynálezce",
+    "vývoj",
+    "vývojář"
+  ],
+  "man_tipping_hand": [
+    "concierge",
+    "drzost",
+    "informace",
+    "ironie",
+    "muž",
+    "muž s dlaní vzhůru",
+    "pomoc",
+    "poslíček",
+    "recepce",
+    "recepční",
+    "ruka",
+    "sarkasmus"
+  ],
+  "man_vampire": [
+    "drákula",
+    "nemrtvý",
+    "upír",
+    "vampýr"
+  ],
+  "man_walking": [
+    "chodec",
+    "chůze",
+    "kráčející muž",
+    "muž",
+    "pěší",
+    "pěšky",
+    "procházka",
+    "túra"
+  ],
+  "man_wearing_turban": [
+    "muž",
+    "muž s turbanem",
+    "turban"
+  ],
+  "man_white_hair": [
+    "bílé vlasy",
+    "muž"
+  ],
+  "man_with_veil": [
+    "muž",
+    "muž se závojem",
+    "svatba",
+    "závoj",
+    "ženich"
+  ],
+  "man_with_white_cane": [
+    "handicap",
+    "hendikep",
+    "muž",
+    "muž se slepeckou holí",
+    "pomůcka",
+    "postižení",
+    "slepý",
+    "usnadnění"
+  ],
+  "man_zombie": [
+    "chodící",
+    "ghúl",
+    "mrtvola",
+    "mrtvý",
+    "nemrtvý",
+    "nemrtvý muž",
+    "zombie",
+    "zombík"
+  ],
+  "mango": [
+    "ovoce",
+    "tropické"
+  ],
+  "mantelpiece_clock": [
+    "čas",
+    "hodiny",
+    "krbové hodiny"
+  ],
+  "manual_wheelchair": [
+    "handicap",
+    "hendikep",
+    "invalidita",
+    "invalidní",
+    "mechanický invalidní vozík",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "zpřístupnění"
+  ],
+  "map_of_japan": [
+    "japonsko",
+    "mapa",
+    "mapa japonska"
+  ],
+  "maple_leaf": [
+    "javor",
+    "javorový list",
+    "list",
+    "padající",
+    "rostlina"
+  ],
+  "marshall_islands": [
+    "vlajka"
+  ],
+  "martial_arts_uniform": [
+    "bojové umění",
+    "džudo",
+    "judo",
+    "karate",
+    "kimono",
+    "sport",
+    "sportovní kimono",
+    "taekwon-do",
+    "taekwondo"
+  ],
+  "martinique": [
+    "vlajka"
+  ],
+  "mate": [
+    "maté",
+    "nápoj"
+  ],
+  "mauritania": [
+    "vlajka"
+  ],
+  "mauritius": [
+    "vlajka"
+  ],
+  "mayotte": [
+    "vlajka"
+  ],
+  "meat_on_bone": [
+    "kost",
+    "maso",
+    "maso na kosti"
+  ],
+  "mechanic": [
+    "elektrikář",
+    "elektrikářka",
+    "mechanička",
+    "mechanik",
+    "mechanik/mechanička",
+    "montér",
+    "montérka",
+    "opravář",
+    "opravářka",
+    "řemeslnice",
+    "řemeslník",
+    "živnostnice",
+    "živnostník"
+  ],
+  "mechanical_arm": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "mechanická paže",
+    "pomůcka",
+    "postižení",
+    "protéza",
+    "usnadnění"
+  ],
+  "mechanical_leg": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "mechanická noha",
+    "pomůcka",
+    "postižení",
+    "protéza",
+    "usnadnění"
+  ],
+  "medical_symbol": [
+    "aesculap",
+    "aesculapova",
+    "aeskulap",
+    "aeskulapova",
+    "doktor",
+    "eskulap",
+    "eskulapova",
+    "hůl",
+    "lékař",
+    "lékárna",
+    "lékárník",
+    "lékařství",
+    "medicína",
+    "nemocnice",
+    "znak medicíny"
+  ],
+  "megaphone": [
+    "fandění",
+    "megafon",
+    "povzbuzování",
+    "proslov",
+    "řečnění",
+    "řečník"
+  ],
+  "melon": [
+    "cukrový meloun",
+    "ovoce",
+    "rostlina"
+  ],
+  "memo": [
+    "lístek se vzkazem",
+    "tužka"
+  ],
+  "men_holding_hands": [
+    "blíženci",
+    "držet",
+    "dva muži držící se za ruce",
+    "dvojčata",
+    "dvojice",
+    "muž",
+    "pár",
+    "ruka",
+    "zvěrokruh"
+  ],
+  "men_s_room": [
+    "muž",
+    "pánské toalety",
+    "toaleta",
+    "wc",
+    "záchod"
+  ],
+  "men_with_bunny_ears": [
+    "muži",
+    "muži se zaječími oušky",
+    "párty",
+    "tanec",
+    "tanečník",
+    "uši",
+    "zajíček"
+  ],
+  "men_wrestling": [
+    "muži",
+    "sport",
+    "zápas",
+    "zápasící muži",
+    "zápasník"
+  ],
+  "menorah": [
+    "menora",
+    "náboženství",
+    "sedmiramenný svícen",
+    "svícen"
+  ],
+  "mermaid": [
+    "mořská",
+    "mořská panna",
+    "nymfa",
+    "víla",
+    "žena"
+  ],
+  "merman": [
+    "mořský",
+    "mořský muž",
+    "nymfa",
+    "panic",
+    "poseidón",
+    "tritón"
+  ],
+  "merperson": [
+    "moře",
+    "mořská",
+    "mořská bytost",
+    "mořský",
+    "muž",
+    "nymfa",
+    "panic",
+    "panna",
+    "postava"
+  ],
+  "metro": [
+    "dráha",
+    "podzemní",
+    "vozidlo"
+  ],
+  "mexico": [
+    "vlajka"
+  ],
+  "microbe": [
+    "améba",
+    "bacil",
+    "bakterie",
+    "mikrob",
+    "mikroorganismus",
+    "virus"
+  ],
+  "micronesia": [
+    "vlajka"
+  ],
+  "microphone": [
+    "karaoke",
+    "mikrofon"
+  ],
+  "microscope": [
+    "mikroskop",
+    "nástroj",
+    "věda",
+    "vědecký",
+    "zvětšení"
+  ],
+  "military_helmet": [
+    "armáda",
+    "bojovník",
+    "helma",
+    "voják",
+    "vojenská",
+    "vojenská přilba"
+  ],
+  "military_medal": [
+    "armáda",
+    "medaile",
+    "oslava",
+    "řád",
+    "vojenská medaile",
+    "vyznamenání"
+  ],
+  "milky_way": [
+    "mléčná dráha",
+    "vesmír"
+  ],
+  "minibus": [
+    "autobus",
+    "vozidlo"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "matematika",
+    "odčítání",
+    "rozdíl",
+    "znak minus"
+  ],
+  "mirror": [
+    "obraz",
+    "odlesk",
+    "odraz",
+    "zrcadlo",
+    "zrcátko"
+  ],
+  "moai": [
+    "moyai",
+    "smajlík",
+    "socha",
+    "socha moai",
+    "tvář",
+    "výraz"
+  ],
+  "mobile_phone": [
+    "mobil",
+    "mobilní",
+    "telefon"
+  ],
+  "mobile_phone_off": [
+    "mobil",
+    "mobilní",
+    "telefon",
+    "vypnuto",
+    "vypnutý mobilní telefon"
+  ],
+  "mobile_phone_with_arrow": [
+    "hovor",
+    "mobil",
+    "mobil se šipkou",
+    "mobilní",
+    "příjem",
+    "šipka",
+    "telefon",
+    "volání"
+  ],
+  "moldova": [
+    "vlajka"
+  ],
+  "monaco": [
+    "vlajka"
+  ],
+  "money_bag": [
+    "dolar",
+    "dolary",
+    "měšec",
+    "peníze",
+    "pytel peněz",
+    "váček",
+    "vak",
+    "zavazadlo"
+  ],
+  "money_mouth_face": [
+    "obličej s penězi na jazyku",
+    "peníze",
+    "smajlík",
+    "tvář",
+    "ústa",
+    "výraz"
+  ],
+  "money_with_wings": [
+    "banka",
+    "bankovka",
+    "dolar",
+    "okřídlené peníze",
+    "peníze"
+  ],
+  "mongolia": [
+    "vlajka"
+  ],
+  "monkey": [
+    "opice"
+  ],
+  "monkey_face": [
+    "hlava opice",
+    "opice",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "monorail": [
+    "jednokolejka",
+    "vozidlo"
+  ],
+  "montenegro": [
+    "vlajka"
+  ],
+  "montserrat": [
+    "vlajka"
+  ],
+  "moon_cake": [
+    "čínský",
+    "měsíční koláč",
+    "podzim",
+    "svátek"
+  ],
+  "moon_viewing_ceremony": [
+    "cukimi",
+    "japonský",
+    "měsíc",
+    "obřad",
+    "oslava",
+    "slavnosti měsíce",
+    "svátek",
+    "tsukimi"
+  ],
+  "morocco": [
+    "vlajka"
+  ],
+  "mosque": [
+    "islám",
+    "mešita",
+    "muslim",
+    "náboženství"
+  ],
+  "mosquito": [
+    "dengue",
+    "hmyz",
+    "komár",
+    "malárie",
+    "moskyt",
+    "štípnutí",
+    "virus"
+  ],
+  "motor_boat": [
+    "člun",
+    "loď",
+    "motorová jachta",
+    "motorová loď",
+    "plavidlo"
+  ],
+  "motor_scooter": [
+    "scooter",
+    "skútr"
+  ],
+  "motorcycle": [
+    "motocykl",
+    "motorka",
+    "závod"
+  ],
+  "motorized_wheelchair": [
+    "elektrický invalidní vozík",
+    "handicap",
+    "hendikep",
+    "invalidita",
+    "invalidní",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "zpřístupnění"
+  ],
+  "motorway": [
+    "cesta",
+    "dálnice",
+    "motorová",
+    "silnice"
+  ],
+  "mount_fuji": [
+    "fudži",
+    "fuji",
+    "hora",
+    "hora fudži"
+  ],
+  "mountain": [
+    "hora",
+    "kopec",
+    "pohoří"
+  ],
+  "mountain_cableway": [
+    "gondola",
+    "horská lanovka",
+    "hory",
+    "kabel",
+    "kabina",
+    "vozidlo"
+  ],
+  "mountain_railway": [
+    "hora",
+    "horská železnice",
+    "vagón",
+    "vozidlo",
+    "železnice"
+  ],
+  "mouse": [
+    "myš"
+  ],
+  "mouse_face": [
+    "hlava myši",
+    "myš",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "mouse_trap": [
+    "nástraha",
+    "návnada",
+    "past",
+    "pastička",
+    "pastička na myši"
+  ],
+  "mouth": [
+    "pusa",
+    "rty",
+    "tělo",
+    "ústa"
+  ],
+  "movie_camera": [
+    "film",
+    "filmová",
+    "kamera",
+    "kino"
+  ],
+  "mozambique": [
+    "vlajka"
+  ],
+  "mrs_claus": [
+    "fantasy",
+    "matka",
+    "oslava",
+    "pohádka",
+    "santa",
+    "santa clausová",
+    "vánoce"
+  ],
+  "multiply": [
+    "×",
+    "krát",
+    "násobení",
+    "součin",
+    "x",
+    "znak",
+    "zrušení"
+  ],
+  "mushroom": [
+    "houba",
+    "muchomůrka"
+  ],
+  "musical_keyboard": [
+    "hudba",
+    "klávesy",
+    "klaviatura",
+    "nástroj",
+    "piano"
+  ],
+  "musical_note": [
+    "hudba",
+    "nota",
+    "noty"
+  ],
+  "musical_notes": [
+    "hudba",
+    "nota",
+    "noty"
+  ],
+  "musical_score": [
+    "hudba",
+    "notová osnova",
+    "notový",
+    "noty",
+    "zápis"
+  ],
+  "muted_speaker": [
+    "hlasitost",
+    "reproduktor",
+    "tichý",
+    "vypnutý reproduktor",
+    "ztlumený"
+  ],
+  "mx_claus": [
+    "fantasy",
+    "oslava",
+    "pohádka",
+    "santa",
+    "santa claus",
+    "vánoce"
+  ],
+  "myanmar_burma": [
+    "vlajka"
+  ],
+  "nail_polish": [
+    "kosmetika",
+    "lak",
+    "lak na nehty",
+    "manikúra",
+    "nehet",
+    "péče",
+    "tělo"
+  ],
+  "name_badge": [
+    "cedulka",
+    "jméno",
+    "jmenovka"
+  ],
+  "namibia": [
+    "vlajka"
+  ],
+  "national_park": [
+    "národní park",
+    "park",
+    "rezervace"
+  ],
+  "nauru": [
+    "vlajka"
+  ],
+  "nauseated_face": [
+    "obličej se znechuceným výrazem",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "znechucení",
+    "zvracet"
+  ],
+  "nazar_amulet": [
+    "amulet nazar",
+    "boncuk",
+    "korálek",
+    "modré oko",
+    "přívěsek",
+    "talisman"
+  ],
+  "necktie": [
+    "kravata",
+    "oblečení"
+  ],
+  "nepal": [
+    "vlajka"
+  ],
+  "nerd_face": [
+    "geek",
+    "nerd",
+    "obličej šprta",
+    "smajlík",
+    "šplhoun",
+    "šprt",
+    "tvář",
+    "výraz"
+  ],
+  "nesting_dolls": [
+    "babuška",
+    "matrjoška",
+    "panenka",
+    "ruská",
+    "rusko"
+  ],
+  "netherlands": [
+    "vlajka"
+  ],
+  "neutral_face": [
+    "kamenná tvář",
+    "neutrální",
+    "obličej s neutrálním výrazem",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "new_button": [
+    "new",
+    "štítek new"
+  ],
+  "new_caledonia": [
+    "vlajka"
+  ],
+  "new_moon": [
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v novu",
+    "nov",
+    "novoluní",
+    "nový",
+    "tma",
+    "vesmír"
+  ],
+  "new_moon_face": [
+    "fáze měsíce",
+    "měsíc",
+    "měsíc v novu s obličejem",
+    "nov",
+    "novoluní",
+    "nový",
+    "smajlík",
+    "tma",
+    "tvář",
+    "vesmír",
+    "výraz"
+  ],
+  "new_zealand": [
+    "vlajka"
+  ],
+  "newspaper": [
+    "noviny",
+    "papír",
+    "tisk",
+    "zprávy"
+  ],
+  "next_track_button": [
+    "další",
+    "následující",
+    "scéna",
+    "šipka",
+    "skladba",
+    "stopa",
+    "tlačítko další stopy",
+    "trojúhelník"
+  ],
+  "ng_button": [
+    "ng",
+    "štítek ng"
+  ],
+  "nicaragua": [
+    "vlajka"
+  ],
+  "niger": [
+    "vlajka"
+  ],
+  "nigeria": [
+    "vlajka"
+  ],
+  "night_with_stars": [
+    "hvězda",
+    "hvězdná noc",
+    "noc",
+    "počasí"
+  ],
+  "nine": [
+    "klávesa"
+  ],
+  "nine_o_clock": [
+    "00",
+    "9",
+    "9:00",
+    "čas",
+    "devět",
+    "devět hodin",
+    "hodiny"
+  ],
+  "nine_thirty": [
+    "30",
+    "9",
+    "9:30",
+    "devět",
+    "hodiny",
+    "půl desáté",
+    "třicet"
+  ],
+  "ninja": [
+    "bojovník",
+    "nenápadný",
+    "nindža",
+    "špion",
+    "tajný"
+  ],
+  "niue": [
+    "vlajka"
+  ],
+  "no_bicycles": [
+    "kolo",
+    "vozidlo",
+    "zákaz",
+    "zákaz vjezdu cyklistů",
+    "zakázáno"
+  ],
+  "no_entry": [
+    "doprava",
+    "dopravní",
+    "vjezd",
+    "vjezdu",
+    "vozidel",
+    "vstupu",
+    "zákaz",
+    "zákaz vjezdu v jednom směru",
+    "zakázáno",
+    "značka"
+  ],
+  "no_littering": [
+    "odpad",
+    "odpadky",
+    "smetí",
+    "zákaz",
+    "zákaz odhazování odpadků",
+    "zakázáno"
+  ],
+  "no_mobile_phones": [
+    "mobil",
+    "mobilní",
+    "telefon",
+    "telefonování",
+    "zákaz",
+    "zákaz používání mobilních telefonů",
+    "zakázáno"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "nezletilost",
+    "nezletilým",
+    "omezení",
+    "osmnáct",
+    "věk",
+    "zákaz",
+    "zákaz vstupu osobám mladším 18 let",
+    "zakázáno"
+  ],
+  "no_pedestrians": [
+    "chodci",
+    "průchod",
+    "zákaz vstupu chodců",
+    "zakázán",
+    "zakázáno"
+  ],
+  "no_smoking": [
+    "kouření",
+    "zákaz",
+    "zakázáno"
+  ],
+  "non_potable_water": [
+    "kohoutek",
+    "nápoj",
+    "nepitná voda",
+    "nevhodná",
+    "pití",
+    "voda"
+  ],
+  "norfolk_island": [
+    "vlajka"
+  ],
+  "north_korea": [
+    "vlajka"
+  ],
+  "north_macedonia": [
+    "vlajka"
+  ],
+  "northern_mariana_islands": [
+    "vlajka"
+  ],
+  "norway": [
+    "vlajka"
+  ],
+  "nose": [
+    "nos",
+    "tělo"
+  ],
+  "notebook": [
+    "sešit",
+    "zápisník"
+  ],
+  "notebook_with_decorative_cover": [
+    "desky",
+    "kniha",
+    "obal",
+    "obálka",
+    "ozdobené",
+    "ozdobné",
+    "zápisník",
+    "zápisník v ozdobných deskách",
+    "zdobené"
+  ],
+  "nut_and_bolt": [
+    "matice",
+    "nářadí",
+    "šroub",
+    "šroub a matice"
+  ],
+  "o_button_blood_type": [
+    "0",
+    "krev",
+    "o",
+    "štítek 0 (krevní skupina)"
+  ],
+  "ocean": [
+    "oceán",
+    "počasí",
+    "vlna",
+    "voda",
+    "vodní vlna"
+  ],
+  "octopus": [
+    "chobotnice",
+    "chobotnička",
+    "hlavonožec",
+    "krakatice",
+    "měkkýš"
+  ],
+  "oden": [
+    "kebab",
+    "mořské plody",
+    "plody moře",
+    "špejle",
+    "špíz",
+    "tyčka"
+  ],
+  "office_building": [
+    "budova",
+    "dům",
+    "kanceláře",
+    "kancelářská budova",
+    "věžák"
+  ],
+  "office_worker": [
+    "architekt",
+    "architektka",
+    "bílý límeček",
+    "byznys",
+    "kancelář",
+    "manažer",
+    "manažer/manažerka",
+    "manažerka",
+    "úřednice",
+    "úředník"
+  ],
+  "ogre": [
+    "bytost",
+    "fantasy",
+    "japonský",
+    "lidožrout",
+    "obr",
+    "pohádka",
+    "příšera",
+    "smajlík",
+    "strašák",
+    "strašidlo",
+    "tvář",
+    "výraz",
+    "zlobr"
+  ],
+  "oil_drum": [
+    "barel",
+    "nafta",
+    "ropa",
+    "sud"
+  ],
+  "ok_button": [
+    "ok",
+    "štítek ok"
+  ],
+  "ok_hand": [
+    "gesto ok",
+    "ok",
+    "ruka",
+    "tělo"
+  ],
+  "old_key": [
+    "dózický",
+    "klíč",
+    "starý",
+    "stopa",
+    "zámek"
+  ],
+  "old_man": [
+    "muž",
+    "pán",
+    "senior",
+    "stařec",
+    "starý"
+  ],
+  "old_woman": [
+    "paní",
+    "seniorka",
+    "stará",
+    "stařena",
+    "starý",
+    "žena"
+  ],
+  "older_person": [
+    "člověk",
+    "neutrální",
+    "osoba",
+    "stará",
+    "starší dospělý člověk",
+    "starý"
+  ],
+  "olive": [
+    "jídlo",
+    "oliva",
+    "ovoce"
+  ],
+  "om": [
+    "hinduismus",
+    "náboženství",
+    "óm"
+  ],
+  "oman": [
+    "vlajka"
+  ],
+  "on_arrow": [
+    "kupředu",
+    "šipka",
+    "šipky s nápisem on!",
+    "značka"
+  ],
+  "oncoming_automobile": [
+    "auto",
+    "automobil",
+    "příjezd",
+    "přijíždějící",
+    "vozidlo",
+    "vůz"
+  ],
+  "oncoming_bus": [
+    "autobus",
+    "příjezd",
+    "přijíždějící",
+    "vozidlo"
+  ],
+  "oncoming_fist": [
+    "namířená pěst",
+    "pěst",
+    "ruka",
+    "tělo",
+    "úder",
+    "zaťatá"
+  ],
+  "oncoming_police_car": [
+    "auto",
+    "policie",
+    "příjezd",
+    "přijíždějící",
+    "přijíždějící policejní auto",
+    "vozidlo",
+    "vůz"
+  ],
+  "oncoming_taxi": [
+    "příjezd",
+    "přijíždějící",
+    "přijíždějící taxík",
+    "taxi",
+    "vozidlo"
+  ],
+  "one": [
+    "klávesa"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1:00",
+    "čas",
+    "hodiny",
+    "jedna",
+    "jedna hodina"
+  ],
+  "one_piece_swimsuit": [
+    "dámské plavky",
+    "jednodílné plavky"
+  ],
+  "one_thirty": [
+    "1",
+    "1:30",
+    "30",
+    "hodiny",
+    "jedna",
+    "půl druhé",
+    "třicet"
+  ],
+  "onion": [
+    "cibule",
+    "koření",
+    "ochucování",
+    "zelenina"
+  ],
+  "open_book": [
+    "kniha",
+    "otevřená kniha",
+    "otevřený"
+  ],
+  "open_file_folder": [
+    "dokumenty",
+    "otevřená složka",
+    "otevřený",
+    "složka"
+  ],
+  "open_hands": [
+    "otevřený",
+    "rozevřené dlaně",
+    "ruka",
+    "tělo"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "otevřená schránka s praporkem dole",
+    "otevřený",
+    "pošta",
+    "poštovní schránka",
+    "schránka",
+    "sklopený",
+    "spuštěný"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "otevřená schránka s praporkem nahoře",
+    "otevřený",
+    "pošta",
+    "poštovní schránka",
+    "schránka"
+  ],
+  "open_mouth": [
+    "obličej s otevřenou pusou",
+    "otevřený",
+    "smajlík",
+    "soucit",
+    "tvář",
+    "ústa",
+    "výraz"
+  ],
+  "ophiuchus": [
+    "had",
+    "hadonoš",
+    "plaz",
+    "zvěrokruh"
+  ],
+  "optical_disk": [
+    "bd",
+    "blu-ray",
+    "blue-ray",
+    "cd",
+    "disk",
+    "dvd",
+    "optické",
+    "optický",
+    "počítač"
+  ],
+  "orange_book": [
+    "kniha",
+    "oranžová"
+  ],
+  "orange_circle": [
+    "kolečko",
+    "kroužek",
+    "kruh",
+    "oranžová",
+    "oranžový kroužek"
+  ],
+  "orange_heart": [
+    "oranžová",
+    "oranžové srdce",
+    "srdce"
+  ],
+  "orange_square": [
+    "čtverec",
+    "čtvereček",
+    "oranžová",
+    "oranžový čtvereček"
+  ],
+  "orangutan": [
+    "lidoop"
+  ],
+  "orthodox_cross": [
+    "křesťan",
+    "křesťanský",
+    "křesťanství",
+    "kříž",
+    "náboženství",
+    "pravoslavný kříž"
+  ],
+  "otter": [
+    "hravé",
+    "lovec ryb",
+    "loví ryby",
+    "rybařící",
+    "rybolov",
+    "vydra"
+  ],
+  "outbox_tray": [
+    "dopis",
+    "krabice",
+    "odeslaná pošta",
+    "pošta",
+    "přihrádka",
+    "přihrádka na odchozí poštu"
+  ],
+  "owl": [
+    "moudrost",
+    "pták",
+    "sova"
+  ],
+  "ox": [
+    "býk",
+    "vůl",
+    "zvěrokruh"
+  ],
+  "oyster": [
+    "perla",
+    "potápění",
+    "ústřice"
+  ],
+  "p_button": [
+    "parking",
+    "parkování",
+    "parkoviště",
+    "štítek p"
+  ],
+  "package": [
+    "balíček",
+    "balík",
+    "krabice"
+  ],
+  "page_facing_up": [
+    "dokument",
+    "strana",
+    "stránka lícem nahoru"
+  ],
+  "page_with_curl": [
+    "dokument",
+    "ohnutá",
+    "stočená",
+    "stránka",
+    "svinutá",
+    "svitek",
+    "zkroucená stránka"
+  ],
+  "paintbrush": [
+    "malba",
+    "malířství",
+    "malování",
+    "štětec"
+  ],
+  "pakistan": [
+    "vlajka"
+  ],
+  "palau": [
+    "vlajka"
+  ],
+  "palestinian_territories": [
+    "vlajka"
+  ],
+  "palm_tree": [
+    "palma",
+    "rostlina",
+    "strom"
+  ],
+  "palms_up_together": [
+    "prosba",
+    "zdvižené dlaně vedle sebe"
+  ],
+  "panama": [
+    "vlajka"
+  ],
+  "pancakes": [
+    "jídlo",
+    "lívance",
+    "palačinky"
+  ],
+  "panda": [
+    "hlava pandy",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "paperclip": [
+    "kancelářská sponka",
+    "papír",
+    "svorka"
+  ],
+  "papua_new_guinea": [
+    "vlajka"
+  ],
+  "parachute": [
+    "padák",
+    "paragliding",
+    "parašutismus",
+    "plachtění",
+    "seskok s padákem",
+    "závěsné létání"
+  ],
+  "paraguay": [
+    "vlajka"
+  ],
+  "parrot": [
+    "mluvící",
+    "papoušek",
+    "pirát",
+    "pták"
+  ],
+  "part_alternation_mark": [
+    "part",
+    "symbol",
+    "začátek",
+    "značka",
+    "značka přechodu mezi částmi skladby",
+    "znak",
+    "zpěv",
+    "zpěvák"
+  ],
+  "partying_face": [
+    "čepice",
+    "čepička",
+    "frkačka",
+    "oslava",
+    "oslavující obličej",
+    "párty"
+  ],
+  "passenger_ship": [
+    "doprava",
+    "loď",
+    "osobní",
+    "plavidlo",
+    "trajekt",
+    "zaoceánská loď"
+  ],
+  "passport_control": [
+    "kontrola",
+    "pas",
+    "pasová kontrola"
+  ],
+  "pause_button": [
+    "dvojitý",
+    "pozastavit",
+    "pruh",
+    "pruhy",
+    "sloupce",
+    "sloupec",
+    "svislé",
+    "svislý",
+    "tlačítko pozastavení",
+    "vertikální"
+  ],
+  "paw_prints": [
+    "nohy",
+    "otisk",
+    "otisky tlap",
+    "stopa",
+    "tlapa"
+  ],
+  "peace_symbol": [
+    "mír",
+    "symbol míru"
+  ],
+  "peach": [
+    "broskev",
+    "ovoce",
+    "rostlina"
+  ],
+  "peacock": [
+    "páv",
+    "pávice",
+    "pompézní",
+    "pták",
+    "pyšný"
+  ],
+  "peanuts": [
+    "arašíd",
+    "arašídy",
+    "burák",
+    "burský",
+    "jídlo",
+    "lusk",
+    "olejná",
+    "ořech",
+    "podzemnice"
+  ],
+  "pear": [
+    "hruška",
+    "ovoce",
+    "rostlina"
+  ],
+  "pen": [
+    "kuličkové",
+    "pero",
+    "propiska"
+  ],
+  "pencil": [
+    "tužka"
+  ],
+  "penguin": [
+    "pták",
+    "tučňák"
+  ],
+  "pensive_face": [
+    "obličej se skleslým výrazem",
+    "skleslý",
+    "smajlík",
+    "trudnomyslný",
+    "trudomyslný",
+    "tvář",
+    "výraz",
+    "zádumčivý",
+    "zahloubaný"
+  ],
+  "people_holding_hands": [
+    "člověk",
+    "držet",
+    "dva lidé držící se za ruce",
+    "dvojice",
+    "osoba",
+    "pár",
+    "ruka"
+  ],
+  "people_hugging": [
+    "díky",
+    "náruč",
+    "objetí",
+    "objímající se lidé",
+    "pozdrav",
+    "sbohem",
+    "vděčnost"
+  ],
+  "people_with_bunny_ears": [
+    "osoby se zaječími oušky",
+    "párty",
+    "tanec",
+    "tanečnice",
+    "tanečník",
+    "uši",
+    "zajíček"
+  ],
+  "people_wrestling": [
+    "člověk",
+    "sport",
+    "zápas",
+    "zápasící dvojice",
+    "zápasník"
+  ],
+  "performing_arts": [
+    "divadlo",
+    "herec",
+    "herectví",
+    "hra",
+    "komedie",
+    "maska",
+    "múzická umění",
+    "tragédie",
+    "umění"
+  ],
+  "persevering_face": [
+    "obličej s umíněným výrazem",
+    "smajlík",
+    "tvář",
+    "umíněnost",
+    "výraz",
+    "vytrvalost"
+  ],
+  "person": [
+    "člověk",
+    "dospělák",
+    "dospělý člověk",
+    "neutrální",
+    "osoba"
+  ],
+  "person_bald": [
+    "bez vlasů",
+    "člověk",
+    "dospělák",
+    "dospělý člověk",
+    "neutrální",
+    "osoba"
+  ],
+  "person_beard": [
+    "muž s plnovousem",
+    "plnovous",
+    "vous",
+    "vousáč"
+  ],
+  "person_biking": [
+    "cyklista",
+    "cyklistika",
+    "kolo",
+    "osoba na kole"
+  ],
+  "person_blond_hair": [
+    "blond",
+    "člověk s blond vlasy",
+    "světlé vlasy"
+  ],
+  "person_bouncing_ball": [
+    "míč",
+    "osoba driblující s míčem"
+  ],
+  "person_bowing": [
+    "gesto",
+    "lítost",
+    "omluva",
+    "poklona",
+    "prosba",
+    "úcta",
+    "uklánějící se osoba",
+    "úklona"
+  ],
+  "person_cartwheeling": [
+    "člověk",
+    "gymnastika",
+    "hvězda",
+    "osoba dělající přemet stranou",
+    "sport"
+  ],
+  "person_climbing": [
+    "horolezec",
+    "lezec",
+    "stěna"
+  ],
+  "person_curly_hair": [
+    "člověk",
+    "dospělák",
+    "dospělý člověk",
+    "kudrnaté vlasy",
+    "neutrální",
+    "osoba"
+  ],
+  "person_facepalming": [
+    "čelo",
+    "chycení",
+    "dlaň",
+    "facepalm",
+    "hlava",
+    "nevíra",
+    "osoba chytající se za hlavu",
+    "rozhořčení",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zoufalství"
+  ],
+  "person_feeding_baby": [
+    "dítě",
+    "kojenec",
+    "kojení",
+    "krmení",
+    "nemluvně",
+    "osoba",
+    "osoba krmící dítě z lahve"
+  ],
+  "person_fencing": [
+    "člověk",
+    "kord",
+    "meč",
+    "šerm",
+    "šermíř",
+    "sport"
+  ],
+  "person_frowning": [
+    "výraz",
+    "zamračená osoba",
+    "zamračení"
+  ],
+  "person_gesturing_no": [
+    "gesto",
+    "gesto nesouhlasu",
+    "ne",
+    "ruka",
+    "zákaz",
+    "zakázáno"
+  ],
+  "person_gesturing_ok": [
+    "gesto",
+    "gesto souhlasu",
+    "ok",
+    "ruka"
+  ],
+  "person_getting_haircut": [
+    "holič",
+    "kadeřník",
+    "krása",
+    "osoba u kadeřníka",
+    "salon",
+    "sestřih",
+    "stříhání",
+    "účes",
+    "vlasy"
+  ],
+  "person_getting_massage": [
+    "masáž",
+    "obličej",
+    "osoba na masáži obličeje",
+    "salon",
+    "tvář"
+  ],
+  "person_golfing": [
+    "golf",
+    "míček",
+    "osoba hrající golf"
+  ],
+  "person_in_bed": [
+    "hotel",
+    "osoba v posteli",
+    "spánek"
+  ],
+  "person_in_lotus_position": [
+    "jóga",
+    "lotos",
+    "lotosová",
+    "meditace",
+    "osoba v lotosovém sedu",
+    "pozice"
+  ],
+  "person_in_manual_wheelchair": [
+    "člověk na mechanickém invalidním vozíku",
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík"
+  ],
+  "person_in_motorized_wheelchair": [
+    "člověk na elektrickém invalidním vozíku",
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík"
+  ],
+  "person_in_steamy_room": [
+    "lázeň",
+    "lázně",
+    "osoba v sauně",
+    "pára",
+    "parní",
+    "sauna"
+  ],
+  "person_in_suit_levitating": [
+    "byznys",
+    "levitující byznysmen",
+    "muž",
+    "oblek"
+  ],
+  "person_in_tuxedo": [
+    "osoba",
+    "osoba ve smokingu",
+    "smoking",
+    "ženich"
+  ],
+  "person_juggling": [
+    "multitasking",
+    "rovnováha",
+    "šikovnost",
+    "žonglování",
+    "žonglující osoba"
+  ],
+  "person_kneeling": [
+    "klečet",
+    "klečící",
+    "klečící osoba",
+    "klek",
+    "poklek"
+  ],
+  "person_lifting_weights": [
+    "činka",
+    "osoba vzpírající činku",
+    "silák",
+    "tíha",
+    "váha",
+    "vzpěrač",
+    "vzpírání"
+  ],
+  "person_mountain_biking": [
+    "cyklista",
+    "cyklistika",
+    "hora",
+    "kolo",
+    "osoba na horském kole"
+  ],
+  "person_playing_handball": [
+    "člověk",
+    "házená",
+    "míč",
+    "osoba hrající házenou",
+    "sport"
+  ],
+  "person_playing_water_polo": [
+    "člověk",
+    "osoba hrající vodní pólo",
+    "pólo",
+    "sport",
+    "voda"
+  ],
+  "person_pouting": [
+    "podrážděná osoba",
+    "podráždění",
+    "výraz"
+  ],
+  "person_raising_hand": [
+    "gesto",
+    "osoba se zvednutou rukou",
+    "ruka",
+    "šťastný",
+    "zvednutá"
+  ],
+  "person_red_hair": [
+    "člověk",
+    "dospělák",
+    "dospělý člověk",
+    "neutrální",
+    "osoba",
+    "zrzavé vlasy"
+  ],
+  "person_rowing_boat": [
+    "člun",
+    "loďka",
+    "plavidlo",
+    "pramice",
+    "veslice",
+    "veslování",
+    "veslující osoba"
+  ],
+  "person_running": [
+    "běh",
+    "běžící osoba",
+    "maraton"
+  ],
+  "person_shrugging": [
+    "nejistota",
+    "nerozhodnost",
+    "nevědomost",
+    "nevím",
+    "nezájem",
+    "osoba krčící rameny",
+    "pochybnost",
+    "pochyby",
+    "pokrčení",
+    "pokrčit",
+    "ramena"
+  ],
+  "person_standing": [
+    "postoj",
+    "stoj",
+    "stojící",
+    "stojící osoba"
+  ],
+  "person_surfing": [
+    "osoba na surfu",
+    "prkno",
+    "surf",
+    "surfing",
+    "surfování"
+  ],
+  "person_swimming": [
+    "plavající osoba",
+    "plavání"
+  ],
+  "person_taking_bath": [
+    "koupel",
+    "koupelna",
+    "osoba ve vaně",
+    "vana"
+  ],
+  "person_tipping_hand": [
+    "concierge",
+    "drzost",
+    "informace",
+    "ironie",
+    "osoba s dlaní vzhůru",
+    "pomoc",
+    "poslíček",
+    "recepce",
+    "recepční",
+    "ruka",
+    "sarkasmus"
+  ],
+  "person_walking": [
+    "chodec",
+    "chůze",
+    "kráčející osoba",
+    "pěší",
+    "pěšky",
+    "procházka",
+    "túra"
+  ],
+  "person_wearing_turban": [
+    "člověk s turbanem",
+    "turban"
+  ],
+  "person_white_hair": [
+    "bílé vlasy",
+    "člověk",
+    "dospělák",
+    "dospělý člověk",
+    "neutrální",
+    "osoba"
+  ],
+  "person_with_skullcap": [
+    "čepice",
+    "gua pi mao",
+    "kua pchi mao",
+    "muž",
+    "muž s čínskou čepicí"
+  ],
+  "person_with_veil": [
+    "nevěsta",
+    "osoba",
+    "osoba se závojem",
+    "svatba",
+    "závoj"
+  ],
+  "person_with_white_cane": [
+    "člověk se slepeckou holí",
+    "handicap",
+    "hendikep",
+    "pomůcka",
+    "postižení",
+    "slepý",
+    "usnadnění"
+  ],
+  "peru": [
+    "vlajka"
+  ],
+  "petri_dish": [
+    "bakterie",
+    "biolog",
+    "biologie",
+    "buněčná kultura",
+    "laboratoř",
+    "petriho miska"
+  ],
+  "philippines": [
+    "vlajka"
+  ],
+  "pick": [
+    "dolování",
+    "krumpáč",
+    "nářadí"
+  ],
+  "pickup_truck": [
+    "pick-up",
+    "pickup",
+    "polododávka"
+  ],
+  "pie": [
+    "koláč",
+    "náplň",
+    "páj",
+    "pečivo"
+  ],
+  "pig": [
+    "prase",
+    "prasnice",
+    "svině"
+  ],
+  "pig_face": [
+    "hlava prasete",
+    "prase",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "pig_nose": [
+    "prase",
+    "prasečí rypák",
+    "rypáček",
+    "rypák",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "pill": [
+    "doktor",
+    "lék",
+    "lékař",
+    "nemoc",
+    "nemocný",
+    "pilulka",
+    "prášek"
+  ],
+  "pilot": [
+    "letadlo",
+    "pilot/pilotka",
+    "pilotka"
+  ],
+  "pinched_fingers": [
+    "gesto rukou",
+    "ironie",
+    "italské sarkastické gesto",
+    "otázka",
+    "prsty",
+    "sarkasmus",
+    "sevřené",
+    "špetka z pěti prstů"
+  ],
+  "pinching_hand": [
+    "gesto „málo“",
+    "malé množství",
+    "špetka",
+    "troška"
+  ],
+  "pine_decoration": [
+    "bambus",
+    "bambusové dekorace",
+    "japonský",
+    "kadomacu",
+    "kadomatsu",
+    "oslava",
+    "ozdoba",
+    "pinie",
+    "rostlina",
+    "výzdoba"
+  ],
+  "pineapple": [
+    "ananas",
+    "ovoce",
+    "rostlina"
+  ],
+  "ping_pong": [
+    "hra",
+    "míč",
+    "pálka",
+    "ping-pong",
+    "stolní tenis"
+  ],
+  "pirate_flag": [
+    "hnáty",
+    "lebka",
+    "pirát",
+    "pirátská vlajka",
+    "poklad"
+  ],
+  "pisces": [
+    "ryba",
+    "ryby",
+    "zvěrokruh"
+  ],
+  "pitcairn_islands": [
+    "vlajka"
+  ],
+  "pizza": [
+    "díl",
+    "dílek",
+    "klínek",
+    "kousek",
+    "salám",
+    "salámová",
+    "sýr",
+    "sýrová"
+  ],
+  "piñata": [
+    "oslava",
+    "party"
+  ],
+  "placard": [
+    "cedule",
+    "demonstrace",
+    "poutač",
+    "protest",
+    "transparent"
+  ],
+  "place_of_worship": [
+    "modlitebna",
+    "náboženství",
+    "svatostánek",
+    "víra"
+  ],
+  "play_button": [
+    "přehrát",
+    "šipka",
+    "tlačítko přehrávání",
+    "trojúhelník",
+    "vpravo"
+  ],
+  "play_or_pause_button": [
+    "pozastavit",
+    "přehrát",
+    "šipka",
+    "tlačítko přehrávání nebo pozastavení",
+    "trojúhelník",
+    "vpravo"
+  ],
+  "pleading_face": [
+    "milost",
+    "prosba",
+    "prosebný obličej",
+    "psí oči",
+    "slitování",
+    "žadonění"
+  ],
+  "plunger": [
+    "instalatér",
+    "podtlak",
+    "toaleta",
+    "ucpaný",
+    "záchod",
+    "zvon na wc"
+  ],
+  "plus": [
+    "+",
+    "matematika",
+    "sčítání",
+    "součet",
+    "znak plus"
+  ],
+  "poland": [
+    "vlajka"
+  ],
+  "polar_bear": [
+    "arktida",
+    "bílý",
+    "hlava ledního medvěda",
+    "lední",
+    "medvěd"
+  ],
+  "police_car": [
+    "auto",
+    "hlídka",
+    "policejní auto",
+    "policie",
+    "vozidlo"
+  ],
+  "police_car_light": [
+    "auto",
+    "maják",
+    "otáčecí",
+    "policejní maják",
+    "policie",
+    "siréna",
+    "světlo",
+    "vozidlo"
+  ],
+  "police_officer": [
+    "policajt",
+    "policie",
+    "policista",
+    "strážník"
+  ],
+  "poodle": [
+    "domácí",
+    "mazlíček",
+    "pes",
+    "pudl"
+  ],
+  "pool_8_ball": [
+    "8",
+    "biliár",
+    "billiard",
+    "hra",
+    "koule",
+    "kulečník",
+    "kulečníková koule 8",
+    "osm",
+    "pool"
+  ],
+  "poop": [
+    "hovínko",
+    "hromádka",
+    "obrázek",
+    "příšera",
+    "smajlík",
+    "tvář",
+    "výkal",
+    "výraz"
+  ],
+  "popcorn": [
+    "popkorn",
+    "pražená kukuřice",
+    "pukance",
+    "pukánky"
+  ],
+  "portugal": [
+    "vlajka"
+  ],
+  "post_office": [
+    "budova",
+    "evropský",
+    "pošta"
+  ],
+  "postal_horn": [
+    "polnice",
+    "pošta",
+    "postiliónský",
+    "poštovní",
+    "roh",
+    "trubka"
+  ],
+  "postbox": [
+    "pošta",
+    "poštovní schránka",
+    "schránka"
+  ],
+  "pot_of_food": [
+    "guláš",
+    "hrnec",
+    "hrnec jídla",
+    "polévka"
+  ],
+  "potable_water": [
+    "kohoutek",
+    "nápoj",
+    "pití",
+    "pitná",
+    "voda"
+  ],
+  "potato": [
+    "brambor",
+    "brambora",
+    "jídlo",
+    "zelenina"
+  ],
+  "potted_plant": [
+    "dům",
+    "květina v květináči",
+    "nuda",
+    "nudný",
+    "péče",
+    "rostlina",
+    "růst"
+  ],
+  "poultry_leg": [
+    "drůbež",
+    "kost",
+    "kuře",
+    "kuřecí stehýnko",
+    "noha",
+    "stehno"
+  ],
+  "pound_banknote": [
+    "banka",
+    "bankovka",
+    "libra",
+    "librová bankovka",
+    "měna",
+    "peníze"
+  ],
+  "pouting_cat": [
+    "hněv",
+    "kočičí obličej s podrážděným výrazem",
+    "kočka",
+    "naštvaný",
+    "nazlobený",
+    "podráždění",
+    "podrážděný",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "vztek",
+    "zloba",
+    "zlost",
+    "zuřivý"
+  ],
+  "prayer_beads": [
+    "korálky",
+    "modlitba",
+    "modlitební",
+    "náboženství",
+    "náhrdelník",
+    "oblečení",
+    "růženec"
+  ],
+  "pregnant_woman": [
+    "těhotenství",
+    "těhotná",
+    "žena"
+  ],
+  "pretzel": [
+    "jídlo",
+    "kroucené",
+    "pečivo",
+    "preclík"
+  ],
+  "prince": [
+    "fantasy",
+    "pohádka",
+    "princ"
+  ],
+  "princess": [
+    "fantasy",
+    "pohádka",
+    "princezna"
+  ],
+  "printer": [
+    "počítač",
+    "tiskárna"
+  ],
+  "prohibited": [
+    "vstup",
+    "zákaz",
+    "zakázán",
+    "zakázáno"
+  ],
+  "puerto_rico": [
+    "vlajka"
+  ],
+  "purple_circle": [
+    "fialová",
+    "fialový kroužek",
+    "kolečko",
+    "kroužek",
+    "kruh"
+  ],
+  "purple_heart": [
+    "fialová",
+    "fialové srdce",
+    "srdce"
+  ],
+  "purple_square": [
+    "čtverec",
+    "čtvereček",
+    "fialová",
+    "fialový čtvereček"
+  ],
+  "purse": [
+    "mince",
+    "oblečení",
+    "peněženka"
+  ],
+  "pushpin": [
+    "napínáček",
+    "připínáček",
+    "špendlík"
+  ],
+  "puzzle_piece": [
+    "dílek",
+    "dílky",
+    "puzzle",
+    "skládačka"
+  ],
+  "qatar": [
+    "vlajka"
+  ],
+  "rabbit": [
+    "domácí",
+    "králík",
+    "mazlíček",
+    "ušák",
+    "zajíc"
+  ],
+  "rabbit_face": [
+    "domácí",
+    "hlava králíka",
+    "králík",
+    "mazlíček",
+    "smajlík",
+    "tvář",
+    "ušák",
+    "výraz",
+    "zajíc"
+  ],
+  "raccoon": [
+    "medvídek",
+    "mýval",
+    "zvědavý"
+  ],
+  "racing_car": [
+    "auto",
+    "formule",
+    "závod"
+  ],
+  "radio": [
+    "rádio",
+    "radiopřijímač",
+    "tranzistor",
+    "tranzistorové"
+  ],
+  "radio_button": [
+    "geometrie",
+    "kulaté",
+    "přepínač",
+    "přepínací",
+    "rádio",
+    "tlačítko"
+  ],
+  "radioactive": [
+    "radioaktivita",
+    "radioaktivity",
+    "značka"
+  ],
+  "railway_car": [
+    "elektrický",
+    "tramvaj",
+    "trolejbus",
+    "vagón",
+    "vlak",
+    "vozidlo",
+    "železnice"
+  ],
+  "railway_track": [
+    "koleje",
+    "vlak",
+    "železnice",
+    "železniční trať"
+  ],
+  "rainbow": [
+    "déšť",
+    "duha",
+    "počasí"
+  ],
+  "rainbow_flag": [
+    "duha",
+    "duhová vlajka",
+    "prapor",
+    "praporek",
+    "vlajka"
+  ],
+  "raised_back_of_hand": [
+    "hřbet",
+    "hřbet zvednuté ruky",
+    "ruka",
+    "zdvižená",
+    "zvednutá"
+  ],
+  "raised_fist": [
+    "pěst",
+    "ruka",
+    "tělo",
+    "úder",
+    "zaťatá",
+    "zvednutá pěst"
+  ],
+  "raised_hand": [
+    "ruka",
+    "tělo",
+    "zvednutá ruka"
+  ],
+  "raising_hands": [
+    "gesto",
+    "hurá",
+    "oslava",
+    "ruka",
+    "tělo",
+    "zdvižená",
+    "zvednutá",
+    "zvednuté ruce"
+  ],
+  "ram": [
+    "beran",
+    "ovce",
+    "samec",
+    "zvěrokruh"
+  ],
+  "rat": [
+    "krysa",
+    "potkan"
+  ],
+  "razor": [
+    "břitva",
+    "holení",
+    "holicí",
+    "holit",
+    "oholit",
+    "ostrý"
+  ],
+  "receipt": [
+    "doklad",
+    "potvrzení",
+    "stvrzenka",
+    "účetnictví",
+    "účtenka"
+  ],
+  "record_button": [
+    "kolečko",
+    "kroužek",
+    "kruh",
+    "nahrát",
+    "tlačítko nahrávání",
+    "záznam"
+  ],
+  "recycling_symbol": [
+    "recyklace",
+    "symbol recyklace"
+  ],
+  "red_apple": [
+    "červená",
+    "červené jablko",
+    "jablko",
+    "ovoce",
+    "rostlina"
+  ],
+  "red_circle": [
+    "červená",
+    "červený kroužek",
+    "geometrie",
+    "kruh"
+  ],
+  "red_envelope": [
+    "červená obálka",
+    "dárek",
+    "hongbao",
+    "lai see",
+    "peníze",
+    "štěstí"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "interpunkční znaménka",
+    "vykřičník"
+  ],
+  "red_paper_lantern": [
+    "červená",
+    "červený lampion",
+    "japonský",
+    "lucerna",
+    "světlo"
+  ],
+  "red_question_mark": [
+    "?",
+    "interpunkční znaménka",
+    "otazník"
+  ],
+  "red_square": [
+    "červená",
+    "červený čtvereček",
+    "čtverec",
+    "čtvereček"
+  ],
+  "red_triangle_pointed_down": [
+    "červená",
+    "červený trojúhelník mířící dolů",
+    "dolů",
+    "geometrie"
+  ],
+  "red_triangle_pointed_up": [
+    "červená",
+    "červený trojúhelník mířící nahoru",
+    "geometrie"
+  ],
+  "registered": [
+    "ochranná známka",
+    "r",
+    "registrováno",
+    "znak registrované ochranné známky"
+  ],
+  "relieved_face": [
+    "obličej s výrazem úlevy",
+    "smajlík",
+    "tvář",
+    "úleva",
+    "výraz"
+  ],
+  "reminder_ribbon": [
+    "angažovanost",
+    "kauza",
+    "mašle",
+    "oslava",
+    "památka",
+    "podpora",
+    "připomínka",
+    "symbol",
+    "symbolická stužka"
+  ],
+  "repeat_button": [
+    "opakovat",
+    "šipka",
+    "tlačítko opakování",
+    "ve směru hodinových ručiček"
+  ],
+  "repeat_single_button": [
+    "jedna",
+    "šipka",
+    "skladba",
+    "směru hodin",
+    "směru hodinových ručiček",
+    "stopa",
+    "tlačítko opakování jedné stopy"
+  ],
+  "rescue_worker_s_helmet": [
+    "čepice",
+    "helma",
+    "kříž",
+    "pomoc",
+    "přilba",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "záchrana",
+    "záchranářská helma"
+  ],
+  "restroom": [
+    "toaleta",
+    "toalety",
+    "wc",
+    "záchod"
+  ],
+  "reunion": [
+    "vlajka"
+  ],
+  "reverse_button": [
+    "opačně",
+    "opačného",
+    "šipka",
+    "tlačítko přehrávání pozpátku",
+    "trojúhelník",
+    "vlevo",
+    "zpět"
+  ],
+  "revolving_hearts": [
+    "kolo",
+    "otáčení",
+    "srdce",
+    "srdce vířící v kole",
+    "víření"
+  ],
+  "rhinoceros": [
+    "nosorožec"
+  ],
+  "ribbon": [
+    "mašle",
+    "oslava"
+  ],
+  "rice_ball": [
+    "japonská",
+    "kulička",
+    "onigiri",
+    "rýžová",
+    "rýžová koule"
+  ],
+  "rice_cracker": [
+    "rýže",
+    "rýžová sušenka",
+    "sušenka"
+  ],
+  "right_anger_bubble": [
+    "bublina",
+    "hněv",
+    "naštvaný",
+    "pravá rozzlobená bublina",
+    "vztek",
+    "zloba",
+    "zlost"
+  ],
+  "right_arrow": [
+    "hlavní",
+    "šipka",
+    "šipka doprava",
+    "směr",
+    "strany",
+    "světové",
+    "východ"
+  ],
+  "right_arrow_curving_down": [
+    "dolů",
+    "šipka",
+    "šipka doprava stáčející se dolů"
+  ],
+  "right_arrow_curving_left": [
+    "šipka",
+    "šipka doprava stáčející se doleva"
+  ],
+  "right_arrow_curving_up": [
+    "šipka",
+    "šipka doprava stáčející se nahoru"
+  ],
+  "right_facing_fist": [
+    "doprava",
+    "pěst",
+    "pěst mířící doprava"
+  ],
+  "ring": [
+    "diamant",
+    "prsten",
+    "svatba"
+  ],
+  "ringed_planet": [
+    "planeta s prstencem",
+    "saturn"
+  ],
+  "roasted_sweet_potato": [
+    "brambora",
+    "jam",
+    "opékaný",
+    "opékaný batát",
+    "sladký"
+  ],
+  "robot": [
+    "obličej robota",
+    "příšera",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "rock": [
+    "balvan",
+    "kámen",
+    "skála",
+    "šutr",
+    "těžký"
+  ],
+  "rocket": [
+    "kosmos",
+    "raketa",
+    "vesmír"
+  ],
+  "rofl": [
+    "obličej válející se smíchy",
+    "smajlík",
+    "smích",
+    "tvář",
+    "válet",
+    "výraz"
+  ],
+  "roll_eyes": [
+    "koulející",
+    "obličej s očima v sloup",
+    "oči",
+    "smajlík",
+    "tvář",
+    "v sloup",
+    "výraz"
+  ],
+  "roll_of_paper": [
+    "papírové ručníky",
+    "papírové utěrky",
+    "role papíru",
+    "toaletní papír"
+  ],
+  "rolled_up_newspaper": [
+    "noviny",
+    "papír",
+    "srolované",
+    "stočené",
+    "tisk",
+    "zprávy"
+  ],
+  "roller_coaster": [
+    "horská dráha",
+    "zábavní park"
+  ],
+  "roller_skate": [
+    "bruslení",
+    "inlajny",
+    "inline",
+    "kolečková brusle",
+    "kolečkové"
+  ],
+  "romania": [
+    "vlajka"
+  ],
+  "rooster": [
+    "kohout",
+    "pták"
+  ],
+  "rose": [
+    "květ",
+    "květina",
+    "rostlina",
+    "růže"
+  ],
+  "rosette": [
+    "květ",
+    "květina",
+    "rostlina",
+    "rozeta"
+  ],
+  "round_pushpin": [
+    "kulatý připínáček",
+    "napínáček",
+    "špendlík"
+  ],
+  "rugby_football": [
+    "míč",
+    "míč na rugby",
+    "rugby",
+    "rugbyová",
+    "rugbyový",
+    "šiška"
+  ],
+  "running_shirt": [
+    "atletika",
+    "běh",
+    "běžecké tričko",
+    "šerpa",
+    "tričko",
+    "triko",
+    "trikot"
+  ],
+  "running_shoe": [
+    "atletika",
+    "běžecká bota",
+    "bota",
+    "oblečení",
+    "sport",
+    "teniska",
+    "tretra"
+  ],
+  "russia": [
+    "vlajka"
+  ],
+  "rwanda": [
+    "vlajka"
+  ],
+  "sad_but_relieved_face": [
+    "smajlík",
+    "smutný obličej s výrazem úlevy",
+    "tvář",
+    "údiv",
+    "úleva",
+    "výraz",
+    "zklamání"
+  ],
+  "safety_pin": [
+    "pankáč",
+    "plenky",
+    "pleny",
+    "punk",
+    "spínací špendlík",
+    "zavírací špendlík"
+  ],
+  "safety_vest": [
+    "bezpečnost",
+    "bezpečnostní vesta",
+    "nouze",
+    "reflexní",
+    "vesta",
+    "výstražná"
+  ],
+  "sagittarius": [
+    "střelec",
+    "zvěrokruh"
+  ],
+  "sailboat": [
+    "dovolená",
+    "jachta",
+    "loď",
+    "moře",
+    "plachetnice",
+    "plavidlo"
+  ],
+  "sake": [
+    "bar",
+    "lahev",
+    "nápoj",
+    "pití",
+    "saké",
+    "šálek"
+  ],
+  "salt": [
+    "přísada",
+    "slánka",
+    "sůl"
+  ],
+  "samoa": [
+    "vlajka"
+  ],
+  "san_marino": [
+    "vlajka"
+  ],
+  "sandwich": [
+    "chleba",
+    "sendvič",
+    "toast",
+    "toust"
+  ],
+  "santa_claus": [
+    "fantasy",
+    "oslava",
+    "otec",
+    "pohádka",
+    "santa",
+    "vánoce"
+  ],
+  "sao_tome_principe": [
+    "vlajka"
+  ],
+  "sari": [
+    "oblečení",
+    "oděv",
+    "sárí",
+    "šaty"
+  ],
+  "satellite": [
+    "družice",
+    "kosmos",
+    "satelit",
+    "vesmír"
+  ],
+  "satellite_antenna": [
+    "anténa",
+    "satelit",
+    "satelitní anténa",
+    "talíř"
+  ],
+  "saudi_arabia": [
+    "vlajka"
+  ],
+  "sauropod": [
+    "brachiosaurus",
+    "brontosaurus",
+    "dinosaurus",
+    "diplodocus"
+  ],
+  "saxophone": [
+    "hudba",
+    "nástroj",
+    "saxofon"
+  ],
+  "scarf": [
+    "krk",
+    "šála"
+  ],
+  "school": [
+    "budova",
+    "škola"
+  ],
+  "scientist": [
+    "biolog",
+    "bioložka",
+    "chemička",
+    "chemik",
+    "fyzička",
+    "fyzik",
+    "inženýr",
+    "inženýrka",
+    "matematička",
+    "matematik",
+    "vědec",
+    "vědec/vědkyně",
+    "vědkyně"
+  ],
+  "scissors": [
+    "nástroj",
+    "nůžky",
+    "střih",
+    "stříhání"
+  ],
+  "scorpio": [
+    "štír",
+    "zvěrokruh"
+  ],
+  "scorpion": [
+    "škorpion",
+    "štír",
+    "zvěrokruh"
+  ],
+  "scotland": [
+    "vlajka"
+  ],
+  "scream": [
+    "děs",
+    "hrůza",
+    "munch",
+    "obličej křičící hrůzou",
+    "smajlík",
+    "strach",
+    "tvář",
+    "výkřik",
+    "výraz"
+  ],
+  "screwdriver": [
+    "nástroj",
+    "šroub",
+    "šroubovák",
+    "šroubovat"
+  ],
+  "scroll": [
+    "papír",
+    "svitek"
+  ],
+  "seal": [
+    "lachtan",
+    "lvoun",
+    "tuleň"
+  ],
+  "seat": [
+    "křeslo",
+    "místo",
+    "sedadlo",
+    "sezení"
+  ],
+  "see_no_evil_monkey": [
+    "gesto",
+    "ne",
+    "opice",
+    "opička „nic nevidím“",
+    "smajlík",
+    "tvář",
+    "vidět",
+    "výraz",
+    "zákaz",
+    "zakázáno",
+    "zlo"
+  ],
+  "seedling": [
+    "klíček",
+    "klíčící",
+    "mladý",
+    "rostlina",
+    "výhonek"
+  ],
+  "selfie": [
+    "fotoaparát",
+    "selfíčko",
+    "telefon"
+  ],
+  "senegal": [
+    "vlajka"
+  ],
+  "serbia": [
+    "vlajka"
+  ],
+  "service_dog": [
+    "asistence",
+    "pes",
+    "pomoc",
+    "postižení",
+    "služba",
+    "služební pes"
+  ],
+  "seven": [
+    "klávesa"
+  ],
+  "seven_o_clock": [
+    "00",
+    "7",
+    "7:00",
+    "čas",
+    "hodiny",
+    "sedm",
+    "sedm hodin"
+  ],
+  "seven_thirty": [
+    "30",
+    "7",
+    "7:30",
+    "hodiny",
+    "půl osmé",
+    "sedm",
+    "třicet"
+  ],
+  "sewing_needle": [
+    "jehla",
+    "krejčovina",
+    "šicí jehla",
+    "šití",
+    "stehy",
+    "švy",
+    "vyšívání",
+    "výšivka"
+  ],
+  "seychelles": [
+    "vlajka"
+  ],
+  "shallow_pan_of_food": [
+    "jídlo",
+    "kastrol",
+    "mělký",
+    "mělký rendlík s jídlem",
+    "paella",
+    "pánev"
+  ],
+  "shamrock": [
+    "jetel",
+    "rostlina",
+    "trojlístek"
+  ],
+  "shark": [
+    "ryba",
+    "žralok"
+  ],
+  "shaved_ice": [
+    "cukrovinka",
+    "dezert",
+    "led",
+    "ledová tříšť",
+    "sladkost",
+    "sladký",
+    "tříšť",
+    "zákusek"
+  ],
+  "sheaf_of_rice": [
+    "klas",
+    "obilí",
+    "otep",
+    "rostlina",
+    "rýže",
+    "rýžové klasy",
+    "snop",
+    "zrno"
+  ],
+  "shield": [
+    "štít",
+    "zbraň"
+  ],
+  "shinto_shrine": [
+    "náboženství",
+    "šintoismus",
+    "šintoistická svatyně",
+    "svatyně"
+  ],
+  "ship": [
+    "doprava",
+    "loď",
+    "osobní",
+    "plavidlo"
+  ],
+  "shooting_star": [
+    "hvězda",
+    "kometa",
+    "padající",
+    "vesmír"
+  ],
+  "shopping_bags": [
+    "hotel",
+    "nákupní tašky",
+    "nakupování",
+    "nákupy",
+    "zavazadlo"
+  ],
+  "shopping_cart": [
+    "košík",
+    "nákupní",
+    "nakupování",
+    "vozík"
+  ],
+  "shortcake": [
+    "cukrovinka",
+    "dezert",
+    "dort",
+    "dortový řez",
+    "kousek",
+    "sladkost",
+    "sladký",
+    "zákusek"
+  ],
+  "shorts": [
+    "jednodílné",
+    "kraťasy",
+    "krátké kalhoty",
+    "plavky",
+    "šortky",
+    "spodky",
+    "trenýrky"
+  ],
+  "shower": [
+    "koupelna",
+    "sprcha",
+    "voda"
+  ],
+  "shrimp": [
+    "garnát",
+    "jídlo",
+    "korýš",
+    "kreveta"
+  ],
+  "shuffle_tracks_button": [
+    "šipka",
+    "šipky",
+    "tlačítko náhodného přehrávání",
+    "zkřížené",
+    "zkřížení"
+  ],
+  "shushing_face": [
+    "obličej s prstem na puse",
+    "pst",
+    "pšt",
+    "ticho",
+    "tiše",
+    "tišit",
+    "utišit"
+  ],
+  "sierra_leone": [
+    "vlajka"
+  ],
+  "sign_of_the_horns": [
+    "gesto parohů",
+    "paroháč",
+    "parohy",
+    "prst",
+    "rock",
+    "rohy",
+    "ruka",
+    "tělo"
+  ],
+  "singapore": [
+    "vlajka"
+  ],
+  "singer": [
+    "bavič",
+    "bavička",
+    "herec",
+    "herečka",
+    "hvězda",
+    "rocker",
+    "rockerka",
+    "zpěvačka",
+    "zpěvák",
+    "zpěvák/zpěvačka"
+  ],
+  "sint_maarten": [
+    "vlajka"
+  ],
+  "six": [
+    "klávesa"
+  ],
+  "six_o_clock": [
+    "00",
+    "6",
+    "6:00",
+    "čas",
+    "hodiny",
+    "šest",
+    "šest hodin"
+  ],
+  "six_thirty": [
+    "30",
+    "6",
+    "6:30",
+    "hodiny",
+    "půl sedmé",
+    "šest",
+    "třicet"
+  ],
+  "skateboard": [
+    "prkno",
+    "skejt"
+  ],
+  "skier": [
+    "lyžař",
+    "lyže",
+    "sníh"
+  ],
+  "skis": [
+    "lyže",
+    "lyžování",
+    "sníh"
+  ],
+  "skull": [
+    "lebka",
+    "pohádka",
+    "příšera",
+    "smajlík",
+    "smrt",
+    "tělo",
+    "tvář",
+    "výraz"
+  ],
+  "skull_and_crossbones": [
+    "lebka",
+    "lebka a zkřížené hnáty",
+    "příšera",
+    "smajlík",
+    "smrt",
+    "tělo",
+    "tvář",
+    "výraz",
+    "zkřížené hnáty"
+  ],
+  "skunk": [
+    "páchne",
+    "páchnoucí",
+    "smrad",
+    "smradlavé",
+    "smrdí"
+  ],
+  "sled": [
+    "saně",
+    "sáně",
+    "sáňky"
+  ],
+  "sleeping_face": [
+    "chrr",
+    "smajlík",
+    "spánek",
+    "spící obličej",
+    "tvář",
+    "výraz",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "ospalý obličej",
+    "smajlík",
+    "spánek",
+    "tvář",
+    "výraz"
+  ],
+  "slightly_frowning_face": [
+    "mírně zamračený obličej",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zamračení"
+  ],
+  "slightly_smiling_face": [
+    "obličej s mírným úsměvem",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "výraz"
+  ],
+  "slot_machine": [
+    "automat",
+    "hra",
+    "výherní automat"
+  ],
+  "sloth": [
+    "lenochod",
+    "lenost",
+    "líný",
+    "pomalý"
+  ],
+  "slovakia": [
+    "vlajka"
+  ],
+  "slovenia": [
+    "vlajka"
+  ],
+  "small_airplane": [
+    "doprava",
+    "letoun",
+    "malé letadlo"
+  ],
+  "small_blue_diamond": [
+    "geometrie",
+    "kosočtverec",
+    "malý modrý kosočtverec",
+    "modrá"
+  ],
+  "small_orange_diamond": [
+    "geometrie",
+    "kosočtverec",
+    "malý oranžový kosočtverec",
+    "oranžová"
+  ],
+  "smiley": [
+    "otevřený",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "ústa",
+    "výraz",
+    "zubící se obličej s velkýma očima"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "kočka",
+    "láska",
+    "oko",
+    "smajlík",
+    "srdce",
+    "tvář",
+    "úsměv",
+    "usmívající se kočka se srdíčky místo očí",
+    "výraz"
+  ],
+  "smiling_face": [
+    "pohoda",
+    "silueta",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "usmívající se obličej",
+    "výraz"
+  ],
+  "smiling_face_with_horns": [
+    "fantasy",
+    "pohádka",
+    "rohy",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "usmívající se obličej s rohy",
+    "výraz"
+  ],
+  "smiling_face_with_sunglasses": [
+    "brýle",
+    "cool",
+    "frajer",
+    "jasno",
+    "oko",
+    "počasí",
+    "slunce",
+    "sluneční brýle",
+    "smajlík",
+    "tvář",
+    "úsměv",
+    "usmívající se obličej s brýlemi",
+    "výraz"
+  ],
+  "smiling_face_with_tear": [
+    "dojatý",
+    "hrdý",
+    "slza",
+    "smajlík",
+    "tvář",
+    "úleva",
+    "úsměv",
+    "usmívající",
+    "usmívající se obličej se slzou",
+    "vděčný",
+    "výraz"
+  ],
+  "smiling_face_with_three_hearts": [
+    "láska",
+    "usmívající se obličej se třemi srdíčky",
+    "zamilovanost",
+    "zbožňování"
+  ],
+  "smirking_face": [
+    "drzost",
+    "drzý",
+    "smajlík",
+    "tvář",
+    "úšklebek",
+    "ušklíbající se obličej",
+    "výraz"
+  ],
+  "snail": [
+    "hlemýžď",
+    "šnek"
+  ],
+  "snake": [
+    "had",
+    "hadonoš",
+    "plaz",
+    "zvěrokruh"
+  ],
+  "sneezing_face": [
+    "kýchající obličej",
+    "kýchat",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "snow_capped_mountain": [
+    "hora",
+    "sníh",
+    "zasněžená hora",
+    "zima"
+  ],
+  "snowboarder": [
+    "lyže",
+    "sníh",
+    "snowboard",
+    "snowboardista"
+  ],
+  "snowflake": [
+    "počasí",
+    "sněhová vločka",
+    "sníh",
+    "zima"
+  ],
+  "snowman": [
+    "počasí",
+    "sněhulák",
+    "sníh",
+    "zima"
+  ],
+  "snowman_without_snow": [
+    "počasí",
+    "sněhulák",
+    "sněhulák bez sněhu",
+    "sníh",
+    "zima"
+  ],
+  "soap": [
+    "kostka",
+    "koupel",
+    "miska na mýdlo",
+    "mydlení",
+    "mýdlo",
+    "mytí"
+  ],
+  "sob": [
+    "nářek",
+    "pláč",
+    "slza",
+    "smajlík",
+    "smutek",
+    "tvář",
+    "výraz",
+    "zoufale plačící obličej"
+  ],
+  "soccer_ball": [
+    "fotbal",
+    "fotbalový míč",
+    "míč"
+  ],
+  "socks": [
+    "ponožky",
+    "punčochy"
+  ],
+  "soft_ice_cream": [
+    "cukrovinka",
+    "dezert",
+    "jemný",
+    "kornout",
+    "kornoutek",
+    "sladkost",
+    "sladký",
+    "točená zmrzlina",
+    "zákusek",
+    "zmrzlina"
+  ],
+  "softball": [
+    "míč",
+    "rukavice",
+    "softballový míček"
+  ],
+  "solomon_islands": [
+    "vlajka"
+  ],
+  "somalia": [
+    "vlajka"
+  ],
+  "soon_arrow": [
+    "brzy",
+    "šipka",
+    "šipka s nápisem soon"
+  ],
+  "sos_button": [
+    "pomoc",
+    "sos",
+    "štítek sos"
+  ],
+  "south_africa": [
+    "vlajka"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "vlajka"
+  ],
+  "south_korea": [
+    "vlajka"
+  ],
+  "south_sudan": [
+    "vlajka"
+  ],
+  "spade_suit": [
+    "barva",
+    "hra",
+    "karta",
+    "piky"
+  ],
+  "spaghetti": [
+    "špagety",
+    "těstoviny"
+  ],
+  "spain": [
+    "vlajka"
+  ],
+  "sparkle": [
+    "*",
+    "jiskérka",
+    "jiskra",
+    "jiskřička"
+  ],
+  "sparkler": [
+    "jiskra",
+    "ohňostroj",
+    "oslava",
+    "prskavka"
+  ],
+  "sparkles": [
+    "*",
+    "hvězda",
+    "jiskra",
+    "jiskry"
+  ],
+  "sparkling_heart": [
+    "jiskra",
+    "jiskřící srdce",
+    "srdce",
+    "vzrušení"
+  ],
+  "speak_no_evil_monkey": [
+    "gesto",
+    "mluvit",
+    "ne",
+    "opice",
+    "opička „nic nepovím“",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zákaz",
+    "zakázáno",
+    "zlo"
+  ],
+  "speaker_high_volume": [
+    "hlasitý",
+    "nahlas",
+    "reproduktor"
+  ],
+  "speaker_low_volume": [
+    "mírný",
+    "tichý",
+    "tiše hrající reproduktor",
+    "tlumený"
+  ],
+  "speaker_medium_volume": [
+    "hlasitý",
+    "reproduktor",
+    "středně",
+    "tlampač"
+  ],
+  "speaking_head": [
+    "hlava",
+    "mluvící hlava",
+    "mluvit",
+    "řeč",
+    "silueta",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "speech_balloon": [
+    "bublina",
+    "dialog",
+    "komiks",
+    "řeč",
+    "řečová bublina"
+  ],
+  "speedboat": [
+    "člun",
+    "loď",
+    "motorový člun",
+    "plavidlo"
+  ],
+  "spider": [
+    "hmyz",
+    "pavouk"
+  ],
+  "spider_web": [
+    "pavoučí",
+    "pavouk",
+    "pavučina",
+    "síť"
+  ],
+  "spiral_calendar": [
+    "kalendář",
+    "kroužkový kalendář",
+    "kroužky",
+    "spirálový"
+  ],
+  "spiral_notepad": [
+    "blok",
+    "kroužkový zápisník",
+    "kroužky",
+    "poznámky",
+    "spirálový",
+    "zápisky"
+  ],
+  "spiral_shell": [
+    "lastura",
+    "mušle",
+    "škeble",
+    "spirála",
+    "ulita"
+  ],
+  "sponge": [
+    "houba",
+    "koupelová",
+    "mycí houba",
+    "mytí",
+    "porézní",
+    "savá"
+  ],
+  "spoon": [
+    "lžíce",
+    "příbor"
+  ],
+  "sport_utility_vehicle": [
+    "auto",
+    "džíp",
+    "jeep",
+    "rekreace",
+    "rekreační",
+    "sport",
+    "suv",
+    "vozidlo",
+    "vůz"
+  ],
+  "sports_medal": [
+    "medaile"
+  ],
+  "spouting_whale": [
+    "odfukující",
+    "smajlík",
+    "stříkající",
+    "tvář",
+    "velryba",
+    "velryba stříkající vodu",
+    "vodotrysk",
+    "výraz"
+  ],
+  "squid": [
+    "hlavonožec",
+    "jídlo",
+    "kalamár",
+    "měkkýš",
+    "oliheň",
+    "sépie"
+  ],
+  "squinting_face_with_tongue": [
+    "chuť",
+    "děs",
+    "jazyk",
+    "mžourající obličej s vypláznutým jazykem",
+    "oko",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "sri_lanka": [
+    "vlajka"
+  ],
+  "st_barthelemy": [
+    "vlajka"
+  ],
+  "st_helena": [
+    "vlajka"
+  ],
+  "st_kitts_nevis": [
+    "vlajka"
+  ],
+  "st_lucia": [
+    "vlajka"
+  ],
+  "st_martin": [
+    "vlajka"
+  ],
+  "st_pierre_miquelon": [
+    "vlajka"
+  ],
+  "st_vincent_grenadines": [
+    "vlajka"
+  ],
+  "stadium": [
+    "stadion"
+  ],
+  "star": [
+    "bílá hvězda střední velikosti",
+    "hvězda"
+  ],
+  "star_and_crescent": [
+    "hvězda a půlměsíc",
+    "islám",
+    "islámský",
+    "muslim",
+    "muslimský",
+    "náboženství"
+  ],
+  "star_of_david": [
+    "david",
+    "davidova hvězda",
+    "hvězda",
+    "náboženství",
+    "žid",
+    "židovský"
+  ],
+  "star_struck": [
+    "hvězda",
+    "obličej s hvězdami v očích",
+    "oči",
+    "šklebící",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "station": [
+    "nástupiště",
+    "peron",
+    "stanice",
+    "vlak",
+    "vozidlo",
+    "zastávka",
+    "železnice"
+  ],
+  "statue_of_liberty": [
+    "socha",
+    "socha svobody",
+    "svoboda"
+  ],
+  "steaming_bowl": [
+    "miska",
+    "miska nudlí",
+    "nudle",
+    "pára",
+    "ramen"
+  ],
+  "stethoscope": [
+    "doktor",
+    "lékař",
+    "lékařství",
+    "medicína",
+    "srdce",
+    "stetoskop"
+  ],
+  "stop_button": [
+    "čtverec",
+    "stop",
+    "tlačítko zastavení",
+    "zastavit"
+  ],
+  "stop_sign": [
+    "jednosměrka",
+    "osmiúhelník",
+    "stop",
+    "zákaz",
+    "zastavit",
+    "značka"
+  ],
+  "stopwatch": [
+    "čas",
+    "časomíra",
+    "hodiny",
+    "stopky"
+  ],
+  "straight_ruler": [
+    "dlouhé",
+    "pravítko",
+    "rovné pravítko"
+  ],
+  "strawberry": [
+    "jahoda",
+    "ovoce",
+    "rostlina"
+  ],
+  "student": [
+    "absolvent",
+    "absolventka",
+    "studentka",
+    "studující"
+  ],
+  "studio_microphone": [
+    "hudba",
+    "mikrofon",
+    "studio",
+    "studiový mikrofon"
+  ],
+  "stuffed_flatbread": [
+    "falafel",
+    "gyros",
+    "jídlo",
+    "kebab",
+    "plněná pita",
+    "plněný",
+    "sendvič"
+  ],
+  "sudan": [
+    "vlajka"
+  ],
+  "sun": [
+    "jasný",
+    "paprsky",
+    "počasí",
+    "slunce",
+    "slunečno",
+    "vesmír"
+  ],
+  "sun_behind_cloud": [
+    "mrak",
+    "oblak",
+    "počasí",
+    "slunce",
+    "slunce za mrakem"
+  ],
+  "sun_behind_large_cloud": [
+    "mrak",
+    "oblak",
+    "počasí",
+    "slunce",
+    "slunce za velkým mrakem"
+  ],
+  "sun_behind_rain_cloud": [
+    "déšť",
+    "mrak",
+    "oblak",
+    "počasí",
+    "slunce",
+    "slunce za dešťovým mrakem"
+  ],
+  "sun_behind_small_cloud": [
+    "mráček",
+    "mrak",
+    "obláček",
+    "oblak",
+    "počasí",
+    "polojasno",
+    "slunce",
+    "slunce za malým mrakem"
+  ],
+  "sun_with_face": [
+    "jasný",
+    "počasí",
+    "slunce",
+    "slunce s obličejem",
+    "smajlík",
+    "tvář",
+    "vesmír",
+    "výraz"
+  ],
+  "sunflower": [
+    "květ",
+    "květina",
+    "rostlina",
+    "slunce",
+    "slunečnice"
+  ],
+  "sunglasses": [
+    "brýle",
+    "oko",
+    "skla",
+    "sluneční brýle",
+    "tmavé"
+  ],
+  "sunrise": [
+    "počasí",
+    "ráno",
+    "slunce",
+    "východ slunce"
+  ],
+  "sunrise_over_mountains": [
+    "hora",
+    "počasí",
+    "ráno",
+    "slunce",
+    "svítání",
+    "svítání nad horami"
+  ],
+  "sunset": [
+    "počasí",
+    "slunce",
+    "soumrak",
+    "večer",
+    "západ"
+  ],
+  "superhero": [
+    "hrdina",
+    "hrdinka",
+    "kladná postava",
+    "superhrdina",
+    "superhrdinka",
+    "superhrdinská postava",
+    "superschopnost"
+  ],
+  "supervillain": [
+    "superpadouch",
+    "superschopnost",
+    "superzločinec",
+    "superzloduch",
+    "záporná postava",
+    "zločinec"
+  ],
+  "suriname": [
+    "vlajka"
+  ],
+  "sushi": [
+    "suši"
+  ],
+  "suspension_railway": [
+    "lanovka",
+    "tramvaj",
+    "vozidlo",
+    "závěsná",
+    "železnice"
+  ],
+  "svalbard_jan_mayen": [
+    "vlajka"
+  ],
+  "swan": [
+    "bílý",
+    "labuť",
+    "ošklivé káčátko",
+    "pták",
+    "vznešený"
+  ],
+  "sweat_droplets": [
+    "cákání",
+    "kapky",
+    "kapky potu",
+    "komiks",
+    "pot"
+  ],
+  "sweat_smile": [
+    "otevřený",
+    "pot",
+    "smajlík",
+    "studený",
+    "tvář",
+    "úsměv",
+    "výraz",
+    "zubící se obličej s kapkou potu"
+  ],
+  "sweden": [
+    "vlajka"
+  ],
+  "switzerland": [
+    "vlajka"
+  ],
+  "synagogue": [
+    "chrám",
+    "náboženství",
+    "synagoga",
+    "žid",
+    "židovský"
+  ],
+  "syria": [
+    "vlajka"
+  ],
+  "syringe": [
+    "dávka",
+    "doktor",
+    "injekce",
+    "injekční stříkačka",
+    "jehla",
+    "lék",
+    "lékař",
+    "nástroj",
+    "nemoc",
+    "nemocný",
+    "očkování"
+  ],
+  "t_rex": [
+    "dinosaurus",
+    "t-rex",
+    "tyranosaurus rex"
+  ],
+  "t_shirt": [
+    "košile",
+    "oblečení",
+    "tričko",
+    "triko"
+  ],
+  "taco": [
+    "jídlo",
+    "mexické",
+    "tacos"
+  ],
+  "tada": [
+    "konfetovač",
+    "oslava",
+    "párty",
+    "tadá",
+    "trubka",
+    "vystřelovací konfety"
+  ],
+  "taiwan": [
+    "vlajka"
+  ],
+  "tajikistan": [
+    "vlajka"
+  ],
+  "takeout_box": [
+    "jídlo",
+    "krabice na jídlo",
+    "krabička"
+  ],
+  "tamale": [
+    "mexický",
+    "tamales",
+    "wrap"
+  ],
+  "tanabata_tree": [
+    "japonský",
+    "lístek",
+    "oslava",
+    "strom",
+    "strom přání",
+    "tanabata",
+    "zástava"
+  ],
+  "tangerine": [
+    "mandarinka",
+    "oranžová",
+    "ovoce",
+    "rostlina"
+  ],
+  "tanzania": [
+    "vlajka"
+  ],
+  "taurus": [
+    "býk",
+    "vůl",
+    "zvěrokruh"
+  ],
+  "taxi": [
+    "taxík",
+    "vozidlo"
+  ],
+  "teacher": [
+    "instruktor",
+    "instruktorka",
+    "profesor",
+    "profesorka",
+    "učitel",
+    "učitelka",
+    "vyučující"
+  ],
+  "teacup_without_handle": [
+    "čaj",
+    "nápoj",
+    "pití",
+    "šálek",
+    "šálek bez ouška"
+  ],
+  "teapot": [
+    "čaj",
+    "čajník",
+    "čajová konvice",
+    "konvice",
+    "nápoj",
+    "pití"
+  ],
+  "tear_off_calendar": [
+    "kalendář",
+    "trhací kalendář"
+  ],
+  "technologist": [
+    "kodér",
+    "kodérka",
+    "programátor/programátorka",
+    "software",
+    "technologie",
+    "vynálezce",
+    "vynálezkyně",
+    "vývojář",
+    "vývojářka"
+  ],
+  "teddy_bear": [
+    "hračka",
+    "medvídek",
+    "plyšák",
+    "plyšový"
+  ],
+  "telephone": [
+    "telefon"
+  ],
+  "telephone_receiver": [
+    "mikrotelefon",
+    "sluchátko",
+    "telefon",
+    "telefonní sluchátko"
+  ],
+  "telescope": [
+    "dalekohled",
+    "hvězdářský",
+    "nástroj",
+    "teleskop",
+    "věda",
+    "vědecký"
+  ],
+  "television": [
+    "přijímač",
+    "televize",
+    "televizní",
+    "televizor",
+    "tv",
+    "video"
+  ],
+  "ten": [
+    "klávesa"
+  ],
+  "ten_o_clock": [
+    "00",
+    "10",
+    "10:00",
+    "čas",
+    "deset",
+    "deset hodin",
+    "hodiny"
+  ],
+  "ten_thirty": [
+    "10",
+    "10:30",
+    "30",
+    "deset",
+    "hodiny",
+    "půl jedenácté",
+    "třicet"
+  ],
+  "tennis": [
+    "míček",
+    "raketa",
+    "tenis",
+    "tenisák",
+    "tenisový"
+  ],
+  "tent": [
+    "kemp",
+    "kempování",
+    "stan",
+    "tábor",
+    "táboření"
+  ],
+  "test_tube": [
+    "chemie",
+    "chemik",
+    "laboratoř",
+    "pokus",
+    "věda",
+    "zkumavka"
+  ],
+  "thailand": [
+    "vlajka"
+  ],
+  "thermometer": [
+    "počasí",
+    "teplé",
+    "teplo",
+    "teploměr",
+    "teplota"
+  ],
+  "thinking": [
+    "smajlík",
+    "tvář",
+    "výraz",
+    "zamyšlení",
+    "zamyšlený obličej"
+  ],
+  "thong_sandal": [
+    "pláž",
+    "sandál",
+    "sandále",
+    "sandály",
+    "vietnamky",
+    "žabka",
+    "žabky"
+  ],
+  "thought_balloon": [
+    "bublina",
+    "komiks",
+    "myšlenka",
+    "myšlenková bublina"
+  ],
+  "thread": [
+    "cívka nití",
+    "jehla",
+    "nit",
+    "šití",
+    "špulka",
+    "vlákno"
+  ],
+  "three": [
+    "klávesa"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3:00",
+    "čas",
+    "hodiny",
+    "tři"
+  ],
+  "three_thirty": [
+    "3",
+    "3:30",
+    "30",
+    "hodiny",
+    "půl čtvrté",
+    "tři",
+    "třicet"
+  ],
+  "ticket": [
+    "lístek",
+    "vstup",
+    "vstupenka"
+  ],
+  "tiger": [
+    "tygr"
+  ],
+  "tiger_face": [
+    "hlava tygra",
+    "smajlík",
+    "tvář",
+    "tygr",
+    "výraz"
+  ],
+  "timer_clock": [
+    "čas",
+    "časomíra",
+    "časovač",
+    "hodiny",
+    "kuchyňské",
+    "minutka"
+  ],
+  "timor_leste": [
+    "vlajka"
+  ],
+  "tired_face": [
+    "smajlík",
+    "tvář",
+    "únava",
+    "unavený obličej",
+    "výraz"
+  ],
+  "togo": [
+    "vlajka"
+  ],
+  "toilet": [
+    "klozet",
+    "toaleta",
+    "toaletní mísa",
+    "wc",
+    "záchod"
+  ],
+  "tokelau": [
+    "vlajka"
+  ],
+  "tokyo_tower": [
+    "tokijská věž",
+    "tokio",
+    "věž"
+  ],
+  "tomato": [
+    "rajče",
+    "rostlina",
+    "zelenina"
+  ],
+  "tonga": [
+    "vlajka"
+  ],
+  "tongue": [
+    "jazyk",
+    "tělo"
+  ],
+  "toolbox": [
+    "bedna",
+    "box na nářadí",
+    "krabice",
+    "nářadí",
+    "nástroje"
+  ],
+  "tooth": [
+    "dentista",
+    "zub",
+    "zubař"
+  ],
+  "toothbrush": [
+    "čistit",
+    "dentální",
+    "hygiena",
+    "kartáček",
+    "koupelna",
+    "zubní",
+    "zuby"
+  ],
+  "top_arrow": [
+    "nahoru",
+    "neklopit",
+    "šipka",
+    "šipka s nápisem top",
+    "vzhůru"
+  ],
+  "top_hat": [
+    "cylindr",
+    "klobouk",
+    "oblečení",
+    "pokrývka hlavy"
+  ],
+  "tornado": [
+    "mrak",
+    "oblak",
+    "počasí",
+    "tornádo",
+    "vír"
+  ],
+  "trackball": [
+    "počítač"
+  ],
+  "tractor": [
+    "traktor",
+    "vozidlo"
+  ],
+  "trade_mark": [
+    "tm",
+    "trademark",
+    "značka",
+    "znak ochranné známky"
+  ],
+  "train": [
+    "vlak",
+    "vozidlo",
+    "železnice"
+  ],
+  "tram": [
+    "tramvaj",
+    "vozidlo"
+  ],
+  "tram_car": [
+    "tramvaj",
+    "vagón",
+    "vagón tramvaje",
+    "vozidlo"
+  ],
+  "transgender_flag": [
+    "bílá",
+    "růžová",
+    "světle modrá",
+    "transgender",
+    "vlajka",
+    "vlajka trans hrdosti"
+  ],
+  "transgender_symbol": [
+    "symbol pro transgender osoby",
+    "transgender"
+  ],
+  "triangular_flag": [
+    "praporek",
+    "sloupek",
+    "trojúhelníková vlajka"
+  ],
+  "triangular_ruler": [
+    "pravý",
+    "trojúhelník",
+    "trojúhelníkové pravítko",
+    "úhel"
+  ],
+  "trident_emblem": [
+    "emblém",
+    "emblém trojzubce",
+    "kotva",
+    "loď",
+    "nástroj",
+    "trojzubec"
+  ],
+  "trinidad_tobago": [
+    "vlajka"
+  ],
+  "tristan_da_cunha": [
+    "vlajka"
+  ],
+  "trolleybus": [
+    "trolej",
+    "trolejbus",
+    "vozidlo"
+  ],
+  "trophy": [
+    "cena",
+    "odměna",
+    "trofej",
+    "trofejní pohár",
+    "vítěz",
+    "vítězství"
+  ],
+  "tropical_drink": [
+    "bar",
+    "drink",
+    "koktejl",
+    "nápoj",
+    "pití",
+    "tropický"
+  ],
+  "tropical_fish": [
+    "ryba",
+    "tropická ryba",
+    "tropický"
+  ],
+  "trumpet": [
+    "hudba",
+    "nástroj",
+    "trubka",
+    "trumpeta"
+  ],
+  "tulip": [
+    "květ",
+    "květina",
+    "rostlina",
+    "tulipán"
+  ],
+  "tumbler_glass": [
+    "alkohol",
+    "panák",
+    "sklenice",
+    "tumbler",
+    "whiskey",
+    "whisky"
+  ],
+  "tunisia": [
+    "vlajka"
+  ],
+  "turkey": [
+    "krocan",
+    "pták"
+  ],
+  "turkmenistan": [
+    "vlajka"
+  ],
+  "turks_caicos_islands": [
+    "vlajka"
+  ],
+  "turtle": [
+    "obojživelník",
+    "želva"
+  ],
+  "tuvalu": [
+    "vlajka"
+  ],
+  "twelve_o_clock": [
+    "0",
+    "0:00",
+    "00",
+    "12",
+    "12:00",
+    "čas",
+    "dvanáct",
+    "dvanáct hodin",
+    "hodiny",
+    "nula",
+    "poledne",
+    "půlnoc"
+  ],
+  "twelve_thirty": [
+    "0",
+    "0:30",
+    "12",
+    "12:30",
+    "30",
+    "dvanáct",
+    "hodiny",
+    "nula",
+    "půl jedné",
+    "třicet"
+  ],
+  "two": [
+    "klávesa"
+  ],
+  "two_hearts": [
+    "dvě srdce",
+    "láska",
+    "srdce"
+  ],
+  "two_hump_camel": [
+    "drabař",
+    "hrb",
+    "velbloud",
+    "velbloud dvouhrbý"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2:00",
+    "čas",
+    "dva",
+    "dvě hodiny",
+    "hodiny"
+  ],
+  "two_thirty": [
+    "2",
+    "2:30",
+    "30",
+    "dva",
+    "hodiny",
+    "půl třetí",
+    "třicet"
+  ],
+  "türkiye": [
+    "vlajka"
+  ],
+  "uganda": [
+    "vlajka"
+  ],
+  "ukraine": [
+    "vlajka"
+  ],
+  "umbrella": [
+    "déšť",
+    "deštník",
+    "oblečení",
+    "počasí"
+  ],
+  "umbrella_on_ground": [
+    "déšť",
+    "deštník",
+    "počasí",
+    "slunce",
+    "slunečník"
+  ],
+  "umbrella_with_rain_drops": [
+    "déšť",
+    "deštník",
+    "deštník s kapkami deště",
+    "kapka",
+    "oblečení",
+    "počasí"
+  ],
+  "unamused_face": [
+    "nešťastný",
+    "obličej se znuděným výrazem",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "znuděný"
+  ],
+  "unicorn": [
+    "hlava jednorožce",
+    "jednorožec",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "united_arab_emirates": [
+    "vlajka"
+  ],
+  "united_kingdom": [
+    "vlajka"
+  ],
+  "united_nations": [
+    "vlajka"
+  ],
+  "united_states": [
+    "vlajka"
+  ],
+  "unlocked": [
+    "odemčeno",
+    "odemčený",
+    "odemknuto",
+    "odemknutý zámek",
+    "otevřeno",
+    "otevřený",
+    "visací"
+  ],
+  "up_arrow": [
+    "hlavní",
+    "sever",
+    "šipka",
+    "šipka nahoru",
+    "směr",
+    "strany",
+    "světové"
+  ],
+  "up_button": [
+    "štítek up!",
+    "up",
+    "značka"
+  ],
+  "up_down_arrow": [
+    "šipka",
+    "šipka nahoru a dolů"
+  ],
+  "up_left_arrow": [
+    "severozápad",
+    "šipka",
+    "šipka doleva nahoru",
+    "směr",
+    "strany",
+    "světové",
+    "vedlejší"
+  ],
+  "up_right_arrow": [
+    "severovýchod",
+    "šipka",
+    "šipka doprava nahoru",
+    "směr",
+    "strany",
+    "světové",
+    "vedlejší"
+  ],
+  "upside_down_face": [
+    "převrácený obličej",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "vzhůru nohama"
+  ],
+  "upwards_button": [
+    "nahoru",
+    "šipka",
+    "tlačítko",
+    "trojúhelník"
+  ],
+  "uruguay": [
+    "vlajka"
+  ],
+  "us_outlying_islands": [
+    "vlajka"
+  ],
+  "us_virgin_islands": [
+    "vlajka"
+  ],
+  "uzbekistan": [
+    "vlajka"
+  ],
+  "vampire": [
+    "drákula",
+    "nemrtvý",
+    "obličej upíra",
+    "vampýr"
+  ],
+  "vanuatu": [
+    "vlajka"
+  ],
+  "vatican_city": [
+    "vlajka"
+  ],
+  "venezuela": [
+    "vlajka"
+  ],
+  "vertical_traffic_light": [
+    "doprava",
+    "signál",
+    "signalizace",
+    "světelná",
+    "světlo",
+    "svislý semafor"
+  ],
+  "vibration_mode": [
+    "mobil",
+    "mobilní",
+    "režim",
+    "telefon",
+    "vibrace",
+    "vibrační režim",
+    "vibrování"
+  ],
+  "victory_hand": [
+    "gesto vítězství",
+    "ruka",
+    "tělo",
+    "v",
+    "vítězství"
+  ],
+  "video_camera": [
+    "kamera",
+    "video",
+    "videokamera"
+  ],
+  "video_game": [
+    "gamepad",
+    "hra",
+    "ovladač",
+    "videohra"
+  ],
+  "videocassette": [
+    "kazeta",
+    "pásek",
+    "páska",
+    "vhs",
+    "video",
+    "videokazeta"
+  ],
+  "vietnam": [
+    "vlajka"
+  ],
+  "violin": [
+    "housle",
+    "hudba",
+    "nástroj"
+  ],
+  "virgo": [
+    "panna",
+    "zvěrokruh"
+  ],
+  "volcano": [
+    "erupce",
+    "hora",
+    "sopka",
+    "vulkán",
+    "výbuch"
+  ],
+  "volleyball": [
+    "hra",
+    "míč",
+    "volejbalový"
+  ],
+  "vs_button": [
+    "štítek vs",
+    "versus",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "prst",
+    "ruka",
+    "spock",
+    "tělo",
+    "vulkán",
+    "vulkánský pozdrav"
+  ],
+  "waffle": [
+    "forma",
+    "moučník",
+    "mřížka",
+    "sendvičovač",
+    "vafle",
+    "vaflovač"
+  ],
+  "wales": [
+    "vlajka"
+  ],
+  "wallis_futuna": [
+    "vlajka"
+  ],
+  "waning_crescent_moon": [
+    "couvá",
+    "couvající",
+    "fáze měsíce",
+    "měsíc",
+    "srpek",
+    "ubývá",
+    "ubývající",
+    "ubývající měsíc před novoluním",
+    "vesmír"
+  ],
+  "waning_gibbous_moon": [
+    "couvá",
+    "couvající",
+    "fáze měsíce",
+    "měsíc",
+    "ubývá",
+    "ubývající",
+    "ubývající měsíc po úplňku",
+    "vesmír"
+  ],
+  "warning": [
+    "upozornění",
+    "varování",
+    "výstraha"
+  ],
+  "wastebasket": [
+    "koš",
+    "odpad",
+    "odpadkový koš",
+    "smetí"
+  ],
+  "watch": [
+    "čas",
+    "hodinky",
+    "hodiny",
+    "náramkové"
+  ],
+  "water_buffalo": [
+    "buvol",
+    "buvol domácí",
+    "voda",
+    "vodní buvol"
+  ],
+  "water_closet": [
+    "toaleta",
+    "voda",
+    "wc",
+    "záchod"
+  ],
+  "water_pistol": [
+    "nástroj",
+    "pistole",
+    "revolver",
+    "zbraň"
+  ],
+  "watermelon": [
+    "meloun",
+    "ovoce",
+    "rostlina",
+    "vodní"
+  ],
+  "waving_hand": [
+    "mávající ruka",
+    "mávání",
+    "mávat",
+    "ruka",
+    "tělo"
+  ],
+  "wavy_dash": [
+    "čára",
+    "dlouhá vlnovka",
+    "interpunkce",
+    "interpunkční",
+    "pomlčka",
+    "vlnitá",
+    "vlny",
+    "znaménka"
+  ],
+  "waxing_crescent_moon": [
+    "dorůstá",
+    "dorůstající",
+    "dorůstající měsíc po novoluní",
+    "fáze měsíce",
+    "měsíc",
+    "srpek",
+    "vesmír"
+  ],
+  "waxing_gibbous_moon": [
+    "dorůstá",
+    "dorůstající",
+    "dorůstající měsíc před úplňkem",
+    "fáze měsíce",
+    "měsíc",
+    "vesmír"
+  ],
+  "weary_cat": [
+    "jej",
+    "kočka",
+    "překvapení",
+    "smajlík",
+    "tvář",
+    "uf",
+    "únava",
+    "vyčerpání",
+    "vyčerpaný",
+    "vyčerpaný kočičí obličej",
+    "výraz"
+  ],
+  "weary_face": [
+    "smajlík",
+    "tvář",
+    "únava",
+    "vyčerpání",
+    "vyčerpaný obličej",
+    "výraz"
+  ],
+  "wedding": [
+    "kaple",
+    "romance",
+    "romantika",
+    "svatba"
+  ],
+  "western_sahara": [
+    "vlajka"
+  ],
+  "whale": [
+    "kytovec",
+    "plejtvák",
+    "velryba"
+  ],
+  "wheel_of_dharma": [
+    "buddhismus",
+    "dharma",
+    "kolo",
+    "kolo dharmy",
+    "náboženství"
+  ],
+  "wheelchair_symbol": [
+    "bezbariérový",
+    "invalidy",
+    "přístup",
+    "symbol invalidního vozíku",
+    "vozík",
+    "zpřístupnění"
+  ],
+  "white_cane": [
+    "handicap",
+    "hendikep",
+    "pomůcka",
+    "postižení",
+    "slepec",
+    "slepecká hůl",
+    "slepý",
+    "usnadnění",
+    "zpřístupnění"
+  ],
+  "white_check_mark": [
+    "✓",
+    "tlačítko",
+    "tlačítko se značkou zaškrtnutí",
+    "zaškrtnutí",
+    "značka"
+  ],
+  "white_circle": [
+    "bílá",
+    "bílý kroužek",
+    "geometrie",
+    "kruh"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "bílý vykřičník",
+    "interpunkční znaménka",
+    "obrys",
+    "vykřičník"
+  ],
+  "white_flag": [
+    "bílá vlajka",
+    "prapor",
+    "praporek",
+    "vlající"
+  ],
+  "white_flower": [
+    "bílá květina",
+    "květ",
+    "květina"
+  ],
+  "white_heart": [
+    "bílá",
+    "bílé srdce",
+    "srdce"
+  ],
+  "white_large_square": [
+    "čtverec",
+    "geometrie",
+    "velký bílý čtverec"
+  ],
+  "white_medium_small_square": [
+    "čtverec",
+    "geometrie",
+    "větší bílý čtvereček"
+  ],
+  "white_medium_square": [
+    "čtverec",
+    "geometrie",
+    "střední bílý čtverec"
+  ],
+  "white_question_mark": [
+    "?",
+    "bílý otazník",
+    "interpunkční znaménka",
+    "obrys",
+    "otazník"
+  ],
+  "white_small_square": [
+    "bílý čtvereček",
+    "čtverec",
+    "geometrie"
+  ],
+  "white_square_button": [
+    "bílé čtvercové tlačítko",
+    "čtvercové",
+    "čtverec",
+    "geometrie",
+    "obrys",
+    "tlačítko"
+  ],
+  "wilted_flower": [
+    "květ",
+    "květina",
+    "uvadlá",
+    "uvadnutá",
+    "zvadlá květina",
+    "zvadnutá"
+  ],
+  "wind_chime": [
+    "furin",
+    "japonský",
+    "oslava",
+    "větrný zvonek",
+    "vítr",
+    "zvon",
+    "zvoneček"
+  ],
+  "wind_face": [
+    "fouká",
+    "foukající",
+    "foukat",
+    "mrak",
+    "oblak",
+    "počasí",
+    "smajlík",
+    "tvář",
+    "vane",
+    "vánek",
+    "vanoucí",
+    "vát",
+    "větřík",
+    "větrný obličej",
+    "vítr",
+    "výraz"
+  ],
+  "window": [
+    "čerstvý vzduch",
+    "okno",
+    "otvor",
+    "průhled",
+    "průhledný",
+    "rám",
+    "výhled"
+  ],
+  "wine_glass": [
+    "bar",
+    "nápoj",
+    "pití",
+    "sklenice",
+    "sklenička vína",
+    "sklo",
+    "víno"
+  ],
+  "wink": [
+    "mrkající obličej",
+    "mrknutí",
+    "smajlík",
+    "tvář",
+    "výraz"
+  ],
+  "winking_face_with_tongue": [
+    "jazyk",
+    "mrkající obličej s vypláznutým jazykem",
+    "mrknutí",
+    "oko",
+    "smajlík",
+    "tvář",
+    "vtip",
+    "výraz"
+  ],
+  "wolf": [
+    "hlava vlka",
+    "smajlík",
+    "tvář",
+    "vlk",
+    "výraz"
+  ],
+  "woman": [
+    "žena"
+  ],
+  "woman_and_man_holding_hands": [
+    "držet",
+    "dvojice",
+    "muž",
+    "muž a žena držící se za ruce",
+    "pár",
+    "ruka",
+    "žena"
+  ],
+  "woman_artist": [
+    "malířka",
+    "paleta",
+    "umělkyně",
+    "umění",
+    "žena"
+  ],
+  "woman_astronaut": [
+    "astronautka",
+    "kosmonautka",
+    "raketa",
+    "vesmír",
+    "žena"
+  ],
+  "woman_bald": [
+    "bez vlasů",
+    "žena"
+  ],
+  "woman_biking": [
+    "cyklistika",
+    "cyklistka",
+    "kolo",
+    "žena"
+  ],
+  "woman_bouncing_ball": [
+    "míč",
+    "žena",
+    "žena driblující s míčem"
+  ],
+  "woman_bowing": [
+    "gesto",
+    "lítost",
+    "omluva",
+    "poklona",
+    "prosba",
+    "úcta",
+    "uklánějící se žena",
+    "úklona",
+    "žena"
+  ],
+  "woman_cartwheeling": [
+    "gymnastika",
+    "hvězda",
+    "sport",
+    "žena",
+    "žena dělající přemet stranou"
+  ],
+  "woman_climbing": [
+    "horolezkyně",
+    "lezkyně",
+    "stěna"
+  ],
+  "woman_cook": [
+    "kuchařka",
+    "šéfkuchařka",
+    "žena"
+  ],
+  "woman_curly_hair": [
+    "kudrnaté vlasy",
+    "žena"
+  ],
+  "woman_dancing": [
+    "tanec",
+    "tanečnice",
+    "žena"
+  ],
+  "woman_detective": [
+    "agentka",
+    "čmuchalka",
+    "detektivka",
+    "inspektorka",
+    "kriminální inspektorka",
+    "očko",
+    "špehyně",
+    "špiónka",
+    "vyšetřovatelka",
+    "žena"
+  ],
+  "woman_elf": [
+    "divoženka",
+    "elfka",
+    "kouzelná",
+    "les",
+    "magie",
+    "postava"
+  ],
+  "woman_facepalming": [
+    "čelo",
+    "chycení",
+    "dlaň",
+    "facepalm",
+    "hlava",
+    "nevíra",
+    "rozhořčení",
+    "smajlík",
+    "tvář",
+    "výraz",
+    "žena",
+    "žena chytající se za hlavu",
+    "zoufalství"
+  ],
+  "woman_factory_worker": [
+    "dělnice",
+    "dělnice v továrně",
+    "průmysl",
+    "výroba",
+    "žena"
+  ],
+  "woman_fairy": [
+    "divoženka",
+    "elfka",
+    "okřídlená víla",
+    "rusalka",
+    "titánie"
+  ],
+  "woman_farmer": [
+    "farmářka",
+    "selka",
+    "zahradnice",
+    "zemědělkyně",
+    "žena"
+  ],
+  "woman_feeding_baby": [
+    "dítě",
+    "kojenec",
+    "kojení",
+    "krmení",
+    "nemluvně",
+    "žena",
+    "žena krmící dítě z lahve"
+  ],
+  "woman_firefighter": [
+    "hasička",
+    "hasičské auto",
+    "požár",
+    "požárnice",
+    "stříkačka",
+    "žena"
+  ],
+  "woman_frowning": [
+    "výraz",
+    "zamračená žena",
+    "zamračený",
+    "žena"
+  ],
+  "woman_genie": [
+    "aladin",
+    "duch",
+    "džin",
+    "džinka",
+    "lahev",
+    "lampa",
+    "žena"
+  ],
+  "woman_gesturing_no": [
+    "ne",
+    "nesouhlas",
+    "zákaz",
+    "žena",
+    "žena s gestem nesouhlasu"
+  ],
+  "woman_gesturing_ok": [
+    "ano",
+    "ok",
+    "souhlas",
+    "žena",
+    "žena s gestem souhlasu"
+  ],
+  "woman_getting_haircut": [
+    "holič",
+    "kadeřník",
+    "krása",
+    "salon",
+    "sestřih",
+    "stříhání",
+    "účes",
+    "vlasy",
+    "žena",
+    "žena u kadeřníka"
+  ],
+  "woman_getting_massage": [
+    "masáž",
+    "obličej",
+    "tvář",
+    "žena",
+    "žena na masáži obličeje"
+  ],
+  "woman_golfing": [
+    "golf",
+    "golfistka",
+    "žena"
+  ],
+  "woman_guard": [
+    "stráž",
+    "strážkyně",
+    "žena"
+  ],
+  "woman_health_worker": [
+    "doktorka",
+    "nemocnice",
+    "sestřička",
+    "terapeutka",
+    "zdravotnice"
+  ],
+  "woman_in_lotus_position": [
+    "jóga",
+    "lotos",
+    "lotosová",
+    "meditace",
+    "pozice",
+    "žena v lotosovém sedu"
+  ],
+  "woman_in_manual_wheelchair": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík",
+    "žena",
+    "žena na mechanickém invalidním vozíku"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "handicap",
+    "hendikep",
+    "invalidní",
+    "pomůcka",
+    "postižení",
+    "usnadnění",
+    "vozík",
+    "žena",
+    "žena na elektrickém invalidním vozíku"
+  ],
+  "woman_in_steamy_room": [
+    "lázeň",
+    "lázně",
+    "pára",
+    "parní",
+    "sauna",
+    "žena v sauně"
+  ],
+  "woman_in_tuxedo": [
+    "smoking",
+    "žena",
+    "žena ve smokingu"
+  ],
+  "woman_judge": [
+    "právo",
+    "soudkyně",
+    "spravedlnost",
+    "váhy",
+    "žena"
+  ],
+  "woman_juggling": [
+    "multitasking",
+    "rovnováha",
+    "šikovnost",
+    "žena",
+    "žonglérka",
+    "žonglování"
+  ],
+  "woman_kneeling": [
+    "klečet",
+    "klečící",
+    "klek",
+    "poklek",
+    "žena"
+  ],
+  "woman_lifting_weights": [
+    "činka",
+    "silná",
+    "tíha",
+    "váha",
+    "vzpěračka",
+    "vzpírání",
+    "žena"
+  ],
+  "woman_mage": [
+    "čarodějka",
+    "čarodějnice",
+    "kouzelnice",
+    "mágyně",
+    "vědma"
+  ],
+  "woman_mechanic": [
+    "elektrikářka",
+    "mechanička",
+    "montérka",
+    "opravářka",
+    "řemeslnice",
+    "žena",
+    "živnostnice"
+  ],
+  "woman_mountain_biking": [
+    "cyklistika",
+    "hora",
+    "horská cyklistka",
+    "kolo",
+    "žena"
+  ],
+  "woman_office_worker": [
+    "bílý límeček",
+    "byznys",
+    "kancelář",
+    "manažerka",
+    "úřednice",
+    "žena"
+  ],
+  "woman_pilot": [
+    "letadlo",
+    "pilotka",
+    "žena"
+  ],
+  "woman_playing_handball": [
+    "házená",
+    "házenkářka",
+    "míč",
+    "sport",
+    "žena"
+  ],
+  "woman_playing_water_polo": [
+    "hráčka vodního póla",
+    "pólo",
+    "sport",
+    "voda",
+    "žena"
+  ],
+  "woman_police_officer": [
+    "policajtka",
+    "policie",
+    "policistka",
+    "strážnice",
+    "žena"
+  ],
+  "woman_pouting": [
+    "podrážděná žena",
+    "podrážděný",
+    "výraz",
+    "žena"
+  ],
+  "woman_raising_hand": [
+    "přihlášení",
+    "ruka",
+    "žena",
+    "žena se zvednutou rukou",
+    "zvednutí"
+  ],
+  "woman_red_hair": [
+    "žena",
+    "zrzavé vlasy"
+  ],
+  "woman_rowing_boat": [
+    "člun",
+    "loďka",
+    "plavidlo",
+    "pramice",
+    "veslařka",
+    "veslice",
+    "veslování",
+    "žena"
+  ],
+  "woman_running": [
+    "běh",
+    "běžící žena",
+    "maraton",
+    "závod",
+    "žena"
+  ],
+  "woman_s_boot": [
+    "bota",
+    "dámská kozačka",
+    "kozačka",
+    "oblečení",
+    "žena"
+  ],
+  "woman_s_clothes": [
+    "dámská blůza",
+    "oblečení",
+    "žena"
+  ],
+  "woman_s_hat": [
+    "dámský klobouk",
+    "klobouk",
+    "oblečení",
+    "žena"
+  ],
+  "woman_s_sandal": [
+    "bota",
+    "dámský sandál",
+    "oblečení",
+    "sandál",
+    "střevíc",
+    "střevíček",
+    "žena"
+  ],
+  "woman_scientist": [
+    "bioložka",
+    "chemička",
+    "fyzička",
+    "inženýrka",
+    "matematička",
+    "věda",
+    "vědkyně",
+    "žena"
+  ],
+  "woman_shrugging": [
+    "nejistota",
+    "nerozhodnost",
+    "nevědomost",
+    "nevím",
+    "nezájem",
+    "pochybnost",
+    "pochyby",
+    "pokrčení",
+    "pokrčit",
+    "ramena",
+    "žena",
+    "žena krčící rameny"
+  ],
+  "woman_singer": [
+    "bavička",
+    "herečka",
+    "hvězda",
+    "rock",
+    "rockerka",
+    "zábava",
+    "žena",
+    "zpěvačka"
+  ],
+  "woman_standing": [
+    "postoj",
+    "stoj",
+    "stojící",
+    "žena"
+  ],
+  "woman_student": [
+    "absolventka",
+    "studentka",
+    "žena"
+  ],
+  "woman_superhero": [
+    "hrdinka",
+    "kladná postava",
+    "superhrdina",
+    "superhrdinka",
+    "superschopnost",
+    "žena"
+  ],
+  "woman_supervillain": [
+    "padouška",
+    "superpadouška",
+    "superschopnost",
+    "superzloduška",
+    "záporná postava",
+    "žena"
+  ],
+  "woman_surfing": [
+    "prkno",
+    "surf",
+    "surfařka",
+    "surfing",
+    "surfování",
+    "žena"
+  ],
+  "woman_swimming": [
+    "plavání",
+    "plavkyně",
+    "žena"
+  ],
+  "woman_teacher": [
+    "instruktorka",
+    "profesorka",
+    "učitelka",
+    "žena"
+  ],
+  "woman_technologist": [
+    "kodérka",
+    "notebook",
+    "počítač",
+    "programátorka",
+    "programování",
+    "software",
+    "technologie",
+    "vynálezkyně",
+    "vývoj",
+    "vývojářka",
+    "žena"
+  ],
+  "woman_tipping_hand": [
+    "concierge",
+    "drzost",
+    "informace",
+    "ironie",
+    "pomoc",
+    "poslíček",
+    "recepce",
+    "recepční",
+    "ruka",
+    "sarkasmus",
+    "žena",
+    "žena s dlaní vzhůru"
+  ],
+  "woman_vampire": [
+    "nemrtvá",
+    "upírka",
+    "vampýrka"
+  ],
+  "woman_walking": [
+    "chodec",
+    "chůze",
+    "kráčející žena",
+    "pěší",
+    "pěšky",
+    "procházka",
+    "túra",
+    "žena"
+  ],
+  "woman_wearing_turban": [
+    "turban",
+    "žena",
+    "žena s turbanem"
+  ],
+  "woman_white_hair": [
+    "bílé vlasy",
+    "žena"
+  ],
+  "woman_with_headscarf": [
+    "hidžáb",
+    "šátek",
+    "závoj",
+    "žena v šátku"
+  ],
+  "woman_with_veil": [
+    "nevěsta",
+    "svatba",
+    "závoj",
+    "žena",
+    "žena se závojem"
+  ],
+  "woman_with_white_cane": [
+    "handicap",
+    "hendikep",
+    "pomůcka",
+    "postižení",
+    "slepá",
+    "usnadnění",
+    "žena",
+    "žena se slepeckou holí"
+  ],
+  "woman_zombie": [
+    "chodící",
+    "ghúl",
+    "mrtvá",
+    "mrtvola",
+    "nemrtvá",
+    "nemrtvá žena",
+    "zombice",
+    "zombie"
+  ],
+  "women_holding_hands": [
+    "držet",
+    "dvě ženy držící se za ruce",
+    "dvojice",
+    "pár",
+    "ruka",
+    "žena"
+  ],
+  "women_s_room": [
+    "dámské toalety",
+    "toaleta",
+    "wc",
+    "záchod",
+    "žena"
+  ],
+  "women_with_bunny_ears": [
+    "párty",
+    "tanec",
+    "tanečnice",
+    "uši",
+    "zajíček",
+    "ženy",
+    "ženy se zaječími oušky"
+  ],
+  "women_wrestling": [
+    "sport",
+    "zápas",
+    "zápasící ženy",
+    "zápasník",
+    "ženy"
+  ],
+  "wood": [
+    "dřevo",
+    "kláda",
+    "kmen",
+    "poleno",
+    "špalek"
+  ],
+  "woozy_face": [
+    "líznutý",
+    "opilost",
+    "různě velké oči",
+    "závrať",
+    "zpitomělý obličej",
+    "zvlněná pusa"
+  ],
+  "world_map": [
+    "mapa",
+    "mapa světa",
+    "svět"
+  ],
+  "worm": [
+    "červ",
+    "dešťovka",
+    "kroužkovec",
+    "parazit",
+    "žížala"
+  ],
+  "worried": [
+    "obavy",
+    "smajlík",
+    "starost",
+    "tvář",
+    "ustaraný obličej",
+    "výraz"
+  ],
+  "wrapped_gift": [
+    "balíček",
+    "dar",
+    "dárek",
+    "krabice",
+    "oslava",
+    "zabalený"
+  ],
+  "wrench": [
+    "klíč",
+    "maticový klíč",
+    "montážní",
+    "nářadí",
+    "nástroj"
+  ],
+  "writing_hand": [
+    "píšící ruka",
+    "psát",
+    "ruka",
+    "tělo"
+  ],
+  "yarn": [
+    "háčkování",
+    "klubíčko",
+    "klubko",
+    "pletení"
+  ],
+  "yawning_face": [
+    "unavený",
+    "výraz",
+    "zívající obličej",
+    "znuděný"
+  ],
+  "yellow_circle": [
+    "kolečko",
+    "kroužek",
+    "kruh",
+    "žlutá",
+    "žlutý kroužek"
+  ],
+  "yellow_heart": [
+    "srdce",
+    "žlutá",
+    "žluté srdce"
+  ],
+  "yellow_square": [
+    "čtverec",
+    "čtvereček",
+    "žlutá",
+    "žlutý čtvereček"
+  ],
+  "yemen": [
+    "vlajka"
+  ],
+  "yen_banknote": [
+    "banka",
+    "bankovka",
+    "jen",
+    "jenová bankovka",
+    "měna",
+    "peníze"
+  ],
+  "yin_yang": [
+    "jang",
+    "jin",
+    "jin a jang",
+    "náboženství",
+    "tao",
+    "taoismus"
+  ],
+  "yoyo": [
+    "cívka",
+    "hračka",
+    "jo jo",
+    "jo-jo",
+    "jojo",
+    "kolísání"
+  ],
+  "zambia": [
+    "vlajka"
+  ],
+  "zany_face": [
+    "malé",
+    "oko",
+    "šílený obličej",
+    "velké"
+  ],
+  "zebra": [
+    "kůň",
+    "pruhy"
+  ],
+  "zero": [
+    "klávesa"
+  ],
+  "zimbabwe": [
+    "vlajka"
+  ],
+  "zipper_mouth_face": [
+    "obličej s pusou na zip",
+    "smajlík",
+    "tvář",
+    "ústa",
+    "výraz",
+    "zip"
+  ],
+  "zombie": [
+    "chodící",
+    "ghúl",
+    "mrtvá",
+    "mrtvola",
+    "mrtvý",
+    "nemrtvá",
+    "nemrtvý"
+  ],
+  "zzz": [
+    "chrr",
+    "komiks",
+    "spánek",
+    "spát"
+  ],
+  "åland_islands": [
+    "vlajka"
+  ]
+}

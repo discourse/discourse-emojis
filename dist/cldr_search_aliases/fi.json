@@ -1,0 +1,10117 @@
+{
+  "+1": [
+    "käsi",
+    "peukalo",
+    "vartalo",
+    "ylös"
+  ],
+  "-1": [
+    "alas",
+    "käsi",
+    "peukalo",
+    "vartalo"
+  ],
+  "100": [
+    "pisteet",
+    "sata pistettä",
+    "täydet"
+  ],
+  "1234": [
+    "numerot",
+    "syötä",
+    "syötä numeroja"
+  ],
+  "1st_place_medal": [
+    "ensimmäinen",
+    "kulta",
+    "kultamitali",
+    "mitali"
+  ],
+  "2nd_place_medal": [
+    "hopea",
+    "hopeamitali",
+    "mitali",
+    "toinen"
+  ],
+  "3rd_place_medal": [
+    "kolmas",
+    "mitali",
+    "pronssi",
+    "pronssimitali"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "a-veriryhmä",
+    "veriryhmä"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "ab-veriryhmä",
+    "veriryhmä"
+  ],
+  "abacus": [
+    "helmitaulu",
+    "laskeminen"
+  ],
+  "accordion": [
+    "haitari",
+    "hanuri",
+    "harmonikka"
+  ],
+  "adhesive_bandage": [
+    "haava",
+    "hoito",
+    "laastari"
+  ],
+  "admission_tickets": [
+    "lippu",
+    "pääsylippu",
+    "sisäänpääsylippu"
+  ],
+  "aerial_tramway": [
+    "ajoneuvo",
+    "gondoli",
+    "kaapeli",
+    "köysirata",
+    "rata"
+  ],
+  "afghanistan": [
+    "lippu"
+  ],
+  "airplane": [
+    "ajoneuvo",
+    "lentokone"
+  ],
+  "airplane_arrival": [
+    "ajoneuvo",
+    "laskeutuminen",
+    "lentokone",
+    "saapuva"
+  ],
+  "airplane_departure": [
+    "ajoneuvo",
+    "lähtevä",
+    "lähtö",
+    "lentokone"
+  ],
+  "alarm_clock": [
+    "herätys",
+    "herätyskello",
+    "kello"
+  ],
+  "albania": [
+    "lippu"
+  ],
+  "alembic": [
+    "kemia",
+    "tislauskolvi",
+    "työkalu"
+  ],
+  "algeria": [
+    "lippu"
+  ],
+  "alien": [
+    "avaruusolio",
+    "olio"
+  ],
+  "alien_monster": [
+    "avaruushirviö",
+    "avaruusmonsteri",
+    "avaruusolio",
+    "naama",
+    "olio"
+  ],
+  "ambulance": [
+    "ajoneuvo",
+    "ambulanssi",
+    "auto"
+  ],
+  "american_football": [
+    "amerikkalainen jalkapallo",
+    "jalkapallo",
+    "pallo",
+    "urheilu"
+  ],
+  "american_samoa": [
+    "lippu"
+  ],
+  "amphora": [
+    "amfora",
+    "horoskooppi",
+    "horoskooppimerkki",
+    "juoma",
+    "kannu",
+    "kokkaus",
+    "ruoanlaitto",
+    "vesimies"
+  ],
+  "anatomical_heart": [
+    "elin",
+    "kardiologia",
+    "keskipiste",
+    "pulssi",
+    "sydän",
+    "syke",
+    "verenkierto"
+  ],
+  "anchor": [
+    "alus",
+    "ankkuri",
+    "laiva",
+    "merenkulku",
+    "meri"
+  ],
+  "andorra": [
+    "lippu"
+  ],
+  "anger_symbol": [
+    "sarjakuva",
+    "viha",
+    "vihainen"
+  ],
+  "angola": [
+    "lippu"
+  ],
+  "angry": [
+    "kiukku",
+    "naama",
+    "raivo",
+    "viha",
+    "vihainen"
+  ],
+  "angry_face_with_horns": [
+    "demoni",
+    "fantasia",
+    "naama",
+    "pikkupaholainen",
+    "piru",
+    "satu"
+  ],
+  "anguilla": [
+    "lippu"
+  ],
+  "anguished_face": [
+    "ahdistunut",
+    "ahdistus",
+    "hätä",
+    "naama"
+  ],
+  "ant": [
+    "hyönteinen",
+    "muurahainen"
+  ],
+  "antarctica": [
+    "lippu"
+  ],
+  "antenna_bars": [
+    "kenttä",
+    "kuuluvuus",
+    "kuuluvuuspalkit",
+    "matkapuhelin",
+    "palkki",
+    "puhelin",
+    "signaali"
+  ],
+  "antigua_barbuda": [
+    "lippu"
+  ],
+  "anxious_face_with_sweat": [
+    "auki",
+    "avoin suu ja kylmänhiki",
+    "hiki",
+    "kylmä",
+    "naama",
+    "sininen",
+    "suu"
+  ],
+  "aquarius": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "vesimies",
+    "vesimies-merkki"
+  ],
+  "argentina": [
+    "lippu"
+  ],
+  "aries": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "oinas",
+    "oinas-merkki"
+  ],
+  "armenia": [
+    "lippu"
+  ],
+  "articulated_lorry": [
+    "ajoneuvo",
+    "auto",
+    "rekka",
+    "rekka-auto"
+  ],
+  "artist": [
+    "artisti",
+    "paletti",
+    "taiteilija"
+  ],
+  "artist_palette": [
+    "maalari",
+    "maali",
+    "taide",
+    "taiteilijan paletti"
+  ],
+  "aruba": [
+    "lippu"
+  ],
+  "ascension_island": [
+    "lippu"
+  ],
+  "asterisk": [
+    "näppäin"
+  ],
+  "astonished_face": [
+    "ällistynyt",
+    "ihmetys",
+    "järkyttynyt",
+    "naama",
+    "tosi"
+  ],
+  "astronaut": [
+    "astronautti",
+    "raketti"
+  ],
+  "atm_sign": [
+    "automaatti",
+    "otto",
+    "pankki",
+    "pankkiautomaatti"
+  ],
+  "atom_symbol": [
+    "ateisti",
+    "atomi"
+  ],
+  "australia": [
+    "lippu"
+  ],
+  "austria": [
+    "lippu"
+  ],
+  "auto_rickshaw": [
+    "autorikša",
+    "tuktuk"
+  ],
+  "automobile": [
+    "ajoneuvo",
+    "auto"
+  ],
+  "avocado": [
+    "avokado",
+    "hedelmä",
+    "ruoka"
+  ],
+  "axe": [
+    "hakata",
+    "halkoa",
+    "kirves",
+    "pilkkoa",
+    "puu"
+  ],
+  "azerbaijan": [
+    "lippu"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "b-veriryhmä",
+    "veriryhmä"
+  ],
+  "baby": [
+    "lapsi",
+    "nuori",
+    "vauva"
+  ],
+  "baby_angel": [
+    "enkeli",
+    "enkelivauva",
+    "fantasia",
+    "naama",
+    "satu",
+    "vauva"
+  ],
+  "baby_bottle": [
+    "juoda",
+    "maito",
+    "pullo",
+    "tuttipullo",
+    "vauva"
+  ],
+  "baby_chick": [
+    "kananpoika",
+    "lintu",
+    "tipu"
+  ],
+  "baby_symbol": [
+    "lapsenhoito",
+    "vauva",
+    "vauva-merkki"
+  ],
+  "back_arrow": [
+    "back-nuoli",
+    "nuoli",
+    "takaisin"
+  ],
+  "backhand_index_pointing_down": [
+    "alas",
+    "alas osoittava etusormi kämmenselkä katsojaan päin",
+    "etusormi",
+    "kämmenselkä",
+    "käsi",
+    "osoittaa",
+    "sormi",
+    "vartalo"
+  ],
+  "backhand_index_pointing_left": [
+    "etusormi",
+    "kämmenselkä",
+    "käsi",
+    "osoittaa",
+    "sormi",
+    "vartalo",
+    "vasemmalle osoittava etusormi kämmenselkä katsojaan päin"
+  ],
+  "backhand_index_pointing_right": [
+    "etusormi",
+    "kämmenselkä",
+    "käsi",
+    "oikealle osoittava etusormi kämmenselkä katsojaan päin",
+    "osoittaa",
+    "sormi",
+    "vartalo"
+  ],
+  "backhand_index_pointing_up": [
+    "etusormi",
+    "kämmenselkä",
+    "käsi",
+    "osoittaa",
+    "sormi",
+    "vartalo",
+    "ylös",
+    "ylös osoittava etusormi kämmenselkä katsojaan päin"
+  ],
+  "backpack": [
+    "koulu",
+    "koululaukku",
+    "koulureppu",
+    "laukku"
+  ],
+  "bacon": [
+    "liha",
+    "pekoni",
+    "ruoka"
+  ],
+  "badger": [
+    "mäyrä"
+  ],
+  "badminton": [
+    "maila",
+    "ottelu",
+    "sulka",
+    "sulkapallo",
+    "sulkapallomaila"
+  ],
+  "bagel": [
+    "bageli",
+    "leivonnainen",
+    "rinkeli",
+    "vesirinkeli"
+  ],
+  "baggage_claim": [
+    "hihna",
+    "luovutus",
+    "matkatavarat"
+  ],
+  "baguette_bread": [
+    "leipä",
+    "patonki",
+    "ranskalainen",
+    "ruoka"
+  ],
+  "bahamas": [
+    "lippu"
+  ],
+  "bahrain": [
+    "lippu"
+  ],
+  "balance_scale": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "oikeus",
+    "punnus",
+    "työkalu",
+    "vaaka"
+  ],
+  "ballet_shoes": [
+    "baletti",
+    "balettitossut",
+    "tanssi"
+  ],
+  "balloon": [
+    "ilmapallo",
+    "juhla"
+  ],
+  "ballot_box_with_ballot": [
+    "äänestyslippu",
+    "ääni",
+    "ääniuurna",
+    "uurna",
+    "vaali"
+  ],
+  "banana": [
+    "banaani",
+    "hedelmä",
+    "kasvi"
+  ],
+  "bangladesh": [
+    "lippu"
+  ],
+  "banjo": [
+    "kielisoitin",
+    "musiikki"
+  ],
+  "bank": [
+    "pankki",
+    "rakennus"
+  ],
+  "bar_chart": [
+    "kaavio",
+    "pylväs",
+    "pylväskaavio",
+    "tilasto"
+  ],
+  "barbados": [
+    "lippu"
+  ],
+  "barber_pole": [
+    "kampaaja",
+    "parturi",
+    "punasiniraitainen pylväs",
+    "raidat"
+  ],
+  "baseball": [
+    "pallo",
+    "pesäpallo",
+    "urheilu"
+  ],
+  "basket": [
+    "kori",
+    "maatalous",
+    "piknik",
+    "pyykki",
+    "pyykkikori"
+  ],
+  "basketball": [
+    "koripallo",
+    "pallo",
+    "urheilu"
+  ],
+  "bat": [
+    "eläin",
+    "lepakko",
+    "vampyyri"
+  ],
+  "bathtub": [
+    "kylpy",
+    "kylpyamme"
+  ],
+  "battery": [
+    "akku",
+    "akkuvirta",
+    "paristo"
+  ],
+  "beach_with_umbrella": [
+    "aurinkovarjo",
+    "ranta",
+    "ranta ja aurinkovarjo"
+  ],
+  "bear": [
+    "karhu",
+    "karhun naama",
+    "naama"
+  ],
+  "beating_heart": [
+    "sydän",
+    "syke",
+    "sykkiä",
+    "sykkivä"
+  ],
+  "beaver": [
+    "majava",
+    "pato"
+  ],
+  "bed": [
+    "hotelli",
+    "nukkua",
+    "sänky",
+    "uni"
+  ],
+  "beer_mug": [
+    "baari",
+    "juoda",
+    "olut",
+    "oluttuoppi",
+    "tuoppi"
+  ],
+  "beetle": [
+    "hyönteinen",
+    "koppakuoriainen",
+    "kuoriainen",
+    "ötökkä"
+  ],
+  "belarus": [
+    "lippu"
+  ],
+  "belgium": [
+    "lippu"
+  ],
+  "belize": [
+    "lippu"
+  ],
+  "bell": [
+    "ääni",
+    "kello",
+    "kirkonkello",
+    "sointi"
+  ],
+  "bell_pepper": [
+    "capsicum",
+    "paprika",
+    "vihannes"
+  ],
+  "bell_with_slash": [
+    "äänetön",
+    "hiljaisuus",
+    "kello",
+    "kielto",
+    "mykistetty kello",
+    "mykistys"
+  ],
+  "bellhop_bell": [
+    "hotelli",
+    "hotellipoika",
+    "kello",
+    "soittokello"
+  ],
+  "benin": [
+    "lippu"
+  ],
+  "bento_box": [
+    "bento",
+    "bento-rasia",
+    "rasia"
+  ],
+  "bermuda": [
+    "lippu"
+  ],
+  "beverage_box": [
+    "juomatetra",
+    "pillijuoma"
+  ],
+  "bhutan": [
+    "lippu"
+  ],
+  "bicycle": [
+    "ajoneuvo",
+    "polkupyörä",
+    "pyörä"
+  ],
+  "bikini": [
+    "bikinit",
+    "uida",
+    "uimapuku",
+    "vaatteet"
+  ],
+  "billed_cap": [
+    "hattu",
+    "lakki",
+    "lippalakki",
+    "vaatteet"
+  ],
+  "biohazard": [
+    "biologinen",
+    "biovaara",
+    "vaara"
+  ],
+  "bird": [
+    "lintu",
+    "pikkulintu",
+    "turkoosi"
+  ],
+  "birthday_cake": [
+    "jälkiruoka",
+    "juhla",
+    "kakku",
+    "leivonnainen",
+    "makea",
+    "syntymäpäivä",
+    "syntymäpäiväkakku"
+  ],
+  "bison": [
+    "biisoni",
+    "lauma",
+    "puhveli",
+    "visentti"
+  ],
+  "black_cat": [
+    "epäonni",
+    "kissa",
+    "musta"
+  ],
+  "black_circle": [
+    "muoto",
+    "musta ympyrä",
+    "ympyrä"
+  ],
+  "black_flag": [
+    "liehuva",
+    "lippu",
+    "musta"
+  ],
+  "black_heart": [
+    "musta",
+    "sydän"
+  ],
+  "black_large_square": [
+    "iso musta neliö",
+    "muoto",
+    "neliö"
+  ],
+  "black_medium_small_square": [
+    "muoto",
+    "neliö",
+    "pienehkö musta neliö"
+  ],
+  "black_medium_square": [
+    "keskikokoinen musta neliö",
+    "muoto",
+    "neliö"
+  ],
+  "black_nib": [
+    "kynä",
+    "musta kynänkärki",
+    "mustekynä"
+  ],
+  "black_small_square": [
+    "muoto",
+    "neliö",
+    "pieni musta neliö"
+  ],
+  "black_square_button": [
+    "muoto",
+    "musta neliöruutu",
+    "neliö",
+    "valinta",
+    "valintaruutu"
+  ],
+  "blonde_man": [
+    "blondi",
+    "hiukset",
+    "mies",
+    "vaalea",
+    "vaaleahiuksinen mies",
+    "vaaleatukkainen mies"
+  ],
+  "blonde_woman": [
+    "blondi",
+    "hiukset",
+    "nainen",
+    "vaalea",
+    "vaaleahiuksinen nainen",
+    "vaaleatukkainen nainen"
+  ],
+  "blossom": [
+    "kasvi",
+    "kukinta",
+    "kukka"
+  ],
+  "blowfish": [
+    "kala",
+    "pallokala"
+  ],
+  "blue_book": [
+    "kirja",
+    "sininen"
+  ],
+  "blue_circle": [
+    "muoto",
+    "sininen",
+    "ympyrä"
+  ],
+  "blue_heart": [
+    "sininen",
+    "sydän"
+  ],
+  "blue_square": [
+    "neliö",
+    "sininen"
+  ],
+  "blueberries": [
+    "marja",
+    "mustikat",
+    "mustikka",
+    "sininen"
+  ],
+  "blush": [
+    "hymy",
+    "naama",
+    "punastunut",
+    "silmä"
+  ],
+  "boar": [
+    "sika",
+    "villisika"
+  ],
+  "bolivia": [
+    "lippu"
+  ],
+  "bomb": [
+    "pommi",
+    "sarjakuva"
+  ],
+  "bone": [
+    "luu",
+    "luuranko",
+    "luusto"
+  ],
+  "bookmark": [
+    "kirjanmerkki",
+    "merkki"
+  ],
+  "bookmark_tabs": [
+    "kirjanmerkki",
+    "kirjanmerkkivälilehdet",
+    "merkki",
+    "välilehti"
+  ],
+  "books": [
+    "kirja",
+    "kirjapino",
+    "kirjat",
+    "kirjoja"
+  ],
+  "boomerang": [
+    "australia",
+    "bumerangi",
+    "kimmota takaisin",
+    "seuraus"
+  ],
+  "bosnia_herzegovina": [
+    "lippu"
+  ],
+  "botswana": [
+    "lippu"
+  ],
+  "bottle_with_popping_cork": [
+    "baari",
+    "juoda",
+    "korkki",
+    "poksauttaa",
+    "pullo",
+    "pullo ja korkin poksautus"
+  ],
+  "bouquet": [
+    "kasvi",
+    "kukka",
+    "kukkakimppu",
+    "romantiikka"
+  ],
+  "bouvet_island": [
+    "lippu"
+  ],
+  "bow_and_arrow": [
+    "ase",
+    "horoskooppi",
+    "horoskooppimerkki",
+    "jousi ja nuoli",
+    "jousiammunta",
+    "jousimies",
+    "jousipyssy",
+    "työkalu"
+  ],
+  "bowl_with_spoon": [
+    "aamiainen",
+    "kulho ja lusikka",
+    "murot"
+  ],
+  "bowling": [
+    "keila",
+    "keilailu",
+    "keilapallo",
+    "pallo",
+    "peli"
+  ],
+  "boxing_glove": [
+    "hanska",
+    "liikunta",
+    "nyrkkeily",
+    "nyrkkeilyhanska",
+    "urheilu"
+  ],
+  "boy": [
+    "miespuolinen",
+    "nuori",
+    "poika"
+  ],
+  "brain": [
+    "aivot",
+    "äly",
+    "pää",
+    "vartalo",
+    "viisas"
+  ],
+  "brazil": [
+    "lippu"
+  ],
+  "bread": [
+    "leipä",
+    "pala"
+  ],
+  "breast_feeding": [
+    "äiti",
+    "imettää",
+    "imetys",
+    "rintamaito",
+    "ruokkia",
+    "syöttää",
+    "vauva"
+  ],
+  "brick": [
+    "laasti",
+    "muuri",
+    "savi",
+    "seinä",
+    "tiilet",
+    "tiili"
+  ],
+  "bridge_at_night": [
+    "sää",
+    "silta",
+    "silta yöllä",
+    "yö"
+  ],
+  "briefcase": [
+    "salkku"
+  ],
+  "briefs": [
+    "alushousut",
+    "uima-asu",
+    "uimahousut"
+  ],
+  "bright_button": [
+    "kirkasta",
+    "kirkkaus",
+    "lisää",
+    "nappi",
+    "painike"
+  ],
+  "british_indian_ocean_territory": [
+    "lippu"
+  ],
+  "british_virgin_islands": [
+    "lippu"
+  ],
+  "broccoli": [
+    "parsakaali"
+  ],
+  "broken_heart": [
+    "särkyä",
+    "särkynyt",
+    "sydän"
+  ],
+  "broom": [
+    "harja",
+    "lakaisu",
+    "luuta",
+    "noita",
+    "siivous"
+  ],
+  "brown_circle": [
+    "ruskea",
+    "ympyrä"
+  ],
+  "brown_heart": [
+    "ruskea",
+    "sydän"
+  ],
+  "brown_square": [
+    "neliö",
+    "ruskea"
+  ],
+  "brunei": [
+    "lippu"
+  ],
+  "bubble_tea": [
+    "helmi",
+    "kupla",
+    "kuplatee",
+    "maito",
+    "tee"
+  ],
+  "bucket": [
+    "ämpäri",
+    "sanko"
+  ],
+  "bug": [
+    "hyönteinen",
+    "ötökkä"
+  ],
+  "building_construction": [
+    "rakennus",
+    "rakennustyömaa",
+    "työmaa"
+  ],
+  "bulgaria": [
+    "lippu"
+  ],
+  "bullet_train": [
+    "ajoneuvo",
+    "juna",
+    "luotijuna",
+    "luotipikajuna",
+    "rautatie",
+    "shinkansen"
+  ],
+  "bullseye": [
+    "darts",
+    "häränsilmä",
+    "kymmenen",
+    "napakymppi",
+    "tikka",
+    "tikkataulu"
+  ],
+  "burkina_faso": [
+    "lippu"
+  ],
+  "burrito": [
+    "meksikolainen"
+  ],
+  "burundi": [
+    "lippu"
+  ],
+  "bus": [
+    "ajoneuvo",
+    "auto",
+    "bussi",
+    "linja-auto"
+  ],
+  "bus_stop": [
+    "asema",
+    "bussipysäkki",
+    "pysäkki"
+  ],
+  "bust_in_silhouette": [
+    "rintakuva",
+    "rintasiluetti",
+    "siluetti"
+  ],
+  "busts_in_silhouette": [
+    "kaksi rintasiluettia",
+    "rintakuva",
+    "siluetti"
+  ],
+  "butter": [
+    "maitotuote",
+    "voi"
+  ],
+  "butterfly": [
+    "hyönteinen",
+    "perhonen",
+    "sievä"
+  ],
+  "cactus": [
+    "kaktus",
+    "kasvi"
+  ],
+  "call_me_hand": [
+    "käsi",
+    "soita",
+    "soita minulle"
+  ],
+  "cambodia": [
+    "lippu"
+  ],
+  "camel": [
+    "dromedaari",
+    "kameli",
+    "kyttyrä",
+    "yksikyttyräinen"
+  ],
+  "camera": [
+    "kamera",
+    "video"
+  ],
+  "camera_with_flash": [
+    "kamera",
+    "kamera ja salama",
+    "salama",
+    "video"
+  ],
+  "cameroon": [
+    "lippu"
+  ],
+  "camping": [
+    "leiri",
+    "leirintäalue",
+    "teltta",
+    "telttailu"
+  ],
+  "canada": [
+    "lippu"
+  ],
+  "canary_islands": [
+    "lippu"
+  ],
+  "cancer": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "rapu",
+    "rapu-merkki"
+  ],
+  "candle": [
+    "kynttilä",
+    "valo"
+  ],
+  "candy": [
+    "jälkiruoka",
+    "karkki",
+    "makea"
+  ],
+  "canned_food": [
+    "purkki",
+    "säilyketölkki"
+  ],
+  "canoe": [
+    "kanootti",
+    "vene"
+  ],
+  "cape_verde": [
+    "lippu"
+  ],
+  "capricorn": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "kauris",
+    "kauris-merkki"
+  ],
+  "card_file_box": [
+    "arkistolaatikko",
+    "kortisto",
+    "laatikko",
+    "mappi"
+  ],
+  "card_index": [
+    "kortisto",
+    "kortti",
+    "rolodex"
+  ],
+  "card_index_dividers": [
+    "arkisto",
+    "kortisto",
+    "kortiston välilehdet",
+    "kortti",
+    "välilehti"
+  ],
+  "caribbean_netherlands": [
+    "lippu"
+  ],
+  "carousel_horse": [
+    "hevonen",
+    "karuselli",
+    "karusellihevonen"
+  ],
+  "carp_streamer": [
+    "juhla",
+    "karppi",
+    "karppiviiri",
+    "koinobori",
+    "viiri"
+  ],
+  "carpentry_saw": [
+    "käsisaha",
+    "puuseppä",
+    "saha",
+    "sahatavara",
+    "työkalu"
+  ],
+  "carrot": [
+    "porkkana",
+    "ruoka",
+    "vihannes"
+  ],
+  "castle": [
+    "länsimainen",
+    "linna",
+    "rakennus"
+  ],
+  "cat": [
+    "kissa",
+    "lemmikki"
+  ],
+  "cat_face": [
+    "kissa",
+    "kissan naama",
+    "lemmikki",
+    "naama"
+  ],
+  "cat_with_wry_smile": [
+    "hymy",
+    "ironinen",
+    "kissa",
+    "naama",
+    "vino",
+    "vinosti hymyilevä kissa"
+  ],
+  "cayman_islands": [
+    "lippu"
+  ],
+  "central_african_republic": [
+    "lippu"
+  ],
+  "ceuta_melilla": [
+    "lippu"
+  ],
+  "chad": [
+    "lippu"
+  ],
+  "chains": [
+    "ketju",
+    "ketjut"
+  ],
+  "chair": [
+    "istua",
+    "istuin",
+    "istumapaikka",
+    "tuoli"
+  ],
+  "chart_decreasing": [
+    "kaavio",
+    "käyrä",
+    "laskeva käyrä",
+    "lasku",
+    "suuntaus"
+  ],
+  "chart_increasing": [
+    "kaavio",
+    "kasvu",
+    "käyrä",
+    "nouseva käyrä",
+    "nousu",
+    "suuntaus"
+  ],
+  "chart_increasing_with_yen": [
+    "kasvu",
+    "käyrä",
+    "markkinat",
+    "nousu",
+    "pankki",
+    "raha",
+    "valuutta",
+    "yen",
+    "yen ja nouseva käyrä"
+  ],
+  "check_box_with_check": [
+    "merkki",
+    "punainen valintamerkki",
+    "rasti",
+    "tarkistusmerkki",
+    "v"
+  ],
+  "check_mark": [
+    "merkki",
+    "paksu valintamerkki",
+    "tarkistusmerkki",
+    "v",
+    "valintamerkki"
+  ],
+  "cheese_wedge": [
+    "juusto",
+    "juustopala"
+  ],
+  "chequered_flag": [
+    "kilpa-ajot",
+    "ruutukuvio",
+    "ruutulippu"
+  ],
+  "cherries": [
+    "hedelmä",
+    "kasvi",
+    "kirsikat",
+    "kirsikka"
+  ],
+  "cherry_blossom": [
+    "kasvi",
+    "kirsikankukka",
+    "kirsikka",
+    "kukka"
+  ],
+  "chess_pawn": [
+    "nappula",
+    "pelinappula",
+    "punapaita",
+    "šakki",
+    "šakkipelin sotilas",
+    "sotilas",
+    "uhrattavissa"
+  ],
+  "chestnut": [
+    "kastanja",
+    "kasvi"
+  ],
+  "chicken": [
+    "kana",
+    "lintu"
+  ],
+  "child": [
+    "lapsi",
+    "lapsuus",
+    "nuori",
+    "sukupuolineutraali"
+  ],
+  "children_crossing": [
+    "jalankulkija",
+    "lapsi",
+    "lapsia liikenteessä",
+    "liikenne",
+    "suojatie"
+  ],
+  "chile": [
+    "lippu"
+  ],
+  "china": [
+    "lippu"
+  ],
+  "chipmunk": [
+    "maaorava",
+    "orava"
+  ],
+  "chocolate_bar": [
+    "jälkiruoka",
+    "makea",
+    "patukka",
+    "suklaa",
+    "suklaapatukka"
+  ],
+  "chopsticks": [
+    "aterimet",
+    "ruokailu",
+    "syömäpuikot"
+  ],
+  "christmas_island": [
+    "lippu"
+  ],
+  "christmas_tree": [
+    "joulu",
+    "joulukuusi",
+    "juhla",
+    "kuusi"
+  ],
+  "church": [
+    "kirkko",
+    "kristinusko",
+    "rakennus",
+    "uskonto"
+  ],
+  "cigarette": [
+    "savuke",
+    "tupakointi"
+  ],
+  "cinema": [
+    "elokuva",
+    "kamera",
+    "kuvata",
+    "video",
+    "videokuva"
+  ],
+  "circled_m": [
+    "m",
+    "m ympyrässä",
+    "metro",
+    "ympyrä"
+  ],
+  "circus_tent": [
+    "sirkus",
+    "sirkusteltta",
+    "teltta"
+  ],
+  "cityscape": [
+    "kaupunki",
+    "kaupunkimaisema",
+    "rakennus"
+  ],
+  "cityscape_at_dusk": [
+    "aurinko",
+    "ilta",
+    "kaupunki",
+    "kaupunkimaisema illanhämärässä",
+    "sää"
+  ],
+  "cl_button": [
+    "cl",
+    "kumita",
+    "pyyhi",
+    "pyyhi-näppäin"
+  ],
+  "clamp": [
+    "puristin",
+    "ruuvipenkki",
+    "ruuvipuristin",
+    "työkalu"
+  ],
+  "clap": [
+    "käsi",
+    "käsien taputus",
+    "taputtaa",
+    "vartalo"
+  ],
+  "clapper_board": [
+    "elokuva",
+    "klaffi",
+    "klaffitaulu",
+    "kuvaukset"
+  ],
+  "classical_building": [
+    "antiikki",
+    "klassinen rakennus",
+    "klassismi",
+    "rakennus"
+  ],
+  "clinking_beer_mugs": [
+    "baari",
+    "juoda",
+    "kilisevät oluttuopit",
+    "kippis",
+    "olut",
+    "tuoppi"
+  ],
+  "clinking_glasses": [
+    "juhlia",
+    "juoda",
+    "kilisevät lasit",
+    "kilistää",
+    "lasi"
+  ],
+  "clipboard": [
+    "leikepöytä",
+    "levy",
+    "paperinpidike"
+  ],
+  "clipperton_island": [
+    "lippu"
+  ],
+  "clockwise_vertical_arrows": [
+    "myötäpäivään",
+    "nuoli",
+    "päivitä",
+    "pystynuolet myötäpäivään"
+  ],
+  "closed_book": [
+    "kirja",
+    "suljettu"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "alhaalla",
+    "postilaatikko",
+    "suljettu",
+    "suljettu postilaatikko, lippu alhaalla"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "lähtevä",
+    "postilaatikko",
+    "suljettu",
+    "suljettu postilaatikko, lippu ylhäällä"
+  ],
+  "closed_umbrella": [
+    "asuste",
+    "sää",
+    "sade",
+    "sateenvarjo",
+    "suljettu sateenvarjo"
+  ],
+  "cloud": [
+    "pilvi",
+    "sää"
+  ],
+  "cloud_with_lightning": [
+    "pilvi",
+    "sää",
+    "salama",
+    "ukkonen",
+    "ukkospilvi"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "pilvi",
+    "sää",
+    "sade",
+    "salama",
+    "ukkonen",
+    "ukkospilvi ja sade"
+  ],
+  "cloud_with_rain": [
+    "pilvi",
+    "sää",
+    "sade",
+    "sadepilvi"
+  ],
+  "cloud_with_snow": [
+    "lumi",
+    "lumisade",
+    "lumisadepilvi",
+    "pilvi",
+    "pyry",
+    "sää"
+  ],
+  "clown_face": [
+    "kasvot",
+    "klovni",
+    "pelle"
+  ],
+  "club_suit": [
+    "kortti",
+    "korttipeli",
+    "maa",
+    "risti"
+  ],
+  "clutch_bag": [
+    "asuste",
+    "iltalaukku",
+    "kirjekuorilaukku",
+    "laukku"
+  ],
+  "coat": [
+    "päällysvaate",
+    "pusero",
+    "takki",
+    "vaatteet"
+  ],
+  "cockroach": [
+    "hyönteinen",
+    "russakka",
+    "torakka",
+    "tuholainen"
+  ],
+  "cocktail_glass": [
+    "baari",
+    "cocktail",
+    "cocktaillasi",
+    "juoda",
+    "lasi"
+  ],
+  "coconut": [
+    "kookospähkinä",
+    "palmu"
+  ],
+  "cocos_keeling_islands": [
+    "lippu"
+  ],
+  "coffin": [
+    "arkku",
+    "kuolema",
+    "ruumisarkku"
+  ],
+  "coin": [
+    "aarre",
+    "hopea",
+    "kolikko",
+    "kulta",
+    "metalli",
+    "raha"
+  ],
+  "cold_face": [
+    "jääpuikot",
+    "jäätynyt",
+    "kylmä",
+    "kylmettynyt",
+    "paleleva",
+    "sininen naama"
+  ],
+  "collision": [
+    "pum",
+    "sarjakuva",
+    "törmäys"
+  ],
+  "colombia": [
+    "lippu"
+  ],
+  "comet": [
+    "avaruus",
+    "komeetta",
+    "pyrstötähti"
+  ],
+  "comoros": [
+    "lippu"
+  ],
+  "compass": [
+    "kompassi",
+    "magneettinen",
+    "navigointi",
+    "suunnistus"
+  ],
+  "computer_disk": [
+    "levy",
+    "minidisc",
+    "minidisk",
+    "tietokone"
+  ],
+  "computer_mouse": [
+    "hiiri",
+    "tietokone",
+    "tietokoneen hiiri"
+  ],
+  "confetti_ball": [
+    "juhla",
+    "konfetti",
+    "konfettipallo",
+    "koristepaperi"
+  ],
+  "confounded_face": [
+    "hämmentynyt",
+    "naama",
+    "pöyristynyt",
+    "tyrmistynyt"
+  ],
+  "confused": [
+    "häkeltynyt",
+    "hämmennys",
+    "hämmentynyt",
+    "naama"
+  ],
+  "congo_brazzaville": [
+    "lippu"
+  ],
+  "congo_kinshasa": [
+    "lippu"
+  ],
+  "construction": [
+    "este",
+    "rakennustyömaan merkki"
+  ],
+  "construction_worker": [
+    "hattu",
+    "rakennus",
+    "rakennustyöläinen",
+    "työmies"
+  ],
+  "construction_worker_man": [
+    "mies",
+    "rakennusmies",
+    "rakennustyöläinen",
+    "raksa"
+  ],
+  "construction_worker_woman": [
+    "nainen",
+    "rakennusnainen",
+    "rakennustyöläinen",
+    "raksa"
+  ],
+  "control_knobs": [
+    "musiikki",
+    "nuppi",
+    "säädin",
+    "säätimet"
+  ],
+  "convenience_store": [
+    "kauppa",
+    "lähikauppa",
+    "rakennus"
+  ],
+  "cook": [
+    "keittiömestari",
+    "kokki"
+  ],
+  "cook_islands": [
+    "lippu"
+  ],
+  "cooked_rice": [
+    "keitetty",
+    "riisi"
+  ],
+  "cookie": [
+    "jälkiruoka",
+    "keksi",
+    "makea"
+  ],
+  "cooking": [
+    "kokkaus",
+    "paistinpannu",
+    "ruoka"
+  ],
+  "cool_button": [
+    "cool",
+    "laatikko",
+    "siistiä",
+    "teksti"
+  ],
+  "copyright": [
+    "c",
+    "tekijänoikeus",
+    "tekijänoikeusmerkki"
+  ],
+  "costa_rica": [
+    "lippu"
+  ],
+  "couch_and_lamp": [
+    "hotelli",
+    "lamppu",
+    "sohva",
+    "sohva ja lamppu"
+  ],
+  "counterclockwise_arrows_button": [
+    "nuolet vastapäivään",
+    "nuoli",
+    "vastapäivään"
+  ],
+  "couple_with_heart": [
+    "pariskunta",
+    "pariskunta ja sydän",
+    "rakkaus",
+    "romantiikka",
+    "sydän",
+    "mies",
+    "nainen"
+  ],
+  "couple_with_heart_man_man": [
+    "mies",
+    "pariskunta",
+    "pariskunta ja sydän",
+    "rakkaus",
+    "romantiikka",
+    "sydän"
+  ],
+  "couple_with_heart_woman_woman": [
+    "nainen",
+    "pariskunta",
+    "pariskunta ja sydän",
+    "rakkaus",
+    "romantiikka",
+    "sydän"
+  ],
+  "cow": [
+    "läikikäs",
+    "lehmä"
+  ],
+  "cow_face": [
+    "lehmä",
+    "lehmän naama",
+    "naama"
+  ],
+  "cowboy_hat_face": [
+    "cowboy",
+    "cowboy-hattu",
+    "hattu",
+    "kasvot"
+  ],
+  "crab": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "rapu"
+  ],
+  "crayon": [
+    "liitu",
+    "väri",
+    "väriliitu"
+  ],
+  "credit_card": [
+    "kortti",
+    "luotto",
+    "luottokortti",
+    "pankki",
+    "raha"
+  ],
+  "crescent_moon": [
+    "kuu",
+    "kuunsirppi",
+    "sää",
+    "sirppi",
+    "taivaankappale"
+  ],
+  "cricket": [
+    "heinäsirkka",
+    "sirkka"
+  ],
+  "cricket_game": [
+    "kriketti",
+    "maila",
+    "ottelu",
+    "pallo"
+  ],
+  "croatia": [
+    "lippu"
+  ],
+  "crocodile": [
+    "krokotiili"
+  ],
+  "croissant": [
+    "leipä",
+    "ranskalainen",
+    "ruoka",
+    "voisarvi"
+  ],
+  "cross_mark": [
+    "kertolasku",
+    "merkki",
+    "peruuta",
+    "punainen rastimerkki",
+    "x"
+  ],
+  "cross_mark_button": [
+    "kertolasku",
+    "laatikko",
+    "merkki",
+    "peruuta",
+    "rastimerkki",
+    "x"
+  ],
+  "crossed_fingers": [
+    "käsi",
+    "onni",
+    "risti",
+    "sormet ristissä",
+    "sormi"
+  ],
+  "crossed_flags": [
+    "japani",
+    "juhla",
+    "liput ristissä",
+    "ristityt"
+  ],
+  "crossed_swords": [
+    "ase",
+    "miekat ristissä",
+    "miekka"
+  ],
+  "crown": [
+    "asuste",
+    "kruunu",
+    "kuningas",
+    "kuningatar"
+  ],
+  "cry": [
+    "itkevä",
+    "itku",
+    "kyynel",
+    "naama",
+    "surullinen"
+  ],
+  "crying_cat": [
+    "itkevä kissa",
+    "itku",
+    "kissa",
+    "kyynel",
+    "naama",
+    "surullinen"
+  ],
+  "crystal_ball": [
+    "ennustaja",
+    "ennustus",
+    "kristalli",
+    "kristallipallo",
+    "povaus",
+    "taika",
+    "tulevaisuus"
+  ],
+  "cuba": [
+    "lippu"
+  ],
+  "cucumber": [
+    "kurkku",
+    "ruoka",
+    "vihannes"
+  ],
+  "cup_with_straw": [
+    "juoma",
+    "lasi ja pilli",
+    "mehu"
+  ],
+  "cupcake": [
+    "kuppikakku",
+    "leivonnainen",
+    "leivos",
+    "makea",
+    "vuokaleivos"
+  ],
+  "curaçao": [
+    "lippu"
+  ],
+  "curling_stone": [
+    "curling-kivi",
+    "jää",
+    "kivi"
+  ],
+  "curly_loop": [
+    "kaareva silmukka",
+    "silmukka"
+  ],
+  "currency_exchange": [
+    "pankki",
+    "raha",
+    "vaihto",
+    "valuutanvaihto",
+    "valuutta"
+  ],
+  "curry_rice": [
+    "curry",
+    "curry-riisi",
+    "riisi"
+  ],
+  "custard": [
+    "jälkiruoka",
+    "makea",
+    "vanukas"
+  ],
+  "customs": [
+    "tulli"
+  ],
+  "cut_of_meat": [
+    "kyljys",
+    "lampaankyljys",
+    "lihanpala",
+    "pihvi",
+    "porsaankyljys"
+  ],
+  "cyclone": [
+    "hirmumyrsky",
+    "pyörre",
+    "pyörremyrsky",
+    "sää",
+    "sykloni"
+  ],
+  "cyprus": [
+    "lippu"
+  ],
+  "czechia": [
+    "lippu"
+  ],
+  "côte_d_ivoire": [
+    "lippu"
+  ],
+  "dagger": [
+    "ase",
+    "teräase",
+    "tikari",
+    "veitsi"
+  ],
+  "dango": [
+    "jälkiruoka",
+    "japanilainen",
+    "makea",
+    "tikku"
+  ],
+  "dashing_away": [
+    "juoksu",
+    "pikalähtö",
+    "sarjakuva"
+  ],
+  "date": [
+    "kalenteri",
+    "päivämäärä"
+  ],
+  "deaf_man": [
+    "kuuro",
+    "mies"
+  ],
+  "deaf_person": [
+    "esteettömyys",
+    "korva",
+    "kuulo",
+    "kuuro",
+    "kuuro ihminen"
+  ],
+  "deaf_woman": [
+    "kuuro",
+    "nainen"
+  ],
+  "deciduous_tree": [
+    "kasvi",
+    "lehtipuu",
+    "palmu",
+    "puu"
+  ],
+  "deer": [
+    "eläin",
+    "hirvi",
+    "peura"
+  ],
+  "delivery_truck": [
+    "ajoneuvo",
+    "auto",
+    "kuljetusauto",
+    "rekka"
+  ],
+  "denmark": [
+    "lippu"
+  ],
+  "department_store": [
+    "kauppa",
+    "rakennus",
+    "tavaratalo"
+  ],
+  "derelict_house": [
+    "autiotalo",
+    "hylätty",
+    "rakennus",
+    "talo",
+    "tyhjä"
+  ],
+  "desert": [
+    "aavikko",
+    "autiomaa",
+    "kaktus"
+  ],
+  "desert_island": [
+    "autio",
+    "autiosaari",
+    "saari"
+  ],
+  "desktop_computer": [
+    "pöytäkone",
+    "tietokone"
+  ],
+  "detective": [
+    "etsivä",
+    "salapoliisi"
+  ],
+  "diamond_suit": [
+    "kortti",
+    "korttipeli",
+    "maa",
+    "ruutu"
+  ],
+  "diamond_with_a_dot": [
+    "kukka",
+    "muoto",
+    "vinoneliö",
+    "vinoneliö/kukka"
+  ],
+  "diego_garcia": [
+    "lippu"
+  ],
+  "dim_button": [
+    "himmennä",
+    "kirkkaus",
+    "nappi",
+    "painike",
+    "vähennä"
+  ],
+  "disappointed_face": [
+    "naama",
+    "pettymys",
+    "pettynyt"
+  ],
+  "disguised_face": [
+    "lasit",
+    "naama",
+    "naamio",
+    "naamioitunut",
+    "nenä",
+    "tuntematon",
+    "valepuku"
+  ],
+  "divide": [
+    "/",
+    "jako",
+    "jakomerkki",
+    "jakoviiva",
+    "matematiikka"
+  ],
+  "diving_mask": [
+    "snorkkelisetti",
+    "snorklaus",
+    "sukellus",
+    "sukellusmaski"
+  ],
+  "diya_lamp": [
+    "diya",
+    "lamppu",
+    "öljy",
+    "öljylamppu",
+    "savilamppu"
+  ],
+  "dizzy": [
+    "pyörryttävä",
+    "sarjakuva",
+    "tähti"
+  ],
+  "djibouti": [
+    "lippu"
+  ],
+  "dna": [
+    "biologi",
+    "evoluutio",
+    "geeni",
+    "genetiikka",
+    "perimä"
+  ],
+  "dodo": [
+    "lentokyvytön",
+    "mauritius",
+    "sukupuutto"
+  ],
+  "dog": [
+    "koira",
+    "lemmikki"
+  ],
+  "dog_face": [
+    "koira",
+    "koiran naama",
+    "lemmikki",
+    "naama"
+  ],
+  "dollar_banknote": [
+    "dollari",
+    "dollariseteli",
+    "pankki",
+    "raha",
+    "seteli",
+    "valuutta"
+  ],
+  "dolphin": [
+    "delfiini",
+    "flipper"
+  ],
+  "dominica": [
+    "lippu"
+  ],
+  "dominican_republic": [
+    "lippu"
+  ],
+  "door": [
+    "ovi"
+  ],
+  "dotted_six_pointed_star": [
+    "kuusisakarainen tähti pisteellä",
+    "onnentähti",
+    "tähti",
+    "uskonto"
+  ],
+  "double_curly_loop": [
+    "2",
+    "kaksoissilmukka",
+    "nauhuri",
+    "silmukka",
+    "vastaaja"
+  ],
+  "double_exclamation_mark": [
+    "2",
+    "huutomerkki",
+    "kaksoishuutomerkki",
+    "merkki",
+    "välimerkki"
+  ],
+  "doughnut": [
+    "donitsi",
+    "jälkiruoka",
+    "makea",
+    "munkkirinkeli"
+  ],
+  "dove": [
+    "kyyhky",
+    "lentää",
+    "lintu",
+    "rauha"
+  ],
+  "down_arrow": [
+    "etelä",
+    "ilmansuunta",
+    "nuoli",
+    "nuoli alas",
+    "pääilmansuunta"
+  ],
+  "down_left_arrow": [
+    "ilmansuunta",
+    "lounas",
+    "nuoli",
+    "nuoli alavasemmalle",
+    "väli-ilmansuunta"
+  ],
+  "down_right_arrow": [
+    "ilmansuunta",
+    "kaakko",
+    "nuoli",
+    "nuoli alaoikealle",
+    "väli-ilmansuunta"
+  ],
+  "downcast_face_with_sweat": [
+    "hiki",
+    "kylmä",
+    "kylmänhiki",
+    "naama"
+  ],
+  "downwards_button": [
+    "alas",
+    "kolmio",
+    "nappi",
+    "painike"
+  ],
+  "dragon": [
+    "lohikäärme",
+    "satu"
+  ],
+  "dragon_face": [
+    "lohikäärme",
+    "lohikäärmeen naama",
+    "naama",
+    "satu"
+  ],
+  "dress": [
+    "leninki",
+    "mekko",
+    "vaatteet"
+  ],
+  "drooling_face": [
+    "kasvot",
+    "kuola",
+    "kuolaava",
+    "kuolata",
+    "naama"
+  ],
+  "drop_of_blood": [
+    "kuukautiset",
+    "lääketiede",
+    "verenluovutus",
+    "veripisara"
+  ],
+  "droplet": [
+    "hiki",
+    "pisara",
+    "sää",
+    "tippa",
+    "vesi"
+  ],
+  "drum": [
+    "musiikki",
+    "rumpu",
+    "rumpukapula"
+  ],
+  "duck": [
+    "lintu",
+    "sorsa"
+  ],
+  "dumpling": [
+    "myky",
+    "pelmeni",
+    "taikinanyytti"
+  ],
+  "dvd": [
+    "blu-ray",
+    "cd",
+    "levy",
+    "tietokone"
+  ],
+  "e_mail": [
+    "e-mail",
+    "sähköposti",
+    "sähköpostiviesti",
+    "viesti"
+  ],
+  "eagle": [
+    "kotka",
+    "lintu"
+  ],
+  "ear": [
+    "korva",
+    "pää",
+    "vartalo"
+  ],
+  "ear_of_corn": [
+    "kasvi",
+    "maissi",
+    "maissintähkä",
+    "tähkä"
+  ],
+  "ear_with_hearing_aid": [
+    "esteettömyys",
+    "huonokuuloinen",
+    "kuulolaite",
+    "kuulolaite korvassa",
+    "kuulonalenema"
+  ],
+  "ecuador": [
+    "lippu"
+  ],
+  "egg": [
+    "kananmuna",
+    "ruoka"
+  ],
+  "eggplant": [
+    "kasvi",
+    "kasvis",
+    "munakoiso",
+    "vihannes"
+  ],
+  "egypt": [
+    "lippu"
+  ],
+  "eight": [
+    "näppäin"
+  ],
+  "eight_o_clock": [
+    "20",
+    "20.00",
+    "8",
+    "8.00",
+    "aika",
+    "kello",
+    "kello kahdeksan",
+    "kellonaika"
+  ],
+  "eight_pointed_star": [
+    "8",
+    "asteriski",
+    "kahdeksankärkinen tähti",
+    "tähti",
+    "tähtimerkki"
+  ],
+  "eight_spoked_asterisk": [
+    "8",
+    "asteriski",
+    "kahdeksanpiikkinen tähtimerkki",
+    "tähti",
+    "tähtimerkki"
+  ],
+  "eight_thirty": [
+    "20.30",
+    "30",
+    "8.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli yhdeksän"
+  ],
+  "eject_button": [
+    "anna",
+    "avaus",
+    "nappi",
+    "painike",
+    "poista"
+  ],
+  "el_salvador": [
+    "lippu"
+  ],
+  "electric_plug": [
+    "pistoke",
+    "sähkö",
+    "sähköpistoke",
+    "sähkötöpseli",
+    "töpseli"
+  ],
+  "elephant": [
+    "elefantti",
+    "norsu"
+  ],
+  "elevator": [
+    "esteettömyys",
+    "hissi"
+  ],
+  "eleven_o_clock": [
+    "11",
+    "11.00",
+    "23",
+    "23.00",
+    "aika",
+    "kello",
+    "kello yksitoista",
+    "kellonaika"
+  ],
+  "eleven_thirty": [
+    "11.30",
+    "23.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kaksitoista"
+  ],
+  "elf": [
+    "alf",
+    "haltia",
+    "keiju",
+    "keijukainen",
+    "legolas",
+    "suippokorva"
+  ],
+  "end_arrow": [
+    "end-nuoli",
+    "lopeta",
+    "nuoli"
+  ],
+  "england": [
+    "lippu"
+  ],
+  "enraged_face": [
+    "mököttävä",
+    "naama",
+    "punainen",
+    "raivo",
+    "suuttunut",
+    "vihainen"
+  ],
+  "envelope": [
+    "e-mail",
+    "kirje",
+    "kirjekuori",
+    "sähköposti",
+    "viesti"
+  ],
+  "envelope_with_arrow": [
+    "e-mail",
+    "kirjekuori ja nuoli",
+    "lähetetty",
+    "lähtevä",
+    "sähköposti",
+    "sähköpostiviesti",
+    "viesti"
+  ],
+  "equatorial_guinea": [
+    "lippu"
+  ],
+  "eritrea": [
+    "lippu"
+  ],
+  "estonia": [
+    "lippu"
+  ],
+  "eswatini": [
+    "lippu"
+  ],
+  "ethiopia": [
+    "lippu"
+  ],
+  "euro_banknote": [
+    "euro",
+    "euroseteli",
+    "pankki",
+    "raha",
+    "seteli",
+    "valuutta"
+  ],
+  "european_union": [
+    "lippu"
+  ],
+  "evergreen_tree": [
+    "ikivihreä",
+    "kasvi",
+    "puu"
+  ],
+  "ewe": [
+    "lammas",
+    "naispuolinen",
+    "uuhi"
+  ],
+  "exclamation_question_mark": [
+    "2",
+    "huuto-kysymysmerkki",
+    "huutomerkki",
+    "kysymysmerkki",
+    "merkki",
+    "välimerkki"
+  ],
+  "exploding_head": [
+    "järkytys",
+    "naama",
+    "paukku",
+    "räjähdys päässä",
+    "raju",
+    "sokki"
+  ],
+  "expressionless_face": [
+    "ilmeetön",
+    "kasvot",
+    "naama",
+    "tunteeton",
+    "tyhjä"
+  ],
+  "eye": [
+    "pää",
+    "silmä",
+    "vartalo"
+  ],
+  "eye_in_speech_bubble": [
+    "puhekupla",
+    "puhekuplasilmä",
+    "silmä",
+    "silminnäkijä",
+    "todistaja"
+  ],
+  "eyes": [
+    "naama",
+    "silmä",
+    "silmät",
+    "vartalo"
+  ],
+  "face_blowing_a_kiss": [
+    "lentosuukko",
+    "naama",
+    "pusu",
+    "sydän"
+  ],
+  "face_savoring_food": [
+    "herkullinen",
+    "herkullista ruokaa nauttinut",
+    "hymy",
+    "naama",
+    "nam",
+    "nami",
+    "nautiskeleva"
+  ],
+  "face_vomiting": [
+    "naama",
+    "oksentaa",
+    "oksentava",
+    "pahoinvointi",
+    "yrjötä"
+  ],
+  "face_with_crossed_out_eyes": [
+    "huimaus",
+    "naama",
+    "pyörtyvä",
+    "tuupertuva"
+  ],
+  "face_with_hand_over_mouth": [
+    "käsi suun edessä",
+    "lipsahdus"
+  ],
+  "face_with_head_bandage": [
+    "kipeä",
+    "naama",
+    "naama ja pääside",
+    "side",
+    "vamma"
+  ],
+  "face_with_medical_mask": [
+    "flunssa",
+    "lääkäri",
+    "lääke",
+    "naama",
+    "naama ja hengityssuoja",
+    "sairas",
+    "suoja"
+  ],
+  "face_with_monocle": [
+    "kalkkis",
+    "monokkeli silmässä",
+    "vanhanaikainen"
+  ],
+  "face_with_raised_eyebrow": [
+    "epäilevä",
+    "kasvot",
+    "kohotetut kulmakarvat",
+    "naama",
+    "skeptinen"
+  ],
+  "face_with_steam_from_nose": [
+    "höyryä nenästä",
+    "naama",
+    "voittaja",
+    "voitto"
+  ],
+  "face_with_symbols_on_mouth": [
+    "kiroilu",
+    "sensuroitu suu"
+  ],
+  "face_with_thermometer": [
+    "kasvot",
+    "kipeä",
+    "kuume",
+    "lämpö",
+    "lämpömittari",
+    "naama",
+    "naama ja kuumemittari",
+    "sairas"
+  ],
+  "face_with_tongue": [
+    "kieli",
+    "kieli ulkona",
+    "naama"
+  ],
+  "face_without_mouth": [
+    "hiljaa",
+    "hiljainen",
+    "naama",
+    "naama ilman suuta",
+    "suu"
+  ],
+  "factory": [
+    "rakennus",
+    "tehdas",
+    "tuotanto"
+  ],
+  "factory_worker": [
+    "kokoaminen",
+    "tehdas",
+    "tehdastyöntekijä",
+    "teollisuus",
+    "työntekijä"
+  ],
+  "fairy": [
+    "hyönteismäinen",
+    "ilmatar",
+    "impi",
+    "keiju",
+    "keijukainen",
+    "luonnotar",
+    "metsänneito",
+    "oberon",
+    "puck",
+    "siivet",
+    "sinipiika",
+    "titania"
+  ],
+  "falafel": [
+    "kasvispyörykkä",
+    "kikherne"
+  ],
+  "falkland_islands": [
+    "lippu"
+  ],
+  "fallen_leaf": [
+    "kasvi",
+    "lehti",
+    "pudonnut lehti",
+    "putoava"
+  ],
+  "family": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "perhe"
+  ],
+  "family_man_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika"
+  ],
+  "family_man_boy_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika"
+  ],
+  "family_man_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "tyttö"
+  ],
+  "family_man_girl_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika",
+    "tyttö"
+  ],
+  "family_man_girl_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "tyttö"
+  ],
+  "family_man_man_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika"
+  ],
+  "family_man_man_boy_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika"
+  ],
+  "family_man_man_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "tyttö"
+  ],
+  "family_man_man_girl_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "poika",
+    "tyttö"
+  ],
+  "family_man_man_girl_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "perhe",
+    "tyttö"
+  ],
+  "family_man_woman_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_man_woman_boy_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_man_woman_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "family_man_woman_girl_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "nainen",
+    "perhe",
+    "poika",
+    "tyttö"
+  ],
+  "family_man_woman_girl_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "mies",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "family_woman_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_woman_boy_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_woman_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "family_woman_girl_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika",
+    "tyttö"
+  ],
+  "family_woman_girl_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "family_woman_woman_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_woman_woman_boy_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika"
+  ],
+  "family_woman_woman_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "family_woman_woman_girl_boy": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "poika",
+    "tyttö"
+  ],
+  "family_woman_woman_girl_girl": [
+    "äiti",
+    "isä",
+    "lapsi",
+    "nainen",
+    "perhe",
+    "tyttö"
+  ],
+  "farmer": [
+    "farmari",
+    "maanviljelijä",
+    "puutarhuri"
+  ],
+  "faroe_islands": [
+    "lippu"
+  ],
+  "fast_down_button": [
+    "2",
+    "alas",
+    "kolmio",
+    "nappi",
+    "nopeasti alas",
+    "painike"
+  ],
+  "fast_forward_button": [
+    "2",
+    "eteen",
+    "kelaa eteenpäin",
+    "kelaus",
+    "nappi",
+    "nuoli",
+    "painike"
+  ],
+  "fast_reverse_button": [
+    "2",
+    "kelaa taaksepäin",
+    "kelaus",
+    "nappi",
+    "nuoli",
+    "painike",
+    "taakse"
+  ],
+  "fast_up_button": [
+    "2",
+    "kolmio",
+    "nappi",
+    "nopeasti ylös",
+    "painike",
+    "ylös"
+  ],
+  "fax_machine": [
+    "faksi",
+    "faksilaite"
+  ],
+  "fearful": [
+    "naama",
+    "pelästynyt",
+    "pelko",
+    "pelokas"
+  ],
+  "feather": [
+    "höyhen",
+    "höyhenet",
+    "keveä",
+    "lento",
+    "lintu"
+  ],
+  "female_sign": [
+    "naissymboli",
+    "venus-symboli"
+  ],
+  "ferris_wheel": [
+    "huvipuisto",
+    "maailmanpyörä"
+  ],
+  "ferry": [
+    "ajoneuvo",
+    "alus",
+    "laiva",
+    "lautta",
+    "meri"
+  ],
+  "field_hockey": [
+    "hockey",
+    "maahockey",
+    "maila",
+    "ottelu",
+    "pallo"
+  ],
+  "fiji": [
+    "lippu"
+  ],
+  "file_cabinet": [
+    "arkistokaappi",
+    "kaappi",
+    "kortisto",
+    "mappi"
+  ],
+  "file_folder": [
+    "kansio",
+    "tiedosto",
+    "tiedostokansio"
+  ],
+  "film_frames": [
+    "elokuva",
+    "filminauha",
+    "filmirulla"
+  ],
+  "film_projector": [
+    "elokuva",
+    "elokuvakone",
+    "elokuvaprojektori",
+    "projektori",
+    "video"
+  ],
+  "finland": [
+    "lippu"
+  ],
+  "fire": [
+    "liekki",
+    "lieska",
+    "nuotio",
+    "tuli"
+  ],
+  "fire_engine": [
+    "ajoneuvo",
+    "auto",
+    "paloauto",
+    "tulipalo"
+  ],
+  "fire_extinguisher": [
+    "palonsammutin",
+    "sammutin",
+    "sammuttaa",
+    "sammutusväline",
+    "tulipalo"
+  ],
+  "firecracker": [
+    "dynamiitti",
+    "ilotulitus",
+    "räjähde",
+    "raketti",
+    "sähikäinen",
+    "tykinlaukaus"
+  ],
+  "firefighter": [
+    "paloauto",
+    "pelastaja"
+  ],
+  "fireworks": [
+    "ilotulitus",
+    "juhla"
+  ],
+  "first_quarter_moon": [
+    "ensimmäinen neljänneskuu",
+    "kuu",
+    "puolikuu",
+    "sää",
+    "taivaankappale"
+  ],
+  "first_quarter_moon_face": [
+    "kasvava puolikuu kasvoilla",
+    "kasvot",
+    "kuu",
+    "puolikuu",
+    "sää",
+    "taivaankappale"
+  ],
+  "fish": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "kala",
+    "kalat"
+  ],
+  "fish_cake_with_swirl": [
+    "kakku",
+    "kala",
+    "kalakakku",
+    "leivonnainen"
+  ],
+  "fishing_pole": [
+    "kalastus",
+    "onki",
+    "onkivapa",
+    "virveli"
+  ],
+  "five": [
+    "näppäin"
+  ],
+  "five_o_clock": [
+    "17",
+    "17.00",
+    "5",
+    "5.00",
+    "aika",
+    "kello",
+    "kello viisi",
+    "kellonaika"
+  ],
+  "five_thirty": [
+    "17.30",
+    "30",
+    "5.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kuusi"
+  ],
+  "flamingo": [
+    "pramea",
+    "trooppinen"
+  ],
+  "flashlight": [
+    "lamppu",
+    "sähkö",
+    "taskulamppu",
+    "valo"
+  ],
+  "flat_shoe": [
+    "balettitossu",
+    "balleriina",
+    "kenkä",
+    "lipokas",
+    "tossu"
+  ],
+  "flatbread": [
+    "arepa",
+    "lavash",
+    "naan",
+    "pita",
+    "rieska"
+  ],
+  "fleur_de_lis": [
+    "fleur-de-lis",
+    "heraldinen lilja",
+    "lilja",
+    "ranskan lilja",
+    "ranskanlilja"
+  ],
+  "flexed_biceps": [
+    "hauis",
+    "lihas",
+    "pullistaa",
+    "pullistettu hauis",
+    "sarjakuva",
+    "vartalo"
+  ],
+  "floppy_disk": [
+    "disketti",
+    "korppu",
+    "levyke",
+    "tietokone"
+  ],
+  "flower_playing_cards": [
+    "hanafuda",
+    "japani",
+    "kortti",
+    "korttipeli",
+    "kukat",
+    "kukkapelikortit"
+  ],
+  "flushed_face": [
+    "naama",
+    "punastunut",
+    "tyrmistynyt"
+  ],
+  "fly": [
+    "kärpänen",
+    "mätänevä",
+    "sairaus",
+    "tauti",
+    "toukka"
+  ],
+  "flying_disc": [
+    "frisbee",
+    "kiekko",
+    "liitokiekko",
+    "ultimate"
+  ],
+  "flying_saucer": [
+    "lentävä lautanen",
+    "ufo"
+  ],
+  "fog": [
+    "sää",
+    "sumu",
+    "usva",
+    "utu"
+  ],
+  "foggy": [
+    "sää",
+    "sumu",
+    "sumuinen"
+  ],
+  "folded_hands": [
+    "kämmenet yhdessä",
+    "kiitos",
+    "kumarrus",
+    "pliis",
+    "rukous"
+  ],
+  "fondue": [
+    "juusto",
+    "pata",
+    "suklaa",
+    "sulatettu",
+    "sveitsiläinen"
+  ],
+  "foot": [
+    "jalkaterä",
+    "potkaista",
+    "potku",
+    "tallata",
+    "töminä"
+  ],
+  "footprints": [
+    "jalanjäljet",
+    "jalanjäljki",
+    "jälki",
+    "vaatteet",
+    "vartalo"
+  ],
+  "fork_and_knife": [
+    "aterimet",
+    "haarukka",
+    "haarukka ja veitsi",
+    "ruokailu",
+    "veitsi"
+  ],
+  "fork_and_knife_with_plate": [
+    "aterimet",
+    "haarukka",
+    "haarukka, veitsi ja lautanen",
+    "lautanen",
+    "ruokailu",
+    "veitsi"
+  ],
+  "fortune_cookie": [
+    "ennustus",
+    "onnenkeksi"
+  ],
+  "fountain": [
+    "suihku",
+    "suihkulähde",
+    "vesi"
+  ],
+  "fountain_pen": [
+    "kynä",
+    "mustekynä",
+    "täytekynä"
+  ],
+  "four": [
+    "näppäin"
+  ],
+  "four_leaf_clover": [
+    "kasvi",
+    "lehti",
+    "neliapila",
+    "nelilehtinen",
+    "neljä"
+  ],
+  "four_o_clock": [
+    "16",
+    "16.00",
+    "4",
+    "4.00",
+    "aika",
+    "kello",
+    "kello neljä",
+    "kellonaika"
+  ],
+  "four_thirty": [
+    "16.30",
+    "30",
+    "4.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli viisi"
+  ],
+  "fox": [
+    "eläin",
+    "kettu",
+    "ketun naama"
+  ],
+  "framed_picture": [
+    "kehys",
+    "kuva kehyksissä",
+    "maalaus",
+    "museo",
+    "taide"
+  ],
+  "france": [
+    "lippu"
+  ],
+  "free_button": [
+    "free",
+    "ilmainen",
+    "laatikko",
+    "teksti"
+  ],
+  "french_fries": [
+    "ranskalaiset",
+    "tikkuperunat"
+  ],
+  "french_guiana": [
+    "lippu"
+  ],
+  "french_polynesia": [
+    "lippu"
+  ],
+  "french_southern_territories": [
+    "lippu"
+  ],
+  "fried_shrimp": [
+    "katkarapu",
+    "paistettu",
+    "tempura"
+  ],
+  "frog": [
+    "naama",
+    "sammakko",
+    "sammakon naama"
+  ],
+  "front_facing_baby_chick": [
+    "kananpoika",
+    "lintu",
+    "tipu",
+    "tipu edestäpäin"
+  ],
+  "frowning": [
+    "naama",
+    "suru",
+    "surullinen",
+    "tuomitseva"
+  ],
+  "frowning_face_with_open_mouth": [
+    "auki",
+    "naama",
+    "surullinen",
+    "surullinen ja suu auki",
+    "suu"
+  ],
+  "fu": [
+    "käsi",
+    "keskisormi",
+    "sormi",
+    "vartalo"
+  ],
+  "fuel_pump": [
+    "asema",
+    "bensapumppu",
+    "bensiini",
+    "polttoaine"
+  ],
+  "full_moon": [
+    "kuu",
+    "sää",
+    "taivaankappale",
+    "täysi",
+    "täysikuu"
+  ],
+  "full_moon_face": [
+    "kasvot",
+    "kuu",
+    "sää",
+    "täysikuu kasvoilla",
+    "valo"
+  ],
+  "funeral_urn": [
+    "hautajaiset",
+    "kuolema",
+    "tuhkauurna",
+    "uurna"
+  ],
+  "gabon": [
+    "lippu"
+  ],
+  "gambia": [
+    "lippu"
+  ],
+  "game_die": [
+    "noppa",
+    "noppakuutio",
+    "peli"
+  ],
+  "garlic": [
+    "mauste",
+    "valkosipuli"
+  ],
+  "gear": [
+    "hammasratas",
+    "työkalu"
+  ],
+  "gem_stone": [
+    "jalokivi",
+    "romantiikka",
+    "timantti"
+  ],
+  "gemini": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "kaksonen",
+    "kaksonen-merkki",
+    "kaksoset"
+  ],
+  "genie": [
+    "genius",
+    "henki",
+    "jinni",
+    "juno",
+    "lamppu"
+  ],
+  "georgia": [
+    "lippu"
+  ],
+  "germany": [
+    "lippu"
+  ],
+  "ghana": [
+    "lippu"
+  ],
+  "ghost": [
+    "fantasia",
+    "hirviö",
+    "kummitus",
+    "naama",
+    "olio",
+    "satu"
+  ],
+  "gibraltar": [
+    "lippu"
+  ],
+  "giraffe": [
+    "kirahvi",
+    "läikät"
+  ],
+  "girl": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "neiti",
+    "neito",
+    "neitsyt",
+    "nuori",
+    "tyttö"
+  ],
+  "glass_of_milk": [
+    "juoma",
+    "lasi",
+    "maito",
+    "maitolasi"
+  ],
+  "glasses": [
+    "silmä",
+    "silmälasit",
+    "vaatteet"
+  ],
+  "globe_showing_americas": [
+    "amerikka",
+    "maailma",
+    "maapallo",
+    "maapallo jossa näkyy amerikka"
+  ],
+  "globe_showing_asia_australia": [
+    "aasia",
+    "australia",
+    "maailma",
+    "maapallo",
+    "maapallo jossa näkyy aasia ja australia"
+  ],
+  "globe_showing_europe_africa": [
+    "afrikka",
+    "eurooppa",
+    "maailma",
+    "maapallo",
+    "maapallo jossa näkyy eurooppa ja afrikka"
+  ],
+  "globe_with_meridians": [
+    "maailma",
+    "maapallo",
+    "maapallo jossa näkyy pituuspiirit",
+    "pituuspiirit"
+  ],
+  "gloves": [
+    "asuste",
+    "hansikkaat",
+    "kädet",
+    "käsineet"
+  ],
+  "glowing_star": [
+    "loistava tähti",
+    "loiste",
+    "säihke",
+    "tähti",
+    "valo"
+  ],
+  "goal_net": [
+    "liikunta",
+    "maali",
+    "maaliverkko",
+    "urheilu"
+  ],
+  "goat": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "kauris",
+    "vuohi"
+  ],
+  "goblin": [
+    "fantasia",
+    "hiisi",
+    "hirviö",
+    "japanilainen",
+    "menninkäinen",
+    "naama",
+    "olio",
+    "satu"
+  ],
+  "goggles": [
+    "hitsaus",
+    "silmien suojelu",
+    "suojalasit",
+    "uimalasit"
+  ],
+  "gorilla": [
+    "eläin"
+  ],
+  "graduation_cap": [
+    "hattu",
+    "juhla",
+    "lakki",
+    "vaatteet",
+    "valmistujaiset",
+    "valmistujaislakki"
+  ],
+  "grapes": [
+    "hedelmä",
+    "kasvi",
+    "rypäle",
+    "viinirypäle",
+    "viinirypäleet"
+  ],
+  "greece": [
+    "lippu"
+  ],
+  "green_apple": [
+    "hedelmä",
+    "kasvi",
+    "omena",
+    "vihreä"
+  ],
+  "green_book": [
+    "kirja",
+    "vihreä"
+  ],
+  "green_circle": [
+    "vihreä",
+    "ympyrä"
+  ],
+  "green_heart": [
+    "sydän",
+    "vihreä"
+  ],
+  "green_salad": [
+    "ruoka",
+    "salaatti",
+    "vihreä"
+  ],
+  "green_square": [
+    "neliö",
+    "vihreä"
+  ],
+  "greenland": [
+    "lippu"
+  ],
+  "grenada": [
+    "lippu"
+  ],
+  "grimacing": [
+    "irvistävä",
+    "irvistys",
+    "naama"
+  ],
+  "grin": [
+    "hymy",
+    "kasvot",
+    "naama",
+    "silmä",
+    "virnistys",
+    "virnistys ja hymyilevät silmät"
+  ],
+  "grinning_cat": [
+    "auki",
+    "hymy",
+    "kissa",
+    "leveästi hymyilevä kissa",
+    "naama",
+    "suu"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "hymy",
+    "kissa",
+    "naama",
+    "silmä",
+    "virnistävä kissa ja hymyilevät silmät",
+    "virnistys"
+  ],
+  "grinning_face": [
+    "hymy",
+    "kasvot",
+    "leveä hymy",
+    "naama",
+    "virnistys"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "auki",
+    "hymy",
+    "hymyilevät silmät ja suu",
+    "kasvot",
+    "naama",
+    "silmä",
+    "suu"
+  ],
+  "growing_heart": [
+    "hermostunut",
+    "innostunut",
+    "kasvava",
+    "sydämen syke",
+    "sydän"
+  ],
+  "guadeloupe": [
+    "lippu"
+  ],
+  "guam": [
+    "lippu"
+  ],
+  "guard": [
+    "vartija"
+  ],
+  "guatemala": [
+    "lippu"
+  ],
+  "guernsey": [
+    "lippu"
+  ],
+  "guide_dog": [
+    "esteettömyys",
+    "opas",
+    "opaskoira",
+    "sokea"
+  ],
+  "guinea": [
+    "lippu"
+  ],
+  "guinea_bissau": [
+    "lippu"
+  ],
+  "guitar": [
+    "instrumentti",
+    "kitara",
+    "musiikki"
+  ],
+  "guyana": [
+    "lippu"
+  ],
+  "haiti": [
+    "lippu"
+  ],
+  "hamburger": [
+    "hampurilainen",
+    "jauhelihapihvi"
+  ],
+  "hammer": [
+    "työkalu",
+    "vasara"
+  ],
+  "hammer_and_pick": [
+    "hakku",
+    "hakku ja vasara",
+    "työkalu",
+    "vasara"
+  ],
+  "hammer_and_wrench": [
+    "jakoavain",
+    "jakoavain ja vasara",
+    "työkalu",
+    "vasara"
+  ],
+  "hamster": [
+    "hamsteri",
+    "hamsterin naama",
+    "lemmikki",
+    "naama"
+  ],
+  "hand_with_fingers_splayed": [
+    "käsi",
+    "levitetty",
+    "nostettu käsi ja sormet erillään",
+    "sormi",
+    "vartalo"
+  ],
+  "handbag": [
+    "asuste",
+    "käsilaukku",
+    "laukku"
+  ],
+  "handshake": [
+    "kädenpuristus",
+    "käsi",
+    "kätellä",
+    "sopimus",
+    "tapaaminen"
+  ],
+  "hash": [
+    "näppäin"
+  ],
+  "hatching_chick": [
+    "kananpoika",
+    "kuoriutuva",
+    "lintu",
+    "tipu"
+  ],
+  "headphone": [
+    "korvanappi",
+    "kuuloke",
+    "nappi",
+    "nappikuuloke"
+  ],
+  "headstone": [
+    "hauta",
+    "hautakivi",
+    "hautausmaa"
+  ],
+  "health_worker": [
+    "hoitotyöntekijä",
+    "lääkäri",
+    "sairaanhoitaja",
+    "terapeutti",
+    "terveydenhoito"
+  ],
+  "hear_no_evil_monkey": [
+    "apina",
+    "ei",
+    "ele",
+    "en kuule pahaa",
+    "kielletty"
+  ],
+  "heard_mcdonald_islands": [
+    "lippu"
+  ],
+  "heart": [
+    "punainen sydän",
+    "sydän"
+  ],
+  "heart_decoration": [
+    "sydän",
+    "sydänkoriste"
+  ],
+  "heart_exclamation": [
+    "huutomerkki",
+    "sydän",
+    "sydänhuutomerkki",
+    "välimerkit"
+  ],
+  "heart_eyes": [
+    "hymy",
+    "hymy ja sydänsilmät",
+    "naama",
+    "rakkaus",
+    "silmä",
+    "sydän"
+  ],
+  "heart_suit": [
+    "hertta",
+    "kortti",
+    "korttipeli",
+    "maa"
+  ],
+  "heart_with_arrow": [
+    "amor",
+    "nuoli",
+    "romantiikka",
+    "sydän",
+    "sydän ja nuoli"
+  ],
+  "heart_with_ribbon": [
+    "nauha",
+    "sydän",
+    "sydän ja lahjanauha",
+    "ystävänpäivä"
+  ],
+  "heavy_dollar_sign": [
+    "dollari",
+    "paksu dollarimerkki",
+    "raha",
+    "valuutta"
+  ],
+  "hedgehog": [
+    "piikikäs",
+    "siili"
+  ],
+  "helicopter": [
+    "ajoneuvo",
+    "helikopteri"
+  ],
+  "herb": [
+    "kasvi",
+    "lehti",
+    "yrtti"
+  ],
+  "hibiscus": [
+    "kasvi",
+    "kiinanruusu",
+    "kukka"
+  ],
+  "high_heeled_shoe": [
+    "kenkä",
+    "korko",
+    "korkokenkä",
+    "nainen",
+    "vaatteet"
+  ],
+  "high_speed_train": [
+    "ajoneuvo",
+    "juna",
+    "luotijuna",
+    "pikajuna",
+    "rautatie",
+    "shinkansen"
+  ],
+  "high_voltage": [
+    "korkeajännite",
+    "sähkö",
+    "sähköisku",
+    "vaara",
+    "virta"
+  ],
+  "hiking_boot": [
+    "erävaellus",
+    "kenkä",
+    "patikointi",
+    "retkeily",
+    "telttailu",
+    "vaelluskenkä"
+  ],
+  "hindu_temple": [
+    "hindu",
+    "hindutemppeli",
+    "temppeli"
+  ],
+  "hippopotamus": [
+    "virtahepo"
+  ],
+  "hole": [
+    "musta",
+    "musta aukko",
+    "pallo",
+    "reikä"
+  ],
+  "hollow_red_circle": [
+    "o",
+    "suuri ympyrä",
+    "ympyrä"
+  ],
+  "honduras": [
+    "lippu"
+  ],
+  "honey_pot": [
+    "hunaja",
+    "makea"
+  ],
+  "honeybee": [
+    "hyönteinen",
+    "mehiläinen"
+  ],
+  "hong_kong_sar_china": [
+    "lippu"
+  ],
+  "hook": [
+    "haka",
+    "koukku",
+    "koukuttaa"
+  ],
+  "horizontal_traffic_light": [
+    "liikenne",
+    "liikennevalo",
+    "vaakasuuntaiset liikennevalot",
+    "valo"
+  ],
+  "horse": [
+    "hevonen",
+    "kilpahevonen",
+    "ravihevonen",
+    "ravit"
+  ],
+  "horse_face": [
+    "hevonen",
+    "hevosen naama",
+    "naama"
+  ],
+  "horse_racing": [
+    "hevonen",
+    "jockey",
+    "kilparatsastus",
+    "ratsastus",
+    "ravit"
+  ],
+  "hospital": [
+    "ensiapu",
+    "hoito",
+    "lääkäri",
+    "rakennus",
+    "sairaala"
+  ],
+  "hot_beverage": [
+    "höyryävä",
+    "juoda",
+    "juoma",
+    "kahvi",
+    "kuuma",
+    "tee"
+  ],
+  "hot_dog": [
+    "hodari",
+    "makkara",
+    "nakki",
+    "sämpylä"
+  ],
+  "hot_face": [
+    "hikoilee",
+    "kuumeinen",
+    "kuumissaan",
+    "kuumottava",
+    "lämpöhalvaus",
+    "punanaama"
+  ],
+  "hot_pepper": [
+    "jalapeno",
+    "kasvi",
+    "kuuma",
+    "paprika",
+    "tulinen"
+  ],
+  "hot_springs": [
+    "kuumat lähteet",
+    "kylpylä",
+    "lähde",
+    "vesi"
+  ],
+  "hotel": [
+    "hotelli",
+    "majoitus",
+    "rakennus"
+  ],
+  "hourglass_done": [
+    "ajanotto",
+    "hiekka",
+    "tiimalasi"
+  ],
+  "hourglass_not_done": [
+    "ajanotto",
+    "hiekka",
+    "tiimalasi",
+    "valuva tiimalasi"
+  ],
+  "house": [
+    "rakennus",
+    "talo"
+  ],
+  "house_with_garden": [
+    "puutarha",
+    "rakennus",
+    "talo",
+    "talo ja puutarha"
+  ],
+  "houses": [
+    "rakennus",
+    "talo",
+    "taloryhmä"
+  ],
+  "hugs": [
+    "halaava naama",
+    "halaus",
+    "hali",
+    "naama"
+  ],
+  "hungary": [
+    "lippu"
+  ],
+  "hushed_face": [
+    "järkyttynyt",
+    "naama",
+    "sanaton",
+    "yllättynyt"
+  ],
+  "hut": [
+    "maja",
+    "mökki",
+    "savimaja",
+    "talo"
+  ],
+  "ice": [
+    "jääkuutio",
+    "kylmä"
+  ],
+  "ice_cream": [
+    "jäätelö",
+    "jälkiruoka",
+    "kerma",
+    "makea"
+  ],
+  "ice_hockey": [
+    "jää",
+    "jääkiekko ja maila",
+    "kiekko",
+    "maila",
+    "ottelu"
+  ],
+  "ice_skate": [
+    "jää",
+    "luistelu",
+    "luistin"
+  ],
+  "iceland": [
+    "lippu"
+  ],
+  "id_button": [
+    "henkilöllisyystodistus",
+    "id",
+    "identiteetti"
+  ],
+  "in_hole": [
+    "golf",
+    "lippu",
+    "lippu reiän päällä",
+    "reikä"
+  ],
+  "inbox_tray": [
+    "e-mail",
+    "postilaatikko",
+    "saapuvat",
+    "sähköposti",
+    "vastaanottaa"
+  ],
+  "incoming_envelope": [
+    "e-mail",
+    "saapuva",
+    "saapuva kirjekuori",
+    "sähköposti",
+    "sähköpostiviesti",
+    "viesti"
+  ],
+  "index_pointing_up": [
+    "etusormi",
+    "käsi",
+    "osoittaa",
+    "sormi",
+    "vartalo",
+    "ylös",
+    "ylös osoittava etusormi"
+  ],
+  "india": [
+    "lippu"
+  ],
+  "indonesia": [
+    "lippu"
+  ],
+  "infinity": [
+    "ääretön",
+    "äärettömyys",
+    "aina",
+    "ikuinen",
+    "rajaton",
+    "universaali"
+  ],
+  "information_source": [
+    "i",
+    "info",
+    "info-piste",
+    "tietoja"
+  ],
+  "innocent": [
+    "enkeli",
+    "hymy",
+    "hymy ja sädekehä",
+    "naama",
+    "sädekehä",
+    "satu",
+    "tarina",
+    "viaton"
+  ],
+  "input_latin_letters": [
+    "aakkoset",
+    "kirjaimet",
+    "latinalaiset",
+    "syötä",
+    "syötä kirjaimia"
+  ],
+  "input_latin_lowercase": [
+    "aakkoset",
+    "abcd",
+    "kirjaimet",
+    "latinalaiset",
+    "pienet",
+    "syötä",
+    "syötä pieniä kirjaimia"
+  ],
+  "input_latin_uppercase": [
+    "aakkoset",
+    "abcd",
+    "isot",
+    "kirjaimet",
+    "latinalaiset",
+    "syötä",
+    "syötä isoja kirjaimia"
+  ],
+  "input_symbols": [
+    "merkit",
+    "symbolit",
+    "syötä",
+    "syötä merkkejä"
+  ],
+  "iran": [
+    "lippu"
+  ],
+  "iraq": [
+    "lippu"
+  ],
+  "ireland": [
+    "lippu"
+  ],
+  "isle_of_man": [
+    "lippu"
+  ],
+  "israel": [
+    "lippu"
+  ],
+  "italy": [
+    "lippu"
+  ],
+  "jack_o_lantern": [
+    "halloween",
+    "juhla",
+    "kaivertaa",
+    "kurpitsa",
+    "kurpitsalyhty"
+  ],
+  "jamaica": [
+    "lippu"
+  ],
+  "japan": [
+    "lippu"
+  ],
+  "japanese_acceptable_button": [
+    "hyväksyttävä-kirjoitusmerkki",
+    "kiina",
+    "kirjoitusmerkki"
+  ],
+  "japanese_application_button": [
+    "hakemus-kirjoitusmerkki",
+    "kiina",
+    "kirjoitusmerkki"
+  ],
+  "japanese_bargain_button": [
+    "hyvä ostos -kirjainmerkki",
+    "japani",
+    "kirjoitusmerkki"
+  ],
+  "japanese_castle": [
+    "japani",
+    "japanilainen linna",
+    "linna",
+    "rakennus"
+  ],
+  "japanese_congratulations_button": [
+    "kiina",
+    "kirjoitusmerkki",
+    "onnittelut-kirjoitusmerkki"
+  ],
+  "japanese_discount_button": [
+    "alennus-kirjoitusmerkki",
+    "japani",
+    "kirjoitusmerkki"
+  ],
+  "japanese_dolls": [
+    "japani",
+    "japanilaiset nuket",
+    "juhlinta",
+    "nukke"
+  ],
+  "japanese_free_of_charge_button": [
+    "japani",
+    "kirjoitusmerkki",
+    "maksuton-kirjainmerkki"
+  ],
+  "japanese_here_button": [
+    "japani",
+    "katakana",
+    "kirjoitusmerkki",
+    "täällä-kirjainmerkki"
+  ],
+  "japanese_monthly_amount_button": [
+    "japani",
+    "kirjoitusmerkki",
+    "kuukausittainen määrä -kirjainmerkki"
+  ],
+  "japanese_no_vacancy_button": [
+    "kiina",
+    "kirjoitusmerkki",
+    "täynnä-kirjoitusmerkki"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "japani",
+    "kirjoitusmerkki",
+    "maksullinen-kirjainmerkki"
+  ],
+  "japanese_open_for_business_button": [
+    "avoinna-kirjoitusmerkki",
+    "kiina",
+    "kirjoitusmerkki"
+  ],
+  "japanese_passing_grade_button": [
+    "hyväksytty arvosana -kirjoitusmerkki",
+    "kiina",
+    "kirjoitusmerkki"
+  ],
+  "japanese_post_office": [
+    "japani",
+    "japanilainen postitoimisto",
+    "posti",
+    "rakennus"
+  ],
+  "japanese_prohibited_button": [
+    "japani",
+    "kielletty-kirjoitusmerkki",
+    "kirjoitusmerkki"
+  ],
+  "japanese_reserved_button": [
+    "japani",
+    "kirjoitusmerkki",
+    "varattu-kirjainmerkki"
+  ],
+  "japanese_secret_button": [
+    "kiina",
+    "kirjoitusmerkki",
+    "salainen-kirjoitusmerkki"
+  ],
+  "japanese_service_charge_button": [
+    "japani",
+    "katakana",
+    "kirjoitusmerkki",
+    "palvelumaksu-kirjainmerkki"
+  ],
+  "japanese_symbol_for_beginner": [
+    "ajokortti",
+    "aloittelija",
+    "auto",
+    "japani",
+    "japanilainen symboli aloittelijalle",
+    "shoshinsha"
+  ],
+  "japanese_vacancy_button": [
+    "kiina",
+    "kirjoitusmerkki",
+    "tyhjä-kirjoitusmerkki"
+  ],
+  "jeans": [
+    "farkut",
+    "housut",
+    "vaatteet"
+  ],
+  "jersey": [
+    "lippu"
+  ],
+  "joker": [
+    "jokeri",
+    "kortti",
+    "korttipeli"
+  ],
+  "jordan": [
+    "lippu"
+  ],
+  "joy": [
+    "ilo",
+    "itkunauru",
+    "kasvot naurunkyynelissä",
+    "naama",
+    "naurunkyyneleet"
+  ],
+  "joy_cat": [
+    "ilo",
+    "kissa",
+    "kissa ja naurunkyyneleet",
+    "kissanaama ja naurunkyyneleet",
+    "naama",
+    "nauru"
+  ],
+  "joystick": [
+    "ohjain",
+    "sauvaohjain",
+    "videopeli"
+  ],
+  "judge": [
+    "tuomari",
+    "vaaka"
+  ],
+  "kaaba": [
+    "islam",
+    "muslimi",
+    "rakennus",
+    "uskonto"
+  ],
+  "kangaroo": [
+    "australia",
+    "hypätä",
+    "kenguru",
+    "loikata",
+    "pussieläin"
+  ],
+  "kazakhstan": [
+    "lippu"
+  ],
+  "kenya": [
+    "lippu"
+  ],
+  "key": [
+    "avain",
+    "lukittu",
+    "salasana"
+  ],
+  "keyboard": [
+    "näppäimet",
+    "näppäimistö",
+    "näppis",
+    "tietokone"
+  ],
+  "kick_scooter": [
+    "lauta",
+    "potku",
+    "potkulauta"
+  ],
+  "kimono": [
+    "japanilainen",
+    "vaatteet"
+  ],
+  "kiribati": [
+    "lippu"
+  ],
+  "kiss": [
+    "pariskunta",
+    "pusu",
+    "romantiikka"
+  ],
+  "kiss_man_man": [
+    "mies",
+    "pariskunta",
+    "pusu",
+    "romantiikka"
+  ],
+  "kiss_mark": [
+    "huulet",
+    "huulipunajälki",
+    "jälki",
+    "pusu"
+  ],
+  "kiss_woman_man": [
+    "mies",
+    "nainen",
+    "pariskunta",
+    "pusu",
+    "romantiikka"
+  ],
+  "kiss_woman_woman": [
+    "nainen",
+    "pariskunta",
+    "pusu",
+    "romantiikka"
+  ],
+  "kissing_cat": [
+    "kissa",
+    "kissan pusunaama ja suljetut silmät",
+    "naama",
+    "pusu",
+    "silmä"
+  ],
+  "kissing_face": [
+    "naama",
+    "pusu",
+    "pusunaama",
+    "suudelma",
+    "suukko"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "naama",
+    "pusu",
+    "pusunaama ja suljetut silmät",
+    "silmä",
+    "suljettu"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "hymy",
+    "naama",
+    "pusu",
+    "pusunaama ja hymyilevät silmät",
+    "silmä"
+  ],
+  "kitchen_knife": [
+    "keittiöveitsi",
+    "leikkuuveitsi",
+    "ruoanlaitto",
+    "teräase",
+    "työkalu",
+    "veitsi"
+  ],
+  "kite": [
+    "leija",
+    "leijailla",
+    "lennättää"
+  ],
+  "kiwi_fruit": [
+    "hedelmä",
+    "kiivi",
+    "ruoka"
+  ],
+  "knot": [
+    "kiinnittää",
+    "köysi",
+    "naru",
+    "solmu",
+    "solmulla"
+  ],
+  "koala": [
+    "karhu"
+  ],
+  "kosovo": [
+    "lippu"
+  ],
+  "kuwait": [
+    "lippu"
+  ],
+  "kyrgyzstan": [
+    "lippu"
+  ],
+  "lab_coat": [
+    "koe",
+    "lääkärintakki",
+    "laboratoriotakki",
+    "tohtori",
+    "tutkija"
+  ],
+  "label": [
+    "etiketti",
+    "kortti",
+    "lappu",
+    "lipuke"
+  ],
+  "lacrosse": [
+    "haavipallo",
+    "maali",
+    "maila",
+    "pallo"
+  ],
+  "ladder": [
+    "askelma",
+    "kiivetä",
+    "tikapuut",
+    "tikkaat"
+  ],
+  "lady_beetle": [
+    "hyönteinen",
+    "leppäkerttu"
+  ],
+  "laos": [
+    "lippu"
+  ],
+  "laptop": [
+    "kannetava",
+    "kannettava tietokone",
+    "läppäri",
+    "tietokone"
+  ],
+  "large_blue_diamond": [
+    "iso sininen vinoneliö",
+    "muoto",
+    "sininen",
+    "vinoneliö"
+  ],
+  "large_orange_diamond": [
+    "iso oranssi vinoneliö",
+    "muoto",
+    "oranssi",
+    "vinoneliö"
+  ],
+  "last_quarter_moon": [
+    "kuu",
+    "puolikuu",
+    "sää",
+    "taivaankappale",
+    "viimeinen neljänneskuu"
+  ],
+  "last_quarter_moon_face": [
+    "kasvot",
+    "kuu",
+    "puolikuu",
+    "sää",
+    "taivaankappale",
+    "vähenevä puolikuu kasvoilla"
+  ],
+  "last_track_button": [
+    "edellinen",
+    "edellinen kappale",
+    "kolmiot",
+    "nappi",
+    "painike",
+    "siirry",
+    "taakse"
+  ],
+  "latin_cross": [
+    "kristinusko",
+    "latinalainen risti",
+    "risti",
+    "uskonto"
+  ],
+  "latvia": [
+    "lippu"
+  ],
+  "laughing": [
+    "auki",
+    "hymy",
+    "hymy ja tiukasti suljetut silmät",
+    "naama",
+    "nauru",
+    "suu",
+    "tyytyväinen"
+  ],
+  "leaf_fluttering_in_wind": [
+    "kasvi",
+    "lehti",
+    "lehti tuulessa",
+    "puhaltaa",
+    "tuuli"
+  ],
+  "leafy_green": [
+    "kaali",
+    "lehtivihannes",
+    "pinaattikiinankaali",
+    "salaatinlehti",
+    "salaatti"
+  ],
+  "lebanon": [
+    "lippu"
+  ],
+  "ledger": [
+    "kirja",
+    "kirjanpito",
+    "lehtiö",
+    "tilikirja"
+  ],
+  "left_arrow": [
+    "ilmansuunta",
+    "länsi",
+    "nuoli",
+    "nuoli vasemmalle",
+    "pääilmansuunta"
+  ],
+  "left_arrow_curving_right": [
+    "nuoli",
+    "oikealle kääntyvä nuoli"
+  ],
+  "left_facing_fist": [
+    "nyrkki",
+    "nyrkki vasemmalle",
+    "vasen"
+  ],
+  "left_luggage": [
+    "matkatavarat",
+    "säilytys",
+    "säilytyslokero",
+    "tavarasäilytys"
+  ],
+  "left_right_arrow": [
+    "nuoli",
+    "nuoli oikealle ja vasemmalle",
+    "suunta"
+  ],
+  "left_speech_bubble": [
+    "keskustelu",
+    "puhe",
+    "vasen puhekupla"
+  ],
+  "leg": [
+    "alaraaja",
+    "jalka",
+    "potkaista",
+    "potku",
+    "raaja"
+  ],
+  "lemon": [
+    "hedelmä",
+    "kasvi",
+    "sitrus",
+    "sitruuna"
+  ],
+  "leo": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "leijona",
+    "leijona-merkki"
+  ],
+  "leopard": [
+    "leopardi"
+  ],
+  "lesotho": [
+    "lippu"
+  ],
+  "level_slider": [
+    "liu’utin",
+    "liukusäädin",
+    "musiikki",
+    "valitsin",
+    "voimakkuus"
+  ],
+  "liberia": [
+    "lippu"
+  ],
+  "libra": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "vaaka",
+    "vaaka-merkki"
+  ],
+  "libya": [
+    "lippu"
+  ],
+  "liechtenstein": [
+    "lippu"
+  ],
+  "light_bulb": [
+    "ajatus",
+    "hehkulamppu",
+    "lamppu",
+    "sähkö",
+    "valo"
+  ],
+  "light_rail": [
+    "ajoneuvo",
+    "juna",
+    "kevytraidejuna",
+    "rautatie"
+  ],
+  "link": [
+    "ketju",
+    "lenkki"
+  ],
+  "linked_paperclips": [
+    "klemmarit yhdessä",
+    "liitin",
+    "paperiliitin",
+    "yhdessä"
+  ],
+  "lion": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "leijona",
+    "leijonan naama",
+    "naama"
+  ],
+  "lipstick": [
+    "huulipuna",
+    "kosmetiikkaa",
+    "meikit",
+    "meikki"
+  ],
+  "lithuania": [
+    "lippu"
+  ],
+  "litter_in_bin_sign": [
+    "roska",
+    "roskakori",
+    "roskat-merkki"
+  ],
+  "lizard": [
+    "lisko",
+    "matelija"
+  ],
+  "llama": [
+    "alpakka",
+    "guanako",
+    "laama",
+    "vikunja",
+    "villa"
+  ],
+  "lobster": [
+    "äyriäinen",
+    "äyriäiset",
+    "äyriäiskeitto",
+    "hummeri",
+    "merenelävät",
+    "sakset"
+  ],
+  "locked": [
+    "kiinni",
+    "lukko"
+  ],
+  "locked_with_key": [
+    "avain",
+    "avain ja lukko kiinni",
+    "kiinni",
+    "lukko",
+    "turva"
+  ],
+  "locked_with_pen": [
+    "kirjoittaa",
+    "lukko",
+    "lukko ja kynä",
+    "mustekynä",
+    "suojaus"
+  ],
+  "locomotive": [
+    "ajoneuvo",
+    "juna",
+    "rautatie",
+    "veturi"
+  ],
+  "lollipop": [
+    "jälkiruoka",
+    "karkki",
+    "makea",
+    "tikkari"
+  ],
+  "long_drum": [
+    "conga",
+    "congarumpu",
+    "rumpu",
+    "rytmi"
+  ],
+  "lotion_bottle": [
+    "aurinkovoide",
+    "hoitoaine",
+    "hoitoainepullo",
+    "kosteusvoide",
+    "sampoo",
+    "shampoo"
+  ],
+  "loudspeaker": [
+    "ääni",
+    "huomio",
+    "keskusradio",
+    "kova",
+    "kovaääninen"
+  ],
+  "love_hotel": [
+    "hotelli",
+    "rakennus",
+    "tunti",
+    "tuntihotelli"
+  ],
+  "love_letter": [
+    "kirje",
+    "posti",
+    "rakkaus",
+    "rakkauskirje",
+    "romantiikka",
+    "sydän"
+  ],
+  "love_you_gesture": [
+    "fanitus",
+    "käsi",
+    "rakastan sinua -ele",
+    "rakkaus"
+  ],
+  "luggage": [
+    "matka",
+    "matkalaukku",
+    "matkatavara",
+    "matkustus",
+    "pakkaaminen"
+  ],
+  "lungs": [
+    "elin",
+    "hengitys",
+    "henkäisy",
+    "keuhkot"
+  ],
+  "luxembourg": [
+    "lippu"
+  ],
+  "lying_face": [
+    "kasvot",
+    "valehdella",
+    "valehteleva",
+    "valehtelija"
+  ],
+  "macao_sar_china": [
+    "lippu"
+  ],
+  "madagascar": [
+    "lippu"
+  ],
+  "mage": [
+    "maagi",
+    "noita",
+    "sauva",
+    "taikasauva",
+    "taikavoima",
+    "taikuri",
+    "tietäjä",
+    "velho"
+  ],
+  "magic_wand": [
+    "noita",
+    "taika",
+    "taikasauva",
+    "velho"
+  ],
+  "magnet": [
+    "hevosenkenkä",
+    "magneetti",
+    "magneettinen",
+    "puoleensavetävä"
+  ],
+  "magnifying_glass_tilted_left": [
+    "etsi",
+    "haku",
+    "lasi",
+    "suurennuslasi",
+    "suurennuslasi vasemmalle",
+    "työkalu"
+  ],
+  "magnifying_glass_tilted_right": [
+    "etsi",
+    "haku",
+    "lasi",
+    "suurennuslasi",
+    "suurennuslasi oikealle",
+    "työkalu"
+  ],
+  "mahjong_red_dragon": [
+    "keskusta",
+    "lohikäärme",
+    "mahjong",
+    "peli",
+    "punainen"
+  ],
+  "malawi": [
+    "lippu"
+  ],
+  "malaysia": [
+    "lippu"
+  ],
+  "maldives": [
+    "lippu"
+  ],
+  "male_sign": [
+    "mars-symboli",
+    "miessymboli"
+  ],
+  "mali": [
+    "lippu"
+  ],
+  "malta": [
+    "lippu"
+  ],
+  "mammoth": [
+    "mammutti",
+    "sukupuutto",
+    "suuri",
+    "torahammas",
+    "villainen"
+  ],
+  "man": [
+    "mies",
+    "miespuolinen"
+  ],
+  "man_artist": [
+    "maalari",
+    "mies",
+    "miesartisti",
+    "taide",
+    "taiteilija"
+  ],
+  "man_astronaut": [
+    "astronautti",
+    "avaruus",
+    "mies",
+    "miesastronautti"
+  ],
+  "man_bald": [
+    "kalju",
+    "mies",
+    "miespuolinen"
+  ],
+  "man_biking": [
+    "mies",
+    "pyöräilevä mies",
+    "pyöräilijä"
+  ],
+  "man_bouncing_ball": [
+    "palloilija",
+    "pallomies",
+    "pallotteleva mies",
+    "poika"
+  ],
+  "man_bowing": [
+    "anteeksipyyntö",
+    "ele",
+    "kumarrus",
+    "mies",
+    "syvään kumartava mies"
+  ],
+  "man_cartwheeling": [
+    "kärrynpyörä",
+    "kärrynpyörää tekevä mies",
+    "mies"
+  ],
+  "man_climbing": [
+    "kallio",
+    "kiipeily",
+    "mieskiipeilijä",
+    "seinämä",
+    "vuori"
+  ],
+  "man_cook": [
+    "kokki",
+    "mies",
+    "mieskokki",
+    "paistinpannu",
+    "ruoka"
+  ],
+  "man_curly_hair": [
+    "kiharatukkainen",
+    "mies",
+    "miespuolinen"
+  ],
+  "man_dancing": [
+    "mies",
+    "mies tanssii",
+    "tanssi",
+    "tanssiva mies"
+  ],
+  "man_detective": [
+    "etsivä",
+    "mies",
+    "miesetsivä",
+    "salapoliisi",
+    "vakooja"
+  ],
+  "man_elf": [
+    "alf",
+    "haltia",
+    "keiju",
+    "legolas",
+    "mieshaltia",
+    "suippokorva"
+  ],
+  "man_facepalming": [
+    "käsi",
+    "kasvonsa kädellä peittävä mies",
+    "kasvot",
+    "mies",
+    "pettymys"
+  ],
+  "man_factory_worker": [
+    "hitsaaja",
+    "mies",
+    "miestehdastyöntekijä",
+    "tehdas",
+    "työntekijä"
+  ],
+  "man_fairy": [
+    "hyönteismäinen",
+    "mieskeiju",
+    "oberon",
+    "puck",
+    "siivet"
+  ],
+  "man_farmer": [
+    "maanviljelijä",
+    "mies",
+    "miesmaanviljelijä",
+    "puutarhuri",
+    "sato"
+  ],
+  "man_feeding_baby": [
+    "imettävä",
+    "mies",
+    "syöttävä",
+    "vauva",
+    "vauvaa syöttävä mies"
+  ],
+  "man_firefighter": [
+    "mies",
+    "palomies",
+    "tulipalo",
+    "tulitaistelija"
+  ],
+  "man_frowning": [
+    "harmi",
+    "mies",
+    "suru",
+    "surullinen mies"
+  ],
+  "man_genie": [
+    "genius",
+    "henki",
+    "jinni",
+    "lamppu",
+    "mieshenki"
+  ],
+  "man_gesturing_no": [
+    "ei",
+    "ei käy -merkkiä näyttävä mies",
+    "ele",
+    "kielletty",
+    "mies"
+  ],
+  "man_gesturing_ok": [
+    "ele",
+    "kyllä",
+    "mies",
+    "ok",
+    "ok-merkkiä näyttävä mies"
+  ],
+  "man_getting_haircut": [
+    "hiukset",
+    "hiustenhoito",
+    "mies",
+    "parturi",
+    "parturissa oleva mies"
+  ],
+  "man_getting_massage": [
+    "hieronnassa oleva mies",
+    "hieronta",
+    "mies"
+  ],
+  "man_golfing": [
+    "golf",
+    "golfaajamies",
+    "mies"
+  ],
+  "man_guard": [
+    "mies",
+    "miesvartija",
+    "vartija"
+  ],
+  "man_health_worker": [
+    "lääkäri",
+    "mies",
+    "mieshoitotyöntekijä",
+    "sairaanhoitaja",
+    "terapeutti",
+    "terveydenhuolto"
+  ],
+  "man_in_lotus_position": [
+    "jooga",
+    "mies lootusasennossa",
+    "mietiskely"
+  ],
+  "man_in_manual_wheelchair": [
+    "esteettömyys",
+    "mies",
+    "mies käsikäyttöisessä pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "man_in_motorized_wheelchair": [
+    "esteettömyys",
+    "mies",
+    "mies moottoroidussa pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "man_in_steamy_room": [
+    "höyry",
+    "kiuas",
+    "löyly",
+    "mies saunassa",
+    "sauna"
+  ],
+  "man_in_tuxedo": [
+    "mies",
+    "mies smokissa",
+    "smokki",
+    "smokkipukuinen mies"
+  ],
+  "man_judge": [
+    "laki",
+    "mies",
+    "miestuomari",
+    "oikeus",
+    "tuomari"
+  ],
+  "man_juggling": [
+    "jongleeraava mies",
+    "jongleeraus",
+    "mies"
+  ],
+  "man_kneeling": [
+    "mies",
+    "polvistuva"
+  ],
+  "man_lifting_weights": [
+    "mies",
+    "painonnostajamies",
+    "painonnosto"
+  ],
+  "man_mage": [
+    "maagi",
+    "miesvelho",
+    "noita",
+    "sauva",
+    "taikasauva",
+    "taikavoima",
+    "taikuri",
+    "tietäjä"
+  ],
+  "man_mechanic": [
+    "jakoavain",
+    "mekaanikko",
+    "mies",
+    "miesmekaanikko",
+    "työkalu"
+  ],
+  "man_mountain_biking": [
+    "maastopyöräilevä mies",
+    "mies",
+    "pyöräilijä",
+    "vuori"
+  ],
+  "man_office_worker": [
+    "mies",
+    "miestoimistotyöntekijä",
+    "toimisto",
+    "työntekijä",
+    "valkokaulus"
+  ],
+  "man_pilot": [
+    "lentäjä",
+    "lentokone",
+    "mies",
+    "miespilotti",
+    "pilotti"
+  ],
+  "man_playing_handball": [
+    "käsipallo",
+    "käsipalloa pelaava mies",
+    "mies"
+  ],
+  "man_playing_water_polo": [
+    "mies",
+    "vesipallo",
+    "vesipalloa pelaava mies"
+  ],
+  "man_police_officer": [
+    "etsivä",
+    "konstaapeli",
+    "mies",
+    "miespoliisi",
+    "poliisi"
+  ],
+  "man_pouting": [
+    "harmi",
+    "mies",
+    "mököttävä mies",
+    "mökötys"
+  ],
+  "man_raising_hand": [
+    "käsi",
+    "mies",
+    "viittaava mies",
+    "viittaus"
+  ],
+  "man_red_hair": [
+    "mies",
+    "miespuolinen",
+    "punatukkainen"
+  ],
+  "man_rowing_boat": [
+    "mies",
+    "soutaja",
+    "soutava mies"
+  ],
+  "man_running": [
+    "juokseminen",
+    "juokseva mies",
+    "juoksija",
+    "lenkki",
+    "mies"
+  ],
+  "man_s_shoe": [
+    "kenkä",
+    "miehen kenkä",
+    "mies",
+    "vaatteet"
+  ],
+  "man_scientist": [
+    "mies",
+    "miestutkija",
+    "tiede",
+    "tutkija"
+  ],
+  "man_shrugging": [
+    "ei välitä",
+    "ihan sama",
+    "kämmeniään levittelevä mies",
+    "kohauttaa",
+    "mies"
+  ],
+  "man_singer": [
+    "karaoke",
+    "laulaja",
+    "mies",
+    "mieslaulaja",
+    "mikki"
+  ],
+  "man_standing": [
+    "mies",
+    "seisova"
+  ],
+  "man_student": [
+    "lakki",
+    "mies",
+    "miesopiskelija",
+    "opiskelu",
+    "valmistujaiset"
+  ],
+  "man_superhero": [
+    "hyvä",
+    "hyvis",
+    "miessupersankari",
+    "sankari",
+    "supervoimat"
+  ],
+  "man_supervillain": [
+    "kelmi",
+    "konna",
+    "miessuperpahis",
+    "paha",
+    "rikollinen",
+    "roisto",
+    "supervoimat"
+  ],
+  "man_surfing": [
+    "lainelautailu",
+    "mies",
+    "surffaajamies",
+    "surffaus"
+  ],
+  "man_swimming": [
+    "mies",
+    "uija",
+    "uimari",
+    "uiva mies"
+  ],
+  "man_teacher": [
+    "koulu",
+    "mies",
+    "miesopettaja",
+    "opettaja"
+  ],
+  "man_technologist": [
+    "it",
+    "it-mies",
+    "koodaus",
+    "mies",
+    "tietokone"
+  ],
+  "man_tipping_hand": [
+    "kämmentä ylöspäin näyttävä mies",
+    "käsi",
+    "mies",
+    "nenäkäs"
+  ],
+  "man_vampire": [
+    "dracula",
+    "elävä kuollut",
+    "epäkuollut",
+    "hampaat",
+    "miesvampyyri",
+    "torahammas",
+    "verenhimo",
+    "verenimijä"
+  ],
+  "man_walking": [
+    "kävelevä mies",
+    "kävely",
+    "mies",
+    "patikointi"
+  ],
+  "man_wearing_turban": [
+    "mies",
+    "turbaani",
+    "turbaanipäinen mies"
+  ],
+  "man_white_hair": [
+    "mies",
+    "miespuolinen",
+    "valkotukkainen"
+  ],
+  "man_with_veil": [
+    "huntu",
+    "huntupäinen mies",
+    "mies",
+    "mies ja huntu"
+  ],
+  "man_with_white_cane": [
+    "esteettömyys",
+    "mies",
+    "mies ja valkoinen keppi",
+    "sokea"
+  ],
+  "man_zombie": [
+    "elävä kuollut",
+    "mieszombi",
+    "tahdoton",
+    "voodoo",
+    "zombie"
+  ],
+  "mango": [
+    "hedelmä",
+    "trooppinen"
+  ],
+  "mantelpiece_clock": [
+    "kello",
+    "pöytäkello",
+    "takanreunus"
+  ],
+  "manual_wheelchair": [
+    "esteettömyys",
+    "käsikäyttöinen pyörätuoli"
+  ],
+  "map_of_japan": [
+    "japani",
+    "japanin kartta",
+    "kartta"
+  ],
+  "maple_leaf": [
+    "kasvi",
+    "lehti",
+    "putoava",
+    "vaahtera",
+    "vaahteranlehti"
+  ],
+  "marshall_islands": [
+    "lippu"
+  ],
+  "martial_arts_uniform": [
+    "asu",
+    "judo",
+    "kamppailulajiasu",
+    "kamppailulajit",
+    "karate",
+    "liikunta",
+    "taekwondo",
+    "urheilu"
+  ],
+  "martinique": [
+    "lippu"
+  ],
+  "mate": [
+    "juoma"
+  ],
+  "mauritania": [
+    "lippu"
+  ],
+  "mauritius": [
+    "lippu"
+  ],
+  "mayotte": [
+    "lippu"
+  ],
+  "meat_on_bone": [
+    "liha",
+    "lihaa luineen",
+    "luu"
+  ],
+  "mechanic": [
+    "mekaanikko",
+    "putkiasentaja",
+    "sähköasentaja",
+    "työkalu"
+  ],
+  "mechanical_arm": [
+    "esteettömyys",
+    "tekokäsi"
+  ],
+  "mechanical_leg": [
+    "esteettömyys",
+    "tekojalka"
+  ],
+  "medical_symbol": [
+    "asklepioksen sauva",
+    "lääketieteen symboli"
+  ],
+  "megaphone": [
+    "ääni",
+    "huomio",
+    "kovaääninen",
+    "megafoni",
+    "suosionosoitus"
+  ],
+  "melon": [
+    "hedelmä",
+    "kasvi",
+    "meloni"
+  ],
+  "memo": [
+    "lyijykynä",
+    "muistio"
+  ],
+  "men_holding_hands": [
+    "kaksi miestä käsi kädessä",
+    "kaksonen",
+    "kaksoset",
+    "miespari"
+  ],
+  "men_s_room": [
+    "miesten wc",
+    "miestenhuone",
+    "vessa",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "juhlat",
+    "nainen",
+    "pupu",
+    "tanssija",
+    "tanssivat pupupojat"
+  ],
+  "men_wrestling": [
+    "judo",
+    "kamppailu",
+    "miehet",
+    "painivat miehet"
+  ],
+  "menorah": [
+    "juutalaisuus",
+    "kynttilä",
+    "menora",
+    "seitsenhaarainen",
+    "uskonto"
+  ],
+  "mermaid": [
+    "kalanpyrstö",
+    "merenneito",
+    "merenväki",
+    "pyrstö",
+    "seireeni",
+    "vedenväki"
+  ],
+  "merman": [
+    "ahti",
+    "kalanpyrstö",
+    "merenhaltija",
+    "merenmies",
+    "merenväki",
+    "triton",
+    "vedenhaltija",
+    "vetehinen"
+  ],
+  "merperson": [
+    "ahti",
+    "kalanpyrstö",
+    "merenhaltija",
+    "merenmies",
+    "merenneito",
+    "merenväki",
+    "pyrstö",
+    "vedenhaltija",
+    "vedenväki"
+  ],
+  "metro": [
+    "ajoneuvo",
+    "maanalainen"
+  ],
+  "mexico": [
+    "lippu"
+  ],
+  "microbe": [
+    "ameba",
+    "bakteeri",
+    "mikrobi",
+    "virus"
+  ],
+  "micronesia": [
+    "lippu"
+  ],
+  "microphone": [
+    "karaoke",
+    "mikki",
+    "mikrofoni"
+  ],
+  "microscope": [
+    "mikroskooppi",
+    "työkalu"
+  ],
+  "military_helmet": [
+    "armeija",
+    "kypärä",
+    "sotilaallinen",
+    "sotilas",
+    "sotilaskypärä"
+  ],
+  "military_medal": [
+    "armeija",
+    "juhla",
+    "kunniamerkki",
+    "mitali"
+  ],
+  "milky_way": [
+    "avaruus",
+    "galaksi",
+    "linnunrata",
+    "sää"
+  ],
+  "minibus": [
+    "ajoneuvo",
+    "auto",
+    "bussi",
+    "linja-auto",
+    "minibussi",
+    "pikkubussi"
+  ],
+  "minus": [
+    "-",
+    "matematiikka",
+    "miinus",
+    "miinusmerkki",
+    "vähennys"
+  ],
+  "mirror": [
+    "heijastus",
+    "peilata",
+    "peili"
+  ],
+  "moai": [
+    "kasvot",
+    "kivipatsas",
+    "moait",
+    "pääsiäissaari",
+    "patsas"
+  ],
+  "mobile_phone": [
+    "kännykkä",
+    "matkapuhelin",
+    "mobiili",
+    "mobiililaite",
+    "puhelin"
+  ],
+  "mobile_phone_off": [
+    "kielletty",
+    "matkapuhelin",
+    "matkapuhelin suljettava",
+    "pois",
+    "puhelin"
+  ],
+  "mobile_phone_with_arrow": [
+    "kännykkä ja nuoli",
+    "matkapuhelin",
+    "nuoli",
+    "puhelin",
+    "puhelu",
+    "saapuva"
+  ],
+  "moldova": [
+    "lippu"
+  ],
+  "monaco": [
+    "lippu"
+  ],
+  "money_bag": [
+    "raha",
+    "rahapussi",
+    "rahasäkki",
+    "säkki"
+  ],
+  "money_mouth_face": [
+    "dollarisilmät ja rahasuu",
+    "naama",
+    "raha",
+    "suu"
+  ],
+  "money_with_wings": [
+    "pankki",
+    "raha",
+    "rahalla on siivet",
+    "seteli",
+    "siivet",
+    "valuutta"
+  ],
+  "mongolia": [
+    "lippu"
+  ],
+  "monkey": [
+    "apina",
+    "seisova"
+  ],
+  "monkey_face": [
+    "apina",
+    "apinan naama",
+    "naama"
+  ],
+  "monorail": [
+    "ajoneuvo",
+    "raide",
+    "yksiraidejuna"
+  ],
+  "montenegro": [
+    "lippu"
+  ],
+  "montserrat": [
+    "lippu"
+  ],
+  "moon_cake": [
+    "juhla",
+    "kuukakku",
+    "syksy",
+    "yuèbĭng"
+  ],
+  "moon_viewing_ceremony": [
+    "juhla",
+    "juhlamenot",
+    "kuu",
+    "kuuseremonia"
+  ],
+  "morocco": [
+    "lippu"
+  ],
+  "mosque": [
+    "islam",
+    "moskeija",
+    "muslimi",
+    "rakennus",
+    "uskonto"
+  ],
+  "mosquito": [
+    "hyönteinen",
+    "hyttynen",
+    "kuume",
+    "malaria",
+    "sääski",
+    "sairaus",
+    "tauti",
+    "virus"
+  ],
+  "motor_boat": [
+    "ajoneuvo",
+    "meri",
+    "moottorivene",
+    "pikavene",
+    "vene"
+  ],
+  "motor_scooter": [
+    "ajoneuvo",
+    "skootteri"
+  ],
+  "motorcycle": [
+    "kilpa-ajot",
+    "moottoripyörä"
+  ],
+  "motorized_wheelchair": [
+    "esteettömyys",
+    "moottoroitu pyörätuoli"
+  ],
+  "motorway": [
+    "moottoritie",
+    "pikatie",
+    "tie"
+  ],
+  "mount_fuji": [
+    "fuji",
+    "fuji-vuori",
+    "vuori"
+  ],
+  "mountain": [
+    "vuori",
+    "vuoristo"
+  ],
+  "mountain_cableway": [
+    "ajoneuvo",
+    "gondoli",
+    "gondolihissi",
+    "hissi",
+    "kaapeli",
+    "kabiini",
+    "vuori"
+  ],
+  "mountain_railway": [
+    "ajoneuvo",
+    "funikulaari",
+    "juna",
+    "rautatie",
+    "rinnerata"
+  ],
+  "mouse": [
+    "hiiri",
+    "valkoinen"
+  ],
+  "mouse_face": [
+    "hiiren naama",
+    "hiiri",
+    "naama"
+  ],
+  "mouse_trap": [
+    "ansa",
+    "hiirenloukku",
+    "loukku",
+    "syötti"
+  ],
+  "mouth": [
+    "huulet",
+    "pää",
+    "suu",
+    "vartalo"
+  ],
+  "movie_camera": [
+    "elokuva",
+    "elokuvakamera",
+    "kamera",
+    "kuvaukset"
+  ],
+  "mozambique": [
+    "lippu"
+  ],
+  "mrs_claus": [
+    "joulu",
+    "joulupukin muori",
+    "muori"
+  ],
+  "multiply": [
+    "kertolasku",
+    "merkki",
+    "paksu kertomerkki",
+    "peruuta",
+    "x"
+  ],
+  "mushroom": [
+    "rihmasto",
+    "sieni"
+  ],
+  "musical_keyboard": [
+    "instrumentti",
+    "koskettimet",
+    "musiikki",
+    "piano",
+    "syntikka"
+  ],
+  "musical_note": [
+    "musiikki",
+    "nuotti"
+  ],
+  "musical_notes": [
+    "musiikki",
+    "nuotteja",
+    "nuotti"
+  ],
+  "musical_score": [
+    "musiikki",
+    "nuotti",
+    "nuottiavain",
+    "nuottiviivasto"
+  ],
+  "muted_speaker": [
+    "äänenvoimakkuus",
+    "äänetön",
+    "hiljaa",
+    "kaiutin",
+    "mykistetty kaiutin",
+    "mykistys"
+  ],
+  "mx_claus": [
+    "joulutonttu",
+    "tonttu"
+  ],
+  "myanmar_burma": [
+    "lippu"
+  ],
+  "nail_polish": [
+    "kosmetiikka",
+    "kynsi",
+    "kynsihuolto",
+    "kynsilakka",
+    "manikyyri",
+    "vartalo"
+  ],
+  "name_badge": [
+    "kyltti",
+    "lappu",
+    "nimi",
+    "nimikyltti"
+  ],
+  "namibia": [
+    "lippu"
+  ],
+  "national_park": [
+    "kansallispuisto",
+    "puisto"
+  ],
+  "nauru": [
+    "lippu"
+  ],
+  "nauseated_face": [
+    "kasvot",
+    "oksentaa",
+    "pahoinvoida",
+    "pahoinvoiva"
+  ],
+  "nazar_amulet": [
+    "amuletti",
+    "helmi",
+    "nazar-amuletti",
+    "paha silmä",
+    "taikakalu",
+    "talismaani"
+  ],
+  "necktie": [
+    "asuste",
+    "kravatti",
+    "solmio",
+    "vaatteet"
+  ],
+  "nepal": [
+    "lippu"
+  ],
+  "nerd_face": [
+    "jänöhammas",
+    "naama",
+    "nörtti",
+    "silmälasit"
+  ],
+  "nesting_dolls": [
+    "maatuska",
+    "maatuskanuket",
+    "nukke",
+    "venäläinen"
+  ],
+  "netherlands": [
+    "lippu"
+  ],
+  "neutral_face": [
+    "naama",
+    "naama peruslukemilla",
+    "neutraali",
+    "tunteeton"
+  ],
+  "new_button": [
+    "laatikko",
+    "new",
+    "teksti",
+    "uusi",
+    "uutta"
+  ],
+  "new_caledonia": [
+    "lippu"
+  ],
+  "new_moon": [
+    "kuu",
+    "pimeä",
+    "sää",
+    "taivaankappale",
+    "uusikuu"
+  ],
+  "new_moon_face": [
+    "kasvot",
+    "kuu",
+    "sää",
+    "taivaankappale",
+    "uudenkuun kasvot"
+  ],
+  "new_zealand": [
+    "lippu"
+  ],
+  "newspaper": [
+    "lehti",
+    "sanomalehti",
+    "uutiset"
+  ],
+  "next_track_button": [
+    "eteen",
+    "kolmiot",
+    "nappi",
+    "painike",
+    "seuraava",
+    "seuraava kappale",
+    "siirry"
+  ],
+  "ng_button": [
+    "good",
+    "moka",
+    "ng",
+    "no",
+    "teksti"
+  ],
+  "nicaragua": [
+    "lippu"
+  ],
+  "niger": [
+    "lippu"
+  ],
+  "nigeria": [
+    "lippu"
+  ],
+  "night_with_stars": [
+    "sää",
+    "tähti",
+    "tähtitaivas",
+    "yö"
+  ],
+  "nine": [
+    "näppäin"
+  ],
+  "nine_o_clock": [
+    "21",
+    "21.00",
+    "9",
+    "9.00",
+    "aika",
+    "kello",
+    "kello yhdeksän",
+    "kellonaika"
+  ],
+  "nine_thirty": [
+    "21.30",
+    "30",
+    "9.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kymmenen"
+  ],
+  "ninja": [
+    "piilossa",
+    "soturi",
+    "taistelija",
+    "väijyy"
+  ],
+  "niue": [
+    "lippu"
+  ],
+  "no_bicycles": [
+    "ei polkupyörille",
+    "kielletty",
+    "liikenne",
+    "polkupyörä",
+    "pyörä"
+  ],
+  "no_entry": [
+    "ajosuunta",
+    "ei",
+    "kielletty",
+    "liikenne",
+    "sallittu"
+  ],
+  "no_littering": [
+    "kielletty",
+    "roska",
+    "roskaaminen kielletty"
+  ],
+  "no_mobile_phones": [
+    "ei matkapuhelimia",
+    "kielletty",
+    "matkapuhelin",
+    "puhelin"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "ikäraja",
+    "ikärajoitus",
+    "kielletty",
+    "kielletty alaikäisiltä",
+    "täysi-ikäinen"
+  ],
+  "no_pedestrians": [
+    "jalankulkija",
+    "jalankulku kielletty",
+    "kielletty"
+  ],
+  "no_smoking": [
+    "kielletty",
+    "tupakka",
+    "tupakointi"
+  ],
+  "non_potable_water": [
+    "juomakelpoinen",
+    "juominen",
+    "kielletty",
+    "vesi",
+    "vesi ei juomakelpoista"
+  ],
+  "norfolk_island": [
+    "lippu"
+  ],
+  "north_korea": [
+    "lippu"
+  ],
+  "north_macedonia": [
+    "lippu"
+  ],
+  "northern_mariana_islands": [
+    "lippu"
+  ],
+  "norway": [
+    "lippu"
+  ],
+  "nose": [
+    "haju",
+    "nenä",
+    "pää",
+    "tuoksu",
+    "vartalo"
+  ],
+  "notebook": [
+    "kirja",
+    "lehtiö",
+    "muistikirja",
+    "muistio"
+  ],
+  "notebook_with_decorative_cover": [
+    "kansi",
+    "kirja",
+    "koristeellinen muistikirja",
+    "lehtiö",
+    "muistikirja",
+    "muistio"
+  ],
+  "nut_and_bolt": [
+    "mutteri",
+    "ruuvi",
+    "ruuvi ja mutteri",
+    "työkalu"
+  ],
+  "o_button_blood_type": [
+    "o",
+    "o-veriryhmä",
+    "veriryhmä"
+  ],
+  "ocean": [
+    "aalto",
+    "meri",
+    "tyrsky",
+    "valtameri",
+    "vesi"
+  ],
+  "octopus": [
+    "mustekala"
+  ],
+  "oden": [
+    "merenelävät",
+    "tikku",
+    "varras"
+  ],
+  "office_building": [
+    "rakennus",
+    "toimisto",
+    "toimistorakennus"
+  ],
+  "office_worker": [
+    "arkkitehti",
+    "toimisto",
+    "toimistotyöntekijä",
+    "valkokaulus",
+    "yritys"
+  ],
+  "ogre": [
+    "fantasia",
+    "hirviö",
+    "japanilainen",
+    "naama",
+    "olio",
+    "peikko",
+    "satu"
+  ],
+  "oil_drum": [
+    "öljy",
+    "öljytynnyri",
+    "tynnyri"
+  ],
+  "ok_button": [
+    "laatikko",
+    "ok",
+    "okay",
+    "okei",
+    "selvä"
+  ],
+  "ok_hand": [
+    "käsi",
+    "ok",
+    "ok-sormiele",
+    "vartalo"
+  ],
+  "old_key": [
+    "avain",
+    "lukko",
+    "vanha",
+    "vihje"
+  ],
+  "old_man": [
+    "mies",
+    "vanha"
+  ],
+  "old_woman": [
+    "nainen",
+    "vanha"
+  ],
+  "older_person": [
+    "ikäihminen",
+    "seniori",
+    "sukupuolineutraali",
+    "vanha",
+    "vanhus"
+  ],
+  "olive": [
+    "oliivi",
+    "ruoka"
+  ],
+  "om": [
+    "hindu",
+    "hindulaisuus",
+    "om-tavu",
+    "symboli",
+    "tavu",
+    "uskonto"
+  ],
+  "oman": [
+    "lippu"
+  ],
+  "on_arrow": [
+    "nuoli",
+    "on!-nuoli",
+    "päällä"
+  ],
+  "oncoming_automobile": [
+    "ajoneuvo",
+    "auto",
+    "saapuva auto"
+  ],
+  "oncoming_bus": [
+    "ajoneuvo",
+    "auto",
+    "bussi",
+    "linja-auto",
+    "saapuva bussi"
+  ],
+  "oncoming_fist": [
+    "isku",
+    "käsi",
+    "kohti tuleva nyrkki",
+    "nyrkki",
+    "puristettu",
+    "vartalo"
+  ],
+  "oncoming_police_car": [
+    "ajoneuvo",
+    "auto",
+    "poliisi",
+    "saapuva poliisiauto",
+    "vastaantuleva"
+  ],
+  "oncoming_taxi": [
+    "ajoneuvo",
+    "auto",
+    "saapuva taksi",
+    "taksi"
+  ],
+  "one": [
+    "näppäin"
+  ],
+  "one_o_clock": [
+    "1",
+    "1.00",
+    "13",
+    "13.00",
+    "aika",
+    "kello",
+    "kello yksi",
+    "kellonaika"
+  ],
+  "one_piece_swimsuit": [
+    "uima-asu",
+    "uimapuku"
+  ],
+  "one_thirty": [
+    "1.30",
+    "13.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kaksi"
+  ],
+  "onion": [
+    "mauste",
+    "sipuli"
+  ],
+  "open_book": [
+    "avoin",
+    "kirja"
+  ],
+  "open_file_folder": [
+    "avoin",
+    "avoin tiedostokansio",
+    "kansio",
+    "tiedosto"
+  ],
+  "open_hands": [
+    "avoimet kädet",
+    "avoin",
+    "käsi",
+    "vartalo"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "alhaalla",
+    "auki",
+    "avoin postilaatikko, lippu alhaalla",
+    "postilaatikko"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "auki",
+    "avoin postilaatikko, lippu ylhäällä",
+    "postilaatikko"
+  ],
+  "open_mouth": [
+    "auki",
+    "empatia",
+    "naama",
+    "suu",
+    "yllättynyt"
+  ],
+  "ophiuchus": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "käärme",
+    "käärmeenkantaja",
+    "tähtikuvio"
+  ],
+  "optical_disk": [
+    "blu-ray",
+    "cd",
+    "dvd",
+    "levy",
+    "tietokone"
+  ],
+  "orange_book": [
+    "kirja",
+    "oranssi"
+  ],
+  "orange_circle": [
+    "oranssi",
+    "ympyrä"
+  ],
+  "orange_heart": [
+    "oranssi",
+    "sydän"
+  ],
+  "orange_square": [
+    "neliö",
+    "oranssi"
+  ],
+  "orangutan": [
+    "apina",
+    "oranki"
+  ],
+  "orthodox_cross": [
+    "kristinusko",
+    "ortodoksiristi",
+    "ortodoksisuus",
+    "risti",
+    "uskonto"
+  ],
+  "otter": [
+    "kalastaja",
+    "leikkisä",
+    "saukko"
+  ],
+  "outbox_tray": [
+    "e-mail",
+    "lähettää",
+    "lähtevät",
+    "postilaatikko",
+    "sähköposti"
+  ],
+  "owl": [
+    "lintu",
+    "pöllö",
+    "viisas"
+  ],
+  "ox": [
+    "härkä",
+    "horoskooppi",
+    "horoskooppimerkki"
+  ],
+  "oyster": [
+    "helmi",
+    "osteri",
+    "sukellus"
+  ],
+  "p_button": [
+    "merkki",
+    "p",
+    "parkkipaikka",
+    "pysäköinti"
+  ],
+  "package": [
+    "laatikko",
+    "lähetys",
+    "paketti",
+    "pakkaus"
+  ],
+  "page_facing_up": [
+    "asiakirja",
+    "dokumentti",
+    "sivu"
+  ],
+  "page_with_curl": [
+    "asiakirja",
+    "dokumentti",
+    "käännetty sivu",
+    "sivu"
+  ],
+  "pager": [
+    "hakulaite"
+  ],
+  "paintbrush": [
+    "maalaaminen",
+    "maali",
+    "maalisuti",
+    "sivellin"
+  ],
+  "pakistan": [
+    "lippu"
+  ],
+  "palau": [
+    "lippu"
+  ],
+  "palestinian_territories": [
+    "lippu"
+  ],
+  "palm_tree": [
+    "kasvi",
+    "palmu",
+    "puu"
+  ],
+  "palms_up_together": [
+    "anelu",
+    "kämmenet vierekkäin"
+  ],
+  "panama": [
+    "lippu"
+  ],
+  "pancakes": [
+    "lettu",
+    "letut",
+    "ohukainen",
+    "pannukakku",
+    "ruoka"
+  ],
+  "panda": [
+    "naama",
+    "pandan naama"
+  ],
+  "paperclip": [
+    "klemmari",
+    "liitin",
+    "paperiliitin"
+  ],
+  "papua_new_guinea": [
+    "lippu"
+  ],
+  "parachute": [
+    "laskuvarjo",
+    "laskuvarjohyppy",
+    "riippuliito",
+    "varjoliito"
+  ],
+  "paraguay": [
+    "lippu"
+  ],
+  "parrot": [
+    "lintu",
+    "merirosvo",
+    "papukaija",
+    "puhe",
+    "puhuva"
+  ],
+  "part_alternation_mark": [
+    "ioriten",
+    "japani",
+    "merkki",
+    "osanvaihtomerkki"
+  ],
+  "partying_face": [
+    "hattu",
+    "juhla",
+    "juhlia",
+    "juhliva",
+    "pilli"
+  ],
+  "passenger_ship": [
+    "ajoneuvo",
+    "alus",
+    "laiva",
+    "matkustajalaiva",
+    "meri",
+    "vene"
+  ],
+  "passport_control": [
+    "passi",
+    "passintarkastus",
+    "tarkastus"
+  ],
+  "pause_button": [
+    "2",
+    "nappi",
+    "painike",
+    "palkki",
+    "pysäytä",
+    "tauko"
+  ],
+  "paw_prints": [
+    "jalka",
+    "jälki",
+    "käpälä",
+    "tassu",
+    "tassunjäljet"
+  ],
+  "peace_symbol": [
+    "rauha",
+    "rauhansymboli"
+  ],
+  "peach": [
+    "hedelmä",
+    "kasvi",
+    "persikka"
+  ],
+  "peacock": [
+    "komeileva",
+    "lintu",
+    "mahtaileva",
+    "pramea",
+    "riikinkukko",
+    "ylpeä"
+  ],
+  "peanuts": [
+    "maapähkinä",
+    "pähkinä",
+    "ruoka"
+  ],
+  "pear": [
+    "hedelmä",
+    "kasvi",
+    "päärynä"
+  ],
+  "pen": [
+    "kuulakärkikynä",
+    "kynä"
+  ],
+  "pencil": [
+    "kynä",
+    "lyijykynä"
+  ],
+  "penguin": [
+    "lintu",
+    "pingviini"
+  ],
+  "pensive_face": [
+    "ajatteleva",
+    "lannistunut",
+    "mietteliäs",
+    "naama",
+    "pohdiskeleva"
+  ],
+  "people_holding_hands": [
+    "henkilö",
+    "ihmiset käsi kädessä",
+    "käsi",
+    "pari",
+    "pitää",
+    "pitää toisiaan käsistä"
+  ],
+  "people_hugging": [
+    "halaus",
+    "hei",
+    "kiitos",
+    "näkemiin"
+  ],
+  "people_with_bunny_ears": [
+    "korva",
+    "nainen",
+    "pupu",
+    "puputytöt",
+    "tanssija",
+    "tyttö"
+  ],
+  "people_wrestling": [
+    "liikunta",
+    "painia",
+    "painija",
+    "painijat",
+    "urheilu"
+  ],
+  "performing_arts": [
+    "naamio",
+    "näytelmä",
+    "näyttämö",
+    "näyttämötaiteet",
+    "taide",
+    "teatteri"
+  ],
+  "persevering_face": [
+    "hellittämätön",
+    "kärsivä",
+    "naama",
+    "peräänantamaton",
+    "sisukas"
+  ],
+  "person": [
+    "aikaihminen",
+    "aikuinen",
+    "aikuisuus",
+    "keski-ikäinen",
+    "sukupuolineutraali",
+    "täysikasvuinen"
+  ],
+  "person_bald": [
+    "aikaihminen",
+    "aikuinen",
+    "aikuisuus",
+    "kalju",
+    "keski-ikäinen",
+    "sukupuolineutraali",
+    "täysikasvuinen"
+  ],
+  "person_beard": [
+    "karvainen",
+    "parrakas henkilö",
+    "parta",
+    "pulisongit",
+    "sänki",
+    "viikset"
+  ],
+  "person_biking": [
+    "polkupyörä",
+    "pyörä",
+    "pyöräilijä"
+  ],
+  "person_blond_hair": [
+    "blondi",
+    "hiukset",
+    "vaalea",
+    "vaaleahiuksinen henkilö",
+    "vaaleatukkainen henkilö"
+  ],
+  "person_bouncing_ball": [
+    "pallo",
+    "pallottelija"
+  ],
+  "person_bowing": [
+    "anteeksi",
+    "anteeksipyyntö",
+    "ele",
+    "kumarrus",
+    "kumartava henkilö"
+  ],
+  "person_cartwheeling": [
+    "kärrynpyörä",
+    "liikunta",
+    "urheilu",
+    "voimistelu"
+  ],
+  "person_climbing": [
+    "kallio",
+    "kiipeilijä",
+    "kiipeily",
+    "seinä",
+    "vuori"
+  ],
+  "person_curly_hair": [
+    "aikaihminen",
+    "aikuinen",
+    "aikuisuus",
+    "keski-ikäinen",
+    "kiharatukkainen",
+    "sukupuolineutraali",
+    "täysikasvuinen"
+  ],
+  "person_facepalming": [
+    "epätoivo",
+    "käsi",
+    "kasvot",
+    "peittää kasvot kädellä",
+    "pettymys"
+  ],
+  "person_feeding_baby": [
+    "henkilö",
+    "imettävä",
+    "syöttävä",
+    "vauva",
+    "vauvaa imettävä henkilö",
+    "vauvaa syöttävä henkilö"
+  ],
+  "person_fencing": [
+    "liikunta",
+    "miekka",
+    "miekkailija",
+    "miekkailu",
+    "urheilu"
+  ],
+  "person_frowning": [
+    "ele",
+    "surullinen",
+    "surullinen henkilö"
+  ],
+  "person_gesturing_no": [
+    "ei",
+    "ei-ele",
+    "ele",
+    "käsi",
+    "kielletty"
+  ],
+  "person_gesturing_ok": [
+    "ele",
+    "käsi",
+    "ok",
+    "ok-ele"
+  ],
+  "person_getting_haircut": [
+    "hiustenleikkaus",
+    "kauneus",
+    "parturi",
+    "salonki"
+  ],
+  "person_getting_massage": [
+    "hieroja",
+    "hieronta"
+  ],
+  "person_golfing": [
+    "golf",
+    "golfaaja",
+    "pallo"
+  ],
+  "person_in_bed": [
+    "hotelli",
+    "nukkua",
+    "nukkuja",
+    "uni"
+  ],
+  "person_in_lotus_position": [
+    "henkilö lootusasennossa",
+    "jooga",
+    "mietiskely"
+  ],
+  "person_in_manual_wheelchair": [
+    "esteettömyys",
+    "henkilö käsikäyttöisessä pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "person_in_motorized_wheelchair": [
+    "esteettömyys",
+    "henkilö moottoroidussa pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "person_in_steamy_room": [
+    "henkilö saunassa",
+    "höyry",
+    "kiuas",
+    "löyly",
+    "sauna"
+  ],
+  "person_in_suit_levitating": [
+    "bisnes",
+    "levitoiva mies puvussa",
+    "mies",
+    "puku"
+  ],
+  "person_in_tuxedo": [
+    "henkilö smokissa",
+    "ihminen",
+    "smokki",
+    "smokkipukuinen ihminen",
+    "sulhanen"
+  ],
+  "person_juggling": [
+    "jongleeraaja",
+    "jongleeraus",
+    "taito",
+    "tasapainoilu"
+  ],
+  "person_kneeling": [
+    "polvistua",
+    "polvistuminen",
+    "polvistuva ihminen"
+  ],
+  "person_lifting_weights": [
+    "kehonrakennus",
+    "painonnostaja",
+    "painot",
+    "treeni"
+  ],
+  "person_mountain_biking": [
+    "maasto",
+    "maastopyöräilijä",
+    "polkupyörä",
+    "pyörä",
+    "pyöräilijä"
+  ],
+  "person_playing_handball": [
+    "käsipallo",
+    "käsipalloilija",
+    "liikunta",
+    "pallo",
+    "urheilu"
+  ],
+  "person_playing_water_polo": [
+    "liikunta",
+    "pallo",
+    "urheilu",
+    "vesi",
+    "vesipalloilija"
+  ],
+  "person_pouting": [
+    "ele",
+    "mököttävä",
+    "mököttävä henkilö"
+  ],
+  "person_raising_hand": [
+    "ele",
+    "iloinen",
+    "iloinen henkilö viittaa",
+    "käsi",
+    "nostettu"
+  ],
+  "person_red_hair": [
+    "aikaihminen",
+    "aikuinen",
+    "aikuisuus",
+    "keski-ikäinen",
+    "punatukkainen",
+    "sukupuolineutraali",
+    "täysikasvuinen"
+  ],
+  "person_rowing_boat": [
+    "meri",
+    "soutaa",
+    "soutaja",
+    "soutuvene",
+    "vene"
+  ],
+  "person_running": [
+    "juokseminen",
+    "juoksija",
+    "maratoni"
+  ],
+  "person_shrugging": [
+    "ei välitä",
+    "epäilys",
+    "kohauttaa",
+    "kohauttaa olkapäitään",
+    "olkapäitään kohauttava henkilö"
+  ],
+  "person_standing": [
+    "seisoa",
+    "seisova",
+    "seisova ihminen"
+  ],
+  "person_surfing": [
+    "lauta",
+    "surffaaja",
+    "surffaus"
+  ],
+  "person_swimming": [
+    "uimari",
+    "uinti"
+  ],
+  "person_taking_bath": [
+    "kylpijä",
+    "kylpy",
+    "kylpyamme"
+  ],
+  "person_tipping_hand": [
+    "apu",
+    "info",
+    "kämmentä ylöspäin näyttävä henkilö",
+    "käsi",
+    "nenäkäs"
+  ],
+  "person_walking": [
+    "jalankulkija",
+    "kävelijä",
+    "kävellä",
+    "kävely",
+    "patikointi"
+  ],
+  "person_wearing_turban": [
+    "mies",
+    "turbaani",
+    "turbaanipäinen henkilö"
+  ],
+  "person_white_hair": [
+    "aikaihminen",
+    "aikuinen",
+    "aikuisuus",
+    "keski-ikäinen",
+    "sukupuolineutraali",
+    "täysikasvuinen",
+    "valkotukkainen"
+  ],
+  "person_with_skullcap": [
+    "gua pi mao",
+    "hattu",
+    "mies",
+    "mies ja kiinalainen hattu"
+  ],
+  "person_with_veil": [
+    "häät",
+    "huntu",
+    "huntupäinen morsian",
+    "morsian"
+  ],
+  "person_with_white_cane": [
+    "esteettömyys",
+    "henkilö ja valkoinen keppi",
+    "sokea"
+  ],
+  "peru": [
+    "lippu"
+  ],
+  "petri_dish": [
+    "bakteerikasvusto",
+    "bakteerit",
+    "biologi",
+    "laboratorio",
+    "petrimalja",
+    "viljely"
+  ],
+  "philippines": [
+    "lippu"
+  ],
+  "pick": [
+    "hakku",
+    "kaivaa",
+    "kaivos",
+    "työkalu"
+  ],
+  "pickup_truck": [
+    "avolava",
+    "lava-auto"
+  ],
+  "pie": [
+    "leivonnainen",
+    "piirakka",
+    "täyte"
+  ],
+  "pig": [
+    "emakko",
+    "sika"
+  ],
+  "pig_face": [
+    "naama",
+    "sian naama",
+    "sika"
+  ],
+  "pig_nose": [
+    "kärsä",
+    "naama",
+    "nenä",
+    "sian kärsä",
+    "sika"
+  ],
+  "pill": [
+    "lääkäri",
+    "lääke",
+    "lääketiede",
+    "pilleri",
+    "tauti"
+  ],
+  "pilot": [
+    "lentäjä",
+    "lentokone",
+    "pilotti"
+  ],
+  "pinched_fingers": [
+    "käsi supussa",
+    "käsiele",
+    "kuulustelu",
+    "mitä",
+    "sarkastinen",
+    "sormet",
+    "supussa"
+  ],
+  "pinching_hand": [
+    "nipistävä käsi",
+    "pieni määrä"
+  ],
+  "pine_decoration": [
+    "bambu",
+    "havu",
+    "japani",
+    "juhla",
+    "puukoriste"
+  ],
+  "pineapple": [
+    "ananas",
+    "hedelmä",
+    "kasvi"
+  ],
+  "ping_pong": [
+    "maila",
+    "ottelu",
+    "pallo",
+    "pingis",
+    "pingispallo",
+    "pöytätennis"
+  ],
+  "pirate_flag": [
+    "aarre",
+    "lippu",
+    "merirosvolippu",
+    "pääkallolippu",
+    "rosvous",
+    "ryöstö"
+  ],
+  "pisces": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "kalat",
+    "kalat-merkki"
+  ],
+  "pitcairn_islands": [
+    "lippu"
+  ],
+  "pizza": [
+    "juusto",
+    "siivu"
+  ],
+  "piñata": [
+    "juhlat",
+    "juhlinta"
+  ],
+  "placard": [
+    "kyltti",
+    "mielenosoitus",
+    "protesti"
+  ],
+  "place_of_worship": [
+    "palvonta",
+    "palvontapaikka",
+    "pyhä rakennus",
+    "pyhäkkö",
+    "uskonto"
+  ],
+  "play_button": [
+    "aloita",
+    "kolmio",
+    "nappi",
+    "oikealle",
+    "painike",
+    "toista",
+    "toisto"
+  ],
+  "play_or_pause_button": [
+    "aloita",
+    "kolmio",
+    "nappi",
+    "painike",
+    "pysäytä",
+    "tauko",
+    "toista/pysäytä",
+    "toisto"
+  ],
+  "pleading_face": [
+    "anova",
+    "koiranpentuilme",
+    "sääli"
+  ],
+  "plunger": [
+    "imukuppi",
+    "putkimies",
+    "viemäripumppu",
+    "wc"
+  ],
+  "plus": [
+    "+",
+    "matematiikka",
+    "plusmerkki"
+  ],
+  "poland": [
+    "lippu"
+  ],
+  "polar_bear": [
+    "arktinen",
+    "jääkarhu",
+    "karhu",
+    "valkoinen"
+  ],
+  "police_car": [
+    "ajoneuvo",
+    "auto",
+    "poliisi",
+    "poliisiauto"
+  ],
+  "police_car_light": [
+    "hälytys",
+    "poliisi",
+    "poliisiauton valo",
+    "valo"
+  ],
+  "police_officer": [
+    "kyttä",
+    "poliisi"
+  ],
+  "poodle": [
+    "koira",
+    "villakoira"
+  ],
+  "pool_8_ball": [
+    "biljardi",
+    "biljardipallo",
+    "kasipallo",
+    "pallo",
+    "peli"
+  ],
+  "poop": [
+    "hirviö",
+    "kakka",
+    "kakkakasa",
+    "lanta",
+    "naama",
+    "sarjakuva",
+    "sonta"
+  ],
+  "popcorn": [
+    "maissi"
+  ],
+  "portugal": [
+    "lippu"
+  ],
+  "post_office": [
+    "posti",
+    "postitoimisto",
+    "rakennus"
+  ],
+  "postal_horn": [
+    "posti",
+    "postitorvi",
+    "torvi"
+  ],
+  "postbox": [
+    "posti",
+    "postilaatikko"
+  ],
+  "pot_of_food": [
+    "pata",
+    "ruokakulho"
+  ],
+  "potable_water": [
+    "juoma",
+    "juomakelpoista vettä",
+    "juotava",
+    "vesi"
+  ],
+  "potato": [
+    "peruna",
+    "ruoka",
+    "vihannes"
+  ],
+  "potted_plant": [
+    "hoivata",
+    "kasvaa",
+    "kasvi",
+    "koti",
+    "ruukkukasvi"
+  ],
+  "poultry_leg": [
+    "kana",
+    "kanankoipi",
+    "koipi",
+    "luu",
+    "siipikarja"
+  ],
+  "pound_banknote": [
+    "pankki",
+    "punta",
+    "puntaseteli",
+    "raha",
+    "seteli",
+    "valuutta"
+  ],
+  "pouting_cat": [
+    "kissa",
+    "mököttävä",
+    "naama"
+  ],
+  "prayer_beads": [
+    "asuste",
+    "helmet",
+    "helminauha",
+    "rukous",
+    "rukoushelmet",
+    "uskonto"
+  ],
+  "pregnant_woman": [
+    "nainen",
+    "raskaana",
+    "raskaana oleva nainen"
+  ],
+  "pretzel": [
+    "kierretty",
+    "rinkilä"
+  ],
+  "prince": [
+    "kuninkaallinen",
+    "prinssi"
+  ],
+  "princess": [
+    "fantasia",
+    "prinsessa",
+    "satu"
+  ],
+  "printer": [
+    "printteri",
+    "tietokone",
+    "tulostin"
+  ],
+  "prohibited": [
+    "ei",
+    "kielletty",
+    "liikenne",
+    "pääsy"
+  ],
+  "puerto_rico": [
+    "lippu"
+  ],
+  "purple_circle": [
+    "violetti",
+    "ympyrä"
+  ],
+  "purple_heart": [
+    "sydän",
+    "violetti"
+  ],
+  "purple_square": [
+    "neliö",
+    "violetti"
+  ],
+  "purse": [
+    "asuste",
+    "kolikko",
+    "rahakukkaro"
+  ],
+  "pushpin": [
+    "nuppineula"
+  ],
+  "puzzle_piece": [
+    "arvoitus",
+    "pala",
+    "palapeli",
+    "vihje",
+    "yhteenliittynyt",
+    "yhteensopiva"
+  ],
+  "qatar": [
+    "lippu"
+  ],
+  "rabbit": [
+    "kani",
+    "lemmikki",
+    "pupu"
+  ],
+  "rabbit_face": [
+    "jäniksen naama",
+    "jänis",
+    "kani",
+    "lemmikki",
+    "naama",
+    "pupu"
+  ],
+  "raccoon": [
+    "ovela",
+    "pesukarhu",
+    "supi",
+    "utelias",
+    "viekas"
+  ],
+  "racing_car": [
+    "auto",
+    "kilpa-ajot",
+    "kilpa-auto"
+  ],
+  "radio": [
+    "vastaanotin"
+  ],
+  "radio_button": [
+    "muoto",
+    "valinta",
+    "valintanappi",
+    "valintaruutu",
+    "ympyrä"
+  ],
+  "radioactive": [
+    "radioaktiivinen",
+    "säteily",
+    "säteilyvaara",
+    "vaara",
+    "ydinsäteily"
+  ],
+  "railway_car": [
+    "ajoneuvo",
+    "juna",
+    "junavaunu",
+    "raitiovaunu",
+    "rautatie"
+  ],
+  "railway_track": [
+    "juna",
+    "junaraide",
+    "rautatie"
+  ],
+  "rainbow": [
+    "aurinko",
+    "sää",
+    "sade",
+    "sateenkaari"
+  ],
+  "rainbow_flag": [
+    "liehuva",
+    "lippu",
+    "sateenkaari",
+    "sateenkaarilippu"
+  ],
+  "raised_back_of_hand": [
+    "kädenselkä",
+    "kädenselkä koholla",
+    "kämmenselkä koholla",
+    "kohotettu"
+  ],
+  "raised_fist": [
+    "isku",
+    "käsi",
+    "nostettu nyrkki",
+    "nyrkki",
+    "puristettu",
+    "vartalo"
+  ],
+  "raised_hand": [
+    "käsi",
+    "nostettu käsi",
+    "vartalo"
+  ],
+  "raising_hands": [
+    "ele",
+    "hurraa",
+    "juhla",
+    "käsi",
+    "nostettu",
+    "nousevat kädet",
+    "vartalo"
+  ],
+  "ram": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "lammas",
+    "oinas",
+    "pässi"
+  ],
+  "rat": [
+    "harmaa",
+    "rotta"
+  ],
+  "razor": [
+    "ajaa parta",
+    "partaveitsi",
+    "terävä"
+  ],
+  "receipt": [
+    "kirjanpito",
+    "kuitti",
+    "kulut",
+    "tilinpito",
+    "todistus",
+    "tosite"
+  ],
+  "record_button": [
+    "äänitä",
+    "nappi",
+    "nauhoita",
+    "painike",
+    "tallenna",
+    "ympyrä"
+  ],
+  "recycling_symbol": [
+    "kierrättää",
+    "kierrätys",
+    "kierrätyssymboli"
+  ],
+  "red_apple": [
+    "hedelmä",
+    "kasvi",
+    "omena",
+    "punainen"
+  ],
+  "red_circle": [
+    "muoto",
+    "punainen",
+    "ympyrä"
+  ],
+  "red_envelope": [
+    "hóngbāo",
+    "lahja",
+    "lai see",
+    "onni",
+    "punainen kirjekuori",
+    "raha"
+  ],
+  "red_exclamation_mark": [
+    "huutomerkki",
+    "merkki",
+    "välimerkki"
+  ],
+  "red_paper_lantern": [
+    "baari",
+    "japani",
+    "lyhty",
+    "punainen",
+    "punainen paperilyhty",
+    "valo"
+  ],
+  "red_question_mark": [
+    "kysymysmerkki",
+    "merkki",
+    "välimerkki"
+  ],
+  "red_square": [
+    "neliö",
+    "punainen"
+  ],
+  "red_triangle_pointed_down": [
+    "kolmio",
+    "muoto",
+    "punainen",
+    "punainen kolmio kärki alas"
+  ],
+  "red_triangle_pointed_up": [
+    "kolmio",
+    "muoto",
+    "punainen",
+    "punainen kolmio kärki ylös"
+  ],
+  "registered": [
+    "r",
+    "rekisteröity",
+    "rekisteröity-merkki"
+  ],
+  "relieved_face": [
+    "helpottunut",
+    "helpotus",
+    "naama"
+  ],
+  "reminder_ribbon": [
+    "merkkipäivä",
+    "muistutus",
+    "nauha",
+    "tietoisuus",
+    "tietoisuusnauha"
+  ],
+  "repeat_button": [
+    "myötäpäivään",
+    "nappi",
+    "nuoli",
+    "painike",
+    "toista uudelleen",
+    "uudestaan"
+  ],
+  "repeat_single_button": [
+    "kerran",
+    "myötäpäivään",
+    "nappi",
+    "nuoli",
+    "painike",
+    "toista kerran"
+  ],
+  "rescue_worker_s_helmet": [
+    "apu",
+    "hattu",
+    "kypärä",
+    "kypärä, jossa valkoinen risti",
+    "naama",
+    "risti"
+  ],
+  "restroom": [
+    "saniteetti",
+    "vessa",
+    "wc"
+  ],
+  "reunion": [
+    "lippu"
+  ],
+  "reverse_button": [
+    "kelaa hitaasti taakse",
+    "kelaus",
+    "kolmio",
+    "nappi",
+    "painike",
+    "taakse"
+  ],
+  "revolving_hearts": [
+    "pyörivä",
+    "sydän",
+    "toisiaan kiertävät sydämet"
+  ],
+  "rhinoceros": [
+    "eläin",
+    "sarvikuono"
+  ],
+  "ribbon": [
+    "juhla",
+    "lahjanaru",
+    "rusetti",
+    "ruusuke"
+  ],
+  "rice_ball": [
+    "japanilainen",
+    "pallo",
+    "riisi",
+    "riisipallo"
+  ],
+  "rice_cracker": [
+    "keksi",
+    "riisi",
+    "riisikakku"
+  ],
+  "right_anger_bubble": [
+    "ilmapallo",
+    "kupla",
+    "oikea vihainen puhekupla",
+    "puhekupla",
+    "vihainen"
+  ],
+  "right_arrow": [
+    "ilmansuunta",
+    "itä",
+    "nuoli",
+    "nuoli oikealle",
+    "pääilmansuunta"
+  ],
+  "right_arrow_curving_down": [
+    "alas",
+    "alas kääntyvä nuoli",
+    "nuoli"
+  ],
+  "right_arrow_curving_left": [
+    "nuoli",
+    "vasemmalle kääntyvä nuoli"
+  ],
+  "right_arrow_curving_up": [
+    "nuoli",
+    "ylös",
+    "ylös kääntyvä nuoli"
+  ],
+  "right_facing_fist": [
+    "nyrkki",
+    "nyrkki oikealle",
+    "oikea"
+  ],
+  "ring": [
+    "romantiikka",
+    "sormus",
+    "timantti"
+  ],
+  "ringed_planet": [
+    "rengasplaneetta",
+    "saturnus"
+  ],
+  "roasted_sweet_potato": [
+    "bataatti",
+    "paahdettu",
+    "paistettu bataatti",
+    "uunipaahdettu"
+  ],
+  "robot": [
+    "hirviö",
+    "naama",
+    "robotti",
+    "robottinaama"
+  ],
+  "rock": [
+    "kallio",
+    "kivi",
+    "lohkare",
+    "painava"
+  ],
+  "rocket": [
+    "ajoneuvo",
+    "avaruus",
+    "raketti"
+  ],
+  "rofl": [
+    "kasvot",
+    "kippura",
+    "naama",
+    "nauraa",
+    "nauraa kippurassa"
+  ],
+  "roll_eyes": [
+    "naama",
+    "pyörivä",
+    "silmät",
+    "silmien pyöritys"
+  ],
+  "roll_of_paper": [
+    "paperipyyhkeet",
+    "paperirulla",
+    "talouspaperi",
+    "vessapaperi",
+    "wc-paperi"
+  ],
+  "rolled_up_newspaper": [
+    "lehti",
+    "rulla",
+    "sanomalehti rullalla",
+    "uutiset"
+  ],
+  "roller_coaster": [
+    "huvipuisto",
+    "vuoristorata"
+  ],
+  "roller_skate": [
+    "luistin",
+    "rulla",
+    "rullaluistin"
+  ],
+  "romania": [
+    "lippu"
+  ],
+  "rooster": [
+    "kukko",
+    "lintu"
+  ],
+  "rose": [
+    "kasvi",
+    "kukka",
+    "ruusu"
+  ],
+  "rosette": [
+    "kasvi",
+    "ruusuke"
+  ],
+  "round_pushpin": [
+    "karttanaula",
+    "nasta",
+    "pyöreä nasta"
+  ],
+  "rugby_football": [
+    "jalkapallo",
+    "pallo",
+    "rugby",
+    "rugby-pallo",
+    "urheilu"
+  ],
+  "running_shirt": [
+    "juokseminen",
+    "juoksupaita",
+    "nauha",
+    "paita"
+  ],
+  "running_shoe": [
+    "juoksukenkä",
+    "kenkä",
+    "lenkkarit",
+    "urheilu",
+    "vaatteet"
+  ],
+  "russia": [
+    "lippu"
+  ],
+  "rwanda": [
+    "lippu"
+  ],
+  "sad_but_relieved_face": [
+    "helpottunut",
+    "huh",
+    "naama",
+    "pettynyt",
+    "pettynyt mutta helpottunut"
+  ],
+  "safety_pin": [
+    "hakaneula",
+    "punk",
+    "punkkari",
+    "vaippa"
+  ],
+  "safety_vest": [
+    "hätätilanne",
+    "liivi",
+    "turvaliivi",
+    "turvallisuus"
+  ],
+  "sagittarius": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "jousimies",
+    "jousimies-merkki"
+  ],
+  "sailboat": [
+    "ajoneuvo",
+    "alus",
+    "jahti",
+    "meri",
+    "purjevene",
+    "vene"
+  ],
+  "sake": [
+    "baari",
+    "juoma",
+    "kuppi",
+    "pullo",
+    "riisiviini"
+  ],
+  "salt": [
+    "mauste",
+    "sirotin",
+    "suola",
+    "suolasirotin"
+  ],
+  "samoa": [
+    "lippu"
+  ],
+  "san_marino": [
+    "lippu"
+  ],
+  "sandwich": [
+    "kerrosleipä",
+    "leipä",
+    "täyte",
+    "voileipä"
+  ],
+  "santa_claus": [
+    "fantasia",
+    "joulu",
+    "joulupukki",
+    "juhla",
+    "satu"
+  ],
+  "sao_tome_principe": [
+    "lippu"
+  ],
+  "sari": [
+    "mekko",
+    "vaate"
+  ],
+  "satellite": [
+    "avaruus",
+    "satelliitti",
+    "tekokuu"
+  ],
+  "satellite_antenna": [
+    "antenni",
+    "lautanen",
+    "lautasantenni",
+    "satelliittiantenni"
+  ],
+  "saudi_arabia": [
+    "lippu"
+  ],
+  "sauropod": [
+    "brontosaurus",
+    "dinosaurus",
+    "sauropodi"
+  ],
+  "saxophone": [
+    "instrumentti",
+    "musiikki",
+    "saksofoni"
+  ],
+  "scarf": [
+    "asuste",
+    "huivi",
+    "kaula",
+    "kaulaliina"
+  ],
+  "school": [
+    "koulu",
+    "oppi",
+    "rakennus"
+  ],
+  "scientist": [
+    "biologi",
+    "insinööri",
+    "kemisti",
+    "lääkäri",
+    "tiede",
+    "tutkija"
+  ],
+  "scissors": [
+    "sakset",
+    "työkalu"
+  ],
+  "scorpio": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "skorpioni",
+    "skorpioni-merkki"
+  ],
+  "scorpion": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "skorpioni"
+  ],
+  "scotland": [
+    "lippu"
+  ],
+  "scream": [
+    "huuto",
+    "munch",
+    "naama",
+    "pelko",
+    "pelokas"
+  ],
+  "screwdriver": [
+    "meisseli",
+    "ruuvi",
+    "ruuvimeisseli",
+    "työkalu"
+  ],
+  "scroll": [
+    "käärö",
+    "kirjakäärö",
+    "paperi"
+  ],
+  "seal": [
+    "hylje",
+    "merileijona"
+  ],
+  "seat": [
+    "istuin",
+    "tuoli"
+  ],
+  "see_no_evil_monkey": [
+    "apina",
+    "ei",
+    "ele",
+    "en näe pahaa",
+    "kielletty"
+  ],
+  "seedling": [
+    "kasvi",
+    "taimi",
+    "verso"
+  ],
+  "selfie": [
+    "kamera",
+    "omakuva",
+    "puhelin"
+  ],
+  "senegal": [
+    "lippu"
+  ],
+  "serbia": [
+    "lippu"
+  ],
+  "service_dog": [
+    "apu",
+    "esteettömyys",
+    "palveluskoira"
+  ],
+  "seven": [
+    "näppäin"
+  ],
+  "seven_o_clock": [
+    "19",
+    "7",
+    "7.00",
+    "aika",
+    "kello",
+    "kello seitsemän",
+    "kellonaika"
+  ],
+  "seven_thirty": [
+    "19.30",
+    "30",
+    "7.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kahdeksan"
+  ],
+  "sewing_needle": [
+    "käsinompelu",
+    "kirjonta",
+    "neula",
+    "ompelu",
+    "ompeluneula",
+    "parsiminen"
+  ],
+  "seychelles": [
+    "lippu"
+  ],
+  "shallow_pan_of_food": [
+    "paella",
+    "paellapannu",
+    "pata",
+    "pataruoka",
+    "ruoka"
+  ],
+  "shamrock": [
+    "kasvi",
+    "kolmiapila"
+  ],
+  "shark": [
+    "hai",
+    "kala"
+  ],
+  "shaved_ice": [
+    "herkku",
+    "jää",
+    "jäähile",
+    "jäähilejälkiruoka",
+    "jälkiruoka",
+    "makea"
+  ],
+  "sheaf_of_rice": [
+    "kasvi",
+    "riisi",
+    "riisikasvi",
+    "tähkä"
+  ],
+  "shield": [
+    "ase",
+    "kilpi"
+  ],
+  "shinto_shrine": [
+    "rakennus",
+    "shinto-temppeli",
+    "shintolaisuus",
+    "uskonto"
+  ],
+  "ship": [
+    "ajoneuvo",
+    "alus",
+    "laiva",
+    "meri"
+  ],
+  "shooting_star": [
+    "avaruus",
+    "tähdenlento",
+    "tähti",
+    "toive"
+  ],
+  "shopping_bags": [
+    "kauppakassi",
+    "laukku",
+    "ostoskassit",
+    "shoppailu"
+  ],
+  "shopping_cart": [
+    "kärryt",
+    "ostaminen",
+    "ostokset",
+    "ostoskärryt"
+  ],
+  "shortcake": [
+    "jälkiruoka",
+    "kakku",
+    "kakkupala",
+    "leivonnainen",
+    "makea",
+    "pala"
+  ],
+  "shorts": [
+    "alushousut",
+    "shortsit",
+    "uimashortsit"
+  ],
+  "shower": [
+    "suihku",
+    "vesi"
+  ],
+  "shrimp": [
+    "äyriäiset",
+    "katkarapu",
+    "ruoka"
+  ],
+  "shuffle_tracks_button": [
+    "nappi",
+    "nuoli",
+    "painike",
+    "ristissä",
+    "sekoitus"
+  ],
+  "shushing_face": [
+    "hiljentää",
+    "hyssyttää",
+    "hyssyttelevä"
+  ],
+  "sierra_leone": [
+    "lippu"
+  ],
+  "sign_of_the_horns": [
+    "käsi",
+    "rock",
+    "sarvet",
+    "sarviele",
+    "sormi",
+    "vartalo"
+  ],
+  "singapore": [
+    "lippu"
+  ],
+  "singer": [
+    "karaoke",
+    "laulaja",
+    "mikki"
+  ],
+  "sint_maarten": [
+    "lippu"
+  ],
+  "six": [
+    "näppäin"
+  ],
+  "six_o_clock": [
+    "18",
+    "18.00",
+    "6",
+    "6.00",
+    "aika",
+    "kello",
+    "kello kuusi",
+    "kellonaika"
+  ],
+  "six_thirty": [
+    "18.30",
+    "30",
+    "6.30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli seitsemän"
+  ],
+  "skateboard": [
+    "rullalauta",
+    "skeittilauta"
+  ],
+  "skier": [
+    "hiihtäjä",
+    "hiihto",
+    "lumi",
+    "sauvat",
+    "sukset"
+  ],
+  "skis": [
+    "hiihto",
+    "lumi",
+    "sauvat",
+    "sukset"
+  ],
+  "skull": [
+    "hirviö",
+    "kuolema",
+    "naama",
+    "pääkallo",
+    "ruumis",
+    "satu"
+  ],
+  "skull_and_crossbones": [
+    "hirviö",
+    "kuolema",
+    "naama",
+    "pääkallo",
+    "pääkallo ja reisiluut",
+    "reisiluut",
+    "ruumis"
+  ],
+  "skunk": [
+    "haista",
+    "haisunäätä"
+  ],
+  "sled": [
+    "kelkka",
+    "kouru",
+    "lasku"
+  ],
+  "sleeping_face": [
+    "naama",
+    "nukkuva",
+    "uni",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "naama",
+    "unelias",
+    "uni"
+  ],
+  "slightly_frowning_face": [
+    "hieman surullinen",
+    "naama",
+    "surullinen"
+  ],
+  "slightly_smiling_face": [
+    "hymy",
+    "naama",
+    "pieni hymy"
+  ],
+  "slot_machine": [
+    "kolikko",
+    "pelikone",
+    "rahapeli"
+  ],
+  "sloth": [
+    "hidas",
+    "laiska",
+    "laiskiainen"
+  ],
+  "slovakia": [
+    "lippu"
+  ],
+  "slovenia": [
+    "lippu"
+  ],
+  "small_airplane": [
+    "ajoneuvo",
+    "lentokone",
+    "pienkone"
+  ],
+  "small_blue_diamond": [
+    "muoto",
+    "pieni sininen vinoneliö",
+    "sininen",
+    "vinoneliö"
+  ],
+  "small_orange_diamond": [
+    "muoto",
+    "oranssi",
+    "pieni oranssi vinoneliö",
+    "vinoneliö"
+  ],
+  "smiley": [
+    "auki",
+    "hymy",
+    "kasvot",
+    "naama",
+    "suu"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "hymy",
+    "kissa",
+    "kissa ja sydänsilmät",
+    "kissanaama ja sydänsilmät",
+    "naama",
+    "rakkaus",
+    "silmä",
+    "sydän"
+  ],
+  "smiling_face": [
+    "hymy",
+    "hymynaama",
+    "naama",
+    "rento"
+  ],
+  "smiling_face_with_horns": [
+    "fantasia",
+    "hymy",
+    "naama",
+    "pirullinen hymy ja sarvet",
+    "sarvet",
+    "satu"
+  ],
+  "smiling_face_with_sunglasses": [
+    "aurinko",
+    "aurinkolasihymy",
+    "aurinkolasit",
+    "cool",
+    "hymy"
+  ],
+  "smiling_face_with_tear": [
+    "helpottunut",
+    "hymyilee",
+    "hymyilevät kasvot ja kyynel",
+    "kiitollinen",
+    "kyynel",
+    "liikuttunut",
+    "ylpeä"
+  ],
+  "smiling_face_with_three_hearts": [
+    "hymy ja kolme sydäntä",
+    "ihailla",
+    "ihastunut",
+    "rakastunut"
+  ],
+  "smirking_face": [
+    "huvittunut",
+    "hymy",
+    "naama",
+    "virne",
+    "virnistys"
+  ],
+  "snail": [
+    "etana"
+  ],
+  "snake": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "käärme",
+    "käärmeenkantaja",
+    "viestintuoja"
+  ],
+  "sneezing_face": [
+    "aivastaa",
+    "aivastava",
+    "aivastus",
+    "kasvot",
+    "naama",
+    "terveydeksi"
+  ],
+  "snow_capped_mountain": [
+    "kylmä",
+    "lumi",
+    "lumihuippuinen vuori",
+    "vuori"
+  ],
+  "snowboarder": [
+    "laskettelu",
+    "lumi",
+    "lumilauta",
+    "lumilautailija"
+  ],
+  "snowflake": [
+    "hiutale",
+    "kylmä",
+    "lumi",
+    "lumihiutale",
+    "sää"
+  ],
+  "snowman": [
+    "kylmä",
+    "lumi",
+    "lumiukko",
+    "sää"
+  ],
+  "snowman_without_snow": [
+    "kylmä",
+    "lumi",
+    "lumiukko",
+    "lumiukko ilman lunta",
+    "sää"
+  ],
+  "soap": [
+    "kylpy",
+    "palasaippua",
+    "peseytyminen",
+    "saippua",
+    "saippuavaahto",
+    "siivous"
+  ],
+  "sob": [
+    "ääneen itkevä",
+    "itku",
+    "kyynel",
+    "naama",
+    "nyyhky",
+    "surullinen"
+  ],
+  "soccer_ball": [
+    "jalkapallo",
+    "pallo",
+    "urheilu"
+  ],
+  "socks": [
+    "sukat",
+    "vaatteet",
+    "villasukka"
+  ],
+  "soft_ice_cream": [
+    "jää",
+    "jäätelö",
+    "jälkiruoka",
+    "kerma",
+    "makea",
+    "pehmeä",
+    "pehmis"
+  ],
+  "softball": [
+    "pallo",
+    "räpylä"
+  ],
+  "solomon_islands": [
+    "lippu"
+  ],
+  "somalia": [
+    "lippu"
+  ],
+  "soon_arrow": [
+    "nuoli",
+    "soon-nuoli",
+    "tulossa"
+  ],
+  "sos_button": [
+    "apua",
+    "hätämerkki",
+    "merkki",
+    "sos"
+  ],
+  "south_africa": [
+    "lippu"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "lippu"
+  ],
+  "south_korea": [
+    "lippu"
+  ],
+  "south_sudan": [
+    "lippu"
+  ],
+  "spade_suit": [
+    "kortti",
+    "korttipeli",
+    "maa",
+    "pata"
+  ],
+  "spaghetti": [
+    "pasta",
+    "spagetti"
+  ],
+  "spain": [
+    "lippu"
+  ],
+  "sparkle": [
+    "kipinä",
+    "säihke",
+    "tähti"
+  ],
+  "sparkler": [
+    "ilotulite",
+    "juhla",
+    "tähtisade",
+    "tähtisadetikku"
+  ],
+  "sparkles": [
+    "loiste",
+    "säihke",
+    "tähti"
+  ],
+  "sparkling_heart": [
+    "innostunut",
+    "kimalle",
+    "kimaltava sydän",
+    "sydän"
+  ],
+  "speak_no_evil_monkey": [
+    "apina",
+    "en puhu pahaa",
+    "kielletty"
+  ],
+  "speaker_high_volume": [
+    "äänekäs kaiutin",
+    "äänenvoimakkuus",
+    "kaiutin",
+    "kovempaa",
+    "lisää"
+  ],
+  "speaker_low_volume": [
+    "äänenvoimakkuus",
+    "alhainen",
+    "hiljainen kaiutin"
+  ],
+  "speaker_medium_volume": [
+    "äänenvoimakkuus",
+    "äänet",
+    "kaiutin",
+    "kaiutin normaalilla äänenvoimakkuudella"
+  ],
+  "speaking_head": [
+    "naama",
+    "pää",
+    "puhu",
+    "puhuminen",
+    "puhuva pää",
+    "siluetti"
+  ],
+  "speech_balloon": [
+    "ilmapallo",
+    "keskustelu",
+    "kupla",
+    "puhe",
+    "puhekupla",
+    "sarjakuva"
+  ],
+  "speedboat": [
+    "ajoneuvo",
+    "meri",
+    "moottorivene",
+    "pikavene",
+    "vene"
+  ],
+  "spider": [
+    "hämähäkki",
+    "hyönteinen"
+  ],
+  "spider_web": [
+    "hämähäkin seitti",
+    "hämähäkki",
+    "seitti",
+    "verkko"
+  ],
+  "spiral_calendar": [
+    "kalenteri",
+    "kierre",
+    "kierrekalenteri",
+    "lehtiö"
+  ],
+  "spiral_notepad": [
+    "kierre",
+    "kierrelehtiö",
+    "lehtiö",
+    "muistio"
+  ],
+  "spiral_shell": [
+    "kotilo",
+    "kuori"
+  ],
+  "sponge": [
+    "huokoinen",
+    "imukykyinen",
+    "pesu",
+    "pesusieni",
+    "sieni",
+    "siivous"
+  ],
+  "spoon": [
+    "aterimet",
+    "lusikka",
+    "ruokailu"
+  ],
+  "sport_utility_vehicle": [
+    "ajoneuvo",
+    "auto",
+    "katumaasturi"
+  ],
+  "sports_medal": [
+    "mitali",
+    "urheilumitali"
+  ],
+  "spouting_whale": [
+    "naama",
+    "suihkuttaa",
+    "suihkuttava valas",
+    "valas"
+  ],
+  "squid": [
+    "kalmari",
+    "mustekala",
+    "ruoka"
+  ],
+  "squinting_face_with_tongue": [
+    "kamala",
+    "kieli",
+    "kieli ulkona ja silmät tiukasti kiinni",
+    "maku",
+    "naama",
+    "silmä"
+  ],
+  "sri_lanka": [
+    "lippu"
+  ],
+  "st_barthelemy": [
+    "lippu"
+  ],
+  "st_helena": [
+    "lippu"
+  ],
+  "st_kitts_nevis": [
+    "lippu"
+  ],
+  "st_lucia": [
+    "lippu"
+  ],
+  "st_martin": [
+    "lippu"
+  ],
+  "st_pierre_miquelon": [
+    "lippu"
+  ],
+  "st_vincent_grenadines": [
+    "lippu"
+  ],
+  "stadium": [
+    "stadion",
+    "urheilukatsomo"
+  ],
+  "star": [
+    "tähti",
+    "valkoinen tähti"
+  ],
+  "star_and_crescent": [
+    "islam",
+    "kuu",
+    "kuunsirppi ja tähti",
+    "muslimi",
+    "tähti",
+    "uskonto"
+  ],
+  "star_of_david": [
+    "daavid",
+    "daavidin tähti",
+    "daavidintähti",
+    "juutalaisuus",
+    "tähti",
+    "uskonto"
+  ],
+  "star_struck": [
+    "kasvot",
+    "naama",
+    "silmät",
+    "tähdet",
+    "tähtisilmä",
+    "virnistys"
+  ],
+  "station": [
+    "ajoneuvo",
+    "asema",
+    "juna",
+    "rautatie"
+  ],
+  "statue_of_liberty": [
+    "new york",
+    "patsas",
+    "usa",
+    "vapaudenpatsas",
+    "vapaus"
+  ],
+  "steaming_bowl": [
+    "höyryävä",
+    "kulho",
+    "kuuma",
+    "nuudeli",
+    "ramen"
+  ],
+  "stethoscope": [
+    "kuuntelu",
+    "lääkäri",
+    "stetoskooppi",
+    "sydän"
+  ],
+  "stop_button": [
+    "lopeta",
+    "nappi",
+    "neliö",
+    "painike",
+    "pysäytä"
+  ],
+  "stop_sign": [
+    "merkki",
+    "pysähtyä",
+    "pysähtymismerkki"
+  ],
+  "stopwatch": [
+    "ajanotto",
+    "kello",
+    "sekuntikello"
+  ],
+  "straight_ruler": [
+    "suora",
+    "viivain",
+    "viivoitin"
+  ],
+  "strawberry": [
+    "hedelmä",
+    "kasvi",
+    "mansikka",
+    "marja"
+  ],
+  "student": [
+    "lakki",
+    "opiskelija",
+    "opiskelu",
+    "valmistujaiset"
+  ],
+  "studio_microphone": [
+    "äänitys",
+    "levytys",
+    "mikrofoni",
+    "musiikki",
+    "studiomikrofoni"
+  ],
+  "stuffed_flatbread": [
+    "falafel",
+    "kebab",
+    "leipä",
+    "pita",
+    "ruoka",
+    "täyte",
+    "täytetty pita"
+  ],
+  "sudan": [
+    "lippu"
+  ],
+  "sun": [
+    "aurinko",
+    "helle",
+    "paiste",
+    "sää",
+    "säteet"
+  ],
+  "sun_behind_cloud": [
+    "aurinko",
+    "aurinko pilvessä",
+    "pilvi",
+    "sää"
+  ],
+  "sun_behind_large_cloud": [
+    "aurinko",
+    "aurinko ja suuri pilvi",
+    "pilvi",
+    "sää"
+  ],
+  "sun_behind_rain_cloud": [
+    "aurinko",
+    "aurinko sadepilvessä",
+    "pilvi",
+    "sää",
+    "sade"
+  ],
+  "sun_behind_small_cloud": [
+    "aurinko",
+    "aurinko ja pieni pilvi",
+    "pilvi",
+    "sää"
+  ],
+  "sun_with_face": [
+    "aurinko kasvoilla",
+    "kasvot",
+    "kuu",
+    "paiste",
+    "sää",
+    "valo"
+  ],
+  "sunflower": [
+    "auringonkukka",
+    "aurinko",
+    "kasvi",
+    "kukka"
+  ],
+  "sunglasses": [
+    "aurinkolasit",
+    "lasit",
+    "silmä",
+    "silmälasit",
+    "tumma"
+  ],
+  "sunrise": [
+    "aamu",
+    "auringonnousu",
+    "aurinko",
+    "sää"
+  ],
+  "sunrise_over_mountains": [
+    "aamu",
+    "auringonnousu vuorten takaa",
+    "aurinko",
+    "sää"
+  ],
+  "sunset": [
+    "auringonlasku",
+    "aurinko",
+    "ilta",
+    "sää"
+  ],
+  "superhero": [
+    "hyvä",
+    "hyvis",
+    "sankari",
+    "sankaritar",
+    "supersankari",
+    "supervoimat"
+  ],
+  "supervillain": [
+    "kelmi",
+    "konna",
+    "paha",
+    "rikollinen",
+    "roisto",
+    "superpahis",
+    "supervoimat"
+  ],
+  "suriname": [
+    "lippu"
+  ],
+  "sushi": [
+    "raaka kala",
+    "riisi"
+  ],
+  "suspension_railway": [
+    "ajoneuvo",
+    "juna",
+    "kisko",
+    "rata",
+    "rautatie",
+    "riippurata"
+  ],
+  "svalbard_jan_mayen": [
+    "lippu"
+  ],
+  "swan": [
+    "joutsen",
+    "lintu",
+    "ruma ankanpoikanen"
+  ],
+  "sweat_droplets": [
+    "hiki",
+    "hikipisarat",
+    "sarjakuva",
+    "vesi"
+  ],
+  "sweat_smile": [
+    "auki",
+    "hiki",
+    "hymy",
+    "hymy ja kylmänhiki",
+    "kylmä",
+    "naama"
+  ],
+  "sweden": [
+    "lippu"
+  ],
+  "switzerland": [
+    "lippu"
+  ],
+  "synagogue": [
+    "juutalaisuus",
+    "rakennus",
+    "synagoga",
+    "temppeli",
+    "uskonto"
+  ],
+  "syria": [
+    "lippu"
+  ],
+  "syringe": [
+    "lääkäri",
+    "lääke",
+    "piikki",
+    "rokote",
+    "ruisku",
+    "tauti",
+    "työkalu"
+  ],
+  "t_rex": [
+    "dinosaurus",
+    "hirmulisko",
+    "tyrannosaurus rex"
+  ],
+  "t_shirt": [
+    "paita",
+    "t-paita",
+    "vaatteet"
+  ],
+  "taco": [
+    "meksikolainen"
+  ],
+  "tada": [
+    "juhla",
+    "paukkuserpentiini",
+    "yllätys"
+  ],
+  "taiwan": [
+    "lippu"
+  ],
+  "tajikistan": [
+    "lippu"
+  ],
+  "takeout_box": [
+    "ateriarasia",
+    "noutoruoka"
+  ],
+  "tamale": [
+    "käärö",
+    "meksikolainen",
+    "tamal"
+  ],
+  "tanabata_tree": [
+    "bambu",
+    "japani",
+    "juhla",
+    "puu",
+    "tanabata",
+    "tanabatapuu"
+  ],
+  "tangerine": [
+    "appelsiini",
+    "hedelmä",
+    "kasvi",
+    "mandariini"
+  ],
+  "tanzania": [
+    "lippu"
+  ],
+  "taurus": [
+    "härkä",
+    "härkä-merkki",
+    "horoskooppi",
+    "horoskooppimerkki"
+  ],
+  "taxi": [
+    "ajoneuvo",
+    "auto",
+    "taksi"
+  ],
+  "teacher": [
+    "koulu",
+    "opettaja"
+  ],
+  "teacup_without_handle": [
+    "juoda",
+    "juoma",
+    "korvaton teekuppi",
+    "kuppi",
+    "tee",
+    "teekuppi"
+  ],
+  "teapot": [
+    "juoda",
+    "pannu",
+    "tee",
+    "teepannu"
+  ],
+  "tear_off_calendar": [
+    "kalenteri",
+    "päiväkalenteri"
+  ],
+  "technologist": [
+    "it-työntekijä",
+    "kehittäjä",
+    "keksijä",
+    "koodari",
+    "ohjelmisto"
+  ],
+  "teddy_bear": [
+    "lelu",
+    "nalle",
+    "pehmolelu",
+    "täytetty",
+    "teddykarhu"
+  ],
+  "telephone": [
+    "lankapuhelin",
+    "puhelin"
+  ],
+  "telephone_receiver": [
+    "kuuloke",
+    "luuri",
+    "puhelin"
+  ],
+  "telescope": [
+    "kaukoputki",
+    "teleskooppi",
+    "työkalu"
+  ],
+  "television": [
+    "televisio",
+    "telkkari",
+    "tv",
+    "video"
+  ],
+  "ten": [
+    "näppäin"
+  ],
+  "ten_o_clock": [
+    "10",
+    "10.00",
+    "22",
+    "22.00",
+    "aika",
+    "kello",
+    "kello kymmenen",
+    "kellonaika"
+  ],
+  "ten_thirty": [
+    "10.30",
+    "22.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli yksitoista"
+  ],
+  "tennis": [
+    "pallo",
+    "tennispallo",
+    "urheilu"
+  ],
+  "tent": [
+    "leirintä",
+    "teltta",
+    "telttailu"
+  ],
+  "test_tube": [
+    "kemia",
+    "kemisti",
+    "koe",
+    "koeputki",
+    "laboratorio",
+    "tiede"
+  ],
+  "thailand": [
+    "lippu"
+  ],
+  "thermometer": [
+    "lämpömittari",
+    "lämpötila",
+    "sää"
+  ],
+  "thinking": [
+    "mietteliäs",
+    "naama"
+  ],
+  "thong_sandal": [
+    "rantasandaalit",
+    "sandaalit",
+    "varvassandaali",
+    "varvassandaalit",
+    "varvastossut"
+  ],
+  "thought_balloon": [
+    "ajatus",
+    "ajatuskupla",
+    "ilmapallo",
+    "kupla",
+    "sarjakuva"
+  ],
+  "thread": [
+    "lanka",
+    "lankarulla",
+    "neula",
+    "ompelu",
+    "rulla",
+    "rullalanka"
+  ],
+  "three": [
+    "näppäin"
+  ],
+  "three_o_clock": [
+    "15",
+    "15.00",
+    "3",
+    "3.00",
+    "aika",
+    "kello",
+    "kello kolme",
+    "kellonaika"
+  ],
+  "three_thirty": [
+    "15.30",
+    "3.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli neljä"
+  ],
+  "ticket": [
+    "lippu",
+    "sisäänpääsylippu"
+  ],
+  "tiger": [
+    "tiikeri"
+  ],
+  "tiger_face": [
+    "naama",
+    "tiikeri",
+    "tiikerin naama"
+  ],
+  "timer_clock": [
+    "ajastin",
+    "ajoitus",
+    "munakello"
+  ],
+  "timor_leste": [
+    "lippu"
+  ],
+  "tired_face": [
+    "naama",
+    "uupumus",
+    "väsymys",
+    "väsynyt"
+  ],
+  "togo": [
+    "lippu"
+  ],
+  "toilet": [
+    "vessa",
+    "vessanpönttö"
+  ],
+  "tokelau": [
+    "lippu"
+  ],
+  "tokyo_tower": [
+    "japani",
+    "rakennus",
+    "tokio",
+    "torni"
+  ],
+  "tomato": [
+    "kasvi",
+    "kasvis",
+    "tomaatti",
+    "vihannes"
+  ],
+  "tonga": [
+    "lippu"
+  ],
+  "tongue": [
+    "kieli",
+    "pää",
+    "suu",
+    "uhma",
+    "vartalo"
+  ],
+  "toolbox": [
+    "laatikko",
+    "mekaaninen",
+    "pakki",
+    "työkalu",
+    "työkalulaatikko",
+    "työkalupakki"
+  ],
+  "tooth": [
+    "hammas",
+    "hammaslääkäri",
+    "hampaisto"
+  ],
+  "toothbrush": [
+    "hammasharja",
+    "hampaat",
+    "harja",
+    "hygienia",
+    "kylpyhuone",
+    "puhdas"
+  ],
+  "top_arrow": [
+    "alkuun",
+    "nuoli",
+    "top-nuoli"
+  ],
+  "top_hat": [
+    "hattu",
+    "silinteri",
+    "vaatteet"
+  ],
+  "tornado": [
+    "hirmumyrsky",
+    "hurrikaani",
+    "sää"
+  ],
+  "trackball": [
+    "hiiri",
+    "ohjauspallo",
+    "tietokone"
+  ],
+  "tractor": [
+    "ajoneuvo",
+    "auto",
+    "traktori"
+  ],
+  "trade_mark": [
+    "merkki",
+    "tavaramerkki",
+    "tm"
+  ],
+  "train": [
+    "ajoneuvo",
+    "juna",
+    "rautatie"
+  ],
+  "tram": [
+    "ajoneuvo",
+    "raiteet",
+    "raitioliikenne"
+  ],
+  "tram_car": [
+    "ajoneuvo",
+    "raiteet",
+    "raitiovaunu",
+    "ratikka"
+  ],
+  "transgender_flag": [
+    "lippu",
+    "trans",
+    "translippu",
+    "transsukupuolinen"
+  ],
+  "transgender_symbol": [
+    "trans",
+    "transsukupuolinen",
+    "transsymboli"
+  ],
+  "triangular_flag": [
+    "kolmiolippu",
+    "lippu"
+  ],
+  "triangular_ruler": [
+    "kolmio",
+    "kolmioviivain",
+    "viivain",
+    "viivotin"
+  ],
+  "trident_emblem": [
+    "ankkuri",
+    "atrain",
+    "kolme",
+    "kolmikärki",
+    "laiva",
+    "meri"
+  ],
+  "trinidad_tobago": [
+    "lippu"
+  ],
+  "tristan_da_cunha": [
+    "lippu"
+  ],
+  "trolleybus": [
+    "ajoneuvo",
+    "auto",
+    "johdinauto",
+    "johdinbussi"
+  ],
+  "trophy": [
+    "palkinto",
+    "pokaali"
+  ],
+  "tropical_drink": [
+    "baari",
+    "juoda",
+    "lasi",
+    "trooppinen drinkki"
+  ],
+  "tropical_fish": [
+    "kala",
+    "trooppinen"
+  ],
+  "trumpet": [
+    "instrumentti",
+    "musiikki",
+    "torvi",
+    "trumpetti"
+  ],
+  "tulip": [
+    "kasvi",
+    "kukka",
+    "tulppaani"
+  ],
+  "tumbler_glass": [
+    "juomalasi",
+    "paukku",
+    "viina",
+    "viski"
+  ],
+  "tunisia": [
+    "lippu"
+  ],
+  "turkey": [
+    "kalkkuna",
+    "lintu"
+  ],
+  "turkmenistan": [
+    "lippu"
+  ],
+  "turks_caicos_islands": [
+    "lippu"
+  ],
+  "turtle": [
+    "kilpikonna"
+  ],
+  "tuvalu": [
+    "lippu"
+  ],
+  "twelve_o_clock": [
+    "00.00",
+    "12",
+    "12.00",
+    "24.00",
+    "aika",
+    "kello",
+    "kello kaksitoista",
+    "kellonaika"
+  ],
+  "twelve_thirty": [
+    "00.30",
+    "12.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli yksi"
+  ],
+  "two": [
+    "näppäin"
+  ],
+  "two_hearts": [
+    "kaksi sydäntä",
+    "rakkaus",
+    "sydän"
+  ],
+  "two_hump_camel": [
+    "kaksikyttyräinen",
+    "kameli",
+    "kyttyrä"
+  ],
+  "two_o_clock": [
+    "14",
+    "14.00",
+    "2",
+    "2.00",
+    "aika",
+    "kello",
+    "kello kaksi",
+    "kellonaika"
+  ],
+  "two_thirty": [
+    "14.30",
+    "2.30",
+    "30",
+    "aika",
+    "kello",
+    "kellonaika",
+    "puoli kolme"
+  ],
+  "türkiye": [
+    "lippu"
+  ],
+  "uganda": [
+    "lippu"
+  ],
+  "ukraine": [
+    "lippu"
+  ],
+  "umbrella": [
+    "asuste",
+    "sää",
+    "sade",
+    "sateenvarjo"
+  ],
+  "umbrella_on_ground": [
+    "aurinko",
+    "aurinkovarjo",
+    "sää",
+    "varjo"
+  ],
+  "umbrella_with_rain_drops": [
+    "asuste",
+    "pisara",
+    "sää",
+    "sade",
+    "sateenvarjo",
+    "sateenvarjo ja pisarat"
+  ],
+  "unamused_face": [
+    "ei naurata",
+    "naama",
+    "onneton"
+  ],
+  "unicorn": [
+    "naama",
+    "yksisarvinen",
+    "yksisarvisen naama"
+  ],
+  "united_arab_emirates": [
+    "lippu"
+  ],
+  "united_kingdom": [
+    "lippu"
+  ],
+  "united_nations": [
+    "lippu"
+  ],
+  "united_states": [
+    "lippu"
+  ],
+  "unlocked": [
+    "auki",
+    "avata",
+    "lukko"
+  ],
+  "up_arrow": [
+    "ilmansuunta",
+    "nuoli",
+    "nuoli ylös",
+    "pääilmansuunta",
+    "pohjoinen"
+  ],
+  "up_button": [
+    "huutomerkki",
+    "merkki",
+    "päivitys",
+    "up",
+    "up!",
+    "uutta"
+  ],
+  "up_down_arrow": [
+    "nuoli",
+    "nuoli ylös ja alas",
+    "suunta"
+  ],
+  "up_left_arrow": [
+    "ilmansuunta",
+    "luode",
+    "nuoli",
+    "nuoli ylävasemmalle",
+    "väli-ilmansuunta"
+  ],
+  "up_right_arrow": [
+    "ilmansuunta",
+    "koillinen",
+    "nuoli",
+    "nuoli yläoikealle",
+    "väli-ilmansuunta"
+  ],
+  "upside_down_face": [
+    "naama",
+    "väärinpäin",
+    "ylösalainen"
+  ],
+  "upwards_button": [
+    "kolmio",
+    "nappi",
+    "painike",
+    "ylös"
+  ],
+  "uruguay": [
+    "lippu"
+  ],
+  "us_outlying_islands": [
+    "lippu"
+  ],
+  "us_virgin_islands": [
+    "lippu"
+  ],
+  "uzbekistan": [
+    "lippu"
+  ],
+  "vampire": [
+    "dracula",
+    "elävä kuollut",
+    "epäkuollut",
+    "hampaat",
+    "torahammas",
+    "vampyyri",
+    "verenhimo",
+    "verenimijä"
+  ],
+  "vanuatu": [
+    "lippu"
+  ],
+  "vatican_city": [
+    "lippu"
+  ],
+  "venezuela": [
+    "lippu"
+  ],
+  "vertical_traffic_light": [
+    "liikenne",
+    "liikennevalo",
+    "pystysuuntaiset liikennevalot",
+    "valo"
+  ],
+  "vibration_mode": [
+    "äänetön",
+    "hiljainen",
+    "matkapuhelin",
+    "puhelin",
+    "värinä",
+    "värinätila"
+  ],
+  "victory_hand": [
+    "käsi",
+    "v",
+    "vartalo",
+    "voitonmerkki",
+    "voitto"
+  ],
+  "video_camera": [
+    "kamera",
+    "video",
+    "videokamera"
+  ],
+  "video_game": [
+    "ohjain",
+    "peli",
+    "videopeli"
+  ],
+  "videocassette": [
+    "nauha",
+    "vhs",
+    "video",
+    "videokasetti",
+    "videonauha"
+  ],
+  "vietnam": [
+    "lippu"
+  ],
+  "violin": [
+    "instrumentti",
+    "jousi",
+    "musiikki",
+    "viulu"
+  ],
+  "virgo": [
+    "horoskooppi",
+    "horoskooppimerkki",
+    "neitsyt",
+    "neitsyt-merkki"
+  ],
+  "volcano": [
+    "sää",
+    "tulivuorenpurkaus",
+    "tulivuori",
+    "vuori"
+  ],
+  "volleyball": [
+    "lentopallo",
+    "ottelu"
+  ],
+  "vs_button": [
+    "merkki",
+    "versus",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "käsi",
+    "sormi",
+    "spock",
+    "vartalo",
+    "vulkanilainen",
+    "vulkanilaisten tervehdys"
+  ],
+  "waffle": [
+    "päättämätön",
+    "ratkaisematon",
+    "vohveli",
+    "vohvelirauta"
+  ],
+  "wales": [
+    "lippu"
+  ],
+  "wallis_futuna": [
+    "lippu"
+  ],
+  "waning_crescent_moon": [
+    "kuu",
+    "sää",
+    "sirppi",
+    "taivaankappale",
+    "vähenevä",
+    "vähenevä kuunsirppi"
+  ],
+  "waning_gibbous_moon": [
+    "kuu",
+    "sää",
+    "taivaankappale",
+    "vähenevä",
+    "vähenevä puolikuu"
+  ],
+  "warning": [
+    "matkatavarat",
+    "varoitus"
+  ],
+  "wastebasket": [
+    "roskakori",
+    "roskis"
+  ],
+  "watch": [
+    "kello",
+    "rannekello"
+  ],
+  "water_buffalo": [
+    "puhveli",
+    "vesi",
+    "vesipuhveli"
+  ],
+  "water_closet": [
+    "huussi",
+    "käymälä",
+    "vessa",
+    "wc"
+  ],
+  "water_pistol": [
+    "pistooli",
+    "pyssy",
+    "revolveri",
+    "vesipyssy"
+  ],
+  "watermelon": [
+    "hedelmä",
+    "kasvi",
+    "vesimeloni"
+  ],
+  "waving_hand": [
+    "heilautus",
+    "käden heilautus",
+    "käsi",
+    "vartalo",
+    "vilkuttaa"
+  ],
+  "wavy_dash": [
+    "aaltoileva",
+    "aaltoviiva",
+    "välimerkki",
+    "viiva"
+  ],
+  "waxing_crescent_moon": [
+    "kasvava",
+    "kasvava kuunsirppi",
+    "kuu",
+    "sää",
+    "sirppi",
+    "taivaankappale"
+  ],
+  "waxing_gibbous_moon": [
+    "kasvava",
+    "kasvava puolikuu",
+    "kuu",
+    "sää",
+    "taivaankappale"
+  ],
+  "weary_cat": [
+    "kissa",
+    "naama",
+    "oho",
+    "yllättynyt"
+  ],
+  "weary_face": [
+    "naama",
+    "poikki",
+    "uupumus",
+    "uupunut",
+    "väsynyt"
+  ],
+  "wedding": [
+    "häät",
+    "kappeli",
+    "romantiikka",
+    "vihkiminen"
+  ],
+  "western_sahara": [
+    "lippu"
+  ],
+  "whale": [
+    "valas"
+  ],
+  "wheel_of_dharma": [
+    "buddha",
+    "buddhalaisuus",
+    "dharma",
+    "dharma-pyörä",
+    "pyörä",
+    "ratas",
+    "uskonto"
+  ],
+  "wheelchair_symbol": [
+    "esteettömyys",
+    "pyörätuoli"
+  ],
+  "white_cane": [
+    "esteettömyys",
+    "sokea",
+    "valkoinen keppi"
+  ],
+  "white_check_mark": [
+    "merkki",
+    "rasti",
+    "tarkistusmerkki",
+    "v",
+    "valkoinen valintamerkki"
+  ],
+  "white_circle": [
+    "muoto",
+    "valkoinen ympyrä",
+    "ympyrä"
+  ],
+  "white_exclamation_mark": [
+    "huutomerkki",
+    "merkki",
+    "välimerkki",
+    "valkoinen huutomerkki"
+  ],
+  "white_flag": [
+    "liehuva",
+    "lippu",
+    "valkoinen"
+  ],
+  "white_flower": [
+    "kukka",
+    "valkoinen kukka"
+  ],
+  "white_heart": [
+    "sydän",
+    "valkoinen"
+  ],
+  "white_large_square": [
+    "iso valkoinen neliö",
+    "muoto",
+    "neliö"
+  ],
+  "white_medium_small_square": [
+    "muoto",
+    "neliö",
+    "pienehkö valkoinen neliö"
+  ],
+  "white_medium_square": [
+    "keskikokoinen valkoinen neliö",
+    "muoto",
+    "neliö"
+  ],
+  "white_question_mark": [
+    "kysymysmerkki",
+    "merkki",
+    "välimerkki",
+    "valkoinen kysymysmerkki"
+  ],
+  "white_small_square": [
+    "muoto",
+    "neliö",
+    "pieni valkoinen neliö"
+  ],
+  "white_square_button": [
+    "muoto",
+    "neliö",
+    "valinta",
+    "valintaruutu",
+    "valkoinen neliöruutu"
+  ],
+  "wilted_flower": [
+    "kukka",
+    "nuutunut"
+  ],
+  "wind_chime": [
+    "juhla",
+    "kello",
+    "tuuli",
+    "tuulikello"
+  ],
+  "wind_face": [
+    "pilvi",
+    "puhuri",
+    "puuska",
+    "sää",
+    "tuuli"
+  ],
+  "window": [
+    "aukko",
+    "ikkuna",
+    "kehys",
+    "läpinäkyvä",
+    "näkymä",
+    "raikas ilma"
+  ],
+  "wine_glass": [
+    "baari",
+    "juoda",
+    "juoma",
+    "lasi",
+    "viini",
+    "viinilasi"
+  ],
+  "wink": [
+    "flirtti",
+    "huumori",
+    "kasvot",
+    "naama",
+    "salaisuus",
+    "silmä",
+    "silmänisku"
+  ],
+  "winking_face_with_tongue": [
+    "kieli",
+    "kieli ulkona ja silmänisku",
+    "naama",
+    "silmä",
+    "silmänisku",
+    "vitsi"
+  ],
+  "wolf": [
+    "naama",
+    "suden naama",
+    "susi"
+  ],
+  "woman": [
+    "nainen",
+    "naispuolinen"
+  ],
+  "woman_and_man_holding_hands": [
+    "kädestä pitäminen",
+    "käsi",
+    "mies",
+    "mies ja nainen käsi kädessä",
+    "nainen",
+    "pariskunta"
+  ],
+  "woman_artist": [
+    "maalari",
+    "nainen",
+    "naisartisti",
+    "taide",
+    "taiteilija"
+  ],
+  "woman_astronaut": [
+    "astronautti",
+    "avaruus",
+    "nainen",
+    "naisastronautti"
+  ],
+  "woman_bald": [
+    "kalju",
+    "nainen",
+    "naispuolinen"
+  ],
+  "woman_biking": [
+    "nainen",
+    "pyöräileva nainen",
+    "pyöräilijä"
+  ],
+  "woman_bouncing_ball": [
+    "palloilija",
+    "pallonainen",
+    "pallotteleva nainen",
+    "tyttö"
+  ],
+  "woman_bowing": [
+    "anteeksipyyntö",
+    "ele",
+    "kumarrus",
+    "nainen",
+    "syvään kumartava nainen"
+  ],
+  "woman_cartwheeling": [
+    "kärrynpyörä",
+    "kärrynpyörää tekevä nainen",
+    "nainen"
+  ],
+  "woman_climbing": [
+    "kallio",
+    "kiipeily",
+    "naiskiipeilijä",
+    "seinä",
+    "vuori"
+  ],
+  "woman_cook": [
+    "kokki",
+    "nainen",
+    "naiskokki",
+    "paistinpannu",
+    "ruoka"
+  ],
+  "woman_curly_hair": [
+    "kiharatukkainen",
+    "nainen",
+    "naispuolinen"
+  ],
+  "woman_dancing": [
+    "juhlat",
+    "nainen",
+    "tanssi",
+    "tanssija",
+    "tanssiva nainen"
+  ],
+  "woman_detective": [
+    "etsivä",
+    "nainen",
+    "naisetsivä",
+    "salapoliisi",
+    "vakooja"
+  ],
+  "woman_elf": [
+    "alf",
+    "haltia",
+    "haltiatar",
+    "keiju",
+    "keijukainen",
+    "suippokorva"
+  ],
+  "woman_facepalming": [
+    "käsi",
+    "kasvonsa kädellä peittävä nainen",
+    "kasvot",
+    "nainen",
+    "pettymys"
+  ],
+  "woman_factory_worker": [
+    "hitsaaja",
+    "nainen",
+    "naistehdastyöntekijä",
+    "tehdas",
+    "työntekijä"
+  ],
+  "woman_fairy": [
+    "ilmatar",
+    "keijukainen",
+    "keijukuningatar",
+    "luonnotar",
+    "metsänneito",
+    "naiskeiju",
+    "titania"
+  ],
+  "woman_farmer": [
+    "maanviljelijä",
+    "nainen",
+    "naismaanviljelijä",
+    "puutarhuri",
+    "sato"
+  ],
+  "woman_feeding_baby": [
+    "imettävä",
+    "nainen",
+    "syöttävä",
+    "vauva",
+    "vauvaa syöttävä nainen"
+  ],
+  "woman_firefighter": [
+    "nainen",
+    "palonainen",
+    "tulipalo",
+    "tulitaistelija"
+  ],
+  "woman_frowning": [
+    "harmi",
+    "nainen",
+    "suru",
+    "surullinen nainen"
+  ],
+  "woman_genie": [
+    "henki",
+    "juno",
+    "lamppu",
+    "naishenki"
+  ],
+  "woman_gesturing_no": [
+    "ei",
+    "ei käy -merkkiä näyttävä nainen",
+    "ele",
+    "kielletty",
+    "nainen"
+  ],
+  "woman_gesturing_ok": [
+    "ele",
+    "kyllä",
+    "nainen",
+    "ok",
+    "ok-merkkiä näyttävä nainen"
+  ],
+  "woman_getting_haircut": [
+    "hiukset",
+    "hiustenhoito",
+    "kampaaja",
+    "kampaajalla oleva nainen",
+    "nainen"
+  ],
+  "woman_getting_massage": [
+    "hieronnassa oleva nainen",
+    "hieronta",
+    "nainen"
+  ],
+  "woman_golfing": [
+    "golf",
+    "golfaajanainen",
+    "nainen"
+  ],
+  "woman_guard": [
+    "nainen",
+    "naisvartija",
+    "vartija"
+  ],
+  "woman_health_worker": [
+    "lääkäri",
+    "nainen",
+    "naishoitotyöntekijä",
+    "sairaanhoitaja",
+    "terapeutti",
+    "terveydenhuollon naisammattilainen",
+    "terveydenhuolto"
+  ],
+  "woman_in_lotus_position": [
+    "jooga",
+    "mietiskely",
+    "nainen lootusasennossa"
+  ],
+  "woman_in_manual_wheelchair": [
+    "esteettömyys",
+    "nainen",
+    "nainen käsikäyttöisessä pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "esteettömyys",
+    "nainen",
+    "nainen moottoroidussa pyörätuolissa",
+    "pyörätuoli"
+  ],
+  "woman_in_steamy_room": [
+    "höyry",
+    "kiuas",
+    "löyly",
+    "nainen saunassa",
+    "sauna"
+  ],
+  "woman_in_tuxedo": [
+    "nainen",
+    "nainen smokissa",
+    "smokki",
+    "smokkipukuinen nainen"
+  ],
+  "woman_judge": [
+    "laki",
+    "nainen",
+    "naistuomari",
+    "oikeus",
+    "tuomari"
+  ],
+  "woman_juggling": [
+    "jongleeraava nainen",
+    "jongleeraus",
+    "nainen"
+  ],
+  "woman_kneeling": [
+    "nainen",
+    "polvistuva"
+  ],
+  "woman_lifting_weights": [
+    "nainen",
+    "painonnostajanainen",
+    "painonnosto"
+  ],
+  "woman_mage": [
+    "maagi",
+    "naisvelho",
+    "noita",
+    "sauva",
+    "taikasauva",
+    "taikavoima",
+    "taikuri",
+    "tietäjä"
+  ],
+  "woman_mechanic": [
+    "jakoavain",
+    "mekaanikko",
+    "nainen",
+    "naismekaanikko",
+    "työkalu"
+  ],
+  "woman_mountain_biking": [
+    "maastopyöräilevä nainen",
+    "nainen",
+    "pyöräilijä",
+    "vuori"
+  ],
+  "woman_office_worker": [
+    "nainen",
+    "naistoimistotyöntekijä",
+    "toimisto",
+    "työntekijä",
+    "valkokaulus"
+  ],
+  "woman_pilot": [
+    "lentäjä",
+    "lentokone",
+    "nainen",
+    "naispilotti",
+    "pilotti"
+  ],
+  "woman_playing_handball": [
+    "käsipallo",
+    "käsipalloa pelaava nainen",
+    "nainen"
+  ],
+  "woman_playing_water_polo": [
+    "nainen",
+    "vesipallo",
+    "vesipalloa pelaava nainen"
+  ],
+  "woman_police_officer": [
+    "etsivä",
+    "konstaapeli",
+    "nainen",
+    "naispoliisi",
+    "poliisi"
+  ],
+  "woman_pouting": [
+    "harmi",
+    "mököttävä nainen",
+    "mökötys",
+    "nainen"
+  ],
+  "woman_raising_hand": [
+    "käsi",
+    "nainen",
+    "viittaava nainen",
+    "viittaus"
+  ],
+  "woman_red_hair": [
+    "nainen",
+    "naispuolinen",
+    "punatukkainen"
+  ],
+  "woman_rowing_boat": [
+    "nainen",
+    "soutaja",
+    "soutava nainen"
+  ],
+  "woman_running": [
+    "juokseminen",
+    "juokseva nainen",
+    "juoksija",
+    "lenkki",
+    "nainen"
+  ],
+  "woman_s_boot": [
+    "kenkä",
+    "nainen",
+    "naisen saapas",
+    "saapas",
+    "vaatteet"
+  ],
+  "woman_s_clothes": [
+    "nainen",
+    "naistenvaatteet",
+    "vaatteet"
+  ],
+  "woman_s_hat": [
+    "hattu",
+    "nainen",
+    "naisen hattu",
+    "vaatteet"
+  ],
+  "woman_s_sandal": [
+    "kenkä",
+    "nainen",
+    "naisen sandaali",
+    "sandaali",
+    "vaatteet"
+  ],
+  "woman_scientist": [
+    "nainen",
+    "naistutkija",
+    "tiede",
+    "tutkija"
+  ],
+  "woman_shrugging": [
+    "ei välitä",
+    "ihan sama",
+    "kämmeniään levittelevä nainen",
+    "kohauttaa",
+    "nainen"
+  ],
+  "woman_singer": [
+    "karaoke",
+    "laulaja",
+    "mikki",
+    "nainen",
+    "naislaulaja"
+  ],
+  "woman_standing": [
+    "nainen",
+    "seisova"
+  ],
+  "woman_student": [
+    "lakki",
+    "nainen",
+    "naisopiskelija",
+    "opiskelu",
+    "valmistujaiset"
+  ],
+  "woman_superhero": [
+    "hyvä",
+    "hyvis",
+    "naissupersankari",
+    "sankari",
+    "sankaritar",
+    "supervoimat"
+  ],
+  "woman_supervillain": [
+    "kelmi",
+    "konna",
+    "naissuperpahis",
+    "paha",
+    "rikollinen",
+    "roisto",
+    "supervoimat"
+  ],
+  "woman_surfing": [
+    "lainelautailu",
+    "nainen",
+    "surffaajanainen",
+    "surffaus"
+  ],
+  "woman_swimming": [
+    "nainen",
+    "uija",
+    "uimari",
+    "uiva nainen"
+  ],
+  "woman_teacher": [
+    "koulu",
+    "nainen",
+    "naisopettaja",
+    "opettaja"
+  ],
+  "woman_technologist": [
+    "it",
+    "it-nainen",
+    "koodaus",
+    "nainen",
+    "tietokone"
+  ],
+  "woman_tipping_hand": [
+    "kämmentä ylöspäin näyttävä nainen",
+    "käsi",
+    "nainen",
+    "nenäkäs"
+  ],
+  "woman_vampire": [
+    "elävä kuollut",
+    "epäkuollut",
+    "hampaat",
+    "naisvampyyri",
+    "torahammas",
+    "verenhimo",
+    "verenimijä"
+  ],
+  "woman_walking": [
+    "kävelevä nainen",
+    "kävely",
+    "nainen",
+    "patikointi"
+  ],
+  "woman_wearing_turban": [
+    "nainen",
+    "turbaani",
+    "turbaanipäinen nainen"
+  ],
+  "woman_white_hair": [
+    "nainen",
+    "naispuolinen",
+    "valkotukkainen"
+  ],
+  "woman_with_headscarf": [
+    "hijab",
+    "huivipäinen nainen",
+    "khimār",
+    "mantilja",
+    "pääliina",
+    "silkkihuivi",
+    "tichel"
+  ],
+  "woman_with_veil": [
+    "huntu",
+    "huntupäinen nainen",
+    "nainen",
+    "nainen ja huntu"
+  ],
+  "woman_with_white_cane": [
+    "esteettömyys",
+    "nainen",
+    "nainen ja valkoinen keppi",
+    "sokea"
+  ],
+  "woman_zombie": [
+    "elävä kuollut",
+    "naiszombi",
+    "tahdoton",
+    "voodoo",
+    "zombie"
+  ],
+  "women_holding_hands": [
+    "kädestä pitäminen",
+    "kaksi naista käsi kädessä",
+    "käsi",
+    "nainen",
+    "pariskunta"
+  ],
+  "women_s_room": [
+    "naisten wc",
+    "naistenhuone",
+    "vessa",
+    "wc"
+  ],
+  "women_with_bunny_ears": [
+    "juhlat",
+    "mies",
+    "pupu",
+    "tanssija",
+    "tanssivat puputytöt"
+  ],
+  "women_wrestling": [
+    "judo",
+    "kamppailu",
+    "naiset",
+    "painivat naiset"
+  ],
+  "wood": [
+    "halko",
+    "pölkky",
+    "puu",
+    "puutavara"
+  ],
+  "woozy_face": [
+    "aaltoileva suu",
+    "heikotus",
+    "huppelissa",
+    "päissään",
+    "silmät sikkaralla",
+    "tokkurainen naama"
+  ],
+  "world_map": [
+    "kartta",
+    "maailma",
+    "maailmankartta"
+  ],
+  "worm": [
+    "kastemato",
+    "loinen",
+    "mato"
+  ],
+  "worried": [
+    "huolestunut",
+    "huoli",
+    "naama"
+  ],
+  "wrapped_gift": [
+    "juhla",
+    "käärepaperi",
+    "lahja",
+    "lahjapaketti",
+    "paketti"
+  ],
+  "wrench": [
+    "jakoavain",
+    "työkalu"
+  ],
+  "writing_hand": [
+    "käsi",
+    "kirjoittaa",
+    "kirjoittava käsi",
+    "vartalo"
+  ],
+  "yarn": [
+    "kerä",
+    "kutominen",
+    "lanka",
+    "lankakerä",
+    "neulominen",
+    "virkkaus"
+  ],
+  "yawning_face": [
+    "haukotteleva naama",
+    "haukotus",
+    "kyllästynyt",
+    "väsynyt"
+  ],
+  "yellow_circle": [
+    "keltainen",
+    "ympyrä"
+  ],
+  "yellow_heart": [
+    "keltainen",
+    "sydän"
+  ],
+  "yellow_square": [
+    "keltainen",
+    "neliö"
+  ],
+  "yemen": [
+    "lippu"
+  ],
+  "yen_banknote": [
+    "pankki",
+    "raha",
+    "seteli",
+    "valuutta",
+    "yen",
+    "yen-seteli"
+  ],
+  "yin_yang": [
+    "jang",
+    "jin",
+    "jin ja jang",
+    "tao",
+    "taolaisuus",
+    "uskonto"
+  ],
+  "yoyo": [
+    "jojo",
+    "jojoilla",
+    "lelu"
+  ],
+  "zambia": [
+    "lippu"
+  ],
+  "zany_face": [
+    "eripari",
+    "mielipuoli",
+    "silmät",
+    "virne"
+  ],
+  "zebra": [
+    "nisäkäs",
+    "raidallinen",
+    "raidat",
+    "seepra",
+    "valkomusta"
+  ],
+  "zero": [
+    "näppäin"
+  ],
+  "zimbabwe": [
+    "lippu"
+  ],
+  "zipper_mouth_face": [
+    "naama",
+    "suu",
+    "vetoketju",
+    "vetoketjusuu"
+  ],
+  "zombie": [
+    "elävä kuollut",
+    "tahdoton",
+    "voodoo",
+    "zombi"
+  ],
+  "zzz": [
+    "sarjakuva",
+    "uni"
+  ],
+  "åland_islands": [
+    "lippu"
+  ]
+}

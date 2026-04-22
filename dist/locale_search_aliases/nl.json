@@ -55,17 +55,43 @@
     "beste",
     "top 100"
   ],
+  "1234": [
+    "cijfers",
+    "cijfers invoeren"
+  ],
+  "1st_place_medal": [
+    "eerste",
+    "goud",
+    "gouden",
+    "medaille",
+    "medaille 1e plaats"
+  ],
+  "2nd_place_medal": [
+    "medaille",
+    "medaille 2e plaats",
+    "tweede",
+    "zilver"
+  ],
+  "3rd_place_medal": [
+    "brons",
+    "bronzen",
+    "derde",
+    "medaille",
+    "medaille 3e plaats"
+  ],
   "a_button_blood_type": [
     "bloed",
     "bloedgroep",
     "bloedgroep a",
-    "a"
+    "a",
+    "groep a"
   ],
   "ab_button_blood_type": [
     "bloed",
     "bloedgroep",
     "bloedgroep ab",
-    "ab"
+    "ab",
+    "groep ab"
   ],
   "abacus": [
     "berekenen",
@@ -82,6 +108,11 @@
     "verband",
     "pleister"
   ],
+  "admission_tickets": [
+    "entree",
+    "entreekaartjes",
+    "kaartje"
+  ],
   "aerial_tramway": [
     "kabelbaan",
     "gondel",
@@ -95,6 +126,26 @@
     "afghaans",
     "af",
     "afghaan"
+  ],
+  "airplane": [
+    "vliegmachine",
+    "vliegtuig"
+  ],
+  "airplane_arrival": [
+    "aankomen",
+    "aankomst",
+    "aankomst van vliegtuig",
+    "landen",
+    "vliegmachine",
+    "vliegtuig"
+  ],
+  "airplane_departure": [
+    "inchecken",
+    "vertrek",
+    "vertrek van vliegtuig",
+    "vertrekken",
+    "vliegmachine",
+    "vliegtuig"
   ],
   "alarm_clock": [
     "tijd",
@@ -146,7 +197,9 @@
     "buitenaards",
     "invaders",
     "space invader",
-    "aliens"
+    "aliens",
+    "fantasie",
+    "sprookje"
   ],
   "ambulance": [
     "112",
@@ -185,7 +238,14 @@
     "anatomisch",
     "orgaan",
     "polsslag",
-    "cardiologie"
+    "cardiologie",
+    "centrum",
+    "hartslag"
+  ],
+  "anchor": [
+    "anker",
+    "hulpmiddel",
+    "schip"
   ],
   "andorra": [
     "vlag",
@@ -253,7 +313,9 @@
     "streep",
     "streepje",
     "mobiele telefoon",
-    "streepjes"
+    "streepjes",
+    "bereik",
+    "signaalsterkte"
   ],
   "antigua_barbuda": [
     "vlag",
@@ -277,7 +339,9 @@
     "verdrietig",
     "geschrokken",
     "gehaast",
-    "sorry"
+    "sorry",
+    "mond",
+    "open"
   ],
   "aquarius": [
     "waterman",
@@ -310,6 +374,16 @@
     "armenië",
     "armeniër"
   ],
+  "articulated_lorry": [
+    "truck",
+    "vrachtauto",
+    "vrachtwagen",
+    "vrachtwagen met oplegger"
+  ],
+  "artist": [
+    "kunstenaar",
+    "palet"
+  ],
   "artist_palette": [
     "palet",
     "museum",
@@ -323,6 +397,12 @@
     "arubaans",
     "aw",
     "arubaan"
+  ],
+  "ascension_island": [
+    "vlag"
+  ],
+  "asterisk": [
+    "toets"
   ],
   "astonished_face": [
     "omg",
@@ -339,6 +419,9 @@
     "wth",
     "verbaasd gezicht"
   ],
+  "astronaut": [
+    "raket"
+  ],
   "atm_sign": [
     "bank",
     "geld",
@@ -346,6 +429,11 @@
     "pinautomaat",
     "bankautomaat",
     "pinnen"
+  ],
+  "atom_symbol": [
+    "atoom",
+    "atoomsymbool",
+    "symbool"
   ],
   "australia": [
     "vlag",
@@ -363,10 +451,12 @@
   ],
   "auto_rickshaw": [
     "riksja",
-    "tuktuk"
+    "tuktuk",
+    "rik­sja"
   ],
   "automobile": [
-    "auto"
+    "auto",
+    "automobiel"
   ],
   "avocado": [
     "fruit",
@@ -395,7 +485,8 @@
     "bloed",
     "bloedgroep",
     "bloedgroep b",
-    "b"
+    "b",
+    "groep b"
   ],
   "baby": [
     "jong",
@@ -428,6 +519,19 @@
     "kuiken",
     "kuikentje"
   ],
+  "baby_symbol": [
+    "baby",
+    "baby aan boord",
+    "babyruimte",
+    "babysymbool"
+  ],
+  "back_arrow": [
+    "back-pijl",
+    "linkerpijl",
+    "pijl",
+    "terug met linkerpijl",
+    "terugpijl"
+  ],
   "backhand_index_pointing_down": [
     "hand",
     "omlaag",
@@ -445,7 +549,10 @@
     "achterkant van hand met naar links wijzende wijsvinger",
     "wijzen",
     "achterkant van de hand",
-    "achterkant van de hand met naar links wijzende wijsvinger"
+    "achterkant van de hand met naar links wijzende wijsvinger",
+    "lichaam",
+    "vinger wijst naar links",
+    "wijzend"
   ],
   "backhand_index_pointing_right": [
     "hand",
@@ -454,7 +561,10 @@
     "wijsvinger",
     "achterkant van hand met naar rechts wijzende wijsvinger",
     "wijzen",
-    "achterkant van de hand"
+    "achterkant van de hand",
+    "lichaam",
+    "vinger wijst naar rechts",
+    "wijzend"
   ],
   "backhand_index_pointing_up": [
     "hand",
@@ -494,6 +604,16 @@
     "spread",
     "bakkerij"
   ],
+  "baggage_claim": [
+    "bagage",
+    "bagage afhalen"
+  ],
+  "baguette_bread": [
+    "brood",
+    "frans",
+    "stokbrood",
+    "voedsel"
+  ],
   "bahamas": [
     "vlag",
     "bahamaan",
@@ -521,7 +641,10 @@
     "weegschaal",
     "instrument",
     "gelijk",
-    "gerechtigheid"
+    "gerechtigheid",
+    "gereedschap",
+    "gewichten",
+    "recht"
   ],
   "ballet_shoes": [
     "dans",
@@ -554,12 +677,31 @@
     "bd",
     "bengaal"
   ],
+  "banjo": [
+    "besnaard",
+    "muziek"
+  ],
+  "bank": [
+    "gebouw"
+  ],
+  "bar_chart": [
+    "diagram",
+    "grafiek",
+    "staaf",
+    "staafdiagram"
+  ],
   "barbados": [
     "vlag",
     "barbadiaan",
     "barbadaan",
     "barbadiaans",
     "bb"
+  ],
+  "barber_pole": [
+    "kapper",
+    "kapperspaal",
+    "kapsel",
+    "paal"
   ],
   "baseball": [
     "bal",
@@ -673,6 +815,10 @@
     "belizaan",
     "belizaans"
   ],
+  "bell": [
+    "bel",
+    "klok"
+  ],
   "bell_pepper": [
     "voedsel",
     "groente",
@@ -680,11 +826,30 @@
     "peper",
     "paprika"
   ],
+  "bell_with_slash": [
+    "bel",
+    "doorgestreepte bel",
+    "geen",
+    "geluid uit",
+    "niet toegestaan",
+    "stil"
+  ],
+  "bellhop_bell": [
+    "balie",
+    "bel",
+    "hotel",
+    "piccolobel"
+  ],
   "benin": [
     "vlag",
     "benins",
     "beniner",
     "bj"
+  ],
+  "bento_box": [
+    "bento",
+    "bentobox",
+    "box"
   ],
   "bermuda": [
     "vlag",
@@ -699,7 +864,8 @@
     "sapje",
     "pakje drinken",
     "pakje",
-    "rietje"
+    "rietje",
+    "pakje sap"
   ],
   "bhutan": [
     "vlag",
@@ -727,6 +893,11 @@
     "pet",
     "baseballcap",
     "blauwe pet"
+  ],
+  "biohazard": [
+    "bio",
+    "biologisch",
+    "gevaar"
   ],
   "bird": [
     "dier",
@@ -772,7 +943,8 @@
   "black_circle": [
     "zwart",
     "cirkel",
-    "zwarte cirkel"
+    "zwarte cirkel",
+    "grote zwarte cirkel"
   ],
   "black_flag": [
     "vlag",
@@ -793,7 +965,8 @@
     "vierkant",
     "zwart vierkant",
     "groot zwart vierkant",
-    "groot vierkant"
+    "groot vierkant",
+    "groot"
   ],
   "black_medium_small_square": [
     "vierkantje",
@@ -804,14 +977,21 @@
     "klein tot middelgroot zwart vierkant",
     "zwart vierkantje",
     "redelijk klein vierkant",
-    "redelijk klein zwart vierkant"
+    "redelijk klein zwart vierkant",
+    "redelijk klein"
   ],
   "black_medium_square": [
     "zwart",
     "middelgroot zwart vierkant",
     "vierkant",
     "zwart vierkant",
-    "middelgroot vierkant"
+    "middelgroot vierkant",
+    "middelgroot"
+  ],
+  "black_nib": [
+    "kroontjespen met zwarte punt",
+    "pen",
+    "punt"
   ],
   "black_small_square": [
     "vierkantje",
@@ -820,7 +1000,25 @@
     "zwart vierkant",
     "klein vierkant",
     "zwart vierkantje",
-    "klein zwart vierkant"
+    "klein zwart vierkant",
+    "klein"
+  ],
+  "black_square_button": [
+    "knop",
+    "vierkant",
+    "zwarte vierkante knop"
+  ],
+  "blonde_man": [
+    "blond",
+    "haar",
+    "man",
+    "man met blond haar"
+  ],
+  "blonde_woman": [
+    "blond",
+    "haar",
+    "vrouw",
+    "vrouw met blond haar"
   ],
   "blossom": [
     "bloem",
@@ -832,10 +1030,15 @@
     "dier",
     "vis"
   ],
+  "blue_book": [
+    "blauw",
+    "boek"
+  ],
   "blue_circle": [
     "cirkel",
     "blauw",
-    "blauwe cirkel"
+    "blauwe cirkel",
+    "grote blauwe cirkel"
   ],
   "blue_heart": [
     "verliefd",
@@ -892,6 +1095,20 @@
     "bot",
     "skelet"
   ],
+  "bookmark": [
+    "bladwijzer",
+    "markering"
+  ],
+  "bookmark_tabs": [
+    "bladwijzer",
+    "bladwijzertabs",
+    "markering",
+    "tabs"
+  ],
+  "books": [
+    "boek",
+    "boeken"
+  ],
   "boomerang": [
     "australië",
     "terugslag",
@@ -928,6 +1145,22 @@
     "bloemen",
     "boeket",
     "zomer"
+  ],
+  "bouvet_island": [
+    "vlag"
+  ],
+  "bow_and_arrow": [
+    "boog",
+    "boogschutter",
+    "pijl",
+    "pijl en boog",
+    "wapen"
+  ],
+  "bowl_with_spoon": [
+    "cornflakes",
+    "kom met lepel",
+    "muesli",
+    "ontbijt"
   ],
   "bowling": [
     "bal",
@@ -986,6 +1219,11 @@
     "muur",
     "bakstenen"
   ],
+  "bridge_at_night": [
+    "brug",
+    "brug bij nacht",
+    "nacht"
+  ],
   "briefcase": [
     "kantoor",
     "aktetas",
@@ -998,6 +1236,11 @@
     "zwembroek",
     "slip",
     "ondergoed"
+  ],
+  "bright_button": [
+    "helder",
+    "helderheid",
+    "knop voor hogere helderheid"
   ],
   "british_indian_ocean_territory": [
     "vlag",
@@ -1086,6 +1329,10 @@
     "insect",
     "beestje"
   ],
+  "building_construction": [
+    "bouw",
+    "woningbouw"
+  ],
   "bulgaria": [
     "vlag",
     "bulgaars",
@@ -1093,15 +1340,38 @@
     "bg",
     "bulgarije"
   ],
+  "bullet_train": [
+    "hogesnelheidstrein met kogelneus",
+    "kogeltrein",
+    "shinkansen",
+    "snelheid",
+    "spoor",
+    "trein"
+  ],
+  "bullseye": [
+    "bull’s eye",
+    "darts",
+    "directe treffer",
+    "doelwit",
+    "spel",
+    "treffer"
+  ],
   "burkina_faso": [
     "vlag",
     "bf",
     "burkinees"
   ],
+  "burrito": [
+    "mexicaans",
+    "wrap"
+  ],
   "burundi": [
     "vlag",
     "burundees",
     "bi"
+  ],
+  "bus": [
+    "voertuig"
   ],
   "bus_stop": [
     "bushalte",
@@ -1121,11 +1391,16 @@
     "silhouet van twee personen",
     "buste"
   ],
+  "butter": [
+    "boter",
+    "zuivel"
+  ],
   "butterfly": [
     "mooi",
     "dier",
     "vlinder",
-    "insect"
+    "insect",
+    "schoonheid"
   ],
   "cactus": [
     "plant"
@@ -1154,6 +1429,15 @@
     "dromedaris",
     "kameel met één bult",
     "bult"
+  ],
+  "camera": [
+    "video"
+  ],
+  "camera_with_flash": [
+    "camera",
+    "camera met flitser",
+    "flitser",
+    "video"
   ],
   "cameroon": [
     "vlag",
@@ -1186,13 +1470,22 @@
   ],
   "candle": [
     "vlam",
-    "kaars"
+    "kaars",
+    "licht"
   ],
   "candy": [
     "zoet",
     "dessert",
     "snoepje",
     "snoep"
+  ],
+  "canned_food": [
+    "blik",
+    "blikvoedsel"
+  ],
+  "canoe": [
+    "boot",
+    "kano"
   ],
   "cape_verde": [
     "vlag",
@@ -1225,6 +1518,12 @@
     "rolodex",
     "kaartindex"
   ],
+  "card_index_dividers": [
+    "index",
+    "kaart",
+    "kaarten",
+    "tabbladen"
+  ],
   "caribbean_netherlands": [
     "vlag",
     "caribisch-nederlands",
@@ -1238,11 +1537,20 @@
     "statiaan",
     "sabaan"
   ],
+  "carousel_horse": [
+    "draaimolen",
+    "draaimolenpaard",
+    "paard"
+  ],
   "carp_streamer": [
     "karperslinger",
     "feest",
     "karper",
-    "slinger"
+    "slinger",
+    "wimpel"
+  ],
+  "carpentry_saw": [
+    "houtzaag"
   ],
   "carrot": [
     "voedsel",
@@ -1295,12 +1603,19 @@
     "centraal-afrika",
     "centraal-afrikaans"
   ],
+  "ceuta_melilla": [
+    "vlag"
+  ],
   "chad": [
     "vlag",
     "tsjaad",
     "tsjadisch",
     "tsjadiër",
     "td"
+  ],
+  "chains": [
+    "ketting",
+    "kettingen"
   ],
   "chair": [
     "hoge stoel",
@@ -1327,13 +1642,26 @@
     "grafiek",
     "groei"
   ],
+  "chart_increasing_with_yen": [
+    "diagram",
+    "geld",
+    "grafiek",
+    "groei",
+    "stijgende grafiek met yenteken",
+    "yen"
+  ],
   "check_box_with_check": [
     "vink",
-    "vinkje"
+    "vinkje",
+    "✓",
+    "vak",
+    "vinkje in vak"
   ],
   "check_mark": [
     "vink",
-    "vinkje"
+    "vinkje",
+    "✓",
+    "teken"
   ],
   "cheese_wedge": [
     "voedsel",
@@ -1348,7 +1676,8 @@
     "geblokte vlag",
     "racen",
     "finishvlag",
-    "finish"
+    "finish",
+    "sport"
   ],
   "cherries": [
     "fruit",
@@ -1377,6 +1706,10 @@
     "waardeloos",
     "slachtoffer"
   ],
+  "chestnut": [
+    "kastanje",
+    "plant"
+  ],
   "chicken": [
     "dier",
     "gevogelte",
@@ -1396,7 +1729,11 @@
     "waarschuwing",
     "oversteken",
     "overstekende kinderen",
-    "oversteekplaats"
+    "oversteekplaats",
+    "kinderen",
+    "kinderoversteek",
+    "oversteek",
+    "symbool"
   ],
   "chile": [
     "vlag",
@@ -1457,7 +1794,9 @@
   "cigarette": [
     "roken",
     "sigaret",
-    "roker"
+    "roker",
+    "roken toegestaan",
+    "symbool"
   ],
   "cinema": [
     "film",
@@ -1467,7 +1806,22 @@
     "bios",
     "knop voor filmen",
     "filmen",
-    "camera"
+    "camera",
+    "filmsymbool"
+  ],
+  "circled_m": [
+    "cirkel",
+    "m",
+    "m in cirkel"
+  ],
+  "circus_tent": [
+    "circus",
+    "circustent",
+    "tent"
+  ],
+  "cityscape": [
+    "stad",
+    "stadsgezicht"
   ],
   "cityscape_at_dusk": [
     "avond",
@@ -1482,7 +1836,9 @@
     "cl",
     "wissen",
     "wis",
-    "clear"
+    "clear",
+    "wisknop",
+    "wissen-symbool"
   ],
   "clamp": [
     "bankschroef",
@@ -1496,6 +1852,13 @@
     "hand",
     "klappende handen",
     "klappen"
+  ],
+  "clapper_board": [
+    "entertainment",
+    "film",
+    "klap",
+    "klapbord",
+    "klapper"
   ],
   "classical_building": [
     "gebouw",
@@ -1527,6 +1890,22 @@
     "cheers",
     "klinken"
   ],
+  "clipboard": [
+    "klembord"
+  ],
+  "clipperton_island": [
+    "vlag"
+  ],
+  "clockwise_vertical_arrows": [
+    "opnieuw laden-symbool",
+    "pijlen",
+    "verticale pijlen met de klok mee",
+    "verticale pijlen rechtsom"
+  ],
+  "closed_book": [
+    "boek",
+    "gesloten"
+  ],
   "closed_mailbox_with_lowered_flag": [
     "brievenbus",
     "post",
@@ -1540,7 +1919,40 @@
     "post",
     "gesloten",
     "postbus",
-    "gesloten brievenbus met vlaggetje omhoog"
+    "gesloten brievenbus met vlaggetje omhoog",
+    "gesloten brievenbus met vlaggetje"
+  ],
+  "closed_umbrella": [
+    "ingevouwen paraplu",
+    "kleding",
+    "paraplu",
+    "regen"
+  ],
+  "cloud": [
+    "weer",
+    "wolk"
+  ],
+  "cloud_with_lightning": [
+    "bliksem",
+    "wolk",
+    "wolk met bliksem"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "onweer",
+    "regen",
+    "wolk",
+    "wolk met bliksem en regen"
+  ],
+  "cloud_with_rain": [
+    "regen",
+    "wolk",
+    "wolk met regen"
+  ],
+  "cloud_with_snow": [
+    "koud",
+    "sneeuw",
+    "wolk",
+    "wolk met sneeuw"
   ],
   "clown_face": [
     "gezicht",
@@ -1554,7 +1966,9 @@
     "kaartspel",
     "spel",
     "klaveren",
-    "bridge"
+    "bridge",
+    "kaarten",
+    "klaver"
   ],
   "clutch_bag": [
     "tas",
@@ -1679,7 +2093,8 @@
     "feestje",
     "gefeliciteerd",
     "confetti",
-    "confettibal"
+    "confettibal",
+    "feest"
   ],
   "confounded_face": [
     "gezicht",
@@ -1716,12 +2131,51 @@
     "constructie",
     "bouwwerkzaamheden"
   ],
+  "construction_worker": [
+    "bouw",
+    "bouwvakker",
+    "helm",
+    "klusser"
+  ],
+  "construction_worker_man": [
+    "bouw",
+    "bouwvakker",
+    "man",
+    "mannelijke bouwvakker"
+  ],
+  "construction_worker_woman": [
+    "bouw",
+    "bouwvakker",
+    "vrouw",
+    "vrouwelijke bouwvakker"
+  ],
+  "control_knobs": [
+    "bediening",
+    "controle",
+    "controleknoppen",
+    "knoppen",
+    "muziek"
+  ],
+  "convenience_store": [
+    "boodschappen",
+    "supermarkt",
+    "winkel"
+  ],
+  "cook": [
+    "chef-kok",
+    "kok"
+  ],
   "cook_islands": [
     "vlag",
     "ck",
     "cookeilander",
     "cookeilanden",
     "cookeilands"
+  ],
+  "cooked_rice": [
+    "gekookt",
+    "gekookte rijst",
+    "rijst"
   ],
   "cookie": [
     "zoet",
@@ -1734,11 +2188,16 @@
     "koekenpan",
     "ei",
     "bakken",
-    "eten"
+    "eten",
+    "pan"
   ],
   "cool_button": [
     "cool-knop",
-    "cool"
+    "cool",
+    "cool-symbool"
+  ],
+  "copyright": [
+    "c"
   ],
   "coral": [
     "oceaan",
@@ -1761,14 +2220,29 @@
     "zitbank",
     "bank en lamp"
   ],
+  "counterclockwise_arrows_button": [
+    "linksom",
+    "pijlen",
+    "pijlen tegen de klok in"
+  ],
   "couple_with_heart": [
-    "liefde"
+    "liefde",
+    "stel met hart",
+    "stelletje",
+    "man",
+    "vrouw"
   ],
   "couple_with_heart_man_man": [
-    "liefde"
+    "liefde",
+    "man",
+    "stel met hart",
+    "stelletje"
   ],
   "couple_with_heart_woman_woman": [
-    "liefde"
+    "liefde",
+    "stel met hart",
+    "stelletje",
+    "vrouw"
   ],
   "cow": [
     "koetje",
@@ -1797,12 +2271,22 @@
     "sterrenbeeld",
     "krab"
   ],
+  "crayon": [
+    "krijt",
+    "krijtje"
+  ],
   "credit_card": [
     "kaart",
     "geld",
     "krediet",
     "creditcard",
-    "kredietkaart"
+    "kredietkaart",
+    "bank"
+  ],
+  "crescent_moon": [
+    "maan",
+    "maansikkel",
+    "sikkel"
   ],
   "cricket": [
     "dier",
@@ -1834,6 +2318,22 @@
     "brood",
     "frankrijk",
     "frans"
+  ],
+  "cross_mark": [
+    "×",
+    "annuleren",
+    "kruis",
+    "teken",
+    "vermenigvuldigen",
+    "vermenigvuldiging",
+    "x"
+  ],
+  "cross_mark_button": [
+    "×",
+    "knop voor kruis",
+    "teken",
+    "vierkant",
+    "x"
   ],
   "crossed_fingers": [
     "hand",
@@ -1894,6 +2394,13 @@
     "huilende kat",
     "huilen"
   ],
+  "crystal_ball": [
+    "bol",
+    "kristal",
+    "kristallen bol",
+    "waarzeggen",
+    "waarzeggerij"
+  ],
   "cuba": [
     "vlag",
     "cubaans",
@@ -1926,6 +2433,21 @@
     "curaçaos",
     "cw"
   ],
+  "curling_stone": [
+    "curlingsteen",
+    "kei",
+    "spel"
+  ],
+  "curly_loop": [
+    "gedraaid",
+    "gekrulde lus",
+    "lus"
+  ],
+  "currency_exchange": [
+    "geld",
+    "valuta",
+    "wisselen"
+  ],
   "curry_rice": [
     "voedsel",
     "aziatisch",
@@ -1939,6 +2461,9 @@
     "dessert",
     "pudding",
     "vla"
+  ],
+  "customs": [
+    "douane"
   ],
   "cut_of_meat": [
     "voedsel",
@@ -1987,7 +2512,8 @@
     "japans",
     "spies",
     "dessert",
-    "stokje"
+    "stokje",
+    "kleefrijstballetjes"
   ],
   "dashing_away": [
     "stoom",
@@ -1997,9 +2523,41 @@
     "wegrennen",
     "wind"
   ],
+  "date": [
+    "datum",
+    "kalender"
+  ],
+  "deaf_man": [
+    "doof",
+    "dove man",
+    "man"
+  ],
+  "deaf_person": [
+    "doof",
+    "doof persoon",
+    "horen",
+    "oor",
+    "toegankelijkheid"
+  ],
+  "deaf_woman": [
+    "doof",
+    "dove vrouw",
+    "vrouw"
+  ],
+  "deciduous_tree": [
+    "bladeren verliezen",
+    "boom",
+    "loof verliezen",
+    "loofboom"
+  ],
   "deer": [
     "dier",
     "hert"
+  ],
+  "delivery_truck": [
+    "bestelbus",
+    "bezorging",
+    "bus"
   ],
   "denmark": [
     "vlag",
@@ -2008,6 +2566,15 @@
     "denemarken",
     "deen",
     "dk"
+  ],
+  "department_store": [
+    "warenhuis",
+    "winkel",
+    "winkelen"
+  ],
+  "derelict_house": [
+    "huis",
+    "vervallen"
   ],
   "desert": [
     "warm",
@@ -2026,12 +2593,35 @@
     "computer",
     "desktop"
   ],
+  "detective": [
+    "speurder",
+    "spion"
+  ],
   "diamond_suit": [
     "kaart",
     "kaartspel",
     "spel",
     "bridge",
-    "ruiten"
+    "ruiten",
+    "kaarten",
+    "ruit"
+  ],
+  "diamond_with_a_dot": [
+    "bloem",
+    "emotie",
+    "ruit",
+    "ruitvorm",
+    "ruitvorm met stip erin",
+    "schattig"
+  ],
+  "diego_garcia": [
+    "vlag"
+  ],
+  "dim_button": [
+    "dimmen",
+    "helderheid",
+    "knop voor lagere helderheid",
+    "laag"
   ],
   "disappointed_face": [
     "gezicht",
@@ -2046,6 +2636,24 @@
     "neus",
     "vermomming",
     "incognito"
+  ],
+  "divide": [
+    "÷",
+    "delen",
+    "teken",
+    "wiskunde"
+  ],
+  "diving_mask": [
+    "duikbril",
+    "duiken",
+    "scubaduiken",
+    "snorkelen"
+  ],
+  "diya_lamp": [
+    "diya",
+    "diya-lamp",
+    "lamp",
+    "olie"
   ],
   "dizzy": [
     "ster",
@@ -2124,6 +2732,27 @@
     "gezicht in stippellijn",
     "introvert"
   ],
+  "dotted_six_pointed_star": [
+    "ster",
+    "waarzeggen",
+    "waarzeggerij",
+    "zes punten",
+    "zespuntige ster"
+  ],
+  "double_curly_loop": [
+    "dubbele gekrulde lus",
+    "gekrulde lus",
+    "gratis bellen",
+    "japan"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "dubbel uitroepteken",
+    "interpunctie",
+    "teken",
+    "uitroep"
+  ],
   "doughnut": [
     "zoet",
     "voedsel",
@@ -2139,6 +2768,24 @@
     "oorlog",
     "hoop"
   ],
+  "down_arrow": [
+    "omlaag",
+    "pijl",
+    "richting",
+    "zuid"
+  ],
+  "down_left_arrow": [
+    "linksbeneden",
+    "linksomlaag",
+    "pijl",
+    "zuidwest"
+  ],
+  "down_right_arrow": [
+    "pijl",
+    "rechtsbeneden",
+    "rechtsomlaag",
+    "zuidoost"
+  ],
   "downcast_face_with_sweat": [
     "koud",
     "gezicht",
@@ -2147,6 +2794,12 @@
     "neerslachtig gezicht met zweetdruppel",
     "sorry",
     "zweetdruppel"
+  ],
+  "downwards_button": [
+    "driehoek",
+    "knop voor omlaag",
+    "omlaag",
+    "pijl"
   ],
   "dragon": [
     "dier",
@@ -2184,7 +2837,8 @@
     "geneeskunde",
     "bloeddonatie",
     "verwonding",
-    "bloeddonor"
+    "bloeddonor",
+    "medicijnen"
   ],
   "droplet": [
     "koud",
@@ -2192,6 +2846,12 @@
     "strip",
     "druppel",
     "regen"
+  ],
+  "drum": [
+    "drummen",
+    "muziek",
+    "trommel",
+    "trommelstokken"
   ],
   "duck": [
     "dier",
@@ -2285,6 +2945,9 @@
     "egyptenaar",
     "eg"
   ],
+  "eight": [
+    "toets"
+  ],
   "eight_o_clock": [
     "tijd",
     "klok",
@@ -2292,7 +2955,20 @@
     "8 uur",
     "20:00",
     "8:00",
-    "08:00"
+    "08:00",
+    "00",
+    "8",
+    "acht"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "achtpuntige ster",
+    "ster"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "achtpuntige asterisk",
+    "asterisk"
   ],
   "eight_thirty": [
     "tijd",
@@ -2301,7 +2977,15 @@
     "8:30",
     "08:30",
     "half 9",
-    "20:30"
+    "20:30",
+    "8",
+    "acht",
+    "dertig",
+    "half negen"
+  ],
+  "eject_button": [
+    "knop voor uitwerpen",
+    "uitwerpen"
   ],
   "el_salvador": [
     "vlag",
@@ -2333,7 +3017,10 @@
     "uur",
     "23:00",
     "11 uur",
-    "11:00"
+    "11:00",
+    "00",
+    "11",
+    "elf"
   ],
   "eleven_thirty": [
     "tijd",
@@ -2341,7 +3028,22 @@
     "uur",
     "11:30",
     "23:30",
-    "half 12"
+    "half 12",
+    "11",
+    "30",
+    "dertig",
+    "elf",
+    "half twaalf"
+  ],
+  "elf": [
+    "magisch"
+  ],
+  "end_arrow": [
+    "einde met linkerpijl",
+    "eindepijl",
+    "end-pijl",
+    "linkerpijl",
+    "pijl"
   ],
   "england": [
     "vlag",
@@ -2361,7 +3063,9 @@
   "envelope": [
     "e-mail",
     "brief",
-    "envelop"
+    "envelop",
+    "email",
+    "mail"
   ],
   "envelope_with_arrow": [
     "e-mail",
@@ -2421,11 +3125,26 @@
     "europa",
     "eu"
   ],
+  "evergreen_tree": [
+    "boom",
+    "naaldboom"
+  ],
   "ewe": [
     "dier",
     "ooi",
     "schaap",
     "vrouwelijk"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "in­ter­punc­tie",
+    "teken",
+    "uitroep",
+    "uitroepteken en vraagteken",
+    "vraag",
+    "vraagteken-uitroepteken"
   ],
   "exploding_head": [
     "geschokt",
@@ -2659,6 +3378,23 @@
     "gebouw",
     "fabriek"
   ],
+  "factory_worker": [
+    "arbeider",
+    "fabriek",
+    "fabrieksarbeider",
+    "industrieel",
+    "lopende band"
+  ],
+  "fairy": [
+    "elfje",
+    "oberon",
+    "puck",
+    "titania"
+  ],
+  "falafel": [
+    "gehaktbal",
+    "kikkererwt"
+  ],
   "falkland_islands": [
     "vlag",
     "falklandeilanden",
@@ -2667,6 +3403,258 @@
     "falklander",
     "falklands"
   ],
+  "fallen_leaf": [
+    "blad",
+    "vallend",
+    "vallende bladeren"
+  ],
+  "family": [
+    "gezin",
+    "kind",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_boy_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_girl_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_girl_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_man_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_man_boy_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_man_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_man_girl_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_man_girl_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader"
+  ],
+  "family_man_woman_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_man_woman_boy_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_man_woman_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_man_woman_girl_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_man_woman_girl_girl": [
+    "gezin",
+    "kind",
+    "man",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_boy_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_girl": [
+    "gezin",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_girl_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_girl_girl": [
+    "gezin",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_woman_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_woman_boy_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_woman_girl": [
+    "gezin",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_woman_girl_boy": [
+    "gezin",
+    "jongen",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "family_woman_woman_girl_girl": [
+    "gezin",
+    "kind",
+    "meisje",
+    "mensen",
+    "moeder",
+    "vader",
+    "vrouw"
+  ],
+  "farmer": [
+    "boer",
+    "tuinder",
+    "veehouder"
+  ],
   "faroe_islands": [
     "vlag",
     "scandinavisch kruis",
@@ -2674,6 +3662,31 @@
     "faeröers",
     "fo",
     "faeröer"
+  ],
+  "fast_down_button": [
+    "dubbel",
+    "knop voor versneld omlaag",
+    "omlaag",
+    "pijl"
+  ],
+  "fast_forward_button": [
+    "dubbele pijl rechts",
+    "knop voor snel vooruitspoelen",
+    "pijl",
+    "rechts"
+  ],
+  "fast_reverse_button": [
+    "dubbele pijl links",
+    "knop voor versneld terugspoelen",
+    "links",
+    "pijl",
+    "terugspoelen"
+  ],
+  "fast_up_button": [
+    "dubbele pijl omhoog",
+    "knop voor versneld omhoog",
+    "omhoog",
+    "pijl"
   ],
   "fax_machine": [
     "faxapparaat",
@@ -2693,6 +3706,22 @@
     "dier",
     "pluimage",
     "veer"
+  ],
+  "female_sign": [
+    "symbool",
+    "teken",
+    "vrouw",
+    "vrouwelijkheidssymbool"
+  ],
+  "ferris_wheel": [
+    "pretpark",
+    "rad",
+    "reuzenrad"
+  ],
+  "ferry": [
+    "boot",
+    "passagier",
+    "veerboot"
   ],
   "field_hockey": [
     "stick",
@@ -2775,12 +3804,27 @@
     "bom",
     "rotje"
   ],
+  "firefighter": [
+    "brandweerman",
+    "brandweerwagen"
+  ],
   "fireworks": [
     "feest",
     "vuurwerk",
     "gefeliciteerd",
     "nacht",
     "proficiat"
+  ],
+  "first_quarter_moon": [
+    "kwartier",
+    "maan",
+    "maan in eerste kwartier"
+  ],
+  "first_quarter_moon_face": [
+    "gezicht",
+    "kwartier",
+    "maan",
+    "maan met gezicht in eerste kwartier"
   ],
   "fish": [
     "aquarium",
@@ -2804,6 +3848,9 @@
     "hengel",
     "hengelsport"
   ],
+  "five": [
+    "toets"
+  ],
   "five_o_clock": [
     "tijd",
     "05:00",
@@ -2811,7 +3858,10 @@
     "uur",
     "5:00",
     "5 uur",
-    "17:00"
+    "17:00",
+    "00",
+    "5",
+    "vijf"
   ],
   "five_thirty": [
     "tijd",
@@ -2820,18 +3870,41 @@
     "5:30",
     "17:30",
     "05:30",
-    "half 6"
+    "half 6",
+    "5",
+    "dertig",
+    "half zes",
+    "vijf"
   ],
   "flamingo": [
     "dier",
     "tropisch",
     "flamboyant"
   ],
+  "flashlight": [
+    "elektrisch",
+    "lamp",
+    "licht",
+    "zaklamp",
+    "zaklantaarn"
+  ],
   "flat_shoe": [
     "platte schoen",
     "ballerina",
     "slip-on",
     "instapper"
+  ],
+  "flatbread": [
+    "arepa",
+    "lavash",
+    "naan",
+    "pita",
+    "platbrood"
+  ],
+  "fleur_de_lis": [
+    "frans",
+    "franse lelie",
+    "symbool"
   ],
   "flexed_biceps": [
     "strip",
@@ -2841,7 +3914,9 @@
     "sterk",
     "bicep",
     "spierballen",
-    "spannen"
+    "spannen",
+    "lichaam",
+    "spierbal"
   ],
   "floppy_disk": [
     "diskette",
@@ -2890,6 +3965,14 @@
     "vliegende schotel",
     "schotel"
   ],
+  "fog": [
+    "mist",
+    "wolk"
+  ],
+  "foggy": [
+    "mist",
+    "mistig"
+  ],
   "folded_hands": [
     "hand",
     "gebed",
@@ -2900,7 +3983,10 @@
     "bedankt",
     "gevouwen handen",
     "alsjeblieft",
-    "vragen"
+    "vragen",
+    "buigen",
+    "gebaar",
+    "gevouwen"
   ],
   "fondue": [
     "chocola",
@@ -2945,8 +4031,19 @@
   "fountain": [
     "fontein"
   ],
+  "fountain_pen": [
+    "pen",
+    "vulpen"
+  ],
+  "four": [
+    "toets"
+  ],
   "four_leaf_clover": [
-    "klaver"
+    "klaver",
+    "4",
+    "blad",
+    "klavertjevier",
+    "vier"
   ],
   "four_o_clock": [
     "tijd",
@@ -2955,7 +4052,10 @@
     "16:00",
     "4:00",
     "4 uur",
-    "04:00"
+    "04:00",
+    "00",
+    "4",
+    "vier"
   ],
   "four_thirty": [
     "tijd",
@@ -2964,7 +4064,11 @@
     "half 5",
     "16:30",
     "4:30",
-    "04:30"
+    "04:30",
+    "4",
+    "dertig",
+    "half vijf",
+    "vier"
   ],
   "fox": [
     "dier",
@@ -2993,7 +4097,15 @@
   "free_button": [
     "gratis",
     "free-knop",
-    "free"
+    "free",
+    "gratis-symbool",
+    "kosteloos",
+    "symbool"
+  ],
+  "french_fries": [
+    "frans",
+    "frietjes",
+    "patat"
   ],
   "french_guiana": [
     "vlag",
@@ -3064,6 +4176,18 @@
     "tanken",
     "station"
   ],
+  "full_moon": [
+    "maan",
+    "vol",
+    "volle maan"
+  ],
+  "full_moon_face": [
+    "gezicht",
+    "helder",
+    "maan",
+    "vol",
+    "volle maan met gezicht"
+  ],
   "funeral_urn": [
     "dood",
     "overleden",
@@ -3083,10 +4207,19 @@
     "gm",
     "gambiaan"
   ],
+  "game_die": [
+    "dobbelsteen",
+    "dobbelstenen",
+    "spel"
+  ],
   "garlic": [
     "voedsel",
     "knoflook",
     "smaakmaker"
+  ],
+  "gear": [
+    "gereedschap",
+    "tandwiel"
   ],
   "gem_stone": [
     "diamant",
@@ -3101,6 +4234,10 @@
     "sterrenbeeld",
     "tweelingen",
     "tweelingen (sterrenbeeld)"
+  ],
+  "genie": [
+    "djinn",
+    "geest in de fles"
   ],
   "georgia": [
     "vlag",
@@ -3148,7 +4285,9 @@
     "meisje",
     "kind",
     "meidje",
-    "meid"
+    "meid",
+    "maagd",
+    "sterrenbeeld"
   ],
   "glass_of_milk": [
     "glas",
@@ -3162,20 +4301,56 @@
     "bril",
     "brillen"
   ],
+  "globe_showing_americas": [
+    "aarde",
+    "noord- en zuid-amerika",
+    "wereld",
+    "wereldbol",
+    "wereldbol met noord- en zuid-amerika"
+  ],
+  "globe_showing_asia_australia": [
+    "aarde",
+    "australië",
+    "azië",
+    "wereld",
+    "wereldbol",
+    "wereldbol met azië-australië"
+  ],
+  "globe_showing_europe_africa": [
+    "aarde",
+    "afrika",
+    "europa",
+    "wereld",
+    "wereldbol",
+    "wereldbol met europa-afrika"
+  ],
+  "globe_with_meridians": [
+    "aarde",
+    "meridianen",
+    "wereld",
+    "wereldbol",
+    "wereldbol met meridianen"
+  ],
   "gloves": [
     "hand",
     "handschoen",
     "handschoenen"
   ],
   "glowing_star": [
-    "ster"
+    "ster",
+    "fonkelend",
+    "schitterend",
+    "schittering",
+    "stralen",
+    "stralende ster"
   ],
   "goal_net": [
     "sport",
     "voetbal",
     "doelnet",
     "doel",
-    "net"
+    "net",
+    "goal"
   ],
   "goat": [
     "dier",
@@ -3235,6 +4410,10 @@
     "appel",
     "groene appel"
   ],
+  "green_book": [
+    "boek",
+    "groen"
+  ],
   "green_circle": [
     "groen",
     "cirkel",
@@ -3246,6 +4425,12 @@
     "groen",
     "liefde",
     "groen hart"
+  ],
+  "green_salad": [
+    "groen",
+    "groene salade",
+    "salade",
+    "voedsel"
   ],
   "green_square": [
     "groen",
@@ -3353,6 +4538,10 @@
     "guamees",
     "gu"
   ],
+  "guard": [
+    "mensen",
+    "wachter"
+  ],
   "guatemala": [
     "vlag",
     "guatemalteek",
@@ -3370,7 +4559,8 @@
     "hond",
     "blindengeleidehond",
     "toegankelijkheid",
-    "geleide"
+    "geleide",
+    "blin­den­ge­leide­hond"
   ],
   "guinea": [
     "vlag",
@@ -3385,6 +4575,12 @@
     "guinee-bissauer",
     "guinee-bissaus",
     "guinee-bissau"
+  ],
+  "guitar": [
+    "gitaar",
+    "instrument",
+    "muziek",
+    "muziekinstrument"
   ],
   "guyana": [
     "vlag",
@@ -3462,6 +4658,9 @@
     "afspraak",
     "handdruk"
   ],
+  "hash": [
+    "toets"
+  ],
   "hatching_chick": [
     "dier",
     "gevogelte",
@@ -3472,6 +4671,10 @@
     "ei",
     "kuiken uit ei"
   ],
+  "headphone": [
+    "hoofdtelefoon",
+    "oordopje"
+  ],
   "headstone": [
     "dood",
     "overleden",
@@ -3481,6 +4684,13 @@
     "grafzerk",
     "kerkhof"
   ],
+  "health_worker": [
+    "dokter",
+    "gezondheidsmedewerker",
+    "gezondheidszorg",
+    "therapeut",
+    "verpleegster"
+  ],
   "hear_no_evil_monkey": [
     "dier",
     "gezicht",
@@ -3488,7 +4698,14 @@
     "kwaad",
     "horen",
     "verboden",
-    "geen kwaad horen"
+    "geen kwaad horen",
+    "gebaar",
+    "geen",
+    "niet",
+    "uit den boze"
+  ],
+  "heard_mcdonald_islands": [
+    "vlag"
   ],
   "heart": [
     "verliefd",
@@ -3544,7 +4761,9 @@
     "kaartspel",
     "spel",
     "bridge",
-    "harten"
+    "harten",
+    "hart",
+    "kaarten"
   ],
   "heart_with_arrow": [
     "verliefd",
@@ -3562,12 +4781,26 @@
     "hart met strik",
     "valentijn"
   ],
+  "heavy_dollar_sign": [
+    "dollar",
+    "dollarteken",
+    "geld",
+    "vetgedrukt dollarteken"
+  ],
   "hedgehog": [
     "dier",
     "stekel",
     "egel",
     "stekelig",
     "stekels"
+  ],
+  "helicopter": [
+    "helikopter",
+    "voertuig"
+  ],
+  "herb": [
+    "blad",
+    "kruid"
   ],
   "hibiscus": [
     "bloem",
@@ -3587,11 +4820,20 @@
     "hogesnelheidstrein",
     "shinkansen"
   ],
+  "high_voltage": [
+    "bliksem",
+    "elektrisch",
+    "gevaar",
+    "hoog voltage",
+    "schok",
+    "voltage"
+  ],
   "hiking_boot": [
     "kamperen",
     "schoen",
     "wandelen",
-    "wandelschoen"
+    "wandelschoen",
+    "trotteur"
   ],
   "hindu_temple": [
     "gebouw",
@@ -3606,6 +4848,13 @@
   ],
   "hole": [
     "gat"
+  ],
+  "hollow_red_circle": [
+    "cirkel",
+    "groot",
+    "lege rode cirkel",
+    "o",
+    "rood"
   ],
   "honduras": [
     "vlag",
@@ -3631,6 +4880,9 @@
     "hk",
     "hongkong"
   ],
+  "hook": [
+    "haak"
+  ],
   "horizontal_traffic_light": [
     "licht",
     "verkeerslichten",
@@ -3651,6 +4903,18 @@
     "gezicht",
     "paard",
     "paardengezicht"
+  ],
+  "horse_racing": [
+    "jockey",
+    "jockey op renpaard",
+    "paard",
+    "racen",
+    "renpaard"
+  ],
+  "hospital": [
+    "dokter",
+    "medicijnen",
+    "ziekenhuis"
   ],
   "hot_beverage": [
     "drinken",
@@ -3684,17 +4948,40 @@
     "peper",
     "hete peper"
   ],
+  "hot_springs": [
+    "bronnen",
+    "stomend",
+    "warm",
+    "warmwaterbronnen"
+  ],
+  "hotel": [
+    "gebouw"
+  ],
+  "hourglass_done": [
+    "timer",
+    "zand",
+    "zandloper"
+  ],
+  "hourglass_not_done": [
+    "timer",
+    "zand",
+    "zandloper",
+    "zandloper met stromend zand"
+  ],
   "house": [
     "thuis",
     "huis"
   ],
   "house_with_garden": [
     "thuis",
-    "huis"
+    "huis",
+    "huis met tuin",
+    "tuin"
   ],
   "houses": [
     "thuis",
-    "huis"
+    "huis",
+    "huizen"
   ],
   "hugs": [
     "gezicht",
@@ -3767,6 +5054,12 @@
     "ijslander",
     "is"
   ],
+  "id_button": [
+    "id",
+    "id-symbool",
+    "identiteit",
+    "symbool"
+  ],
   "identification_card": [
     "id",
     "vergunning",
@@ -3836,6 +5129,16 @@
     "indonesië",
     "indonesiër"
   ],
+  "infinity": [
+    "eeuwig",
+    "grenzeloos",
+    "oneindig",
+    "universeel"
+  ],
+  "information_source": [
+    "informatie",
+    "teken"
+  ],
   "innocent": [
     "haha",
     "gezicht",
@@ -3846,7 +5149,31 @@
     "heilige",
     "engel",
     "onschuldig",
-    "heilig"
+    "heilig",
+    "glimlach",
+    "sprookje"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "latijns",
+    "latijns alfabet",
+    "latijns alfabet invoeren",
+    "nederlands"
+  ],
+  "input_latin_lowercase": [
+    "kleine letters",
+    "kleine letters invoeren",
+    "kleine letters latijns",
+    "latijns"
+  ],
+  "input_latin_uppercase": [
+    "hoofdletters",
+    "hoofdletters invoeren",
+    "latijns"
+  ],
+  "input_symbols": [
+    "symbolen",
+    "symbolen invoeren"
   ],
   "iran": [
     "vlag",
@@ -3912,11 +5239,41 @@
     "jp",
     "japanner"
   ],
+  "japanese_acceptable_button": [
+    "accepteren",
+    "japans",
+    "japans teken voor ‘acceptabel’",
+    "rond"
+  ],
+  "japanese_application_button": [
+    "japans",
+    "japans teken voor ‘toepassing’",
+    "toepassen",
+    "vierkant"
+  ],
+  "japanese_bargain_button": [
+    "cirkel",
+    "japans",
+    "japans teken voor ‘koopje’",
+    "voordeel"
+  ],
   "japanese_castle": [
     "gebouw",
     "japans",
     "kasteel",
     "japans kasteel"
+  ],
+  "japanese_congratulations_button": [
+    "cirkel",
+    "gefeliciteerd",
+    "japans",
+    "japans teken voor ‘gefeliciteerd’"
+  ],
+  "japanese_discount_button": [
+    "japans",
+    "japans teken voor ‘korting’",
+    "verdelen",
+    "vierkant"
   ],
   "japanese_dolls": [
     "feest",
@@ -3925,6 +5282,89 @@
     "pop",
     "poppen",
     "japanse poppen"
+  ],
+  "japanese_free_of_charge_button": [
+    "japans",
+    "japans teken voor ‘gratis’",
+    "ontkenning",
+    "vierkant"
+  ],
+  "japanese_here_button": [
+    "japans",
+    "japans woordteken voor ‘hier’",
+    "koko",
+    "vierkant"
+  ],
+  "japanese_monthly_amount_button": [
+    "japans",
+    "japans teken voor ‘maandelijks bedrag’",
+    "maan",
+    "vierkant"
+  ],
+  "japanese_no_vacancy_button": [
+    "japans",
+    "japans teken voor ‘vol, geen plaats’",
+    "vierkant",
+    "volheid"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "bestaan",
+    "japans",
+    "japans teken voor ‘niet gratis’",
+    "vierkant"
+  ],
+  "japanese_open_for_business_button": [
+    "japans",
+    "japans teken voor ‘geopend’",
+    "vierkant",
+    "werkend"
+  ],
+  "japanese_passing_grade_button": [
+    "japans",
+    "japans teken voor ‘voldoende (cijfer)‘",
+    "samen",
+    "vierkant"
+  ],
+  "japanese_post_office": [
+    "japans",
+    "japans postkantoor",
+    "post"
+  ],
+  "japanese_prohibited_button": [
+    "japans",
+    "japans teken voor ‘verboden’",
+    "verbieden",
+    "vierkant"
+  ],
+  "japanese_reserved_button": [
+    "japans",
+    "japans teken voor ‘gereserveerd’",
+    "vierkant",
+    "vinger"
+  ],
+  "japanese_secret_button": [
+    "cirkel",
+    "geheim",
+    "japans",
+    "japans teken voor ‘geheim’"
+  ],
+  "japanese_service_charge_button": [
+    "japans",
+    "japans teken voor ‘dienst’ of ‘dienstenheffing’",
+    "sa",
+    "vierkant"
+  ],
+  "japanese_symbol_for_beginner": [
+    "beginner",
+    "groen en geel",
+    "groen en geel blad",
+    "japans"
+  ],
+  "japanese_vacancy_button": [
+    "japans",
+    "japans teken voor ‘plaats vrij’",
+    "leeg",
+    "vierkant"
   ],
   "jar": [
     "glas",
@@ -3980,6 +5420,14 @@
     "vreugde",
     "kat met tranen van vreugde"
   ],
+  "joystick": [
+    "game",
+    "videogame"
+  ],
+  "judge": [
+    "rechter",
+    "weegschaal"
+  ],
   "kaaba": [
     "gebouw",
     "mekka",
@@ -3996,7 +5444,8 @@
     "australië",
     "wallaby",
     "springen",
-    "kangoeroe"
+    "kangoeroe",
+    "aus­tralië"
   ],
   "kazakhstan": [
     "vlag",
@@ -4040,11 +5489,14 @@
   ],
   "kiss": [
     "liefde",
-    "kus"
+    "kus",
+    "stelletje"
   ],
   "kiss_man_man": [
     "liefde",
-    "kus"
+    "kus",
+    "man",
+    "stelletje"
   ],
   "kiss_mark": [
     "liefde",
@@ -4057,9 +5509,17 @@
     "zoenafdruk",
     "lipafdruk"
   ],
+  "kiss_woman_man": [
+    "kus",
+    "man",
+    "stelletje",
+    "vrouw"
+  ],
   "kiss_woman_woman": [
     "liefde",
-    "kus"
+    "kus",
+    "stelletje",
+    "vrouw"
   ],
   "kissing_cat": [
     "kat",
@@ -4186,6 +5646,38 @@
     "computer",
     "personal computer"
   ],
+  "large_blue_diamond": [
+    "blauw",
+    "grote blauwe ruit",
+    "ruit"
+  ],
+  "large_orange_diamond": [
+    "grote oranje ruit",
+    "oranje",
+    "ruit"
+  ],
+  "last_quarter_moon": [
+    "kwartier",
+    "maan",
+    "maan in laatste kwartier"
+  ],
+  "last_quarter_moon_face": [
+    "gezicht",
+    "kwartier",
+    "maan",
+    "maan met gezicht in laatste kwartier"
+  ],
+  "last_track_button": [
+    "knop voor vorige nummer",
+    "pijl",
+    "vorige nummer"
+  ],
+  "latin_cross": [
+    "christelijk kruis",
+    "christendom",
+    "kruis",
+    "religie"
+  ],
   "latvia": [
     "vlag",
     "lv",
@@ -4208,6 +5700,13 @@
     "grijnzend gezicht met stijf dichtgeknepen ogen",
     "tevreden"
   ],
+  "leaf_fluttering_in_wind": [
+    "blad",
+    "blad in de wind",
+    "waaiend",
+    "waait",
+    "wind"
+  ],
   "leafy_green": [
     "groenten",
     "kool",
@@ -4224,12 +5723,44 @@
     "libanees",
     "libanon"
   ],
+  "ledger": [
+    "grootboek",
+    "notitieboek",
+    "schrift"
+  ],
+  "left_arrow": [
+    "pijl",
+    "pijl naar links",
+    "richting",
+    "west"
+  ],
+  "left_arrow_curving_right": [
+    "links",
+    "pijl",
+    "pijl naar links die naar rechts draait",
+    "rechts"
+  ],
   "left_facing_fist": [
     "slaan",
     "naar links gerichte vuist",
     "vuistslag",
     "vuist",
     "linksom"
+  ],
+  "left_luggage": [
+    "bagage",
+    "bagagekluis",
+    "bagageservice",
+    "koffers"
+  ],
+  "left_right_arrow": [
+    "pijl",
+    "pijl naar links en rechts"
+  ],
+  "left_speech_bubble": [
+    "dialoog",
+    "spraak",
+    "spraakballon naar links"
   ],
   "leftwards_hand": [
     "hand",
@@ -4267,6 +5798,13 @@
     "mosotho",
     "ls"
   ],
+  "level_slider": [
+    "muziek",
+    "niveau",
+    "schuif",
+    "schuifje",
+    "schuifregelaar"
+  ],
   "liberia": [
     "vlag",
     "liberiaan",
@@ -4301,7 +5839,22 @@
     "strip",
     "elektrisch",
     "ideetje",
-    "gloeilamp"
+    "gloeilamp",
+    "peertje"
+  ],
+  "light_rail": [
+    "lightrail",
+    "spoor"
+  ],
+  "link": [
+    "schakels",
+    "twee ringen"
+  ],
+  "linked_paperclips": [
+    "aan elkaar",
+    "paperclip",
+    "twee paperclips aan elkaar",
+    "vastgemaakt"
   ],
   "lion": [
     "dier",
@@ -4330,7 +5883,8 @@
     "afval",
     "troep",
     "symbool",
-    "prullen"
+    "prullen",
+    "afval in prullenbak gooien"
   ],
   "lizard": [
     "dier",
@@ -4363,7 +5917,8 @@
     "gesloten slot met sleutel",
     "gesloten",
     "sleutel",
-    "beveiligd"
+    "beveiligd",
+    "slot met sleutel"
   ],
   "locked_with_pen": [
     "pen",
@@ -4374,13 +5929,24 @@
     "inkt",
     "versleutelen",
     "encryptie",
-    "versleuteld"
+    "versleuteld",
+    "slot met vulpen"
+  ],
+  "locomotive": [
+    "locomotief",
+    "spoor",
+    "stoom",
+    "trein",
+    "voertuig"
   ],
   "lollipop": [
     "zoet",
     "lolly",
     "dessert",
     "snoep"
+  ],
+  "long_drum": [
+    "hoge trom"
   ],
   "lotion_bottle": [
     "zonnebrandolie",
@@ -4396,6 +5962,17 @@
     "vietnam",
     "puurheid",
     "boeddhisme"
+  ],
+  "loudspeaker": [
+    "luid",
+    "luidspreker",
+    "toespraak",
+    "toespreken"
+  ],
+  "love_hotel": [
+    "hotel",
+    "liefde",
+    "love-hotel"
   ],
   "love_letter": [
     "hart",
@@ -4421,6 +5998,11 @@
     "ily",
     "yo",
     "ik-hou-van-je-gebaar"
+  ],
+  "luggage": [
+    "bagage",
+    "inpakken",
+    "reizen"
   ],
   "lungs": [
     "longen",
@@ -4462,13 +6044,47 @@
     "mg",
     "malagassiër"
   ],
+  "mage": [
+    "heks",
+    "magiër",
+    "tovenaar",
+    "tovenares"
+  ],
+  "magic_wand": [
+    "heks",
+    "magie",
+    "tovenaar",
+    "toverstok"
+  ],
+  "magnet": [
+    "aantrekkingskracht",
+    "hoefijzer",
+    "magneet",
+    "magnetisch"
+  ],
   "magnifying_glass_tilted_left": [
     "loupe",
-    "vergrootglas"
+    "vergrootglas",
+    "gereedschap",
+    "glas",
+    "vergrootglas naar links gericht",
+    "vergroten",
+    "zoeken"
   ],
   "magnifying_glass_tilted_right": [
     "loupe",
-    "vergrootglas"
+    "vergrootglas",
+    "gereedschap",
+    "glas",
+    "vergrootglas naar rechts gericht",
+    "vergroten",
+    "zoeken"
+  ],
+  "mahjong_red_dragon": [
+    "mahjong",
+    "mahjong rode draak",
+    "rood",
+    "spel"
   ],
   "malawi": [
     "vlag",
@@ -4493,6 +6109,12 @@
     "maldiviër",
     "maldivisch"
   ],
+  "male_sign": [
+    "man",
+    "mannelijkheidssymbool",
+    "symbool",
+    "teken"
+  ],
   "mali": [
     "vlag",
     "malinees",
@@ -4516,18 +6138,430 @@
   "man": [
     "persoon"
   ],
+  "man_artist": [
+    "kunstenaar",
+    "man",
+    "mannelijke kunstenaar",
+    "palet"
+  ],
+  "man_astronaut": [
+    "astronaut",
+    "man",
+    "mannelijke astronaut",
+    "raket"
+  ],
+  "man_bald": [
+    "kaal",
+    "man"
+  ],
+  "man_biking": [
+    "fiets",
+    "fietsen",
+    "fietsende man",
+    "man",
+    "wielrenner"
+  ],
+  "man_bouncing_ball": [
+    "bal",
+    "basketballer",
+    "man"
+  ],
+  "man_bowing": [
+    "buigen",
+    "buigende man",
+    "excuses",
+    "gebaar",
+    "gunst",
+    "man",
+    "sorry"
+  ],
+  "man_cartwheeling": [
+    "gymnastiek",
+    "man",
+    "man die een radslag doet",
+    "radslag"
+  ],
+  "man_climbing": [
+    "klimmende man",
+    "klimmer"
+  ],
+  "man_cook": [
+    "chef-kok",
+    "kok",
+    "man",
+    "mannelijke kok"
+  ],
+  "man_curly_hair": [
+    "krullend haar",
+    "man"
+  ],
+  "man_dancing": [
+    "dansen",
+    "dansende man",
+    "man"
+  ],
   "man_detective": [
     "detective",
-    "spion"
+    "spion",
+    "man",
+    "mannelijke detective",
+    "speurder"
+  ],
+  "man_elf": [
+    "magisch",
+    "mannelijke elf"
+  ],
+  "man_facepalming": [
+    "ergernis",
+    "facepalm",
+    "man",
+    "man die het gezicht met de hand bedekt",
+    "ongeloof"
+  ],
+  "man_factory_worker": [
+    "arbeider",
+    "fabriek",
+    "fabrieksarbeider",
+    "industrieel",
+    "lopende band",
+    "man",
+    "mannelijke fabrieksarbeider"
+  ],
+  "man_fairy": [
+    "mannelijk elfje",
+    "oberon",
+    "puck"
+  ],
+  "man_farmer": [
+    "boer",
+    "man",
+    "mannelijke boer",
+    "tuinder",
+    "veehouder"
+  ],
+  "man_feeding_baby": [
+    "baby",
+    "borstvoeding",
+    "man",
+    "man die een baby voedt",
+    "voeding"
+  ],
+  "man_firefighter": [
+    "brandweerman",
+    "brandweerwagen",
+    "man",
+    "mannelijke brandweerman"
+  ],
+  "man_frowning": [
+    "frons",
+    "fronsende man",
+    "man",
+    "uitdrukking"
+  ],
+  "man_genie": [
+    "djinn",
+    "mannelijke geest in de fles"
+  ],
+  "man_gesturing_no": [
+    "gebaar",
+    "hand",
+    "man",
+    "man die nee-gebaar maakt",
+    "nee",
+    "verboden"
+  ],
+  "man_gesturing_ok": [
+    "gebaar",
+    "hand",
+    "man",
+    "man die ok-gebaar maakt",
+    "ok"
+  ],
+  "man_getting_haircut": [
+    "kapsel",
+    "man",
+    "man die wordt geknipt"
+  ],
+  "man_getting_massage": [
+    "gezicht",
+    "man",
+    "man die hoofdmassage krijgt",
+    "massage"
+  ],
+  "man_golfing": [
+    "golfen",
+    "golfende man",
+    "man"
+  ],
+  "man_guard": [
+    "man",
+    "mannelijke wachter",
+    "wachter"
+  ],
+  "man_health_worker": [
+    "dokter",
+    "gezondheidsmedewerker",
+    "gezondheidszorg",
+    "man",
+    "mannelijke gezondheidsmedewerker",
+    "therapeut",
+    "verpleger"
+  ],
+  "man_in_lotus_position": [
+    "man in lotushouding",
+    "meditatie",
+    "yoga"
+  ],
+  "man_in_manual_wheelchair": [
+    "man",
+    "man in rolstoel",
+    "rolstoel",
+    "toegankelijkheid"
+  ],
+  "man_in_motorized_wheelchair": [
+    "man",
+    "man in elektrische rolstoel",
+    "rolstoel",
+    "toegankelijkheid"
+  ],
+  "man_in_steamy_room": [
+    "man in ruimte vol stoom",
+    "sauna",
+    "stoomruimte"
+  ],
+  "man_in_tuxedo": [
+    "man",
+    "man in smoking",
+    "smoking"
+  ],
+  "man_judge": [
+    "man",
+    "mannelijke rechter",
+    "rechter"
+  ],
+  "man_juggling": [
+    "jongleren",
+    "man",
+    "man die jongleert",
+    "multitasken"
+  ],
+  "man_kneeling": [
+    "knielend",
+    "knielende man",
+    "man"
+  ],
+  "man_lifting_weights": [
+    "gewichtheffen",
+    "man",
+    "mannelijke gewichtheffer"
+  ],
+  "man_mage": [
+    "heksenmeester",
+    "mannelijke magiër",
+    "tovenaar"
+  ],
+  "man_mechanic": [
+    "elektricien",
+    "handelsman",
+    "loodgieter",
+    "man",
+    "mannelijke monteur",
+    "monteur"
+  ],
+  "man_mountain_biking": [
+    "berg",
+    "fiets",
+    "fietsen",
+    "fietser",
+    "man",
+    "man op mountainbike"
+  ],
+  "man_office_worker": [
+    "architect",
+    "bedrijf",
+    "kantoor",
+    "kantoormedewerker",
+    "man",
+    "manager",
+    "mannelijke kantoormedewerker"
+  ],
+  "man_pilot": [
+    "man",
+    "mannelijke piloot",
+    "piloot",
+    "vliegtuig"
+  ],
+  "man_playing_handball": [
+    "handballen",
+    "man",
+    "man die handbal speelt"
+  ],
+  "man_playing_water_polo": [
+    "man",
+    "man die waterpolo speelt",
+    "waterpolo"
   ],
   "man_police_officer": [
-    "politie"
+    "politie",
+    "agent",
+    "man",
+    "politieman"
+  ],
+  "man_pouting": [
+    "man",
+    "pruilen",
+    "pruilende man",
+    "uitdrukking"
+  ],
+  "man_raising_hand": [
+    "gebaar",
+    "hand opsteken",
+    "man",
+    "man met opgeheven hand"
+  ],
+  "man_red_hair": [
+    "man",
+    "rood haar"
+  ],
+  "man_rowing_boat": [
+    "boot",
+    "man",
+    "man in roeiboot",
+    "roeiboot"
+  ],
+  "man_running": [
+    "hardlopen",
+    "man",
+    "marathon",
+    "rennen",
+    "rennende man"
   ],
   "man_s_shoe": [
     "man",
     "schoen",
     "kleding",
     "herenschoen"
+  ],
+  "man_scientist": [
+    "bioloog",
+    "ingenieur",
+    "man",
+    "mannelijke wetenschapper",
+    "natuurkundige",
+    "scheikundige",
+    "wetenschapper",
+    "wiskundige"
+  ],
+  "man_shrugging": [
+    "man",
+    "man die schouders ophaalt",
+    "onverschilligheid",
+    "onwetendheid",
+    "schouderophalen",
+    "twijfel"
+  ],
+  "man_singer": [
+    "acteur",
+    "entertainer",
+    "man",
+    "mannelijke zanger",
+    "rock",
+    "ster",
+    "zanger"
+  ],
+  "man_standing": [
+    "man",
+    "staand",
+    "staande man"
+  ],
+  "man_student": [
+    "jongen",
+    "man",
+    "mannelijke student",
+    "scholier",
+    "student"
+  ],
+  "man_superhero": [
+    "goed",
+    "held",
+    "man",
+    "mannelijke superheld",
+    "superkrachten"
+  ],
+  "man_supervillain": [
+    "boef",
+    "crimineel",
+    "man",
+    "mannelijke superschurk",
+    "slecht",
+    "superkrachten"
+  ],
+  "man_surfing": [
+    "man",
+    "mannelijke surfer",
+    "surfen"
+  ],
+  "man_swimming": [
+    "man",
+    "zwemmen",
+    "zwemmende man"
+  ],
+  "man_teacher": [
+    "docent",
+    "leraar",
+    "mannelijke docent",
+    "meester",
+    "professor"
+  ],
+  "man_technologist": [
+    "man",
+    "mannelijke technoloog",
+    "ontwikkelaar",
+    "programmeur",
+    "techneut",
+    "technoloog"
+  ],
+  "man_tipping_hand": [
+    "brutaal",
+    "man",
+    "man achter informatiebalie",
+    "pols knikken"
+  ],
+  "man_vampire": [
+    "dracula",
+    "mannelijke vampier",
+    "ondode"
+  ],
+  "man_walking": [
+    "lopen",
+    "man",
+    "wandelen",
+    "wandelende man"
+  ],
+  "man_wearing_turban": [
+    "man",
+    "man met tulband",
+    "tulband"
+  ],
+  "man_white_hair": [
+    "man",
+    "wit haar"
+  ],
+  "man_with_veil": [
+    "man",
+    "man met sluier",
+    "sluier"
+  ],
+  "man_with_white_cane": [
+    "blind",
+    "man",
+    "man met taststok",
+    "toegankelijkheid"
+  ],
+  "man_zombie": [
+    "lopende dode",
+    "mannelijke zombie",
+    "ondode"
   ],
   "mango": [
     "fruit",
@@ -4538,10 +6572,20 @@
     "tijd",
     "klok"
   ],
+  "manual_wheelchair": [
+    "rolstoel",
+    "toegankelijkheid"
+  ],
   "map_of_japan": [
     "kaart",
     "japan",
     "kaart van japan"
+  ],
+  "maple_leaf": [
+    "blad",
+    "esdoorn",
+    "esdoornblad",
+    "vallend"
   ],
   "marshall_islands": [
     "vlag",
@@ -4597,6 +6641,12 @@
     "vlees met bot",
     "bot"
   ],
+  "mechanic": [
+    "elektricien",
+    "handelsman",
+    "loodgieter",
+    "monteur"
+  ],
   "mechanical_arm": [
     "mechanisch",
     "armprothese",
@@ -4610,6 +6660,15 @@
     "beenprothese",
     "been",
     "prothese"
+  ],
+  "medical_symbol": [
+    "dokter",
+    "esculaap"
+  ],
+  "megaphone": [
+    "communicatie",
+    "juichen",
+    "megafoon"
   ],
   "melon": [
     "fruit",
@@ -4628,6 +6687,36 @@
     "oplossen",
     "smelten"
   ],
+  "memo": [
+    "potlood"
+  ],
+  "men_holding_hands": [
+    "hand in hand",
+    "man",
+    "mannen",
+    "mannen hand in hand",
+    "stel",
+    "sterrenbeeld",
+    "tweeling",
+    "tweelingen"
+  ],
+  "men_s_room": [
+    "heren-wc",
+    "herentoilet",
+    "symbool"
+  ],
+  "men_with_bunny_ears": [
+    "dansen",
+    "feesten",
+    "konijnenoor",
+    "mannen",
+    "mannen met konijnenoren"
+  ],
+  "men_wrestling": [
+    "mannen",
+    "worstelen",
+    "worstelende mannen"
+  ],
   "mending_heart": [
     "hart",
     "gezond",
@@ -4637,6 +6726,29 @@
     "verbeterend",
     "helend hart",
     "helend"
+  ],
+  "menorah": [
+    "joods",
+    "kandelaar",
+    "menora",
+    "religie"
+  ],
+  "mermaid": [
+    "meermin",
+    "sirene"
+  ],
+  "merman": [
+    "triton",
+    "zeemeerman"
+  ],
+  "merperson": [
+    "meerman",
+    "meermin",
+    "sirene",
+    "zeemeermin"
+  ],
+  "metro": [
+    "ondergrondse"
   ],
   "mexico": [
     "vlag",
@@ -4660,6 +6772,14 @@
     "micronesiër",
     "fm"
   ],
+  "microphone": [
+    "karaoke",
+    "microfoon"
+  ],
+  "microscope": [
+    "gereedschap",
+    "microscoop"
+  ],
   "military_helmet": [
     "helm",
     "militair",
@@ -4668,8 +6788,26 @@
     "legerhelm",
     "leger"
   ],
+  "military_medal": [
+    "medaille",
+    "militair",
+    "militaire medaille",
+    "viering"
+  ],
   "milky_way": [
-    "ster"
+    "ster",
+    "melkweg",
+    "ruimte"
+  ],
+  "minibus": [
+    "bus"
+  ],
+  "minus": [
+    "-",
+    "−",
+    "min",
+    "teken",
+    "wiskunde"
   ],
   "mirror": [
     "speculum",
@@ -4688,15 +6826,31 @@
     "gezicht",
     "hoofd",
     "standbeeld",
-    "moai-beeld"
+    "moai-beeld",
+    "beeld",
+    "paaseiliand"
   ],
   "mobile_phone": [
     "gsm",
-    "telefoon"
+    "telefoon",
+    "mobiel",
+    "mobiele telefoon"
+  ],
+  "mobile_phone_off": [
+    "mobiel",
+    "mobiele telefoon",
+    "mobiele telefoon uit",
+    "telefoon",
+    "uit"
   ],
   "mobile_phone_with_arrow": [
     "gsm",
-    "telefoon"
+    "telefoon",
+    "mobiel",
+    "mobiel met pijl",
+    "mobiele telefoon",
+    "ontvangen",
+    "pijl"
   ],
   "moldova": [
     "vlag",
@@ -4762,6 +6916,9 @@
     "aap",
     "apengezicht"
   ],
+  "monorail": [
+    "voertuig"
+  ],
   "montenegro": [
     "vlag",
     "me",
@@ -4812,6 +6969,28 @@
     "virus",
     "malaria"
   ],
+  "motor_boat": [
+    "boot",
+    "motorboot"
+  ],
+  "motor_scooter": [
+    "brommer",
+    "motor",
+    "scooter"
+  ],
+  "motorcycle": [
+    "motor",
+    "racen"
+  ],
+  "motorized_wheelchair": [
+    "elektrische rolstoel",
+    "toegankelijkheid"
+  ],
+  "motorway": [
+    "autosnelweg",
+    "snelweg",
+    "weg"
+  ],
   "mount_fuji": [
     "japan",
     "fuji",
@@ -4819,6 +6998,18 @@
   ],
   "mountain": [
     "berg"
+  ],
+  "mountain_cableway": [
+    "berg",
+    "bergkabelbaan",
+    "gondel",
+    "kabel"
+  ],
+  "mountain_railway": [
+    "berg",
+    "bergspoor",
+    "spoor",
+    "wagon"
   ],
   "mouse": [
     "dier",
@@ -4868,10 +7059,41 @@
     "kerst",
     "kerstvrouw"
   ],
+  "multiply": [
+    "×",
+    "annuleren",
+    "teken",
+    "vermenigvuldigen",
+    "vermenigvuldiging",
+    "x"
+  ],
   "mushroom": [
     "voedsel",
     "zwam",
     "paddenstoel"
+  ],
+  "musical_keyboard": [
+    "instrument",
+    "keyboard",
+    "muziek",
+    "muziekinstrument",
+    "piano"
+  ],
+  "musical_note": [
+    "muziek",
+    "muzieknoot",
+    "noot"
+  ],
+  "musical_notes": [
+    "muziek",
+    "muzieknoten",
+    "noot",
+    "noten"
+  ],
+  "musical_score": [
+    "muziek",
+    "notenschift",
+    "partituur"
   ],
   "muted_speaker": [
     "stil",
@@ -4890,7 +7112,9 @@
     "kerstmis",
     "kerst",
     "kerstmens",
-    "kerstpersoon"
+    "kerstpersoon",
+    "kerstman, kerst",
+    "kersttransgender"
   ],
   "myanmar_burma": [
     "vlag",
@@ -4908,6 +7132,12 @@
     "manicure",
     "lak",
     "verzorging"
+  ],
+  "name_badge": [
+    "badge",
+    "kaartje",
+    "naam",
+    "naamkaartje"
   ],
   "namibia": [
     "vlag",
@@ -4997,12 +7227,27 @@
     ":|",
     "hm"
   ],
+  "new_button": [
+    "new-knop",
+    "nieuw-symbool",
+    "symbool"
+  ],
   "new_caledonia": [
     "vlag",
     "nieuw-caledonisch",
     "nieuw-caledoniër",
     "nieuw-caledonië",
     "nc"
+  ],
+  "new_moon": [
+    "donker",
+    "maan",
+    "nieuwe maan"
+  ],
+  "new_moon_face": [
+    "gezicht",
+    "maan",
+    "nieuwe maan met gezicht"
   ],
   "new_zealand": [
     "vlag",
@@ -5011,6 +7256,22 @@
     "nieuw-zeeland",
     "aotearoa",
     "nieuw-zeelands"
+  ],
+  "newspaper": [
+    "krant",
+    "nieuws",
+    "nieuwsblad"
+  ],
+  "next_track_button": [
+    "knop voor volgende nummer",
+    "pijlen",
+    "rechts",
+    "volgende"
+  ],
+  "ng_button": [
+    "ng-knop",
+    "niet goed-symbool",
+    "symbool"
   ],
   "nicaragua": [
     "vlag",
@@ -5030,7 +7291,13 @@
     "nigeriaan"
   ],
   "night_with_stars": [
-    "ster"
+    "ster",
+    "nacht",
+    "sterren",
+    "sterrenhemel"
+  ],
+  "nine": [
+    "toets"
   ],
   "nine_o_clock": [
     "tijd",
@@ -5039,7 +7306,10 @@
     "21:00",
     "09:00",
     "9:00",
-    "9 uur"
+    "9 uur",
+    "00",
+    "9",
+    "negen"
   ],
   "nine_thirty": [
     "tijd",
@@ -5048,7 +7318,16 @@
     "9:30",
     "21:30",
     "09:30",
-    "half 10"
+    "half 10",
+    "9",
+    "dertig",
+    "half tien",
+    "negen"
+  ],
+  "ninja": [
+    "geheim",
+    "krijger",
+    "verborgen"
   ],
   "niue": [
     "vlag",
@@ -5056,6 +7335,53 @@
     "niueaan",
     "niuees",
     "niueaans"
+  ],
+  "no_bicycles": [
+    "fiets",
+    "fietsen niet toegestaan",
+    "geen fietsen",
+    "niet fietsen",
+    "voertuig"
+  ],
+  "no_entry": [
+    "geen toegang",
+    "nee",
+    "symbool",
+    "verboden",
+    "verboden toegang"
+  ],
+  "no_littering": [
+    "geen afval",
+    "geen afval weggooien",
+    "symbool"
+  ],
+  "no_mobile_phones": [
+    "geen mobiele telefoon",
+    "geen oproepen",
+    "mobiel",
+    "telefoon"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "niemand onder de 18",
+    "onder de 18",
+    "onder de 18 verboden"
+  ],
+  "no_pedestrians": [
+    "geen voetgangers",
+    "symbool",
+    "voetganger",
+    "voetgangers niet toegestaan",
+    "wandelaar"
+  ],
+  "no_smoking": [
+    "niet roken",
+    "symbool"
+  ],
+  "non_potable_water": [
+    "geen drinkwater",
+    "niet drinken",
+    "water"
   ],
   "norfolk_island": [
     "vlag",
@@ -5106,13 +7432,31 @@
     "neus",
     "ruiken"
   ],
+  "notebook": [
+    "notitieboek",
+    "schrift"
+  ],
+  "notebook_with_decorative_cover": [
+    "boek",
+    "notitieboekje",
+    "omslag",
+    "schrift",
+    "versierd"
+  ],
+  "nut_and_bolt": [
+    "bout",
+    "bout en moer",
+    "gereedschap",
+    "moer"
+  ],
   "o_button_blood_type": [
     "0",
     "bloedgroep 0",
     "bloed",
     "o",
     "bloedgroep",
-    "bloedgroep o"
+    "bloedgroep o",
+    "groep o"
   ],
   "ocean": [
     "tsunami",
@@ -5129,7 +7473,18 @@
     "zeevruchten",
     "spies",
     "kebab",
-    "stokje"
+    "stokje",
+    "zeevruchten op een stokje"
+  ],
+  "office_building": [
+    "gebouw",
+    "kantoorgebouw"
+  ],
+  "office_worker": [
+    "architect",
+    "bedrijf",
+    "kantoormedewerker",
+    "manager"
   ],
   "ogre": [
     "monster",
@@ -5137,7 +7492,17 @@
     "fantasie",
     "sprookje",
     "wezen",
-    "boeman"
+    "boeman",
+    "trol"
+  ],
+  "oil_drum": [
+    "olie",
+    "olievat",
+    "vat"
+  ],
+  "ok_button": [
+    "ok-knop",
+    "ok-symbool"
   ],
   "ok_hand": [
     "hand",
@@ -5204,6 +7569,11 @@
     "voedsel",
     "olijf"
   ],
+  "om": [
+    "hindoeïsme",
+    "om-symbool",
+    "religie"
+  ],
   "oman": [
     "vlag",
     "om",
@@ -5211,8 +7581,23 @@
     "omaans",
     "omani"
   ],
+  "on_arrow": [
+    "aan met uitroepteken en pijl",
+    "on!-pijl",
+    "pijl",
+    "uitroep",
+    "uitroepteken"
+  ],
   "oncoming_automobile": [
-    "auto"
+    "auto",
+    "automobiel",
+    "naderend",
+    "naderende auto"
+  ],
+  "oncoming_bus": [
+    "bus",
+    "naderend",
+    "naderende bus"
   ],
   "oncoming_fist": [
     "hand",
@@ -5234,6 +7619,14 @@
     "naderende politieauto",
     "naderend"
   ],
+  "oncoming_taxi": [
+    "naderend",
+    "naderende taxi",
+    "taxi"
+  ],
+  "one": [
+    "toets"
+  ],
   "one_o_clock": [
     "tijd",
     "klok",
@@ -5241,7 +7634,10 @@
     "1:00",
     "13:00",
     "1 uur",
-    "01:00"
+    "01:00",
+    "00",
+    "1",
+    "één"
   ],
   "one_piece_swimsuit": [
     "zwemkleding",
@@ -5256,12 +7652,28 @@
     "13:30",
     "01:30",
     "half 2",
-    "1:30"
+    "1:30",
+    "1",
+    "dertig",
+    "één",
+    "half twee"
   ],
   "onion": [
     "voedsel",
     "smaakmaker",
     "ui"
+  ],
+  "open_book": [
+    "boek",
+    "geopend",
+    "open"
+  ],
+  "open_file_folder": [
+    "bestand",
+    "geopende bestandsmap",
+    "geopende map",
+    "map",
+    "open"
   ],
   "open_hands": [
     "hand",
@@ -5316,6 +7728,10 @@
     "schijf",
     "optische schijf"
   ],
+  "orange_book": [
+    "boek",
+    "oranje"
+  ],
   "orange_circle": [
     "cirkel",
     "oranje",
@@ -5337,6 +7753,12 @@
     "dier",
     "aap",
     "orang-oetang"
+  ],
+  "orthodox_cross": [
+    "christendom",
+    "kruis",
+    "religie",
+    "russisch kruis"
   ],
   "otter": [
     "dier",
@@ -5370,10 +7792,32 @@
     "parel",
     "oester"
   ],
+  "p_button": [
+    "p-knop",
+    "parkeerplaats"
+  ],
   "package": [
     "pakket",
     "pakketje",
     "doos"
+  ],
+  "page_facing_up": [
+    "document",
+    "pagina",
+    "pagina met bovenzijde omhoog"
+  ],
+  "page_with_curl": [
+    "document",
+    "krul",
+    "omkrullende pagina",
+    "pagina",
+    "pagina met krul"
+  ],
+  "paintbrush": [
+    "kwast",
+    "penseel",
+    "schilderen",
+    "schilderkwast"
   ],
   "pakistan": [
     "vlag",
@@ -5441,12 +7885,20 @@
     "dier",
     "gezicht"
   ],
+  "paperclip": [
+    "clip"
+  ],
   "papua_new_guinea": [
     "vlag",
     "papoea-nieuw-guinees",
     "pg",
     "papoea-nieuw-guineeër",
     "papoea-nieuw-guinea"
+  ],
+  "parachute": [
+    "hanggliden",
+    "parasailen",
+    "skydiven"
   ],
   "paraguay": [
     "vlag",
@@ -5461,6 +7913,12 @@
     "praten",
     "papegaai"
   ],
+  "part_alternation_mark": [
+    "markering",
+    "rolwisseling",
+    "rolwisselingsmarkering",
+    "teken"
+  ],
   "partying_face": [
     "viering",
     "feest",
@@ -5473,6 +7931,21 @@
     "hoedje",
     "feestend gezicht"
   ],
+  "passenger_ship": [
+    "passagier",
+    "passagiersschip",
+    "schip"
+  ],
+  "passport_control": [
+    "controle",
+    "paspoort",
+    "paspoortcontrole"
+  ],
+  "pause_button": [
+    "onderbreken",
+    "pauzeknop",
+    "pauzeren"
+  ],
   "paw_prints": [
     "pootafdruk",
     "dier",
@@ -5482,6 +7955,11 @@
     "afdrukken",
     "pootafdrukken",
     "poten"
+  ],
+  "peace_symbol": [
+    "symbool",
+    "vrede",
+    "vredessymbool"
   ],
   "peach": [
     "fruit",
@@ -5504,12 +7982,17 @@
     "noten",
     "pinda's",
     "noot",
-    "pinda"
+    "pinda",
+    "pinda’s"
   ],
   "pear": [
     "fruit",
     "gezond",
     "peer"
+  ],
+  "pen": [
+    "ballpoint",
+    "balpen"
   ],
   "pencil": [
     "schrijven",
@@ -5529,6 +8012,14 @@
     "peinzend",
     "moedeloos"
   ],
+  "people_holding_hands": [
+    "hand",
+    "hand in hand",
+    "personen hand in hand",
+    "persoon",
+    "stel",
+    "vasthouden"
+  ],
   "people_hugging": [
     "hallo",
     "dag",
@@ -5537,13 +8028,25 @@
     "knuffel",
     "omhelzing"
   ],
+  "people_with_bunny_ears": [
+    "danser",
+    "feesten",
+    "konijnenoor",
+    "mensen met konijnenoren"
+  ],
+  "people_wrestling": [
+    "personen die worstelen",
+    "worstelaar",
+    "worstelen"
+  ],
   "performing_arts": [
     "optreden",
     "masker",
     "kunst",
     "toneel",
     "toneelkunsten",
-    "theater"
+    "theater",
+    "toneelkunst"
   ],
   "persevering_face": [
     "gezicht",
@@ -5556,6 +8059,116 @@
     "persoon",
     "volwassene"
   ],
+  "person_bald": [
+    "genderneutraal",
+    "kaal",
+    "volwassene"
+  ],
+  "person_beard": [
+    "baard",
+    "man",
+    "man met baard",
+    "persoon"
+  ],
+  "person_biking": [
+    "fiets",
+    "fietsen",
+    "fietsende persoon",
+    "wielrennen",
+    "wielrenner"
+  ],
+  "person_blond_hair": [
+    "blond",
+    "haar",
+    "persoon met blond haar"
+  ],
+  "person_bouncing_ball": [
+    "bal",
+    "basketbalspeler"
+  ],
+  "person_bowing": [
+    "buigende persoon",
+    "buiging",
+    "excuses",
+    "gebaar",
+    "sorry"
+  ],
+  "person_cartwheeling": [
+    "gymnastiek",
+    "persoon die een radslag doet",
+    "radslag"
+  ],
+  "person_climbing": [
+    "klimmende persoon",
+    "klimmer"
+  ],
+  "person_curly_hair": [
+    "genderneutraal",
+    "krullend haar",
+    "volwassene"
+  ],
+  "person_facepalming": [
+    "ergernis",
+    "gezicht",
+    "ongeloof",
+    "palm",
+    "persoon die het gezicht met de hand bedekt"
+  ],
+  "person_feeding_baby": [
+    "baby",
+    "borstvoeding",
+    "persoon",
+    "persoon die een baby voedt",
+    "voeding"
+  ],
+  "person_fencing": [
+    "degen",
+    "floret",
+    "persoon",
+    "sabel",
+    "schermen",
+    "schermer",
+    "schermsport",
+    "sport"
+  ],
+  "person_frowning": [
+    "frons",
+    "fronsend persoon",
+    "uitdrukking"
+  ],
+  "person_gesturing_no": [
+    "gebaar",
+    "hand",
+    "illegaal",
+    "nee",
+    "niet",
+    "persoon die nee-gebaar maakt",
+    "verboden"
+  ],
+  "person_gesturing_ok": [
+    "gebaar",
+    "hand",
+    "ok",
+    "persoon die ok-gebaar maakt"
+  ],
+  "person_getting_haircut": [
+    "kapper",
+    "kapsel",
+    "persoon die wordt geknipt",
+    "salon",
+    "schoonheid"
+  ],
+  "person_getting_massage": [
+    "gezicht",
+    "massage",
+    "persoon die hoofdmassage krijgt",
+    "salon"
+  ],
+  "person_golfing": [
+    "bal",
+    "golf",
+    "golfer"
+  ],
   "person_in_bed": [
     "bed",
     "hotel",
@@ -5563,10 +8176,166 @@
     "zzz",
     "persoon in bed"
   ],
+  "person_in_lotus_position": [
+    "meditatie",
+    "persoon in lotushouding",
+    "yoga"
+  ],
+  "person_in_manual_wheelchair": [
+    "persoon in rolstoel",
+    "rolstoel",
+    "toegankelijkheid"
+  ],
+  "person_in_motorized_wheelchair": [
+    "persoon in elektrische rolstoel",
+    "rolstoel",
+    "toegankelijkheid"
+  ],
+  "person_in_steamy_room": [
+    "persoon in ruimte vol stoom",
+    "sauna",
+    "stoomruimte"
+  ],
+  "person_in_suit_levitating": [
+    "man",
+    "pak",
+    "zaken",
+    "zwevende man in pak"
+  ],
+  "person_in_tuxedo": [
+    "bruidegom",
+    "persoon",
+    "persoon in smoking",
+    "smoking"
+  ],
+  "person_juggling": [
+    "balans",
+    "jongleur",
+    "multitasken",
+    "persoon die jongleert",
+    "vaardigheid"
+  ],
+  "person_kneeling": [
+    "kniel",
+    "knielen",
+    "knielende persoon"
+  ],
+  "person_lifting_weights": [
+    "gewicht",
+    "gewichtheffer",
+    "heffer"
+  ],
+  "person_mountain_biking": [
+    "berg",
+    "fiets",
+    "fietsen",
+    "fietser",
+    "persoon op mountainbike",
+    "wielrenner"
+  ],
+  "person_playing_handball": [
+    "bal",
+    "handbal",
+    "persoon die handbal speelt"
+  ],
+  "person_playing_water_polo": [
+    "persoon die waterpolo speelt",
+    "polo",
+    "water"
+  ],
+  "person_pouting": [
+    "pruilen",
+    "pruilend persoon",
+    "uitdrukking"
+  ],
+  "person_raising_hand": [
+    "blij",
+    "gebaar",
+    "hand",
+    "omhoog",
+    "persoon met opgeheven hand"
+  ],
+  "person_red_hair": [
+    "genderneutraal",
+    "rood haar",
+    "volwassene"
+  ],
+  "person_rowing_boat": [
+    "boot",
+    "persoon in roeiboot",
+    "roeiboot"
+  ],
+  "person_running": [
+    "hardlopen",
+    "hardloper",
+    "marathon",
+    "sport"
+  ],
+  "person_shrugging": [
+    "onverschilligheid",
+    "onwetendheid",
+    "persoon die schouders ophaalt",
+    "schouderophalen",
+    "twijfel"
+  ],
+  "person_standing": [
+    "sta",
+    "staan",
+    "staande persoon"
+  ],
+  "person_surfing": [
+    "surfen",
+    "surfer"
+  ],
+  "person_swimming": [
+    "zwemmen",
+    "zwemmende persoon"
+  ],
   "person_taking_bath": [
     "persoon in badkuip",
     "bad",
     "badkuip"
+  ],
+  "person_tipping_hand": [
+    "brutaal",
+    "hand",
+    "hulp",
+    "informatie",
+    "knikken",
+    "persoon achter informatiebalie"
+  ],
+  "person_walking": [
+    "lopen",
+    "voetganger",
+    "wandelaar",
+    "wandelen"
+  ],
+  "person_wearing_turban": [
+    "persoon met tulband",
+    "tulband"
+  ],
+  "person_white_hair": [
+    "genderneutraal",
+    "volwassene",
+    "wit haar"
+  ],
+  "person_with_skullcap": [
+    "gua pi mao",
+    "hoed",
+    "man",
+    "man met chinees petje"
+  ],
+  "person_with_veil": [
+    "bruid",
+    "huwelijk",
+    "persoon",
+    "persoon met sluier",
+    "sluier"
+  ],
+  "person_with_white_cane": [
+    "blind",
+    "persoon met taststok",
+    "toegankelijkheid"
   ],
   "peru": [
     "vlag",
@@ -5600,6 +8369,12 @@
     "pikhouweel",
     "mijnbouw"
   ],
+  "pickup_truck": [
+    "bestelbak",
+    "laadbak",
+    "laadbakwagen",
+    "pick-up"
+  ],
   "pie": [
     "gebakje",
     "taart",
@@ -5628,6 +8403,15 @@
     "knorretje",
     "varken",
     "neus"
+  ],
+  "pill": [
+    "dokter",
+    "medicijn",
+    "pil"
+  ],
+  "pilot": [
+    "piloot",
+    "vliegtuig"
   ],
   "pinched_fingers": [
     "hand",
@@ -5697,6 +8481,10 @@
     "punt",
     "kaas"
   ],
+  "piñata": [
+    "feest",
+    "viering"
+  ],
   "placard": [
     "protest",
     "bord",
@@ -5704,6 +8492,26 @@
     "poster",
     "plakkaat",
     "demonstratie"
+  ],
+  "place_of_worship": [
+    "bidden",
+    "gebedsruimte",
+    "religie",
+    "tempel"
+  ],
+  "play_button": [
+    "afspelen",
+    "driehoek",
+    "knop voor afspelen",
+    "pijl",
+    "rechts"
+  ],
+  "play_or_pause_button": [
+    "afspelen",
+    "knop voor afspelen of onderbreken",
+    "onderbreken",
+    "pijl",
+    "rechts"
   ],
   "pleading_face": [
     "huil",
@@ -5718,6 +8526,11 @@
     "ontstopper",
     "toilet",
     "loodgieter"
+  ],
+  "plus": [
+    "+",
+    "teken",
+    "wiskunde"
   ],
   "poland": [
     "vlag",
@@ -5755,6 +8568,12 @@
     "zwaailicht",
     "zwaailicht van politieauto"
   ],
+  "police_officer": [
+    "agent",
+    "mensen",
+    "politie",
+    "politieagent"
+  ],
   "poodle": [
     "dier",
     "hond",
@@ -5788,11 +8607,29 @@
     "pt",
     "portugees"
   ],
+  "post_office": [
+    "europees",
+    "post",
+    "postkantoor"
+  ],
+  "postal_horn": [
+    "hoorn",
+    "post",
+    "posthoorn"
+  ],
   "postbox": [
     "brievenbus",
     "post",
     "brief",
     "postbus"
+  ],
+  "pot_of_food": [
+    "eenpansgerecht",
+    "stoofschotel"
+  ],
+  "potable_water": [
+    "drinkwater",
+    "drinkwatersymbool"
   ],
   "potato": [
     "voedsel",
@@ -5802,6 +8639,15 @@
     "gezond",
     "aardappel",
     "pieper"
+  ],
+  "potted_plant": [
+    "groeien",
+    "huis",
+    "nutteloos",
+    "plant",
+    "potplant",
+    "saai",
+    "verzorgen"
   ],
   "poultry_leg": [
     "voedsel",
@@ -5846,10 +8692,32 @@
     "ketting",
     "gebedssnoer"
   ],
+  "pregnant_woman": [
+    "vrouw",
+    "zwanger",
+    "zwangere vrouw"
+  ],
+  "pretzel": [
+    "gedraaid"
+  ],
+  "prince": [
+    "prins"
+  ],
+  "princess": [
+    "fantasie",
+    "mensen",
+    "prinses",
+    "sprookje"
+  ],
   "printer": [
     "computer",
     "afdrukken",
     "printen"
+  ],
+  "prohibited": [
+    "symbool",
+    "verboden",
+    "verboden toegang"
   ],
   "puerto_rico": [
     "vlag",
@@ -5878,6 +8746,10 @@
     "portemonnee",
     "kleding",
     "munt"
+  ],
+  "pushpin": [
+    "punaise",
+    "speld"
   ],
   "puzzle_piece": [
     "puzzelstuk",
@@ -5915,8 +8787,22 @@
     "wasbeer",
     "sluw"
   ],
+  "racing_car": [
+    "auto",
+    "raceauto",
+    "racen"
+  ],
   "radio": [
     "muziek"
+  ],
+  "radio_button": [
+    "keuze",
+    "keuzerondje",
+    "rondje"
+  ],
+  "radioactive": [
+    "radioactief",
+    "symbool"
   ],
   "railway_car": [
     "treinwagon",
@@ -5926,6 +8812,11 @@
     "trolleybus",
     "elektrisch",
     "spoor"
+  ],
+  "railway_track": [
+    "spoor",
+    "trein",
+    "treinspoor"
   ],
   "rainbow": [
     "homo",
@@ -5998,6 +8889,25 @@
     "scheermes",
     "scherp"
   ],
+  "receipt": [
+    "administratie",
+    "bewijs",
+    "boekhouding",
+    "kassabon",
+    "kwitantie"
+  ],
+  "record_button": [
+    "knop voor opnemen",
+    "opnemen",
+    "rondje"
+  ],
+  "recycling_symbol": [
+    "gevuld universeel recycling-symbool",
+    "recycling",
+    "recycling-symbool",
+    "symbool",
+    "universeel"
+  ],
   "red_apple": [
     "fruit",
     "rood",
@@ -6008,7 +8918,8 @@
   "red_circle": [
     "rood",
     "cirkel",
-    "rode cirkel"
+    "rode cirkel",
+    "grote rode cirkel"
   ],
   "red_envelope": [
     "geld",
@@ -6019,10 +8930,45 @@
     "voorspoed",
     "lai see"
   ],
+  "red_exclamation_mark": [
+    "!",
+    "interpunctie",
+    "teken",
+    "uitroep",
+    "uitroepteken"
+  ],
+  "red_paper_lantern": [
+    "bar",
+    "lantaarn",
+    "licht",
+    "rode papieren lantaarn",
+    "rood"
+  ],
+  "red_question_mark": [
+    "?",
+    "interpunctie",
+    "teken",
+    "vraag",
+    "vraagteken"
+  ],
   "red_square": [
     "rood",
     "vierkant",
     "rood vierkant"
+  ],
+  "red_triangle_pointed_down": [
+    "driehoek",
+    "rode omlaagwijzende driehoek",
+    "rood"
+  ],
+  "red_triangle_pointed_up": [
+    "driehoek",
+    "rode omhoogwijzende driehoek",
+    "rood"
+  ],
+  "registered": [
+    "gedeponeerd",
+    "r"
   ],
   "relieved_face": [
     "gezicht",
@@ -6035,6 +8981,18 @@
     "lintje",
     "bewustzijnslintje"
   ],
+  "repeat_button": [
+    "herhalen",
+    "knop voor herhalen",
+    "pijlen",
+    "rechtsom"
+  ],
+  "repeat_single_button": [
+    "eenmaal",
+    "knop voor één herhalen",
+    "pijl",
+    "rechtsom"
+  ],
   "rescue_worker_s_helmet": [
     "gezicht",
     "hulp",
@@ -6044,11 +9002,23 @@
     "kruis",
     "rode kruis"
   ],
+  "restroom": [
+    "toilet",
+    "toiletten",
+    "wc"
+  ],
   "reunion": [
     "vlag",
     "réunion",
     "réunions",
     "re"
+  ],
+  "reverse_button": [
+    "achterstevoren",
+    "afspelen",
+    "knop voor terugspoelen",
+    "links",
+    "pijl"
   ],
   "revolving_hearts": [
     "verliefd",
@@ -6073,6 +9043,11 @@
     "balletje",
     "rijstballetje"
   ],
+  "rice_cracker": [
+    "cracker",
+    "rijst",
+    "rijstwafel"
+  ],
   "right_anger_bubble": [
     "ballon",
     "woede",
@@ -6082,6 +9057,30 @@
     "woedeballon",
     "chatten",
     "boze spraakballon naar rechts"
+  ],
+  "right_arrow": [
+    "oost",
+    "pijl",
+    "pijl naar rechts",
+    "richting"
+  ],
+  "right_arrow_curving_down": [
+    "omlaag",
+    "pijl",
+    "pijl naar rechts die omlaag draait",
+    "rechts"
+  ],
+  "right_arrow_curving_left": [
+    "links",
+    "pijl",
+    "pijl naar rechts die naar links draait",
+    "rechts"
+  ],
+  "right_arrow_curving_up": [
+    "omhoog",
+    "pijl",
+    "pijl naar rechts die omhoog draait",
+    "rechts"
   ],
   "right_facing_fist": [
     "slaan",
@@ -6121,7 +9120,11 @@
   "roasted_sweet_potato": [
     "groenten",
     "groen",
-    "gezond"
+    "gezond",
+    "aardappel",
+    "gepoft",
+    "gepofte zoete aardappel",
+    "zoet"
   ],
   "robot": [
     "monster",
@@ -6136,7 +9139,8 @@
   ],
   "rocket": [
     "ruimte",
-    "raket"
+    "raket",
+    "voertuig"
   ],
   "rofl": [
     "gezicht",
@@ -6160,9 +9164,22 @@
     "wc",
     "papier"
   ],
+  "rolled_up_newspaper": [
+    "krant",
+    "nieuws",
+    "nieuwsblad",
+    "opgerold",
+    "opgerolde krant"
+  ],
+  "roller_coaster": [
+    "achtbaan",
+    "baan",
+    "pretpark"
+  ],
   "roller_skate": [
     "rolschaats",
-    "rollerskate"
+    "rollerskate",
+    "schaats"
   ],
   "romania": [
     "vlag",
@@ -6190,12 +9207,23 @@
     "bloemen",
     "rozet"
   ],
+  "round_pushpin": [
+    "kopspeld",
+    "ronde speld",
+    "speld"
+  ],
   "rugby_football": [
     "bal",
     "sport",
     "voetbal",
     "rugby",
     "rugbybal"
+  ],
+  "running_shirt": [
+    "hardloopshirt",
+    "hardlopen",
+    "shirt",
+    "sjerp"
   ],
   "running_shoe": [
     "schoen",
@@ -6239,7 +9267,8 @@
     "noodgeval",
     "veiligheid",
     "nood",
-    "noodvest"
+    "noodvest",
+    "veilig­heids­vest"
   ],
   "sagittarius": [
     "zodiac",
@@ -6248,12 +9277,24 @@
     "boogschutter",
     "boogschutter (sterrenbeeld)"
   ],
+  "sailboat": [
+    "boot",
+    "jacht",
+    "jachthaven",
+    "zee",
+    "zeilboot"
+  ],
   "sake": [
     "bar",
     "drinken",
     "drankje",
     "kopje",
     "fles"
+  ],
+  "salt": [
+    "tafelzout",
+    "zout",
+    "zoutvaatje"
   ],
   "saluting_face": [
     "ja",
@@ -6303,7 +9344,14 @@
   ],
   "satellite": [
     "ruimte",
-    "satelliet"
+    "satelliet",
+    "voertuig"
+  ],
+  "satellite_antenna": [
+    "antenne",
+    "satelliet",
+    "satellietschotel",
+    "schotel"
   ],
   "saudi_arabia": [
     "vlag",
@@ -6317,6 +9365,12 @@
     "saoediër",
     "saudisch"
   ],
+  "sauropod": [
+    "brachiosaurus",
+    "brontosaurus",
+    "diplodocus",
+    "sauropode"
+  ],
   "saxophone": [
     "entertainment",
     "jazz",
@@ -6329,6 +9383,16 @@
   "scarf": [
     "nek",
     "sjaal"
+  ],
+  "school": [
+    "gebouw"
+  ],
+  "scientist": [
+    "bioloog",
+    "ingenieur",
+    "natuurkundige",
+    "scheikundige",
+    "wetenschapper"
   ],
   "scissors": [
     "kantoor",
@@ -6369,10 +9433,20 @@
     "angstig schreeuwend gezicht",
     "angst"
   ],
+  "screwdriver": [
+    "schroevendraaier"
+  ],
+  "scroll": [
+    "papierrol",
+    "rol"
+  ],
   "seal": [
     "dier",
     "zeeleeuw",
     "zeehond"
+  ],
+  "seat": [
+    "stoel"
   ],
   "see_no_evil_monkey": [
     "dier",
@@ -6381,7 +9455,12 @@
     "kwaad",
     "geen kwaad zien",
     "zie",
-    "verboden"
+    "verboden",
+    "gebaar",
+    "geen",
+    "niet",
+    "uit den boze",
+    "zien"
   ],
   "seedling": [
     "jong",
@@ -6417,6 +9496,9 @@
     "as­sis­ten­tie­hond",
     "assistentie"
   ],
+  "seven": [
+    "toets"
+  ],
   "seven_o_clock": [
     "tijd",
     "klok",
@@ -6424,7 +9506,10 @@
     "19:00",
     "07:00",
     "7 uur",
-    "7:00"
+    "7:00",
+    "00",
+    "7",
+    "zeven"
   ],
   "seven_thirty": [
     "tijd",
@@ -6433,7 +9518,11 @@
     "7:30",
     "19:30",
     "07:30",
-    "half 8"
+    "half 8",
+    "7",
+    "dertig",
+    "half acht",
+    "zeven"
   ],
   "sewing_needle": [
     "kleermaken",
@@ -6459,7 +9548,9 @@
     "wok"
   ],
   "shamrock": [
-    "klaver"
+    "klaver",
+    "klavertjedrie",
+    "plant"
   ],
   "shark": [
     "dier",
@@ -6494,8 +9585,16 @@
     "japan",
     "shinto-tempel"
   ],
+  "ship": [
+    "boot",
+    "passagier",
+    "schip"
+  ],
   "shooting_star": [
-    "ster"
+    "ster",
+    "vallen",
+    "vallend",
+    "vallende ster"
   ],
   "shopping_bags": [
     "tas",
@@ -6542,6 +9641,12 @@
     "klein",
     "schaaldier"
   ],
+  "shuffle_tracks_button": [
+    "gekruiste pijlen naar rechts",
+    "knop voor shuffle",
+    "pijlen",
+    "shuffle"
+  ],
   "shushing_face": [
     "sst",
     "stil",
@@ -6567,6 +9672,13 @@
     "singaporees",
     "sg"
   ],
+  "singer": [
+    "acteur",
+    "entertainer",
+    "rock",
+    "ster",
+    "zanger"
+  ],
   "sint_maarten": [
     "vlag",
     "sint-maartens",
@@ -6576,6 +9688,9 @@
     "sint-maartenaar",
     "sint maartenaar"
   ],
+  "six": [
+    "toets"
+  ],
   "six_o_clock": [
     "tijd",
     "klok",
@@ -6583,7 +9698,10 @@
     "6:00",
     "6 uur",
     "06:00",
-    "18:00"
+    "18:00",
+    "00",
+    "6",
+    "zes"
   ],
   "six_thirty": [
     "tijd",
@@ -6592,11 +9710,25 @@
     "half 7",
     "06:30",
     "18:30",
-    "6:30"
+    "6:30",
+    "6",
+    "dertig",
+    "half zeven",
+    "zes"
   ],
   "skateboard": [
     "board",
     "deck"
+  ],
+  "skier": [
+    "ski",
+    "skiër",
+    "sneeuw"
+  ],
+  "skis": [
+    "ski",
+    "ski’s",
+    "sneeuw"
   ],
   "skull": [
     "monster",
@@ -6626,7 +9758,13 @@
     "dier",
     "stinkdier",
     "stank",
-    "stinken"
+    "stinken",
+    "stink­dier"
+  ],
+  "sled": [
+    "slede",
+    "slee",
+    "sleetje"
   ],
   "sleeping_face": [
     "slaap",
@@ -6661,6 +9799,10 @@
     "enigszins lachend gezicht",
     ":-)"
   ],
+  "slot_machine": [
+    "fruitautomaat",
+    "spel"
+  ],
   "sloth": [
     "traag",
     "dier",
@@ -6685,6 +9827,21 @@
     "slovenië",
     "sloveens",
     "sloveen"
+  ],
+  "small_airplane": [
+    "vliegmachine",
+    "vliegtuig",
+    "vliegtuigje"
+  ],
+  "small_blue_diamond": [
+    "blauw",
+    "kleine blauwe ruit",
+    "ruit"
+  ],
+  "small_orange_diamond": [
+    "kleine oranje ruit",
+    "oranje",
+    "ruit"
   ],
   "smiley": [
     "haha",
@@ -6734,7 +9891,15 @@
     "lachend gezicht met zonnebril",
     "bril",
     "cool",
-    "zonnig"
+    "zonnig",
+    "glimlach",
+    "lach",
+    "lachen",
+    "lachend",
+    "lachend met zonnebril",
+    "mooi weer",
+    "ogen",
+    "oog"
   ],
   "smiling_face_with_tear": [
     "traan",
@@ -6793,14 +9958,26 @@
     "berg",
     "sneeuw"
   ],
+  "snowboarder": [
+    "ski",
+    "sneeuw",
+    "snowboard"
+  ],
   "snowflake": [
-    "koud"
+    "koud",
+    "sneeuw",
+    "sneeuwvlok"
   ],
   "snowman": [
-    "koud"
+    "koud",
+    "sneeuw",
+    "sneeuwpop"
   ],
   "snowman_without_snow": [
-    "koud"
+    "koud",
+    "sneeuw",
+    "sneeuwpop",
+    "sneeuwpop zonder sneeuwvlokken"
   ],
   "soap": [
     "zeephouder",
@@ -6868,6 +10045,18 @@
     "somalië",
     "so"
   ],
+  "soon_arrow": [
+    "binnenkort",
+    "binnenkort met rechterpijl",
+    "pijl",
+    "soon-pijl"
+  ],
+  "sos_button": [
+    "help",
+    "sos-knop",
+    "sos-symbool",
+    "symbool"
+  ],
   "south_africa": [
     "vlag",
     "za",
@@ -6905,7 +10094,9 @@
     "kaartspel",
     "spel",
     "bridge",
-    "schoppen"
+    "schoppen",
+    "kaarten",
+    "ruiten"
   ],
   "spaghetti": [
     "voedsel",
@@ -6919,6 +10110,11 @@
     "spanje",
     "es",
     "spanjaard"
+  ],
+  "sparkle": [
+    "*",
+    "sprankelen",
+    "sprankeling"
   ],
   "sparkler": [
     "feest",
@@ -6949,7 +10145,23 @@
     "kwaad",
     "geen kwaad spreken",
     "spreken",
-    "verboden"
+    "verboden",
+    "gebaar",
+    "geen",
+    "niet",
+    "uit den boze"
+  ],
+  "speaker_high_volume": [
+    "luid",
+    "speaker luid"
+  ],
+  "speaker_low_volume": [
+    "speaker",
+    "volume"
+  ],
+  "speaker_medium_volume": [
+    "speaker",
+    "speaker aan"
   ],
   "speaking_head": [
     "gezicht",
@@ -6957,7 +10169,9 @@
     "silhouet",
     "sprekend",
     "silhouet van sprekend hoofd",
-    "spreken"
+    "spreken",
+    "praten",
+    "pratend"
   ],
   "speech_balloon": [
     "typen",
@@ -6972,6 +10186,10 @@
     "spraakballon",
     "dialoog",
     "tekst"
+  ],
+  "speedboat": [
+    "boot",
+    "speedboot"
   ],
   "spider": [
     "dier",
@@ -6991,6 +10209,12 @@
     "kalender",
     "kalender met spiraal",
     "blok"
+  ],
+  "spiral_notepad": [
+    "notitie",
+    "schrijfblok",
+    "schrijfblok met spiraal",
+    "spiraal"
   ],
   "spiral_shell": [
     "oceaan",
@@ -7013,7 +10237,14 @@
     "lepel"
   ],
   "sport_utility_vehicle": [
-    "auto"
+    "auto",
+    "kampeerauto",
+    "suv",
+    "voertuig"
+  ],
+  "sports_medal": [
+    "medaille",
+    "sportmedaille"
   ],
   "spouting_whale": [
     "oceaan",
@@ -7074,6 +10305,9 @@
     "lc",
     "saint luciaans"
   ],
+  "st_martin": [
+    "vlag"
+  ],
   "st_pierre_miquelon": [
     "vlag",
     "miquelon",
@@ -7094,6 +10328,22 @@
     "sportstadion"
   ],
   "star": [
+    "ster",
+    "witte middelgrote ster"
+  ],
+  "star_and_crescent": [
+    "islam",
+    "moslim",
+    "religie",
+    "wassende maan en ster"
+  ],
+  "star_of_david": [
+    "david",
+    "davidster",
+    "jodendom",
+    "jodenster",
+    "joods",
+    "religie",
     "ster"
   ],
   "star_struck": [
@@ -7103,6 +10353,11 @@
     "ogen",
     "grijnzend",
     "sterren"
+  ],
+  "station": [
+    "spoor",
+    "trein",
+    "treinstation"
   ],
   "statue_of_liberty": [
     "verenigde staten",
@@ -7125,7 +10380,14 @@
     "stethoscoop",
     "dokter",
     "geneeskunde",
-    "arts"
+    "arts",
+    "medicijnen",
+    "ste­tho­scoop"
+  ],
+  "stop_button": [
+    "knop voor stoppen",
+    "stoppen",
+    "vierkant"
   ],
   "stop_sign": [
     "stopteken",
@@ -7133,6 +10395,9 @@
     "achthoekig",
     "verkeersteken",
     "stop"
+  ],
+  "stopwatch": [
+    "klok"
   ],
   "straight_ruler": [
     "geometrie",
@@ -7145,6 +10410,15 @@
     "gezond",
     "aardbei",
     "bes"
+  ],
+  "student": [
+    "scholier"
+  ],
+  "studio_microphone": [
+    "microfoon",
+    "muziek",
+    "studio",
+    "studiomicrofoon"
   ],
   "stuffed_flatbread": [
     "voedsel",
@@ -7163,6 +10437,39 @@
     "sudanees",
     "soedanees"
   ],
+  "sun": [
+    "helder",
+    "stralen",
+    "zon",
+    "zonnig"
+  ],
+  "sun_behind_cloud": [
+    "wolk",
+    "zon",
+    "zon achter wolk"
+  ],
+  "sun_behind_large_cloud": [
+    "wolk",
+    "zon",
+    "zon achter grote wolk"
+  ],
+  "sun_behind_rain_cloud": [
+    "regen",
+    "wolk",
+    "zon",
+    "zon achter regenwolk"
+  ],
+  "sun_behind_small_cloud": [
+    "wolk",
+    "zon",
+    "zon achter kleine wolk"
+  ],
+  "sun_with_face": [
+    "gezicht",
+    "helder",
+    "zon",
+    "zon met gezicht"
+  ],
   "sunflower": [
     "bloem",
     "zon",
@@ -7176,12 +10483,37 @@
     "brillen",
     "donker"
   ],
+  "sunrise": [
+    "ochtend",
+    "zon",
+    "zonsopgang"
+  ],
   "sunrise_over_mountains": [
     "zon",
     "zonsopgang in de bergen",
     "zonsopgang",
     "ochtend",
     "berg"
+  ],
+  "sunset": [
+    "gebouw",
+    "schemer",
+    "zon",
+    "zonsondergang"
+  ],
+  "superhero": [
+    "goed",
+    "held",
+    "heldin",
+    "superheld",
+    "superkrachten"
+  ],
+  "supervillain": [
+    "boef",
+    "crimineel",
+    "slecht",
+    "superkrachten",
+    "superschurk"
   ],
   "suriname": [
     "vlag",
@@ -7194,6 +10526,14 @@
     "aziatisch",
     "rijst",
     "japan"
+  ],
+  "suspension_railway": [
+    "spoor",
+    "zweeftrein",
+    "zwevend"
+  ],
+  "svalbard_jan_mayen": [
+    "vlag"
   ],
   "swan": [
     "dier",
@@ -7265,13 +10605,21 @@
     "geneeskunde",
     "vaccin",
     "medisch",
-    "entstof"
+    "entstof",
+    "medicijn"
+  ],
+  "t_rex": [
+    "t-rex",
+    "tyrannosaurus rex"
   ],
   "t_shirt": [
     "kleding",
     "shirt",
     "t-shirt",
     "tshirt"
+  ],
+  "taco": [
+    "mexicaans"
   ],
   "tada": [
     "viering",
@@ -7281,7 +10629,8 @@
     "gefeliciteerd",
     "hoera",
     "feestknaller",
-    "knaller"
+    "knaller",
+    "popper"
   ],
   "taiwan": [
     "vlag",
@@ -7299,6 +10648,10 @@
   "takeout_box": [
     "afhaalmaaltijd",
     "oesteremmer"
+  ],
+  "tamale": [
+    "gevuld",
+    "mexicaans"
   ],
   "tanabata_tree": [
     "feest",
@@ -7328,6 +10681,14 @@
     "stier",
     "stier (sterrenbeeld)"
   ],
+  "taxi": [
+    "voertuig"
+  ],
+  "teacher": [
+    "docent",
+    "leraar",
+    "professor"
+  ],
   "teacup_without_handle": [
     "drinken",
     "drankje",
@@ -7341,6 +10702,17 @@
     "theepot",
     "pot",
     "thee"
+  ],
+  "tear_off_calendar": [
+    "kalender",
+    "scheurkalender"
+  ],
+  "technologist": [
+    "ontwikkelaar",
+    "programmeur",
+    "techneut",
+    "technoloog",
+    "uitvinder"
   ],
   "teddy_bear": [
     "speelgoed",
@@ -7359,13 +10731,28 @@
     "telefoonhoorn",
     "hoorn"
   ],
+  "telescope": [
+    "gereedschap",
+    "telescoop"
+  ],
+  "television": [
+    "beeld",
+    "televisie",
+    "tv"
+  ],
+  "ten": [
+    "toets"
+  ],
   "ten_o_clock": [
     "tijd",
     "klok",
     "uur",
     "10 uur",
     "22:00",
-    "10:00"
+    "10:00",
+    "00",
+    "10",
+    "tien"
   ],
   "ten_thirty": [
     "tijd",
@@ -7373,12 +10760,19 @@
     "uur",
     "half 11",
     "22:30",
-    "10:30"
+    "10:30",
+    "10",
+    "dertig",
+    "half elf",
+    "tien"
   ],
   "tennis": [
     "bal",
     "sport",
     "tennisracket"
+  ],
+  "tent": [
+    "kamperen"
   ],
   "test_tube": [
     "experiment",
@@ -7397,6 +10791,9 @@
     "thais",
     "thai",
     "th"
+  ],
+  "thermometer": [
+    "weer"
   ],
   "thinking": [
     "gezicht",
@@ -7435,6 +10832,9 @@
     "garen",
     "draad"
   ],
+  "three": [
+    "toets"
+  ],
   "three_o_clock": [
     "tijd",
     "klok",
@@ -7442,7 +10842,10 @@
     "uur",
     "15:00",
     "03:00",
-    "3:00"
+    "3:00",
+    "00",
+    "3",
+    "drie"
   ],
   "three_thirty": [
     "tijd",
@@ -7451,7 +10854,14 @@
     "15:30",
     "3:30",
     "03:30",
-    "half 4"
+    "half 4",
+    "3",
+    "dertig",
+    "drie",
+    "half vier"
+  ],
+  "ticket": [
+    "entree"
   ],
   "tiger": [
     "dier",
@@ -7462,6 +10872,11 @@
     "gezicht",
     "tijger",
     "tijgergezicht"
+  ],
+  "timer_clock": [
+    "keukenwekker",
+    "klok",
+    "timer"
   ],
   "timor_leste": [
     "vlag",
@@ -7520,6 +10935,12 @@
     "likken",
     "lik"
   ],
+  "toolbox": [
+    "gereedschap",
+    "gereedschapskist",
+    "kist",
+    "monteur"
+  ],
   "tooth": [
     "tand",
     "tandarts",
@@ -7534,6 +10955,12 @@
     "tanden",
     "hygiëne"
   ],
+  "top_arrow": [
+    "omhoog",
+    "omhoog met pijl-omhoog",
+    "pijl-omhoog",
+    "top-pijl"
+  ],
   "top_hat": [
     "rijk",
     "hoed",
@@ -7541,8 +10968,33 @@
     "hoge hoed",
     "hoog"
   ],
+  "tornado": [
+    "wervelwind",
+    "wolk"
+  ],
   "trackball": [
     "computer"
+  ],
+  "tractor": [
+    "voertuig"
+  ],
+  "trade_mark": [
+    "handelsmerk",
+    "handelsmerksymbool",
+    "symbool"
+  ],
+  "train": [
+    "spoor",
+    "trein"
+  ],
+  "tram": [
+    "trolleybus"
+  ],
+  "tram_car": [
+    "tram",
+    "tramwagon",
+    "trolleybus",
+    "wagon"
   ],
   "transgender_flag": [
     "vlag",
@@ -7569,7 +11021,9 @@
     "vlag",
     "rode vlag",
     "driehoekige vlag",
-    "locatie"
+    "locatie",
+    "driehoekige locatievlag",
+    "locatie-informatievlag"
   ],
   "triangular_ruler": [
     "geometrie",
@@ -7579,6 +11033,12 @@
     "geo",
     "driehoek"
   ],
+  "trident_emblem": [
+    "anker",
+    "drietand",
+    "drietand-symbool",
+    "embleem"
+  ],
   "trinidad_tobago": [
     "vlag",
     "tobago",
@@ -7587,6 +11047,18 @@
     "trinidad en tobago",
     "trinidadiaan",
     "trinidad"
+  ],
+  "tristan_da_cunha": [
+    "vlag"
+  ],
+  "trolleybus": [
+    "bus",
+    "tram",
+    "trolley"
+  ],
+  "trophy": [
+    "prijs",
+    "trofee"
   ],
   "tropical_drink": [
     "aperitief",
@@ -7603,6 +11075,12 @@
     "tropische vis",
     "tropisch",
     "vis"
+  ],
+  "trumpet": [
+    "instrument",
+    "muziek",
+    "muziekinstrument",
+    "trompet"
   ],
   "tulip": [
     "bloem",
@@ -7666,7 +11144,10 @@
     "0:00",
     "12:00",
     "12 uur",
-    "00:00"
+    "00:00",
+    "00",
+    "12",
+    "twaalf"
   ],
   "twelve_thirty": [
     "half 1",
@@ -7675,7 +11156,15 @@
     "uur",
     "0:30",
     "00:30",
-    "12:30"
+    "12:30",
+    "12",
+    "30",
+    "dertig",
+    "half één",
+    "twaalf"
+  ],
+  "two": [
+    "toets"
   ],
   "two_hearts": [
     "verliefd",
@@ -7696,7 +11185,10 @@
     "uur",
     "14:00",
     "02:00",
-    "2 uur"
+    "2 uur",
+    "00",
+    "2",
+    "twee"
   ],
   "two_thirty": [
     "tijd",
@@ -7705,7 +11197,11 @@
     "2:30",
     "02:30",
     "14:30",
-    "half 3"
+    "half 3",
+    "2",
+    "dertig",
+    "half drie",
+    "twee"
   ],
   "türkiye": [
     "vlag",
@@ -7727,6 +11223,24 @@
     "oekraïner",
     "oekraïens",
     "ua"
+  ],
+  "umbrella": [
+    "kleding",
+    "paraplu",
+    "regen"
+  ],
+  "umbrella_on_ground": [
+    "parasol",
+    "regen",
+    "strandparasol",
+    "zon"
+  ],
+  "umbrella_with_rain_drops": [
+    "druppels",
+    "kleding",
+    "paraplu",
+    "paraplu met regendruppels",
+    "regen"
   ],
   "unamused_face": [
     "gezicht",
@@ -7782,7 +11296,35 @@
     "openen",
     "open",
     "geopend hangslot",
-    "geopend"
+    "geopend",
+    "hangslot"
+  ],
+  "up_arrow": [
+    "noord",
+    "pijl",
+    "pijl omhoog",
+    "richting"
+  ],
+  "up_button": [
+    "omhoog-symbool",
+    "symbool",
+    "up!-knop"
+  ],
+  "up_down_arrow": [
+    "pijl",
+    "pijl omhoog en omlaag"
+  ],
+  "up_left_arrow": [
+    "linksboven",
+    "linksomhoog",
+    "noordwest",
+    "pijl"
+  ],
+  "up_right_arrow": [
+    "noordoost",
+    "pijl",
+    "rechtsboven",
+    "rechtsomhoog"
   ],
   "upside_down_face": [
     "grappig",
@@ -7794,11 +11336,20 @@
     "ondersteboven",
     "op de kop"
   ],
+  "upwards_button": [
+    "driehoek",
+    "knop voor omhoog",
+    "omhoog",
+    "pijl"
+  ],
   "uruguay": [
     "vlag",
     "uruguayaan",
     "uy",
     "uruguayaans"
+  ],
+  "us_outlying_islands": [
+    "vlag"
   ],
   "us_virgin_islands": [
     "vlag",
@@ -7814,6 +11365,11 @@
     "oezbeeks",
     "oezbekistan",
     "oezbeek"
+  ],
+  "vampire": [
+    "dracula",
+    "ondode",
+    "vampier"
   ],
   "vanuatu": [
     "vlag",
@@ -7846,6 +11402,13 @@
     "stoplicht",
     "verkeerslicht"
   ],
+  "vibration_mode": [
+    "mobiel",
+    "mobiele telefoon",
+    "modus",
+    "telefoon",
+    "trilstand"
+  ],
   "victory_hand": [
     "hand",
     "vingers",
@@ -7858,10 +11421,33 @@
     "v",
     "winnende hand"
   ],
+  "video_camera": [
+    "camera",
+    "video",
+    "videocamera"
+  ],
+  "video_game": [
+    "controller",
+    "game",
+    "gamecontroller",
+    "videogame"
+  ],
+  "videocassette": [
+    "band",
+    "vhs",
+    "video",
+    "videoband"
+  ],
   "vietnam": [
     "vlag",
     "vietnamees",
     "vn"
+  ],
+  "violin": [
+    "instrument",
+    "muziek",
+    "muziekinstrument",
+    "viool"
   ],
   "virgo": [
     "zodiac",
@@ -7882,6 +11468,12 @@
     "volleybal",
     "wedstrijd"
   ],
+  "vs_button": [
+    "symbool",
+    "vs",
+    "vs-knop",
+    "vs-symbool"
+  ],
   "vulcan_salute": [
     "hand",
     "hallo",
@@ -7892,7 +11484,8 @@
     "vulcaans",
     "vulcan",
     "spock",
-    "vulcaanse groet"
+    "vulcaanse groet",
+    "lichaam"
   ],
   "waffle": [
     "ijzer",
@@ -7918,12 +11511,25 @@
     "wallis",
     "futuna"
   ],
+  "waning_crescent_moon": [
+    "afnemend",
+    "asgrauwe maan",
+    "maan",
+    "sikkel"
+  ],
+  "waning_gibbous_moon": [
+    "afnemend",
+    "afnemende maan",
+    "bolvormig",
+    "maan"
+  ],
   "warning": [
     "kijk uit",
     "gevaar",
     "ongeluk",
     "gevaarlijk",
-    "waarschuwing"
+    "waarschuwing",
+    "symbool"
   ],
   "wastebasket": [
     "kantoor",
@@ -7950,6 +11556,10 @@
     "waterbuffel",
     "water"
   ],
+  "water_closet": [
+    "toilet",
+    "wc"
+  ],
   "water_pistol": [
     "wapen",
     "schieten",
@@ -7971,6 +11581,23 @@
     "zwaaiende hand",
     "zwaaien",
     "zwaai"
+  ],
+  "wavy_dash": [
+    "golvend",
+    "lang geluid",
+    "streepje"
+  ],
+  "waxing_crescent_moon": [
+    "jonge maansikkel",
+    "maan",
+    "sikkel",
+    "wassend"
+  ],
+  "waxing_gibbous_moon": [
+    "bolvormig",
+    "maan",
+    "wassend",
+    "wassende maan"
   ],
   "weary_cat": [
     "kat",
@@ -8010,14 +11637,45 @@
     "wiel",
     "band"
   ],
+  "wheel_of_dharma": [
+    "boeddhist",
+    "dharma",
+    "religie",
+    "wiel",
+    "wiel van dharma"
+  ],
+  "wheelchair_symbol": [
+    "rolstoel",
+    "rolstoelsymbool",
+    "symbool",
+    "toegang"
+  ],
+  "white_cane": [
+    "blind",
+    "taststok",
+    "toegankelijkheid"
+  ],
   "white_check_mark": [
     "vink",
-    "vinkje"
+    "vinkje",
+    "✓",
+    "knop",
+    "knop voor vinkje",
+    "teken"
   ],
   "white_circle": [
     "cirkel",
     "wit",
-    "witte cirkel"
+    "witte cirkel",
+    "grote witte cirkel"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "contour",
+    "interpunctie",
+    "teken",
+    "uitroep",
+    "wit uitroepteken"
   ],
   "white_flag": [
     "vlag",
@@ -8042,7 +11700,8 @@
     "wit vierkant",
     "vierkant",
     "groot wit vierkant",
-    "groot vierkant"
+    "groot vierkant",
+    "groot"
   ],
   "white_medium_small_square": [
     "vierkantje",
@@ -8053,14 +11712,24 @@
     "redelijk klein wit vierkant",
     "redelijk klein vierkant",
     "wit vierkantje",
-    "klein tot middelgroot wit vierkant"
+    "klein tot middelgroot wit vierkant",
+    "redelijk klein"
   ],
   "white_medium_square": [
     "wit",
     "wit vierkant",
     "vierkant",
     "middelgroot wit vierkant",
-    "middelgroot vierkant"
+    "middelgroot vierkant",
+    "middelgroot"
+  ],
+  "white_question_mark": [
+    "?",
+    "contour",
+    "interpunctie",
+    "teken",
+    "vraag",
+    "wit vraagteken"
   ],
   "white_small_square": [
     "vierkantje",
@@ -8069,7 +11738,13 @@
     "vierkant",
     "klein wit vierkant",
     "klein vierkant",
-    "wit vierkantje"
+    "wit vierkantje",
+    "klein"
+  ],
+  "white_square_button": [
+    "knop",
+    "vierkant",
+    "witte vierkante knop"
   ],
   "wilted_flower": [
     "bloem",
@@ -8083,6 +11758,13 @@
     "windorgel",
     "wind",
     "klokkenspel"
+  ],
+  "wind_face": [
+    "blazen",
+    "gezicht",
+    "gezicht dat wind blaast",
+    "wind",
+    "wolk"
   ],
   "window": [
     "frisse lucht",
@@ -8130,6 +11812,65 @@
     "vrouw",
     "persoon"
   ],
+  "woman_and_man_holding_hands": [
+    "hand",
+    "hand in hand",
+    "man",
+    "man en vrouw hand in hand",
+    "stel",
+    "vasthouden",
+    "vrouw"
+  ],
+  "woman_artist": [
+    "kunstenares",
+    "palet",
+    "vrouw"
+  ],
+  "woman_astronaut": [
+    "astronaute",
+    "raket",
+    "vrouw"
+  ],
+  "woman_bald": [
+    "kaal",
+    "vrouw"
+  ],
+  "woman_biking": [
+    "fiets",
+    "fietsen",
+    "fietsende vrouw",
+    "vrouw",
+    "wielrenner"
+  ],
+  "woman_bouncing_ball": [
+    "bal",
+    "basketbalster",
+    "vrouw"
+  ],
+  "woman_bowing": [
+    "buigen",
+    "buigende vrouw",
+    "excuses",
+    "gebaar",
+    "gunst",
+    "sorry",
+    "vrouw"
+  ],
+  "woman_cartwheeling": [
+    "gymnastiek",
+    "radslag",
+    "vrouw",
+    "vrouw die een radslag doet"
+  ],
+  "woman_climbing": [
+    "klimmende vrouw",
+    "klimmer"
+  ],
+  "woman_cook": [
+    "chef-kok",
+    "kokkin",
+    "vrouw"
+  ],
   "woman_curly_hair": [
     "vrouw",
     "persoon",
@@ -8138,14 +11879,244 @@
     "meisje",
     "vrouwelijk",
     "gekruld",
-    "dame"
+    "dame",
+    "krullend haar"
+  ],
+  "woman_dancing": [
+    "dansen",
+    "dansende vrouw",
+    "vrouw"
   ],
   "woman_detective": [
     "detective",
-    "spion"
+    "spion",
+    "speurder",
+    "spionne",
+    "vrouw",
+    "vrouwelijke detective"
+  ],
+  "woman_elf": [
+    "magisch",
+    "vrouwelijke elf"
+  ],
+  "woman_facepalming": [
+    "ergernis",
+    "facepalm",
+    "ongeloof",
+    "vrouw",
+    "vrouw die het gezicht met de hand bedekt"
+  ],
+  "woman_factory_worker": [
+    "arbeidster",
+    "fabriek",
+    "fabrieksarbeidster",
+    "industrieel",
+    "lopende band",
+    "vrouw"
+  ],
+  "woman_fairy": [
+    "titania",
+    "vrouwelijk elfje"
+  ],
+  "woman_farmer": [
+    "boerin",
+    "tuinder",
+    "veehouder",
+    "vrouw"
+  ],
+  "woman_feeding_baby": [
+    "baby",
+    "borstvoeding",
+    "voeding",
+    "vrouw",
+    "vrouw die een baby voedt"
+  ],
+  "woman_firefighter": [
+    "brandweervrouw",
+    "brandweerwagen",
+    "vrouw"
+  ],
+  "woman_frowning": [
+    "frons",
+    "fronsende vrouw",
+    "uitdrukking",
+    "vrouw"
+  ],
+  "woman_genie": [
+    "djinn",
+    "vrouwelijke geest in de fles"
+  ],
+  "woman_gesturing_no": [
+    "gebaar",
+    "hand",
+    "illegaal",
+    "nee",
+    "verboden",
+    "vrouw",
+    "vrouw die nee-gebaar maakt"
+  ],
+  "woman_gesturing_ok": [
+    "gebaar",
+    "hand",
+    "ok",
+    "vrouw",
+    "vrouw die ok-gebaar maakt"
+  ],
+  "woman_getting_haircut": [
+    "kapsel",
+    "vrouw",
+    "vrouw die wordt geknipt"
+  ],
+  "woman_getting_massage": [
+    "gezicht",
+    "massage",
+    "vrouw",
+    "vrouw die hoofdmassage krijgt"
+  ],
+  "woman_golfing": [
+    "golfen",
+    "golfende vrouw",
+    "vrouw"
+  ],
+  "woman_guard": [
+    "vrouw",
+    "vrouwelijke wachter",
+    "wachter"
+  ],
+  "woman_health_worker": [
+    "dokter",
+    "gezondheidsmedewerkster",
+    "gezondheidszorg",
+    "therapeute",
+    "verpleegster",
+    "vrouw"
+  ],
+  "woman_in_lotus_position": [
+    "meditatie",
+    "vrouw in lotushouding",
+    "yoga"
+  ],
+  "woman_in_manual_wheelchair": [
+    "rolstoel",
+    "toegankelijkheid",
+    "vrouw",
+    "vrouw in rolstoel"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "rolstoel",
+    "toegankelijkheid",
+    "vrouw",
+    "vrouw in elektrische rolstoel"
+  ],
+  "woman_in_steamy_room": [
+    "sauna",
+    "stoomruimte",
+    "vrouw in ruimte vol stoom"
+  ],
+  "woman_in_tuxedo": [
+    "smoking",
+    "vrouw",
+    "vrouw in smoking"
+  ],
+  "woman_judge": [
+    "rechter",
+    "vrouw",
+    "vrouwelijke rechter"
+  ],
+  "woman_juggling": [
+    "jongleren",
+    "multitasken",
+    "vrouw",
+    "vrouw die jongleert"
+  ],
+  "woman_kneeling": [
+    "knielend",
+    "knielende vrouw",
+    "vrouw"
+  ],
+  "woman_lifting_weights": [
+    "gewichtheffen",
+    "vrouw",
+    "vrouwelijke gewichtheffer"
+  ],
+  "woman_mage": [
+    "heks",
+    "tovenares",
+    "vrouwelijke magiër"
+  ],
+  "woman_mechanic": [
+    "elektricien",
+    "handelsvrouw",
+    "loodgieter",
+    "monteuse",
+    "vrouw"
+  ],
+  "woman_mountain_biking": [
+    "berg",
+    "biken",
+    "fiets",
+    "fietsen",
+    "fietser",
+    "vrouw",
+    "vrouw op mountainbike"
+  ],
+  "woman_office_worker": [
+    "architecte",
+    "bedrijf",
+    "kantoor",
+    "kantoormedewerkster",
+    "manager",
+    "vrouw"
+  ],
+  "woman_pilot": [
+    "pilote",
+    "vliegtuig",
+    "vrouw"
+  ],
+  "woman_playing_handball": [
+    "handballen",
+    "vrouw",
+    "vrouw die handbal speelt"
+  ],
+  "woman_playing_water_polo": [
+    "vrouw",
+    "vrouw die waterpolo speelt",
+    "waterpolo"
   ],
   "woman_police_officer": [
-    "politie"
+    "politie",
+    "agent",
+    "politievrouw",
+    "vrouw"
+  ],
+  "woman_pouting": [
+    "pruilen",
+    "pruilende vrouw",
+    "uitdrukking",
+    "vrouw"
+  ],
+  "woman_raising_hand": [
+    "gebaar",
+    "hand opsteken",
+    "vrouw",
+    "vrouw met opgeheven hand"
+  ],
+  "woman_red_hair": [
+    "rood haar",
+    "vrouw"
+  ],
+  "woman_rowing_boat": [
+    "boot",
+    "roeiboot",
+    "vrouw",
+    "vrouw in roeiboot"
+  ],
+  "woman_running": [
+    "hardlopen",
+    "marathon",
+    "rennen",
+    "rennende vrouw",
+    "vrouw"
   ],
   "woman_s_boot": [
     "vrouw",
@@ -8173,6 +12144,152 @@
     "kleding",
     "sandaal",
     "damessandaal"
+  ],
+  "woman_scientist": [
+    "biologe",
+    "ingenieur",
+    "natuurkundige",
+    "scheikundige",
+    "vrouw",
+    "wetenschapster",
+    "wiskundige"
+  ],
+  "woman_shrugging": [
+    "onverschilligheid",
+    "onwetendheid",
+    "schouderophalen",
+    "twijfel",
+    "vrouw",
+    "vrouw die schouders ophaalt"
+  ],
+  "woman_singer": [
+    "actrice",
+    "entertainer",
+    "rock",
+    "ster",
+    "vrouw",
+    "zangeres"
+  ],
+  "woman_standing": [
+    "staand",
+    "staande vrouw",
+    "vrouw"
+  ],
+  "woman_student": [
+    "meisje",
+    "scholiere",
+    "studente",
+    "vrouw"
+  ],
+  "woman_superhero": [
+    "goed",
+    "held",
+    "heldin",
+    "superkrachten",
+    "vrouw",
+    "vrouwelijke superheld"
+  ],
+  "woman_supervillain": [
+    "boef",
+    "crimineel",
+    "slecht",
+    "superkrachten",
+    "vrouw",
+    "vrouwelijke superschurk"
+  ],
+  "woman_surfing": [
+    "surfen",
+    "vrouw",
+    "vrouwelijke surfer"
+  ],
+  "woman_swimming": [
+    "vrouw",
+    "zwemmen",
+    "zwemmende vrouw"
+  ],
+  "woman_teacher": [
+    "docente",
+    "juf",
+    "lerares",
+    "professor"
+  ],
+  "woman_technologist": [
+    "ontwikkelaar",
+    "programmeur",
+    "techneut",
+    "technologe",
+    "vrouw"
+  ],
+  "woman_tipping_hand": [
+    "brutaal",
+    "pols knikken",
+    "vrouw",
+    "vrouw achter informatiebalie"
+  ],
+  "woman_vampire": [
+    "ondode",
+    "vrouwelijke vampier"
+  ],
+  "woman_walking": [
+    "lopen",
+    "vrouw",
+    "wandelen",
+    "wandelende vrouw"
+  ],
+  "woman_wearing_turban": [
+    "tulband",
+    "vrouw",
+    "vrouw met tulband"
+  ],
+  "woman_white_hair": [
+    "vrouw",
+    "wit haar"
+  ],
+  "woman_with_headscarf": [
+    "hidjab",
+    "hoofddoek",
+    "mantilla",
+    "vrouw met hoofddoek"
+  ],
+  "woman_with_veil": [
+    "sluier",
+    "vrouw",
+    "vrouw met sluier"
+  ],
+  "woman_with_white_cane": [
+    "blind",
+    "toegankelijkheid",
+    "vrouw",
+    "vrouw met taststok"
+  ],
+  "woman_zombie": [
+    "lopende dode",
+    "ondode",
+    "vrouwelijke zombie"
+  ],
+  "women_holding_hands": [
+    "hand",
+    "hand in hand",
+    "stel",
+    "vrouwen",
+    "vrouwen hand in hand"
+  ],
+  "women_s_room": [
+    "dames-wc",
+    "damestoilet",
+    "symbool"
+  ],
+  "women_with_bunny_ears": [
+    "danser",
+    "feesten",
+    "konijnenoor",
+    "vrouwen",
+    "vrouwen met konijnenoren"
+  ],
+  "women_wrestling": [
+    "vrouwen",
+    "worstelen",
+    "worstelende vrouwen"
   ],
   "wood": [
     "balk",
@@ -8214,6 +12331,10 @@
     "verpakking",
     "ingepakt",
     "cadeautje"
+  ],
+  "wrench": [
+    "gereedschap",
+    "moersleutel"
   ],
   "writing_hand": [
     "hand",
@@ -8274,6 +12395,14 @@
     "yenbiljet",
     "yen"
   ],
+  "yin_yang": [
+    "religie",
+    "tao",
+    "taoïst",
+    "yang",
+    "yin",
+    "yin en yang"
+  ],
   "yoyo": [
     "speelgoed",
     "jojo",
@@ -8298,6 +12427,9 @@
     "strepen",
     "streep"
   ],
+  "zero": [
+    "toets"
+  ],
   "zimbabwe": [
     "vlag",
     "zw",
@@ -8309,6 +12441,10 @@
     "mond",
     "rits",
     "gezicht met een rits als mond"
+  ],
+  "zombie": [
+    "lopende dode",
+    "ondode"
   ],
   "zzz": [
     "moe",

@@ -1,0 +1,9511 @@
+{
+  "+1": [
+    "augšup",
+    "augšupvērsts īkšķis",
+    "īkšķis",
+    "ķermenis",
+    "patīk",
+    "roka"
+  ],
+  "-1": [
+    "īkšķis",
+    "ķermenis",
+    "lejup",
+    "lejupvērsts īkšķis",
+    "nepatīk",
+    "roka"
+  ],
+  "100": [
+    "simt",
+    "simt punktu",
+    "simts"
+  ],
+  "1234": [
+    "cipari",
+    "ievade"
+  ],
+  "1st_place_medal": [
+    "medaļa",
+    "medaļa par 1. vietu",
+    "pirmā",
+    "zelta"
+  ],
+  "2nd_place_medal": [
+    "medaļa",
+    "medaļa par 2. vietu",
+    "otrā",
+    "sudraba"
+  ],
+  "3rd_place_medal": [
+    "bronzas",
+    "medaļa",
+    "medaļa par 3. vietu",
+    "trešā"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "a poga (asinsgrupa)",
+    "asinsgrupa",
+    "poga a"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "ab poga (asinsgrupa)",
+    "asinsgrupa",
+    "poga ab"
+  ],
+  "abacus": [
+    "skaitīkļi",
+    "skaitīšana"
+  ],
+  "accordion": [
+    "akordeons",
+    "koncertīna",
+    "rokas armoņikas"
+  ],
+  "adhesive_bandage": [
+    "plāksteris"
+  ],
+  "admission_tickets": [
+    "biļete",
+    "ieeja",
+    "ieejas biļetes"
+  ],
+  "aerial_tramway": [
+    "gaisa tramvajs",
+    "gondola",
+    "kalns",
+    "transports",
+    "trose"
+  ],
+  "afghanistan": [
+    "karogs"
+  ],
+  "airplane": [
+    "lidmašīna",
+    "transports"
+  ],
+  "airplane_arrival": [
+    "atlidot",
+    "lidmašīna",
+    "lidmašīnas nosēšanās",
+    "nosēsties",
+    "transports"
+  ],
+  "airplane_departure": [
+    "aizlidot",
+    "lidmašīna",
+    "lidmašīnas pacelšanās",
+    "pacelties",
+    "transports"
+  ],
+  "alarm_clock": [
+    "modināt",
+    "modinātājpulkstenis",
+    "pulkstenis"
+  ],
+  "albania": [
+    "karogs"
+  ],
+  "alembic": [
+    "destilēšanas aparāts",
+    "ķīmija",
+    "mēģene"
+  ],
+  "algeria": [
+    "karogs"
+  ],
+  "alien": [
+    "briesmonis",
+    "citplanētietis",
+    "kosmoss",
+    "nlo",
+    "visums"
+  ],
+  "alien_monster": [
+    "briesmonis",
+    "citplanētiešu briesmonis",
+    "citplanētietis",
+    "kosmoss",
+    "nlo",
+    "visums"
+  ],
+  "ambulance": [
+    "ārsts",
+    "ātrās palīdzības mašīna",
+    "medicīna",
+    "transports"
+  ],
+  "american_football": [
+    "amerikāņu futbola bumba",
+    "amerikāņu futbols",
+    "bumba",
+    "sports"
+  ],
+  "american_samoa": [
+    "karogs"
+  ],
+  "amphora": [
+    "amfora",
+    "dzert",
+    "trauks",
+    "ūdensvīrs",
+    "zodiaks"
+  ],
+  "anatomical_heart": [
+    "centrs",
+    "cilvēka sirds",
+    "kardioloģija",
+    "orgāns",
+    "pulss",
+    "sirdspuksti"
+  ],
+  "anchor": [
+    "enkurs",
+    "kuģis"
+  ],
+  "andorra": [
+    "karogs"
+  ],
+  "anger_symbol": [
+    "dusmīgs",
+    "dusmu simbols"
+  ],
+  "angola": [
+    "karogs"
+  ],
+  "angry": [
+    "dusmīga seja",
+    "dusmīgs",
+    "seja"
+  ],
+  "angry_face_with_horns": [
+    "dēmons",
+    "seja",
+    "velniņš",
+    "velns"
+  ],
+  "anguilla": [
+    "karogs"
+  ],
+  "anguished_face": [
+    "pārsteigt",
+    "sāpes",
+    "sāpināt",
+    "sāpjpilna seja",
+    "seja"
+  ],
+  "ant": [
+    "kukainis",
+    "skudra"
+  ],
+  "antarctica": [
+    "karogs"
+  ],
+  "antenna_bars": [
+    "antena",
+    "mobilais",
+    "signāla stipruma joslas",
+    "signāls",
+    "stiprums",
+    "tālrunis",
+    "telefons"
+  ],
+  "antigua_barbuda": [
+    "karogs"
+  ],
+  "anxious_face_with_sweat": [
+    "atvērts",
+    "auksts",
+    "mute",
+    "seja",
+    "seja ar atvērtu muti un aukstiem sviedriem",
+    "sviedri",
+    "zils"
+  ],
+  "aquarius": [
+    "ūdensvīrs",
+    "zodiaka zīme ūdensvīrs",
+    "zodiaks"
+  ],
+  "argentina": [
+    "karogs"
+  ],
+  "aries": [
+    "auns",
+    "zodiaka zīme auns",
+    "zodiaks"
+  ],
+  "armenia": [
+    "karogs"
+  ],
+  "articulated_lorry": [
+    "automašīna",
+    "krava",
+    "mašīna",
+    "smagā automašīna",
+    "transports"
+  ],
+  "artist": [
+    "mākslinieks",
+    "palete",
+    "vīrietis mākslinieks"
+  ],
+  "artist_palette": [
+    "glezna",
+    "gleznotāja palete",
+    "māksla",
+    "palete"
+  ],
+  "aruba": [
+    "karogs"
+  ],
+  "ascension_island": [
+    "karogs"
+  ],
+  "asterisk": [
+    "taustiņš"
+  ],
+  "astonished_face": [
+    "pārsteigts",
+    "seja",
+    "šokēta seja",
+    "šokēts"
+  ],
+  "astronaut": [
+    "astronauts",
+    "raķete",
+    "vīrietis astronauts"
+  ],
+  "atm_sign": [
+    "atm",
+    "bankomāta zīme",
+    "bankomāts",
+    "nauda"
+  ],
+  "atom_symbol": [
+    "ateisms",
+    "atoma simbols",
+    "atoms"
+  ],
+  "australia": [
+    "karogs"
+  ],
+  "austria": [
+    "karogs"
+  ],
+  "auto_rickshaw": [
+    "autorikša",
+    "tuktuks"
+  ],
+  "automobile": [
+    "automašīna",
+    "mašīna",
+    "transports"
+  ],
+  "avocado": [
+    "auglis",
+    "avokado",
+    "pārtika"
+  ],
+  "axe": [
+    "cirvis",
+    "koks",
+    "skaida",
+    "skaldīt"
+  ],
+  "azerbaijan": [
+    "karogs"
+  ],
+  "b_button_blood_type": [
+    "asinsgrupa",
+    "b",
+    "b poga (asinsgrupa)",
+    "poga b"
+  ],
+  "baby": [
+    "bērns",
+    "mazulis",
+    "seja",
+    "zīdainis"
+  ],
+  "baby_angel": [
+    "eņģelis",
+    "fantāzija",
+    "mazs eņģelītis",
+    "mazulis",
+    "pasaka",
+    "seja"
+  ],
+  "baby_bottle": [
+    "bērna pudelīte",
+    "bērns",
+    "dzert",
+    "piens",
+    "pudele",
+    "zīdainis"
+  ],
+  "baby_chick": [
+    "cālis",
+    "galva",
+    "putns"
+  ],
+  "baby_symbol": [
+    "pārtīt",
+    "zīdaiņa simbols",
+    "zīdainis"
+  ],
+  "back_arrow": [
+    "atpakaļ",
+    "bultiņa",
+    "bultiņa ar uzrakstu back"
+  ],
+  "backhand_index_pointing_down": [
+    "delna",
+    "ķermenis",
+    "lejup vērsts rādītājpirksts",
+    "pirksts",
+    "rādīt",
+    "rādītājpirksts",
+    "roka"
+  ],
+  "backhand_index_pointing_left": [
+    "delna",
+    "ķermenis",
+    "pa kreisi vērsts rādītājpirksts",
+    "pirksts",
+    "rādīt",
+    "rādītājpirksts",
+    "roka"
+  ],
+  "backhand_index_pointing_right": [
+    "delna",
+    "ķermenis",
+    "pa labi vērsts rādītājpirksts",
+    "pirksts",
+    "rādīt",
+    "rādītājpirksts",
+    "roka"
+  ],
+  "backhand_index_pointing_up": [
+    "augšup vērsts rādītājpirksts ar prom vērstu delnu",
+    "delna",
+    "ķermenis",
+    "pirksts",
+    "rādīt",
+    "rādītājpirksts",
+    "roka"
+  ],
+  "backpack": [
+    "mugursoma",
+    "skola",
+    "skolas mugursoma",
+    "soma"
+  ],
+  "bacon": [
+    "bekons",
+    "ēdiens",
+    "gaļa"
+  ],
+  "badger": [
+    "āpsis",
+    "medusāpsis",
+    "traucētājs"
+  ],
+  "badminton": [
+    "badmintons",
+    "rakete",
+    "volāns"
+  ],
+  "bagel": [
+    "beigelis",
+    "maiznīca",
+    "smērējams"
+  ],
+  "baggage_claim": [
+    "bagāža",
+    "bagāžas saņemšana"
+  ],
+  "baguette_bread": [
+    "bagete",
+    "ēdiens",
+    "franču",
+    "maize"
+  ],
+  "bahamas": [
+    "karogs"
+  ],
+  "bahrain": [
+    "karogs"
+  ],
+  "balance_scale": [
+    "līdzsvars",
+    "svari",
+    "svars",
+    "taisnīgums",
+    "zodiaks"
+  ],
+  "ballet_shoes": [
+    "baleta kurpes",
+    "balets",
+    "deja"
+  ],
+  "balloon": [
+    "balons",
+    "svētki"
+  ],
+  "ballot_box_with_ballot": [
+    "urna",
+    "vēlēšanas",
+    "vēlēšanu urna ar vēlēšanu zīmi"
+  ],
+  "banana": [
+    "auglis",
+    "augs",
+    "banāns"
+  ],
+  "bangladesh": [
+    "karogs"
+  ],
+  "banjo": [
+    "bandžo",
+    "mūzika",
+    "stīgu"
+  ],
+  "bank": [
+    "banka",
+    "ēka",
+    "māja",
+    "nauda"
+  ],
+  "bar_chart": [
+    "diagramma",
+    "josla",
+    "joslu diagramma"
+  ],
+  "barbados": [
+    "karogs"
+  ],
+  "barber_pole": [
+    "bārddzinis",
+    "friziera izkārtne",
+    "frizieris"
+  ],
+  "baseball": [
+    "beisbola bumba",
+    "beisbols",
+    "bumba",
+    "sports"
+  ],
+  "basket": [
+    "grozs",
+    "lauksaimniecība",
+    "pikniks",
+    "veļas mazgātuve"
+  ],
+  "basketball": [
+    "basketbola bumba",
+    "basketbols",
+    "bumba",
+    "sports"
+  ],
+  "bat": [
+    "dzīvnieks",
+    "sikspārnis",
+    "vampīrs"
+  ],
+  "bathtub": [
+    "ūdens",
+    "vanna"
+  ],
+  "battery": [
+    "baterija"
+  ],
+  "beach_with_umbrella": [
+    "pludmale",
+    "pludmale ar saulessargu",
+    "saulessargs"
+  ],
+  "bear": [
+    "galva",
+    "lācis"
+  ],
+  "beating_heart": [
+    "pukstēt",
+    "pukstoša sirds",
+    "sirds",
+    "sirdspuksti"
+  ],
+  "beaver": [
+    "bebrs",
+    "dambis"
+  ],
+  "bed": [
+    "gulēt",
+    "gulta",
+    "viesnīca"
+  ],
+  "beer_mug": [
+    "alus",
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "kauss"
+  ],
+  "beetle": [
+    "insekts",
+    "kukainis",
+    "vabole"
+  ],
+  "belarus": [
+    "karogs"
+  ],
+  "belgium": [
+    "karogs"
+  ],
+  "belize": [
+    "karogs"
+  ],
+  "bell": [
+    "zvans"
+  ],
+  "bell_pepper": [
+    "dārzenis",
+    "paprika",
+    "pipars",
+    "sarkanie pipari"
+  ],
+  "bell_with_slash": [
+    "aizliegts",
+    "bez skaņas",
+    "klusums",
+    "pārsvītrots zvaniņš",
+    "zvaniņš"
+  ],
+  "bellhop_bell": [
+    "galda zvans",
+    "viesnīca",
+    "zvaniņš",
+    "zvans"
+  ],
+  "benin": [
+    "karogs"
+  ],
+  "bento_box": [
+    "bento",
+    "kastīte"
+  ],
+  "bermuda": [
+    "karogs"
+  ],
+  "beverage_box": [
+    "dzēriena kārba",
+    "sulas kārba",
+    "sulas paka"
+  ],
+  "bhutan": [
+    "karogs"
+  ],
+  "bicycle": [
+    "ritenis",
+    "transports",
+    "velosipēds"
+  ],
+  "bikini": [
+    "apģērbs",
+    "peldēt"
+  ],
+  "billed_cap": [
+    "beisbola cepure",
+    "cepure ar nagu"
+  ],
+  "biohazard": [
+    "bioloģiskais apdraudējums",
+    "bīstami"
+  ],
+  "bird": [
+    "putns"
+  ],
+  "birthday_cake": [
+    "deserts",
+    "dzimšanas diena",
+    "dzimšanas dienas kūka",
+    "jubileja",
+    "kūka",
+    "svinības"
+  ],
+  "bison": [
+    "bifelis",
+    "bizons",
+    "ganāmpulks",
+    "sumbrs"
+  ],
+  "black_cat": [
+    "kaķis",
+    "melns",
+    "neveiksme"
+  ],
+  "black_circle": [
+    "aplis",
+    "ģeometrija",
+    "melns aplis"
+  ],
+  "black_flag": [
+    "karogs",
+    "melns karogs",
+    "plīvot"
+  ],
+  "black_heart": [
+    "ļaunums",
+    "melna",
+    "sirds"
+  ],
+  "black_large_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "liels melns kvadrāts"
+  ],
+  "black_medium_small_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "vidēji mazs melns kvadrāts"
+  ],
+  "black_medium_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "vidējs melns kvadrāts"
+  ],
+  "black_nib": [
+    "melna rakstāmspalva",
+    "rakstāmspalva",
+    "spalva"
+  ],
+  "black_small_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "mazs melns kvadrāts"
+  ],
+  "black_square_button": [
+    "ģeometrija",
+    "kvadrāts",
+    "melna kvadrātveida poga"
+  ],
+  "blonde_man": [
+    "blondīns",
+    "vīrietis"
+  ],
+  "blonde_woman": [
+    "blonda",
+    "blondi mati",
+    "blondīne",
+    "sieviete"
+  ],
+  "blossom": [
+    "augs",
+    "zieds"
+  ],
+  "blowfish": [
+    "balonzivs",
+    "zivs"
+  ],
+  "blue_book": [
+    "grāmata",
+    "zila"
+  ],
+  "blue_circle": [
+    "aplis",
+    "ģeometrija",
+    "zils aplis"
+  ],
+  "blue_heart": [
+    "sirds",
+    "zila sirds",
+    "zils"
+  ],
+  "blue_square": [
+    "kvadrāts",
+    "zils"
+  ],
+  "blueberries": [
+    "mellene",
+    "mellenes",
+    "oga",
+    "zilene",
+    "zils"
+  ],
+  "blush": [
+    "nosarkt",
+    "prieks",
+    "seja",
+    "smaidoša seja ar smaidošām acīm",
+    "smaids"
+  ],
+  "boar": [
+    "galva",
+    "mežacūka"
+  ],
+  "bolivia": [
+    "karogs"
+  ],
+  "bomb": [
+    "bumba",
+    "sprāgt",
+    "spridzeklis",
+    "spridzināt"
+  ],
+  "bone": [
+    "kauls",
+    "skelets"
+  ],
+  "bookmark": [
+    "grāmatzīme",
+    "zīme"
+  ],
+  "bookmark_tabs": [
+    "grāmatzīme",
+    "līmkarodziņi",
+    "zīme"
+  ],
+  "books": [
+    "grāmata",
+    "grāmatas"
+  ],
+  "boomerang": [
+    "atlēciens",
+    "atsitiens",
+    "austrālija",
+    "bumerangs"
+  ],
+  "bosnia_herzegovina": [
+    "karogs"
+  ],
+  "botswana": [
+    "karogs"
+  ],
+  "bottle_with_popping_cork": [
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "korķis",
+    "pudele",
+    "pudele ar izšautu korķi",
+    "šampanietis"
+  ],
+  "bouquet": [
+    "pušķis",
+    "romantika",
+    "ziedi"
+  ],
+  "bouvet_island": [
+    "karogs"
+  ],
+  "bow_and_arrow": [
+    "bulta",
+    "ierocis",
+    "loks",
+    "loks un bulta",
+    "strēlnieks"
+  ],
+  "bowl_with_spoon": [
+    "bļoda ar karoti",
+    "brokastis",
+    "graudaugi",
+    "rīsu putra"
+  ],
+  "bowling": [
+    "boulings",
+    "bumba",
+    "spēle",
+    "sports"
+  ],
+  "boxing_glove": [
+    "boksa cimds",
+    "bokss",
+    "cimds",
+    "sports"
+  ],
+  "boy": [
+    "puika",
+    "seja",
+    "zēns"
+  ],
+  "brain": [
+    "intelekts",
+    "smadzenes"
+  ],
+  "brazil": [
+    "karogs"
+  ],
+  "bread": [
+    "kukulis",
+    "maize"
+  ],
+  "breast_feeding": [
+    "barošana ar krūti",
+    "krūts",
+    "mazulis",
+    "zīdīšana"
+  ],
+  "brick": [
+    "kaļķu java",
+    "ķieģeļi",
+    "ķieģelis",
+    "māls",
+    "siena"
+  ],
+  "bridge_at_night": [
+    "nakts",
+    "tilts",
+    "tilts naktī"
+  ],
+  "briefcase": [
+    "portfelis",
+    "soma"
+  ],
+  "briefs": [
+    "apakšveļa",
+    "peldbikses",
+    "peldēšanās tērps",
+    "peldkostīms",
+    "viengabala"
+  ],
+  "bright_button": [
+    "palielināt",
+    "palielināt spilgtumu",
+    "spilgtums"
+  ],
+  "british_indian_ocean_territory": [
+    "karogs"
+  ],
+  "british_virgin_islands": [
+    "karogs"
+  ],
+  "broccoli": [
+    "brokoļi",
+    "dārza kāposts"
+  ],
+  "broken_heart": [
+    "salauzt",
+    "salauzta sirds",
+    "sirds"
+  ],
+  "broom": [
+    "slaucīšana",
+    "slota",
+    "tīrīšana"
+  ],
+  "brown_circle": [
+    "aplis",
+    "brūns"
+  ],
+  "brown_heart": [
+    "brūna",
+    "sirds"
+  ],
+  "brown_square": [
+    "brūns",
+    "kvadrāts"
+  ],
+  "brunei": [
+    "karogs"
+  ],
+  "bubble_tea": [
+    "burbulis",
+    "burbuļtēja",
+    "pērle",
+    "piens",
+    "tēja"
+  ],
+  "bucket": [
+    "spainis",
+    "toveris",
+    "tvertne"
+  ],
+  "bug": [
+    "blakts",
+    "kukainis"
+  ],
+  "building_construction": [
+    "būvlaukums",
+    "būvniecība",
+    "celtniecība"
+  ],
+  "bulgaria": [
+    "karogs"
+  ],
+  "bullet_train": [
+    "ātrums",
+    "ātrvilciens ar noapaļotu priekšgalu",
+    "dzelzceļš",
+    "transports",
+    "vilciens"
+  ],
+  "bullseye": [
+    "mērķis",
+    "šautriņa",
+    "šautriņa mērķī"
+  ],
+  "burkina_faso": [
+    "karogs"
+  ],
+  "burrito": [
+    "burito",
+    "meksikāņu"
+  ],
+  "burundi": [
+    "karogs"
+  ],
+  "bus": [
+    "autobuss",
+    "transports"
+  ],
+  "bus_stop": [
+    "autobusa pietura",
+    "autobuss",
+    "pietura"
+  ],
+  "bust_in_silhouette": [
+    "krūšutēla siluets",
+    "krūšutēls",
+    "siluets"
+  ],
+  "busts_in_silhouette": [
+    "divu krūšutēlu silueti",
+    "krūšutēls",
+    "siluets"
+  ],
+  "butter": [
+    "piena produkti",
+    "sviests"
+  ],
+  "butterfly": [
+    "insekts",
+    "skaists",
+    "taurenis"
+  ],
+  "cactus": [
+    "augs",
+    "kaktuss"
+  ],
+  "call_me_hand": [
+    "piezvani man",
+    "roka",
+    "zvans"
+  ],
+  "cambodia": [
+    "karogs"
+  ],
+  "camel": [
+    "kamielis",
+    "kupris"
+  ],
+  "camera": [
+    "fotoaparāts",
+    "fotokamera",
+    "kamera"
+  ],
+  "camera_with_flash": [
+    "fotoaparāts",
+    "fotokamera",
+    "fotokamera ar zibspuldzi",
+    "kamera",
+    "zibspuldze"
+  ],
+  "cameroon": [
+    "karogs"
+  ],
+  "camping": [
+    "kempings",
+    "nometne",
+    "telts"
+  ],
+  "canada": [
+    "karogs"
+  ],
+  "canary_islands": [
+    "karogs"
+  ],
+  "cancer": [
+    "vēzis",
+    "zodiaka zīme vēzis",
+    "zodiaks"
+  ],
+  "candle": [
+    "svece",
+    "uguns"
+  ],
+  "candy": [
+    "konfekte",
+    "salds",
+    "saldumi"
+  ],
+  "canned_food": [
+    "konservi",
+    "konservs"
+  ],
+  "canoe": [
+    "kanoe",
+    "laiva"
+  ],
+  "cape_verde": [
+    "karogs"
+  ],
+  "capricorn": [
+    "mežāzis",
+    "zodiaka zīme mežāzis",
+    "zodiaks"
+  ],
+  "card_file_box": [
+    "dokuments",
+    "dokumentu kaste",
+    "kaste"
+  ],
+  "card_index": [
+    "kartīšu rādītājs",
+    "kartīte",
+    "rādītājs"
+  ],
+  "card_index_dividers": [
+    "dokuments",
+    "dokumentu sadalītājs",
+    "kartīte",
+    "sadalītājs"
+  ],
+  "caribbean_netherlands": [
+    "karogs"
+  ],
+  "carousel_horse": [
+    "karuseļa zirdziņš",
+    "karuselis",
+    "zirgs"
+  ],
+  "carp_streamer": [
+    "karpa",
+    "svētki",
+    "zivju veida karodziņi",
+    "zivs"
+  ],
+  "carpentry_saw": [
+    "darbarīks",
+    "galdnieks",
+    "kokmateriāli",
+    "vienrokas zāģis",
+    "zāģis"
+  ],
+  "carrot": [
+    "burkāns",
+    "dārzenis",
+    "pārtika"
+  ],
+  "castle": [
+    "eiropas",
+    "eiropiešu",
+    "pils"
+  ],
+  "cat": [
+    "kaķis",
+    "mājdzīvnieks"
+  ],
+  "cat_face": [
+    "galva",
+    "kaķa galva",
+    "kaķis",
+    "mājdzīvnieks"
+  ],
+  "cat_with_wry_smile": [
+    "ironisks",
+    "kaķis",
+    "kaķis ar viltīgu smaidu",
+    "sājš",
+    "seja",
+    "smaids"
+  ],
+  "cayman_islands": [
+    "karogs"
+  ],
+  "central_african_republic": [
+    "karogs"
+  ],
+  "ceuta_melilla": [
+    "karogs"
+  ],
+  "chad": [
+    "karogs"
+  ],
+  "chains": [
+    "ķēde",
+    "ķēdes"
+  ],
+  "chair": [
+    "krēsls",
+    "sēdeklis",
+    "sēdēt"
+  ],
+  "chart_decreasing": [
+    "diagramma",
+    "lejup",
+    "lejupejoša diagrammas līkne",
+    "līkne"
+  ],
+  "chart_increasing": [
+    "augšup",
+    "augšupejoša diagrammas līkne",
+    "diagramma",
+    "līkne"
+  ],
+  "chart_increasing_with_yen": [
+    "augšup",
+    "augšupejoša diagrammas līkne ar jenas simbolu",
+    "diagramma",
+    "jena",
+    "līkne",
+    "tirgus"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "atzīme",
+    "atzīmēta izvēles rūtiņa",
+    "ķeksītis",
+    "rūtiņa"
+  ],
+  "check_mark": [
+    "✓",
+    "atzīme",
+    "ķeksītis",
+    "kontrolzīme"
+  ],
+  "cheese_wedge": [
+    "siera šķēle",
+    "siers"
+  ],
+  "chequered_flag": [
+    "finiša karogs",
+    "melnbalts",
+    "rūtots",
+    "sacīkstes"
+  ],
+  "cherries": [
+    "augs",
+    "ķirši",
+    "ķirsis",
+    "oga"
+  ],
+  "cherry_blossom": [
+    "augs",
+    "ķirši",
+    "ķiršu zieds",
+    "zieds"
+  ],
+  "chess_pawn": [
+    "bandinieks",
+    "kopija",
+    "lietojams",
+    "šahs"
+  ],
+  "chestnut": [
+    "augs",
+    "kastanis"
+  ],
+  "chicken": [
+    "putns",
+    "vista"
+  ],
+  "child": [
+    "bērns",
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "jauns"
+  ],
+  "children_crossing": [
+    "bērni",
+    "bērni šķērso ielu",
+    "gājēji",
+    "pāreja",
+    "satiksme"
+  ],
+  "chile": [
+    "karogs"
+  ],
+  "china": [
+    "karogs"
+  ],
+  "chipmunk": [
+    "burunduks"
+  ],
+  "chocolate_bar": [
+    "deserts",
+    "salds",
+    "šokolāde",
+    "šokolādes tāfelīte"
+  ],
+  "chopsticks": [
+    "haši",
+    "irbulīši"
+  ],
+  "christmas_island": [
+    "karogs"
+  ],
+  "christmas_tree": [
+    "koks",
+    "svētki",
+    "ziemassvētki",
+    "ziemassvētku eglīte"
+  ],
+  "church": [
+    "baznīca",
+    "ēka",
+    "kristieši",
+    "krusts",
+    "lūgties",
+    "māja",
+    "reliģija"
+  ],
+  "cigarette": [
+    "aizdegta cigarete",
+    "cigarete",
+    "smēķēt"
+  ],
+  "cinema": [
+    "filma",
+    "kamera",
+    "kino"
+  ],
+  "circled_m": [
+    "aplis",
+    "burts m apļveida ietvarā",
+    "m"
+  ],
+  "circus_tent": [
+    "cirka telts",
+    "cirks",
+    "telts"
+  ],
+  "cityscape": [
+    "māja",
+    "panorāma",
+    "pilsēta",
+    "pilsētas panorāma"
+  ],
+  "cityscape_at_dusk": [
+    "ainava",
+    "ēka",
+    "krēsla",
+    "māja",
+    "panorāma",
+    "pilsēta",
+    "pilsētas panorāma krēslā"
+  ],
+  "cl_button": [
+    "cl",
+    "notīrīt",
+    "poga cl"
+  ],
+  "clamp": [
+    "darbarīks",
+    "saspiest",
+    "skrūvspīles"
+  ],
+  "clap": [
+    "aplaudēt",
+    "aplausi",
+    "ķermenis",
+    "roka"
+  ],
+  "clapper_board": [
+    "filma",
+    "klapīte"
+  ],
+  "classical_building": [
+    "ēka",
+    "klasicisma stila ēka",
+    "klasicisms",
+    "māja"
+  ],
+  "clinking_beer_mugs": [
+    "alus",
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "kauss",
+    "saskandināti alus kausi"
+  ],
+  "clinking_glasses": [
+    "dzert",
+    "glāze",
+    "glāžu skandināšana",
+    "šampanietis",
+    "svinēt"
+  ],
+  "clipboard": [
+    "dokuments",
+    "dokumentu paliktnis",
+    "paliktnis"
+  ],
+  "clipperton_island": [
+    "karogs"
+  ],
+  "clockwise_vertical_arrows": [
+    "bultiņa",
+    "pulksteņrādītāja virzienā",
+    "pulksteņrādītāja virzienā vērstas vertikālas bultiņas"
+  ],
+  "closed_book": [
+    "aizvērta",
+    "grāmata"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "aizvērta",
+    "aizvērta pastkaste ar nolaistu karodziņu",
+    "pastkaste",
+    "pasts"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "aizvērta",
+    "aizvērta pastkaste ar paceltu karodziņu",
+    "pastkaste",
+    "pasts"
+  ],
+  "closed_umbrella": [
+    "aizvērts lietussargs",
+    "lietus",
+    "lietussargs"
+  ],
+  "cloud": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis"
+  ],
+  "cloud_with_lightning": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "mākonis ar zibeni",
+    "zibens"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "laikapstākļi",
+    "laiks",
+    "lietus",
+    "mākonis",
+    "mākonis ar zibeni un lietu",
+    "zibens"
+  ],
+  "cloud_with_rain": [
+    "laikapstākļi",
+    "laiks",
+    "lietus",
+    "mākonis"
+  ],
+  "cloud_with_snow": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "sniega mākonis",
+    "sniegs"
+  ],
+  "clown_face": [
+    "klauna seja",
+    "klauns",
+    "seja"
+  ],
+  "club_suit": [
+    "kārtis",
+    "kreicis"
+  ],
+  "clutch_bag": [
+    "apģērbs",
+    "kosmētikas maciņš",
+    "maisiņš",
+    "soma"
+  ],
+  "coat": [
+    "jaka",
+    "mētelis"
+  ],
+  "cockroach": [
+    "insekts",
+    "kaitēklis",
+    "prusaks",
+    "tarakāns"
+  ],
+  "cocktail_glass": [
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "glāze",
+    "kokteiļa glāze",
+    "kokteilis",
+    "martini"
+  ],
+  "coconut": [
+    "kokosrieksts",
+    "palma",
+    "pina colada"
+  ],
+  "cocos_keeling_islands": [
+    "karogs"
+  ],
+  "coffin": [
+    "bēres",
+    "nāve",
+    "zārks"
+  ],
+  "coin": [
+    "bagātība",
+    "metāls",
+    "monēta",
+    "nauda",
+    "sudrabs",
+    "zelts"
+  ],
+  "cold_face": [
+    "apsaldējies",
+    "auksts",
+    "lāstekas",
+    "nosalusi seja",
+    "nozilējis",
+    "stindzinošs"
+  ],
+  "collision": [
+    "bums",
+    "sadursme",
+    "troksnis"
+  ],
+  "colombia": [
+    "karogs"
+  ],
+  "comet": [
+    "komēta",
+    "kosmoss",
+    "visums"
+  ],
+  "comoros": [
+    "karogs"
+  ],
+  "compass": [
+    "kompass",
+    "magnētisks",
+    "navigācija",
+    "orientēšanās"
+  ],
+  "computer_disk": [
+    "dators",
+    "disks",
+    "minidisks",
+    "optiskais"
+  ],
+  "computer_mouse": [
+    "datorpele",
+    "dators",
+    "pele"
+  ],
+  "confetti_ball": [
+    "ballīte",
+    "konfeti",
+    "konfeti bumbiņa",
+    "plaukšķene",
+    "svētki"
+  ],
+  "confounded_face": [
+    "apmulsis",
+    "apmulsums",
+    "apmulsusi seja",
+    "seja"
+  ],
+  "confused": [
+    "apjucis",
+    "apjukums",
+    "apjukusi seja",
+    "seja"
+  ],
+  "congo_brazzaville": [
+    "karogs"
+  ],
+  "congo_kinshasa": [
+    "karogs"
+  ],
+  "construction": [
+    "barjera",
+    "celtniecība",
+    "konstrukcija"
+  ],
+  "construction_worker": [
+    "celtnieks",
+    "ķivere",
+    "seja"
+  ],
+  "construction_worker_man": [
+    "būvstrādnieks",
+    "celtnieks",
+    "strādnieks",
+    "vīrietis"
+  ],
+  "construction_worker_woman": [
+    "būvstrādniece",
+    "celtniece",
+    "sieviete",
+    "strādniece"
+  ],
+  "control_knobs": [
+    "mūzika",
+    "pogas",
+    "slēdži",
+    "vadība"
+  ],
+  "convenience_store": [
+    "diennakts veikals",
+    "ēka",
+    "māja",
+    "veikals"
+  ],
+  "cook": [
+    "pavārs",
+    "šefpavārs",
+    "vīrietis pavārs"
+  ],
+  "cook_islands": [
+    "karogs"
+  ],
+  "cooked_rice": [
+    "rīsi",
+    "vārīti rīsi",
+    "vārīts"
+  ],
+  "cookie": [
+    "cepums",
+    "deserts",
+    "salds"
+  ],
+  "cooking": [
+    "cept",
+    "ēdiena gatavošana",
+    "ola",
+    "panna"
+  ],
+  "cool_button": [
+    "cool",
+    "uzraksts cool kvadrātveida ietvarā"
+  ],
+  "copyright": [
+    "(c)",
+    "autortiesības",
+    "c"
+  ],
+  "costa_rica": [
+    "karogs"
+  ],
+  "couch_and_lamp": [
+    "dīvāns",
+    "dīvāns un lampa",
+    "lampa",
+    "viesnīca"
+  ],
+  "counterclockwise_arrows_button": [
+    "bultiņa",
+    "pretēji pulksteņrādītāja virzienam",
+    "pretēji pulksteņrādītāja virzienam vērstas bultiņas"
+  ],
+  "couple_with_heart": [
+    "mīlestība",
+    "pāris",
+    "pāris ar sirdi",
+    "romantika",
+    "sirds",
+    "sieviete",
+    "vīrietis"
+  ],
+  "couple_with_heart_man_man": [
+    "mīlestība",
+    "pāris",
+    "pāris ar sirdi",
+    "romantika",
+    "sirds",
+    "vīrietis"
+  ],
+  "couple_with_heart_woman_woman": [
+    "mīlestība",
+    "pāris",
+    "pāris ar sirdi",
+    "romantika",
+    "sieviete",
+    "sirds"
+  ],
+  "cow": [
+    "govs"
+  ],
+  "cow_face": [
+    "galva",
+    "govs"
+  ],
+  "cowboy_hat_face": [
+    "cepure",
+    "kovbojs",
+    "seja",
+    "seja ar kovboja cepuri",
+    "seja kovboja cepurē"
+  ],
+  "crab": [
+    "krabis",
+    "vēzis",
+    "zodiaks"
+  ],
+  "crayon": [
+    "krītiņš"
+  ],
+  "credit_card": [
+    "kredītkarte",
+    "nauda"
+  ],
+  "crescent_moon": [
+    "mēness",
+    "sirpis"
+  ],
+  "cricket": [
+    "circenis",
+    "sienāzis"
+  ],
+  "cricket_game": [
+    "bumba",
+    "krikets",
+    "nūja"
+  ],
+  "croatia": [
+    "karogs"
+  ],
+  "crocodile": [
+    "aligators",
+    "krokodils"
+  ],
+  "croissant": [
+    "ēdiens",
+    "franču",
+    "kruasāns",
+    "maize"
+  ],
+  "cross_mark": [
+    "×",
+    "atcelt",
+    "krustiņš",
+    "reizināt",
+    "x"
+  ],
+  "cross_mark_button": [
+    "atcelt",
+    "krustiņa poga",
+    "krustiņš",
+    "reizināt",
+    "rūtiņa",
+    "x"
+  ],
+  "crossed_fingers": [
+    "pirksts",
+    "roka",
+    "sakrustot",
+    "sakrustoti pirksti",
+    "turēt īkšķus",
+    "veiksme"
+  ],
+  "crossed_flags": [
+    "japāņu",
+    "karogs",
+    "sakrustot",
+    "sakrustoti karogi",
+    "svētki"
+  ],
+  "crossed_swords": [
+    "ierocis",
+    "sakrustoti zobeni",
+    "sakrustots",
+    "zobens"
+  ],
+  "crown": [
+    "karaliene",
+    "karalis",
+    "kronis"
+  ],
+  "cry": [
+    "asaras",
+    "bēdīgs",
+    "raudāt",
+    "raudoša seja",
+    "seja",
+    "skumjas"
+  ],
+  "crying_cat": [
+    "asaras",
+    "kaķis",
+    "raudāt",
+    "raudošs kaķis",
+    "seja",
+    "skumjš"
+  ],
+  "crystal_ball": [
+    "kristāla lode",
+    "kristāls",
+    "lode",
+    "pareģot",
+    "zīlēt"
+  ],
+  "cuba": [
+    "karogs"
+  ],
+  "cucumber": [
+    "dārzenis",
+    "gurķis",
+    "pārtika",
+    "skābēts"
+  ],
+  "cup_with_straw": [
+    "dzēriens ar salmiņu",
+    "gāzēts",
+    "limonāda",
+    "sula"
+  ],
+  "cupcake": [
+    "kēksiņš",
+    "maiznīca",
+    "salds"
+  ],
+  "curaçao": [
+    "karogs"
+  ],
+  "curling_stone": [
+    "akmens",
+    "kērlinga akmens",
+    "spēle"
+  ],
+  "curly_loop": [
+    "cilpa",
+    "cilpiņa",
+    "sproga"
+  ],
+  "currency_exchange": [
+    "banka",
+    "maiņa",
+    "nauda",
+    "valūta",
+    "valūtas maiņa"
+  ],
+  "curry_rice": [
+    "karijs",
+    "rīsi",
+    "rīsu karijs"
+  ],
+  "custard": [
+    "deserts",
+    "olu krēms",
+    "salds"
+  ],
+  "customs": [
+    "muita"
+  ],
+  "cut_of_meat": [
+    "cūkgaļas karbonāde",
+    "gaļas gabals",
+    "jēra karbonāde",
+    "karbonāde",
+    "steiks"
+  ],
+  "cyclone": [
+    "ciklons",
+    "laikapstākļi",
+    "laiks"
+  ],
+  "cyprus": [
+    "karogs"
+  ],
+  "czechia": [
+    "karogs"
+  ],
+  "côte_d_ivoire": [
+    "karogs"
+  ],
+  "dagger": [
+    "duncis",
+    "ierocis",
+    "nazis"
+  ],
+  "dango": [
+    "deserts",
+    "irbulīši",
+    "japāņu",
+    "salds"
+  ],
+  "dashing_away": [
+    "bēgšana",
+    "bēgt",
+    "skriešana"
+  ],
+  "date": [
+    "datums",
+    "kalendārs"
+  ],
+  "deaf_man": [
+    "nedzirdīgs",
+    "vīrietis"
+  ],
+  "deaf_person": [
+    "auss",
+    "dzirde",
+    "nedzirdīga persona",
+    "nedzirdīgs",
+    "pieejamība"
+  ],
+  "deaf_woman": [
+    "nedzirdīga",
+    "sieviete"
+  ],
+  "deciduous_tree": [
+    "augs",
+    "koks",
+    "lapas",
+    "lapu koks"
+  ],
+  "deer": [
+    "briedis",
+    "dzīvnieks"
+  ],
+  "delivery_truck": [
+    "automašīna",
+    "krava",
+    "kravas automašīna",
+    "mašīna",
+    "transports"
+  ],
+  "denmark": [
+    "karogs"
+  ],
+  "department_store": [
+    "ēka",
+    "māja",
+    "tirdzniecība",
+    "tirdzniecības centrs",
+    "veikals"
+  ],
+  "derelict_house": [
+    "ēka",
+    "māja",
+    "nolaists",
+    "pamesta ēka",
+    "pamests"
+  ],
+  "desert": [
+    "deserts",
+    "tuksnesis"
+  ],
+  "desert_island": [
+    "sala",
+    "vientuļa sala",
+    "vientuļš"
+  ],
+  "desktop_computer": [
+    "dators",
+    "galddators"
+  ],
+  "detective": [
+    "detektīvs",
+    "seja",
+    "spiegs"
+  ],
+  "diamond_suit": [
+    "kāravs",
+    "kārtis"
+  ],
+  "diamond_with_a_dot": [
+    "ģeometrija",
+    "rombs",
+    "rombs ar punktu"
+  ],
+  "diego_garcia": [
+    "karogs"
+  ],
+  "dim_button": [
+    "samazināt",
+    "samazināt spilgtumu",
+    "spilgtums"
+  ],
+  "disappointed_face": [
+    "seja",
+    "vīlies",
+    "vīlusies seja"
+  ],
+  "disguised_face": [
+    "brilles",
+    "deguns",
+    "inkognito",
+    "maska",
+    "paslēpta seja",
+    "seja"
+  ],
+  "divide": [
+    "/",
+    "÷",
+    "dalīšanas zīme",
+    "dalīt",
+    "matemātika"
+  ],
+  "diving_mask": [
+    "elpošanas aparāts",
+    "niršana",
+    "niršanas maska",
+    "snorkelēšana"
+  ],
+  "diya_lamp": [
+    "eļļa",
+    "eļļas lampa",
+    "lampa"
+  ],
+  "dizzy": [
+    "apdullis",
+    "zvaigzne"
+  ],
+  "djibouti": [
+    "karogs"
+  ],
+  "dna": [
+    "biologs",
+    "dns",
+    "dzīve",
+    "evolūcija",
+    "ģenētika",
+    "gēns"
+  ],
+  "dodo": [
+    "izmiršana",
+    "liels",
+    "maurīcija"
+  ],
+  "dog": [
+    "mājdzīvnieks",
+    "suns"
+  ],
+  "dog_face": [
+    "galva",
+    "mājdzīvnieks",
+    "suņa galva",
+    "suns"
+  ],
+  "dollar_banknote": [
+    "banknote",
+    "dolāra banknote",
+    "dolārs",
+    "nauda"
+  ],
+  "dolphin": [
+    "delfīns",
+    "peldpleznas"
+  ],
+  "dominica": [
+    "karogs"
+  ],
+  "dominican_republic": [
+    "karogs"
+  ],
+  "door": [
+    "durvis",
+    "ieeja",
+    "izeja"
+  ],
+  "dotted_six_pointed_star": [
+    "laime",
+    "sešstaru zvaigzne ar punktu vidū",
+    "zvaigzne"
+  ],
+  "double_curly_loop": [
+    "cilpa",
+    "dubulta cilpa"
+  ],
+  "double_exclamation_mark": [
+    "!",
+    "!!",
+    "divas izsaukuma zīmes",
+    "izsaukums",
+    "pieturzīme"
+  ],
+  "doughnut": [
+    "deserts",
+    "salds",
+    "virtulis"
+  ],
+  "dove": [
+    "balodis",
+    "dūja",
+    "lidot",
+    "miers",
+    "putns"
+  ],
+  "down_arrow": [
+    "bultiņa",
+    "dienvidi",
+    "lejupbultiņa",
+    "lejupvērsta bultiņa",
+    "norāde"
+  ],
+  "down_left_arrow": [
+    "bultiņa",
+    "dienvidrietumi",
+    "norāde",
+    "uz apakšējo kreiso stūri vērsta bultiņa"
+  ],
+  "down_right_arrow": [
+    "bultiņa",
+    "dienvidaustrumi",
+    "norāde",
+    "uz apakšējo labo stūri vērsta bultiņa"
+  ],
+  "downcast_face_with_sweat": [
+    "auksts",
+    "seja",
+    "seja ar aukstu sviedru lāsi",
+    "sviedri"
+  ],
+  "downwards_button": [
+    "lejup",
+    "poga lejup"
+  ],
+  "dragon": [
+    "pasaka",
+    "pūķis"
+  ],
+  "dragon_face": [
+    "galva",
+    "pūķa galva",
+    "pūķis"
+  ],
+  "dress": [
+    "apģērbs",
+    "kleita"
+  ],
+  "drooling_face": [
+    "seja",
+    "siekalas",
+    "siekalojas"
+  ],
+  "drop_of_blood": [
+    "asins pile",
+    "asins ziedošana",
+    "medicīna",
+    "menstruācija"
+  ],
+  "droplet": [
+    "lāse",
+    "sviedri",
+    "ūdens"
+  ],
+  "drum": [
+    "bungas",
+    "bungu vālītes",
+    "mūzika"
+  ],
+  "duck": [
+    "pīle",
+    "putns"
+  ],
+  "dumpling": [
+    "gioza",
+    "pelmeņi",
+    "vareņiki"
+  ],
+  "dvd": [
+    "blu-ray",
+    "cd",
+    "dators",
+    "kompaktdisks"
+  ],
+  "e_mail": [
+    "aploksne",
+    "e-pasts",
+    "vēstule"
+  ],
+  "eagle": [
+    "ērglis",
+    "putns"
+  ],
+  "ear": [
+    "auss",
+    "ķermenis"
+  ],
+  "ear_of_corn": [
+    "augs",
+    "dārzenis",
+    "kukurūza",
+    "kukurūzas vālīte"
+  ],
+  "ear_with_hearing_aid": [
+    "apgrūtināta dzirde",
+    "auss ar dzirdes aparātu",
+    "pieejamība"
+  ],
+  "ecuador": [
+    "karogs"
+  ],
+  "egg": [
+    "ēdiens",
+    "ola"
+  ],
+  "eggplant": [
+    "augs",
+    "baklažāns",
+    "dārzenis"
+  ],
+  "egypt": [
+    "karogs"
+  ],
+  "eight": [
+    "taustiņš"
+  ],
+  "eight_o_clock": [
+    "00",
+    "8",
+    "8:00",
+    "pulksten astoņi",
+    "pulkstenis"
+  ],
+  "eight_pointed_star": [
+    "*",
+    "astoņstaru zvaigzne",
+    "četrstaru zvaigzne",
+    "zvaigzne"
+  ],
+  "eight_spoked_asterisk": [
+    "*",
+    "astoņstaru zvaigznīte",
+    "zvaigznīte"
+  ],
+  "eight_thirty": [
+    "30",
+    "8",
+    "8:30",
+    "pulksten pusdeviņi",
+    "pulkstenis",
+    "pusdeviņi"
+  ],
+  "eject_button": [
+    "izstumt",
+    "poga izstumt"
+  ],
+  "el_salvador": [
+    "karogs"
+  ],
+  "electric_plug": [
+    "elektrība",
+    "kontaktdakša",
+    "spraudnis"
+  ],
+  "elephant": [
+    "zilonis"
+  ],
+  "elevator": [
+    "lifts",
+    "pacēlājs",
+    "pieejamība"
+  ],
+  "eleven_o_clock": [
+    "00",
+    "11",
+    "11:00",
+    "pulksten vienpadsmit",
+    "pulkstenis"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11:30",
+    "30",
+    "pulksten pusdivpadsmit",
+    "pulkstenis",
+    "pusdivpadsmit"
+  ],
+  "elf": [
+    "elfs",
+    "maģisks"
+  ],
+  "end_arrow": [
+    "beigas",
+    "beigt",
+    "bultiņa",
+    "bultiņa ar uzrakstu end"
+  ],
+  "england": [
+    "karogs"
+  ],
+  "enraged_face": [
+    "dusmas",
+    "dusmīgs",
+    "sabozies",
+    "sabozusies seja",
+    "seja"
+  ],
+  "envelope": [
+    "aploksne",
+    "e-pasts",
+    "vēstule"
+  ],
+  "envelope_with_arrow": [
+    "aploksne",
+    "aploksne ar bultiņu",
+    "bultiņa",
+    "e-pasts",
+    "sūtīt",
+    "vēstule"
+  ],
+  "equatorial_guinea": [
+    "karogs"
+  ],
+  "eritrea": [
+    "karogs"
+  ],
+  "estonia": [
+    "karogs"
+  ],
+  "eswatini": [
+    "karogs"
+  ],
+  "ethiopia": [
+    "karogs"
+  ],
+  "euro_banknote": [
+    "banknote",
+    "eiro",
+    "nauda"
+  ],
+  "european_union": [
+    "karogs"
+  ],
+  "evergreen_tree": [
+    "augs",
+    "koks",
+    "skujkoks"
+  ],
+  "ewe": [
+    "aita",
+    "auns"
+  ],
+  "exclamation_question_mark": [
+    "!",
+    "!?",
+    "?",
+    "izsaukuma un jautājuma zīme",
+    "izsaukums",
+    "jautājums",
+    "pieturzīme"
+  ],
+  "exploding_head": [
+    "eksplodējoša galva",
+    "šokēts"
+  ],
+  "expressionless_face": [
+    "bez izteiksmes",
+    "neizteiksmīgs",
+    "seja",
+    "seja bez izteiksmes"
+  ],
+  "eye": [
+    "acs",
+    "ķermenis"
+  ],
+  "eye_in_speech_bubble": [
+    "acs",
+    "liecinieka zīme",
+    "liecinieks",
+    "runas burbulis"
+  ],
+  "eyes": [
+    "acis",
+    "acs",
+    "ķermenis"
+  ],
+  "face_blowing_a_kiss": [
+    "seja",
+    "sirds",
+    "skūpstoša seja",
+    "skūpsts"
+  ],
+  "face_savoring_food": [
+    "ēdienu baudoša seja",
+    "garšīgs",
+    "ņamm",
+    "seja",
+    "smaids"
+  ],
+  "face_vomiting": [
+    "nelabums",
+    "slimība",
+    "vemjoša seja"
+  ],
+  "face_with_crossed_out_eyes": [
+    "apreibis",
+    "apreibusi seja",
+    "seja"
+  ],
+  "face_with_hand_over_mouth": [
+    "seja ar roku pār muti",
+    "vai"
+  ],
+  "face_with_head_bandage": [
+    "apsējs",
+    "ievainojums",
+    "seja",
+    "seja ar galvas apsēju"
+  ],
+  "face_with_medical_mask": [
+    "ārsts",
+    "maska",
+    "medicīna",
+    "seja",
+    "seja ar medicīnas masku",
+    "slims"
+  ],
+  "face_with_monocle": [
+    "seja ar monokli",
+    "vecmodīga"
+  ],
+  "face_with_raised_eyebrow": [
+    "neuzticīgs",
+    "seja ar paceltām uzacīm",
+    "skeptisks"
+  ],
+  "face_with_steam_from_nose": [
+    "dusmas",
+    "seja",
+    "seja ar tvaiku no deguna",
+    "tvaiks"
+  ],
+  "face_with_symbols_on_mouth": [
+    "lamāšanās",
+    "seja ar simboliem uz mutes"
+  ],
+  "face_with_thermometer": [
+    "seja",
+    "seja ar termometru",
+    "slims",
+    "termometrs"
+  ],
+  "face_with_tongue": [
+    "mēle",
+    "seja",
+    "seja ar izbāztu mēli"
+  ],
+  "face_without_mouth": [
+    "kluss",
+    "mute",
+    "seja",
+    "seja bez mutes"
+  ],
+  "factory": [
+    "ēka",
+    "fabrika",
+    "māja",
+    "rūpnīca"
+  ],
+  "factory_worker": [
+    "montāža",
+    "nozare",
+    "rūpnīca",
+    "rūpnīcas strādnieks",
+    "strādnieks"
+  ],
+  "fairy": [
+    "feja",
+    "oberons",
+    "paks",
+    "titānija"
+  ],
+  "falafel": [
+    "aunazirņi / frikadele",
+    "felāfels"
+  ],
+  "falkland_islands": [
+    "karogs"
+  ],
+  "fallen_leaf": [
+    "augs",
+    "krist",
+    "lapa",
+    "nokritusi lapa"
+  ],
+  "family": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_boy_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_girl_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_girl_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_man_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_man_boy_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_man_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_man_girl_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_man_girl_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_woman_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_woman_boy_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_woman_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_man_woman_girl_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_man_woman_girl_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_woman_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_boy_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_woman_girl_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_girl_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_woman_woman_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_woman_boy_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_woman_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "family_woman_woman_girl_boy": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis",
+    "zēns"
+  ],
+  "family_woman_woman_girl_girl": [
+    "bērns",
+    "ģimene",
+    "māte",
+    "meitene",
+    "sieviete",
+    "tēvs",
+    "vīrietis"
+  ],
+  "farmer": [
+    "dārznieks",
+    "fermeris",
+    "lauksaimnieks",
+    "zemnieks"
+  ],
+  "faroe_islands": [
+    "karogs"
+  ],
+  "fast_down_button": [
+    "lejup",
+    "poga ātri lejup"
+  ],
+  "fast_forward_button": [
+    "pa labi",
+    "pārtīt",
+    "poga pārtīt uz priekšu",
+    "uz priekšu"
+  ],
+  "fast_reverse_button": [
+    "atpakaļ",
+    "attīt",
+    "pa kreisi",
+    "poga attīt atpakaļ"
+  ],
+  "fast_up_button": [
+    "augšup",
+    "poga ātri augšup"
+  ],
+  "fax_machine": [
+    "faksa aparāts",
+    "fakss"
+  ],
+  "fearful": [
+    "bailes",
+    "bailīgs",
+    "nobijies",
+    "nobijusies seja",
+    "seja"
+  ],
+  "feather": [
+    "apspalvojums",
+    "putns",
+    "spalva",
+    "viegls"
+  ],
+  "female_sign": [
+    "sieviešu simbols",
+    "sieviete"
+  ],
+  "ferris_wheel": [
+    "atrakciju parks",
+    "panorāma",
+    "panorāmas rats",
+    "rats"
+  ],
+  "ferry": [
+    "kuģis",
+    "pasažieri",
+    "prāmis",
+    "transports",
+    "ūdens"
+  ],
+  "field_hockey": [
+    "bumba",
+    "hokejs",
+    "lauka hokejs",
+    "nūja",
+    "sports"
+  ],
+  "fiji": [
+    "karogs"
+  ],
+  "file_cabinet": [
+    "dokuments",
+    "dokumentu skapis",
+    "skapis"
+  ],
+  "file_folder": [
+    "dokuments",
+    "dokumentu mape",
+    "mape"
+  ],
+  "film_frames": [
+    "filma",
+    "filmas lente",
+    "kadri",
+    "kino"
+  ],
+  "film_projector": [
+    "filma",
+    "filmu projektors",
+    "kino",
+    "projektors"
+  ],
+  "finland": [
+    "karogs"
+  ],
+  "fire": [
+    "degt",
+    "uguns"
+  ],
+  "fire_engine": [
+    "transports",
+    "uguns",
+    "ugunsdzēsēji",
+    "ugunsdzēsēju mašīna"
+  ],
+  "fire_extinguisher": [
+    "apdzēst",
+    "dzēst",
+    "uguns",
+    "ugunsdzēsības aparāts"
+  ],
+  "firecracker": [
+    "dinamīts",
+    "petarde",
+    "spridzeklis",
+    "uguņošana"
+  ],
+  "firefighter": [
+    "ugunsdzēsēja",
+    "ugunsdzēsējs",
+    "vīrietis ugunsdzēsējs"
+  ],
+  "fireworks": [
+    "raķete",
+    "salūts",
+    "svētki"
+  ],
+  "first_quarter_moon": [
+    "augošs",
+    "mēness",
+    "pusmēness"
+  ],
+  "first_quarter_moon_face": [
+    "augoša mēness sirpja seja",
+    "augošs",
+    "mēness",
+    "seja",
+    "sirpis"
+  ],
+  "fish": [
+    "zivis",
+    "zivs",
+    "zodiaks"
+  ],
+  "fish_cake_with_swirl": [
+    "pīrāgs",
+    "rotājums",
+    "zivju pīrāgs ar rotājumu",
+    "zivs"
+  ],
+  "fishing_pole": [
+    "makšķere",
+    "zivs"
+  ],
+  "five": [
+    "taustiņš"
+  ],
+  "five_o_clock": [
+    "00",
+    "5",
+    "5:00",
+    "pulksten pieci",
+    "pulkstenis"
+  ],
+  "five_thirty": [
+    "30",
+    "5",
+    "5:30",
+    "pulksten pusseši",
+    "pulkstenis",
+    "pusseši"
+  ],
+  "flamingo": [
+    "spilgts",
+    "tropisks"
+  ],
+  "flashlight": [
+    "elektrība",
+    "gaisma",
+    "kabatas lukturītis"
+  ],
+  "flat_shoe": [
+    "baleta kurpe",
+    "čība",
+    "iešļūcene"
+  ],
+  "flatbread": [
+    "arepa",
+    "lavašs",
+    "nāanmaize",
+    "pita",
+    "plācenis"
+  ],
+  "fleur_de_lis": [
+    "lilija",
+    "lilijas simbols"
+  ],
+  "flexed_biceps": [
+    "bicepss",
+    "ķermenis",
+    "muskulis",
+    "saliekt"
+  ],
+  "floppy_disk": [
+    "dators",
+    "diskete"
+  ],
+  "flower_playing_cards": [
+    "japāņu",
+    "kārtis",
+    "spēle",
+    "ziedu kārtis"
+  ],
+  "flushed_face": [
+    "apmulsis",
+    "nosarkt",
+    "nosarkusi seja",
+    "seja"
+  ],
+  "fly": [
+    "kaitēklis",
+    "kāpurs",
+    "muša",
+    "pūšana",
+    "slimība"
+  ],
+  "flying_disc": [
+    "galīgs",
+    "lidojošais šķīvis"
+  ],
+  "flying_saucer": [
+    "lidojošais šķīvītis",
+    "nlo"
+  ],
+  "fog": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "migla"
+  ],
+  "foggy": [
+    "laikapstākļi",
+    "laiks",
+    "migla",
+    "miglains"
+  ],
+  "folded_hands": [
+    "lūgšanā saliktas rokas",
+    "lūgt",
+    "lūgties",
+    "rokas",
+    "žests"
+  ],
+  "fondue": [
+    "fondī",
+    "kausēts",
+    "podiņš",
+    "siers",
+    "šokolāde",
+    "šveiciešu"
+  ],
+  "foot": [
+    "pēda",
+    "spēriens"
+  ],
+  "footprints": [
+    "ķermenis",
+    "nospiedumi",
+    "pēdu nospiedumi"
+  ],
+  "fork_and_knife": [
+    "dakša",
+    "nazis",
+    "nazis un dakša"
+  ],
+  "fork_and_knife_with_plate": [
+    "dakša",
+    "nazis",
+    "nazis un dakša ar šķīvi",
+    "šķīvis"
+  ],
+  "fortune_cookie": [
+    "laimes cepumiņš",
+    "pravietojums"
+  ],
+  "fountain": [
+    "strūklaka",
+    "ūdens"
+  ],
+  "fountain_pen": [
+    "pildspalva",
+    "tinte",
+    "tintes pildspalva"
+  ],
+  "four": [
+    "taustiņš"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "āboliņš",
+    "augs",
+    "četrlapu āboliņš",
+    "lapa"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4:00",
+    "pulksten četri",
+    "pulkstenis"
+  ],
+  "four_thirty": [
+    "30",
+    "4",
+    "4:30",
+    "pulksten puspieci",
+    "pulkstenis",
+    "puspieci"
+  ],
+  "fox": [
+    "galva",
+    "lapsa"
+  ],
+  "framed_picture": [
+    "glezna",
+    "ierāmēta glezna",
+    "māksla",
+    "muzejs",
+    "rāmis"
+  ],
+  "france": [
+    "karogs"
+  ],
+  "free_button": [
+    "bezmaksas",
+    "free",
+    "uzraksts free kvadrātveida ietvarā"
+  ],
+  "french_fries": [
+    "frī",
+    "kartupeļi"
+  ],
+  "french_guiana": [
+    "karogs"
+  ],
+  "french_polynesia": [
+    "karogs"
+  ],
+  "french_southern_territories": [
+    "karogs"
+  ],
+  "fried_shrimp": [
+    "cepta garnele",
+    "cepts",
+    "ēdiens",
+    "garnele"
+  ],
+  "frog": [
+    "galva",
+    "varde"
+  ],
+  "front_facing_baby_chick": [
+    "cālis",
+    "cālis no priekšpuses",
+    "putns"
+  ],
+  "frowning": [
+    "bēdas",
+    "bēdīga seja",
+    "bēdīgs",
+    "seja"
+  ],
+  "frowning_face_with_open_mouth": [
+    "atvērts",
+    "bēdas",
+    "bēdīga seja ar atvērtu muti",
+    "mute",
+    "seja"
+  ],
+  "fu": [
+    "delna",
+    "ķermenis",
+    "pirksts",
+    "rādīt",
+    "roka",
+    "vidējais pirksts"
+  ],
+  "fuel_pump": [
+    "benzīns",
+    "degviela",
+    "degvielas sūknis",
+    "dus",
+    "sūknis"
+  ],
+  "full_moon": [
+    "mēness",
+    "pilnmēness"
+  ],
+  "full_moon_face": [
+    "mēness",
+    "pilnmēness",
+    "seja"
+  ],
+  "funeral_urn": [
+    "bēres",
+    "nāve",
+    "pelnu urna",
+    "urna"
+  ],
+  "gabon": [
+    "karogs"
+  ],
+  "gambia": [
+    "karogs"
+  ],
+  "game_die": [
+    "galda spēle",
+    "kauliņš",
+    "metamais kauliņš"
+  ],
+  "garlic": [
+    "garšviela",
+    "ķiploks"
+  ],
+  "gear": [
+    "darbarīks",
+    "zobrats"
+  ],
+  "gem_stone": [
+    "dārgakmens",
+    "dārglieta",
+    "dimants"
+  ],
+  "gemini": [
+    "dvīņi",
+    "zodiaka zīme dvīņi",
+    "zodiaks"
+  ],
+  "genie": [
+    "burvis",
+    "džins"
+  ],
+  "georgia": [
+    "karogs"
+  ],
+  "germany": [
+    "karogs"
+  ],
+  "ghana": [
+    "karogs"
+  ],
+  "ghost": [
+    "fantāzija",
+    "monstrs",
+    "pasaka",
+    "radījums",
+    "seja",
+    "spoks"
+  ],
+  "gibraltar": [
+    "karogs"
+  ],
+  "giraffe": [
+    "plankumi",
+    "žirafe"
+  ],
+  "girl": [
+    "jauna",
+    "jaunava",
+    "meitene",
+    "zodiaks"
+  ],
+  "glass_of_milk": [
+    "dzert",
+    "glāze",
+    "piena glāze",
+    "piens"
+  ],
+  "glasses": [
+    "acis",
+    "brilles"
+  ],
+  "globe_showing_americas": [
+    "dienvidamerika",
+    "globuss",
+    "globuss ar ameriku",
+    "pasaule",
+    "zemeslode",
+    "ziemeļamerika"
+  ],
+  "globe_showing_asia_australia": [
+    "austrālija",
+    "āzija",
+    "globuss",
+    "globuss ar āziju un austrāliju",
+    "pasaule",
+    "zemeslode"
+  ],
+  "globe_showing_europe_africa": [
+    "āfrika",
+    "eiropa",
+    "globuss",
+    "globuss ar eiropu un āfriku",
+    "pasaule",
+    "zemeslode"
+  ],
+  "globe_with_meridians": [
+    "globuss",
+    "globuss ar meridiāniem",
+    "meridiāni"
+  ],
+  "gloves": [
+    "cimdi",
+    "roka"
+  ],
+  "glowing_star": [
+    "spīdēt",
+    "spīdoša zvaigzne",
+    "zvaigzne"
+  ],
+  "goal_net": [
+    "sports",
+    "tīkls",
+    "vārti",
+    "vārti ar tīklu"
+  ],
+  "goat": [
+    "kaza",
+    "mežāzis",
+    "zodiaks"
+  ],
+  "goblin": [
+    "fantāzija",
+    "goblins",
+    "monstrs",
+    "pasaka",
+    "radījums",
+    "seja"
+  ],
+  "goggles": [
+    "acu aizsardzība",
+    "aizsargbrilles",
+    "metināšana",
+    "peldēšana"
+  ],
+  "gorilla": [
+    "dzīvnieks"
+  ],
+  "graduation_cap": [
+    "absolventa cepure",
+    "cepure",
+    "izlaiduma cepure",
+    "izlaidums",
+    "svinības"
+  ],
+  "grapes": [
+    "auglis",
+    "augs",
+    "vīnogas"
+  ],
+  "greece": [
+    "karogs"
+  ],
+  "green_apple": [
+    "ābols",
+    "auglis",
+    "augs",
+    "zaļš"
+  ],
+  "green_book": [
+    "grāmata",
+    "zaļa"
+  ],
+  "green_circle": [
+    "aplis",
+    "zaļš"
+  ],
+  "green_heart": [
+    "sirds",
+    "zaļa sirds",
+    "zaļš"
+  ],
+  "green_salad": [
+    "ēdiens",
+    "salāti",
+    "zaļi",
+    "zaļie salāti"
+  ],
+  "green_square": [
+    "kvadrāts",
+    "zaļš"
+  ],
+  "greenland": [
+    "karogs"
+  ],
+  "grenada": [
+    "karogs"
+  ],
+  "grimacing": [
+    "grimase",
+    "saviebta seja",
+    "seja"
+  ],
+  "grin": [
+    "plats smaids un smaidošas acis",
+    "seja",
+    "smaids",
+    "smīns"
+  ],
+  "grinning_cat": [
+    "atvērts",
+    "galva",
+    "kaķis",
+    "mute",
+    "plati smaidošs kaķis",
+    "plats smaids",
+    "smaids"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "acis",
+    "kaķis",
+    "plati smaidošs kaķis ar smaidošām acīm",
+    "plats smaids",
+    "seja",
+    "smaids"
+  ],
+  "grinning_face": [
+    "seja",
+    "smaids",
+    "smiekli"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "atvērts",
+    "mute",
+    "seja",
+    "smaidoša seja ar atvērtu muti un smaidošām acīm",
+    "smaids"
+  ],
+  "growing_heart": [
+    "augoša sirds",
+    "sirds",
+    "sirdspuksti"
+  ],
+  "guadeloupe": [
+    "karogs"
+  ],
+  "guam": [
+    "karogs"
+  ],
+  "guard": [
+    "sargs",
+    "seja"
+  ],
+  "guatemala": [
+    "karogs"
+  ],
+  "guernsey": [
+    "karogs"
+  ],
+  "guide_dog": [
+    "akls",
+    "pavadonis",
+    "pieejamība",
+    "suns pavadonis"
+  ],
+  "guinea": [
+    "karogs"
+  ],
+  "guinea_bissau": [
+    "karogs"
+  ],
+  "guitar": [
+    "ģitāra",
+    "instruments",
+    "mūzika"
+  ],
+  "guyana": [
+    "karogs"
+  ],
+  "haiti": [
+    "karogs"
+  ],
+  "hamburger": [
+    "burgers",
+    "hamburgers"
+  ],
+  "hammer": [
+    "āmurs",
+    "darbarīks"
+  ],
+  "hammer_and_pick": [
+    "āmurs",
+    "āmurs un cirtnis",
+    "cirtnis"
+  ],
+  "hammer_and_wrench": [
+    "āmurs",
+    "āmurs un uzgriežņu atslēga",
+    "cirtnis",
+    "uzgriežņu atslēga"
+  ],
+  "hamster": [
+    "galva",
+    "kāmis",
+    "mīļdzīvnieks"
+  ],
+  "hand_with_fingers_splayed": [
+    "izvērsts",
+    "ķermenis",
+    "pacelta roka ar izvērstiem pirkstiem",
+    "pirksts",
+    "roka"
+  ],
+  "handbag": [
+    "rokassoma",
+    "soma"
+  ],
+  "handshake": [
+    "līgums",
+    "roka",
+    "rokasspiediens",
+    "sarokoties",
+    "tikšanās"
+  ],
+  "hash": [
+    "taustiņš"
+  ],
+  "hatching_chick": [
+    "cālis",
+    "cālis šķiļas",
+    "ola",
+    "putns",
+    "šķilties"
+  ],
+  "headphone": [
+    "austiņas",
+    "ieauši"
+  ],
+  "headstone": [
+    "kapa piemineklis",
+    "kapakmens",
+    "kapi",
+    "kaps",
+    "kapsēta"
+  ],
+  "health_worker": [
+    "ārsts",
+    "medmāsa",
+    "veselības aprūpe",
+    "veselības aprūpes darbinieks"
+  ],
+  "hear_no_evil_monkey": [
+    "aizliegts",
+    "dzirdēt",
+    "galva",
+    "ļauns",
+    "nē",
+    "nedrīkst",
+    "neko nedzirdu",
+    "pērtiķis",
+    "žests"
+  ],
+  "heard_mcdonald_islands": [
+    "karogs"
+  ],
+  "heart": [
+    "sarkana sirds",
+    "sarkans",
+    "sirds"
+  ],
+  "heart_decoration": [
+    "sirds",
+    "sirds rotājums"
+  ],
+  "heart_exclamation": [
+    "izsaukuma zīme sirds formā",
+    "izsaukums",
+    "pieturzīme",
+    "sirds"
+  ],
+  "heart_eyes": [
+    "acs",
+    "mīlestība",
+    "seja",
+    "sirds",
+    "smaidoša seja ar sirds formas acīm",
+    "smaids"
+  ],
+  "heart_suit": [
+    "ercens",
+    "kārtis"
+  ],
+  "heart_with_arrow": [
+    "bulta",
+    "romantika",
+    "sirds",
+    "sirds ar bultu"
+  ],
+  "heart_with_ribbon": [
+    "lentīte",
+    "sirds",
+    "sirds ar lentīti",
+    "valentīndiena"
+  ],
+  "heavy_dollar_sign": [
+    "dolāra zīme",
+    "dolārs",
+    "nauda"
+  ],
+  "hedgehog": [
+    "adatains",
+    "ezis"
+  ],
+  "helicopter": [
+    "helikopters",
+    "transports"
+  ],
+  "herb": [
+    "augs",
+    "lapa"
+  ],
+  "hibiscus": [
+    "augs",
+    "hibisks",
+    "zieds"
+  ],
+  "high_heeled_shoe": [
+    "apavi",
+    "augstpapēžu kurpe",
+    "papēdis",
+    "sieviešu"
+  ],
+  "high_speed_train": [
+    "ātrums",
+    "ātrvilciens",
+    "dzelzceļš",
+    "transports",
+    "vilciens"
+  ],
+  "high_voltage": [
+    "augstspriegums",
+    "bīstami",
+    "elektrība",
+    "spriegums",
+    "zibens"
+  ],
+  "hiking_boot": [
+    "kempings",
+    "mugursoma",
+    "pārgājiens",
+    "pārgājienu zābaks",
+    "zābaks"
+  ],
+  "hindu_temple": [
+    "hinduistu",
+    "templis"
+  ],
+  "hippopotamus": [
+    "begemots",
+    "nīlzirgs"
+  ],
+  "hole": [
+    "caurums"
+  ],
+  "hollow_red_circle": [
+    "aplis",
+    "liels",
+    "o",
+    "riņķis",
+    "sarkans"
+  ],
+  "honduras": [
+    "karogs"
+  ],
+  "honey_pot": [
+    "medus",
+    "pods",
+    "salds"
+  ],
+  "honeybee": [
+    "bite",
+    "kukainis"
+  ],
+  "hong_kong_sar_china": [
+    "karogs"
+  ],
+  "hook": [
+    "āķis",
+    "pārdošanas arguments",
+    "pievilināt",
+    "uzķeršanās"
+  ],
+  "horizontal_traffic_light": [
+    "horizontāls luksofors",
+    "luksofors",
+    "signāls"
+  ],
+  "horse": [
+    "sacīkstes",
+    "skriešana",
+    "zirgs"
+  ],
+  "horse_face": [
+    "galva",
+    "zirga galva",
+    "zirgs"
+  ],
+  "horse_racing": [
+    "sacīkstes",
+    "zirgs",
+    "zirgu skriešanās sacīkstes",
+    "žokejs"
+  ],
+  "hospital": [
+    "ārsts",
+    "ēka",
+    "māja",
+    "medicīna",
+    "slimnīca"
+  ],
+  "hot_beverage": [
+    "dzēriens",
+    "dzert",
+    "kafija",
+    "karsts",
+    "tēja"
+  ],
+  "hot_dog": [
+    "desiņa",
+    "hotdogs"
+  ],
+  "hot_face": [
+    "drudzī",
+    "karstuma dūriens",
+    "nosvīdis",
+    "piesārtusi seja",
+    "sarkanu seju",
+    "saules dūriens"
+  ],
+  "hot_pepper": [
+    "asais pipars",
+    "ass",
+    "augs",
+    "pipars"
+  ],
+  "hot_springs": [
+    "avots",
+    "karstie avoti",
+    "karsts"
+  ],
+  "hotel": [
+    "ēka",
+    "māja",
+    "viesnīca"
+  ],
+  "hourglass_done": [
+    "iztecējis smilšu pulkstenis",
+    "iztecējis smilšu pulstenis",
+    "smiltis",
+    "taimeris"
+  ],
+  "hourglass_not_done": [
+    "pulkstenis",
+    "smilšu pulkstenis ar plūstošām smiltīm",
+    "smiltis",
+    "taimeris"
+  ],
+  "house": [
+    "ēka",
+    "māja"
+  ],
+  "house_with_garden": [
+    "dārzs",
+    "ēka",
+    "māja",
+    "māja ar dārzu"
+  ],
+  "houses": [
+    "ēka",
+    "ēkas",
+    "māja"
+  ],
+  "hugs": [
+    "apskaut",
+    "apskāviens",
+    "seja",
+    "seja ar apskāvienu"
+  ],
+  "hungary": [
+    "karogs"
+  ],
+  "hushed_face": [
+    "apklusināt",
+    "pārsteigt",
+    "pārsteigta seja",
+    "seja"
+  ],
+  "hut": [
+    "apaļa māja",
+    "būda",
+    "jurta",
+    "māja"
+  ],
+  "ice": [
+    "aisbergs",
+    "auksts",
+    "ledus gabaliņš"
+  ],
+  "ice_cream": [
+    "deserts",
+    "krēms",
+    "saldējums",
+    "salds"
+  ],
+  "ice_hockey": [
+    "hokejs",
+    "hokejs uz ledus",
+    "nūja",
+    "ripa",
+    "sports"
+  ],
+  "ice_skate": [
+    "ledus",
+    "slida"
+  ],
+  "iceland": [
+    "karogs"
+  ],
+  "id_button": [
+    "id",
+    "identitāte",
+    "uzraksts id kvadrātveida ietvarā"
+  ],
+  "in_hole": [
+    "bedrīte",
+    "golfs",
+    "karodziņš bedrītē"
+  ],
+  "inbox_tray": [
+    "dokuments",
+    "ienākošo dokumentu paliktnis",
+    "kaste",
+    "pasts",
+    "saņemt"
+  ],
+  "incoming_envelope": [
+    "aploksne",
+    "e-pasts",
+    "ienākoša aploksne",
+    "saņemt",
+    "vēstule"
+  ],
+  "index_pointing_up": [
+    "augšup vērsts rādītājpirksts",
+    "delna",
+    "ķermenis",
+    "pirksts",
+    "rādīt",
+    "rādītājpirksts",
+    "roka"
+  ],
+  "india": [
+    "karogs"
+  ],
+  "indonesia": [
+    "karogs"
+  ],
+  "infinity": [
+    "bezgalība",
+    "bezgalīgs",
+    "mūžība",
+    "vispārīgs"
+  ],
+  "information_source": [
+    "i",
+    "informācija",
+    "informācijas simbols"
+  ],
+  "innocent": [
+    "eņģelis",
+    "nevainīgs",
+    "nimbs",
+    "seja",
+    "smaidoša seja ar nimbu",
+    "smaids",
+    "svētais"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "alfabēts",
+    "burti",
+    "ievade",
+    "latīņu"
+  ],
+  "input_latin_lowercase": [
+    "burti",
+    "ievade",
+    "latīņu",
+    "mazie"
+  ],
+  "input_latin_uppercase": [
+    "burti",
+    "ievade",
+    "latīņu",
+    "lielie"
+  ],
+  "input_symbols": [
+    "ievade",
+    "simboli"
+  ],
+  "iran": [
+    "karogs"
+  ],
+  "iraq": [
+    "karogs"
+  ],
+  "ireland": [
+    "karogs"
+  ],
+  "isle_of_man": [
+    "karogs"
+  ],
+  "israel": [
+    "karogs"
+  ],
+  "italy": [
+    "karogs"
+  ],
+  "jack_o_lantern": [
+    "helovīns",
+    "izgrebts ķirbis",
+    "ķirbis",
+    "svētki",
+    "visu svēto dienas priekšvakars"
+  ],
+  "jamaica": [
+    "karogs"
+  ],
+  "japan": [
+    "karogs"
+  ],
+  "japanese_acceptable_button": [
+    "ideogramma piekrist apļveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_application_button": [
+    "ideogramma pieprasīt kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_bargain_button": [
+    "ideogramma izdevīgi apļveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_castle": [
+    "ēka",
+    "japāņu",
+    "māja",
+    "pils"
+  ],
+  "japanese_congratulations_button": [
+    "ideogramma apsveikums kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_discount_button": [
+    "ideogramma atlaide kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_dolls": [
+    "japāņu",
+    "japāņu lelles",
+    "lelle",
+    "svētki"
+  ],
+  "japanese_free_of_charge_button": [
+    "ideogramma nebūt kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_here_button": [
+    "japāņu",
+    "uzraksts šeit katakanā kvadrātveida ietvarā"
+  ],
+  "japanese_monthly_amount_button": [
+    "ideogramma mēness kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_no_vacancy_button": [
+    "ideogramma pilns kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "ideogramma būt kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_open_for_business_button": [
+    "ideogramma strādā kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_passing_grade_button": [
+    "ideogramma kopā kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_post_office": [
+    "ēka",
+    "japāņu",
+    "japāņu pasta nodaļa",
+    "māja",
+    "pasts"
+  ],
+  "japanese_prohibited_button": [
+    "ideogramma aizliegt kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_reserved_button": [
+    "ideogramma norāde kvadrātveida ietvarā",
+    "japāņu"
+  ],
+  "japanese_secret_button": [
+    "ideogramma slepens kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "japanese_service_charge_button": [
+    "japāņu",
+    "uzraksts pakalpojums katakanā kvadrātveida ietvarā"
+  ],
+  "japanese_symbol_for_beginner": [
+    "iesācējs",
+    "japāņu",
+    "japāņu simbols, kas apzīmē iesācēju",
+    "simbols"
+  ],
+  "japanese_vacancy_button": [
+    "ideogramma brīvs kvadrātveida ietvarā",
+    "ķīniešu"
+  ],
+  "jeans": [
+    "apģērbs",
+    "bikses",
+    "drēbes",
+    "džinsi"
+  ],
+  "jersey": [
+    "karogs"
+  ],
+  "joker": [
+    "džokers",
+    "kārtis"
+  ],
+  "jordan": [
+    "karogs"
+  ],
+  "joy": [
+    "asaras",
+    "prieks",
+    "seja",
+    "seja ar prieka asarām",
+    "smiekli"
+  ],
+  "joy_cat": [
+    "asaras",
+    "kaķis",
+    "kaķis ar prieka asarām",
+    "prieks",
+    "seja"
+  ],
+  "joystick": [
+    "kursorsvira",
+    "spēle",
+    "videospēle"
+  ],
+  "judge": [
+    "soģis",
+    "svari",
+    "tiesnesis"
+  ],
+  "kaaba": [
+    "ēka",
+    "islams",
+    "lūgties",
+    "māja",
+    "musulmaņi",
+    "reliģija"
+  ],
+  "kangaroo": [
+    "austrālija",
+    "ķengura mazulis",
+    "ķengurs",
+    "lēciens",
+    "somainis"
+  ],
+  "kazakhstan": [
+    "karogs"
+  ],
+  "kenya": [
+    "karogs"
+  ],
+  "key": [
+    "atslēga",
+    "parole"
+  ],
+  "keyboard": [
+    "dators",
+    "tastatūra"
+  ],
+  "kick_scooter": [
+    "skuteris",
+    "skuteris divritenis"
+  ],
+  "kimono": [
+    "apģērbs"
+  ],
+  "kiribati": [
+    "karogs"
+  ],
+  "kiss": [
+    "pāris",
+    "romantika",
+    "skūpsts"
+  ],
+  "kiss_man_man": [
+    "pāris",
+    "romantika",
+    "skūpsts",
+    "vīrietis"
+  ],
+  "kiss_mark": [
+    "lūpas",
+    "lūpukrāsa",
+    "nospiedums",
+    "skūpsta nospiedums",
+    "skūpsts"
+  ],
+  "kiss_woman_man": [
+    "pāris",
+    "romantika",
+    "sieviete",
+    "skūpsts",
+    "vīrietis"
+  ],
+  "kiss_woman_woman": [
+    "pāris",
+    "romantika",
+    "sieviete",
+    "skūpsts"
+  ],
+  "kissing_cat": [
+    "acis",
+    "kaķis",
+    "kaķis sniedz skūpstu",
+    "seja",
+    "skūpsts"
+  ],
+  "kissing_face": [
+    "seja",
+    "seja sniedz skūpstu",
+    "skūpsts"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "acs",
+    "aizvērts",
+    "seja",
+    "seja ar aizvērtām acīm sniedz skūpstu",
+    "skūpsts",
+    "smaids"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "seja",
+    "seja ar smaidošām acīm sniedz skūpstu",
+    "skūpsts",
+    "smaids"
+  ],
+  "kitchen_knife": [
+    "ēst",
+    "ierocis",
+    "nazis",
+    "virtuves nazis"
+  ],
+  "kite": [
+    "gaisa pūķis",
+    "lidot",
+    "pacelties"
+  ],
+  "kiwi_fruit": [
+    "auglis",
+    "kivi",
+    "pārtika"
+  ],
+  "knot": [
+    "megzls",
+    "mezgls",
+    "mudžeklis",
+    "striķis",
+    "virve"
+  ],
+  "koala": [
+    "lācis"
+  ],
+  "kosovo": [
+    "karogs"
+  ],
+  "kuwait": [
+    "karogs"
+  ],
+  "kyrgyzstan": [
+    "karogs"
+  ],
+  "lab_coat": [
+    "ārsts",
+    "eksperiments",
+    "laboratorijas halāts",
+    "zinātnieks"
+  ],
+  "label": [
+    "atzīme"
+  ],
+  "lacrosse": [
+    "bumba",
+    "lakross",
+    "mērķis",
+    "nūja"
+  ],
+  "ladder": [
+    "kāpnes",
+    "kāpt",
+    "pakāpiens",
+    "šķērskoks"
+  ],
+  "lady_beetle": [
+    "bizbizmārīte",
+    "kukainis",
+    "mārīte"
+  ],
+  "laos": [
+    "karogs"
+  ],
+  "laptop": [
+    "dators",
+    "klēpjdators",
+    "personālais"
+  ],
+  "large_blue_diamond": [
+    "ģeometrija",
+    "liels zils rombs",
+    "rombs"
+  ],
+  "large_orange_diamond": [
+    "ģeometrija",
+    "liels oranžs rombs",
+    "rombs"
+  ],
+  "last_quarter_moon": [
+    "dilstošs",
+    "mēness",
+    "pusmēness"
+  ],
+  "last_quarter_moon_face": [
+    "dilstoša mēness sirpja seja",
+    "dilstošs",
+    "mēness",
+    "seja",
+    "sirpis"
+  ],
+  "last_track_button": [
+    "atpakaļ",
+    "iepriekšējais",
+    "pa kreisi",
+    "poga iepriekšējā dziesma",
+    "trijstūris",
+    "trīsstūris"
+  ],
+  "latin_cross": [
+    "kristiešu krusts",
+    "kristietība",
+    "krusts",
+    "reliģija"
+  ],
+  "latvia": [
+    "karogs"
+  ],
+  "laughing": [
+    "atvērts",
+    "laimīgs",
+    "mute",
+    "seja",
+    "smaidoša seja ar atvērtu muti un aizmiegtām acīm",
+    "smaids",
+    "smiekli"
+  ],
+  "leaf_fluttering_in_wind": [
+    "augs",
+    "lapa",
+    "plīvot",
+    "vējā plīvojoša lapa",
+    "vējš"
+  ],
+  "leafy_green": [
+    "kacenkāposts",
+    "kāposts",
+    "ķīnas kāposts",
+    "lapu dārzenis",
+    "lapu kāposts"
+  ],
+  "lebanon": [
+    "karogs"
+  ],
+  "ledger": [
+    "grāmata",
+    "grāmata ar spirāli",
+    "spirāle"
+  ],
+  "left_arrow": [
+    "bultiņa",
+    "kreisā bultiņa",
+    "norāde",
+    "pa kreisi vērsta bultiņa",
+    "rietumi"
+  ],
+  "left_arrow_curving_right": [
+    "bultiņa",
+    "pa labi vērsta izliekta bultiņa"
+  ],
+  "left_facing_fist": [
+    "dūre",
+    "dūre pa kreisi",
+    "pa kreisi"
+  ],
+  "left_luggage": [
+    "bagāža",
+    "bagāžas glabātava",
+    "glabāt"
+  ],
+  "left_right_arrow": [
+    "bultiņa",
+    "pa kreisi un pa labi vērsta bultiņa"
+  ],
+  "left_speech_bubble": [
+    "burbulis",
+    "dialogs",
+    "pa kreisi vērsts runas burbulis",
+    "runa"
+  ],
+  "leg": [
+    "ekstremitāte",
+    "kāja",
+    "spēriens"
+  ],
+  "lemon": [
+    "auglis",
+    "augs",
+    "citrons",
+    "citruss"
+  ],
+  "leo": [
+    "lauva",
+    "zodiaka zīme lauva",
+    "zodiaks"
+  ],
+  "leopard": [
+    "leopards"
+  ],
+  "lesotho": [
+    "karogs"
+  ],
+  "level_slider": [
+    "mūzika",
+    "skaļuma slīdnis",
+    "skaļums",
+    "slīdnis"
+  ],
+  "liberia": [
+    "karogs"
+  ],
+  "libra": [
+    "svari",
+    "zodiaka zīme svari",
+    "zodiaks"
+  ],
+  "libya": [
+    "karogs"
+  ],
+  "liechtenstein": [
+    "karogs"
+  ],
+  "light_bulb": [
+    "elektrība",
+    "gaisma",
+    "ideja",
+    "komikss",
+    "spuldze"
+  ],
+  "light_rail": [
+    "dzelzceļš",
+    "piepilsētas vilciens",
+    "transports",
+    "vilciens"
+  ],
+  "link": [
+    "ķēde",
+    "ķēdes posms"
+  ],
+  "linked_paperclips": [
+    "saspraude",
+    "savienotas saspraudes"
+  ],
+  "lion": [
+    "galva",
+    "lauva",
+    "zodiaks"
+  ],
+  "lipstick": [
+    "kosmētika",
+    "lūpas",
+    "lūpukrāsa"
+  ],
+  "lithuania": [
+    "karogs"
+  ],
+  "litter_in_bin_sign": [
+    "atkritumi",
+    "atkritumu urnas zīme",
+    "urna"
+  ],
+  "lizard": [
+    "ķirzaka",
+    "rāpulis"
+  ],
+  "llama": [
+    "alpaka",
+    "gvanako",
+    "lama",
+    "vikunja",
+    "vilna"
+  ],
+  "lobster": [
+    "bisks",
+    "jūras veltes",
+    "omārs",
+    "spīles"
+  ],
+  "locked": [
+    "aizslēgts",
+    "slēdzene"
+  ],
+  "locked_with_key": [
+    "aizvērta slēdzene ar atslēgu",
+    "atslēga",
+    "drošs",
+    "slēdzene"
+  ],
+  "locked_with_pen": [
+    "konfidencialitāte",
+    "rakstāmspalva",
+    "slēdzene",
+    "slēdzene ar rakstāmspalvu"
+  ],
+  "locomotive": [
+    "dzelzceļš",
+    "dzinējs",
+    "lokomotīve",
+    "transports",
+    "vilciens"
+  ],
+  "lollipop": [
+    "konfekte",
+    "konfekte uz kociņa",
+    "salds",
+    "saldumi"
+  ],
+  "long_drum": [
+    "bungas",
+    "garās bungas",
+    "konga",
+    "ritms",
+    "vālīte"
+  ],
+  "lotion_bottle": [
+    "losjona pudele",
+    "losjons",
+    "mitrinātājs",
+    "šampūns",
+    "sauļošanās krēms"
+  ],
+  "loudspeaker": [
+    "pastiprinātājs",
+    "skaļrunis",
+    "skaļš"
+  ],
+  "love_hotel": [
+    "ēka",
+    "māja",
+    "mīlas viesnīca",
+    "viesnīca"
+  ],
+  "love_letter": [
+    "mīlestība",
+    "mīlestības vēstule",
+    "pasts",
+    "romantika",
+    "sirds",
+    "vēstule"
+  ],
+  "love_you_gesture": [
+    "emt",
+    "mīlas žests",
+    "roka"
+  ],
+  "luggage": [
+    "bagāža",
+    "ceļojums",
+    "pakošanās"
+  ],
+  "lungs": [
+    "ekshalācija",
+    "elpošana",
+    "inhalācija",
+    "orgāns",
+    "plaušas",
+    "respirācija"
+  ],
+  "luxembourg": [
+    "karogs"
+  ],
+  "lying_face": [
+    "meli",
+    "melojoša seja",
+    "pinokio",
+    "seja"
+  ],
+  "macao_sar_china": [
+    "karogs"
+  ],
+  "madagascar": [
+    "karogs"
+  ],
+  "mage": [
+    "burvis",
+    "mags",
+    "ragana"
+  ],
+  "magic_wand": [
+    "burvis",
+    "burvju",
+    "burvju nūjiņa",
+    "ragana"
+  ],
+  "magnet": [
+    "magnētisks",
+    "magnēts",
+    "pakavs",
+    "pievilkšana"
+  ],
+  "magnifying_glass_tilted_left": [
+    "lupa",
+    "pa kreisi vērsta lupa",
+    "palielināt"
+  ],
+  "magnifying_glass_tilted_right": [
+    "lupa",
+    "pa labi vērsta lupa",
+    "palielināt"
+  ],
+  "mahjong_red_dragon": [
+    "mahjong",
+    "mahjong kauliņš, sarkanais pūķis",
+    "sarkans",
+    "spēle"
+  ],
+  "malawi": [
+    "karogs"
+  ],
+  "malaysia": [
+    "karogs"
+  ],
+  "maldives": [
+    "karogs"
+  ],
+  "male_sign": [
+    "vīriešu simbols",
+    "vīrietis"
+  ],
+  "mali": [
+    "karogs"
+  ],
+  "malta": [
+    "karogs"
+  ],
+  "mammoth": [
+    "ilknis",
+    "izmiršana",
+    "liels",
+    "mamuts",
+    "vilnains"
+  ],
+  "man": [
+    "kungs",
+    "seja",
+    "vīrietis",
+    "vīrs"
+  ],
+  "man_artist": [
+    "mākslinieks",
+    "palete",
+    "vīrietis"
+  ],
+  "man_astronaut": [
+    "astronauts",
+    "kosmoss",
+    "raķete",
+    "vīrietis"
+  ],
+  "man_bald": [
+    "bez matiem",
+    "kungs",
+    "seja",
+    "vīrietis",
+    "vīrs"
+  ],
+  "man_biking": [
+    "riteņbraucējs",
+    "sports",
+    "velosipēds",
+    "vīrietis"
+  ],
+  "man_bouncing_ball": [
+    "basketbols",
+    "bumba",
+    "sports",
+    "vīrietis",
+    "vīrietis ar bumbu"
+  ],
+  "man_bowing": [
+    "cieņa",
+    "paklanīšanās",
+    "vīrietis",
+    "vīrietis paklanās"
+  ],
+  "man_cartwheeling": [
+    "akrobātika",
+    "akrobāts",
+    "sports",
+    "vingrošana",
+    "vīrietis"
+  ],
+  "man_climbing": [
+    "alpīnists",
+    "kāpēja",
+    "kāpējs"
+  ],
+  "man_cook": [
+    "pavārs",
+    "šefpavārs",
+    "vīrietis"
+  ],
+  "man_curly_hair": [
+    "kungs",
+    "seja",
+    "sprogaini mati",
+    "vīrietis",
+    "vīrs"
+  ],
+  "man_dancing": [
+    "deja",
+    "vīrietis",
+    "vīrietis dejo"
+  ],
+  "man_detective": [
+    "detektīvs",
+    "detektīvs (vīrietis)",
+    "spiegs",
+    "vīrietis",
+    "vīrietis izmeklē"
+  ],
+  "man_elf": [
+    "elfu vīrietis",
+    "maģisks"
+  ],
+  "man_facepalming": [
+    "aizkaitinājums",
+    "nav vārdu",
+    "roka",
+    "vīrietis",
+    "vīrietis ar saķertu galvu"
+  ],
+  "man_factory_worker": [
+    "fabrikas strādnieks",
+    "ražošana",
+    "rūpnīca",
+    "strādnieks",
+    "vīrietis"
+  ],
+  "man_fairy": [
+    "laumiņš",
+    "oberons",
+    "paks",
+    "pasaku burvis"
+  ],
+  "man_farmer": [
+    "dārzenieks",
+    "lauksaimnieks",
+    "vīrietis"
+  ],
+  "man_feeding_baby": [
+    "barošana",
+    "bērnu barojošs cilvēks",
+    "cilvēks",
+    "kopšana",
+    "mazulis"
+  ],
+  "man_firefighter": [
+    "ugunsdzēsējs",
+    "vīrietis"
+  ],
+  "man_frowning": [
+    "dusmoties",
+    "norūpējies vīrietis",
+    "vīrietis",
+    "žests"
+  ],
+  "man_genie": [
+    "burvis",
+    "džins",
+    "vīrietis džins"
+  ],
+  "man_gesturing_no": [
+    "nepiekrišana",
+    "pret",
+    "vīrietis",
+    "vīrietis ar aizlieguma žestu",
+    "vīrietis ar noraidījuma žestu",
+    "žests"
+  ],
+  "man_gesturing_ok": [
+    "par",
+    "piekrišana",
+    "vīrietis",
+    "vīrietis ar apstiprinājuma žestu",
+    "žests"
+  ],
+  "man_getting_haircut": [
+    "frizieris",
+    "griezums",
+    "šķēres",
+    "vīrietis",
+    "vīrietis pie friziera"
+  ],
+  "man_getting_massage": [
+    "masāža",
+    "seja",
+    "vīrietim masē seju",
+    "vīrietis"
+  ],
+  "man_golfing": [
+    "golfs",
+    "sports",
+    "vīrietis",
+    "vīrietis spēlē golfu"
+  ],
+  "man_guard": [
+    "apsargs",
+    "sargs",
+    "vīrietis"
+  ],
+  "man_health_worker": [
+    "ārsts",
+    "brālītis",
+    "dakteris",
+    "terapeits",
+    "veselības aprūpes speciālists",
+    "vīrietis"
+  ],
+  "man_in_lotus_position": [
+    "joga",
+    "meditācija",
+    "vīrietis lotosa pozā"
+  ],
+  "man_in_manual_wheelchair": [
+    "pieejamība",
+    "ratiņkrēsls",
+    "vīretis manuālā ratiņkrēslā",
+    "vīrietis",
+    "vīrietis manuālā ratiņkrēslā"
+  ],
+  "man_in_motorized_wheelchair": [
+    "cilvēks",
+    "pieejamība",
+    "ratiņkrēsls",
+    "vīrietis motorizētā ratiņkrēslā"
+  ],
+  "man_in_steamy_room": [
+    "sauna",
+    "tvaika telpa",
+    "vīrietis tvaika telpā"
+  ],
+  "man_in_tuxedo": [
+    "smokings",
+    "vīrietis",
+    "vīrietis smokingā"
+  ],
+  "man_judge": [
+    "likums",
+    "svari",
+    "tiesnesis",
+    "vīrietis"
+  ],
+  "man_juggling": [
+    "sports",
+    "vairāki uzdevumi",
+    "vīrietis",
+    "žonglieris"
+  ],
+  "man_kneeling": [
+    "uz ceļiem",
+    "vīrietis",
+    "vīrietis uz ceļiem"
+  ],
+  "man_lifting_weights": [
+    "sports",
+    "svarcēlājs",
+    "svarcelšana",
+    "vīrietis"
+  ],
+  "man_mage": [
+    "burvis",
+    "zintnieks"
+  ],
+  "man_mechanic": [
+    "elektriķis",
+    "mehāniķis",
+    "santehniķis",
+    "vīrietis"
+  ],
+  "man_mountain_biking": [
+    "kalnu velosipēds",
+    "riteņbraucējs ar kalnu velosipēdu",
+    "sports",
+    "vīrietis"
+  ],
+  "man_office_worker": [
+    "arhitekts",
+    "baltās apkaklītes",
+    "biroja darbinieks",
+    "birojs",
+    "menedžeris",
+    "uzņēmējdarbība",
+    "virietis"
+  ],
+  "man_pilot": [
+    "lidmašīna",
+    "pilots",
+    "vīrietis"
+  ],
+  "man_playing_handball": [
+    "rokasbumba",
+    "rokasbumbas spēlētājs",
+    "sports",
+    "vīrietis"
+  ],
+  "man_playing_water_polo": [
+    "sports",
+    "ūdenspolo",
+    "ūdenspolo spēlētājs",
+    "vīrietis"
+  ],
+  "man_police_officer": [
+    "policija",
+    "policijas virsnieks",
+    "policists",
+    "vīrietis",
+    "virsnieks"
+  ],
+  "man_pouting": [
+    "bēdāties",
+    "sabozies vīrietis",
+    "vīrietis",
+    "žests"
+  ],
+  "man_raising_hand": [
+    "pacelta roka",
+    "vīrietis",
+    "vīrietis ar paceltu roku",
+    "žests"
+  ],
+  "man_red_hair": [
+    "kungs",
+    "sarkani mati",
+    "seja",
+    "vīrietis",
+    "vīrs"
+  ],
+  "man_rowing_boat": [
+    "airētājs",
+    "airi",
+    "laiva",
+    "sports",
+    "vīrietis"
+  ],
+  "man_running": [
+    "maratons",
+    "sacīkstes",
+    "skrējiens",
+    "vīrietis",
+    "vīrietis skrien"
+  ],
+  "man_s_shoe": [
+    "apavi",
+    "vīriešu",
+    "vīriešu kurpe"
+  ],
+  "man_scientist": [
+    "biologs",
+    "fiziķis",
+    "inženieris",
+    "ķīmiķis",
+    "matemātiķis",
+    "vīrietis",
+    "zinātnieks"
+  ],
+  "man_shrugging": [
+    "neziņa",
+    "rausta plecus",
+    "vienaldzība",
+    "vienalga",
+    "vīrietis",
+    "vīrietis rausta plecus"
+  ],
+  "man_singer": [
+    "aktieris",
+    "dziedātājs",
+    "izklaide",
+    "roks",
+    "vīrietis",
+    "zvaigzne"
+  ],
+  "man_standing": [
+    "stāvēšana",
+    "stāvošs vīrietis",
+    "vīrietis"
+  ],
+  "man_student": [
+    "absolvents",
+    "students",
+    "vīrietis"
+  ],
+  "man_superhero": [
+    "labais",
+    "superspēks",
+    "varonis",
+    "vīrietis",
+    "vīrietis supervaronis"
+  ],
+  "man_supervillain": [
+    "krimināls",
+    "ļaunums",
+    "nelietis",
+    "superļaunais vīrietis",
+    "superspēks",
+    "vīrietis"
+  ],
+  "man_surfing": [
+    "sērfošana",
+    "sports",
+    "vīrietis",
+    "vīrietis sērfo"
+  ],
+  "man_swimming": [
+    "peldēšana",
+    "sports",
+    "vīrietis",
+    "vīrietis peld"
+  ],
+  "man_teacher": [
+    "pasniedzējs",
+    "profesors",
+    "skolotājs",
+    "vīrietis"
+  ],
+  "man_technologist": [
+    "izstrādātājs",
+    "programmatūra",
+    "programmētājs",
+    "tehniķis",
+    "vīrietis"
+  ],
+  "man_tipping_hand": [
+    "bezkaunība",
+    "vīrietis",
+    "vīrietis ar pastieptu roku",
+    "žests"
+  ],
+  "man_vampire": [
+    "drakula",
+    "nemirstīgais",
+    "vīriešu kārtas vampīrs"
+  ],
+  "man_walking": [
+    "pārgājiens",
+    "pastaiga",
+    "vīrietis",
+    "vīrietis pastaigājas"
+  ],
+  "man_wearing_turban": [
+    "turbāns",
+    "vīrietis",
+    "vīrietis ar turbānu"
+  ],
+  "man_white_hair": [
+    "kungs",
+    "seja",
+    "sirmi mati",
+    "vīrietis",
+    "vīrs"
+  ],
+  "man_with_veil": [
+    "plīvurs",
+    "vīrietis",
+    "vīrietis ar plīvuru"
+  ],
+  "man_with_white_cane": [
+    "akls",
+    "cilvēks",
+    "pieejamība",
+    "vīrietis ar balto atbalsta spieķi"
+  ],
+  "man_zombie": [
+    "nemirstīgs",
+    "staigājošais mironis",
+    "vīrietis zombijs",
+    "zombijvīrietis"
+  ],
+  "mango": [
+    "auglis",
+    "tropiskais"
+  ],
+  "mantelpiece_clock": [
+    "kamīna pulkstenis",
+    "pulkstenis"
+  ],
+  "manual_wheelchair": [
+    "manuāli darbināms ratiņkrēsls",
+    "pieejamība"
+  ],
+  "map_of_japan": [
+    "japāna",
+    "japānas karte",
+    "karte"
+  ],
+  "maple_leaf": [
+    "augs",
+    "kļava",
+    "kļavas lapa",
+    "lapa"
+  ],
+  "marshall_islands": [
+    "karogs"
+  ],
+  "martial_arts_uniform": [
+    "cīņas māksla",
+    "cīņu sporta tērps",
+    "džudo",
+    "karatē",
+    "kimono",
+    "sports",
+    "taekvondo",
+    "tērps"
+  ],
+  "martinique": [
+    "karogs"
+  ],
+  "mate": [
+    "dzēriens"
+  ],
+  "mauritania": [
+    "karogs"
+  ],
+  "mauritius": [
+    "karogs"
+  ],
+  "mayotte": [
+    "karogs"
+  ],
+  "meat_on_bone": [
+    "gaļa",
+    "kauls",
+    "kauls ar gaļu"
+  ],
+  "mechanic": [
+    "elektriķis",
+    "mehāniķis",
+    "santehniķis",
+    "vīrietis"
+  ],
+  "mechanical_arm": [
+    "mehāniska roka",
+    "pieejamība",
+    "protēzes"
+  ],
+  "mechanical_leg": [
+    "mehāniska kāja",
+    "pieejamība",
+    "protēzes"
+  ],
+  "medical_symbol": [
+    "eskulaps",
+    "medicīna",
+    "medicīnas simbols",
+    "personāls"
+  ],
+  "megaphone": [
+    "megafons",
+    "ovācijas"
+  ],
+  "melon": [
+    "auglis",
+    "augs",
+    "melone"
+  ],
+  "memo": [
+    "piezīme",
+    "zīmulis"
+  ],
+  "men_holding_hands": [
+    "dvīņi",
+    "pāris",
+    "rokas",
+    "sadot",
+    "sieviete",
+    "vīrieši sadevušies rokās",
+    "vīrietis",
+    "zodiaks"
+  ],
+  "men_s_room": [
+    "tualete",
+    "vīriešu",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "ballīte",
+    "dejotāji",
+    "dejotājs",
+    "vīrietis",
+    "zaķa ausis"
+  ],
+  "men_wrestling": [
+    "cīkstonis",
+    "cīņa",
+    "sports",
+    "vīrietis"
+  ],
+  "menorah": [
+    "menora",
+    "reliģija",
+    "svečturis"
+  ],
+  "mermaid": [
+    "nāra",
+    "sieviete nāra"
+  ],
+  "merman": [
+    "tritons",
+    "vīrietis nāra"
+  ],
+  "merperson": [
+    "cilvēks nāra",
+    "nāra",
+    "nāris",
+    "nārveidīgs"
+  ],
+  "metro": [
+    "transports"
+  ],
+  "mexico": [
+    "karogs"
+  ],
+  "microbe": [
+    "amēba",
+    "baktērija",
+    "mikrobs",
+    "vīruss"
+  ],
+  "micronesia": [
+    "karogs"
+  ],
+  "microphone": [
+    "karaoke",
+    "mikrofons"
+  ],
+  "microscope": [
+    "mikroskops",
+    "rīks",
+    "zinātne"
+  ],
+  "military_helmet": [
+    "armija",
+    "karavīrs",
+    "ķivere",
+    "militārā",
+    "zaldāts"
+  ],
+  "military_medal": [
+    "armija",
+    "medaļa",
+    "militāra medaļa",
+    "ordenis"
+  ],
+  "milky_way": [
+    "debesis",
+    "kosmoss",
+    "piena ceļš",
+    "visums"
+  ],
+  "minibus": [
+    "autobuss",
+    "mikroautobuss",
+    "transports"
+  ],
+  "minus": [
+    "-",
+    "–",
+    "atņemt",
+    "matemātika",
+    "mīnuss",
+    "mīnuszīme"
+  ],
+  "mirror": [
+    "atspīdums",
+    "reflektors",
+    "spogulis"
+  ],
+  "moai": [
+    "galva",
+    "lieldienu salu statuja",
+    "statuja"
+  ],
+  "mobile_phone": [
+    "mobilais",
+    "tālrunis",
+    "telefons"
+  ],
+  "mobile_phone_off": [
+    "izslēgt",
+    "izslēgts mobilais tālrunis",
+    "mobilais",
+    "tālrunis",
+    "telefons"
+  ],
+  "mobile_phone_with_arrow": [
+    "bultiņa",
+    "mobilais",
+    "mobilais tālrunis ar bultiņu",
+    "tālrunis",
+    "telefons"
+  ],
+  "moldova": [
+    "karogs"
+  ],
+  "monaco": [
+    "karogs"
+  ],
+  "money_bag": [
+    "dolārs",
+    "maiss",
+    "nauda",
+    "naudas maiss"
+  ],
+  "money_mouth_face": [
+    "mute",
+    "nauda",
+    "seja",
+    "seja ar naudu mutē"
+  ],
+  "money_with_wings": [
+    "banknote",
+    "banknote ar spārniem",
+    "lidot",
+    "nauda",
+    "spārni"
+  ],
+  "mongolia": [
+    "karogs"
+  ],
+  "monkey": [
+    "mērkaķis"
+  ],
+  "monkey_face": [
+    "galva",
+    "pērtiķa galva",
+    "pērtiķis"
+  ],
+  "monorail": [
+    "dzelzceļš",
+    "transports",
+    "viensliedes dzelzceļš",
+    "vilciens"
+  ],
+  "montenegro": [
+    "karogs"
+  ],
+  "montserrat": [
+    "karogs"
+  ],
+  "moon_cake": [
+    "festivāls",
+    "mēness kūka",
+    "rudens"
+  ],
+  "moon_viewing_ceremony": [
+    "japāņu",
+    "mēness",
+    "mēness vērošanas ceremonija",
+    "svētki"
+  ],
+  "morocco": [
+    "karogs"
+  ],
+  "mosque": [
+    "ēka",
+    "islams",
+    "lūgties",
+    "māja",
+    "mošeja",
+    "musulmaņi",
+    "reliģija"
+  ],
+  "mosquito": [
+    "drudzis",
+    "insekts",
+    "malārija",
+    "ods",
+    "slimība",
+    "vīruss"
+  ],
+  "motor_boat": [
+    "laiva",
+    "motorlaiva",
+    "transports",
+    "ūdens"
+  ],
+  "motor_scooter": [
+    "motorollers"
+  ],
+  "motorcycle": [
+    "motocikls",
+    "sacīkstes"
+  ],
+  "motorized_wheelchair": [
+    "ar motoru darbināms ratiņkrēsls",
+    "pieejamība"
+  ],
+  "motorway": [
+    "automaģistrāle",
+    "ceļš",
+    "šoseja"
+  ],
+  "mount_fuji": [
+    "fudzi",
+    "kalns"
+  ],
+  "mountain": [
+    "kalns"
+  ],
+  "mountain_cableway": [
+    "gondola",
+    "kalns",
+    "kalnu trošu ceļš",
+    "kalnu trošu vilciens",
+    "transports",
+    "trose"
+  ],
+  "mountain_railway": [
+    "dzelzceļš",
+    "kalni",
+    "kalnu dzelzceļš",
+    "transports",
+    "vagons",
+    "vilciens"
+  ],
+  "mouse": [
+    "pele"
+  ],
+  "mouse_face": [
+    "galva",
+    "pele",
+    "peles galva"
+  ],
+  "mouse_trap": [
+    "ēsma",
+    "lamatas",
+    "peļu slazds",
+    "slazds"
+  ],
+  "mouth": [
+    "ķermenis",
+    "lūpas",
+    "mute"
+  ],
+  "movie_camera": [
+    "filma",
+    "kamera",
+    "kino",
+    "kinokamera"
+  ],
+  "mozambique": [
+    "karogs"
+  ],
+  "mrs_claus": [
+    "omīte",
+    "salavecis",
+    "ziemassvētki",
+    "ziemassvētku omīte",
+    "ziemassvētku vecītis"
+  ],
+  "multiply": [
+    "×",
+    "atcelt",
+    "krustiņš",
+    "matemātika",
+    "reizināšanas zīme",
+    "reizināt",
+    "x"
+  ],
+  "mushroom": [
+    "augs",
+    "sēne"
+  ],
+  "musical_keyboard": [
+    "instruments",
+    "klaviatūra",
+    "klavieres",
+    "klavieru taustiņi",
+    "mūzika"
+  ],
+  "musical_note": [
+    "mūzika",
+    "nots"
+  ],
+  "musical_notes": [
+    "mūzika",
+    "notis"
+  ],
+  "musical_score": [
+    "mūzika",
+    "nošu līnijas",
+    "notis"
+  ],
+  "muted_speaker": [
+    "bez skaņas",
+    "izslēgts",
+    "kluss",
+    "klusums",
+    "skaļrunis",
+    "skaļums"
+  ],
+  "mx_claus": [
+    "dzimumneitrāls santaklauss",
+    "ziemassvētku santaklauss"
+  ],
+  "myanmar_burma": [
+    "karogs"
+  ],
+  "nail_polish": [
+    "ķermenis",
+    "kosmētika",
+    "laka",
+    "manikīrs",
+    "nagi",
+    "nagu laka",
+    "skaistumkopšana"
+  ],
+  "name_badge": [
+    "nozīmīte",
+    "vārda nozīmīte",
+    "vārds"
+  ],
+  "namibia": [
+    "karogs"
+  ],
+  "national_park": [
+    "daba",
+    "nacionālais parks",
+    "parks"
+  ],
+  "nauru": [
+    "karogs"
+  ],
+  "nauseated_face": [
+    "nelabums",
+    "seja",
+    "slimība"
+  ],
+  "nazar_amulet": [
+    "amulets pret ļaunu aci",
+    "krelle",
+    "ļaunā acs",
+    "nazars",
+    "piekariņš",
+    "talismans"
+  ],
+  "necktie": [
+    "apģērbs",
+    "drēbes",
+    "kaklasaite"
+  ],
+  "nepal": [
+    "karogs"
+  ],
+  "nerd_face": [
+    "briļļainais",
+    "gudrītis",
+    "seja"
+  ],
+  "nesting_dolls": [
+    "krievu",
+    "lelle",
+    "matrjoška",
+    "matrjoškas"
+  ],
+  "netherlands": [
+    "karogs"
+  ],
+  "neutral_face": [
+    "bez izteiksmes",
+    "neitrāla seja",
+    "neitrāls",
+    "neizteiksmīgs",
+    "seja"
+  ],
+  "new_button": [
+    "jauns",
+    "new",
+    "uzraksts new kvadrātveida ietvarā"
+  ],
+  "new_caledonia": [
+    "karogs"
+  ],
+  "new_moon": [
+    "jauns mēness",
+    "mēness",
+    "tumšs"
+  ],
+  "new_moon_face": [
+    "jauna mēness seja",
+    "mēness",
+    "seja"
+  ],
+  "new_zealand": [
+    "karogs"
+  ],
+  "newspaper": [
+    "avīze",
+    "laikraksts",
+    "ziņas"
+  ],
+  "next_track_button": [
+    "nākamais",
+    "pa labi",
+    "poga nākamā dziesma",
+    "tālāk"
+  ],
+  "ng_button": [
+    "ng",
+    "uzraksts ng kvadrātveida ietvarā"
+  ],
+  "nicaragua": [
+    "karogs"
+  ],
+  "niger": [
+    "karogs"
+  ],
+  "nigeria": [
+    "karogs"
+  ],
+  "night_with_stars": [
+    "nakts",
+    "zvaigzne",
+    "zvaigžņota debess"
+  ],
+  "nine": [
+    "taustiņš"
+  ],
+  "nine_o_clock": [
+    "00",
+    "9",
+    "9:00",
+    "pulksten deviņi",
+    "pulkstenis"
+  ],
+  "nine_thirty": [
+    "30",
+    "9",
+    "9:30",
+    "pulksten pusdesmit",
+    "pulkstenis",
+    "pusdesmit"
+  ],
+  "ninja": [
+    "cīnītājs",
+    "nindzja",
+    "paslēpts",
+    "slepens"
+  ],
+  "niue": [
+    "karogs"
+  ],
+  "no_bicycles": [
+    "aizliegts",
+    "nē",
+    "velosipēdiem braukt aizliegts",
+    "velosipēds"
+  ],
+  "no_entry": [
+    "aizliegts",
+    "iebraukt aizliegts",
+    "ieeja",
+    "nē",
+    "nedrīkst",
+    "satiksme"
+  ],
+  "no_littering": [
+    "aizliegts",
+    "atkritumi",
+    "atkritumus mest aizliegts",
+    "nē",
+    "nedrīkst"
+  ],
+  "no_mobile_phones": [
+    "aizliegts",
+    "mobilais",
+    "mobilie tālruņi aizliegti",
+    "nē",
+    "nedrīkst",
+    "tālrunis",
+    "telefons"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "aizliegts",
+    "astoņpadsmit",
+    "nē",
+    "nedrīkst",
+    "nepilngadīgs",
+    "tikai no 18 gadu vecuma"
+  ],
+  "no_pedestrians": [
+    "aizliegts",
+    "gājēji",
+    "gājējiem iet aizliegts",
+    "kājāmgājēji",
+    "nē",
+    "nedrīkst"
+  ],
+  "no_smoking": [
+    "aizliegts",
+    "nē",
+    "nedrīkst",
+    "smēķēt"
+  ],
+  "non_potable_water": [
+    "aizliegts",
+    "dzert",
+    "nav dzeramais ūdens",
+    "nē",
+    "nedrīkst",
+    "ūdens"
+  ],
+  "norfolk_island": [
+    "karogs"
+  ],
+  "north_korea": [
+    "karogs"
+  ],
+  "north_macedonia": [
+    "karogs"
+  ],
+  "northern_mariana_islands": [
+    "karogs"
+  ],
+  "norway": [
+    "karogs"
+  ],
+  "nose": [
+    "deguns",
+    "ķermenis"
+  ],
+  "notebook": [
+    "piezīmju grāmata"
+  ],
+  "notebook_with_decorative_cover": [
+    "bloknots",
+    "bloknots ar dekoratīvu vāku",
+    "dekoratīvs",
+    "grāmata",
+    "vāks"
+  ],
+  "nut_and_bolt": [
+    "skrūve",
+    "skrūve un uzgrieznis",
+    "tapa",
+    "uzgrieznis"
+  ],
+  "o_button_blood_type": [
+    "asinsgrupa",
+    "o",
+    "o poga (asinsgrupa)",
+    "poga o"
+  ],
+  "ocean": [
+    "jūra",
+    "okeāns",
+    "ūdens",
+    "vilnis"
+  ],
+  "octopus": [
+    "astoņkājis"
+  ],
+  "oden": [
+    "ēdiens",
+    "ēdiens uz irbulīšiem",
+    "irbulīši"
+  ],
+  "office_building": [
+    "biroju ēka",
+    "ēka",
+    "māja"
+  ],
+  "office_worker": [
+    "arhitekts",
+    "baltā apkaklīte",
+    "pārvaldnieks",
+    "uzņēmējs",
+    "vīrietis biroja darbinieks"
+  ],
+  "ogre": [
+    "cilvēkēdājs",
+    "fantāzija",
+    "monstrs",
+    "pasaka",
+    "radījums",
+    "seja"
+  ],
+  "oil_drum": [
+    "eļļa",
+    "eļļas tvertne",
+    "tvertne"
+  ],
+  "ok_button": [
+    "labi",
+    "ok",
+    "uzraksts ok kvadrātveida ietvarā"
+  ],
+  "ok_hand": [
+    "ķermenis",
+    "labi",
+    "ok",
+    "roka",
+    "simbols ok"
+  ],
+  "old_key": [
+    "atrisinājums",
+    "atslēga",
+    "veca atslēga"
+  ],
+  "old_man": [
+    "seja",
+    "vecs",
+    "vectēvs",
+    "vīrietis"
+  ],
+  "old_woman": [
+    "seja",
+    "sieviete",
+    "veca sieviete",
+    "vecmamma",
+    "vecs"
+  ],
+  "older_person": [
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "vecāks pieaugušais",
+    "vecs"
+  ],
+  "olive": [
+    "ēdiens",
+    "olīva"
+  ],
+  "om": [
+    "hinduisms",
+    "om simbols",
+    "reliģija"
+  ],
+  "oman": [
+    "karogs"
+  ],
+  "on_arrow": [
+    "bultiņa",
+    "bultiņa ar uzrakstu on!",
+    "ieslēgts"
+  ],
+  "oncoming_automobile": [
+    "automašīna",
+    "mašīna",
+    "pretī braucoša automašīna",
+    "transports"
+  ],
+  "oncoming_bus": [
+    "autobuss",
+    "pretī braucošs autobuss",
+    "transports"
+  ],
+  "oncoming_fist": [
+    "dūre",
+    "ķermenis",
+    "pretim vērsta dūre",
+    "roka",
+    "sist"
+  ],
+  "oncoming_police_car": [
+    "automašīna",
+    "mašīna",
+    "policija",
+    "pretī braucoša policijas mašīna",
+    "transports"
+  ],
+  "oncoming_taxi": [
+    "automašīna",
+    "mašīna",
+    "pretī braucošs taksometrs",
+    "transports"
+  ],
+  "one": [
+    "taustiņš"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1:00",
+    "pulksten viens",
+    "pulkstenis"
+  ],
+  "one_piece_swimsuit": [
+    "kopējais peldkostīms",
+    "peldkostīms"
+  ],
+  "one_thirty": [
+    "1",
+    "1:30",
+    "30",
+    "pulksten pusdivi",
+    "pulkstenis"
+  ],
+  "onion": [
+    "garšviela",
+    "sīpols"
+  ],
+  "open_book": [
+    "atvērta",
+    "grāmata"
+  ],
+  "open_file_folder": [
+    "atvērta dokumentu mape",
+    "atvērts",
+    "dokuments",
+    "mape"
+  ],
+  "open_hands": [
+    "atvērtas rokas",
+    "ķermenis",
+    "roka"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "atvērta",
+    "atvērta pastkaste ar nolaistu karodziņu",
+    "pastkaste",
+    "pasts"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "atvērta",
+    "atvērta pastkaste ar paceltu karodziņu",
+    "pastkaste",
+    "pasts"
+  ],
+  "open_mouth": [
+    "atvērts",
+    "mute",
+    "pārsteigt",
+    "seja",
+    "seja ar atvērtu muti"
+  ],
+  "ophiuchus": [
+    "čūsknesis",
+    "zodiaka zīme čūsknesis",
+    "zodiaks"
+  ],
+  "optical_disk": [
+    "cd",
+    "dators",
+    "kompaktdisks",
+    "optiskais disks"
+  ],
+  "orange_book": [
+    "grāmata",
+    "oranža"
+  ],
+  "orange_circle": [
+    "aplis",
+    "oranžs"
+  ],
+  "orange_heart": [
+    "oranža sirds",
+    "oranžs",
+    "sirds"
+  ],
+  "orange_square": [
+    "kvadrāts",
+    "oranžs"
+  ],
+  "orangutan": [
+    "orangutans",
+    "pērtiķis"
+  ],
+  "orthodox_cross": [
+    "kristietība",
+    "krusts",
+    "pareizticība",
+    "pareizticīgo krusts",
+    "reliģija"
+  ],
+  "otter": [
+    "rotaļāties",
+    "spēlēties",
+    "ūdrs",
+    "zivju ķeršana"
+  ],
+  "outbox_tray": [
+    "dokuments",
+    "izejošo dokumentu paliktnis",
+    "kaste",
+    "pasts",
+    "sūtīt"
+  ],
+  "owl": [
+    "gudrs",
+    "pūce",
+    "putns",
+    "vieds"
+  ],
+  "ox": [
+    "bullis",
+    "vērsis",
+    "zodiaks"
+  ],
+  "oyster": [
+    "austere",
+    "niršana",
+    "pērle"
+  ],
+  "p_button": [
+    "p",
+    "poga p",
+    "stāvvieta"
+  ],
+  "package": [
+    "kaste",
+    "paciņa",
+    "paka"
+  ],
+  "page_facing_up": [
+    "dokuments",
+    "papīra lapa",
+    "papīrs"
+  ],
+  "page_with_curl": [
+    "dokuments",
+    "lapa",
+    "lapa ar atliektu malu"
+  ],
+  "pager": [
+    "peidžers"
+  ],
+  "paintbrush": [
+    "gleznot",
+    "ota"
+  ],
+  "pakistan": [
+    "karogs"
+  ],
+  "palau": [
+    "karogs"
+  ],
+  "palestinian_territories": [
+    "karogs"
+  ],
+  "palm_tree": [
+    "augs",
+    "koks",
+    "palma"
+  ],
+  "palms_up_together": [
+    "lūdzējs",
+    "plaukstas kopā"
+  ],
+  "panama": [
+    "karogs"
+  ],
+  "pancakes": [
+    "bliņa",
+    "ēdiens",
+    "pankūka",
+    "pankūkas"
+  ],
+  "panda": [
+    "galva"
+  ],
+  "paperclip": [
+    "papīra saspraude",
+    "saspraude"
+  ],
+  "papua_new_guinea": [
+    "karogs"
+  ],
+  "parachute": [
+    "izpletnis",
+    "lidošana",
+    "lidošana ar paraplānu",
+    "paraplāns"
+  ],
+  "paraguay": [
+    "karogs"
+  ],
+  "parrot": [
+    "papagailis",
+    "pirāts",
+    "putns",
+    "runāt"
+  ],
+  "part_alternation_mark": [
+    "mūzika",
+    "partijas sākuma zīme",
+    "zīme"
+  ],
+  "partying_face": [
+    "ballīšu seja",
+    "ballīte",
+    "cepure",
+    "svinības",
+    "taurīte"
+  ],
+  "passenger_ship": [
+    "kuģis",
+    "pasažieri",
+    "pasažieru kuģis",
+    "transports",
+    "ūdens"
+  ],
+  "passport_control": [
+    "kontrole",
+    "pase",
+    "pasu kontrole"
+  ],
+  "pause_button": [
+    "apturēt",
+    "pārtraukt",
+    "pauze",
+    "poga pauze"
+  ],
+  "paw_prints": [
+    "ķepa",
+    "ķepu nospiedumi",
+    "nospiedums"
+  ],
+  "peace_symbol": [
+    "miera simbols",
+    "miers"
+  ],
+  "peach": [
+    "auglis",
+    "augs",
+    "persiks"
+  ],
+  "peacock": [
+    "ārišķīgs",
+    "iedomīgs",
+    "pāvs",
+    "pāvu mātīte",
+    "putns"
+  ],
+  "peanuts": [
+    "dārzenis",
+    "ēdiens",
+    "rieksti",
+    "zemesrieksti"
+  ],
+  "pear": [
+    "auglis",
+    "augs",
+    "bumbieris"
+  ],
+  "pen": [
+    "lodīšu pildspalva",
+    "pildspalva"
+  ],
+  "pencil": [
+    "zīmulis"
+  ],
+  "penguin": [
+    "pingvīns",
+    "putns"
+  ],
+  "pensive_face": [
+    "domās iegrimusi seja",
+    "domīgs",
+    "pārdomas",
+    "seja"
+  ],
+  "people_holding_hands": [
+    "cilvēki sadevušies rokās",
+    "pāris",
+    "persona",
+    "roka",
+    "sadotas rokas",
+    "satvēriens"
+  ],
+  "people_hugging": [
+    "apskāviens",
+    "ardievu",
+    "cilvēki apkampjas",
+    "labdien",
+    "paldies"
+  ],
+  "people_with_bunny_ears": [
+    "ausis",
+    "dejotāja",
+    "dejotāju šovs",
+    "meitene",
+    "sieviete",
+    "zaķis"
+  ],
+  "people_wrestling": [
+    "cīkstēties",
+    "cīkstoņi",
+    "cīkstonis",
+    "cilvēks",
+    "sports"
+  ],
+  "performing_arts": [
+    "māksla",
+    "maska",
+    "skatuves māksla",
+    "teātris"
+  ],
+  "persevering_face": [
+    "neatlaidīgs",
+    "pacietīgs",
+    "piepūle",
+    "piepūlēta seja",
+    "seja"
+  ],
+  "person": [
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "pieaugušais"
+  ],
+  "person_bald": [
+    "bez matiem",
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "pieaugušais"
+  ],
+  "person_beard": [
+    "bārda",
+    "bārdaina persona",
+    "bārdains vīrietis",
+    "persona",
+    "vīrietis"
+  ],
+  "person_biking": [
+    "braukt",
+    "ritenis",
+    "velosipēdists",
+    "velosipēds"
+  ],
+  "person_blond_hair": [
+    "blonds",
+    "blonds cilvēks",
+    "seja"
+  ],
+  "person_bouncing_ball": [
+    "bumba",
+    "cilvēks driblē bumbu"
+  ],
+  "person_bowing": [
+    "atvainošanās",
+    "cilvēks paklanās",
+    "paklanīties",
+    "žests"
+  ],
+  "person_cartwheeling": [
+    "cilvēks",
+    "ritenītis",
+    "sports",
+    "vingrošana"
+  ],
+  "person_climbing": [
+    "alpīniste",
+    "alpīnists",
+    "kalnā kāpējs"
+  ],
+  "person_curly_hair": [
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "pieaugušais",
+    "sprogaini mati"
+  ],
+  "person_facepalming": [
+    "cilvēks ar saķertu galvu",
+    "neticība",
+    "nu nopietni",
+    "plauksta",
+    "seja"
+  ],
+  "person_feeding_baby": [
+    "barošana",
+    "mazulis",
+    "persona",
+    "persona baro bērnu",
+    "zīdīšana"
+  ],
+  "person_fencing": [
+    "paukošana",
+    "paukotājs",
+    "rapieris"
+  ],
+  "person_frowning": [
+    "bēdīgs",
+    "norūpējies cilvēks",
+    "žests"
+  ],
+  "person_gesturing_no": [
+    "aizliegts",
+    "cilvēks ar aizlieguma žestu",
+    "cilvēks ar noraidījuma žestu",
+    "nē",
+    "nedrīkst",
+    "roka",
+    "žests"
+  ],
+  "person_gesturing_ok": [
+    "cilvēks ar apstiprinājuma žestu",
+    "labi",
+    "ok",
+    "roka",
+    "žests"
+  ],
+  "person_getting_haircut": [
+    "frizētava",
+    "frizieris",
+    "frizūra"
+  ],
+  "person_getting_massage": [
+    "masāža",
+    "seja",
+    "sejas masāža"
+  ],
+  "person_golfing": [
+    "bedrīte",
+    "bumbiņa",
+    "golfa spēlētājs"
+  ],
+  "person_in_bed": [
+    "cilvēks",
+    "cilvēks gultā",
+    "gulēt",
+    "gulta"
+  ],
+  "person_in_lotus_position": [
+    "cilvēks lotosa pozā",
+    "joga",
+    "meditācija"
+  ],
+  "person_in_manual_wheelchair": [
+    "persona manuālajā ratiņkrēslā",
+    "pieejamība",
+    "ratiņkrēsls"
+  ],
+  "person_in_motorized_wheelchair": [
+    "persona ratiņkrēslā",
+    "pieejamība",
+    "ratiņkrēsls"
+  ],
+  "person_in_steamy_room": [
+    "cilvēks tvaika telpā",
+    "sauna",
+    "tvaika telpa"
+  ],
+  "person_in_suit_levitating": [
+    "levitējošs cilvēks uzvalkā",
+    "uzvalks",
+    "vīrietis"
+  ],
+  "person_in_tuxedo": [
+    "cilvēks",
+    "cilvēks smokingā",
+    "līgavainis",
+    "smokings"
+  ],
+  "person_juggling": [
+    "līdzsvars",
+    "prasme",
+    "vairāki uzdevumi",
+    "žonglēšana",
+    "žonglēt"
+  ],
+  "person_kneeling": [
+    "celis",
+    "persona uz ceļiem",
+    "uz ceļiem"
+  ],
+  "person_lifting_weights": [
+    "cēlājs",
+    "cilvēks ar svaru stieni",
+    "sportists",
+    "svari"
+  ],
+  "person_mountain_biking": [
+    "braukt",
+    "kalns",
+    "kalnu velosipēdists",
+    "ritenis",
+    "velosipēds"
+  ],
+  "person_playing_handball": [
+    "bumba",
+    "cilvēks",
+    "handbols",
+    "rokasbumba",
+    "sports"
+  ],
+  "person_playing_water_polo": [
+    "cilvēks",
+    "polo",
+    "sports",
+    "ūdens",
+    "ūdenspolo sportists"
+  ],
+  "person_pouting": [
+    "sabozies",
+    "sabozies cilvēks",
+    "žests"
+  ],
+  "person_raising_hand": [
+    "cilvēks ar paceltu roku",
+    "laimīgs",
+    "pacelts",
+    "roka",
+    "žests"
+  ],
+  "person_red_hair": [
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "pieaugušais",
+    "sarkani mati"
+  ],
+  "person_rowing_boat": [
+    "cilvēks airē",
+    "laiva",
+    "transports",
+    "ūdens"
+  ],
+  "person_running": [
+    "maratons",
+    "skrējējs",
+    "skriešana"
+  ],
+  "person_shrugging": [
+    "neziņa",
+    "rausta plecus",
+    "šaubas",
+    "vienaldzība"
+  ],
+  "person_standing": [
+    "stāvēšana",
+    "stāvēt",
+    "stāvoša persona"
+  ],
+  "person_surfing": [
+    "okeāns",
+    "sērfot",
+    "sērfotājs",
+    "ūdens"
+  ],
+  "person_swimming": [
+    "peldēt",
+    "peldētājs",
+    "ūdens"
+  ],
+  "person_taking_bath": [
+    "cilvēks mazgājas",
+    "cilvēks vannā",
+    "mazgāties",
+    "ūdens",
+    "vanna"
+  ],
+  "person_tipping_hand": [
+    "informācija",
+    "palīdzība",
+    "pastiept",
+    "persona ar pastieptu roku",
+    "roka"
+  ],
+  "person_walking": [
+    "gājējs",
+    "iešana",
+    "kājāmgājējs",
+    "pārgājiens"
+  ],
+  "person_wearing_turban": [
+    "persona ar turbānu",
+    "seja",
+    "turbāns",
+    "vīrietis"
+  ],
+  "person_white_hair": [
+    "bezdzimuma",
+    "dzimumneitrāls",
+    "pieaugušais",
+    "sirmi mati"
+  ],
+  "person_with_skullcap": [
+    "cepure",
+    "seja",
+    "vīrietis",
+    "vīrietis ar ķīniešu cepuri"
+  ],
+  "person_with_veil": [
+    "cilvēks ar plīvuru",
+    "kāzas",
+    "persona",
+    "persona ar plīvuru",
+    "plīvurs"
+  ],
+  "person_with_white_cane": [
+    "akls",
+    "persona ar balto spieķi",
+    "pieejamība"
+  ],
+  "peru": [
+    "karogs"
+  ],
+  "petri_dish": [
+    "baktērija",
+    "bioloģija",
+    "biologs",
+    "kultūra",
+    "laboratorija",
+    "petri trauks"
+  ],
+  "philippines": [
+    "karogs"
+  ],
+  "pick": [
+    "cirst",
+    "cirtnis"
+  ],
+  "pickup_truck": [
+    "mašīna",
+    "piegāde",
+    "piegādes auto",
+    "pikaps"
+  ],
+  "pie": [
+    "mīkla",
+    "pildījums",
+    "pīrāgs"
+  ],
+  "pig": [
+    "cūka",
+    "ruksis",
+    "sivēns"
+  ],
+  "pig_face": [
+    "cūka",
+    "cūkas galva",
+    "galva",
+    "ruksis",
+    "sivēns"
+  ],
+  "pig_nose": [
+    "cūka",
+    "ruksis",
+    "sivēns",
+    "šņukurs"
+  ],
+  "pill": [
+    "ārsts",
+    "medicīna",
+    "slims",
+    "zāles",
+    "zāļu kapsula"
+  ],
+  "pilot": [
+    "lidmašīna",
+    "pilots",
+    "vīrietis pilots"
+  ],
+  "pinched_fingers": [
+    "pastiepti pirksti",
+    "pirksti",
+    "rokas žests",
+    "sarkastisks",
+    "saspiests"
+  ],
+  "pinching_hand": [
+    "nedaudz",
+    "roka rāda drusciņu"
+  ],
+  "pine_decoration": [
+    "bambuss",
+    "japāņu",
+    "priede",
+    "priedes dekorācija",
+    "svētki"
+  ],
+  "pineapple": [
+    "ananass",
+    "auglis",
+    "augs"
+  ],
+  "ping_pong": [
+    "bumbiņa",
+    "galda teniss",
+    "pingpongs",
+    "rakete"
+  ],
+  "pirate_flag": [
+    "bagātības",
+    "laupījums",
+    "pirāts",
+    "pirātu karogs"
+  ],
+  "pisces": [
+    "zivis",
+    "zodiaka zīme zivis",
+    "zodiaks"
+  ],
+  "pitcairn_islands": [
+    "karogs"
+  ],
+  "pizza": [
+    "pica",
+    "šķēle"
+  ],
+  "piñata": [
+    "ballīte",
+    "pinjata",
+    "svinības"
+  ],
+  "placard": [
+    "demonstrācija",
+    "pikets",
+    "plakāts",
+    "protests",
+    "zīme"
+  ],
+  "place_of_worship": [
+    "lūgšanas",
+    "lūgšanu vieta",
+    "reliģija"
+  ],
+  "play_button": [
+    "atskaņot",
+    "pa labi",
+    "poga atskaņot",
+    "trijstūris",
+    "trīsstūris"
+  ],
+  "play_or_pause_button": [
+    "apturēt",
+    "atskaņot",
+    "pa labi",
+    "pārtraukt",
+    "pauze",
+    "poga atskaņot vai apturēt"
+  ],
+  "pleading_face": [
+    "kucēna acis",
+    "lūdzoša seja",
+    "lūgšanās",
+    "žēlastība"
+  ],
+  "plunger": [
+    "kanalizācijas buča",
+    "santehniķis",
+    "sūkšana",
+    "tualete",
+    "vantūzs"
+  ],
+  "plus": [
+    "+",
+    "matemātika",
+    "pluszīme",
+    "saskaitīt"
+  ],
+  "poland": [
+    "karogs"
+  ],
+  "polar_bear": [
+    "arktisks",
+    "balts",
+    "lācis",
+    "leduslācis",
+    "polārlācis"
+  ],
+  "police_car": [
+    "automašīna",
+    "mašīna",
+    "policija",
+    "policijas mašīna",
+    "transports"
+  ],
+  "police_car_light": [
+    "bākuguns",
+    "mašīna",
+    "policija",
+    "policijas mašīnas bākuguns"
+  ],
+  "police_officer": [
+    "policija",
+    "policists",
+    "virsnieks"
+  ],
+  "poodle": [
+    "mājdzīvnieks",
+    "pūdelis",
+    "suns"
+  ],
+  "pool_8_ball": [
+    "8",
+    "astoņi",
+    "biljarda bumbiņa",
+    "biljards",
+    "spēle"
+  ],
+  "poop": [
+    "briesmonis",
+    "ekskrementi",
+    "kakas",
+    "mēslu čupa",
+    "smieklīgs"
+  ],
+  "popcorn": [
+    "kukurūza",
+    "popkorns"
+  ],
+  "portugal": [
+    "karogs"
+  ],
+  "post_office": [
+    "ēka",
+    "māja",
+    "pasta nodaļa",
+    "pasts"
+  ],
+  "postal_horn": [
+    "pastnieka taure",
+    "pastnieks",
+    "taure"
+  ],
+  "postbox": [
+    "pastkaste",
+    "pasts"
+  ],
+  "pot_of_food": [
+    "bļoda",
+    "ēdiena bļodiņa",
+    "ēdiens"
+  ],
+  "potable_water": [
+    "dzeramais ūdens",
+    "dzert",
+    "ūdens"
+  ],
+  "potato": [
+    "dārzenis",
+    "kartupelis",
+    "pārtika"
+  ],
+  "potted_plant": [
+    "audzēt",
+    "augs",
+    "augs podiņā",
+    "augt",
+    "garlaicība",
+    "māja",
+    "nevajadzīgs"
+  ],
+  "poultry_leg": [
+    "gaļa",
+    "kāja",
+    "kauls",
+    "putna kāja",
+    "putns"
+  ],
+  "pound_banknote": [
+    "banknote",
+    "nauda",
+    "sterliņu mārciņa",
+    "sterliņu mārciņas banknote"
+  ],
+  "pouting_cat": [
+    "kaķis",
+    "sabozies",
+    "seja"
+  ],
+  "prayer_beads": [
+    "kaklarota",
+    "krelles",
+    "lūgšana",
+    "lūgšanu krelles",
+    "reliģija"
+  ],
+  "pregnant_woman": [
+    "sieviete",
+    "stāvoklī"
+  ],
+  "pretzel": [
+    "kliņģeris",
+    "savīts"
+  ],
+  "prince": [
+    "princis"
+  ],
+  "princess": [
+    "fantāzija",
+    "pasaka",
+    "princese"
+  ],
+  "printer": [
+    "dators",
+    "printeris"
+  ],
+  "prohibited": [
+    "aizliegts",
+    "ieeja",
+    "nē",
+    "nedrīkst"
+  ],
+  "puerto_rico": [
+    "karogs"
+  ],
+  "purple_circle": [
+    "aplis",
+    "violets"
+  ],
+  "purple_heart": [
+    "sirds",
+    "violeta sirds",
+    "violets"
+  ],
+  "purple_square": [
+    "kvadrāts",
+    "violets"
+  ],
+  "purse": [
+    "maks",
+    "monētas",
+    "nauda",
+    "naudasmaks"
+  ],
+  "pushpin": [
+    "piespraude",
+    "spraudīte"
+  ],
+  "puzzle_piece": [
+    "attēlu mīkla",
+    "gabaliņš",
+    "līme",
+    "puzle",
+    "puzles gabaliņš",
+    "savienošana"
+  ],
+  "qatar": [
+    "karogs"
+  ],
+  "rabbit": [
+    "mājdzīvnieks",
+    "trusis"
+  ],
+  "rabbit_face": [
+    "galva",
+    "mājdzīvnieks",
+    "truša galva",
+    "trusis"
+  ],
+  "raccoon": [
+    "jenots",
+    "viltīgs",
+    "ziņkārīgs"
+  ],
+  "racing_car": [
+    "mašīna",
+    "sacīkstes",
+    "sacīkšu automašīna"
+  ],
+  "radio": [
+    "video"
+  ],
+  "radio_button": [
+    "opcijas",
+    "poga",
+    "radiopoga"
+  ],
+  "radioactive": [
+    "bīstami",
+    "radioaktīvs"
+  ],
+  "railway_car": [
+    "dzelzceļa vagons",
+    "dzelzceļš",
+    "tramvajs",
+    "trolejbuss",
+    "vagons",
+    "vilciens"
+  ],
+  "railway_track": [
+    "dzelzceļa sliedes",
+    "dzelzceļš",
+    "sliedes",
+    "vilciens"
+  ],
+  "rainbow": [
+    "laikapstākļi",
+    "laiks",
+    "lietus",
+    "varavīksne"
+  ],
+  "rainbow_flag": [
+    "karogs",
+    "varavīksne",
+    "varavīksnes karogs"
+  ],
+  "raised_back_of_hand": [
+    "pacelta",
+    "pacelta plauksta",
+    "roka"
+  ],
+  "raised_fist": [
+    "dūre",
+    "ķermenis",
+    "pacelta dūre",
+    "roka",
+    "sist"
+  ],
+  "raised_hand": [
+    "ķermenis",
+    "pacelta roka",
+    "roka"
+  ],
+  "raising_hands": [
+    "paceltas rokas",
+    "pacelts",
+    "rokas",
+    "svinēt",
+    "uzvara"
+  ],
+  "ram": [
+    "aita",
+    "auns",
+    "zodiaks"
+  ],
+  "rat": [
+    "žurka"
+  ],
+  "razor": [
+    "ass",
+    "bārdas nazis",
+    "skūt"
+  ],
+  "receipt": [
+    "apstiprinājums",
+    "grāmatvedība",
+    "kvīts",
+    "pierādījums",
+    "uzskaite"
+  ],
+  "record_button": [
+    "aplis",
+    "ierakstīt",
+    "poga ierakstīt",
+    "riņķis"
+  ],
+  "recycling_symbol": [
+    "atkritumu pārstrādes simbols",
+    "pārstrāde"
+  ],
+  "red_apple": [
+    "ābols",
+    "auglis",
+    "augs",
+    "sarkans"
+  ],
+  "red_circle": [
+    "aplis",
+    "ģeometrija",
+    "sarkans aplis"
+  ],
+  "red_envelope": [
+    "aploksne",
+    "dāvana",
+    "nauda",
+    "sarkana aploksne",
+    "veiksme"
+  ],
+  "red_exclamation_mark": [
+    "!",
+    "izsaukuma zīme",
+    "izsaukums",
+    "pieturzīme"
+  ],
+  "red_paper_lantern": [
+    "bārs",
+    "japāņu",
+    "laterna",
+    "papīrs",
+    "sarkana papīra laterna",
+    "sarkans"
+  ],
+  "red_question_mark": [
+    "?",
+    "jautājuma zīme",
+    "jautājums",
+    "pieturzīme"
+  ],
+  "red_square": [
+    "kvadrāts",
+    "sarkans"
+  ],
+  "red_triangle_pointed_down": [
+    "ģeometrija",
+    "lejupvērsts sarkans trīsstūris",
+    "trīsstūris"
+  ],
+  "red_triangle_pointed_up": [
+    "augšupvērsts sarkans trīsstūris",
+    "ģeometrija",
+    "trīsstūris"
+  ],
+  "registered": [
+    "(r)",
+    "preču zīme",
+    "r",
+    "reģistrēta preču zīme",
+    "reģistrēts"
+  ],
+  "relieved_face": [
+    "atvieglojums",
+    "seja",
+    "seja ar atvieglojuma izteiksmi"
+  ],
+  "reminder_ribbon": [
+    "atcere",
+    "atceres lentīte",
+    "lente",
+    "piemiņa",
+    "svētki"
+  ],
+  "repeat_button": [
+    "atkārtot",
+    "bultiņa",
+    "poga atkārtot",
+    "pulksteņrādītāja virzienā"
+  ],
+  "repeat_single_button": [
+    "bultiņa",
+    "poga atkārtot vienu dziesmu",
+    "pulksteņrādītāja virzienā",
+    "vienreiz"
+  ],
+  "rescue_worker_s_helmet": [
+    "glābēja ķivere",
+    "ķivere",
+    "krusts",
+    "palīdzība"
+  ],
+  "restroom": [
+    "tualete",
+    "wc"
+  ],
+  "reunion": [
+    "karogs"
+  ],
+  "reverse_button": [
+    "atpakaļ",
+    "pa kreisi",
+    "poga atpakaļ",
+    "trijstūris",
+    "trīsstūris"
+  ],
+  "revolving_hearts": [
+    "rotējošas sirdis",
+    "sirds"
+  ],
+  "rhinoceros": [
+    "degunradzis",
+    "dzīvnieks"
+  ],
+  "ribbon": [
+    "lente",
+    "pušķis",
+    "pušķītis"
+  ],
+  "rice_ball": [
+    "bumbiņa",
+    "japāņu",
+    "rīsi",
+    "rīsu bumbiņa"
+  ],
+  "rice_cracker": [
+    "galete",
+    "rīsi",
+    "rīsu galete"
+  ],
+  "right_anger_bubble": [
+    "burbulis",
+    "dialogs",
+    "dusmīgs",
+    "pa labi vērsts dusmu burbulis",
+    "runa"
+  ],
+  "right_arrow": [
+    "austrumi",
+    "bultiņa",
+    "labā bultiņa",
+    "norāde",
+    "pa labi vērsta bultiņa"
+  ],
+  "right_arrow_curving_down": [
+    "bultiņa",
+    "lejup vērsta izliekta bultiņa"
+  ],
+  "right_arrow_curving_left": [
+    "bultiņa",
+    "pa kreisi vērsta izliekta bultiņa"
+  ],
+  "right_arrow_curving_up": [
+    "augšup vērsta izliekta bultiņa",
+    "bultiņa"
+  ],
+  "right_facing_fist": [
+    "dūre",
+    "dūre pa labi",
+    "pa labi"
+  ],
+  "ring": [
+    "dārgakmens",
+    "dimants",
+    "gredzens",
+    "romantika"
+  ],
+  "ringed_planet": [
+    "gredzenota planēta",
+    "mīnijs",
+    "saturns"
+  ],
+  "roasted_sweet_potato": [
+    "cepti saldie kartupeļi",
+    "cepts",
+    "kartupeļi",
+    "salds"
+  ],
+  "robot": [
+    "monstrs",
+    "robots",
+    "seja"
+  ],
+  "rock": [
+    "akmens",
+    "ciets",
+    "iezis",
+    "klints",
+    "smags"
+  ],
+  "rocket": [
+    "kosmoss",
+    "raķete",
+    "visums"
+  ],
+  "rofl": [
+    "grīda",
+    "seja",
+    "smieties",
+    "vārtās smieklos pa grīdu"
+  ],
+  "roll_eyes": [
+    "acis",
+    "neapmierināts",
+    "pārgriezt",
+    "seja",
+    "seja ar pārgrieztām acīm"
+  ],
+  "roll_of_paper": [
+    "papīra dvieļi",
+    "papīra rullis",
+    "tualetes papīrs"
+  ],
+  "rolled_up_newspaper": [
+    "avīze",
+    "laikraksts",
+    "satīta avīze",
+    "satīts",
+    "ziņas"
+  ],
+  "roller_coaster": [
+    "amerikāņu kalniņi",
+    "atrakciju parks"
+  ],
+  "roller_skate": [
+    "skritulis",
+    "skrituļslida",
+    "slida"
+  ],
+  "romania": [
+    "karogs"
+  ],
+  "rooster": [
+    "gailis",
+    "putns"
+  ],
+  "rose": [
+    "augs",
+    "roze",
+    "zieds"
+  ],
+  "rosette": [
+    "augs",
+    "rozete",
+    "zieds"
+  ],
+  "round_pushpin": [
+    "apaļa spraudīte",
+    "apaļš",
+    "spraudīte"
+  ],
+  "rugby_football": [
+    "bumba",
+    "regbija bumba",
+    "regbijs",
+    "sports"
+  ],
+  "running_shirt": [
+    "krekls",
+    "skriešanas krekls",
+    "skriet"
+  ],
+  "running_shoe": [
+    "apavi",
+    "skriešanas apavi",
+    "skriešanas kurpe",
+    "sports"
+  ],
+  "russia": [
+    "karogs"
+  ],
+  "rwanda": [
+    "karogs"
+  ],
+  "sad_but_relieved_face": [
+    "atvieglojums",
+    "seja",
+    "sviedri",
+    "vīlies",
+    "vilties",
+    "vīlusies un atvieglota seja"
+  ],
+  "safety_pin": [
+    "autiņi",
+    "pankroks",
+    "saspraude"
+  ],
+  "safety_vest": [
+    "ārkārtas",
+    "drošība",
+    "drošības veste",
+    "veste"
+  ],
+  "sagittarius": [
+    "strēlnieks",
+    "zodiaka zīme strēlnieks",
+    "zodiaks"
+  ],
+  "sailboat": [
+    "buru laiva",
+    "jahta",
+    "jūra",
+    "laiva",
+    "transports",
+    "ūdens"
+  ],
+  "sake": [
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "pudele",
+    "sakē"
+  ],
+  "salt": [
+    "garšviela",
+    "sāls",
+    "trauciņš"
+  ],
+  "samoa": [
+    "karogs"
+  ],
+  "san_marino": [
+    "karogs"
+  ],
+  "sandwich": [
+    "maize",
+    "sendvičs"
+  ],
+  "santa_claus": [
+    "santaklauss",
+    "vecītis",
+    "ziemassvētki",
+    "ziemassvētku vecītis"
+  ],
+  "sao_tome_principe": [
+    "karogs"
+  ],
+  "sari": [
+    "apģērbs",
+    "kleita"
+  ],
+  "satellite": [
+    "kosmoss",
+    "satelīts",
+    "visums"
+  ],
+  "satellite_antenna": [
+    "antena",
+    "satelīta šķīvis",
+    "satelīts",
+    "šķīvis"
+  ],
+  "saudi_arabia": [
+    "karogs"
+  ],
+  "sauropod": [
+    "brahiozaurs",
+    "brontozaurs",
+    "diplodoks",
+    "zauropods"
+  ],
+  "saxophone": [
+    "instruments",
+    "mūzika",
+    "saksofons"
+  ],
+  "scarf": [
+    "kakls",
+    "šalle"
+  ],
+  "school": [
+    "ēka",
+    "māja",
+    "skola"
+  ],
+  "scientist": [
+    "biologs",
+    "fiziķis",
+    "inženieris",
+    "ķīmiķis",
+    "vīrietis zinātnieks",
+    "zinātnieks"
+  ],
+  "scissors": [
+    "griezt",
+    "rīks",
+    "šķēres"
+  ],
+  "scorpio": [
+    "skorpions",
+    "zodiaka zīme skorpions",
+    "zodiaks"
+  ],
+  "scorpion": [
+    "skorpions",
+    "zodiaks"
+  ],
+  "scotland": [
+    "karogs"
+  ],
+  "scream": [
+    "bailes",
+    "bailēs kliedzoša seja",
+    "kliedziens",
+    "munks",
+    "nobijies",
+    "seja"
+  ],
+  "screwdriver": [
+    "darbarīks",
+    "skrūvēt",
+    "skrūvgriezis"
+  ],
+  "scroll": [
+    "papīra tīstoklis",
+    "papīrs"
+  ],
+  "seal": [
+    "jūras lauva",
+    "ronis"
+  ],
+  "seat": [
+    "krēsls",
+    "sēdeklis"
+  ],
+  "see_no_evil_monkey": [
+    "aizliegts",
+    "galva",
+    "ļauns",
+    "nē",
+    "nedrīkst",
+    "neko neredzu",
+    "pērtiķis",
+    "redzēt",
+    "žests"
+  ],
+  "seedling": [
+    "asns",
+    "augs"
+  ],
+  "selfie": [
+    "kamera",
+    "pašfoto",
+    "tālrunis"
+  ],
+  "senegal": [
+    "karogs"
+  ],
+  "serbia": [
+    "karogs"
+  ],
+  "service_dog": [
+    "atbalsts",
+    "dienesta suns",
+    "dienests",
+    "pieejamība",
+    "suns"
+  ],
+  "seven": [
+    "taustiņš"
+  ],
+  "seven_o_clock": [
+    "00",
+    "7",
+    "7:00",
+    "pulksten septiņi",
+    "pulkstenis"
+  ],
+  "seven_thirty": [
+    "30",
+    "7",
+    "7:30",
+    "pulksten pusastoņi",
+    "pulkstenis",
+    "pusastoņi"
+  ],
+  "sewing_needle": [
+    "adata",
+    "izšūšana",
+    "piegriezne",
+    "šujamadata",
+    "šūšana",
+    "šuves"
+  ],
+  "seychelles": [
+    "karogs"
+  ],
+  "shallow_pan_of_food": [
+    "ēdiens",
+    "paelja",
+    "panna",
+    "sautējums",
+    "sautējums pannā"
+  ],
+  "shamrock": [
+    "āboliņa lapa",
+    "āboliņš",
+    "lapa"
+  ],
+  "shark": [
+    "haizivs",
+    "zivs"
+  ],
+  "shaved_ice": [
+    "deserts",
+    "ledus",
+    "salds",
+    "smalcināts ledus ar sīrupu"
+  ],
+  "sheaf_of_rice": [
+    "augs",
+    "rīsa augs",
+    "rīsi"
+  ],
+  "shield": [
+    "ierocis",
+    "vairogs"
+  ],
+  "shinto_shrine": [
+    "lūgties",
+    "reliģija",
+    "sintoisms",
+    "sintoistu svētnīca",
+    "svētnīca"
+  ],
+  "ship": [
+    "kuģis",
+    "transports",
+    "ūdens"
+  ],
+  "shooting_star": [
+    "krist",
+    "krītoša zvaigzne",
+    "zvaigzne"
+  ],
+  "shopping_bags": [
+    "iepirkumu maisiņi",
+    "iepirkumu somas",
+    "maisiņš",
+    "soma"
+  ],
+  "shopping_cart": [
+    "iepirkšanās",
+    "iepirkumu ratiņi",
+    "ratiņi",
+    "veikals"
+  ],
+  "shortcake": [
+    "deserts",
+    "kūka",
+    "salds",
+    "torte"
+  ],
+  "shorts": [
+    "apakšveļa",
+    "bikses",
+    "peldkostīms",
+    "šorti"
+  ],
+  "shower": [
+    "duša",
+    "ūdens"
+  ],
+  "shrimp": [
+    "ēdiens",
+    "garnele",
+    "mazs"
+  ],
+  "shuffle_tracks_button": [
+    "bultiņa",
+    "poga jaukta secība",
+    "sakrustota"
+  ],
+  "shushing_face": [
+    "klusēt",
+    "klusināt",
+    "kuš",
+    "šušināt",
+    "šušinoša seja"
+  ],
+  "sierra_leone": [
+    "karogs"
+  ],
+  "sign_of_the_horns": [
+    "dio",
+    "pirksts",
+    "ragi",
+    "ragu simbols",
+    "roka",
+    "rokmūzika",
+    "smagais metāls"
+  ],
+  "singapore": [
+    "karogs"
+  ],
+  "singer": [
+    "aktieris",
+    "dziedātājs",
+    "izklaidētājs",
+    "roks",
+    "vīrietis dziedātājs",
+    "zvaigzne"
+  ],
+  "sint_maarten": [
+    "karogs"
+  ],
+  "six": [
+    "taustiņš"
+  ],
+  "six_o_clock": [
+    "00",
+    "6",
+    "6:00",
+    "pulksten seši",
+    "pulkstenis"
+  ],
+  "six_thirty": [
+    "30",
+    "6",
+    "6:30",
+    "pulksten pusseptiņi",
+    "pulkstenis",
+    "pusseptiņi"
+  ],
+  "skateboard": [
+    "dēlis",
+    "skrituļdēlis"
+  ],
+  "skier": [
+    "slēpes",
+    "slēpotājs",
+    "sniegs"
+  ],
+  "skis": [
+    "slēpes",
+    "sniegs"
+  ],
+  "skull": [
+    "galva",
+    "galvaskauss",
+    "nāve"
+  ],
+  "skull_and_crossbones": [
+    "galva",
+    "galvaskauss",
+    "jautrais rodžers",
+    "kauli",
+    "miroņgalva",
+    "nāve"
+  ],
+  "skunk": [
+    "skunkss",
+    "smaka"
+  ],
+  "sled": [
+    "kamanas",
+    "kamaniņas"
+  ],
+  "sleeping_face": [
+    "gulēt",
+    "guļoša seja",
+    "seja",
+    "žāvāties"
+  ],
+  "sleepy_face": [
+    "gulēt",
+    "miegaina seja",
+    "miegs",
+    "seja"
+  ],
+  "slightly_frowning_face": [
+    "bēdas",
+    "bēdīgs",
+    "nedaudz bēdīga seja",
+    "seja"
+  ],
+  "slightly_smiling_face": [
+    "seja",
+    "seja ar vieglu smaidu",
+    "smaids"
+  ],
+  "slot_machine": [
+    "automāts",
+    "spēle",
+    "spēļu automāts"
+  ],
+  "sloth": [
+    "lēns",
+    "sliņķis",
+    "slinks"
+  ],
+  "slovakia": [
+    "karogs"
+  ],
+  "slovenia": [
+    "karogs"
+  ],
+  "small_airplane": [
+    "lidmašīna",
+    "maza lidmašīna",
+    "transports"
+  ],
+  "small_blue_diamond": [
+    "ģeometrija",
+    "mazs zils rombs",
+    "rombs"
+  ],
+  "small_orange_diamond": [
+    "ģeometrija",
+    "mazs oranžs rombs",
+    "rombs"
+  ],
+  "smiley": [
+    "atvērts",
+    "mute",
+    "plats smaids un lielas acis",
+    "seja",
+    "smaids"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "acis",
+    "kaķis",
+    "mīlestība",
+    "sirds",
+    "smaidošs kaķis ar sirds formas acīm",
+    "smaids"
+  ],
+  "smiling_face": [
+    "mierīgs",
+    "prieks",
+    "seja",
+    "smaidoša seja",
+    "smaids"
+  ],
+  "smiling_face_with_horns": [
+    "ragi",
+    "seja",
+    "smaidoša seja ar ragiem",
+    "smaids",
+    "velns"
+  ],
+  "smiling_face_with_sunglasses": [
+    "saulesbrilles",
+    "seja",
+    "smaidoša seja ar saulesbrillēm",
+    "smaids",
+    "stilīgs"
+  ],
+  "smiling_face_with_tear": [
+    "aizkustināts",
+    "asara",
+    "atvieglots",
+    "lepns",
+    "pateicīgs",
+    "smaidoša seja ar asaru",
+    "smaidošs"
+  ],
+  "smiling_face_with_three_hearts": [
+    "aizrāvies",
+    "dievināt",
+    "iemīlējies",
+    "sirdis",
+    "smaidoša seja ar sirsniņām"
+  ],
+  "smirking_face": [
+    "seja",
+    "smīnoša seja",
+    "smīns",
+    "viltīgs"
+  ],
+  "snail": [
+    "gliemezis"
+  ],
+  "snake": [
+    "čūska",
+    "ziņnesis",
+    "zodiaks"
+  ],
+  "sneezing_face": [
+    "seja",
+    "šķauda"
+  ],
+  "snow_capped_mountain": [
+    "auksts",
+    "kalni",
+    "sniegoti kalni",
+    "sniegs"
+  ],
+  "snowboarder": [
+    "sniegs",
+    "snovbordists",
+    "snovbords"
+  ],
+  "snowflake": [
+    "auksts",
+    "laikapstākļi",
+    "laiks",
+    "sniegpārsla",
+    "sniegs"
+  ],
+  "snowman": [
+    "auksts",
+    "laikapstākļi",
+    "laiks",
+    "sniegavīrs",
+    "sniegs"
+  ],
+  "snowman_without_snow": [
+    "auksts",
+    "laikapstākļi",
+    "laiks",
+    "sniegavīrs",
+    "sniegavīrs bez sniega",
+    "sniegs"
+  ],
+  "soap": [
+    "tīrīšana",
+    "vannošana",
+    "ziepes",
+    "ziepju putas",
+    "ziepju trauks"
+  ],
+  "sob": [
+    "aizgūtnēm raudoša seja",
+    "asaras",
+    "bēdas",
+    "raudāt",
+    "seja",
+    "skumjš"
+  ],
+  "soccer_ball": [
+    "bumba",
+    "futbola bumba",
+    "futbols",
+    "sports"
+  ],
+  "socks": [
+    "zeķbikses",
+    "zeķes"
+  ],
+  "soft_ice_cream": [
+    "deserts",
+    "krēms",
+    "mīksts",
+    "saldējums",
+    "saldējums vafeļu glāzītē",
+    "salds"
+  ],
+  "softball": [
+    "bumba",
+    "cimds",
+    "paduse",
+    "softbols"
+  ],
+  "solomon_islands": [
+    "karogs"
+  ],
+  "somalia": [
+    "karogs"
+  ],
+  "soon_arrow": [
+    "bultiņa",
+    "bultiņa ar uzrakstu soon",
+    "drīz"
+  ],
+  "sos_button": [
+    "palīdzība",
+    "sos",
+    "uzraksts sos kvadrātveida ietvarā"
+  ],
+  "south_africa": [
+    "karogs"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "karogs"
+  ],
+  "south_korea": [
+    "karogs"
+  ],
+  "south_sudan": [
+    "karogs"
+  ],
+  "spade_suit": [
+    "kārtis",
+    "pīķis"
+  ],
+  "spaghetti": [
+    "pasta",
+    "spageti"
+  ],
+  "spain": [
+    "karogs"
+  ],
+  "sparkle": [
+    "*",
+    "dzirkstis"
+  ],
+  "sparkler": [
+    "brīnumsvecīte",
+    "mirdzēt",
+    "salūts"
+  ],
+  "sparkles": [
+    "*",
+    "zibšņi",
+    "zibsnis",
+    "zvaigzne"
+  ],
+  "sparkling_heart": [
+    "mirdzēt",
+    "mirdzoša sirds",
+    "sirds",
+    "spīdēt"
+  ],
+  "speak_no_evil_monkey": [
+    "aizliegts",
+    "galva",
+    "ļauns",
+    "nē",
+    "nedrīkst",
+    "neko nesaku",
+    "pērtiķis",
+    "runāt",
+    "žests"
+  ],
+  "speaker_high_volume": [
+    "skaļrunis",
+    "skaļš",
+    "skaļums"
+  ],
+  "speaker_low_volume": [
+    "kluss",
+    "mazs skaļruņa skaļums",
+    "skaļrunis"
+  ],
+  "speaker_medium_volume": [
+    "ieslēgts skaļrunis",
+    "vidējs",
+    "vidējs skaļruņa skaļums"
+  ],
+  "speaking_head": [
+    "galva",
+    "runājoša galva",
+    "runāt",
+    "siluets"
+  ],
+  "speech_balloon": [
+    "burbulis",
+    "dialogs",
+    "runa",
+    "runas burbulis"
+  ],
+  "speedboat": [
+    "ātrlaiva",
+    "laiva",
+    "transports",
+    "ūdens"
+  ],
+  "spider": [
+    "kukainis",
+    "zirneklis"
+  ],
+  "spider_web": [
+    "tīkls",
+    "zirnekļa tīkls",
+    "zirneklis"
+  ],
+  "spiral_calendar": [
+    "kalendārs",
+    "kalendārs ar spirāli",
+    "spirāle"
+  ],
+  "spiral_notepad": [
+    "bloknots",
+    "bloknots ar spirāli",
+    "piezīmes",
+    "spirāle"
+  ],
+  "spiral_shell": [
+    "gliemežvāks",
+    "spirāle"
+  ],
+  "sponge": [
+    "porains",
+    "sūklis",
+    "tīrīšana",
+    "uzsūkšana"
+  ],
+  "spoon": [
+    "galda piederumi",
+    "karote"
+  ],
+  "sport_utility_vehicle": [
+    "automašīna",
+    "kemperis",
+    "mašīna",
+    "transports"
+  ],
+  "sports_medal": [
+    "medaļa",
+    "sporta medaļa",
+    "sports"
+  ],
+  "spouting_whale": [
+    "ūdens",
+    "valis",
+    "valis šļāc ūdeni"
+  ],
+  "squid": [
+    "ēdiens",
+    "kalmārs",
+    "molusks"
+  ],
+  "squinting_face_with_tongue": [
+    "acs",
+    "garša",
+    "mēle",
+    "negaršīgs",
+    "seja",
+    "seja ar izbāztu mēli un aizmiegtām acīm"
+  ],
+  "sri_lanka": [
+    "karogs"
+  ],
+  "st_barthelemy": [
+    "karogs"
+  ],
+  "st_helena": [
+    "karogs"
+  ],
+  "st_kitts_nevis": [
+    "karogs"
+  ],
+  "st_lucia": [
+    "karogs"
+  ],
+  "st_martin": [
+    "karogs"
+  ],
+  "st_pierre_miquelon": [
+    "karogs"
+  ],
+  "st_vincent_grenadines": [
+    "karogs"
+  ],
+  "stadium": [
+    "sacensības",
+    "stadions"
+  ],
+  "star": [
+    "zvaigzne"
+  ],
+  "star_and_crescent": [
+    "islāms",
+    "musulmaņi",
+    "reliģija",
+    "zvaigzne un pusmēness"
+  ],
+  "star_of_david": [
+    "dāvida zvaigzne",
+    "dāvids",
+    "ebreji",
+    "ebreju",
+    "jūdi",
+    "reliģija",
+    "zvaigzne"
+  ],
+  "star_struck": [
+    "acis",
+    "seja",
+    "smaidīt",
+    "zvaigznes",
+    "zvaigžņu pārņemts"
+  ],
+  "station": [
+    "dzelzceļš",
+    "stacija",
+    "transports",
+    "vilciens"
+  ],
+  "statue_of_liberty": [
+    "brīvība",
+    "brīvības statuja",
+    "statuja"
+  ],
+  "steaming_bowl": [
+    "bļoda",
+    "ēdiens",
+    "karsts",
+    "kūpoša bļodiņa"
+  ],
+  "stethoscope": [
+    "ārsts",
+    "medicīna",
+    "sirds",
+    "stetoskops"
+  ],
+  "stop_button": [
+    "apturēt",
+    "kvadrāts",
+    "pārtraukt",
+    "poga pārtraukt"
+  ],
+  "stop_sign": [
+    "astoņstūris zīme stop",
+    "stopzīme"
+  ],
+  "stopwatch": [
+    "hronometrs",
+    "pulkstenis"
+  ],
+  "straight_ruler": [
+    "lineāls",
+    "taisns lineāls"
+  ],
+  "strawberry": [
+    "augs",
+    "oga",
+    "zemene"
+  ],
+  "student": [
+    "absolvents",
+    "izlaidums",
+    "students"
+  ],
+  "studio_microphone": [
+    "mikrofons",
+    "studija",
+    "studijas mikrofons"
+  ],
+  "stuffed_flatbread": [
+    "ēdiens",
+    "giross",
+    "kebabs",
+    "lavašs",
+    "pildīts"
+  ],
+  "sudan": [
+    "karogs"
+  ],
+  "sun": [
+    "laikapstākļi",
+    "laiks",
+    "saule",
+    "stari"
+  ],
+  "sun_behind_cloud": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "saule",
+    "saule aiz mākoņa"
+  ],
+  "sun_behind_large_cloud": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "saule",
+    "saule aiz liela mākoņa"
+  ],
+  "sun_behind_rain_cloud": [
+    "laikapstākļi",
+    "laiks",
+    "lietus",
+    "mākonis",
+    "saule",
+    "saule aiz lietus mākoņa"
+  ],
+  "sun_behind_small_cloud": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "saule",
+    "saule aiz maza mākoņa"
+  ],
+  "sun_with_face": [
+    "saule",
+    "saules seja",
+    "seja"
+  ],
+  "sunflower": [
+    "augs",
+    "saulespuķe",
+    "zieds"
+  ],
+  "sunglasses": [
+    "acis",
+    "brilles",
+    "saulesbrilles"
+  ],
+  "sunrise": [
+    "rīts",
+    "saule",
+    "saullēkts"
+  ],
+  "sunrise_over_mountains": [
+    "kalns",
+    "rīts",
+    "saule",
+    "saullēkts",
+    "saullēkts pār kalniem"
+  ],
+  "sunset": [
+    "ēka",
+    "māja",
+    "saule",
+    "saulriets"
+  ],
+  "superhero": [
+    "labais",
+    "superspēks",
+    "supervaronis",
+    "varone",
+    "varonis"
+  ],
+  "supervillain": [
+    "krimināls",
+    "ļaunums",
+    "nelietis",
+    "superļaunais",
+    "superspēks"
+  ],
+  "suriname": [
+    "karogs"
+  ],
+  "sushi": [
+    "ēdiens",
+    "suši"
+  ],
+  "suspension_railway": [
+    "transports",
+    "trose",
+    "trošu vilciens",
+    "vagons",
+    "vilciens"
+  ],
+  "svalbard_jan_mayen": [
+    "karogs"
+  ],
+  "swan": [
+    "gulbis",
+    "jauns gulbis",
+    "neglītais pīlēns",
+    "putns"
+  ],
+  "sweat_droplets": [
+    "lāses",
+    "sviedri",
+    "sviedru lāses"
+  ],
+  "sweat_smile": [
+    "atvērts",
+    "auksts",
+    "plats smaids ar sviedru lāsi",
+    "seja",
+    "smaids",
+    "sviedri"
+  ],
+  "sweden": [
+    "karogs"
+  ],
+  "switzerland": [
+    "karogs"
+  ],
+  "synagogue": [
+    "ebreji",
+    "ēka",
+    "lūgties",
+    "māja",
+    "reliģija",
+    "sinagoga",
+    "templis"
+  ],
+  "syria": [
+    "karogs"
+  ],
+  "syringe": [
+    "adata",
+    "ārsts",
+    "medicīna",
+    "slims",
+    "šļirce"
+  ],
+  "t_rex": [
+    "tiranozaurs",
+    "tiranozaurs rekss"
+  ],
+  "t_shirt": [
+    "apģērbs",
+    "drēbes",
+    "t krekls"
+  ],
+  "taco": [
+    "meksikāņu",
+    "tako"
+  ],
+  "tada": [
+    "ballīte",
+    "konfeti",
+    "plaukšķene",
+    "svētki"
+  ],
+  "taiwan": [
+    "karogs"
+  ],
+  "tajikistan": [
+    "karogs"
+  ],
+  "takeout_box": [
+    "kastīte līdzņemšanai",
+    "ķīniešu ēdienu kastīte līdzņemšanai"
+  ],
+  "tamale": [
+    "meksikāņu",
+    "satīts",
+    "vraps"
+  ],
+  "tanabata_tree": [
+    "japāņu",
+    "koks",
+    "vēlēšanās",
+    "vēlmju koks"
+  ],
+  "tangerine": [
+    "auglis",
+    "augs",
+    "citruss",
+    "mandarīns",
+    "oranžs"
+  ],
+  "tanzania": [
+    "karogs"
+  ],
+  "taurus": [
+    "vērsis",
+    "zodiaka zīme vērsis",
+    "zodiaks"
+  ],
+  "taxi": [
+    "automašīna",
+    "mašīna",
+    "taksometrs",
+    "transports"
+  ],
+  "teacher": [
+    "instruktors",
+    "pedagogs",
+    "profesors",
+    "skolotājs"
+  ],
+  "teacup_without_handle": [
+    "dzēriens",
+    "dzert",
+    "tēja",
+    "tējas tase bez osiņas"
+  ],
+  "teapot": [
+    "dzēriens",
+    "kanna",
+    "tēja",
+    "tējkanna"
+  ],
+  "tear_off_calendar": [
+    "datums",
+    "kalendārs",
+    "noplēšamais kalendārs"
+  ],
+  "technologist": [
+    "izgudrotājs",
+    "izstrādātājs",
+    "kodētājs",
+    "programmatūra",
+    "tehnologs",
+    "vīrietis tehniķis"
+  ],
+  "teddy_bear": [
+    "lāčuks",
+    "manta",
+    "pildīts",
+    "plīšs",
+    "rotaļlieta"
+  ],
+  "telephone": [
+    "tālrunis",
+    "telefons"
+  ],
+  "telephone_receiver": [
+    "klausule",
+    "tālruņa klausule",
+    "tālrunis",
+    "telefons"
+  ],
+  "telescope": [
+    "rīks",
+    "teleskops",
+    "zinātne"
+  ],
+  "television": [
+    "televizors",
+    "tv"
+  ],
+  "ten": [
+    "taustiņš"
+  ],
+  "ten_o_clock": [
+    "00",
+    "10",
+    "10:00",
+    "pulksten desmit",
+    "pulkstenis"
+  ],
+  "ten_thirty": [
+    "10",
+    "10:30",
+    "30",
+    "pulksten pusvienpadsmit",
+    "pulkstenis",
+    "pusvienpadsmit"
+  ],
+  "tennis": [
+    "bumba",
+    "sports",
+    "tenisa bumbiņa",
+    "teniss"
+  ],
+  "tent": [
+    "kempings",
+    "telts"
+  ],
+  "test_tube": [
+    "eksperiments",
+    "ķīmija",
+    "ķīmiķis",
+    "laboratorija",
+    "mēģene",
+    "zinātne"
+  ],
+  "thailand": [
+    "karogs"
+  ],
+  "thermometer": [
+    "temperatūra",
+    "termometrs"
+  ],
+  "thinking": [
+    "domāt",
+    "domīga seja",
+    "seja"
+  ],
+  "thong_sandal": [
+    "pirkstiņsandales",
+    "pludmales sandales",
+    "sandales",
+    "siksniņsandale",
+    "siksniņsandales"
+  ],
+  "thought_balloon": [
+    "burbulis",
+    "domas",
+    "domu burbulis"
+  ],
+  "thread": [
+    "adata",
+    "pavediens",
+    "spolīte",
+    "šūšana"
+  ],
+  "three": [
+    "taustiņš"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3:00",
+    "pulksten trīs",
+    "pulkstenis"
+  ],
+  "three_thirty": [
+    "3",
+    "3:30",
+    "30",
+    "pulksten pusčetri",
+    "pulkstenis",
+    "pusčetri"
+  ],
+  "ticket": [
+    "biļete",
+    "ieeja"
+  ],
+  "tiger": [
+    "tīģeris"
+  ],
+  "tiger_face": [
+    "galva",
+    "tīģera galva",
+    "tīģeris"
+  ],
+  "timer_clock": [
+    "pulkstenis",
+    "taimeris"
+  ],
+  "timor_leste": [
+    "karogs"
+  ],
+  "tired_face": [
+    "nogurums",
+    "nogurusi seja",
+    "seja"
+  ],
+  "togo": [
+    "karogs"
+  ],
+  "toilet": [
+    "pods",
+    "tualete",
+    "tualetes pods"
+  ],
+  "tokelau": [
+    "karogs"
+  ],
+  "tokyo_tower": [
+    "tokija",
+    "tokijas tornis",
+    "tornis"
+  ],
+  "tomato": [
+    "dārzenis",
+    "tomāts"
+  ],
+  "tonga": [
+    "karogs"
+  ],
+  "tongue": [
+    "ķermenis",
+    "mēle",
+    "mute"
+  ],
+  "toolbox": [
+    "darbarīku kaste",
+    "kaste",
+    "mehānisks",
+    "rīks"
+  ],
+  "tooth": [
+    "zobārsts",
+    "zobs"
+  ],
+  "toothbrush": [
+    "higiēna",
+    "suka",
+    "tīrs",
+    "vannasistaba",
+    "zobi",
+    "zobu"
+  ],
+  "top_arrow": [
+    "augšup",
+    "bultiņa",
+    "bultiņa ar uzrakstu top"
+  ],
+  "top_hat": [
+    "apģērbs",
+    "cepure",
+    "cilindrs"
+  ],
+  "tornado": [
+    "laikapstākļi",
+    "laiks",
+    "mākonis",
+    "viesulis",
+    "virpulis"
+  ],
+  "trackball": [
+    "dators",
+    "kursorbumba"
+  ],
+  "tractor": [
+    "traktors",
+    "transports"
+  ],
+  "trade_mark": [
+    "preču zīme",
+    "tm"
+  ],
+  "train": [
+    "dzelzceļš",
+    "transports",
+    "vilciens"
+  ],
+  "tram": [
+    "tramvajs",
+    "transports"
+  ],
+  "tram_car": [
+    "tramvaja vagons",
+    "tramvajs",
+    "transports",
+    "vagons"
+  ],
+  "transgender_flag": [
+    "karogs",
+    "transdzimuma",
+    "zils, rozā un balts karogs"
+  ],
+  "transgender_symbol": [
+    "transdzimuma simbols",
+    "transdzimums"
+  ],
+  "triangular_flag": [
+    "karogs",
+    "trīsstūrveida karogs"
+  ],
+  "triangular_ruler": [
+    "lineāls",
+    "trīsstūra lineāls"
+  ],
+  "trident_emblem": [
+    "enkurs",
+    "kuģis",
+    "trijzaris"
+  ],
+  "trinidad_tobago": [
+    "karogs"
+  ],
+  "tristan_da_cunha": [
+    "karogs"
+  ],
+  "trolleybus": [
+    "transports",
+    "trolejbuss"
+  ],
+  "trophy": [
+    "balva",
+    "kauss"
+  ],
+  "tropical_drink": [
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "glāze",
+    "kokteilis",
+    "tropu kokteilis"
+  ],
+  "tropical_fish": [
+    "tropi",
+    "tropu zivs",
+    "zivs"
+  ],
+  "trumpet": [
+    "instruments",
+    "mūzika",
+    "taure",
+    "trompete"
+  ],
+  "tulip": [
+    "augs",
+    "tulpe",
+    "zieds"
+  ],
+  "tumbler_glass": [
+    "glāze",
+    "liķieris",
+    "šots",
+    "viskija glāze",
+    "viskijs"
+  ],
+  "tunisia": [
+    "karogs"
+  ],
+  "turkey": [
+    "putns",
+    "tītars"
+  ],
+  "turkmenistan": [
+    "karogs"
+  ],
+  "turks_caicos_islands": [
+    "karogs"
+  ],
+  "turtle": [
+    "bruņurupucis"
+  ],
+  "tuvalu": [
+    "karogs"
+  ],
+  "twelve_o_clock": [
+    "00",
+    "12",
+    "12:00",
+    "pulksten divpadsmit",
+    "pulkstenis"
+  ],
+  "twelve_thirty": [
+    "00",
+    "12",
+    "12:30",
+    "30",
+    "pulksten pusviens",
+    "pulkstenis",
+    "pusviens"
+  ],
+  "two": [
+    "taustiņš"
+  ],
+  "two_hearts": [
+    "divas sirdis",
+    "mīlestība",
+    "sirds"
+  ],
+  "two_hump_camel": [
+    "divkupru kamielis",
+    "kamielis",
+    "kupris"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2:00",
+    "pulksten divi",
+    "pulkstenis"
+  ],
+  "two_thirty": [
+    "2",
+    "2:30",
+    "30",
+    "pulksten pustrīs",
+    "pulkstenis",
+    "pustrīs"
+  ],
+  "türkiye": [
+    "karogs"
+  ],
+  "uganda": [
+    "karogs"
+  ],
+  "ukraine": [
+    "karogs"
+  ],
+  "umbrella": [
+    "lietus",
+    "lietussargs"
+  ],
+  "umbrella_on_ground": [
+    "pludmale",
+    "saule",
+    "saulessargs"
+  ],
+  "umbrella_with_rain_drops": [
+    "laikapstākļi",
+    "laiks",
+    "lāses",
+    "lietus",
+    "lietussargs",
+    "lietussargs ar lietus lāsēm"
+  ],
+  "unamused_face": [
+    "dusmas",
+    "dusmīgs",
+    "saīdzis",
+    "saīgusi seja",
+    "seja"
+  ],
+  "unicorn": [
+    "galva",
+    "vienradzis"
+  ],
+  "united_arab_emirates": [
+    "karogs"
+  ],
+  "united_kingdom": [
+    "karogs"
+  ],
+  "united_nations": [
+    "karogs"
+  ],
+  "united_states": [
+    "karogs"
+  ],
+  "unlocked": [
+    "atslēgta",
+    "atvērta slēdzene",
+    "piekaramā atslēga",
+    "slēdzene"
+  ],
+  "up_arrow": [
+    "augšupbultiņa",
+    "augšupvērsta bultiņa",
+    "bultiņa",
+    "norāde",
+    "ziemeļi"
+  ],
+  "up_button": [
+    "poga",
+    "poga up!",
+    "up"
+  ],
+  "up_down_arrow": [
+    "augšup un lejup vērsta bultiņa",
+    "bultiņa"
+  ],
+  "up_left_arrow": [
+    "bultiņa",
+    "norāde",
+    "uz augšējo kreiso stūri vērsta bultiņa",
+    "ziemeļrietumi"
+  ],
+  "up_right_arrow": [
+    "bultiņa",
+    "norāde",
+    "uz augšējo labo stūri vērsta bultiņa",
+    "ziemeļaustrumi"
+  ],
+  "upside_down_face": [
+    "apgriezta seja",
+    "apgriezts",
+    "otrādi",
+    "seja"
+  ],
+  "upwards_button": [
+    "augšup",
+    "poga augšup"
+  ],
+  "uruguay": [
+    "karogs"
+  ],
+  "us_outlying_islands": [
+    "karogs"
+  ],
+  "us_virgin_islands": [
+    "karogs"
+  ],
+  "uzbekistan": [
+    "karogs"
+  ],
+  "vampire": [
+    "drakula",
+    "nemirstīgais",
+    "vampīrs"
+  ],
+  "vanuatu": [
+    "karogs"
+  ],
+  "vatican_city": [
+    "karogs"
+  ],
+  "venezuela": [
+    "karogs"
+  ],
+  "vertical_traffic_light": [
+    "luksofors",
+    "signāls",
+    "vertikāls luksofors"
+  ],
+  "vibration_mode": [
+    "mobilais",
+    "tālrunis",
+    "telefons",
+    "vibrozvana režīms",
+    "vibrozvans"
+  ],
+  "victory_hand": [
+    "ķermenis",
+    "roka",
+    "uzvara",
+    "uzvaras simbols"
+  ],
+  "video_camera": [
+    "kamera",
+    "videokamera"
+  ],
+  "video_game": [
+    "konsole",
+    "videospēle"
+  ],
+  "videocassette": [
+    "kasete",
+    "vhs",
+    "videokasete"
+  ],
+  "vietnam": [
+    "karogs"
+  ],
+  "violin": [
+    "instruments",
+    "mūzika",
+    "vijole"
+  ],
+  "virgo": [
+    "jaunava",
+    "zodiaka zīme jaunava",
+    "zodiaks"
+  ],
+  "volcano": [
+    "izvirdums",
+    "kalns",
+    "vulkāns"
+  ],
+  "volleyball": [
+    "bumba",
+    "sports",
+    "volejbola bumba",
+    "volejbols"
+  ],
+  "vs_button": [
+    "poga",
+    "uzraksts vs kvadrātveida ietvarā",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "ķermenis",
+    "pirksts",
+    "roka",
+    "spoks",
+    "vulkāniešu sveiciens",
+    "vulkāns"
+  ],
+  "waffle": [
+    "gludeklis",
+    "savienojošs",
+    "vafele"
+  ],
+  "wales": [
+    "karogs"
+  ],
+  "wallis_futuna": [
+    "karogs"
+  ],
+  "waning_crescent_moon": [
+    "dilstoša mēness sirpis",
+    "dilstošs",
+    "mēness",
+    "sirpis"
+  ],
+  "waning_gibbous_moon": [
+    "dilstošs",
+    "izliekts",
+    "mēness"
+  ],
+  "warning": [
+    "brīdinājums"
+  ],
+  "wastebasket": [
+    "atkritumu grozs",
+    "papīrkurvis"
+  ],
+  "watch": [
+    "pulkstenis",
+    "rokaspulkstenis"
+  ],
+  "water_buffalo": [
+    "bifelis",
+    "ūdens"
+  ],
+  "water_closet": [
+    "ateja",
+    "tualete",
+    "wc"
+  ],
+  "water_pistol": [
+    "ierocis",
+    "pistole",
+    "revolveris",
+    "šaujamierocis"
+  ],
+  "watermelon": [
+    "arbūzs",
+    "auglis",
+    "augs"
+  ],
+  "waving_hand": [
+    "ķermenis",
+    "mājoša roka",
+    "māt",
+    "roka"
+  ],
+  "wavy_dash": [
+    "domuzīme",
+    "viļņota"
+  ],
+  "waxing_crescent_moon": [
+    "augoša mēness sirpis",
+    "augošs",
+    "mēness",
+    "sirpis"
+  ],
+  "waxing_gibbous_moon": [
+    "augošs",
+    "izliekts",
+    "mēness"
+  ],
+  "weary_cat": [
+    "ak",
+    "kaķis",
+    "noraizējies",
+    "pārsteigts",
+    "seja"
+  ],
+  "weary_face": [
+    "nogurdināta seja",
+    "noguris",
+    "seja"
+  ],
+  "wedding": [
+    "ēka",
+    "kāzas",
+    "māja"
+  ],
+  "western_sahara": [
+    "karogs"
+  ],
+  "whale": [
+    "valis"
+  ],
+  "wheel_of_dharma": [
+    "budisms",
+    "darma",
+    "darmas rats",
+    "rats",
+    "reliģija"
+  ],
+  "wheelchair_symbol": [
+    "piekļūt",
+    "ratiņkrēsls"
+  ],
+  "white_cane": [
+    "akls",
+    "baltais atbalsta spieķis",
+    "pieejamība"
+  ],
+  "white_check_mark": [
+    "✓",
+    "atzīme",
+    "balta kontrolzīme",
+    "ķeksītis"
+  ],
+  "white_circle": [
+    "aplis",
+    "balts aplis",
+    "ģeometrija"
+  ],
+  "white_exclamation_mark": [
+    "!",
+    "balta izsaukuma zīme",
+    "izsaukums",
+    "pieturzīme"
+  ],
+  "white_flag": [
+    "balts karogs",
+    "karogs",
+    "plīvot"
+  ],
+  "white_flower": [
+    "augs",
+    "balts zieds",
+    "zieds"
+  ],
+  "white_heart": [
+    "balta",
+    "sirds"
+  ],
+  "white_large_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "liels balts kvadrāts"
+  ],
+  "white_medium_small_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "vidēji mazs balts kvadrāts"
+  ],
+  "white_medium_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "vidējs balts kvadrāts"
+  ],
+  "white_question_mark": [
+    "?",
+    "balta jautājuma zīme",
+    "jautājums",
+    "pieturzīme"
+  ],
+  "white_small_square": [
+    "ģeometrija",
+    "kvadrāts",
+    "mazs balts kvadrāts"
+  ],
+  "white_square_button": [
+    "balta kvadrātveida poga",
+    "ģeometrija",
+    "kvadrāts"
+  ],
+  "wilted_flower": [
+    "novītusi",
+    "puķe"
+  ],
+  "wind_chime": [
+    "svētki",
+    "vēja zvans",
+    "vējš",
+    "zvans"
+  ],
+  "wind_face": [
+    "laikapstākļi",
+    "laiks",
+    "pūš vējš",
+    "pūst",
+    "vējš"
+  ],
+  "window": [
+    "atvērums",
+    "caurspīdīgs",
+    "logs",
+    "rāmis",
+    "skats",
+    "svaigs gaiss"
+  ],
+  "wine_glass": [
+    "bārs",
+    "dzēriens",
+    "dzert",
+    "glāze",
+    "vīna glāze",
+    "vīns"
+  ],
+  "wink": [
+    "acs",
+    "miegt",
+    "mirkšķināt",
+    "seja",
+    "seja ar piemiegtu aci"
+  ],
+  "winking_face_with_tongue": [
+    "acs",
+    "mēle",
+    "miegt",
+    "mirkšķināt",
+    "seja",
+    "seja ar izbāztu mēli un piemiegtu aci"
+  ],
+  "wolf": [
+    "galva",
+    "vilks"
+  ],
+  "woman": [
+    "dāma",
+    "kundze",
+    "seja",
+    "sieviete"
+  ],
+  "woman_and_man_holding_hands": [
+    "pāris",
+    "rokas",
+    "sadot",
+    "sieviete",
+    "sieviete un vīrietis sadevušies rokās",
+    "vīrietis"
+  ],
+  "woman_artist": [
+    "māksliniece",
+    "palete",
+    "sieviete"
+  ],
+  "woman_astronaut": [
+    "astronaute",
+    "kosmoss",
+    "raķete",
+    "sieviete"
+  ],
+  "woman_bald": [
+    "bez matiem",
+    "dāma",
+    "kundze",
+    "seja",
+    "sieviete"
+  ],
+  "woman_biking": [
+    "riteņbraucēja",
+    "sieviete",
+    "sports",
+    "velosipēds"
+  ],
+  "woman_bouncing_ball": [
+    "basketbols",
+    "bumba",
+    "sieviete",
+    "sieviete ar bumbu",
+    "sports"
+  ],
+  "woman_bowing": [
+    "cieņa",
+    "paklanīšanās",
+    "sieviete",
+    "sieviete paklanās"
+  ],
+  "woman_cartwheeling": [
+    "akrobāte",
+    "akrobātika",
+    "sieviete",
+    "sports",
+    "vingrošana"
+  ],
+  "woman_climbing": [
+    "alpīniste",
+    "alpīnists"
+  ],
+  "woman_cook": [
+    "pavāre",
+    "šefpavāre",
+    "sieviete"
+  ],
+  "woman_curly_hair": [
+    "dāma",
+    "kundze",
+    "seja",
+    "sieviete",
+    "sprogaini mati"
+  ],
+  "woman_dancing": [
+    "deja",
+    "sieviete",
+    "sieviete dejo"
+  ],
+  "woman_detective": [
+    "detektīve",
+    "detektīvs",
+    "sieviete",
+    "spiedze"
+  ],
+  "woman_elf": [
+    "elfa",
+    "maģiska"
+  ],
+  "woman_facepalming": [
+    "aizkaitinājums",
+    "nav vārdu",
+    "roka",
+    "sieviete",
+    "sieviete ar saķertu galvu"
+  ],
+  "woman_factory_worker": [
+    "fabrikas strādniece",
+    "ražošana",
+    "rūpnīca",
+    "sieviete",
+    "strādniece"
+  ],
+  "woman_fairy": [
+    "laumiņa",
+    "titānija"
+  ],
+  "woman_farmer": [
+    "dārzeniece",
+    "lauksaimniece",
+    "sieviete"
+  ],
+  "woman_feeding_baby": [
+    "barošana",
+    "mazulis",
+    "sieviete",
+    "sieviete baro bērnu",
+    "zīdīšana"
+  ],
+  "woman_firefighter": [
+    "sieviete",
+    "ugunsdzēsēja"
+  ],
+  "woman_frowning": [
+    "dusmoties",
+    "norūpējusies sieviete",
+    "sieviete",
+    "žests"
+  ],
+  "woman_genie": [
+    "džins",
+    "sieviete džins"
+  ],
+  "woman_gesturing_no": [
+    "nepiekrišana",
+    "pret",
+    "sieviete",
+    "sieviete ar aizlieguma žestu",
+    "sieviete ar noraidījuma žestu",
+    "žests"
+  ],
+  "woman_gesturing_ok": [
+    "par",
+    "piekrišana",
+    "sieviete",
+    "sieviete ar apstiprinājuma žestu",
+    "žests"
+  ],
+  "woman_getting_haircut": [
+    "frizieris",
+    "griezums",
+    "sieviete",
+    "sieviete pie friziera",
+    "šķēres"
+  ],
+  "woman_getting_massage": [
+    "masāža",
+    "seja",
+    "sieviete",
+    "sievietei masē seju"
+  ],
+  "woman_golfing": [
+    "golfs",
+    "sieviete",
+    "sieviete spēlē golfu",
+    "sports"
+  ],
+  "woman_guard": [
+    "sardze",
+    "sieviete"
+  ],
+  "woman_health_worker": [
+    "ārste",
+    "daktere",
+    "medmāsa",
+    "sieviete",
+    "terapeite",
+    "veselības aprūpes speciāliste"
+  ],
+  "woman_in_lotus_position": [
+    "joga",
+    "meditācija",
+    "sieviete lotosa pozā"
+  ],
+  "woman_in_manual_wheelchair": [
+    "pieejamība",
+    "ratiņkrēsls",
+    "sieviete",
+    "sieviete manuālā ratiņkrēslā"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "pieejamība",
+    "ratiņkrēsls",
+    "sieviete",
+    "sieviete motorizētā ratiņkrēslā"
+  ],
+  "woman_in_steamy_room": [
+    "sauna",
+    "sieviete tvaika telpā",
+    "tvaika telpa"
+  ],
+  "woman_in_tuxedo": [
+    "sieviete",
+    "sieviete smokingā",
+    "smokings"
+  ],
+  "woman_judge": [
+    "likums",
+    "sieviete",
+    "svari",
+    "tiesnese"
+  ],
+  "woman_juggling": [
+    "sieviete",
+    "sports",
+    "vairāki uzdevumi",
+    "žongliere",
+    "žonglieris"
+  ],
+  "woman_kneeling": [
+    "sieviete",
+    "sieviete uz ceļiem",
+    "uz ceļiem"
+  ],
+  "woman_lifting_weights": [
+    "sieviete",
+    "sports",
+    "svarcēlāja",
+    "svarcelšana"
+  ],
+  "woman_mage": [
+    "burve",
+    "ragana",
+    "zintniece"
+  ],
+  "woman_mechanic": [
+    "elektriķe",
+    "mehāniķe",
+    "santehniķe",
+    "sieviete"
+  ],
+  "woman_mountain_biking": [
+    "kalnu velosipēds",
+    "riteņbraucēja ar kalnu velosipēdu",
+    "sieviete",
+    "sports"
+  ],
+  "woman_office_worker": [
+    "arhitekte",
+    "baltās apkaklītes",
+    "biroja darbiniece",
+    "birojs",
+    "menedžere",
+    "sieviete",
+    "uzņēmējdarbība"
+  ],
+  "woman_pilot": [
+    "lidmašīna",
+    "pilote",
+    "sieviete"
+  ],
+  "woman_playing_handball": [
+    "rokasbumba",
+    "rokasbumbas spēlētāja",
+    "sieviete",
+    "sports"
+  ],
+  "woman_playing_water_polo": [
+    "sieviete",
+    "sports",
+    "ūdenspolo",
+    "ūdenspolo spēlētāja"
+  ],
+  "woman_police_officer": [
+    "policija",
+    "policiste",
+    "sieviete",
+    "virsniece"
+  ],
+  "woman_pouting": [
+    "bēdāties",
+    "sabozusies sieviete",
+    "sieviete",
+    "žests"
+  ],
+  "woman_raising_hand": [
+    "pacelta roka",
+    "sieviete",
+    "sieviete ar paceltu roku",
+    "žests"
+  ],
+  "woman_red_hair": [
+    "dāma",
+    "kundze",
+    "sarkani mati",
+    "seja",
+    "sieviete"
+  ],
+  "woman_rowing_boat": [
+    "airētāja",
+    "airi",
+    "laiva",
+    "sieviete",
+    "sports"
+  ],
+  "woman_running": [
+    "maratons",
+    "sacīkstes",
+    "sieviete",
+    "sieviete skrien",
+    "skrējiens"
+  ],
+  "woman_s_boot": [
+    "apavi",
+    "sieviešu",
+    "zābaks"
+  ],
+  "woman_s_clothes": [
+    "apģērbs",
+    "sieviešu",
+    "sieviešu drēbes"
+  ],
+  "woman_s_hat": [
+    "cepure",
+    "platmale",
+    "sieviešu cepure"
+  ],
+  "woman_s_sandal": [
+    "apavi",
+    "sandale",
+    "sieviešu"
+  ],
+  "woman_scientist": [
+    "bioloģe",
+    "fiziķe",
+    "inženiere",
+    "ķīmiķe",
+    "matemātiķe",
+    "sieviete",
+    "zinātniece"
+  ],
+  "woman_shrugging": [
+    "neziņa",
+    "rausta plecus",
+    "sieviete",
+    "sieviete rausta plecus",
+    "vienaldzība",
+    "vienalga"
+  ],
+  "woman_singer": [
+    "aktrise",
+    "dziedātāja",
+    "izklaide",
+    "roks",
+    "sieviete",
+    "zvaigzne"
+  ],
+  "woman_standing": [
+    "sieviete",
+    "stāvēšana",
+    "stāvoša sieviete"
+  ],
+  "woman_student": [
+    "absolvente",
+    "sieviete",
+    "studente"
+  ],
+  "woman_superhero": [
+    "labais",
+    "sieviete",
+    "sieviete supervarone",
+    "superspēks",
+    "varone",
+    "varonis"
+  ],
+  "woman_supervillain": [
+    "krimināls",
+    "ļaunums",
+    "nelietis",
+    "sieviete",
+    "superļaunā sieviete",
+    "superspēks"
+  ],
+  "woman_surfing": [
+    "sērfošana",
+    "sieviete",
+    "sieviete sērfo",
+    "sports"
+  ],
+  "woman_swimming": [
+    "peldēšana",
+    "peldētāja",
+    "sieviete",
+    "sports"
+  ],
+  "woman_teacher": [
+    "pasniedzēja",
+    "profesore",
+    "sieviete",
+    "skolotāja"
+  ],
+  "woman_technologist": [
+    "izstrādātāja",
+    "programmatūra",
+    "programmētāja",
+    "sieviete",
+    "tehniķe"
+  ],
+  "woman_tipping_hand": [
+    "bezkaunība",
+    "sieviete",
+    "sieviete ar pastieptu roku",
+    "žests"
+  ],
+  "woman_vampire": [
+    "nemirstīgs",
+    "vampīre"
+  ],
+  "woman_walking": [
+    "pārgājiens",
+    "pastaiga",
+    "sieviete",
+    "sieviete pastaigājas"
+  ],
+  "woman_wearing_turban": [
+    "sieviete",
+    "sieviete ar turbānu",
+    "turbāns"
+  ],
+  "woman_white_hair": [
+    "dāma",
+    "kundze",
+    "seja",
+    "sieviete",
+    "sirmi mati"
+  ],
+  "woman_with_headscarf": [
+    "galvas lakats",
+    "hidžabs",
+    "lakats",
+    "sieviete ar lakatu"
+  ],
+  "woman_with_veil": [
+    "plīvurs",
+    "sieviete",
+    "sieviete ar plīvuru"
+  ],
+  "woman_with_white_cane": [
+    "akls",
+    "pieejamība",
+    "sieviete",
+    "sieviete ar balto atbalsta spieķi"
+  ],
+  "woman_zombie": [
+    "nemirstīgs",
+    "sieviete zombijs",
+    "staigājošais mironis",
+    "zombijsieviete"
+  ],
+  "women_holding_hands": [
+    "pāris",
+    "rokas",
+    "sadot",
+    "sieviete",
+    "sievietes sadevušās rokās"
+  ],
+  "women_s_room": [
+    "sieviešu",
+    "tualete",
+    "wc"
+  ],
+  "women_with_bunny_ears": [
+    "ballīte",
+    "dejotājas",
+    "dejotājs",
+    "sieviete",
+    "zaķa ausis"
+  ],
+  "women_wrestling": [
+    "cīkstone",
+    "cīņa",
+    "sieviete",
+    "sports"
+  ],
+  "wood": [
+    "baļķis",
+    "kokmateriāls",
+    "koks"
+  ],
+  "woozy_face": [
+    "apreibis",
+    "noreibusi seja",
+    "piedzēries",
+    "šķībām acīm",
+    "šķību muti"
+  ],
+  "world_map": [
+    "karte",
+    "pasaule",
+    "pasaules karte"
+  ],
+  "worm": [
+    "parazīts",
+    "posmtārps",
+    "slieka",
+    "tārps"
+  ],
+  "worried": [
+    "noraizējies",
+    "noraizējusies seja",
+    "rūpes",
+    "seja"
+  ],
+  "wrapped_gift": [
+    "dāvana",
+    "iesaiņot",
+    "iesaiņota dāvana",
+    "lente"
+  ],
+  "wrench": [
+    "darbarīks",
+    "uzgriežņu atslēga"
+  ],
+  "writing_hand": [
+    "ķermenis",
+    "rakstīt",
+    "rakstoša roka",
+    "roka"
+  ],
+  "yarn": [
+    "adīt",
+    "dzija",
+    "kamoliņš",
+    "tambrorējums"
+  ],
+  "yawning_face": [
+    "garlaikots",
+    "nogurdināts",
+    "seja žāvājas",
+    "žāvas"
+  ],
+  "yellow_circle": [
+    "aplis",
+    "dzeltens"
+  ],
+  "yellow_heart": [
+    "dzeltena sirds",
+    "dzeltens",
+    "sirds"
+  ],
+  "yellow_square": [
+    "dzeltens",
+    "kvadrāts"
+  ],
+  "yemen": [
+    "karogs"
+  ],
+  "yen_banknote": [
+    "banknote",
+    "jena",
+    "jenas banknote",
+    "nauda"
+  ],
+  "yin_yang": [
+    "daoisms",
+    "iņ",
+    "iņ un jaņ",
+    "jaņ",
+    "reliģija"
+  ],
+  "yoyo": [
+    "jojo",
+    "rotaļlieta",
+    "svārstīgs"
+  ],
+  "zambia": [
+    "karogs"
+  ],
+  "zany_face": [
+    "acs",
+    "liels",
+    "mazs",
+    "traka seja"
+  ],
+  "zebra": [
+    "svītra"
+  ],
+  "zero": [
+    "taustiņš"
+  ],
+  "zimbabwe": [
+    "karogs"
+  ],
+  "zipper_mouth_face": [
+    "ciet",
+    "mute",
+    "rāvējslēdzējs",
+    "seja",
+    "seja ar rāvējslēdzēju mutes vietā"
+  ],
+  "zombie": [
+    "dzīvais mironis",
+    "nemirstīgs",
+    "zombijs"
+  ],
+  "zzz": [
+    "gulēt",
+    "miegs"
+  ],
+  "åland_islands": [
+    "karogs"
+  ]
+}

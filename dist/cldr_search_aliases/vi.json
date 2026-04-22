@@ -1,0 +1,9435 @@
+{
+  "+1": [
+    "dấu ra hiệu đồng ý",
+    "lên",
+    "ngón tay cái",
+    "tay"
+  ],
+  "-1": [
+    "dấu ra hiệu từ chối",
+    "ngón tay cái",
+    "tay",
+    "xuống"
+  ],
+  "100": [
+    "điểm",
+    "một trăm",
+    "toàn bộ"
+  ],
+  "1234": [
+    "nhập",
+    "số"
+  ],
+  "1st_place_medal": [
+    "huy chương",
+    "huy chương vàng",
+    "nhất",
+    "vàng"
+  ],
+  "2nd_place_medal": [
+    "bạc",
+    "hai",
+    "huy chương",
+    "huy chương bạc"
+  ],
+  "3rd_place_medal": [
+    "ba",
+    "đồng",
+    "huy chương",
+    "huy chương đồng"
+  ],
+  "a_button_blood_type": [
+    "a",
+    "nhóm máu",
+    "nút a (nhóm máu)"
+  ],
+  "ab_button_blood_type": [
+    "ab",
+    "nhóm máu",
+    "nút ab (nhóm máu)"
+  ],
+  "abacus": [
+    "bàn tính",
+    "tính toán"
+  ],
+  "accordion": [
+    "buổi hòa nhạc",
+    "hộp bóp",
+    "phong cầm"
+  ],
+  "adhesive_bandage": [
+    "băng dán y tế",
+    "băng dính"
+  ],
+  "admission_tickets": [
+    "vào cửa",
+    "vé",
+    "vé vào cửa"
+  ],
+  "aerial_tramway": [
+    "cáp",
+    "cáp treo",
+    "đường xe điện",
+    "toa trần",
+    "trên không"
+  ],
+  "afghanistan": [
+    "cờ"
+  ],
+  "airplane": [
+    "máy bay",
+    "xe cộ"
+  ],
+  "airplane_arrival": [
+    "đến",
+    "điểm đến",
+    "hạ cánh",
+    "máy bay",
+    "máy bay đến nơi"
+  ],
+  "airplane_departure": [
+    "đăng ký",
+    "điểm khởi hành",
+    "khởi hành",
+    "máy bay",
+    "máy bay khởi hành",
+    "tàu bay"
+  ],
+  "alarm_clock": [
+    "báo thức",
+    "đồng hồ",
+    "đồng hồ báo thức"
+  ],
+  "albania": [
+    "cờ"
+  ],
+  "alembic": [
+    "bình chưng cất",
+    "dụng cụ",
+    "hóa học"
+  ],
+  "algeria": [
+    "cờ"
+  ],
+  "alien": [
+    "đĩa bay",
+    "giả tưởng",
+    "khuôn mặt",
+    "ngoài trái đất",
+    "người ngoài hành tinh",
+    "sinh vật"
+  ],
+  "alien_monster": [
+    "đĩa bay",
+    "khuôn mặt",
+    "ngoài trái đất",
+    "người ngoài hành tinh",
+    "quái vật",
+    "quái vật ngoài hành tinh",
+    "sinh vật"
+  ],
+  "ambulance": [
+    "xe cộ",
+    "xe cứu thương"
+  ],
+  "american_football": [
+    "bóng bầu dục",
+    "bóng bầu dục mỹ",
+    "người mỹ",
+    "quả bóng"
+  ],
+  "american_samoa": [
+    "cờ"
+  ],
+  "amphora": [
+    "bảo bình",
+    "bình",
+    "hoàng đạo",
+    "nấu ăn",
+    "uống",
+    "vò hai quai"
+  ],
+  "anatomical_heart": [
+    "cơ quan",
+    "cơ quan tim",
+    "khoa tim mạch",
+    "nhịp tim",
+    "trung tâm"
+  ],
+  "anchor": [
+    "dụng cụ",
+    "mỏ neo",
+    "tàu"
+  ],
+  "andorra": [
+    "cờ"
+  ],
+  "anger_symbol": [
+    "biểu tượng giận giữ",
+    "điên",
+    "hài hước",
+    "tức giận"
+  ],
+  "angola": [
+    "cờ"
+  ],
+  "angry": [
+    "điên",
+    "mặt",
+    "mặt giận giữ",
+    "tức giận"
+  ],
+  "angry_face_with_horns": [
+    "ma quỷ",
+    "mặt",
+    "mặt giận dữ có sừng",
+    "mặt giận giữ có sừng",
+    "quỷ",
+    "tiểu yêu",
+    "tưởng tượng"
+  ],
+  "anguilla": [
+    "cờ"
+  ],
+  "anguished_face": [
+    "đau khổ",
+    "mặt",
+    "mặt đau khổ"
+  ],
+  "ant": [
+    "côn trùng",
+    "kiến"
+  ],
+  "antarctica": [
+    "cờ"
+  ],
+  "antenna_bars": [
+    "ăng-ten",
+    "di động",
+    "điện thoại",
+    "vạch"
+  ],
+  "antigua_barbuda": [
+    "cờ"
+  ],
+  "anxious_face_with_sweat": [
+    "lạnh",
+    "mặt",
+    "mặt lo lắng và toát mồ hôi",
+    "mặt lo lắng và toát mồ hôi mồ hôi",
+    "vội vã",
+    "xanh da trời"
+  ],
+  "aquarius": [
+    "bảo bình",
+    "cung hoàng đạo",
+    "người mang",
+    "nước"
+  ],
+  "argentina": [
+    "cờ"
+  ],
+  "aries": [
+    "bạch dương",
+    "cung hoàng đạo",
+    "cừu đực"
+  ],
+  "armenia": [
+    "cờ"
+  ],
+  "articulated_lorry": [
+    "bán",
+    "đầu kéo rơ-moóc",
+    "xe tải"
+  ],
+  "artist": [
+    "bảng màu",
+    "họa sĩ"
+  ],
+  "artist_palette": [
+    "bảng màu",
+    "bảo tàng",
+    "nghệ thuật",
+    "vẽ"
+  ],
+  "aruba": [
+    "cờ"
+  ],
+  "ascension_island": [
+    "cờ"
+  ],
+  "asterisk": [
+    "mũ phím"
+  ],
+  "astonished_face": [
+    "hoàn toàn",
+    "kinh ngạc",
+    "mặt",
+    "mặt kinh ngạc",
+    "sốc"
+  ],
+  "astronaut": [
+    "phi hành gia",
+    "tên lửa"
+  ],
+  "atm_sign": [
+    "atm",
+    "ký hiệu atm",
+    "máy rút tiền",
+    "ngân hàng",
+    "tự động"
+  ],
+  "atom_symbol": [
+    "biểu tượng nguyên tử",
+    "người vô thần",
+    "nguyên tử"
+  ],
+  "australia": [
+    "cờ"
+  ],
+  "austria": [
+    "cờ"
+  ],
+  "auto_rickshaw": [
+    "túc túc",
+    "tuk tuk",
+    "xe lam"
+  ],
+  "automobile": [
+    "ô tô",
+    "xe cộ"
+  ],
+  "avocado": [
+    "hoa quả",
+    "quả bơ",
+    "thức ăn"
+  ],
+  "axe": [
+    "bổ",
+    "bổ đôi",
+    "chém",
+    "gỗ",
+    "rìu",
+    "rìu nhỏ"
+  ],
+  "azerbaijan": [
+    "cờ"
+  ],
+  "b_button_blood_type": [
+    "b",
+    "nhóm máu",
+    "nút b (nhóm máu)"
+  ],
+  "baby": [
+    "trẻ con",
+    "trẻ em"
+  ],
+  "baby_angel": [
+    "bé con",
+    "mặt",
+    "thiên thần",
+    "thiên thần nhỏ",
+    "truyện cổ tích",
+    "tưởng tượng"
+  ],
+  "baby_bottle": [
+    "bình",
+    "bình sữa trẻ em",
+    "em bé",
+    "sữa",
+    "uống"
+  ],
+  "baby_chick": [
+    "chim",
+    "gà",
+    "gà con"
+  ],
+  "baby_symbol": [
+    "biểu tượng trẻ em",
+    "thay đồ",
+    "trẻ em"
+  ],
+  "back_arrow": [
+    "back",
+    "mũi tên",
+    "mũi tên back"
+  ],
+  "backhand_index_pointing_down": [
+    "mu bàn tay",
+    "ngón tay",
+    "ngón trỏ",
+    "ngón trỏ trái chỉ xuống",
+    "tay",
+    "trỏ"
+  ],
+  "backhand_index_pointing_left": [
+    "chỉ",
+    "mu bàn tay",
+    "ngón tay",
+    "ngón trỏ",
+    "ngón trỏ trái chỉ sang trái",
+    "tay"
+  ],
+  "backhand_index_pointing_right": [
+    "chỉ",
+    "mu bàn tay",
+    "ngón tay",
+    "ngón trỏ",
+    "ngón trỏ trái chỉ sang phải",
+    "tay"
+  ],
+  "backhand_index_pointing_up": [
+    "chỉ",
+    "lên",
+    "ngón tay",
+    "ngón trỏ trái chỉ lên",
+    "tay",
+    "tay trái"
+  ],
+  "backpack": [
+    "ba lô đi học",
+    "cặp",
+    "trường",
+    "túi"
+  ],
+  "bacon": [
+    "thịt",
+    "thịt xông khói",
+    "thức ăn"
+  ],
+  "badger": [
+    "con lửng",
+    "lửng mật",
+    "quấy rầy"
+  ],
+  "badminton": [
+    "cầu lông",
+    "kỹ thuật ghi",
+    "trái cầu lông",
+    "trò chơi",
+    "vợt"
+  ],
+  "bagel": [
+    "bánh mỳ vòng",
+    "bánh vòng",
+    "phết",
+    "tiệm bánh"
+  ],
+  "baggage_claim": [
+    "hành lý",
+    "nhận",
+    "nơi nhận hành lý"
+  ],
+  "baguette_bread": [
+    "bánh mì que",
+    "bánh mỳ",
+    "pháp",
+    "thức ăn"
+  ],
+  "bahamas": [
+    "cờ"
+  ],
+  "bahrain": [
+    "cờ"
+  ],
+  "balance_scale": [
+    "cân",
+    "cân thăng bằng",
+    "công lý",
+    "cung hoàng đạo",
+    "thăng bằng",
+    "thiên bình"
+  ],
+  "ballet_shoes": [
+    "balê",
+    "giày múa balê",
+    "múa"
+  ],
+  "balloon": [
+    "bóng bay",
+    "lễ kỷ niệm"
+  ],
+  "ballot_box_with_ballot": [
+    "hòm phiếu với lá phiếu",
+    "lá phiếu",
+    "thùng phiếu"
+  ],
+  "banana": [
+    "chuối",
+    "hoa quả"
+  ],
+  "bangladesh": [
+    "cờ"
+  ],
+  "banjo": [
+    "âm nhạc",
+    "có dây",
+    "đàn banjo"
+  ],
+  "bank": [
+    "ngân hàng",
+    "tòa nhà"
+  ],
+  "bar_chart": [
+    "biểu đồ",
+    "biểu đồ thanh",
+    "đồ thị",
+    "thanh"
+  ],
+  "barbados": [
+    "cờ"
+  ],
+  "barber_pole": [
+    "biển hiệu của thợ cắt tóc",
+    "cắt tóc",
+    "cột",
+    "thợ cắt tóc"
+  ],
+  "baseball": [
+    "bóng chày",
+    "quả bóng"
+  ],
+  "basket": [
+    "cái giỏ",
+    "dã ngoại",
+    "giặt ủi",
+    "trồng trọt"
+  ],
+  "basketball": [
+    "bóng rổ",
+    "quả bóng",
+    "vòng"
+  ],
+  "bat": [
+    "dơi",
+    "ma cà rồng"
+  ],
+  "bathtub": [
+    "bồn tắm",
+    "tắm"
+  ],
+  "battery": [
+    "pin"
+  ],
+  "beach_with_umbrella": [
+    "bãi biển",
+    "bãi biển với chiếc ô",
+    "ô"
+  ],
+  "bear": [
+    "gấu",
+    "mặt"
+  ],
+  "beating_heart": [
+    "dao động",
+    "đập",
+    "nhịp tim",
+    "trái tim đang đập"
+  ],
+  "beaver": [
+    "hải ly",
+    "xây đập"
+  ],
+  "bed": [
+    "giường",
+    "khách sạn",
+    "ngủ"
+  ],
+  "beer_mug": [
+    "bia",
+    "cốc",
+    "đồ uống",
+    "quán bar"
+  ],
+  "beetle": [
+    "bọ",
+    "bọ cánh cứng",
+    "côn trùng"
+  ],
+  "belarus": [
+    "cờ"
+  ],
+  "belgium": [
+    "cờ"
+  ],
+  "belize": [
+    "cờ"
+  ],
+  "bell": [
+    "cái chuông"
+  ],
+  "bell_pepper": [
+    "ớt",
+    "ớt chuông",
+    "rau"
+  ],
+  "bell_with_slash": [
+    "cấm",
+    "chuông",
+    "chuông với dấu gạch chéo",
+    "im lặng",
+    "tắt tiếng"
+  ],
+  "bellhop_bell": [
+    "chuông",
+    "chuông gọi phục vụ",
+    "khách sạn"
+  ],
+  "benin": [
+    "cờ"
+  ],
+  "bento_box": [
+    "cơm bento",
+    "hộp",
+    "hộp cơm bento"
+  ],
+  "bermuda": [
+    "cờ"
+  ],
+  "beverage_box": [
+    "hộp đồ uống",
+    "hộp nước trái cây"
+  ],
+  "bhutan": [
+    "cờ"
+  ],
+  "bicycle": [
+    "xe cộ",
+    "xe đạp"
+  ],
+  "bikini": [
+    "áo tắm hai mảnh",
+    "bơi",
+    "quần áo"
+  ],
+  "billed_cap": [
+    "mũ bóng chày",
+    "mũ lưỡi trai"
+  ],
+  "biohazard": [
+    "ký hiệu",
+    "nguy hiểm sinh học"
+  ],
+  "bird": [
+    "chim"
+  ],
+  "birthday_cake": [
+    "bánh",
+    "bánh sinh nhật",
+    "lễ kỷ niệm",
+    "món tráng miệng",
+    "ngọt",
+    "sinh nhật"
+  ],
+  "bison": [
+    "bò rừng",
+    "đàn",
+    "trâu"
+  ],
+  "black_cat": [
+    "đen",
+    "mèo",
+    "vận đen"
+  ],
+  "black_circle": [
+    "hình học",
+    "hình tròn",
+    "hình tròn màu đen"
+  ],
+  "black_flag": [
+    "cờ đen",
+    "vẫy"
+  ],
+  "black_heart": [
+    "đen",
+    "điều ác",
+    "tim đen",
+    "xấu"
+  ],
+  "black_large_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông lớn màu đen"
+  ],
+  "black_medium_small_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông nhỏ vừa màu đen"
+  ],
+  "black_medium_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông trung bình màu đen"
+  ],
+  "black_nib": [
+    "bút",
+    "ngòi",
+    "ngòi bút đen"
+  ],
+  "black_small_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông nhỏ màu đen"
+  ],
+  "black_square_button": [
+    "hình học",
+    "hình vuông",
+    "nút",
+    "nút hình vuông màu đen"
+  ],
+  "blonde_man": [
+    "đàn ông",
+    "đàn ông: tóc vàng hoe",
+    "người đàn ông tóc vàng hoe",
+    "tóc vàng hoe"
+  ],
+  "blonde_woman": [
+    "người phụ nữ tóc vàng hoe",
+    "nữ",
+    "phụ nữ",
+    "tóc vàng hoe"
+  ],
+  "blossom": [
+    "hoa",
+    "thực vật"
+  ],
+  "blowfish": [
+    "cá",
+    "cá nóc"
+  ],
+  "blue_book": [
+    "sách",
+    "sách màu lam",
+    "xanh lam"
+  ],
+  "blue_circle": [
+    "hình học",
+    "hình tròn",
+    "hình tròn màu lam",
+    "màu lam"
+  ],
+  "blue_heart": [
+    "màu lam",
+    "trái tim màu lam"
+  ],
+  "blue_square": [
+    "hình vuông",
+    "hình vuông màu xanh da trời",
+    "màu xanh da trời",
+    "ô vuông"
+  ],
+  "blueberries": [
+    "màu xanh",
+    "quả mọng",
+    "quả việt quất"
+  ],
+  "blush": [
+    "cười",
+    "đỏ mặt",
+    "mắt",
+    "mặt",
+    "mặt mỉm cười với hai mắt híp lại"
+  ],
+  "boar": [
+    "con heo",
+    "lợn rừng"
+  ],
+  "bolivia": [
+    "cờ"
+  ],
+  "bomb": [
+    "bom",
+    "hài hước"
+  ],
+  "bone": [
+    "bộ xương",
+    "xương"
+  ],
+  "bookmark": [
+    "đánh dấu",
+    "đánh dấu trang"
+  ],
+  "bookmark_tabs": [
+    "đánh dấu",
+    "dấu trang",
+    "tab",
+    "tab dấu trang"
+  ],
+  "books": [
+    "sách"
+  ],
+  "boomerang": [
+    "australia",
+    "bật lại",
+    "bumơrang",
+    "dội lại"
+  ],
+  "bosnia_herzegovina": [
+    "cờ"
+  ],
+  "botswana": [
+    "cờ"
+  ],
+  "bottle_with_popping_cork": [
+    "bật ra",
+    "chai",
+    "chai rượu với nút gỗ bật ra",
+    "đồ uống",
+    "nút gỗ",
+    "quán bar"
+  ],
+  "bouquet": [
+    "bó",
+    "hoa"
+  ],
+  "bouvet_island": [
+    "cờ"
+  ],
+  "bow_and_arrow": [
+    "cung",
+    "cung hoàng đạo",
+    "cung tên",
+    "cung thủ",
+    "mũi tên",
+    "nhân mã"
+  ],
+  "bowl_with_spoon": [
+    "bát và thìa",
+    "bữa sáng",
+    "ngũ cốc"
+  ],
+  "bowling": [
+    "quả bóng",
+    "trò chơi"
+  ],
+  "boxing_glove": [
+    "găng tay",
+    "găng tay quyền anh",
+    "quyền anh"
+  ],
+  "boy": [
+    "cậu bé",
+    "con trai"
+  ],
+  "brain": [
+    "não",
+    "thông minh"
+  ],
+  "brazil": [
+    "cờ"
+  ],
+  "bread": [
+    "bánh mì",
+    "ổ bánh mì"
+  ],
+  "breast_feeding": [
+    "cho bú",
+    "cho con bú",
+    "em bé",
+    "vú"
+  ],
+  "brick": [
+    "đất sét",
+    "gạch",
+    "tường",
+    "vữa"
+  ],
+  "bridge_at_night": [
+    "cầu",
+    "cây cầu về đêm",
+    "đêm"
+  ],
+  "briefcase": [
+    "cặp tài liệu"
+  ],
+  "briefs": [
+    "bộ đồ bơi",
+    "bộ đồ tắm",
+    "một mảnh",
+    "quần lót"
+  ],
+  "bright_button": [
+    "độ sáng",
+    "nút sáng",
+    "sáng"
+  ],
+  "british_indian_ocean_territory": [
+    "cờ"
+  ],
+  "british_virgin_islands": [
+    "cờ"
+  ],
+  "broccoli": [
+    "cải bắp dại",
+    "xúp lơ xanh"
+  ],
+  "broken_heart": [
+    "bị vỡ",
+    "trái tim tan vỡ",
+    "vỡ"
+  ],
+  "broom": [
+    "cây chổi",
+    "làm sạch",
+    "phù thủy",
+    "quét"
+  ],
+  "brown_circle": [
+    "hình tròn",
+    "hình tròn màu nâu",
+    "màu nâu",
+    "vòng tròn"
+  ],
+  "brown_heart": [
+    "màu nâu",
+    "trái tim",
+    "trái tim màu nâu"
+  ],
+  "brown_square": [
+    "hình vuông",
+    "hình vuông màu nâu",
+    "màu nâu",
+    "ô vuông"
+  ],
+  "brunei": [
+    "cờ"
+  ],
+  "bubble_tea": [
+    "bong bóng",
+    "ngọc trai",
+    "sữa",
+    "trà"
+  ],
+  "bucket": [
+    "thùng",
+    "thùng to",
+    "xô"
+  ],
+  "bug": [
+    "con bọ",
+    "côn trùng"
+  ],
+  "building_construction": [
+    "công trường xây dựng",
+    "xây dựng"
+  ],
+  "bulgaria": [
+    "cờ"
+  ],
+  "bullet_train": [
+    "đường sắt",
+    "tàu cao tốc nhật bản",
+    "tàu hỏa",
+    "tàu viên đạn",
+    "tốc độ",
+    "viên đạn"
+  ],
+  "bullseye": [
+    "hồng tâm",
+    "mục tiêu",
+    "phi tiêu",
+    "trò chơi",
+    "trúng đích"
+  ],
+  "burkina_faso": [
+    "cờ"
+  ],
+  "burrito": [
+    "bánh burrito",
+    "bánh mexico"
+  ],
+  "burundi": [
+    "cờ"
+  ],
+  "bus": [
+    "xe buýt",
+    "xe cộ"
+  ],
+  "bus_stop": [
+    "điểm dừng xe buýt",
+    "dừng lại",
+    "xe buýt"
+  ],
+  "bust_in_silhouette": [
+    "bóng",
+    "bóng tượng bán thân",
+    "tượng bán thân"
+  ],
+  "busts_in_silhouette": [
+    "bóng",
+    "các bóng tượng bán thân",
+    "tượng bán thân"
+  ],
+  "butter": [
+    "bơ",
+    "bơ sữa"
+  ],
+  "butterfly": [
+    "bướm",
+    "côn trùng",
+    "đẹp"
+  ],
+  "cactus": [
+    "cây xương rồng",
+    "thực vật"
+  ],
+  "call_me_hand": [
+    "bàn tay",
+    "bàn tay gọi cho tôi",
+    "gọi điện"
+  ],
+  "cambodia": [
+    "cờ"
+  ],
+  "camel": [
+    "cái bướu",
+    "con lạc đà",
+    "lạc đà"
+  ],
+  "camera": [
+    "máy ảnh",
+    "video"
+  ],
+  "camera_with_flash": [
+    "đèn flash",
+    "máy ảnh",
+    "máy ảnh có đèn flash",
+    "video"
+  ],
+  "cameroon": [
+    "cờ"
+  ],
+  "camping": [
+    "cắm trại"
+  ],
+  "canada": [
+    "cờ"
+  ],
+  "canary_islands": [
+    "cờ"
+  ],
+  "cancer": [
+    "con cua",
+    "cự giải",
+    "cung hoàng đạo"
+  ],
+  "candle": [
+    "ánh sáng",
+    "nến"
+  ],
+  "candy": [
+    "kẹo",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "canned_food": [
+    "hộp",
+    "thực phẩm đóng hộp"
+  ],
+  "canoe": [
+    "thuyền",
+    "xuồng"
+  ],
+  "cape_verde": [
+    "cờ"
+  ],
+  "capricorn": [
+    "con dê",
+    "cung hoàng đạo",
+    "ma kết"
+  ],
+  "card_file_box": [
+    "hộp",
+    "hộp đựng hồ sơ",
+    "tệp",
+    "thẻ"
+  ],
+  "card_index": [
+    "chỉ mục",
+    "chỉ mục thẻ",
+    "hộp danh thiếp",
+    "thẻ"
+  ],
+  "card_index_dividers": [
+    "chỉ mục",
+    "dụng cụ chia",
+    "dụng cụ chia chỉ mục thẻ",
+    "thẻ"
+  ],
+  "caribbean_netherlands": [
+    "cờ"
+  ],
+  "carousel_horse": [
+    "đu quay ngựa",
+    "ngựa",
+    "ngựa đu quay"
+  ],
+  "carp_streamer": [
+    "cá chép",
+    "cờ cá chép",
+    "cờ dải",
+    "lễ kỷ niệm"
+  ],
+  "carpentry_saw": [
+    "cưa",
+    "cưa mộc",
+    "dụng cụ",
+    "gỗ xẻ",
+    "thợ mộc"
+  ],
+  "carrot": [
+    "cà rốt",
+    "thức ăn",
+    "thực vật"
+  ],
+  "castle": [
+    "kiểu châu âu",
+    "lâu đài"
+  ],
+  "cat": [
+    "mèo",
+    "thú cưng"
+  ],
+  "cat_face": [
+    "mặt",
+    "mèo",
+    "thú cưng"
+  ],
+  "cat_with_wry_smile": [
+    "châm biếm",
+    "con mèo",
+    "khuôn mặt",
+    "mặt mèo cười gượng",
+    "mỉa mai",
+    "nụ cười"
+  ],
+  "cayman_islands": [
+    "cờ"
+  ],
+  "central_african_republic": [
+    "cờ"
+  ],
+  "ceuta_melilla": [
+    "cờ"
+  ],
+  "chad": [
+    "cờ"
+  ],
+  "chains": [
+    "dây xích"
+  ],
+  "chair": [
+    "chỗ ngồi",
+    "ghế",
+    "ngồi"
+  ],
+  "chart_decreasing": [
+    "biểu đồ",
+    "biểu đồ giảm",
+    "đồ thị",
+    "xu hướng",
+    "xuống"
+  ],
+  "chart_increasing": [
+    "biểu đồ",
+    "biểu đồ tăng",
+    "đồ thị",
+    "tăng lên",
+    "tăng trưởng",
+    "xu hướng"
+  ],
+  "chart_increasing_with_yen": [
+    "biểu đồ",
+    "biểu đồ đồng yên tăng",
+    "tăng",
+    "tiền",
+    "yên"
+  ],
+  "check_box_with_check": [
+    "✓",
+    "chọn",
+    "hộp",
+    "hộp kiểm có dấu chọn"
+  ],
+  "check_mark": [
+    "✓",
+    "chọn",
+    "dấu"
+  ],
+  "cheese_wedge": [
+    "miếng pho mát",
+    "phô mai"
+  ],
+  "chequered_flag": [
+    "ca rô",
+    "cờ ô vuông",
+    "cuộc đua"
+  ],
+  "cherries": [
+    "anh đào",
+    "hoa quả",
+    "thực vật"
+  ],
+  "cherry_blossom": [
+    "hoa",
+    "hoa anh đào",
+    "thực vật"
+  ],
+  "chess_pawn": [
+    "bịp",
+    "cờ",
+    "có thể mở rộng",
+    "quân tốt",
+    "tốt"
+  ],
+  "chestnut": [
+    "hạt dẻ",
+    "thực vật"
+  ],
+  "chicken": [
+    "chim",
+    "gà"
+  ],
+  "child": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "trẻ",
+    "trẻ em"
+  ],
+  "children_crossing": [
+    "cho người đi bộ",
+    "đi qua",
+    "giao thông",
+    "qua đường cho trẻ em",
+    "trẻ em"
+  ],
+  "chile": [
+    "cờ"
+  ],
+  "china": [
+    "cờ"
+  ],
+  "chipmunk": [
+    "con sóc",
+    "sóc chuột"
+  ],
+  "chocolate_bar": [
+    "món tráng miệng",
+    "ngọt",
+    "sô cô la",
+    "thanh",
+    "thanh sô cô la"
+  ],
+  "chopsticks": [
+    "đũa",
+    "đũa nhật"
+  ],
+  "christmas_island": [
+    "cờ"
+  ],
+  "christmas_tree": [
+    "cây",
+    "cây thông noel",
+    "giáng sinh",
+    "lễ kỷ niệm"
+  ],
+  "church": [
+    "chữ thập",
+    "đạo cơ đốc",
+    "nhà thờ",
+    "tôn giáo"
+  ],
+  "cigarette": [
+    "hút thuốc",
+    "thuốc lá"
+  ],
+  "cinema": [
+    "bộ phim",
+    "máy ảnh",
+    "phim ảnh",
+    "rạp chiếu phim"
+  ],
+  "circled_m": [
+    "chữ m trong vòng tròn",
+    "m",
+    "vòng tròn"
+  ],
+  "circus_tent": [
+    "lều",
+    "lều rạp xiếc",
+    "rạp xiếc"
+  ],
+  "cityscape": [
+    "khung cảnh thành phố",
+    "thành phố"
+  ],
+  "cityscape_at_dusk": [
+    "buổi tối",
+    "hoàng hôn",
+    "khung cảnh thành phố lúc chạng vạng",
+    "mặt trời lặn",
+    "phong cảnh",
+    "thành phố"
+  ],
+  "cl_button": [
+    "cl",
+    "nút cl"
+  ],
+  "clamp": [
+    "cái kẹp",
+    "cặp",
+    "dụng cụ",
+    "nén"
+  ],
+  "clap": [
+    "hai bàn tay đang vỗ",
+    "tay",
+    "vỗ tay"
+  ],
+  "clapper_board": [
+    "bảng clapper",
+    "phim"
+  ],
+  "classical_building": [
+    "cổ điển",
+    "tòa nhà cổ điển"
+  ],
+  "clinking_beer_mugs": [
+    "bia",
+    "chạm cốc",
+    "chạm cốc bia",
+    "đồ uống",
+    "nước giải khát",
+    "quán ba"
+  ],
+  "clinking_glasses": [
+    "chạm cốc",
+    "chúc mừng",
+    "cốc",
+    "đồ uống",
+    "tiếng keng"
+  ],
+  "clipboard": [
+    "bảng ghi nhớ"
+  ],
+  "clipperton_island": [
+    "cờ"
+  ],
+  "clockwise_vertical_arrows": [
+    "chiều kim đồng hồ",
+    "mũi tên",
+    "mũi tên thẳng đứng theo chiều kim đồng hồ",
+    "tải lại"
+  ],
+  "closed_book": [
+    "đóng",
+    "sách"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "đóng",
+    "hòm thư",
+    "hộp thư",
+    "hộp thư được đóng với lá cờ nằm ngang",
+    "nằm ngang",
+    "thư"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "đóng",
+    "hòm thư",
+    "hộp thư",
+    "hộp thư được đóng với lá cờ đứng",
+    "thư"
+  ],
+  "closed_umbrella": [
+    "chiếc ô",
+    "mưa",
+    "ô đã đóng",
+    "quần áo"
+  ],
+  "cloud": [
+    "đám mây",
+    "thời tiết"
+  ],
+  "cloud_with_lightning": [
+    "đám mây với tia chớp",
+    "mây",
+    "sét"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "đám mây với tia chớp và mưa",
+    "mây",
+    "mưa",
+    "sấm"
+  ],
+  "cloud_with_rain": [
+    "mây",
+    "mây và mưa",
+    "mưa"
+  ],
+  "cloud_with_snow": [
+    "đám mây với tuyết",
+    "lạnh",
+    "mây",
+    "tuyết"
+  ],
+  "clown_face": [
+    "hề",
+    "mặt"
+  ],
+  "club_suit": [
+    "bài",
+    "bộ bài nhép",
+    "bộ nhép",
+    "trò chơi"
+  ],
+  "clutch_bag": [
+    "quần áo",
+    "túi",
+    "túi cắp nách",
+    "túi nhỏ"
+  ],
+  "coat": [
+    "áo choàng",
+    "áo khoác"
+  ],
+  "cockroach": [
+    "con gián",
+    "côn trùng"
+  ],
+  "cocktail_glass": [
+    "cocktail",
+    "đồ uống",
+    "ly",
+    "quán bar"
+  ],
+  "coconut": [
+    "cây dừa",
+    "dừa",
+    "pina colada"
+  ],
+  "cocos_keeling_islands": [
+    "cờ"
+  ],
+  "coffin": [
+    "cái chết",
+    "quan tài"
+  ],
+  "coin": [
+    "bạc",
+    "đồng tiền",
+    "kho báu",
+    "kim loại",
+    "tiền",
+    "vàng"
+  ],
+  "cold_face": [
+    "đóng băng",
+    "lạnh",
+    "lạnh cứng",
+    "mặt lạnh",
+    "mặt xanh",
+    "tê cóng"
+  ],
+  "collision": [
+    "bùng nổ",
+    "hài hước",
+    "va chạm"
+  ],
+  "colombia": [
+    "cờ"
+  ],
+  "comet": [
+    "sao chổi",
+    "vũ trụ"
+  ],
+  "comoros": [
+    "cờ"
+  ],
+  "compass": [
+    "điều hướng",
+    "định hướng",
+    "la bàn",
+    "từ tính"
+  ],
+  "computer_disk": [
+    "đĩa",
+    "đĩa máy tính",
+    "đĩa mini",
+    "máy tính",
+    "quang học"
+  ],
+  "computer_mouse": [
+    "chuột máy tính",
+    "máy tính"
+  ],
+  "confetti_ball": [
+    "bóng hoa giấy",
+    "lễ kỷ niệm",
+    "quả bóng"
+  ],
+  "confounded_face": [
+    "mặt",
+    "mặt xấu hổ",
+    "xấu hổ"
+  ],
+  "confused": [
+    "bối rối",
+    "mặt",
+    "mặt bối rối"
+  ],
+  "congo_brazzaville": [
+    "cờ"
+  ],
+  "congo_kinshasa": [
+    "cờ"
+  ],
+  "construction": [
+    "công trường",
+    "rào chắn"
+  ],
+  "construction_worker": [
+    "công nhân",
+    "công nhân xây dựng",
+    "mũ",
+    "xây dựng"
+  ],
+  "construction_worker_man": [
+    "công nhân",
+    "công nhân xây dựng nam",
+    "nam",
+    "xây dựng"
+  ],
+  "construction_worker_woman": [
+    "công nhân",
+    "công nhân xây dựng nữ",
+    "nữ",
+    "xây dựng"
+  ],
+  "control_knobs": [
+    "điều khiển",
+    "nhạc",
+    "núm",
+    "núm điều khiển"
+  ],
+  "convenience_store": [
+    "cửa hàng",
+    "cửa hàng tiện dụng",
+    "tiện lợi"
+  ],
+  "cook": [
+    "đầu bếp",
+    "nấu ăn"
+  ],
+  "cook_islands": [
+    "cờ"
+  ],
+  "cooked_rice": [
+    "cơm",
+    "gạo",
+    "nấu chín"
+  ],
+  "cookie": [
+    "bánh quy",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "cooking": [
+    "cái chảo",
+    "chiên",
+    "nấu ăn",
+    "trứng"
+  ],
+  "cool_button": [
+    "cool",
+    "nút cool"
+  ],
+  "copyright": [
+    "bản quyền"
+  ],
+  "costa_rica": [
+    "cờ"
+  ],
+  "couch_and_lamp": [
+    "đèn",
+    "đi văng",
+    "ghế dài và đèn",
+    "khách sạn"
+  ],
+  "counterclockwise_arrows_button": [
+    "mũi tên",
+    "ngược chiều kim đồng",
+    "nút mũi tên ngược chiều kim đồng hồ"
+  ],
+  "couple_with_heart": [
+    "cặp đôi",
+    "cặp đôi với trái tim",
+    "yêu",
+    "đàn ông",
+    "phụ nữ"
+  ],
+  "couple_with_heart_man_man": [
+    "cặp đôi",
+    "cặp đôi với trái tim",
+    "đàn ông",
+    "yêu"
+  ],
+  "couple_with_heart_woman_woman": [
+    "cặp đôi",
+    "cặp đôi với trái tim",
+    "phụ nữ",
+    "yêu"
+  ],
+  "cow": [
+    "bò cái"
+  ],
+  "cow_face": [
+    "bò cái",
+    "mặt",
+    "mặt bò"
+  ],
+  "cowboy_hat_face": [
+    "cao bồi",
+    "mặt",
+    "mặt đội mũ cao bồi",
+    "mũ",
+    "nữ cao bồi"
+  ],
+  "crab": [
+    "cua",
+    "cung cự giải",
+    "cung hoàng đạo"
+  ],
+  "crayon": [
+    "bút sáp màu"
+  ],
+  "credit_card": [
+    "thẻ",
+    "thẻ tín dụng",
+    "tiền",
+    "tín dụng"
+  ],
+  "crescent_moon": [
+    "lưỡi liềm",
+    "mặt trăng",
+    "trăng lưỡi liềm"
+  ],
+  "cricket": [
+    "châu chấu",
+    "dế"
+  ],
+  "cricket_game": [
+    "gậy đánh bóng",
+    "quả bóng",
+    "trò chơi",
+    "trò chơi cricket"
+  ],
+  "croatia": [
+    "cờ"
+  ],
+  "crocodile": [
+    "cá sấu"
+  ],
+  "croissant": [
+    "bánh móng ngựa",
+    "bánh mỳ",
+    "bánh sừng bò",
+    "pháp",
+    "thức ăn"
+  ],
+  "cross_mark": [
+    "dấu",
+    "dấu gạch chéo",
+    "hủy",
+    "nhân",
+    "x"
+  ],
+  "cross_mark_button": [
+    "dấu",
+    "hình vuông",
+    "nút dấu gạch chéo"
+  ],
+  "crossed_fingers": [
+    "bàn tay",
+    "chéo",
+    "hai ngón tay bắt chéo",
+    "may mắn",
+    "ngón tay"
+  ],
+  "crossed_flags": [
+    "bắt chéo",
+    "cờ bắt chéo",
+    "gạch chéo",
+    "kiểu nhật bản",
+    "lễ kỷ niệm"
+  ],
+  "crossed_swords": [
+    "bắt chéo",
+    "kiếm",
+    "kiếm bắt chéo",
+    "vũ khí"
+  ],
+  "crown": [
+    "nữ hoàng",
+    "quần áo",
+    "vua",
+    "vương miện"
+  ],
+  "cry": [
+    "buồn",
+    "khóc",
+    "mặt",
+    "nước mắt"
+  ],
+  "crying_cat": [
+    "buồn",
+    "khóc",
+    "mặt",
+    "mặt mèo đang khóc",
+    "mèo",
+    "nước mắt"
+  ],
+  "crystal_ball": [
+    "dụng cụ",
+    "giả tưởng",
+    "pha lê",
+    "quả bóng",
+    "quả cầu pha lê",
+    "truyện cổ tích",
+    "vận may"
+  ],
+  "cuba": [
+    "cờ"
+  ],
+  "cucumber": [
+    "dưa chua",
+    "dưa chuột",
+    "thức ăn",
+    "thực vật"
+  ],
+  "cup_with_straw": [
+    "cốc và ống hút",
+    "nước ép",
+    "soda"
+  ],
+  "cupcake": [
+    "bánh nướng nhỏ",
+    "ngọt",
+    "tiệm bánh"
+  ],
+  "curaçao": [
+    "cờ"
+  ],
+  "curling_stone": [
+    "bi đá trên băng",
+    "đá",
+    "trò chơi"
+  ],
+  "curly_loop": [
+    "cong",
+    "vòng lặp"
+  ],
+  "currency_exchange": [
+    "đổi tiền",
+    "ngân hàng",
+    "tiền",
+    "tiền tệ"
+  ],
+  "curry_rice": [
+    "cà ri",
+    "cơm",
+    "cơm cà ri"
+  ],
+  "custard": [
+    "bánh",
+    "bánh trứng",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "customs": [
+    "hải quan"
+  ],
+  "cut_of_meat": [
+    "bít tết",
+    "sườn",
+    "sườn cừu",
+    "sườn lợn",
+    "tảng thịt"
+  ],
+  "cyclone": [
+    "bão",
+    "choáng váng",
+    "hình lốc xoáy",
+    "xoáy"
+  ],
+  "cyprus": [
+    "cờ"
+  ],
+  "czechia": [
+    "cờ"
+  ],
+  "côte_d_ivoire": [
+    "cờ"
+  ],
+  "dagger": [
+    "dao",
+    "dao găm",
+    "vũ khí"
+  ],
+  "dango": [
+    "bánh trôi nhật bản",
+    "món kiểu nhật bản",
+    "món tráng miệng",
+    "ngọt",
+    "que"
+  ],
+  "dashing_away": [
+    "chạy",
+    "chớp nhoáng",
+    "hài hước",
+    "lao",
+    "lao đi"
+  ],
+  "date": [
+    "lịch",
+    "ngày"
+  ],
+  "deaf_man": [
+    "điếc",
+    "khiếm thính",
+    "người đàn ông",
+    "người đàn ông khiếm thính"
+  ],
+  "deaf_person": [
+    "điếc",
+    "hỗ trợ tiếp cận",
+    "khiếm thính",
+    "nghe",
+    "người khiếm thính",
+    "tai"
+  ],
+  "deaf_woman": [
+    "điếc",
+    "khiếm thính",
+    "người phụ nữ",
+    "người phụ nữ khiếm thính"
+  ],
+  "deciduous_tree": [
+    "cây",
+    "cây rụng lá",
+    "rơi",
+    "rụng lá"
+  ],
+  "deer": [
+    "hươu"
+  ],
+  "delivery_truck": [
+    "giao hàng",
+    "xe tải",
+    "xe tải giao hàng"
+  ],
+  "denmark": [
+    "cờ"
+  ],
+  "department_store": [
+    "cửa hàng",
+    "cửa hàng bách hóa"
+  ],
+  "derelict_house": [
+    "bỏ hoang",
+    "ngôi nhà",
+    "ngôi nhà bỏ hoang"
+  ],
+  "desert": [
+    "sa mạc"
+  ],
+  "desert_island": [
+    "đảo",
+    "hoang"
+  ],
+  "desktop_computer": [
+    "máy tính",
+    "máy tính để bàn"
+  ],
+  "detective": [
+    "gián điệp",
+    "thám tử",
+    "trinh thám"
+  ],
+  "diamond_suit": [
+    "bài",
+    "bộ bài rô",
+    "bộ rô",
+    "trò chơi"
+  ],
+  "diamond_with_a_dot": [
+    "bên trong",
+    "hài hước",
+    "hình học",
+    "hình thoi",
+    "hình thoi có chấm",
+    "hình thoi có dấu chấm"
+  ],
+  "diego_garcia": [
+    "cờ"
+  ],
+  "dim_button": [
+    "độ sáng",
+    "mờ",
+    "nút mờ",
+    "thấp"
+  ],
+  "disappointed_face": [
+    "mặt",
+    "mặt thất vọng",
+    "thất vọng"
+  ],
+  "disguised_face": [
+    "ẩn danh",
+    "kính",
+    "mặt",
+    "mặt trá hình",
+    "mũi",
+    "ngụy trang"
+  ],
+  "divide": [
+    "chia",
+    "dấu",
+    "toán"
+  ],
+  "diving_mask": [
+    "bình dưỡng khí",
+    "bình ôxy",
+    "lặn",
+    "mặt nạ lặn",
+    "ống thở"
+  ],
+  "diya_lamp": [
+    "dầu",
+    "đèn",
+    "diya"
+  ],
+  "dizzy": [
+    "choáng váng",
+    "hài hước",
+    "ngôi sao"
+  ],
+  "djibouti": [
+    "cờ"
+  ],
+  "dna": [
+    "adn",
+    "di truyền",
+    "gien",
+    "nhà sinh vật học",
+    "sự sống",
+    "tiến hóa"
+  ],
+  "dodo": [
+    "chim cưu",
+    "lớn",
+    "mauritius",
+    "tuyệt chủng"
+  ],
+  "dog": [
+    "chó",
+    "thú cưng"
+  ],
+  "dog_face": [
+    "cún",
+    "mặt",
+    "thú cưng"
+  ],
+  "dollar_banknote": [
+    "đô la",
+    "hoá đơn",
+    "tiền",
+    "tiền giấy",
+    "tiền giấy đô la",
+    "tiền tệ"
+  ],
+  "dolphin": [
+    "cá heo",
+    "chân chèo"
+  ],
+  "dominica": [
+    "cờ"
+  ],
+  "dominican_republic": [
+    "cờ"
+  ],
+  "door": [
+    "cửa"
+  ],
+  "dotted_six_pointed_star": [
+    "may mắn",
+    "ngôi sao",
+    "ngôi sao sáu cánh có dấu chấm"
+  ],
+  "double_curly_loop": [
+    "cong",
+    "kép",
+    "vòng lặp",
+    "vòng lặp đôi"
+  ],
+  "double_exclamation_mark": [
+    "chấm câu",
+    "chấm than",
+    "dấu",
+    "hai dấu chấm than"
+  ],
+  "doughnut": [
+    "bánh rán vòng",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "dove": [
+    "bay",
+    "bồ câu",
+    "chim",
+    "hòa bình"
+  ],
+  "down_arrow": [
+    "chính",
+    "hướng",
+    "mũi tên",
+    "mũi tên xuống",
+    "nam",
+    "xuống"
+  ],
+  "down_left_arrow": [
+    "hướng",
+    "mũi tên",
+    "mũi tên xuống bên trái",
+    "nhiều hướng",
+    "tây nam"
+  ],
+  "down_right_arrow": [
+    "đông nam",
+    "hướng",
+    "mũi tên",
+    "mũi tên xuống bên phải",
+    "nhiều hướng"
+  ],
+  "downcast_face_with_sweat": [
+    "lạnh",
+    "mặt",
+    "mặt chán nản với mồ hôi",
+    "mồ hôi"
+  ],
+  "downwards_button": [
+    "đỏ",
+    "mũi tên",
+    "nút",
+    "nút đi xuống",
+    "xuống"
+  ],
+  "dragon": [
+    "rồng",
+    "truyện cổ tích"
+  ],
+  "dragon_face": [
+    "khuôn mặt",
+    "mặt rồng",
+    "rồng",
+    "truyện cổ tích"
+  ],
+  "dress": [
+    "quần áo",
+    "váy"
+  ],
+  "drooling_face": [
+    "chảy dãi",
+    "mặt",
+    "mặt chảy dãi"
+  ],
+  "drop_of_blood": [
+    "chu kỳ kinh nguyệt",
+    "giọt máu",
+    "hiến máu",
+    "thuốc",
+    "y tế"
+  ],
+  "droplet": [
+    "giọt nước",
+    "hài hước",
+    "lạnh",
+    "mồ hôi",
+    "rơi"
+  ],
+  "drum": [
+    "dùi trống",
+    "nhạc",
+    "trống"
+  ],
+  "duck": [
+    "chim",
+    "vịt"
+  ],
+  "dumpling": [
+    "bánh bao",
+    "sủi cảo"
+  ],
+  "dvd": [
+    "chuẩn đĩa quang",
+    "đĩa",
+    "máy tính",
+    "quang"
+  ],
+  "e_mail": [
+    "email",
+    "thư"
+  ],
+  "eagle": [
+    "chim",
+    "đại bàng"
+  ],
+  "ear": [
+    "cơ thể",
+    "tai"
+  ],
+  "ear_of_corn": [
+    "bắp",
+    "ngô"
+  ],
+  "ear_with_hearing_aid": [
+    "hỗ trợ",
+    "hỗ trợ tiếp cận",
+    "nặng tai",
+    "tai đeo thiết bị trợ thính"
+  ],
+  "ecuador": [
+    "cờ"
+  ],
+  "egg": [
+    "thức ăn",
+    "trứng"
+  ],
+  "eggplant": [
+    "cà tím",
+    "rau",
+    "thực vật"
+  ],
+  "egypt": [
+    "cờ"
+  ],
+  "eight": [
+    "mũ phím"
+  ],
+  "eight_o_clock": [
+    "8",
+    "8:00",
+    "đồng hồ",
+    "giờ",
+    "tám"
+  ],
+  "eight_pointed_star": [
+    "ngôi sao tám cánh"
+  ],
+  "eight_spoked_asterisk": [
+    "dấu hoa thị",
+    "dấu hoa thị tám cánh"
+  ],
+  "eight_thirty": [
+    "8",
+    "8:30",
+    "ba mươi",
+    "đồng hồ",
+    "tám",
+    "tám giờ ba mươi phút"
+  ],
+  "eject_button": [
+    "nút tháo",
+    "tháo"
+  ],
+  "el_salvador": [
+    "cờ"
+  ],
+  "electric_plug": [
+    "điện",
+    "phích cắm điện"
+  ],
+  "elephant": [
+    "voi"
+  ],
+  "elevator": [
+    "kéo lên",
+    "khả năng tiếp cận",
+    "nhấc",
+    "thang máy"
+  ],
+  "eleven_o_clock": [
+    "11",
+    "11:00",
+    "đồng hồ",
+    "giờ",
+    "mười một",
+    "mười một giờ"
+  ],
+  "eleven_thirty": [
+    "11",
+    "11:30",
+    "ba mươi",
+    "đồng hồ",
+    "mười một",
+    "mười một giờ ba mươi phút"
+  ],
+  "elf": [
+    "phép thuật",
+    "yêu ma"
+  ],
+  "end_arrow": [
+    "end",
+    "mũi tên",
+    "mũi tên end"
+  ],
+  "england": [
+    "cờ"
+  ],
+  "enraged_face": [
+    "cơn thịnh nộ",
+    "điên",
+    "đỏ",
+    "hờn dỗi",
+    "mặt",
+    "mặt hờn dỗi",
+    "tức giận"
+  ],
+  "envelope": [
+    "email",
+    "phong bì",
+    "thư"
+  ],
+  "envelope_with_arrow": [
+    "email",
+    "mũi tên",
+    "phong bì",
+    "phong bì với mũi tên",
+    "thư đi"
+  ],
+  "equatorial_guinea": [
+    "cờ"
+  ],
+  "eritrea": [
+    "cờ"
+  ],
+  "estonia": [
+    "cờ"
+  ],
+  "eswatini": [
+    "cờ"
+  ],
+  "ethiopia": [
+    "cờ"
+  ],
+  "euro_banknote": [
+    "euro",
+    "hoá đơn",
+    "tiền",
+    "tiền giấy",
+    "tiền giấy euro",
+    "tiền tệ"
+  ],
+  "european_union": [
+    "cờ"
+  ],
+  "evergreen_tree": [
+    "cây",
+    "cây thường xanh",
+    "thực vật"
+  ],
+  "ewe": [
+    "cái",
+    "cừu"
+  ],
+  "exclamation_question_mark": [
+    "chấm câu",
+    "chấm hỏi",
+    "chấm than",
+    "dấu",
+    "dấu chấm than và dấu chấm hỏi"
+  ],
+  "exploding_head": [
+    "bị sốc",
+    "đầu nổ tung"
+  ],
+  "expressionless_face": [
+    "không diễn cảm",
+    "mặt",
+    "mặt vô cảm",
+    "thản nhiên",
+    "vô cảm"
+  ],
+  "eye": [
+    "cơ thể",
+    "mắt"
+  ],
+  "eye_in_speech_bubble": [
+    "bong bóng lời nói",
+    "mắt",
+    "mắt trong bong bóng lời nói",
+    "nhân chứng"
+  ],
+  "eyes": [
+    "đôi mắt",
+    "mắt",
+    "mặt"
+  ],
+  "face_blowing_a_kiss": [
+    "hôn",
+    "mặt",
+    "mặt đang hôn gió"
+  ],
+  "face_savoring_food": [
+    "cười",
+    "mặt",
+    "mặt thưởng thức món ngon",
+    "ngon",
+    "ngon tuyệt",
+    "thưởng thức"
+  ],
+  "face_vomiting": [
+    "mặt nôn mửa",
+    "nôn mửa",
+    "ốm"
+  ],
+  "face_with_crossed_out_eyes": [
+    "chóng mặt",
+    "mặt",
+    "mặt chóng mặt"
+  ],
+  "face_with_hand_over_mouth": [
+    "mặt với tay che miệng",
+    "xin lỗi"
+  ],
+  "face_with_head_bandage": [
+    "băng",
+    "đau",
+    "mặt",
+    "mặt đeo băng đầu",
+    "vết thương"
+  ],
+  "face_with_medical_mask": [
+    "bác sĩ",
+    "lạnh",
+    "mặt",
+    "mặt đeo khẩu trang y tế",
+    "mặt nạ",
+    "ốm"
+  ],
+  "face_with_monocle": [
+    "mặt với kính một mắt",
+    "ngột ngạt"
+  ],
+  "face_with_raised_eyebrow": [
+    "hoài nghi",
+    "mặt với lông mày rướn lên",
+    "ngờ vực"
+  ],
+  "face_with_steam_from_nose": [
+    "chiến thắng",
+    "hân hoan",
+    "mặt",
+    "mặt có mũi đang phì hơi"
+  ],
+  "face_with_symbols_on_mouth": [
+    "chửi rủa",
+    "mặt có các ký hiệu trên miệng"
+  ],
+  "face_with_thermometer": [
+    "mặt",
+    "mặt có miệng ngậm nhiệt kế",
+    "mệt",
+    "nhiệt kế",
+    "ốm"
+  ],
+  "face_with_tongue": [
+    "lưỡi",
+    "mặt",
+    "mặt lè lưỡi"
+  ],
+  "face_without_mouth": [
+    "ít nói",
+    "mặt",
+    "mặt không có miệng",
+    "miệng",
+    "yên lặng"
+  ],
+  "factory": [
+    "nhà máy",
+    "tòa nhà"
+  ],
+  "factory_worker": [
+    "công nghiệp",
+    "công nhân",
+    "công nhân nhà máy",
+    "lắp ráp",
+    "nhà máy"
+  ],
+  "fairy": [
+    "oberon",
+    "puck",
+    "tiên",
+    "titania"
+  ],
+  "falafel": [
+    "bánh rán nhân gà",
+    "đậu gà",
+    "thịt viên"
+  ],
+  "falkland_islands": [
+    "cờ"
+  ],
+  "fallen_leaf": [
+    "lá",
+    "rụng",
+    "thực vật"
+  ],
+  "family": [
+    "gia đình"
+  ],
+  "family_man_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_boy_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_girl_boy": [
+    "con gái",
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_girl_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_man_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_man_boy_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_man_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_man_girl_boy": [
+    "con gái",
+    "con trai",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_man_girl_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình"
+  ],
+  "family_man_woman_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_man_woman_boy_boy": [
+    "con trai",
+    "đàn ông",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_man_woman_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_man_woman_girl_boy": [
+    "con gái",
+    "con trai",
+    "đàn ông",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_man_woman_girl_girl": [
+    "con gái",
+    "đàn ông",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_boy": [
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_boy_boy": [
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_girl": [
+    "con gái",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_girl_boy": [
+    "con gái",
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_girl_girl": [
+    "con gái",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_woman_boy": [
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_woman_boy_boy": [
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_woman_girl": [
+    "con gái",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_woman_girl_boy": [
+    "con gái",
+    "con trai",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "family_woman_woman_girl_girl": [
+    "con gái",
+    "gia đình",
+    "phụ nữ"
+  ],
+  "farmer": [
+    "chủ trang trại",
+    "người làm vườn",
+    "nông dân"
+  ],
+  "faroe_islands": [
+    "cờ"
+  ],
+  "fast_down_button": [
+    "kép",
+    "mũi tên",
+    "nút xuống nhanh",
+    "xuống"
+  ],
+  "fast_forward_button": [
+    "kép",
+    "mũi tên",
+    "nhanh",
+    "nút tua đi nhanh",
+    "phía trước"
+  ],
+  "fast_reverse_button": [
+    "kép",
+    "mũi tên",
+    "nút tua lại nhanh",
+    "tua lại"
+  ],
+  "fast_up_button": [
+    "kép",
+    "mũi tên",
+    "nút lên nhanh"
+  ],
+  "fax_machine": [
+    "máy fax"
+  ],
+  "fearful": [
+    "kinh hãi",
+    "mặt",
+    "mặt sợ hãi",
+    "sợ",
+    "sợ hãi"
+  ],
+  "feather": [
+    "bộ lông",
+    "chim",
+    "chuyến bay",
+    "lông chim",
+    "nhẹ"
+  ],
+  "female_sign": [
+    "ký hiệu nữ",
+    "phụ nữ"
+  ],
+  "ferris_wheel": [
+    "bánh xe",
+    "công viên giải trí",
+    "đu quay",
+    "vòng đu quay"
+  ],
+  "ferry": [
+    "hành khách",
+    "phà",
+    "thuyền"
+  ],
+  "field_hockey": [
+    "cây gậy",
+    "khúc côn cầu trên cỏ",
+    "quả bóng",
+    "sân",
+    "trò chơi"
+  ],
+  "fiji": [
+    "cờ"
+  ],
+  "file_cabinet": [
+    "tệp",
+    "tủ",
+    "tủ hồ sơ"
+  ],
+  "file_folder": [
+    "tệp",
+    "thư mục",
+    "thư mục tệp"
+  ],
+  "film_frames": [
+    "khung",
+    "khung hình phim",
+    "phim",
+    "rạp chiếu phim"
+  ],
+  "film_projector": [
+    "máy chiếu",
+    "máy chiếu phim",
+    "phim",
+    "rạp chiếu phim",
+    "video"
+  ],
+  "finland": [
+    "cờ"
+  ],
+  "fire": [
+    "dụng cụ",
+    "lửa",
+    "ngọn lửa"
+  ],
+  "fire_engine": [
+    "động cơ",
+    "lửa",
+    "xe cứu hỏa",
+    "xe tải"
+  ],
+  "fire_extinguisher": [
+    "bình chữa cháy",
+    "chữa cháy",
+    "cứu hỏa",
+    "dập",
+    "dập tắt",
+    "lửa"
+  ],
+  "firecracker": [
+    "nổ",
+    "pháo",
+    "pháo hoa",
+    "thuốc nổ"
+  ],
+  "firefighter": [
+    "lính cứu hỏa",
+    "xe cứu hỏa"
+  ],
+  "fireworks": [
+    "lễ kỷ niệm",
+    "pháo hoa"
+  ],
+  "first_quarter_moon": [
+    "mặt trăng",
+    "phần tư",
+    "trăng thượng huyền"
+  ],
+  "first_quarter_moon_face": [
+    "mặt",
+    "phần tư",
+    "trăng",
+    "trăng thượng huyền hình mặt người"
+  ],
+  "fish": [
+    "cá",
+    "cung hoàng đạo",
+    "cung song ngư"
+  ],
+  "fish_cake_with_swirl": [
+    "bánh",
+    "bánh cá có hình xoắn",
+    "bánh ngọt",
+    "cá",
+    "xoáy"
+  ],
+  "fishing_pole": [
+    "cá",
+    "cần câu",
+    "cần câu cá"
+  ],
+  "five": [
+    "mũ phím"
+  ],
+  "five_o_clock": [
+    "5",
+    "5:00",
+    "đồng hồ",
+    "giờ",
+    "năm"
+  ],
+  "five_thirty": [
+    "5",
+    "5:30",
+    "ba mươi",
+    "đồng hồ",
+    "năm",
+    "năm giờ ba mươi phút"
+  ],
+  "flamingo": [
+    "hồng hạc",
+    "nhiệt đới",
+    "rực rỡ"
+  ],
+  "flashlight": [
+    "ánh sáng",
+    "đèn pin",
+    "điện",
+    "dụng cụ"
+  ],
+  "flat_shoe": [
+    "giày bệt",
+    "giày búp bê",
+    "giày đi trong nhà",
+    "giày lười"
+  ],
+  "flatbread": [
+    "arepa",
+    "bánh mỳ cắt",
+    "bánh mỳ cắt lát",
+    "lavash",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "hoa bách hợp",
+    "hoa diên vĩ"
+  ],
+  "flexed_biceps": [
+    "bắp tay",
+    "bắp tay gập lại",
+    "cơ bắp",
+    "gập lại",
+    "hài hước"
+  ],
+  "floppy_disk": [
+    "đĩa",
+    "máy tính",
+    "mềm"
+  ],
+  "flower_playing_cards": [
+    "hoa",
+    "kiểu nhật bản",
+    "quân bài hình hoa",
+    "thiệp",
+    "trò chơi"
+  ],
+  "flushed_face": [
+    "choáng váng",
+    "đỏ mặt",
+    "mặt",
+    "mặt đỏ ửng"
+  ],
+  "fly": [
+    "bệnh",
+    "con ruồi",
+    "côn trùng",
+    "giòi",
+    "thối rữa"
+  ],
+  "flying_disc": [
+    "đĩa bay trò chơi",
+    "ném đĩa"
+  ],
+  "flying_saucer": [
+    "đĩa bay",
+    "ufo"
+  ],
+  "fog": [
+    "mây",
+    "sương mù"
+  ],
+  "foggy": [
+    "có sương",
+    "thời tiết"
+  ],
+  "folded_hands": [
+    "cảm ơn",
+    "cầu nguyện",
+    "chắp tay",
+    "hỏi",
+    "làm ơn",
+    "tay"
+  ],
+  "fondue": [
+    "lẩu pho mai",
+    "nồi",
+    "phô mai",
+    "sô cô la",
+    "tan chảy",
+    "thụy sĩ"
+  ],
+  "foot": [
+    "bàn chân",
+    "đá",
+    "dậm mạnh"
+  ],
+  "footprints": [
+    "các dấu chân",
+    "dấu chân",
+    "in dấu",
+    "quần áo"
+  ],
+  "fork_and_knife": [
+    "dao",
+    "dĩa",
+    "dĩa và dao",
+    "nấu nướng"
+  ],
+  "fork_and_knife_with_plate": [
+    "dao",
+    "đĩa",
+    "dĩa và dao với đĩa",
+    "nấu nướng",
+    "nĩa"
+  ],
+  "fortune_cookie": [
+    "bánh quy may mắn",
+    "tiên tri"
+  ],
+  "fountain": [
+    "đài phun nước"
+  ],
+  "fountain_pen": [
+    "bút",
+    "máy"
+  ],
+  "four": [
+    "mũ phím"
+  ],
+  "four_leaf_clover": [
+    "4",
+    "bốn",
+    "cỏ bốn lá",
+    "lá cây",
+    "thực vật"
+  ],
+  "four_o_clock": [
+    "00",
+    "4",
+    "4:00",
+    "bốn",
+    "đồng hồ",
+    "giờ"
+  ],
+  "four_thirty": [
+    "4",
+    "4:30",
+    "ba mươi",
+    "bốn",
+    "bốn giờ ba mươi phút",
+    "đồng hồ"
+  ],
+  "fox": [
+    "cáo",
+    "mặt"
+  ],
+  "framed_picture": [
+    "bảo tàng",
+    "khung",
+    "nghệ thuật",
+    "tranh",
+    "tranh trong khung"
+  ],
+  "france": [
+    "cờ"
+  ],
+  "free_button": [
+    "free",
+    "nút free"
+  ],
+  "french_fries": [
+    "khoai tây chiên",
+    "kiểu pháp"
+  ],
+  "french_guiana": [
+    "cờ"
+  ],
+  "french_polynesia": [
+    "cờ"
+  ],
+  "french_southern_territories": [
+    "cờ"
+  ],
+  "fried_shrimp": [
+    "chiên",
+    "món sốt cá cua tôm",
+    "tôm",
+    "tôm hùm"
+  ],
+  "frog": [
+    "ếch",
+    "mặt"
+  ],
+  "front_facing_baby_chick": [
+    "chim",
+    "gà",
+    "gà con",
+    "mặt trước gà con"
+  ],
+  "frowning": [
+    "cau mày",
+    "mặt",
+    "mặt cau mày"
+  ],
+  "frowning_face_with_open_mouth": [
+    "mặt",
+    "mặt cau miệng há",
+    "miệng",
+    "mở",
+    "nhăn mặt"
+  ],
+  "fu": [
+    "ngón giữa",
+    "ngón tay",
+    "tay"
+  ],
+  "fuel_pump": [
+    "bơm",
+    "bơm nhiên liệu",
+    "khí",
+    "nhiên liệu",
+    "trạm"
+  ],
+  "full_moon": [
+    "mặt trăng",
+    "trăng tròn",
+    "tròn"
+  ],
+  "full_moon_face": [
+    "khuôn mặt trăng tròn",
+    "mặt",
+    "mặt trăng",
+    "sáng",
+    "tròn"
+  ],
+  "funeral_urn": [
+    "bình đựng di cốt",
+    "bình đựng tro cốt",
+    "cái chết",
+    "tang lễ"
+  ],
+  "gabon": [
+    "cờ"
+  ],
+  "gambia": [
+    "cờ"
+  ],
+  "game_die": [
+    "con xúc xắc",
+    "trò chơi",
+    "trò xúc xắc"
+  ],
+  "garlic": [
+    "gia vị",
+    "tỏi"
+  ],
+  "gear": [
+    "bánh răng",
+    "dụng cụ"
+  ],
+  "gem_stone": [
+    "đá quý",
+    "đồ nữ trang",
+    "kim cương",
+    "viên ngọc"
+  ],
+  "gemini": [
+    "cung hoàng đạo",
+    "song sinh",
+    "song tử"
+  ],
+  "genie": [
+    "ma thần",
+    "thần"
+  ],
+  "georgia": [
+    "cờ"
+  ],
+  "germany": [
+    "cờ"
+  ],
+  "ghana": [
+    "cờ"
+  ],
+  "ghost": [
+    "ma",
+    "mặt",
+    "quái vật",
+    "sinh vật",
+    "truyện cổ tích",
+    "tưởng tượng"
+  ],
+  "gibraltar": [
+    "cờ"
+  ],
+  "giraffe": [
+    "đốm",
+    "hươu cao cổ"
+  ],
+  "girl": [
+    "cô gái",
+    "con gái",
+    "cung hoàng đạo",
+    "trẻ",
+    "xử nữ"
+  ],
+  "glass_of_milk": [
+    "cốc",
+    "đồ uống",
+    "sữa"
+  ],
+  "glasses": [
+    "đeo kính",
+    "kính",
+    "mắt",
+    "quần áo"
+  ],
+  "globe_showing_americas": [
+    "châu mỹ",
+    "địa cầu",
+    "địa cầu hiển thị châu mỹ",
+    "thế giới",
+    "trái đất"
+  ],
+  "globe_showing_asia_australia": [
+    "châu á",
+    "châu úc",
+    "địa cầu",
+    "địa cầu hiển thị châu á-châu úc",
+    "thế giới",
+    "trái đất"
+  ],
+  "globe_showing_europe_africa": [
+    "châu âu",
+    "châu phi",
+    "địa cầu",
+    "địa cầu hiển thị châu âu-châu phi",
+    "thế giới",
+    "trái đất"
+  ],
+  "globe_with_meridians": [
+    "địa cầu với kinh tuyến",
+    "kinh tuyến",
+    "quả địa cầu",
+    "thế giới",
+    "trái đất"
+  ],
+  "gloves": [
+    "găng tay",
+    "tay"
+  ],
+  "glowing_star": [
+    "chiếu sáng",
+    "lấp lánh",
+    "ngôi sao",
+    "ngôi sao lấp lánh",
+    "phát sáng"
+  ],
+  "goal_net": [
+    "khung thành",
+    "lưới"
+  ],
+  "goat": [
+    "cung hoàng đạo",
+    "cung ma kết",
+    "dê"
+  ],
+  "goblin": [
+    "mặt",
+    "quái vật",
+    "sinh vật",
+    "truyện cổ tích",
+    "tưởng tượng",
+    "yêu tinh"
+  ],
+  "goggles": [
+    "bảo vệ mắt",
+    "bơi",
+    "hàn",
+    "kính bảo hộ"
+  ],
+  "gorilla": [
+    "khỉ đột"
+  ],
+  "graduation_cap": [
+    "cái mũ",
+    "lễ kỷ niệm",
+    "mũ tốt nghiệp",
+    "quần áo",
+    "tốt nghiệp"
+  ],
+  "grapes": [
+    "chùm nho",
+    "hoa quả",
+    "nho"
+  ],
+  "greece": [
+    "cờ"
+  ],
+  "green_apple": [
+    "hoa quả",
+    "táo",
+    "xanh"
+  ],
+  "green_book": [
+    "sách",
+    "sách màu lục",
+    "xanh lục"
+  ],
+  "green_circle": [
+    "hình tròn",
+    "hình tròn màu xanh lá cây",
+    "màu xanh lá cây",
+    "vòng tròn",
+    "xanh lá",
+    "xanh lục"
+  ],
+  "green_heart": [
+    "màu lục",
+    "trái tim màu lục"
+  ],
+  "green_salad": [
+    "salad",
+    "salad rau xanh",
+    "thức ăn",
+    "xanh"
+  ],
+  "green_square": [
+    "hình vuông",
+    "hình vuông màu xanh lá cây",
+    "màu xanh lá cây",
+    "ô vuông",
+    "xanh lá",
+    "xanh lục"
+  ],
+  "greenland": [
+    "cờ"
+  ],
+  "grenada": [
+    "cờ"
+  ],
+  "grimacing": [
+    "mặt",
+    "mặt nhăn nhó",
+    "nhăn nhó"
+  ],
+  "grin": [
+    "cười",
+    "mắt",
+    "mặt",
+    "mặt cười toét mắt cười",
+    "toe toét"
+  ],
+  "grinning_cat": [
+    "con mèo",
+    "khuôn mặt",
+    "mặt mèo cười miệng há",
+    "mặt mèo cười tươi",
+    "miệng",
+    "mở ra",
+    "nụ cười"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "cười",
+    "cười toét",
+    "mắt",
+    "mặt",
+    "mặt mèo cười toét mắt cười",
+    "mặt mèo cười tươi với hai mắt híp lại",
+    "mèo"
+  ],
+  "grinning_face": [
+    "mặt",
+    "mặt cười toét",
+    "toe toét"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "cười",
+    "mắt",
+    "mặt",
+    "mặt cười miệng há mắt cười",
+    "miệng",
+    "mở"
+  ],
+  "growing_heart": [
+    "bị kích thích",
+    "lo lắng",
+    "nhịp tim",
+    "phát triển",
+    "trái tim lớn dần"
+  ],
+  "guadeloupe": [
+    "cờ"
+  ],
+  "guam": [
+    "cờ"
+  ],
+  "guard": [
+    "bảo vệ"
+  ],
+  "guatemala": [
+    "cờ"
+  ],
+  "guernsey": [
+    "cờ"
+  ],
+  "guide_dog": [
+    "chó dẫn đường",
+    "dẫn đường",
+    "hỗ trợ",
+    "hỗ trợ tiếp cận",
+    "khiếm thị",
+    "mù"
+  ],
+  "guinea": [
+    "cờ"
+  ],
+  "guinea_bissau": [
+    "cờ"
+  ],
+  "guitar": [
+    "đàn ghi-ta",
+    "nhạc",
+    "nhạc cụ"
+  ],
+  "guyana": [
+    "cờ"
+  ],
+  "haiti": [
+    "cờ"
+  ],
+  "hamburger": [
+    "bánh hamburger",
+    "bánh kẹp"
+  ],
+  "hammer": [
+    "búa",
+    "dụng cụ"
+  ],
+  "hammer_and_pick": [
+    "búa",
+    "búa chim",
+    "búa và búa chim",
+    "dụng cụ"
+  ],
+  "hammer_and_wrench": [
+    "búa",
+    "búa và cờ lê",
+    "chìa vặn",
+    "cờ lê",
+    "dụng cụ"
+  ],
+  "hamster": [
+    "chuột hamster",
+    "mặt",
+    "mặt hamster",
+    "thú cưng"
+  ],
+  "hand_with_fingers_splayed": [
+    "ngón tay",
+    "tay",
+    "tay xòe ngón giơ lên",
+    "xòe"
+  ],
+  "handbag": [
+    "quần áo",
+    "túi",
+    "túi xách",
+    "ví"
+  ],
+  "handshake": [
+    "bắt tay",
+    "đồng ý",
+    "gặp mặt",
+    "rung",
+    "tay"
+  ],
+  "hash": [
+    "mũ phím"
+  ],
+  "hatching_chick": [
+    "ấp",
+    "gà",
+    "gà con",
+    "gà mới nở"
+  ],
+  "headphone": [
+    "tai nghe"
+  ],
+  "headstone": [
+    "bia mộ",
+    "mộ",
+    "nghĩa địa",
+    "nghĩa trang"
+  ],
+  "health_worker": [
+    "bác sĩ",
+    "chăm sóc sức khỏe",
+    "nhà trị liệu",
+    "nhân viên y tế",
+    "y tá"
+  ],
+  "hear_no_evil_monkey": [
+    "cấm",
+    "điều xấu",
+    "khỉ",
+    "khỉ không nghe điều xấu",
+    "mặt",
+    "nghe"
+  ],
+  "heard_mcdonald_islands": [
+    "cờ"
+  ],
+  "heart": [
+    "trái tim",
+    "trái tim màu đỏ"
+  ],
+  "heart_decoration": [
+    "hình trang trí trái tim",
+    "trái tim"
+  ],
+  "heart_exclamation": [
+    "cảm thán",
+    "chấm câu",
+    "dấu",
+    "dấu chấm than hình trái tim đậm"
+  ],
+  "heart_eyes": [
+    "cười",
+    "mắt",
+    "mặt",
+    "mặt cười mắt hình trái tim",
+    "yêu"
+  ],
+  "heart_suit": [
+    "bài",
+    "bộ bài cơ",
+    "bộ cơ",
+    "trò chơi"
+  ],
+  "heart_with_arrow": [
+    "mũi tên",
+    "thần tình yêu",
+    "trái tim với mũi tên"
+  ],
+  "heart_with_ribbon": [
+    "lễ tình yêu",
+    "ruy băng",
+    "trái tim",
+    "trái tim với ruy băng"
+  ],
+  "heavy_dollar_sign": [
+    "đô la",
+    "ký hiệu đô la đậm",
+    "tiền",
+    "tiền tệ"
+  ],
+  "hedgehog": [
+    "có gai",
+    "nhím"
+  ],
+  "helicopter": [
+    "máy bay trực thăng",
+    "xe cộ"
+  ],
+  "herb": [
+    "lá cây",
+    "thảo mộc"
+  ],
+  "hibiscus": [
+    "hoa",
+    "hoa dâm bụt"
+  ],
+  "high_heeled_shoe": [
+    "giày",
+    "giày cao gót",
+    "gót chân",
+    "phụ nữ",
+    "quần áo"
+  ],
+  "high_speed_train": [
+    "đường sắt",
+    "tàu cao tốc",
+    "tàu cao tốc nhật bản",
+    "tàu hỏa",
+    "tốc độ"
+  ],
+  "high_voltage": [
+    "cú đánh",
+    "điện",
+    "điện cao thế",
+    "nguy hiểm",
+    "sét"
+  ],
+  "hiking_boot": [
+    "cắm trại",
+    "đi bộ đường dài",
+    "du lịch bụi",
+    "giày leo núi",
+    "giày ống"
+  ],
+  "hindu_temple": [
+    "đền",
+    "hin đu",
+    "hin-đu",
+    "hindu"
+  ],
+  "hippopotamus": [
+    "hà mã"
+  ],
+  "hole": [
+    "lỗ"
+  ],
+  "hollow_red_circle": [
+    "o",
+    "vòng tròn",
+    "vòng tròn lớn đậm"
+  ],
+  "honduras": [
+    "cờ"
+  ],
+  "honey_pot": [
+    "hũ",
+    "hũ mật ong",
+    "mật ong",
+    "ngọt"
+  ],
+  "honeybee": [
+    "con ong",
+    "côn trùng",
+    "ong mật"
+  ],
+  "hong_kong_sar_china": [
+    "cờ"
+  ],
+  "hook": [
+    "bắt",
+    "bẫy",
+    "cái móc",
+    "điểm bán hàng",
+    "đường cong",
+    "móc"
+  ],
+  "horizontal_traffic_light": [
+    "biển báo",
+    "đèn",
+    "đèn giao thông ngang",
+    "giao thông"
+  ],
+  "horse": [
+    "cưỡi ngựa",
+    "đua",
+    "ngựa"
+  ],
+  "horse_face": [
+    "mặt",
+    "ngựa"
+  ],
+  "horse_racing": [
+    "cuộc đua",
+    "đua ngựa",
+    "ngựa",
+    "ngựa đua",
+    "người cưỡi ngựa đua"
+  ],
+  "hospital": [
+    "bác sĩ",
+    "bệnh viện",
+    "thuốc"
+  ],
+  "hot_beverage": [
+    "cà phê",
+    "chưng",
+    "đồ uống",
+    "đồ uống nóng",
+    "nóng",
+    "trà",
+    "uống"
+  ],
+  "hot_dog": [
+    "bánh mì xúc xích",
+    "xúc xích"
+  ],
+  "hot_face": [
+    "đỏ mặt",
+    "đổ mồ hôi",
+    "mặt nóng",
+    "nóng",
+    "sốc nhiệt",
+    "sốt"
+  ],
+  "hot_pepper": [
+    "nóng",
+    "ớt",
+    "quả ớt"
+  ],
+  "hot_springs": [
+    "hơi nước",
+    "nóng",
+    "suối",
+    "suối nước nóng"
+  ],
+  "hotel": [
+    "khách sạn",
+    "tòa nhà"
+  ],
+  "hourglass_done": [
+    "bộ định thời",
+    "cát",
+    "đồng hồ cát đã chảy hết"
+  ],
+  "hourglass_not_done": [
+    "bộ định thời",
+    "cát",
+    "đồng hồ cát",
+    "đồng hồ cát đang chảy"
+  ],
+  "house": [
+    "ngôi nhà",
+    "nhà"
+  ],
+  "house_with_garden": [
+    "ngôi nhà",
+    "nhà",
+    "nhà có vườn",
+    "vườn"
+  ],
+  "houses": [
+    "những ngôi nhà"
+  ],
+  "hugs": [
+    "mặt",
+    "ôm"
+  ],
+  "hungary": [
+    "cờ"
+  ],
+  "hushed_face": [
+    "choáng váng",
+    "làm thinh",
+    "mặt",
+    "mặt làm thinh",
+    "ngạc nhiên"
+  ],
+  "hut": [
+    "lều tròn",
+    "nhà",
+    "nhà tròn",
+    "túp lều"
+  ],
+  "ice": [
+    "băng",
+    "đá",
+    "lạnh",
+    "viên đá"
+  ],
+  "ice_cream": [
+    "kem",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "ice_hockey": [
+    "băng",
+    "gậy",
+    "khúc côn cầu",
+    "khúc côn cầu trên băng",
+    "trận đấu"
+  ],
+  "ice_skate": [
+    "băng",
+    "giày trượt băng"
+  ],
+  "iceland": [
+    "cờ"
+  ],
+  "id_button": [
+    "danh tính",
+    "id",
+    "nút id"
+  ],
+  "in_hole": [
+    "cờ trong lỗ",
+    "gôn",
+    "lỗ"
+  ],
+  "inbox_tray": [
+    "hộp",
+    "hộp thư đến",
+    "khay",
+    "khay thư đến",
+    "nhận",
+    "thư"
+  ],
+  "incoming_envelope": [
+    "email",
+    "nhận",
+    "phong bì",
+    "phong bì thư đến",
+    "thư",
+    "thư đến"
+  ],
+  "index_pointing_up": [
+    "chỉ",
+    "lên",
+    "ngón tay",
+    "ngón trỏ",
+    "ngón trỏ chỉ lên trên",
+    "tay"
+  ],
+  "india": [
+    "cờ"
+  ],
+  "indonesia": [
+    "cờ"
+  ],
+  "infinity": [
+    "mãi mãi",
+    "toàn cầu",
+    "vô cực",
+    "vô tận"
+  ],
+  "information_source": [
+    "i",
+    "thông tin"
+  ],
+  "innocent": [
+    "giả tưởng",
+    "hào quang",
+    "mặt",
+    "mặt cười có hào quang",
+    "ngây thơ",
+    "thiên thần"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "bảng chữ cái",
+    "chữ cái",
+    "la tinh",
+    "nhập",
+    "nhập chữ cái la tinh"
+  ],
+  "input_latin_lowercase": [
+    "abcd",
+    "chữ",
+    "chữ thường",
+    "la tinh",
+    "nhập",
+    "nhập chữ thường la tinh"
+  ],
+  "input_latin_uppercase": [
+    "abcd",
+    "chữ",
+    "chữ hoa",
+    "la tinh",
+    "nhập",
+    "nhập chữ hoa la tinh"
+  ],
+  "input_symbols": [
+    "〒♪&%",
+    "nhập",
+    "nhập biểu tượng"
+  ],
+  "iran": [
+    "cờ"
+  ],
+  "iraq": [
+    "cờ"
+  ],
+  "ireland": [
+    "cờ"
+  ],
+  "isle_of_man": [
+    "cờ"
+  ],
+  "israel": [
+    "cờ"
+  ],
+  "italy": [
+    "cờ"
+  ],
+  "jack_o_lantern": [
+    "đèn lồng",
+    "đèn lồng bí ngô",
+    "halloween",
+    "lễ kỷ niệm",
+    "lồng",
+    "lồng đèn bí ngô"
+  ],
+  "jamaica": [
+    "cờ"
+  ],
+  "japan": [
+    "cờ"
+  ],
+  "japanese_acceptable_button": [
+    "“có thể chấp nhận”",
+    "chữ tượng hình",
+    "nút tiếng nhật “có thể chấp nhận”",
+    "tiếng nhật"
+  ],
+  "japanese_application_button": [
+    "“đơn xin”",
+    "chữ tượng hình",
+    "nút tiếng nhật “đơn xin”",
+    "tiếng nhật"
+  ],
+  "japanese_bargain_button": [
+    "“mặc cả”",
+    "chữ tượng hình",
+    "nút tiếng nhật “mặc cả”",
+    "tiếng nhật"
+  ],
+  "japanese_castle": [
+    "kiểu nhật",
+    "lâu đài",
+    "lâu đài nhật bản"
+  ],
+  "japanese_congratulations_button": [
+    "“chúc mừng”",
+    "chữ tượng hình",
+    "nút tiếng nhật “chúc mừng”",
+    "tiếng nhật"
+  ],
+  "japanese_discount_button": [
+    "“giảm giá”",
+    "chữ tượng hình",
+    "nút tiếng nhật “giảm giá”",
+    "tiếng nhật"
+  ],
+  "japanese_dolls": [
+    "búp bê",
+    "búp bê nhật bản",
+    "kiểu nhật bản",
+    "lễ hội",
+    "lễ kỷ niệm"
+  ],
+  "japanese_free_of_charge_button": [
+    "“miễn phí”",
+    "chữ tượng hình",
+    "nút tiếng nhật “miễn phí”",
+    "tiếng nhật"
+  ],
+  "japanese_here_button": [
+    "“tại đây”",
+    "katakana",
+    "nút tiếng nhật “tại đây”",
+    "tiếng nhật"
+  ],
+  "japanese_monthly_amount_button": [
+    "“số tiền hàng tháng”",
+    "chữ tượng hình",
+    "nút tiếng nhật “số tiền hàng tháng”",
+    "tiếng nhật"
+  ],
+  "japanese_no_vacancy_button": [
+    "“hết phòng”",
+    "chữ tượng hình",
+    "nút \"hết phòng\" bằng tiếng nhật",
+    "nút tiếng nhật “hết phòng”",
+    "tiếng nhật"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "“không miễn phí”",
+    "chữ tượng hình",
+    "nút tiếng nhật “không miễn phí”",
+    "tiếng nhật"
+  ],
+  "japanese_open_for_business_button": [
+    "“mở cửa kinh doanh”",
+    "chữ tượng hình",
+    "nút tiếng nhật “mở cửa kinh doanh”",
+    "tiếng nhật"
+  ],
+  "japanese_passing_grade_button": [
+    "“vượt cấp”",
+    "chữ tượng hình",
+    "nút tiếng nhật “vượt cấp”",
+    "tiếng nhật"
+  ],
+  "japanese_post_office": [
+    "bưu điện",
+    "bưu điện nhật bản",
+    "kiểu nhật"
+  ],
+  "japanese_prohibited_button": [
+    "“bị cấm”",
+    "chữ tượng hình",
+    "nút tiếng nhật “bị cấm”",
+    "tiếng nhật"
+  ],
+  "japanese_reserved_button": [
+    "“đặt trước”",
+    "chữ tượng hình",
+    "nút tiếng nhật “đặt trước”",
+    "tiếng nhật"
+  ],
+  "japanese_secret_button": [
+    "“bí mật”",
+    "chữ tượng hình",
+    "nút tiếng nhật “bí mật”",
+    "tiếng nhật"
+  ],
+  "japanese_service_charge_button": [
+    "“phí dịch vụ”",
+    "katakana",
+    "nút tiếng nhật “phí dịch vụ”",
+    "tiếng nhật"
+  ],
+  "japanese_symbol_for_beginner": [
+    "hình v",
+    "ký hiệu của nhật cho người mới bắt đầu",
+    "lá",
+    "người mới bắt đầu",
+    "nhật"
+  ],
+  "japanese_vacancy_button": [
+    "“còn trống”",
+    "chữ tượng hình",
+    "nút tiếng nhật “còn trống”",
+    "tiếng nhật"
+  ],
+  "jeans": [
+    "quần",
+    "quần áo",
+    "quần bò",
+    "quần dài"
+  ],
+  "jersey": [
+    "cờ"
+  ],
+  "joker": [
+    "lá bài",
+    "quân phăng teo",
+    "trò chơi"
+  ],
+  "jordan": [
+    "cờ"
+  ],
+  "joy": [
+    "cười",
+    "mặt",
+    "mặt cười với nước mắt vui sướng",
+    "nước mắt",
+    "vui sướng"
+  ],
+  "joy_cat": [
+    "mặt",
+    "mặt mèo có nước mắt vui sướng",
+    "mèo",
+    "niềm vui",
+    "nước mắt"
+  ],
+  "joystick": [
+    "cần điều khiển",
+    "trò chơi",
+    "trò chơi điện tử"
+  ],
+  "judge": [
+    "cầm cân nảy mực",
+    "thẩm phán"
+  ],
+  "kaaba": [
+    "hồi giáo",
+    "thuộc hồi giáo",
+    "tôn giáo"
+  ],
+  "kangaroo": [
+    "australia",
+    "chuột túi",
+    "chuột túi con",
+    "nhảy",
+    "thú có túi"
+  ],
+  "kazakhstan": [
+    "cờ"
+  ],
+  "kenya": [
+    "cờ"
+  ],
+  "key": [
+    "chìa khóa",
+    "khóa",
+    "mật khẩu"
+  ],
+  "keyboard": [
+    "bàn phím",
+    "máy tính"
+  ],
+  "kick_scooter": [
+    "đẩy",
+    "xe hẩy"
+  ],
+  "kimono": [
+    "quần áo"
+  ],
+  "kiribati": [
+    "cờ"
+  ],
+  "kiss": [
+    "cặp đôi",
+    "nụ hôn"
+  ],
+  "kiss_man_man": [
+    "cặp đôi",
+    "đàn ông",
+    "nụ hôn"
+  ],
+  "kiss_mark": [
+    "dấu nụ hôn",
+    "hôn",
+    "môi"
+  ],
+  "kiss_woman_man": [
+    "cặp đôi",
+    "đàn ông",
+    "nụ hôn",
+    "phụ nữ"
+  ],
+  "kiss_woman_woman": [
+    "cặp đôi",
+    "nụ hôn",
+    "phụ nữ"
+  ],
+  "kissing_cat": [
+    "con mèo",
+    "hôn",
+    "khuôn mặt",
+    "mắt",
+    "mặt mèo hôn mắt nhắm"
+  ],
+  "kissing_face": [
+    "hôn",
+    "mặt"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "hôn",
+    "mắt",
+    "mặt",
+    "nhắm"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "cười",
+    "hôn",
+    "mắt",
+    "mặt"
+  ],
+  "kitchen_knife": [
+    "dao",
+    "dao làm bếp",
+    "dụng cụ",
+    "hocho",
+    "nấu nướng",
+    "vũ khí"
+  ],
+  "kite": [
+    "bay",
+    "bay lên",
+    "bay lượn",
+    "diều"
+  ],
+  "kiwi_fruit": [
+    "hoa quả",
+    "kiwi",
+    "quả kiwi",
+    "thức ăn"
+  ],
+  "knot": [
+    "bện",
+    "buộc",
+    "dây thừng",
+    "nút thắt",
+    "rối",
+    "xoắn"
+  ],
+  "koala": [
+    "con gấu",
+    "gấu túi"
+  ],
+  "kosovo": [
+    "cờ"
+  ],
+  "kuwait": [
+    "cờ"
+  ],
+  "kyrgyzstan": [
+    "cờ"
+  ],
+  "lab_coat": [
+    "áo phòng thí nghiệm",
+    "bác sĩ",
+    "nhà khoa học",
+    "thí nghiệm"
+  ],
+  "label": [
+    "nhãn"
+  ],
+  "lacrosse": [
+    "bóng",
+    "bóng vợt",
+    "gậy",
+    "gôn"
+  ],
+  "ladder": [
+    "bậc thang",
+    "leo trèo",
+    "nấc",
+    "thang"
+  ],
+  "lady_beetle": [
+    "bọ cánh cứng",
+    "bọ rùa",
+    "con bọ rùa",
+    "côn trùng"
+  ],
+  "laos": [
+    "cờ"
+  ],
+  "laptop": [
+    "cá nhân",
+    "máy tính",
+    "máy tính xách tay",
+    "pc"
+  ],
+  "large_blue_diamond": [
+    "hình học",
+    "hình thoi",
+    "hình thoi lớn màu lam",
+    "màu lam"
+  ],
+  "large_orange_diamond": [
+    "hình học",
+    "hình thoi",
+    "hình thoi lớn màu cam",
+    "màu cam"
+  ],
+  "last_quarter_moon": [
+    "mặt trăng",
+    "phần tư",
+    "trăng hạ huyền"
+  ],
+  "last_quarter_moon_face": [
+    "mặt",
+    "mặt trăng",
+    "phần tư",
+    "trăng hạ huyền hình mặt người"
+  ],
+  "last_track_button": [
+    "bài trước",
+    "cảnh trước",
+    "mũi tên",
+    "nút bài cuối cùng",
+    "nút bài trước",
+    "tam giác"
+  ],
+  "latin_cross": [
+    "chữ thập",
+    "cơ đốc",
+    "thánh giá la-tinh",
+    "tôn giáo"
+  ],
+  "latvia": [
+    "cờ"
+  ],
+  "laughing": [
+    "cười",
+    "cười to",
+    "hài lòng",
+    "mặt",
+    "mặt cười miệng há mắt nhắm chặt",
+    "miệng"
+  ],
+  "leaf_fluttering_in_wind": [
+    "gió",
+    "lá cây",
+    "lá rung rinh trong gió",
+    "rung",
+    "thổi"
+  ],
+  "leafy_green": [
+    "cải bắp",
+    "cải thìa",
+    "cải xoăn",
+    "rau diếp",
+    "xanh lá"
+  ],
+  "lebanon": [
+    "cờ"
+  ],
+  "ledger": [
+    "sổ cái",
+    "sổ ghi chép"
+  ],
+  "left_arrow": [
+    "chiều hướng",
+    "chính",
+    "mũi tên",
+    "mũi tên trái",
+    "tây"
+  ],
+  "left_arrow_curving_right": [
+    "mũi tên",
+    "mũi tên trái cong sang phải"
+  ],
+  "left_facing_fist": [
+    "hướng trái",
+    "nắm đấm",
+    "nắm đấm hướng phía trái"
+  ],
+  "left_luggage": [
+    "hành lý",
+    "hành lý bỏ quên",
+    "tủ khóa"
+  ],
+  "left_right_arrow": [
+    "mũi tên",
+    "mũi tên trái phải"
+  ],
+  "left_speech_bubble": [
+    "bài diễn văn",
+    "bong bóng lời nói trái",
+    "thoại"
+  ],
+  "leg": [
+    "chân",
+    "chân tay",
+    "đá"
+  ],
+  "lemon": [
+    "chanh",
+    "hoa quả",
+    "thực vật"
+  ],
+  "leo": [
+    "cung hoàng đạo",
+    "sư tử"
+  ],
+  "leopard": [
+    "báo hoa mai",
+    "con báo"
+  ],
+  "lesotho": [
+    "cờ"
+  ],
+  "level_slider": [
+    "mức",
+    "nhạc",
+    "thanh trượt",
+    "thanh trượt mức"
+  ],
+  "liberia": [
+    "cờ"
+  ],
+  "libra": [
+    "cân",
+    "cân đối",
+    "công bằng",
+    "cung hoàng đạo",
+    "thiên bình"
+  ],
+  "libya": [
+    "cờ"
+  ],
+  "liechtenstein": [
+    "cờ"
+  ],
+  "light_bulb": [
+    "ánh sáng",
+    "bóng đèn",
+    "điện",
+    "hài hước",
+    "ý tưởng"
+  ],
+  "light_rail": [
+    "đường sắt",
+    "tàu điện nhẹ",
+    "xe cộ"
+  ],
+  "link": [
+    "mắt xích"
+  ],
+  "linked_paperclips": [
+    "kẹp giấy",
+    "kẹp giấy được nối",
+    "nối"
+  ],
+  "lion": [
+    "cung hoàng đạo",
+    "cung sư tử",
+    "mặt",
+    "mặt sư tử",
+    "sư tử"
+  ],
+  "lipstick": [
+    "mỹ phẩm",
+    "son môi",
+    "trang điểm"
+  ],
+  "lithuania": [
+    "cờ"
+  ],
+  "litter_in_bin_sign": [
+    "ký hiệu bỏ rác vào thùng",
+    "thùng rác",
+    "xả rác"
+  ],
+  "lizard": [
+    "bò sát",
+    "thằn lằn"
+  ],
+  "llama": [
+    "lạc đà alpaca",
+    "lạc đà guanaco",
+    "lạc đà không bướu",
+    "lạc đà vicuña",
+    "len"
+  ],
+  "lobster": [
+    "càng",
+    "hải sản",
+    "tôm hùm",
+    "xúp tôm cua"
+  ],
+  "locked": [
+    "đóng",
+    "khóa"
+  ],
+  "locked_with_key": [
+    "bảo mật",
+    "chìa",
+    "đóng",
+    "khóa",
+    "khóa với chìa"
+  ],
+  "locked_with_pen": [
+    "bút",
+    "khóa",
+    "khóa với bút",
+    "mực",
+    "ngòi bút",
+    "riêng tư"
+  ],
+  "locomotive": [
+    "đầu máy xe lửa",
+    "động cơ",
+    "đường sắt",
+    "hơi nước",
+    "tàu hỏa"
+  ],
+  "lollipop": [
+    "kẹo",
+    "kẹo mút",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "long_drum": [
+    "conga",
+    "đập",
+    "nhịp",
+    "trống",
+    "trống dài"
+  ],
+  "lotion_bottle": [
+    "chai sữa dưỡng da",
+    "dầu gội",
+    "kem chống nắng",
+    "kem dưỡng ẩm",
+    "sữa dưỡng da"
+  ],
+  "loudspeaker": [
+    "địa chỉ công cộng",
+    "loa phát thanh",
+    "loa phóng thanh",
+    "lớn"
+  ],
+  "love_hotel": [
+    "khách sạn",
+    "khách sạn tình yêu",
+    "tình yêu"
+  ],
+  "love_letter": [
+    "lá thư",
+    "thư",
+    "thư tình",
+    "trái tim",
+    "yêu"
+  ],
+  "love_you_gesture": [
+    "anh yêu em",
+    "cử chỉ yêu nhau",
+    "tay"
+  ],
+  "luggage": [
+    "đóng gói",
+    "du lịch",
+    "hành lý"
+  ],
+  "lungs": [
+    "cơ quan",
+    "hít vào",
+    "hô hấp",
+    "hơi thở",
+    "phổi",
+    "thở ra"
+  ],
+  "luxembourg": [
+    "cờ"
+  ],
+  "lying_face": [
+    "mặt",
+    "mặt nói dối",
+    "nói dối",
+    "pinocchio"
+  ],
+  "macao_sar_china": [
+    "cờ"
+  ],
+  "madagascar": [
+    "cờ"
+  ],
+  "mage": [
+    "bà cốt",
+    "đạo sĩ",
+    "pháp sư",
+    "phù thủy",
+    "thầy phù thuỷ"
+  ],
+  "magic_wand": [
+    "gậy thần",
+    "ma thuật",
+    "phù thủy",
+    "thầy phù thủy"
+  ],
+  "magnet": [
+    "móng ngựa",
+    "nam châm",
+    "sức hút",
+    "từ tính"
+  ],
+  "magnifying_glass_tilted_left": [
+    "dụng cụ",
+    "kính",
+    "kính phóng đại nghiêng sang trái",
+    "phóng đại",
+    "tìm kiếm"
+  ],
+  "magnifying_glass_tilted_right": [
+    "dụng cụ",
+    "kính",
+    "kính lúp nghiêng sang phải",
+    "kính phóng đại nghiêng sang phải",
+    "phóng đại",
+    "tìm kiếm"
+  ],
+  "mahjong_red_dragon": [
+    "đỏ",
+    "mạt chược",
+    "mạt chược rồng đỏ",
+    "trò chơi"
+  ],
+  "malawi": [
+    "cờ"
+  ],
+  "malaysia": [
+    "cờ"
+  ],
+  "maldives": [
+    "cờ"
+  ],
+  "male_sign": [
+    "đàn ông",
+    "ký hiệu nam"
+  ],
+  "mali": [
+    "cờ"
+  ],
+  "malta": [
+    "cờ"
+  ],
+  "mammoth": [
+    "có lông",
+    "lớn",
+    "ngà",
+    "tuyệt chủng",
+    "voi ma mút"
+  ],
+  "man": [
+    "đàn ông",
+    "người lớn"
+  ],
+  "man_artist": [
+    "bảng màu",
+    "họa sĩ nam",
+    "nam",
+    "nghệ sĩ"
+  ],
+  "man_astronaut": [
+    "nam",
+    "phi hành gia",
+    "phi hành gia nam",
+    "tên lửa"
+  ],
+  "man_bald": [
+    "đàn ông",
+    "hói",
+    "người lớn"
+  ],
+  "man_biking": [
+    "đạp xe",
+    "người đàn ông",
+    "người đàn ông đi xe đạp",
+    "người đạp xe",
+    "xe đạp"
+  ],
+  "man_bouncing_ball": [
+    "bóng",
+    "đàn ông",
+    "người đàn ông chơi bóng"
+  ],
+  "man_bowing": [
+    "cử chỉ",
+    "cúi đầu",
+    "người đàn ông",
+    "người đàn ông cúi đầu",
+    "ủng hộ",
+    "xin lỗi"
+  ],
+  "man_cartwheeling": [
+    "người đàn ông",
+    "người đàn ông nhào lộn",
+    "nhào lộn",
+    "thể dục"
+  ],
+  "man_climbing": [
+    "người đàn ông đang leo núi",
+    "người leo trèo"
+  ],
+  "man_cook": [
+    "đầu bếp",
+    "đầu bếp nam",
+    "nam",
+    "nấu ăn"
+  ],
+  "man_curly_hair": [
+    "đàn ông",
+    "người lớn",
+    "tóc xoăn"
+  ],
+  "man_dancing": [
+    "khiêu vũ",
+    "người đàn ông",
+    "người đàn ông đang khiêu vũ"
+  ],
+  "man_detective": [
+    "gián điệp",
+    "nam",
+    "thám tử",
+    "thám tử nam",
+    "trinh thám"
+  ],
+  "man_elf": [
+    "nam quỷ",
+    "phép thuật"
+  ],
+  "man_facepalming": [
+    "hoài nghi",
+    "nam",
+    "người đàn ông lấy tay che mặt",
+    "người lấy tay che mặt",
+    "tay che mặt",
+    "tức giận"
+  ],
+  "man_factory_worker": [
+    "công nghiệp",
+    "công nhân",
+    "công nhân nhà máy nam",
+    "lắp ráp",
+    "nam",
+    "nhà máy"
+  ],
+  "man_fairy": [
+    "oberon",
+    "ông tiên",
+    "puck"
+  ],
+  "man_farmer": [
+    "nam",
+    "người làm vườn",
+    "người nuôi súc vật",
+    "nông dân",
+    "nông dân nam"
+  ],
+  "man_feeding_baby": [
+    "cho bú",
+    "cho con bú",
+    "em bé",
+    "người",
+    "người cho con bú"
+  ],
+  "man_firefighter": [
+    "lính cứu hỏa",
+    "lính cứu hỏa nam",
+    "nam",
+    "xe cứu hỏa"
+  ],
+  "man_frowning": [
+    "cau mày",
+    "cử chỉ",
+    "nam",
+    "người đàn ông cau mày"
+  ],
+  "man_genie": [
+    "ma thần",
+    "nam thần"
+  ],
+  "man_gesturing_no": [
+    "bị cấm",
+    "cấm",
+    "cử chỉ",
+    "người đàn ông",
+    "người đàn ông ra hiệu phản đối",
+    "tay"
+  ],
+  "man_gesturing_ok": [
+    "cử chỉ",
+    "nam",
+    "người đàn ông ra hiệu đồng ý",
+    "ok",
+    "tay"
+  ],
+  "man_getting_haircut": [
+    "cắt tóc",
+    "nam",
+    "người đàn ông được cắt tóc"
+  ],
+  "man_getting_massage": [
+    "mặt",
+    "nam",
+    "người đàn ông",
+    "người đàn ông được xoa bóp mặt",
+    "xoa bóp"
+  ],
+  "man_golfing": [
+    "đàn ông",
+    "gôn",
+    "người đàn ông chơi gôn"
+  ],
+  "man_guard": [
+    "bảo vệ",
+    "bảo vệ nam",
+    "nam"
+  ],
+  "man_health_worker": [
+    "bác sĩ",
+    "chăm sóc sức khỏe",
+    "nam",
+    "nhân viên y tế nam",
+    "trị liệu",
+    "y tá"
+  ],
+  "man_in_lotus_position": [
+    "người đàn ông ngồi kiết già",
+    "thiền",
+    "yoga"
+  ],
+  "man_in_manual_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "người đàn ông",
+    "người đàn ông trên xe lăn tay",
+    "xe lăn"
+  ],
+  "man_in_motorized_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "người đàn ông",
+    "người đàn ông trên xe lăn điện",
+    "xe lăn"
+  ],
+  "man_in_steamy_room": [
+    "người đàn ông ở trong phòng xông hơi",
+    "nhà tắm hơi",
+    "phòng xông hơi"
+  ],
+  "man_in_tuxedo": [
+    "người đàn ông",
+    "người đàn ông mặc tuxedo",
+    "tuxedo"
+  ],
+  "man_judge": [
+    "cầm cân nảy mực",
+    "công lý",
+    "nam",
+    "thẩm phán nam"
+  ],
+  "man_juggling": [
+    "đa nhiệm",
+    "đàn ông",
+    "người đàn ông tung hứng",
+    "tung hứng"
+  ],
+  "man_kneeling": [
+    "người đàn ông",
+    "người đàn ông quỳ",
+    "quỳ"
+  ],
+  "man_lifting_weights": [
+    "người cử tạ",
+    "người đàn ông",
+    "người đàn ông cử tạ"
+  ],
+  "man_mage": [
+    "pháp sư",
+    "pháp sư nam",
+    "phù thủy"
+  ],
+  "man_mechanic": [
+    "cơ khí",
+    "nam",
+    "người đàn ông",
+    "thợ",
+    "thợ điện",
+    "thợ máy nam",
+    "thợ sửa ống nước"
+  ],
+  "man_mountain_biking": [
+    "đàn ông",
+    "người đàn ông đi xe đạp leo núi",
+    "người đi xe đạp",
+    "người đi xe đạp leo núi",
+    "núi",
+    "xe đạp"
+  ],
+  "man_office_worker": [
+    "công việc văn phòng",
+    "kiến trúc sư",
+    "kinh doanh",
+    "người đàn ông",
+    "người quản lý",
+    "nhân viên văn phòng nam"
+  ],
+  "man_pilot": [
+    "máy bay",
+    "nam",
+    "phi công",
+    "phi công nam"
+  ],
+  "man_playing_handball": [
+    "bóng ném",
+    "đàn ông",
+    "người đàn ông chơi bóng ném"
+  ],
+  "man_playing_water_polo": [
+    "đàn ông",
+    "người đàn ông chơi bóng nước",
+    "thủy cầu"
+  ],
+  "man_police_officer": [
+    "cảnh sát",
+    "cảnh sát nam",
+    "nam",
+    "người đàn ông",
+    "sĩ quan"
+  ],
+  "man_pouting": [
+    "bĩu môi",
+    "cử chỉ",
+    "nam",
+    "người đàn ông bĩu môi"
+  ],
+  "man_raising_hand": [
+    "cử chỉ",
+    "giơ tay",
+    "nam",
+    "người đàn ông",
+    "người đàn ông giơ cao tay"
+  ],
+  "man_red_hair": [
+    "đàn ông",
+    "người lớn",
+    "tóc đỏ"
+  ],
+  "man_rowing_boat": [
+    "người đàn ông",
+    "người đàn ông chèo thuyền",
+    "thuyền",
+    "thuyền có mái chèo"
+  ],
+  "man_running": [
+    "chạy",
+    "chạy đua",
+    "chạy đua maratông",
+    "nam",
+    "người đàn ông đang chạy"
+  ],
+  "man_s_shoe": [
+    "đàn ông",
+    "giày",
+    "giày nam",
+    "quần áo"
+  ],
+  "man_scientist": [
+    "kỹ sư",
+    "người đàn ông",
+    "nhà hóa học",
+    "nhà khoa học",
+    "nhà khoa học nam",
+    "nhà sinh vật học",
+    "nhà vật lý"
+  ],
+  "man_shrugging": [
+    "nam",
+    "nghi ngờ",
+    "người đàn ông",
+    "người đàn ông nhún vai",
+    "nhún vai",
+    "sự thờ ơ",
+    "vô minh"
+  ],
+  "man_singer": [
+    "ca sĩ",
+    "nam ca sĩ",
+    "nam diễn viên",
+    "nghệ sĩ",
+    "ngôi sao",
+    "người đàn ông",
+    "nhạc rock"
+  ],
+  "man_standing": [
+    "đứng",
+    "người đàn ông",
+    "người đàn ông đứng"
+  ],
+  "man_student": [
+    "nam",
+    "sinh viên",
+    "sinh viên nam",
+    "tốt nghiệp"
+  ],
+  "man_superhero": [
+    "anh hùng",
+    "nam giới",
+    "nam siêu anh hùng",
+    "siêu năng lực",
+    "tốt"
+  ],
+  "man_supervillain": [
+    "ác",
+    "nam giới",
+    "nam siêu phản diện",
+    "nhân vật phản diện",
+    "siêu năng lực",
+    "tội phạm"
+  ],
+  "man_surfing": [
+    "lướt sóng",
+    "người đàn ông",
+    "người đàn ông lướt sóng"
+  ],
+  "man_swimming": [
+    "bơi",
+    "người đàn ông",
+    "người đàn ông đang bơi"
+  ],
+  "man_teacher": [
+    "giáo sư",
+    "giáo viên",
+    "giáo viên nam",
+    "nam",
+    "người hướng dẫn"
+  ],
+  "man_technologist": [
+    "kỹ sư công nghệ",
+    "kỹ sư công nghệ nam",
+    "lập trình viên",
+    "người đàn ông",
+    "người phát minh",
+    "nhà phát triển",
+    "phần mềm"
+  ],
+  "man_tipping_hand": [
+    "nam",
+    "người đàn ông ra hiệu trợ giúp",
+    "tay ra hiệu",
+    "tươi tắn"
+  ],
+  "man_vampire": [
+    "dracula",
+    "ma cà rồng nam",
+    "xác sống"
+  ],
+  "man_walking": [
+    "đi bộ",
+    "đi bộ đường dài",
+    "người đàn ông",
+    "người đàn ông đi bộ"
+  ],
+  "man_wearing_turban": [
+    "khăn xếp",
+    "nam",
+    "người đàn ông đội khăn xếp"
+  ],
+  "man_white_hair": [
+    "đàn ông",
+    "người lớn",
+    "tóc trắng"
+  ],
+  "man_with_veil": [
+    "lúp cưới",
+    "người đàn ông",
+    "người đàn ông đội lúp cưới"
+  ],
+  "man_with_white_cane": [
+    "hỗ trợ tiếp cận",
+    "khiếm thị",
+    "mù",
+    "người đàn ông",
+    "người đàn ông với cây gậy",
+    "người đàn ông với gậy dò đường"
+  ],
+  "man_zombie": [
+    "xác chết nam sống lại",
+    "xác chết sống lại",
+    "xác sống"
+  ],
+  "mango": [
+    "nhiệt đới",
+    "trái cây",
+    "xoài"
+  ],
+  "mantelpiece_clock": [
+    "đồng hồ",
+    "đồng hồ để bàn"
+  ],
+  "manual_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "trợ năng",
+    "xe lăn tay"
+  ],
+  "map_of_japan": [
+    "bản đồ",
+    "bản đồ nhật bản",
+    "nhật bản"
+  ],
+  "maple_leaf": [
+    "lá cây",
+    "lá phong",
+    "rụng"
+  ],
+  "marshall_islands": [
+    "cờ"
+  ],
+  "martial_arts_uniform": [
+    "đồng phục",
+    "đồng phục võ thuật",
+    "judo",
+    "karate",
+    "taekwondo",
+    "thể thao",
+    "võ thuật"
+  ],
+  "martinique": [
+    "cờ"
+  ],
+  "mate": [
+    "đồ uống",
+    "nước uống",
+    "trà nhựa ruồi",
+    "uống"
+  ],
+  "mauritania": [
+    "cờ"
+  ],
+  "mauritius": [
+    "cờ"
+  ],
+  "mayotte": [
+    "cờ"
+  ],
+  "meat_on_bone": [
+    "thịt",
+    "thịt bám xương",
+    "xương"
+  ],
+  "mechanic": [
+    "thợ điện",
+    "thợ máy",
+    "thợ sửa ống nước",
+    "thợ thủ công"
+  ],
+  "mechanical_arm": [
+    "cánh tay giả",
+    "giả",
+    "hỗ trợ",
+    "hỗ trợ tiếp cận"
+  ],
+  "mechanical_leg": [
+    "chân giả",
+    "giả",
+    "hỗ trợ",
+    "hỗ trợ tiếp cận"
+  ],
+  "medical_symbol": [
+    "biểu tượng y tế",
+    "cán bộ",
+    "rắn thần",
+    "y học"
+  ],
+  "megaphone": [
+    "cổ vũ",
+    "loa phóng thanh"
+  ],
+  "melon": [
+    "dưa",
+    "hoa quả"
+  ],
+  "memo": [
+    "bút chì",
+    "sổ ghi nhớ"
+  ],
+  "men_holding_hands": [
+    "cặp đôi",
+    "cặp song sinh",
+    "hai người đàn ông nắm tay",
+    "hai người đàn ông nắm tay nhau",
+    "hoàng đạo",
+    "người đàn ông",
+    "song tử"
+  ],
+  "men_s_room": [
+    "nam",
+    "nhà vệ sinh",
+    "nhà vệ sinh nam",
+    "phòng vệ sinh",
+    "wc"
+  ],
+  "men_with_bunny_ears": [
+    "đàn ông",
+    "những người đàn ông đeo tai thỏ",
+    "tai thỏ",
+    "tiệc tùng",
+    "vũ công"
+  ],
+  "men_wrestling": [
+    "đàn ông",
+    "những người đàn ông chơi vật",
+    "vật"
+  ],
+  "menorah": [
+    "cây đèn menorah",
+    "cây đèn nến",
+    "giá đỡ nến",
+    "tôn giáo"
+  ],
+  "mermaid": [
+    "công chúa cá",
+    "nàng tiên cá"
+  ],
+  "merman": [
+    "chàng tiên cá",
+    "thần nửa người nửa cá"
+  ],
+  "merperson": [
+    "chàng tiên cá",
+    "công chúa cá",
+    "nàng tiên cá",
+    "người cá"
+  ],
+  "metro": [
+    "tàu điện ngầm",
+    "xe cộ"
+  ],
+  "mexico": [
+    "cờ"
+  ],
+  "microbe": [
+    "amip",
+    "vi khuẩn",
+    "vi rút",
+    "vi trùng"
+  ],
+  "micronesia": [
+    "cờ"
+  ],
+  "microphone": [
+    "karaoke",
+    "micrô"
+  ],
+  "microscope": [
+    "dụng cụ",
+    "khoa học",
+    "kính hiển vi",
+    "kính hiển vị"
+  ],
+  "military_helmet": [
+    "chiến binh",
+    "mũ bảo hiểm",
+    "mũ sắt quân đội",
+    "người lính",
+    "quân đội",
+    "quân sự"
+  ],
+  "military_medal": [
+    "huân chương quân đội",
+    "huy chương",
+    "lễ kỷ niệm",
+    "quân sự"
+  ],
+  "milky_way": [
+    "dải ngân hà",
+    "vũ trụ"
+  ],
+  "minibus": [
+    "xe buýt",
+    "xe buýt nhỏ"
+  ],
+  "minus": [
+    "dấu",
+    "toán",
+    "trừ"
+  ],
+  "mirror": [
+    "gương",
+    "gương phản xạ",
+    "phản ánh",
+    "phản xạ"
+  ],
+  "moai": [
+    "bức tượng",
+    "khuôn mặt",
+    "tượng moai",
+    "tượng moyai"
+  ],
+  "mobile_phone": [
+    "di động",
+    "điện thoại",
+    "điện thoại di động"
+  ],
+  "mobile_phone_off": [
+    "di động",
+    "điện thoại",
+    "tắt",
+    "tắt điện thoại di động"
+  ],
+  "mobile_phone_with_arrow": [
+    "di động",
+    "điện thoại",
+    "điện thoại di động có mũi tên",
+    "gọi",
+    "mũi tên",
+    "nhận"
+  ],
+  "moldova": [
+    "cờ"
+  ],
+  "monaco": [
+    "cờ"
+  ],
+  "money_bag": [
+    "đô la",
+    "tiền",
+    "túi"
+  ],
+  "money_mouth_face": [
+    "mặt",
+    "mặt có tiền ở miệng",
+    "miệng",
+    "tiền"
+  ],
+  "money_with_wings": [
+    "bay",
+    "cánh",
+    "đô la",
+    "tiền có cánh",
+    "tiền giấy"
+  ],
+  "mongolia": [
+    "cờ"
+  ],
+  "monkey": [
+    "con khỉ",
+    "khỉ"
+  ],
+  "monkey_face": [
+    "khỉ",
+    "mặt"
+  ],
+  "monorail": [
+    "đường một ray",
+    "xe cộ"
+  ],
+  "montenegro": [
+    "cờ"
+  ],
+  "montserrat": [
+    "cờ"
+  ],
+  "moon_cake": [
+    "bánh trung thu",
+    "lễ hội",
+    "mùa thu"
+  ],
+  "moon_viewing_ceremony": [
+    "kỷ niệm",
+    "lễ kỷ niệm",
+    "lễ ngắm trăng",
+    "mặt trăng"
+  ],
+  "morocco": [
+    "cờ"
+  ],
+  "mosque": [
+    "hồi giáo",
+    "nhà thờ hồi giáo",
+    "thuộc hồi giáo",
+    "tôn giáo"
+  ],
+  "mosquito": [
+    "bệnh",
+    "con muỗi",
+    "côn trùng",
+    "muỗi",
+    "sốt",
+    "sốt rét",
+    "vi rút"
+  ],
+  "motor_boat": [
+    "thuyền",
+    "thuyền máy"
+  ],
+  "motor_scooter": [
+    "mô tơ",
+    "xe tay ga"
+  ],
+  "motorcycle": [
+    "đua xe",
+    "xe máy"
+  ],
+  "motorized_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "trợ năng",
+    "xe lăn tự động"
+  ],
+  "motorway": [
+    "đường",
+    "đường cao tốc"
+  ],
+  "mount_fuji": [
+    "núi",
+    "núi phú sĩ",
+    "phú sĩ"
+  ],
+  "mountain": [
+    "núi"
+  ],
+  "mountain_cableway": [
+    "cáp",
+    "cáp treo trên núi",
+    "núi",
+    "toa trần"
+  ],
+  "mountain_railway": [
+    "đường ray leo núi",
+    "đường sắt",
+    "núi",
+    "toa xe"
+  ],
+  "mouse": [
+    "chuột"
+  ],
+  "mouse_face": [
+    "chuột",
+    "mặt"
+  ],
+  "mouse_trap": [
+    "bẫy",
+    "bẩy",
+    "bẫy chuột",
+    "mồi"
+  ],
+  "mouth": [
+    "miệng",
+    "môi"
+  ],
+  "movie_camera": [
+    "máy quay phim",
+    "phim",
+    "rạp chiếu phim"
+  ],
+  "mozambique": [
+    "cờ"
+  ],
+  "mrs_claus": [
+    "bà già noel",
+    "giáng sinh",
+    "mẹ",
+    "mẹ giáng sinh"
+  ],
+  "multiply": [
+    "×",
+    "dấu",
+    "hủy",
+    "nhân",
+    "x"
+  ],
+  "mushroom": [
+    "nấm",
+    "thực vật"
+  ],
+  "musical_keyboard": [
+    "bàn phím",
+    "đàn piano",
+    "nhạc",
+    "nhạc cụ",
+    "phím đàn"
+  ],
+  "musical_note": [
+    "nhạc",
+    "nốt nhạc"
+  ],
+  "musical_notes": [
+    "các nốt nhạc",
+    "nhạc",
+    "nốt nhạc"
+  ],
+  "musical_score": [
+    "bản nhạc",
+    "khuông nhạc",
+    "nhạc"
+  ],
+  "muted_speaker": [
+    "cái loa",
+    "im lặng",
+    "không ồn ào",
+    "tắt loa",
+    "tắt tiếng"
+  ],
+  "mx_claus": [
+    "bà già noel",
+    "noel, giáng sinh"
+  ],
+  "myanmar_burma": [
+    "cờ"
+  ],
+  "nail_polish": [
+    "chăm sóc",
+    "đánh bóng",
+    "làm móng tay",
+    "móng tay",
+    "mỹ phẩm",
+    "sơn móng tay"
+  ],
+  "name_badge": [
+    "tên",
+    "thẻ"
+  ],
+  "namibia": [
+    "cờ"
+  ],
+  "national_park": [
+    "công viên",
+    "công viên quốc gia"
+  ],
+  "nauru": [
+    "cờ"
+  ],
+  "nauseated_face": [
+    "buồn nôn",
+    "mặt",
+    "mặt buồn nôn",
+    "nôn mửa"
+  ],
+  "nazar_amulet": [
+    "bùa",
+    "bùa may mắn nazar",
+    "hạt",
+    "mắt ác",
+    "mê hoặc",
+    "nhìn"
+  ],
+  "necktie": [
+    "cà vạt",
+    "quần áo"
+  ],
+  "nepal": [
+    "cờ"
+  ],
+  "nerd_face": [
+    "đam mê",
+    "mặt",
+    "mặt mọt sách",
+    "mọt sách"
+  ],
+  "nesting_dolls": [
+    "búp bê",
+    "búp bê matryoshka",
+    "làm tổ",
+    "nước nga"
+  ],
+  "netherlands": [
+    "cờ"
+  ],
+  "neutral_face": [
+    "mặt",
+    "mặt ngây ra bất động",
+    "mặt trung lập",
+    "trung lập"
+  ],
+  "new_button": [
+    "new",
+    "nút new"
+  ],
+  "new_caledonia": [
+    "cờ"
+  ],
+  "new_moon": [
+    "bóng tối",
+    "mặt trăng",
+    "trăng non"
+  ],
+  "new_moon_face": [
+    "mặt",
+    "mặt trăng",
+    "mặt trăng non"
+  ],
+  "new_zealand": [
+    "cờ"
+  ],
+  "newspaper": [
+    "báo",
+    "tạp chí"
+  ],
+  "next_track_button": [
+    "bài tiếp theo",
+    "cảnh tiếp theo",
+    "mũi tên",
+    "nút bài tiếp theo",
+    "tam giác"
+  ],
+  "ng_button": [
+    "ng",
+    "nút ng"
+  ],
+  "nicaragua": [
+    "cờ"
+  ],
+  "niger": [
+    "cờ"
+  ],
+  "nigeria": [
+    "cờ"
+  ],
+  "night_with_stars": [
+    "đêm",
+    "đêm có sao",
+    "sao"
+  ],
+  "nine": [
+    "mũ phím"
+  ],
+  "nine_o_clock": [
+    "9",
+    "9:00",
+    "chín",
+    "đồng hồ",
+    "giờ"
+  ],
+  "nine_thirty": [
+    "9",
+    "9:30",
+    "ba mươi",
+    "chín",
+    "chín giờ ba mươi",
+    "chín giờ ba mươi phút",
+    "đồng hồ"
+  ],
+  "ninja": [
+    "ẩn",
+    "đấu sĩ",
+    "tàng hình"
+  ],
+  "niue": [
+    "cờ"
+  ],
+  "no_bicycles": [
+    "bị cấm",
+    "bị nghiêm cấm",
+    "cấm xe đạp",
+    "không",
+    "xe đạp"
+  ],
+  "no_entry": [
+    "cấm",
+    "cấm vào",
+    "giao thông",
+    "không cho phép",
+    "lối vào"
+  ],
+  "no_littering": [
+    "bị cấm",
+    "bị nghiêm cấm",
+    "cấm xả rác",
+    "không",
+    "xả rác"
+  ],
+  "no_mobile_phones": [
+    "cấm",
+    "cấm điện thoại di động",
+    "di động",
+    "điện thoại",
+    "điện thoại di động",
+    "không"
+  ],
+  "no_one_under_eighteen": [
+    "18",
+    "cấm",
+    "cấm người dưới 18 tuổi",
+    "giới hạn độ tuổi",
+    "mười tám",
+    "vị thành niên"
+  ],
+  "no_pedestrians": [
+    "cấm",
+    "cấm người đi bộ",
+    "không",
+    "không cho phép",
+    "không có",
+    "người đi bộ"
+  ],
+  "no_smoking": [
+    "bị cấm",
+    "bị nghiêm cấm",
+    "cấm hút thuốc",
+    "hút thuốc",
+    "không"
+  ],
+  "non_potable_water": [
+    "không dùng để uống",
+    "không uống được",
+    "nước",
+    "nước không uống được"
+  ],
+  "norfolk_island": [
+    "cờ"
+  ],
+  "north_korea": [
+    "cờ"
+  ],
+  "north_macedonia": [
+    "cờ"
+  ],
+  "northern_mariana_islands": [
+    "cờ"
+  ],
+  "norway": [
+    "cờ"
+  ],
+  "nose": [
+    "cơ thể",
+    "mũi"
+  ],
+  "notebook": [
+    "sổ ghi chép"
+  ],
+  "notebook_with_decorative_cover": [
+    "bìa",
+    "sách",
+    "sổ ghi chép",
+    "sổ ghi chép có bìa trang trí",
+    "trang trí"
+  ],
+  "nut_and_bolt": [
+    "bu lông",
+    "đai ốc",
+    "đai ốc và bu lông",
+    "dụng cụ"
+  ],
+  "o_button_blood_type": [
+    "nhóm máu",
+    "nút o (nhóm máu)",
+    "o"
+  ],
+  "ocean": [
+    "đại dương",
+    "nước",
+    "sóng"
+  ],
+  "octopus": [
+    "bạch tuộc"
+  ],
+  "oden": [
+    "hải sản",
+    "kẹp",
+    "món oden",
+    "que",
+    "xiên"
+  ],
+  "office_building": [
+    "tòa nhà",
+    "tòa nhà văn phòng"
+  ],
+  "office_worker": [
+    "kiến trúc sư",
+    "kinh doanh",
+    "người quản lý",
+    "nhân viên văn phòng",
+    "ông việc văn phòng"
+  ],
+  "ogre": [
+    "mặt",
+    "mặt quỷ",
+    "quái vật",
+    "quỷ ăn thịt người",
+    "sinh vật",
+    "truyện cổ tích",
+    "tưởng tượng"
+  ],
+  "oil_drum": [
+    "dầu",
+    "thùng"
+  ],
+  "ok_button": [
+    "nút ok",
+    "ok"
+  ],
+  "ok_hand": [
+    "bàn tay làm dấu ok",
+    "ok",
+    "tay"
+  ],
+  "old_key": [
+    "chìa khóa",
+    "chìa khóa cũ",
+    "cũ",
+    "đầu mối",
+    "khóa"
+  ],
+  "old_man": [
+    "cụ ông",
+    "đàn ông",
+    "già",
+    "người lớn"
+  ],
+  "old_woman": [
+    "cụ bà",
+    "già",
+    "người lớn",
+    "phụ nữ"
+  ],
+  "older_person": [
+    "già",
+    "giới tính không xác định",
+    "giới tính trung lập",
+    "người lớn tuổi"
+  ],
+  "olive": [
+    "ôliu",
+    "thức ăn"
+  ],
+  "om": [
+    "hindu",
+    "tôn giáo"
+  ],
+  "oman": [
+    "cờ"
+  ],
+  "on_arrow": [
+    "dấu",
+    "mũi tên",
+    "mũi tên on!",
+    "on"
+  ],
+  "oncoming_automobile": [
+    "đang tới",
+    "ô tô",
+    "ô tô đang tới",
+    "xe hơi"
+  ],
+  "oncoming_bus": [
+    "đang tới",
+    "xe buýt",
+    "xe buýt đang tới"
+  ],
+  "oncoming_fist": [
+    "cú đấm",
+    "nắm đấm",
+    "nắm tay",
+    "siết chặt",
+    "tay"
+  ],
+  "oncoming_police_car": [
+    "cảnh sát",
+    "đang tới",
+    "xe cảnh sát đang tới",
+    "xe hơi"
+  ],
+  "oncoming_taxi": [
+    "taxi đang tới",
+    "xe cộ"
+  ],
+  "one": [
+    "mũ phím"
+  ],
+  "one_o_clock": [
+    "00",
+    "1",
+    "1:00",
+    "đồng hồ",
+    "giờ",
+    "một"
+  ],
+  "one_piece_swimsuit": [
+    "áo tắm một mảnh",
+    "bộ áo tắm"
+  ],
+  "one_thirty": [
+    "1",
+    "1:30",
+    "ba mươi",
+    "đồng hồ",
+    "một",
+    "một giờ ba mươi phút"
+  ],
+  "onion": [
+    "gia vị",
+    "hành"
+  ],
+  "open_book": [
+    "mở",
+    "sách",
+    "sách đang mở"
+  ],
+  "open_file_folder": [
+    "mở",
+    "tệp",
+    "thư mục",
+    "thư mục tệp mở"
+  ],
+  "open_hands": [
+    "hai bàn tay đang xòe",
+    "mở ra",
+    "tay"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "hòm thư",
+    "hộp thư",
+    "hộp thư được mở với lá cờ nằm ngang",
+    "mở",
+    "nằm ngang",
+    "thư"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "hòm thư",
+    "hộp thư",
+    "hộp thư được mở với lá cờ đứng",
+    "mở",
+    "thư"
+  ],
+  "open_mouth": [
+    "mặt",
+    "mặt có miệng há",
+    "miệng",
+    "mở",
+    "thông cảm"
+  ],
+  "ophiuchus": [
+    "con rắn",
+    "cung hoàng đạo",
+    "người mang",
+    "rắn",
+    "xà phu"
+  ],
+  "optical_disk": [
+    "cd",
+    "đĩa",
+    "máy tính",
+    "quang"
+  ],
+  "orange_book": [
+    "màu cam",
+    "sách",
+    "sách màu cam"
+  ],
+  "orange_circle": [
+    "da cam",
+    "hình tròn",
+    "hình tròn màu cam",
+    "màu cam",
+    "vòng tròn"
+  ],
+  "orange_heart": [
+    "màu cam",
+    "trái tim màu cam"
+  ],
+  "orange_square": [
+    "da cam",
+    "hình vuông",
+    "hình vuông màu cam",
+    "màu cam",
+    "ô vuông"
+  ],
+  "orangutan": [
+    "đười ươi",
+    "vượn người"
+  ],
+  "orthodox_cross": [
+    "cơ đốc",
+    "thập giá",
+    "thập giá chính thống giáo",
+    "tôn giáo"
+  ],
+  "otter": [
+    "bắt cá",
+    "nghịch ngợm",
+    "rái cá"
+  ],
+  "outbox_tray": [
+    "đã gửi",
+    "hộp",
+    "hộp thư đi",
+    "khay",
+    "khay thư đi",
+    "thư"
+  ],
+  "owl": [
+    "chim",
+    "cú",
+    "khôn ngoan"
+  ],
+  "ox": [
+    "bò đực",
+    "cung hoàng đạo",
+    "cung kim ngưu"
+  ],
+  "oyster": [
+    "hàu",
+    "lặn",
+    "ngọc trai"
+  ],
+  "p_button": [
+    "đỗ xe",
+    "nút p"
+  ],
+  "package": [
+    "bưu kiện",
+    "gói",
+    "hộp"
+  ],
+  "page_facing_up": [
+    "tài liệu",
+    "trang",
+    "trang hướng lên trên"
+  ],
+  "page_with_curl": [
+    "quăn",
+    "tài liệu",
+    "trang",
+    "trang bị quăn"
+  ],
+  "pager": [
+    "máy nhắn tin"
+  ],
+  "paintbrush": [
+    "cọ vẽ tranh",
+    "tranh vẽ"
+  ],
+  "pakistan": [
+    "cờ"
+  ],
+  "palau": [
+    "cờ"
+  ],
+  "palestinian_territories": [
+    "cờ"
+  ],
+  "palm_tree": [
+    "cây",
+    "cây cọ"
+  ],
+  "palms_up_together": [
+    "hai bàn tay chạm vào nhau",
+    "lời cầu nguyện"
+  ],
+  "panama": [
+    "cờ"
+  ],
+  "pancakes": [
+    "bánh kếp",
+    "thức ăn"
+  ],
+  "panda": [
+    "gấu trúc",
+    "mặt",
+    "mặt gấu trúc"
+  ],
+  "paperclip": [
+    "kẹp giấy"
+  ],
+  "papua_new_guinea": [
+    "cờ"
+  ],
+  "parachute": [
+    "dù",
+    "dù kéo",
+    "lượn",
+    "nhảy dù"
+  ],
+  "paraguay": [
+    "cờ"
+  ],
+  "parrot": [
+    "chim",
+    "con vẹt",
+    "cướp biển",
+    "nói chuyện",
+    "vẹt"
+  ],
+  "part_alternation_mark": [
+    "ký hiệu",
+    "ký hiệu thay đổi luân phiên",
+    "thay đổi luân phiên"
+  ],
+  "partying_face": [
+    "buổi tiệc",
+    "lễ kỷ niệm",
+    "mặt tiệc tùng",
+    "mũ",
+    "sừng"
+  ],
+  "passenger_ship": [
+    "hành khách",
+    "tàu chở khách",
+    "tàu thủy"
+  ],
+  "passport_control": [
+    "hộ chiếu",
+    "kiểm soát",
+    "kiểm soát hộ chiếu"
+  ],
+  "pause_button": [
+    "dọc",
+    "kép",
+    "nút tạm dừng",
+    "tạm dừng",
+    "thanh"
+  ],
+  "paw_prints": [
+    "bàn chân",
+    "chân",
+    "dấu",
+    "dấu chân móng vuốt"
+  ],
+  "peace_symbol": [
+    "biểu tượng hòa bình",
+    "hòa bình"
+  ],
+  "peach": [
+    "đào",
+    "hoa quả"
+  ],
+  "peacock": [
+    "chim",
+    "con công",
+    "công mái",
+    "phô trương",
+    "tự hào"
+  ],
+  "peanuts": [
+    "đậu phộng",
+    "quả hạch",
+    "rau củ",
+    "thức ăn"
+  ],
+  "pear": [
+    "hoa quả",
+    "lê"
+  ],
+  "pen": [
+    "bút",
+    "bút bi"
+  ],
+  "pencil": [
+    "bút chì"
+  ],
+  "penguin": [
+    "chim",
+    "chim cánh cụt"
+  ],
+  "pensive_face": [
+    "mặt",
+    "mặt trầm ngâm",
+    "thất vọng",
+    "trầm ngâm"
+  ],
+  "people_holding_hands": [
+    "cặp đôi",
+    "giữ",
+    "hai người nắm tay",
+    "nắm tay",
+    "người",
+    "người nắm tay",
+    "tay"
+  ],
+  "people_hugging": [
+    "cảm ơn",
+    "hai người ôm nhau",
+    "ôm",
+    "tạm biệt",
+    "xin chào"
+  ],
+  "people_with_bunny_ears": [
+    "những người đeo tai thỏ",
+    "tai thỏ",
+    "tiệc tùng",
+    "vũ công"
+  ],
+  "people_wrestling": [
+    "đô vật",
+    "người chơi vật",
+    "vật"
+  ],
+  "performing_arts": [
+    "biểu diễn",
+    "mặt nạ",
+    "nghệ thuật",
+    "nghệ thuật biểu diễn",
+    "nhà hát"
+  ],
+  "persevering_face": [
+    "kiên nhẫn",
+    "mặt",
+    "mặt kiên nhẫn"
+  ],
+  "person": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "người",
+    "người lớn"
+  ],
+  "person_bald": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "hói",
+    "người",
+    "người lớn"
+  ],
+  "person_beard": [
+    "người",
+    "người đàn ông có râu",
+    "râu"
+  ],
+  "person_biking": [
+    "đạp xe",
+    "người đạp xe",
+    "người đi xe đạp",
+    "xe đạp"
+  ],
+  "person_blond_hair": [
+    "người tóc vàng hoe",
+    "người: tóc vàng hoe",
+    "tóc vàng hoe"
+  ],
+  "person_bouncing_ball": [
+    "người chơi bóng",
+    "quả bóng"
+  ],
+  "person_bowing": [
+    "cử chỉ",
+    "cúi người",
+    "lấy làm tiếc",
+    "lời xin lỗi",
+    "người đang cúi đầu"
+  ],
+  "person_cartwheeling": [
+    "người nhào lộn",
+    "nhào lộn",
+    "thể dục"
+  ],
+  "person_climbing": [
+    "người đang leo núi",
+    "người leo trèo"
+  ],
+  "person_curly_hair": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "người",
+    "người lớn",
+    "tóc xoăn"
+  ],
+  "person_facepalming": [
+    "hoài nghi",
+    "lòng bàn tay",
+    "mặt",
+    "người lấy tay che mặt",
+    "tức giận"
+  ],
+  "person_feeding_baby": [
+    "cho bú",
+    "cho con bú",
+    "em bé",
+    "người",
+    "người cho con bú",
+    "người cho em bé bú"
+  ],
+  "person_fencing": [
+    "đấu kiếm",
+    "kiếm",
+    "người đánh kiếm",
+    "người đấu kiếm"
+  ],
+  "person_frowning": [
+    "cau mày",
+    "cử chỉ",
+    "người đang cau mày"
+  ],
+  "person_gesturing_no": [
+    "cấm",
+    "cử chỉ",
+    "không cho phép",
+    "người ra hiệu phản đối",
+    "tay"
+  ],
+  "person_gesturing_ok": [
+    "cử chỉ",
+    "người ra hiệu đồng ý",
+    "ok",
+    "tay"
+  ],
+  "person_getting_haircut": [
+    "cắt tóc",
+    "người được cắt tóc",
+    "thợ cắt tóc",
+    "tiệm",
+    "vẻ đẹp"
+  ],
+  "person_getting_massage": [
+    "mặt",
+    "người được xoa bóp mặt",
+    "thẩm mĩ viện",
+    "xoa bóp"
+  ],
+  "person_golfing": [
+    "gôn",
+    "người chơi gôn",
+    "quả bóng"
+  ],
+  "person_in_bed": [
+    "khách sạn",
+    "ngủ",
+    "người trên giường"
+  ],
+  "person_in_lotus_position": [
+    "người ngồi kiết già",
+    "thiền",
+    "yoga"
+  ],
+  "person_in_manual_wheelchair": [
+    "khả năng tiếp cận",
+    "người trên xe lăn tay",
+    "xe lăn"
+  ],
+  "person_in_motorized_wheelchair": [
+    "khả năng tiếp cận",
+    "người trên xe lăn điện",
+    "xe lăn"
+  ],
+  "person_in_steamy_room": [
+    "người ở trong phòng xông hơi",
+    "nhà tắm hơi",
+    "phòng xông hơi"
+  ],
+  "person_in_suit_levitating": [
+    "bộ đồ",
+    "đàn ông",
+    "kinh doanh",
+    "người đàn ông mặc vest đang bay lên"
+  ],
+  "person_in_tuxedo": [
+    "bộ vest",
+    "chú rể",
+    "người đàn ông",
+    "người đàn ông mặc bộ vest"
+  ],
+  "person_juggling": [
+    "cân bằng",
+    "đa nhiệm",
+    "kỹ năng",
+    "người tung hứng",
+    "tung hứng"
+  ],
+  "person_kneeling": [
+    "đang quỳ",
+    "người quỳ",
+    "quỳ",
+    "quỳ gối"
+  ],
+  "person_lifting_weights": [
+    "người cử tạ",
+    "người nâng",
+    "trọng lượng"
+  ],
+  "person_mountain_biking": [
+    "người đạp xe",
+    "người đi xe đạp",
+    "người đi xe đạp leo núi",
+    "núi",
+    "xe đạp"
+  ],
+  "person_playing_handball": [
+    "bóng",
+    "bóng ném",
+    "người chơi bóng ném"
+  ],
+  "person_playing_water_polo": [
+    "bóng",
+    "người chơi bóng nước",
+    "nước"
+  ],
+  "person_pouting": [
+    "bĩu môi",
+    "cử chỉ",
+    "người đang bĩu môi"
+  ],
+  "person_raising_hand": [
+    "cử chỉ",
+    "nâng lên",
+    "người giơ cao tay",
+    "người vui vẻ giơ cao tay",
+    "tay",
+    "vui vẻ"
+  ],
+  "person_red_hair": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "người",
+    "người lớn",
+    "tóc đỏ"
+  ],
+  "person_rowing_boat": [
+    "người chèo thuyền",
+    "thuyền",
+    "thuyền có mái chèo"
+  ],
+  "person_running": [
+    "chạy bộ",
+    "chạy đua maratông",
+    "người chạy"
+  ],
+  "person_shrugging": [
+    "hững hờ",
+    "nghi ngờ",
+    "người nhún vai",
+    "nhún vai",
+    "thờ ơ"
+  ],
+  "person_standing": [
+    "đang đứng",
+    "đứng",
+    "người đứng"
+  ],
+  "person_surfing": [
+    "lướt sóng",
+    "người lướt sóng"
+  ],
+  "person_swimming": [
+    "bơi",
+    "người bơi"
+  ],
+  "person_taking_bath": [
+    "bồn tắm",
+    "người đang tắm bồn",
+    "tắm"
+  ],
+  "person_tipping_hand": [
+    "giúp",
+    "mách nước",
+    "người ra hiệu trợ giúp",
+    "tay",
+    "thông tin",
+    "tươi tắn"
+  ],
+  "person_walking": [
+    "đang đi bộ",
+    "đi bộ",
+    "đi lang thang",
+    "người đi bộ"
+  ],
+  "person_wearing_turban": [
+    "khăn xếp",
+    "người đội khăn xếp"
+  ],
+  "person_white_hair": [
+    "giới tính chung",
+    "giới tính không xác định",
+    "người",
+    "người lớn",
+    "tóc trắng"
+  ],
+  "person_with_skullcap": [
+    "đàn ông",
+    "mũ",
+    "mũ khang hy",
+    "người đàn ông đội mũ trung quốc"
+  ],
+  "person_with_veil": [
+    "cô dâu",
+    "cô dâu với khăn voan",
+    "cưới",
+    "mạng che mặt"
+  ],
+  "person_with_white_cane": [
+    "khả năng tiếp cận",
+    "mù",
+    "người với gậy dò đường"
+  ],
+  "peru": [
+    "cờ"
+  ],
+  "petri_dish": [
+    "đĩa petri",
+    "nhà sinh vật học",
+    "nuôi cấy",
+    "phòng thí nghiệm",
+    "sinh vật học",
+    "vi khuẩn"
+  ],
+  "philippines": [
+    "cờ"
+  ],
+  "pick": [
+    "búa chim",
+    "dụng cụ",
+    "khai mỏ"
+  ],
+  "pickup_truck": [
+    "nhận hàng",
+    "xe bán tải",
+    "xe tải"
+  ],
+  "pie": [
+    "bánh ngọt",
+    "bánh nướng",
+    "bột nhồi"
+  ],
+  "pig": [
+    "heo nái",
+    "lợn"
+  ],
+  "pig_face": [
+    "lợn",
+    "mặt lợn"
+  ],
+  "pig_nose": [
+    "con heo",
+    "khuôn mặt",
+    "mũi",
+    "mũi lợn"
+  ],
+  "pill": [
+    "bác sĩ",
+    "bệnh",
+    "thuốc",
+    "viên thuốc"
+  ],
+  "pilot": [
+    "máy bay",
+    "phi công"
+  ],
+  "pinched_fingers": [
+    "cử chỉ tay",
+    "khum lại",
+    "mỉa mai",
+    "ngón tay",
+    "ngón tay khum lại",
+    "thẩm vấn"
+  ],
+  "pinching_hand": [
+    "số lượng nhỏ",
+    "tay chụm"
+  ],
+  "pine_decoration": [
+    "cây thông",
+    "cây tre",
+    "kiểu nhật bản",
+    "lễ kỷ niệm",
+    "trang trí cây thông"
+  ],
+  "pineapple": [
+    "dứa",
+    "hoa quả"
+  ],
+  "ping_pong": [
+    "bóng bàn",
+    "gậy",
+    "quả bóng",
+    "trò chơi",
+    "vợt đánh bóng"
+  ],
+  "pirate_flag": [
+    "cờ cướp biển",
+    "cướp biển",
+    "cướp bóc",
+    "hải tặc",
+    "jolly roger",
+    "kho báu"
+  ],
+  "pisces": [
+    "con cá",
+    "cung hoàng đạo",
+    "song ngư"
+  ],
+  "pitcairn_islands": [
+    "cờ"
+  ],
+  "pizza": [
+    "bánh pizza",
+    "lát",
+    "phô mai"
+  ],
+  "piñata": [
+    "buổi tiệc",
+    "lễ kỷ niệm"
+  ],
+  "placard": [
+    "bảng hiệu",
+    "biển hiệu",
+    "cọc",
+    "phản đối",
+    "thể hiện"
+  ],
+  "place_of_worship": [
+    "nơi thờ phụng",
+    "tôn giáo",
+    "tôn sùng"
+  ],
+  "play_button": [
+    "bên phải",
+    "mũi tên",
+    "nút phát",
+    "phát",
+    "tam giác"
+  ],
+  "play_or_pause_button": [
+    "bên phải",
+    "mũi tên",
+    "nút phát hoặc tạm dừng",
+    "phát",
+    "tạm dừng",
+    "tam giác"
+  ],
+  "pleading_face": [
+    "lòng thương",
+    "mặt cầu xin",
+    "mắt cún con",
+    "xin xỏ"
+  ],
+  "plunger": [
+    "dụng cụ thông tắc",
+    "hút",
+    "lực cốc",
+    "nhà vệ sinh",
+    "thợ sửa ống nước"
+  ],
+  "plus": [
+    "cộng",
+    "dấu",
+    "toán"
+  ],
+  "poland": [
+    "cờ"
+  ],
+  "polar_bear": [
+    "bắc cực",
+    "gấu",
+    "gấu trắng bắc cực",
+    "trắng"
+  ],
+  "police_car": [
+    "cảnh sát",
+    "tuần tra",
+    "xe cảnh sát",
+    "xe hơi"
+  ],
+  "police_car_light": [
+    "ánh sáng",
+    "cảnh sát",
+    "đèn hiệu",
+    "đèn xe cảnh sát",
+    "quay vòng",
+    "xe hơi"
+  ],
+  "police_officer": [
+    "cảnh sát",
+    "công an",
+    "sĩ quan"
+  ],
+  "poodle": [
+    "chó xù",
+    "cún"
+  ],
+  "pool_8_ball": [
+    "8",
+    "bi-a 8 bóng",
+    "bida",
+    "quả bóng",
+    "tám",
+    "trò chơi"
+  ],
+  "poop": [
+    "chất thải",
+    "đống phân",
+    "hài hước",
+    "khuôn mặt",
+    "phân",
+    "quái vật"
+  ],
+  "popcorn": [
+    "bỏng ngô"
+  ],
+  "portugal": [
+    "cờ"
+  ],
+  "post_office": [
+    "bưu điện",
+    "kiểu châu âu"
+  ],
+  "postal_horn": [
+    "bưu chính",
+    "bưu điện",
+    "kèn",
+    "kèn bưu chính"
+  ],
+  "postbox": [
+    "hòm thư",
+    "hộp thư",
+    "thư"
+  ],
+  "pot_of_food": [
+    "hầm",
+    "nồi",
+    "nồi thức ăn"
+  ],
+  "potable_water": [
+    "nước",
+    "uống",
+    "uống được"
+  ],
+  "potato": [
+    "khoai tây",
+    "thức ăn",
+    "thực vật"
+  ],
+  "potted_plant": [
+    "cây trồng trong chậu",
+    "nhà",
+    "nhàm chán",
+    "nuôi dưỡng",
+    "phát triển",
+    "trồng",
+    "vô dụng"
+  ],
+  "poultry_leg": [
+    "chân",
+    "đùi gia cầm",
+    "gà",
+    "gia cầm",
+    "xương"
+  ],
+  "pound_banknote": [
+    "bảng",
+    "hoá đơn",
+    "tiền",
+    "tiền giấy",
+    "tiền giấy bảng",
+    "tiền tệ"
+  ],
+  "pouting_cat": [
+    "hờn dỗi",
+    "mặt",
+    "mặt mèo hờn dỗi",
+    "mèo"
+  ],
+  "prayer_beads": [
+    "hạt",
+    "lời cầu nguyện",
+    "quần áo",
+    "tôn giáo",
+    "tràng hạt",
+    "vòng cổ"
+  ],
+  "pregnant_woman": [
+    "mang thai",
+    "người phụ nữ có thai",
+    "phụ nữ"
+  ],
+  "pretzel": [
+    "bánh quy xoắn",
+    "xoắn"
+  ],
+  "prince": [
+    "hoàng tử"
+  ],
+  "princess": [
+    "công chúa",
+    "truyện cổ tích",
+    "tưởng tượng"
+  ],
+  "printer": [
+    "máy in",
+    "máy tính"
+  ],
+  "prohibited": [
+    "bị cấm",
+    "cấm",
+    "không",
+    "không có",
+    "lối vào"
+  ],
+  "puerto_rico": [
+    "cờ"
+  ],
+  "purple_circle": [
+    "hình tròn",
+    "hình tròn màu tím",
+    "màu tím",
+    "tía",
+    "vòng tròn"
+  ],
+  "purple_heart": [
+    "tím",
+    "trái tim tím"
+  ],
+  "purple_square": [
+    "hình vuông",
+    "hình vuông màu tím",
+    "màu tía",
+    "màu tím",
+    "ô vuông"
+  ],
+  "purse": [
+    "đồng tiền",
+    "quần áo",
+    "ví"
+  ],
+  "pushpin": [
+    "cái ghim",
+    "đinh ghim"
+  ],
+  "puzzle_piece": [
+    "đầu mối",
+    "ghép hình",
+    "ghép vào nhau",
+    "mảnh",
+    "trò ghép hình"
+  ],
+  "qatar": [
+    "cờ"
+  ],
+  "rabbit": [
+    "con thỏ",
+    "thỏ",
+    "thú cưng"
+  ],
+  "rabbit_face": [
+    "con thỏ",
+    "mặt",
+    "thỏ",
+    "thú cưng"
+  ],
+  "raccoon": [
+    "gấu trúc",
+    "tinh nghịch",
+    "tò mò"
+  ],
+  "racing_car": [
+    "đua xe",
+    "xe",
+    "xe đua"
+  ],
+  "radio": [
+    "video"
+  ],
+  "radio_button": [
+    "hình học",
+    "nút",
+    "radio"
+  ],
+  "radioactive": [
+    "ký hiệu",
+    "phóng xạ"
+  ],
+  "railway_car": [
+    "điện",
+    "đường sắt",
+    "tàu điện",
+    "tàu hỏa",
+    "toa tàu",
+    "xe hơi"
+  ],
+  "railway_track": [
+    "đường sắt",
+    "tàu hỏa"
+  ],
+  "rainbow": [
+    "cầu vồng",
+    "mưa"
+  ],
+  "rainbow_flag": [
+    "cầu vồng",
+    "cờ cầu vồng"
+  ],
+  "raised_back_of_hand": [
+    "giơ lên",
+    "mu bàn tay",
+    "mu bàn tay giơ lên"
+  ],
+  "raised_fist": [
+    "cú đấm",
+    "nắm đấm giơ lên",
+    "nắm tay",
+    "siết chặt",
+    "tay"
+  ],
+  "raised_hand": [
+    "bàn tay giơ lên",
+    "tay"
+  ],
+  "raising_hands": [
+    "cử chỉ",
+    "hai bàn tay giơ lên",
+    "hoan hô",
+    "lễ kỷ niệm",
+    "nâng lên",
+    "tay"
+  ],
+  "ram": [
+    "cung bạch dương",
+    "cung hoàng đạo",
+    "cừu",
+    "cừu đực"
+  ],
+  "rat": [
+    "chuột cống"
+  ],
+  "razor": [
+    "cạo râu",
+    "dao cạo",
+    "sắc"
+  ],
+  "receipt": [
+    "biên nhận",
+    "chứng từ",
+    "ghi sổ sách",
+    "giấy tờ chứng thực",
+    "kế toán"
+  ],
+  "record_button": [
+    "ghi lại",
+    "hình tròn",
+    "nút ghi"
+  ],
+  "recycling_symbol": [
+    "biểu tượng tái chế",
+    "tái chế"
+  ],
+  "red_apple": [
+    "đỏ",
+    "hoa quả",
+    "táo"
+  ],
+  "red_circle": [
+    "đỏ",
+    "hình học",
+    "hình tròn",
+    "hình tròn màu đỏ"
+  ],
+  "red_envelope": [
+    "bao lì xì",
+    "chúc may mắn",
+    "hồng bao",
+    "lì xì",
+    "quà tặng",
+    "tiền"
+  ],
+  "red_exclamation_mark": [
+    "cảm thán",
+    "chấm",
+    "dấu",
+    "dấu chấm than"
+  ],
+  "red_paper_lantern": [
+    "đèn",
+    "đèn lồng",
+    "đèn lồng giấy màu đỏ",
+    "đỏ",
+    "quán bar"
+  ],
+  "red_question_mark": [
+    "chấm câu",
+    "dấu",
+    "dấu chấm hỏi",
+    "hỏi"
+  ],
+  "red_square": [
+    "hình vuông",
+    "hình vuông màu đỏ",
+    "màu đỏ",
+    "ô vuông"
+  ],
+  "red_triangle_pointed_down": [
+    "đỏ",
+    "hình học",
+    "tam giác màu đỏ trỏ xuống dưới",
+    "xuống"
+  ],
+  "red_triangle_pointed_up": [
+    "hình học",
+    "màu đỏ",
+    "tam giác màu đỏ trỏ lên trên"
+  ],
+  "registered": [
+    "đã đăng ký"
+  ],
+  "relieved_face": [
+    "mặt",
+    "mặt nhẹ nhõm",
+    "nhẹ nhõm"
+  ],
+  "reminder_ribbon": [
+    "lễ kỷ niệm",
+    "lời nhắc",
+    "ruy băng",
+    "ruy băng nhắc nhở"
+  ],
+  "repeat_button": [
+    "chiều kim đồng hồ",
+    "lặp lại",
+    "mũi tên",
+    "nút lặp lại"
+  ],
+  "repeat_single_button": [
+    "chiều kim đồng hồ",
+    "một lần",
+    "mũi tên",
+    "nút lặp lại một lần"
+  ],
+  "rescue_worker_s_helmet": [
+    "cái mũ",
+    "chữ thập",
+    "cứu",
+    "khuôn mặt",
+    "mũ bảo hiểm của lính cứu hộ",
+    "nón bảo hộ"
+  ],
+  "restroom": [
+    "nhà vệ sinh",
+    "phòng vệ sinh",
+    "wc"
+  ],
+  "reunion": [
+    "cờ"
+  ],
+  "reverse_button": [
+    "mũi tên",
+    "nút tua lại",
+    "tam giác",
+    "trái",
+    "tua lại"
+  ],
+  "revolving_hearts": [
+    "đang quay",
+    "trái tim xoay vòng"
+  ],
+  "rhinoceros": [
+    "tê giác"
+  ],
+  "ribbon": [
+    "lễ kỷ niệm",
+    "ruy băng"
+  ],
+  "rice_ball": [
+    "cơm",
+    "cơm nắm",
+    "nhật bản"
+  ],
+  "rice_cracker": [
+    "bánh gạo",
+    "bánh quy giòn",
+    "gạo"
+  ],
+  "right_anger_bubble": [
+    "bong bóng",
+    "bong bóng góc phải",
+    "điên",
+    "khí cầu",
+    "tức giận"
+  ],
+  "right_arrow": [
+    "chính",
+    "đông",
+    "hướng",
+    "mũi tên",
+    "mũi tên phải"
+  ],
+  "right_arrow_curving_down": [
+    "mũi tên",
+    "mũi tên phải cong xuống",
+    "xuống"
+  ],
+  "right_arrow_curving_left": [
+    "mũi tên",
+    "mũi tên phải cong sang trái"
+  ],
+  "right_arrow_curving_up": [
+    "mũi tên",
+    "mũi tên phải cong lên"
+  ],
+  "right_facing_fist": [
+    "hướng phải",
+    "nắm đấm",
+    "nắm đấm hướng sang phải"
+  ],
+  "ring": [
+    "kim cương",
+    "nhẫn"
+  ],
+  "ringed_planet": [
+    "hành tính có vành đai bao quanh",
+    "sao thổ",
+    "thần nông",
+    "thổ tinh"
+  ],
+  "roasted_sweet_potato": [
+    "khoai",
+    "khoai lang nướng",
+    "ngọt",
+    "nướng"
+  ],
+  "robot": [
+    "mặt",
+    "quỷ",
+    "rô-bốt"
+  ],
+  "rock": [
+    "đá",
+    "hòn đá",
+    "nặng",
+    "rắn",
+    "tảng đá"
+  ],
+  "rocket": [
+    "tên lửa",
+    "vũ trụ"
+  ],
+  "rofl": [
+    "cười",
+    "lăn",
+    "mặt",
+    "mặt cười lăn cười bò",
+    "sàn"
+  ],
+  "roll_eyes": [
+    "đu đưa",
+    "mắt",
+    "mặt",
+    "mặt có mắt đu đưa"
+  ],
+  "roll_of_paper": [
+    "cuộn giấy",
+    "giấy toilet",
+    "giấy vệ sinh"
+  ],
+  "rolled_up_newspaper": [
+    "báo",
+    "cuộn",
+    "tạp chí",
+    "tờ báo được cuộn tròn"
+  ],
+  "roller_coaster": [
+    "con lăn",
+    "công viên giải trí",
+    "tàu lao dốc",
+    "tàu lượn siêu tốc"
+  ],
+  "roller_skate": [
+    "con lăn",
+    "giày trượt",
+    "giày trượt patin"
+  ],
+  "romania": [
+    "cờ"
+  ],
+  "rooster": [
+    "chim",
+    "gà trống"
+  ],
+  "rose": [
+    "hoa",
+    "hoa hồng"
+  ],
+  "rosette": [
+    "nơ hoa hồng",
+    "thực vật"
+  ],
+  "round_pushpin": [
+    "đinh ghim",
+    "đinh ghim hình tròn",
+    "ghim"
+  ],
+  "rugby_football": [
+    "bóng bầu dục",
+    "bóng đá",
+    "quả bóng"
+  ],
+  "running_shirt": [
+    "áo chạy bộ",
+    "áo sơ mi",
+    "chạy bộ",
+    "khăn quàng vai"
+  ],
+  "running_shoe": [
+    "giày",
+    "giày chạy",
+    "giày chạy bộ",
+    "giày đế mềm",
+    "quần áo",
+    "thể thao"
+  ],
+  "russia": [
+    "cờ"
+  ],
+  "rwanda": [
+    "cờ"
+  ],
+  "sad_but_relieved_face": [
+    "mặt",
+    "mặt thất vọng nhưng nhẹ nhõm",
+    "ngạc nhiên",
+    "nhẹ nhõm",
+    "thất vọng"
+  ],
+  "safety_pin": [
+    "chất thải",
+    "ghim băng",
+    "tã"
+  ],
+  "safety_vest": [
+    "an toàn",
+    "áo",
+    "áo bảo hộ",
+    "khẩn cấp"
+  ],
+  "sagittarius": [
+    "cung hoàng đạo",
+    "người bắn cung",
+    "nhân mã"
+  ],
+  "sailboat": [
+    "biển",
+    "du thuyền",
+    "khu nghỉ dưỡng",
+    "thuyền",
+    "thuyền buồm"
+  ],
+  "sake": [
+    "chai",
+    "cốc",
+    "đồ uống",
+    "quán ba",
+    "rượu sake",
+    "uống"
+  ],
+  "salt": [
+    "bình lắc",
+    "gia vị",
+    "muối"
+  ],
+  "samoa": [
+    "cờ"
+  ],
+  "san_marino": [
+    "cờ"
+  ],
+  "sandwich": [
+    "bánh mỳ",
+    "bánh mỳ kẹp"
+  ],
+  "santa_claus": [
+    "cha",
+    "claus",
+    "giáng sinh",
+    "lễ kỷ niệm",
+    "ông già noel",
+    "ông già noen",
+    "santa"
+  ],
+  "sao_tome_principe": [
+    "cờ"
+  ],
+  "sari": [
+    "đầm",
+    "quần áo",
+    "trang phục",
+    "váy",
+    "xari"
+  ],
+  "satellite": [
+    "vệ tinh",
+    "vũ trụ"
+  ],
+  "satellite_antenna": [
+    "ăng-ten",
+    "ăng-ten vệ tinh",
+    "đĩa",
+    "vệ tinh"
+  ],
+  "saudi_arabia": [
+    "cờ"
+  ],
+  "sauropod": [
+    "khủng long chân thằn lằn",
+    "khủng long to ăn cây cối",
+    "thằn lằn hai óc",
+    "uyển long"
+  ],
+  "saxophone": [
+    "kèn saxophone",
+    "nhạc",
+    "nhạc cụ"
+  ],
+  "scarf": [
+    "cổ",
+    "khăn quàng"
+  ],
+  "school": [
+    "tòa nhà",
+    "trường học"
+  ],
+  "scientist": [
+    "kỹ sư",
+    "nhà hóa học",
+    "nhà khoa học",
+    "nhà sinh vật học",
+    "nhà vật lý"
+  ],
+  "scissors": [
+    "cắt",
+    "dụng cụ",
+    "kéo"
+  ],
+  "scorpio": [
+    "bọ cạp",
+    "cung bọ cạp",
+    "cung hoàng đạo"
+  ],
+  "scorpion": [
+    "bọ cạp",
+    "cung bọ cạp",
+    "cung hoàng đạo"
+  ],
+  "scotland": [
+    "cờ"
+  ],
+  "scream": [
+    "kinh sợ",
+    "la hét",
+    "mặt",
+    "mặt la hét kinh hãi",
+    "sợ",
+    "sợ hãi"
+  ],
+  "screwdriver": [
+    "bắt vít",
+    "dụng cụ",
+    "tua vít"
+  ],
+  "scroll": [
+    "cuộn giấy",
+    "cuộn sách",
+    "giấy"
+  ],
+  "seal": [
+    "chó biển",
+    "sư tử biển"
+  ],
+  "seat": [
+    "cái ghế"
+  ],
+  "see_no_evil_monkey": [
+    "cấm",
+    "điều xấu",
+    "khỉ",
+    "khỉ không nhìn điều xấu",
+    "mặt",
+    "nhìn"
+  ],
+  "seedling": [
+    "cây non",
+    "non"
+  ],
+  "selfie": [
+    "điện thoại",
+    "máy ảnh",
+    "tự sướng"
+  ],
+  "senegal": [
+    "cờ"
+  ],
+  "serbia": [
+    "cờ"
+  ],
+  "service_dog": [
+    "chó",
+    "chó hỗ trợ",
+    "dịch vụ",
+    "hỗ trợ",
+    "hỗ trợ tiếp cận",
+    "trợ giúp"
+  ],
+  "seven": [
+    "mũ phím"
+  ],
+  "seven_o_clock": [
+    "7",
+    "7:00",
+    "bảy",
+    "đồng hồ",
+    "giờ"
+  ],
+  "seven_thirty": [
+    "7",
+    "7:30",
+    "ba mươi",
+    "bảy",
+    "bảy giờ ba mươi phút",
+    "đồng hồ"
+  ],
+  "sewing_needle": [
+    "chỉ khâu",
+    "khâu",
+    "kim",
+    "may",
+    "may đo",
+    "thêu"
+  ],
+  "seychelles": [
+    "cờ"
+  ],
+  "shallow_pan_of_food": [
+    "chảo",
+    "chảo thức ăn nông",
+    "nồi đất",
+    "nông",
+    "paella",
+    "thức ăn"
+  ],
+  "shamrock": [
+    "cỏ ba lá",
+    "thực vật"
+  ],
+  "shark": [
+    "cá",
+    "cá mập"
+  ],
+  "shaved_ice": [
+    "bào",
+    "đá bào",
+    "kem",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "sheaf_of_rice": [
+    "bó lúa",
+    "bông lúa",
+    "gạo",
+    "thực vật"
+  ],
+  "shield": [
+    "cái khiên",
+    "vũ khí"
+  ],
+  "shinto_shrine": [
+    "đền thờ",
+    "đền thờ nhật bản",
+    "tôn giáo"
+  ],
+  "ship": [
+    "hành khách",
+    "tàu thủy",
+    "thuyền"
+  ],
+  "shooting_star": [
+    "ngôi sao",
+    "phóng",
+    "rơi",
+    "sao băng"
+  ],
+  "shopping_bags": [
+    "khách sạn",
+    "mua sắm",
+    "túi",
+    "túi mua sắm"
+  ],
+  "shopping_cart": [
+    "mua hàng",
+    "xe đẩy",
+    "xe mua hàng"
+  ],
+  "shortcake": [
+    "bánh",
+    "miếng",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "shorts": [
+    "bộ đồ tắm",
+    "quần dài",
+    "quần lót",
+    "quần soóc"
+  ],
+  "shower": [
+    "nước",
+    "vòi hoa sen"
+  ],
+  "shrimp": [
+    "nhỏ",
+    "thức ăn",
+    "tôm",
+    "tôm cua"
+  ],
+  "shuffle_tracks_button": [
+    "bắt chéo",
+    "mũi tên",
+    "nút xáo trộn bài"
+  ],
+  "shushing_face": [
+    "im lặng",
+    "mặt ra dấu suỵt",
+    "suỵt"
+  ],
+  "sierra_leone": [
+    "cờ"
+  ],
+  "sign_of_the_horns": [
+    "ký hiệu cặp sừng",
+    "ngón tay",
+    "sừng",
+    "tay",
+    "tuyệt vời"
+  ],
+  "singapore": [
+    "cờ"
+  ],
+  "singer": [
+    "ca sĩ",
+    "diễn viên",
+    "nghệ sĩ",
+    "ngôi sao",
+    "nhạc rock"
+  ],
+  "sint_maarten": [
+    "cờ"
+  ],
+  "six": [
+    "mũ phím"
+  ],
+  "six_o_clock": [
+    "6",
+    "6:00",
+    "đồng hồ",
+    "giờ",
+    "sáu"
+  ],
+  "six_thirty": [
+    "6",
+    "6:30",
+    "ba mươi",
+    "đồng hồ",
+    "sáu",
+    "sáu giờ ba mươi phút"
+  ],
+  "skateboard": [
+    "ván",
+    "ván trượt"
+  ],
+  "skier": [
+    "người trượt tuyết",
+    "trượt tuyết",
+    "tuyết"
+  ],
+  "skis": [
+    "trượt tuyết",
+    "tuyết",
+    "ván trượt tuyết"
+  ],
+  "skull": [
+    "cái chết",
+    "đầu lâu",
+    "mặt",
+    "quái vật",
+    "truyện cổ tích"
+  ],
+  "skull_and_crossbones": [
+    "cái chết",
+    "đầu lâu",
+    "đầu lâu xương chéo",
+    "mặt",
+    "quái vật",
+    "xương chéo"
+  ],
+  "skunk": [
+    "chồn hôi mỹ",
+    "mùi hôi"
+  ],
+  "sled": [
+    "đi xe trượt tuyết",
+    "xe trượt tuyết"
+  ],
+  "sleeping_face": [
+    "mặt",
+    "mặt đang ngủ",
+    "ngủ",
+    "zzz"
+  ],
+  "sleepy_face": [
+    "buồn ngủ",
+    "mặt",
+    "mặt buồn ngủ"
+  ],
+  "slightly_frowning_face": [
+    "cau mày",
+    "mặt",
+    "mặt hơi cau mày"
+  ],
+  "slightly_smiling_face": [
+    "cười",
+    "mặt",
+    "mặt cười mỉm"
+  ],
+  "slot_machine": [
+    "khe",
+    "máy giật xèng",
+    "trò chơi"
+  ],
+  "sloth": [
+    "chậm",
+    "con lười",
+    "đủng đỉnh",
+    "lười"
+  ],
+  "slovakia": [
+    "cờ"
+  ],
+  "slovenia": [
+    "cờ"
+  ],
+  "small_airplane": [
+    "máy bay",
+    "máy bay nhỏ",
+    "xe cộ"
+  ],
+  "small_blue_diamond": [
+    "hình học",
+    "hình thoi",
+    "hình thoi nhỏ màu lam",
+    "màu lam"
+  ],
+  "small_orange_diamond": [
+    "hình học",
+    "hình thoi",
+    "hình thoi nhỏ màu cam",
+    "màu cam"
+  ],
+  "smiley": [
+    "cười",
+    "mặt",
+    "mặt cười miệng há với mắt to",
+    "mặt cười tươi với hai mắt mở to",
+    "miệng",
+    "mở"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "con mèo",
+    "hình trái tim",
+    "khuôn mặt",
+    "mắt",
+    "mặt mèo cười mắt hình trái tim",
+    "nụ cười",
+    "thân ái"
+  ],
+  "smiling_face": [
+    "cười",
+    "mặt",
+    "thoải mái",
+    "thư giãn"
+  ],
+  "smiling_face_with_horns": [
+    "cười",
+    "mặt",
+    "mặt cười có sừng",
+    "sừng",
+    "truyện cổ tích",
+    "tưởng tượng"
+  ],
+  "smiling_face_with_sunglasses": [
+    "kính",
+    "mặt",
+    "mặt cười đeo kính",
+    "mặt trời",
+    "phong cách",
+    "sáng"
+  ],
+  "smiling_face_with_tear": [
+    "biết ơn",
+    "mặt cười với nước mắt",
+    "mỉm cười",
+    "nhẹ nhõm",
+    "nước mắt",
+    "tự hào",
+    "xúc động"
+  ],
+  "smiling_face_with_three_hearts": [
+    "mặt cười với 3 trái tim",
+    "phải lòng",
+    "yêu",
+    "yêu quý"
+  ],
+  "smirking_face": [
+    "cười khẩy",
+    "mặt",
+    "mặt cười khẩy"
+  ],
+  "snail": [
+    "ốc sên"
+  ],
+  "snake": [
+    "chòm sao xà phu",
+    "cung hoàng đạo",
+    "rắn",
+    "vật mang"
+  ],
+  "sneezing_face": [
+    "hắt hơi",
+    "mặt",
+    "mặt hắt hơi",
+    "sức khỏe"
+  ],
+  "snow_capped_mountain": [
+    "đỉnh núi phủ tuyết",
+    "lạnh",
+    "núi",
+    "tuyết"
+  ],
+  "snowboarder": [
+    "người trượt ván tuyết",
+    "trượt tuyết",
+    "tuyết",
+    "ván trượt tuyết"
+  ],
+  "snowflake": [
+    "bông tuyết",
+    "lạnh",
+    "tuyết"
+  ],
+  "snowman": [
+    "lạnh",
+    "người tuyết",
+    "tuyết"
+  ],
+  "snowman_without_snow": [
+    "lạnh",
+    "người tuyết",
+    "người tuyết không có tuyết",
+    "tuyết"
+  ],
+  "soap": [
+    "bánh",
+    "tắm",
+    "vệ sinh",
+    "xà phòng",
+    "xà phòng bánh",
+    "xát xà phòng"
+  ],
+  "sob": [
+    "buồn",
+    "khóc",
+    "mặt",
+    "mặt khóc to",
+    "nước mắt",
+    "thổn thức"
+  ],
+  "soccer_ball": [
+    "bóng đá",
+    "quả bóng"
+  ],
+  "socks": [
+    "bít tất",
+    "tất",
+    "vớ"
+  ],
+  "soft_ice_cream": [
+    "cái kem",
+    "kem",
+    "mềm",
+    "món tráng miệng",
+    "ngọt"
+  ],
+  "softball": [
+    "bao tay",
+    "bóng",
+    "bóng mềm",
+    "ném bóng dưới vai"
+  ],
+  "solomon_islands": [
+    "cờ"
+  ],
+  "somalia": [
+    "cờ"
+  ],
+  "soon_arrow": [
+    "mũi tên",
+    "mũi tên soon",
+    "soon"
+  ],
+  "sos_button": [
+    "nút sos",
+    "sos",
+    "trợ giúp"
+  ],
+  "south_africa": [
+    "cờ"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "cờ"
+  ],
+  "south_korea": [
+    "cờ"
+  ],
+  "south_sudan": [
+    "cờ"
+  ],
+  "spade_suit": [
+    "bài",
+    "bộ bài bích",
+    "bộ bích",
+    "trò chơi"
+  ],
+  "spaghetti": [
+    "mì ống"
+  ],
+  "spain": [
+    "cờ"
+  ],
+  "sparkle": [
+    "lấp lánh"
+  ],
+  "sparkler": [
+    "chói sáng",
+    "lễ kỷ niệm",
+    "pháo bông",
+    "pháo hoa"
+  ],
+  "sparkles": [
+    "ánh lấp lánh",
+    "lấp lánh",
+    "ngôi sao"
+  ],
+  "sparkling_heart": [
+    "bị kích thích",
+    "lấp lánh",
+    "trái tim lấp lánh"
+  ],
+  "speak_no_evil_monkey": [
+    "cấm",
+    "điều xấu",
+    "khỉ",
+    "khỉ không nói điều xấu",
+    "mặt",
+    "nói"
+  ],
+  "speaker_high_volume": [
+    "âm lượng loa cao",
+    "lớn"
+  ],
+  "speaker_low_volume": [
+    "âm lượng loa thấp",
+    "nhẹ"
+  ],
+  "speaker_medium_volume": [
+    "âm lượng loa trung bình",
+    "trung bình"
+  ],
+  "speaking_head": [
+    "cái đầu",
+    "đang nói",
+    "đầu người đang nói",
+    "hình bóng",
+    "khuôn mặt",
+    "nói"
+  ],
+  "speech_balloon": [
+    "bài diễn văn",
+    "bóng",
+    "bong bóng",
+    "bong bóng lời nói",
+    "hài hước",
+    "thoại"
+  ],
+  "speedboat": [
+    "thuyền",
+    "xuồng cao tốc"
+  ],
+  "spider": [
+    "côn trùng",
+    "nhện"
+  ],
+  "spider_web": [
+    "mạng nhện",
+    "nhện"
+  ],
+  "spiral_calendar": [
+    "gáy xoắn",
+    "lịch",
+    "lịch gáy xoắn"
+  ],
+  "spiral_notepad": [
+    "gáy xoắn",
+    "ghi chú",
+    "sổ",
+    "sổ ghi chú gáy xoắn"
+  ],
+  "spiral_shell": [
+    "vỏ",
+    "vỏ xoắn ốc",
+    "xoắn ốc"
+  ],
+  "sponge": [
+    "bọt biển",
+    "hấp thụ",
+    "hút",
+    "làm sạch",
+    "vệ sinh",
+    "xốp"
+  ],
+  "spoon": [
+    "bộ đồ ăn",
+    "thìa"
+  ],
+  "sport_utility_vehicle": [
+    "giải trí",
+    "tiện ích thể thao",
+    "xe thể thao đa dụng"
+  ],
+  "sports_medal": [
+    "huy chương",
+    "huy chương thể thao"
+  ],
+  "spouting_whale": [
+    "cá voi",
+    "cá voi đang phun nước",
+    "mặt",
+    "phun nước"
+  ],
+  "squid": [
+    "mực ống",
+    "thân mềm",
+    "thức ăn"
+  ],
+  "squinting_face_with_tongue": [
+    "hương vị",
+    "kinh khủng",
+    "lưỡi",
+    "mắt",
+    "mặt",
+    "mặt thè lưỡi mắt nhắm chặt"
+  ],
+  "sri_lanka": [
+    "cờ"
+  ],
+  "st_barthelemy": [
+    "cờ"
+  ],
+  "st_helena": [
+    "cờ"
+  ],
+  "st_kitts_nevis": [
+    "cờ"
+  ],
+  "st_lucia": [
+    "cờ"
+  ],
+  "st_martin": [
+    "cờ"
+  ],
+  "st_pierre_miquelon": [
+    "cờ"
+  ],
+  "st_vincent_grenadines": [
+    "cờ"
+  ],
+  "stadium": [
+    "sân vận động"
+  ],
+  "star": [
+    "ngôi sao"
+  ],
+  "star_and_crescent": [
+    "hồi giáo",
+    "người theo đạo hồi",
+    "sao và trăng lưỡi liềm",
+    "tôn giáo"
+  ],
+  "star_of_david": [
+    "david",
+    "do thái",
+    "ngôi sao",
+    "ngôi sao sáu cánh",
+    "người do thái",
+    "tôn giáo"
+  ],
+  "star_struck": [
+    "cười toét",
+    "mắt",
+    "mặt",
+    "ngôi sao",
+    "ngưỡng mộ"
+  ],
+  "station": [
+    "đường sắt",
+    "ga tàu",
+    "tàu hỏa"
+  ],
+  "statue_of_liberty": [
+    "bức tượng",
+    "tự do",
+    "tượng nữ thần tự do"
+  ],
+  "steaming_bowl": [
+    "bát",
+    "bát mì",
+    "hấp",
+    "mì dẹt",
+    "mì ramen"
+  ],
+  "stethoscope": [
+    "bác sĩ",
+    "ống nghe",
+    "tim",
+    "y tế"
+  ],
+  "stop_button": [
+    "dừng",
+    "hình vuông",
+    "nút dừng"
+  ],
+  "stop_sign": [
+    "bát giác",
+    "dừng",
+    "ký hiệu",
+    "ký hiệu dừng"
+  ],
+  "stopwatch": [
+    "đồng hồ",
+    "đồng hồ bấm giờ"
+  ],
+  "straight_ruler": [
+    "cạnh thẳng",
+    "thước kẻ",
+    "thước thẳng"
+  ],
+  "strawberry": [
+    "dâu tây",
+    "quả mọng",
+    "trái cây"
+  ],
+  "student": [
+    "sinh viên",
+    "tốt nghiệp"
+  ],
+  "studio_microphone": [
+    "micrô",
+    "micrô phòng thu âm",
+    "nhạc",
+    "phòng thu"
+  ],
+  "stuffed_flatbread": [
+    "bánh mì kẹp thịt",
+    "bánh mỳ dẹt",
+    "bánh mỳ gyro",
+    "bánh mỳ kẹp thịt nướng",
+    "nhồi",
+    "viên bột đậu rán"
+  ],
+  "sudan": [
+    "cờ"
+  ],
+  "sun": [
+    "mặt trời",
+    "nắng",
+    "sáng",
+    "tia"
+  ],
+  "sun_behind_cloud": [
+    "mặt trời",
+    "mặt trời sau đám mây",
+    "mây"
+  ],
+  "sun_behind_large_cloud": [
+    "mặt trời",
+    "mặt trời sau đám mây lớn",
+    "mây"
+  ],
+  "sun_behind_rain_cloud": [
+    "mặt trời",
+    "mặt trời sau đám mây mưa",
+    "mây",
+    "mưa"
+  ],
+  "sun_behind_small_cloud": [
+    "mặt trời",
+    "mặt trời sau đám mây nhỏ",
+    "mây"
+  ],
+  "sun_with_face": [
+    "mặt",
+    "mặt trời",
+    "mặt trời có hình mặt người",
+    "sáng"
+  ],
+  "sunflower": [
+    "hoa",
+    "hoa hướng dương",
+    "mặt trời"
+  ],
+  "sunglasses": [
+    "bóng tối",
+    "đeo kính",
+    "kính mắt",
+    "kính râm",
+    "mắt"
+  ],
+  "sunrise": [
+    "bình minh",
+    "buổi sáng",
+    "mặt trời"
+  ],
+  "sunrise_over_mountains": [
+    "bình minh",
+    "bình minh trên núi",
+    "buổi sáng",
+    "mặt trời",
+    "núi"
+  ],
+  "sunset": [
+    "chạng vạng",
+    "hoàng hôn",
+    "mặt trời"
+  ],
+  "superhero": [
+    "anh hùng",
+    "nữ anh hùng",
+    "siêu anh hùng",
+    "siêu năng lực",
+    "tốt"
+  ],
+  "supervillain": [
+    "ác",
+    "nhân vật phản diện",
+    "nhân vật siêu phản diện",
+    "siêu năng lực",
+    "tội phạm"
+  ],
+  "suriname": [
+    "cờ"
+  ],
+  "suspension_railway": [
+    "đường sắt",
+    "đường sắt trên cao",
+    "treo"
+  ],
+  "svalbard_jan_mayen": [
+    "cờ"
+  ],
+  "swan": [
+    "chim",
+    "thiên nga",
+    "thiên nga non",
+    "vịt con xấu xí"
+  ],
+  "sweat_droplets": [
+    "bắn tung tóe",
+    "giọt mồ hôi",
+    "hài hước",
+    "mồ hôi"
+  ],
+  "sweat_smile": [
+    "cười",
+    "lạnh",
+    "mặt",
+    "mặt cười miệng há mồ hôi",
+    "mở",
+    "mồ hôi"
+  ],
+  "sweden": [
+    "cờ"
+  ],
+  "switzerland": [
+    "cờ"
+  ],
+  "synagogue": [
+    "chùa",
+    "do thái",
+    "giáo đường do thái",
+    "người do thái",
+    "tôn giáo"
+  ],
+  "syria": [
+    "cờ"
+  ],
+  "syringe": [
+    "bệnh",
+    "kim",
+    "ống tiêm",
+    "thuốc",
+    "tiêm"
+  ],
+  "t_rex": [
+    "khủng long bạo chúa"
+  ],
+  "t_shirt": [
+    "áo phông",
+    "áo sơ mi",
+    "áo thun",
+    "quần áo"
+  ],
+  "taco": [
+    "bánh mexico",
+    "bánh taco"
+  ],
+  "tada": [
+    "buổi tiệc",
+    "lễ kỷ niệm",
+    "pháo bông sinh nhật",
+    "pháo giấy buổi tiệc"
+  ],
+  "taiwan": [
+    "cờ"
+  ],
+  "tajikistan": [
+    "cờ"
+  ],
+  "takeout_box": [
+    "hộp đựng đồ ăn mang đi",
+    "hộp đựng đồ ăn trung quốc"
+  ],
+  "tamale": [
+    "bánh tamale",
+    "cuốn",
+    "mexico"
+  ],
+  "tanabata_tree": [
+    "biểu ngữ",
+    "cây",
+    "cây tanabata",
+    "kiểu nhật bản",
+    "lễ kỷ niệm"
+  ],
+  "tangerine": [
+    "hoa quả",
+    "quả cam",
+    "quýt"
+  ],
+  "tanzania": [
+    "cờ"
+  ],
+  "taurus": [
+    "bò đực",
+    "cung hoàng đạo",
+    "kim ngưu"
+  ],
+  "taxi": [
+    "xe cộ"
+  ],
+  "teacher": [
+    "giáo sư",
+    "giáo viên",
+    "người hướng dẫn"
+  ],
+  "teacup_without_handle": [
+    "cốc",
+    "đồ uống",
+    "tách trà",
+    "tách trà không có quai",
+    "trà",
+    "uống"
+  ],
+  "teapot": [
+    "ấm trà",
+    "nồi",
+    "trà",
+    "uống"
+  ],
+  "tear_off_calendar": [
+    "lịch",
+    "quyển lịch bloc"
+  ],
+  "technologist": [
+    "kỹ sư công nghệ",
+    "lập trình viên",
+    "người phát minh",
+    "nhà phát triển",
+    "phần mềm"
+  ],
+  "teddy_bear": [
+    "đồ chơi",
+    "gấu bông",
+    "nhồi bông",
+    "vải lông"
+  ],
+  "telephone": [
+    "điện thoại",
+    "điện thoại bàn"
+  ],
+  "telephone_receiver": [
+    "điện thoại",
+    "ống nghe",
+    "ống nghe điện thoại bàn"
+  ],
+  "telescope": [
+    "dụng cụ",
+    "khoa học",
+    "kính viễn vọng"
+  ],
+  "television": [
+    "tivi",
+    "tv",
+    "video"
+  ],
+  "ten": [
+    "mũ phím"
+  ],
+  "ten_o_clock": [
+    "10",
+    "10:00",
+    "đồng hồ",
+    "giờ",
+    "mười"
+  ],
+  "ten_thirty": [
+    "10",
+    "10:30",
+    "ba mươi",
+    "đồng hồ",
+    "mười",
+    "mười giờ ba mươi phút"
+  ],
+  "tennis": [
+    "cái vợt",
+    "quả bóng",
+    "quần vợt"
+  ],
+  "tent": [
+    "cắm trại",
+    "lều"
+  ],
+  "test_tube": [
+    "hóa học",
+    "khoa học",
+    "nhà hóa học",
+    "ống nghiệm",
+    "phòng thí nghiệm",
+    "thí nghiệm"
+  ],
+  "thailand": [
+    "cờ"
+  ],
+  "thermometer": [
+    "nhiệt kế",
+    "thời tiết"
+  ],
+  "thinking": [
+    "đang suy nghĩ",
+    "mặt",
+    "mặt suy nghĩ"
+  ],
+  "thong_sandal": [
+    "dép",
+    "dép đi biển",
+    "dép lê",
+    "dép xỏ ngón",
+    "zōri"
+  ],
+  "thought_balloon": [
+    "bong bóng",
+    "bong bóng suy nghĩ",
+    "hài hước",
+    "khí cầu",
+    "nghĩ"
+  ],
+  "thread": [
+    "kim",
+    "may",
+    "ổng chỉ",
+    "sợi chỉ",
+    "xâu"
+  ],
+  "three": [
+    "mũ phím"
+  ],
+  "three_o_clock": [
+    "00",
+    "3",
+    "3:00",
+    "ba",
+    "đồng hồ",
+    "giờ"
+  ],
+  "three_thirty": [
+    "3",
+    "3:30",
+    "ba",
+    "ba giờ ba mươi phút",
+    "ba mươi",
+    "đồng hồ"
+  ],
+  "ticket": [
+    "vào cửa",
+    "vé"
+  ],
+  "tiger": [
+    "hổ"
+  ],
+  "tiger_face": [
+    "hổ",
+    "mặt"
+  ],
+  "timer_clock": [
+    "đồng hồ",
+    "đồng hồ hẹn giờ"
+  ],
+  "timor_leste": [
+    "cờ"
+  ],
+  "tired_face": [
+    "mặt",
+    "mặt mệt mỏi",
+    "mệt mỏi"
+  ],
+  "togo": [
+    "cờ"
+  ],
+  "toilet": [
+    "bệ xí",
+    "bồn cầu"
+  ],
+  "tokelau": [
+    "cờ"
+  ],
+  "tokyo_tower": [
+    "tháp",
+    "tokyo"
+  ],
+  "tomato": [
+    "cà chua",
+    "rau",
+    "thực vật"
+  ],
+  "tonga": [
+    "cờ"
+  ],
+  "tongue": [
+    "cơ thể",
+    "lưỡi"
+  ],
+  "toolbox": [
+    "dụng cụ",
+    "hòm",
+    "hộp dụng cụ",
+    "thợ máy"
+  ],
+  "tooth": [
+    "nha sĩ",
+    "răng"
+  ],
+  "toothbrush": [
+    "bàn chải",
+    "bàn chải răng",
+    "nha khoa",
+    "phòng tắm",
+    "răng",
+    "sạch sẽ",
+    "vệ sinh"
+  ],
+  "top_arrow": [
+    "lên",
+    "mũi tên",
+    "mũi tên top",
+    "top"
+  ],
+  "top_hat": [
+    "cái mũ",
+    "đầu",
+    "mũ chóp cao",
+    "quần áo"
+  ],
+  "tornado": [
+    "cơn lốc",
+    "lốc xoáy",
+    "mây"
+  ],
+  "trackball": [
+    "bi xoay",
+    "máy tính"
+  ],
+  "tractor": [
+    "máy kéo",
+    "xe cộ"
+  ],
+  "trade_mark": [
+    "dấu",
+    "nhãn hiệu",
+    "tm"
+  ],
+  "train": [
+    "đường sắt",
+    "tàu hỏa"
+  ],
+  "tram": [
+    "ô tô điện",
+    "xe điện"
+  ],
+  "tram_car": [
+    "ô tô điện",
+    "tàu điện",
+    "toa xe",
+    "xe điện"
+  ],
+  "transgender_flag": [
+    "cờ",
+    "cờ màu xanh, hồng và trắng",
+    "người chuyển giới"
+  ],
+  "transgender_symbol": [
+    "biểu tượng chuyển giới",
+    "người chuyển giới"
+  ],
+  "triangular_flag": [
+    "cờ tam giác",
+    "đánh dấu"
+  ],
+  "triangular_ruler": [
+    "bộ",
+    "tam giác",
+    "thước kẻ",
+    "thước tam giác"
+  ],
+  "trident_emblem": [
+    "biểu tượng",
+    "biểu tượng đinh ba",
+    "công cụ",
+    "đinh ba",
+    "neo",
+    "tàu"
+  ],
+  "trinidad_tobago": [
+    "cờ"
+  ],
+  "tristan_da_cunha": [
+    "cờ"
+  ],
+  "trolleybus": [
+    "ô tô điện",
+    "xe buýt",
+    "xe điện",
+    "xe goòng"
+  ],
+  "trophy": [
+    "cúp",
+    "giải thưởng"
+  ],
+  "tropical_drink": [
+    "đồ uống",
+    "đồ uống nhiệt đới",
+    "nhiệt đới",
+    "quán bar"
+  ],
+  "tropical_fish": [
+    "cá",
+    "cá nhiệt đới",
+    "nhiệt đới"
+  ],
+  "trumpet": [
+    "kèn trumpet",
+    "nhạc",
+    "nhạc cụ"
+  ],
+  "tulip": [
+    "hoa",
+    "hoa tulip"
+  ],
+  "tumbler_glass": [
+    "cốc",
+    "cốc vại",
+    "ly đáy phẳng",
+    "ngụm",
+    "rượu",
+    "rượu whisky"
+  ],
+  "tunisia": [
+    "cờ"
+  ],
+  "turkey": [
+    "chim",
+    "gà tây"
+  ],
+  "turkmenistan": [
+    "cờ"
+  ],
+  "turks_caicos_islands": [
+    "cờ"
+  ],
+  "turtle": [
+    "con rùa",
+    "rùa",
+    "rùa nước ngọt"
+  ],
+  "tuvalu": [
+    "cờ"
+  ],
+  "twelve_o_clock": [
+    "00",
+    "12",
+    "12:00",
+    "đồng hồ",
+    "giờ",
+    "mười hai",
+    "mười hai giờ"
+  ],
+  "twelve_thirty": [
+    "12",
+    "12:30",
+    "ba mươi",
+    "đồng hồ",
+    "mười hai",
+    "mười hai giờ ba mươi",
+    "mười hai giờ ba mươi phút"
+  ],
+  "two": [
+    "mũ phím"
+  ],
+  "two_hearts": [
+    "hai trái tim",
+    "yêu"
+  ],
+  "two_hump_camel": [
+    "cái bướu",
+    "con lạc đà",
+    "lạc đà bactrian",
+    "lạc đà hai bướu"
+  ],
+  "two_o_clock": [
+    "00",
+    "2",
+    "2:00",
+    "đồng hồ",
+    "giờ",
+    "hai giờ"
+  ],
+  "two_thirty": [
+    "2",
+    "2:30",
+    "ba mươi",
+    "đồng hồ",
+    "hai",
+    "hai giờ ba mươi phút"
+  ],
+  "türkiye": [
+    "cờ"
+  ],
+  "uganda": [
+    "cờ"
+  ],
+  "ukraine": [
+    "cờ"
+  ],
+  "umbrella": [
+    "cái ô",
+    "mưa",
+    "quần áo"
+  ],
+  "umbrella_on_ground": [
+    "cái ô trên mặt đất",
+    "chiếc ô",
+    "mặt trời",
+    "mưa"
+  ],
+  "umbrella_with_rain_drops": [
+    "cái ô với những giọt nước mưa",
+    "chiếc ô",
+    "mưa",
+    "quần áo",
+    "rơi"
+  ],
+  "unamused_face": [
+    "buồn",
+    "không vui",
+    "mặt"
+  ],
+  "unicorn": [
+    "kỳ lân",
+    "mặt",
+    "mặt kỳ lân"
+  ],
+  "united_arab_emirates": [
+    "cờ"
+  ],
+  "united_kingdom": [
+    "cờ"
+  ],
+  "united_nations": [
+    "cờ"
+  ],
+  "united_states": [
+    "cờ"
+  ],
+  "unlocked": [
+    "khóa",
+    "mở"
+  ],
+  "up_arrow": [
+    "bắc",
+    "chính",
+    "hướng",
+    "mũi tên",
+    "mũi tên lên"
+  ],
+  "up_button": [
+    "dấu",
+    "nút up!",
+    "up"
+  ],
+  "up_down_arrow": [
+    "mũi tên",
+    "mũi tên lên xuống"
+  ],
+  "up_left_arrow": [
+    "hướng",
+    "mũi tên",
+    "mũi tên lên bên trái",
+    "nhiều hướng",
+    "tây bắc"
+  ],
+  "up_right_arrow": [
+    "đông bắc",
+    "hướng",
+    "mũi tên",
+    "mũi tên lên bên phải",
+    "nhiều hướng"
+  ],
+  "upside_down_face": [
+    "lộn ngược",
+    "mặt",
+    "mặt lộn ngược"
+  ],
+  "upwards_button": [
+    "đỏ",
+    "mũi tên",
+    "nút",
+    "nút đi lên"
+  ],
+  "uruguay": [
+    "cờ"
+  ],
+  "us_outlying_islands": [
+    "cờ"
+  ],
+  "us_virgin_islands": [
+    "cờ"
+  ],
+  "uzbekistan": [
+    "cờ"
+  ],
+  "vampire": [
+    "dracula",
+    "ma cà rồng",
+    "xác sống"
+  ],
+  "vanuatu": [
+    "cờ"
+  ],
+  "vatican_city": [
+    "cờ"
+  ],
+  "venezuela": [
+    "cờ"
+  ],
+  "vertical_traffic_light": [
+    "biển báo",
+    "đèn",
+    "đèn giao thông dọc",
+    "giao thông"
+  ],
+  "vibration_mode": [
+    "chế độ",
+    "chế độ rung",
+    "di động",
+    "điện thoại",
+    "điện thoại di động",
+    "rung"
+  ],
+  "victory_hand": [
+    "chiến thắng",
+    "tay",
+    "tay chiến thắng",
+    "v"
+  ],
+  "video_camera": [
+    "máy quay phim",
+    "máy quay video",
+    "video"
+  ],
+  "video_game": [
+    "thiết bị điều khiển",
+    "trò chơi",
+    "trò chơi điện tử"
+  ],
+  "videocassette": [
+    "băng",
+    "vhs",
+    "video"
+  ],
+  "vietnam": [
+    "cờ"
+  ],
+  "violin": [
+    "đàn violin",
+    "nhạc",
+    "nhạc cụ"
+  ],
+  "virgo": [
+    "cung hoàng đạo",
+    "xử nữ"
+  ],
+  "volcano": [
+    "núi",
+    "núi lửa",
+    "phun trào"
+  ],
+  "volleyball": [
+    "bóng chuyền",
+    "quả bóng",
+    "trò chơi"
+  ],
+  "vs_button": [
+    "đấu với",
+    "nút vs",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "ngón tay",
+    "spock",
+    "tay",
+    "tay thần lửa",
+    "thần lửa"
+  ],
+  "waffle": [
+    "bánh quế",
+    "cứng cỏi",
+    "thiếu quyết đoán"
+  ],
+  "wales": [
+    "cờ"
+  ],
+  "wallis_futuna": [
+    "cờ"
+  ],
+  "waning_crescent_moon": [
+    "cuối tháng",
+    "lưỡi liềm",
+    "mặt trăng",
+    "trăng lưỡi liềm cuối tháng"
+  ],
+  "waning_gibbous_moon": [
+    "cuối tháng",
+    "mặt trăng",
+    "trăng khuyết",
+    "trăng khuyết cuối tháng"
+  ],
+  "warning": [
+    "cảnh báo"
+  ],
+  "wastebasket": [
+    "sọt rác"
+  ],
+  "watch": [
+    "đồng hồ",
+    "đồng hồ đeo tay"
+  ],
+  "water_buffalo": [
+    "nước",
+    "trâu nước"
+  ],
+  "water_closet": [
+    "nhà vệ sinh",
+    "nước",
+    "phòng vệ sinh",
+    "wc"
+  ],
+  "water_pistol": [
+    "dụng cụ",
+    "súng",
+    "súng gắn",
+    "súng lục",
+    "súng lục ổ quay",
+    "vũ khí"
+  ],
+  "watermelon": [
+    "dưa hấu",
+    "hoa quả"
+  ],
+  "waving_hand": [
+    "đang vẫy",
+    "tay",
+    "vẫy"
+  ],
+  "wavy_dash": [
+    "dấu",
+    "dấu gạch ngang",
+    "dấu gạch ngang lượn sóng",
+    "lượn sóng"
+  ],
+  "waxing_crescent_moon": [
+    "lưỡi liềm",
+    "mặt trăng",
+    "trăng lưỡi liềm đầu tháng",
+    "tròn dần"
+  ],
+  "waxing_gibbous_moon": [
+    "mặt trăng",
+    "trăng khuyết",
+    "tròn dần"
+  ],
+  "weary_cat": [
+    "mặt",
+    "mặt mèo mệt lử",
+    "mèo",
+    "mệt mỏi",
+    "ngạc nhiên",
+    "ôi"
+  ],
+  "weary_face": [
+    "kiệt sức",
+    "mặt",
+    "mặt kiệt sức",
+    "mệt mỏi"
+  ],
+  "wedding": [
+    "đám cưới",
+    "lãng mạn",
+    "nhà thờ nhỏ"
+  ],
+  "western_sahara": [
+    "cờ"
+  ],
+  "whale": [
+    "cá voi"
+  ],
+  "wheel_of_dharma": [
+    "bánh xe",
+    "pháp",
+    "pháp luân",
+    "phật giáo",
+    "tôn giáo"
+  ],
+  "wheelchair_symbol": [
+    "biểu tượng xe lăn",
+    "lối vào"
+  ],
+  "white_cane": [
+    "gậy dò đường",
+    "hỗ trợ tiếp cận",
+    "khiếm thị",
+    "mù"
+  ],
+  "white_check_mark": [
+    "✓",
+    "chọn",
+    "dấu",
+    "dấu chọn đậm màu trắng",
+    "nút"
+  ],
+  "white_circle": [
+    "hình học",
+    "hình tròn",
+    "hình tròn màu trắng"
+  ],
+  "white_exclamation_mark": [
+    "cảm thán",
+    "chấm",
+    "dấu",
+    "dấu chấm than màu trắng",
+    "mờ"
+  ],
+  "white_flag": [
+    "cờ trắng",
+    "vẫy"
+  ],
+  "white_flower": [
+    "hoa",
+    "hoa trắng"
+  ],
+  "white_heart": [
+    "màu trắng",
+    "trái tim",
+    "trái tim màu trắng"
+  ],
+  "white_large_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông lớn màu trắng"
+  ],
+  "white_medium_small_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông nhỏ vừa màu trắng"
+  ],
+  "white_medium_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông trung bình màu trắng"
+  ],
+  "white_question_mark": [
+    "chấm",
+    "chấm câu",
+    "dấu chấm hỏi màu trắng",
+    "dấu hỏi",
+    "mờ"
+  ],
+  "white_small_square": [
+    "hình học",
+    "hình vuông",
+    "hình vuông nhỏ màu trắng"
+  ],
+  "white_square_button": [
+    "hình học",
+    "hình vuông",
+    "mờ",
+    "nút",
+    "nút hình vuông màu trắng"
+  ],
+  "wilted_flower": [
+    "héo",
+    "hoa"
+  ],
+  "wind_chime": [
+    "chuông",
+    "gió",
+    "kêu vang",
+    "lễ kỷ niệm"
+  ],
+  "wind_face": [
+    "đám mây",
+    "gió",
+    "khuôn mặt gió",
+    "mặt",
+    "thổi"
+  ],
+  "window": [
+    "cửa sổ",
+    "không khí trong lành",
+    "khung",
+    "mở",
+    "trong suốt",
+    "xem"
+  ],
+  "wine_glass": [
+    "đồ uống",
+    "ly",
+    "ly rượu vang",
+    "quán ba",
+    "rượu",
+    "uống"
+  ],
+  "wink": [
+    "mặt",
+    "mặt nháy mắt",
+    "nháy mắt"
+  ],
+  "winking_face_with_tongue": [
+    "lưỡi",
+    "mắt",
+    "mặt",
+    "mặt lè lưỡi nháy mắt",
+    "nháy mắt",
+    "nói đùa"
+  ],
+  "wolf": [
+    "chó sói",
+    "mặt",
+    "mặt chó sói"
+  ],
+  "woman": [
+    "người lớn",
+    "phụ nữ"
+  ],
+  "woman_and_man_holding_hands": [
+    "cầm",
+    "cặp đôi",
+    "đàn ông",
+    "người đàn ông và phụ nữ nắm tay",
+    "phụ nữ",
+    "tay"
+  ],
+  "woman_artist": [
+    "bảng màu",
+    "họa sĩ nữ",
+    "nghệ sĩ",
+    "nữ"
+  ],
+  "woman_astronaut": [
+    "nữ",
+    "phi hành gia",
+    "phi hành gia nữ",
+    "tên lửa"
+  ],
+  "woman_bald": [
+    "hói",
+    "người lớn",
+    "phụ nữ"
+  ],
+  "woman_biking": [
+    "đạp xe",
+    "người đạp xe",
+    "người phụ nữ đi xe đạp",
+    "phụ nữ",
+    "xe đạp"
+  ],
+  "woman_bouncing_ball": [
+    "bóng",
+    "người phụ nữ chơi bóng",
+    "phụ nữ"
+  ],
+  "woman_bowing": [
+    "cử chỉ",
+    "cúi đầu",
+    "người phụ nữ",
+    "người phụ nữ cúi đầu",
+    "ủng hộ",
+    "xin lỗi"
+  ],
+  "woman_cartwheeling": [
+    "người phụ nữ nhào lộn",
+    "nhào lộn",
+    "phụ nữ",
+    "thể dục"
+  ],
+  "woman_climbing": [
+    "người leo trèo",
+    "người phụ nữ đang leo núi"
+  ],
+  "woman_cook": [
+    "đầu bếp",
+    "đầu bếp nữ",
+    "nấu ăn",
+    "nữ"
+  ],
+  "woman_curly_hair": [
+    "người lớn",
+    "phụ nữ",
+    "tóc xoăn"
+  ],
+  "woman_dancing": [
+    "khiêu vũ",
+    "người phụ nữ đang khiêu vũ",
+    "phụ nữ"
+  ],
+  "woman_detective": [
+    "gián điệp",
+    "nữ",
+    "thám tử",
+    "thám tử nữ",
+    "trinh thám"
+  ],
+  "woman_elf": [
+    "nữ quỷ",
+    "phép thuật"
+  ],
+  "woman_facepalming": [
+    "hoài nghi",
+    "người lấy tay che mặt",
+    "người phụ nữ lấy tay che mặt",
+    "nữ",
+    "tay che mặt",
+    "tức giận"
+  ],
+  "woman_factory_worker": [
+    "công nghiệp",
+    "công nhân",
+    "công nhân nhà máy nữ",
+    "lắp ráp",
+    "nhà máy",
+    "nữ"
+  ],
+  "woman_fairy": [
+    "bà tiên",
+    "titania"
+  ],
+  "woman_farmer": [
+    "người làm vườn",
+    "người nuôi súc vật",
+    "nông dân",
+    "nông dân nữ",
+    "nữ"
+  ],
+  "woman_feeding_baby": [
+    "cho bú",
+    "cho con bú",
+    "em bé",
+    "người phụ nữ cho con bú",
+    "phụ nữ"
+  ],
+  "woman_firefighter": [
+    "lính cứu hỏa",
+    "lính cứu hỏa nữ",
+    "nữ",
+    "xe cứu hỏa"
+  ],
+  "woman_frowning": [
+    "cau mày",
+    "cử chỉ",
+    "người phụ nữ cau mày",
+    "phụ nữ"
+  ],
+  "woman_genie": [
+    "ma thần",
+    "nữ thần"
+  ],
+  "woman_gesturing_no": [
+    "bị cấm",
+    "cấm",
+    "cử chỉ",
+    "người phụ nữ",
+    "người phụ nữ ra hiệu phản đối",
+    "tay"
+  ],
+  "woman_gesturing_ok": [
+    "cử chỉ",
+    "người đàn ông ra hiệu đồng ý",
+    "người phụ nữ ra hiệu đồng ý",
+    "nữ",
+    "ok",
+    "tay"
+  ],
+  "woman_getting_haircut": [
+    "cắt tóc",
+    "người phụ nữ được cắt tóc",
+    "nữ"
+  ],
+  "woman_getting_massage": [
+    "mặt",
+    "người phụ nữ được xoa bóp mặt",
+    "nữ",
+    "phụ nữ",
+    "xoa bóp"
+  ],
+  "woman_golfing": [
+    "gôn",
+    "người phụ nữ chơi gôn",
+    "phụ nữ"
+  ],
+  "woman_guard": [
+    "bảo vệ",
+    "bảo vệ nữ",
+    "nữ"
+  ],
+  "woman_health_worker": [
+    "bác sĩ",
+    "chăm sóc sức khỏe",
+    "nhân viên y tế nữ",
+    "nữ",
+    "trị liệu",
+    "y tá"
+  ],
+  "woman_in_lotus_position": [
+    "người phụ nữ ngồi kiết già",
+    "thiền",
+    "yoga"
+  ],
+  "woman_in_manual_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "người phụ nữ",
+    "người phụ nữ trên xe lăn tay",
+    "xe lăn"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "hỗ trợ tiếp cận",
+    "người phụ nữ",
+    "người phụ nữ trên xe lăn điện",
+    "xe lăn"
+  ],
+  "woman_in_steamy_room": [
+    "người phụ nữ ở trong phòng xông hơi",
+    "nhà tắm hơi",
+    "phòng xông hơi"
+  ],
+  "woman_in_tuxedo": [
+    "người phụ nữ",
+    "người phụ nữ mặc tuxedo",
+    "tuxedo"
+  ],
+  "woman_judge": [
+    "cầm cân nảy mực",
+    "nữ",
+    "thẩm phán",
+    "thẩm phán nữ"
+  ],
+  "woman_juggling": [
+    "đa nhiệm",
+    "người phụ nữ tung hứng",
+    "phụ nữ",
+    "tung hứng"
+  ],
+  "woman_kneeling": [
+    "người phụ nữ",
+    "người phụ nữ quỳ",
+    "quỳ"
+  ],
+  "woman_lifting_weights": [
+    "người cử tạ",
+    "người phụ nữ cử tạ",
+    "phụ nữ"
+  ],
+  "woman_mage": [
+    "bà cốt",
+    "pháp sư nữ",
+    "phù thủy"
+  ],
+  "woman_mechanic": [
+    "cơ khí",
+    "nữ",
+    "phụ nữ",
+    "thợ",
+    "thợ điện",
+    "thợ máy nữ",
+    "thợ sửa ống nước"
+  ],
+  "woman_mountain_biking": [
+    "đạp xe",
+    "người đi xe đạp",
+    "người phụ nữ đi xe đạp leo núi",
+    "núi",
+    "phụ nữ",
+    "xe đạp"
+  ],
+  "woman_office_worker": [
+    "công việc văn phòng",
+    "kiến trúc sư",
+    "kinh doanh",
+    "người phụ nữ",
+    "người quản lý",
+    "nhân viên văn phòng nữ"
+  ],
+  "woman_pilot": [
+    "máy bay",
+    "nữ",
+    "phi công",
+    "phi công nữ"
+  ],
+  "woman_playing_handball": [
+    "bóng ném",
+    "người phụ nữ chơi bóng ném",
+    "phụ nữ"
+  ],
+  "woman_playing_water_polo": [
+    "người phụ nữ chơi bóng nước",
+    "phụ nữ",
+    "thủy cầu"
+  ],
+  "woman_police_officer": [
+    "cảnh sát",
+    "cảnh sát nữ",
+    "công an",
+    "nữ",
+    "sĩ quan"
+  ],
+  "woman_pouting": [
+    "bĩu môi",
+    "cử chỉ",
+    "người phụ nữ bĩu môi",
+    "nữ"
+  ],
+  "woman_raising_hand": [
+    "cử chỉ",
+    "giơ tay",
+    "người phụ nữ giơ cao tay",
+    "nữ"
+  ],
+  "woman_red_hair": [
+    "người lớn",
+    "phụ nữ",
+    "tóc đỏ"
+  ],
+  "woman_rowing_boat": [
+    "người phụ nữ chèo thuyền",
+    "phụ nữ",
+    "thuyền",
+    "thuyền có mái chèo"
+  ],
+  "woman_running": [
+    "chạy",
+    "chạy đua",
+    "chạy đua maratông",
+    "người phụ nữ đang chạy",
+    "nữ"
+  ],
+  "woman_s_boot": [
+    "bốt",
+    "giày",
+    "giày bốt nữ",
+    "phụ nữ",
+    "quần áo"
+  ],
+  "woman_s_clothes": [
+    "nữ",
+    "quần áo",
+    "quần áo nữ"
+  ],
+  "woman_s_hat": [
+    "cái mũ",
+    "mũ phụ nữ",
+    "phụ nữ",
+    "quần áo"
+  ],
+  "woman_s_sandal": [
+    "giày",
+    "phụ nữ",
+    "quần áo",
+    "xăng đan",
+    "xăng đan nữ"
+  ],
+  "woman_scientist": [
+    "kỹ sư",
+    "người phụ nữ",
+    "nhà hóa học",
+    "nhà khoa học",
+    "nhà khoa học nữ",
+    "nhà sinh vật học",
+    "nhà vật lý"
+  ],
+  "woman_shrugging": [
+    "nghi ngờ",
+    "người phụ nữ nhún vai",
+    "nhún vai",
+    "nữ",
+    "phụ nữ",
+    "sự thờ ơ",
+    "vô minh"
+  ],
+  "woman_singer": [
+    "ca sĩ",
+    "diễn viên",
+    "nghệ sĩ",
+    "ngôi sao",
+    "người phụ nữ",
+    "nhạc rock",
+    "nữ ca sĩ"
+  ],
+  "woman_standing": [
+    "đứng",
+    "người phụ nữ",
+    "người phụ nữ đứng"
+  ],
+  "woman_student": [
+    "nữ",
+    "sinh viên",
+    "sinh viên nữ",
+    "tốt nghiệp"
+  ],
+  "woman_superhero": [
+    "anh hùng",
+    "nữ anh hùng",
+    "nữ siêu anh hùng",
+    "phụ nữ",
+    "siêu năng lực",
+    "tốt"
+  ],
+  "woman_supervillain": [
+    "ác",
+    "nhân vật phản diện",
+    "nữ siêu phản diện",
+    "phụ nữ",
+    "siêu năng lực",
+    "tội phạm"
+  ],
+  "woman_surfing": [
+    "lướt sóng",
+    "người phụ nữ lướt sóng",
+    "phụ nữ"
+  ],
+  "woman_swimming": [
+    "bơi",
+    "người phụ nữ đang bơi",
+    "phụ nữ"
+  ],
+  "woman_teacher": [
+    "giáo sư",
+    "giáo viên",
+    "giáo viên nữ",
+    "người hướng dẫn",
+    "phụ nữ"
+  ],
+  "woman_technologist": [
+    "kỹ sư công nghệ",
+    "kỹ sư công nghệ nữ",
+    "lập trình viên",
+    "người phát minh",
+    "người phụ nữ",
+    "nhà phát triển",
+    "phần mềm"
+  ],
+  "woman_tipping_hand": [
+    "người phụ nữ ra hiệu trợ giúp",
+    "nữ",
+    "tay ra hiệu",
+    "tươi tắn"
+  ],
+  "woman_vampire": [
+    "ma cà rồng nữ",
+    "xác sống"
+  ],
+  "woman_walking": [
+    "đi bộ",
+    "đi bộ đường dài",
+    "người phụ nữ đi bộ",
+    "nữ"
+  ],
+  "woman_wearing_turban": [
+    "khăn xếp",
+    "người phụ nữ đội khăn xếp",
+    "nữ",
+    "phụ nữ"
+  ],
+  "woman_white_hair": [
+    "người lớn",
+    "phụ nữ",
+    "tóc trắng"
+  ],
+  "woman_with_headscarf": [
+    "hijab",
+    "khăn trùm đầu",
+    "khăn vuông",
+    "người phụ nữ quàng khăn trùm đầu",
+    "tichel"
+  ],
+  "woman_with_veil": [
+    "lúp cưới",
+    "người phụ nữ",
+    "người phụ nữ đội lúp cưới"
+  ],
+  "woman_with_white_cane": [
+    "hỗ trợ tiếp cận",
+    "khiếm thị",
+    "mù",
+    "người phụ nữ",
+    "người phụ nữ với cây gậy",
+    "người phụ nữ với gậy dò đường"
+  ],
+  "woman_zombie": [
+    "xác chết nữ sống lại",
+    "xác chết sống lại",
+    "xác sống"
+  ],
+  "women_holding_hands": [
+    "cặp đôi",
+    "hai người phụ nữ nắm tay",
+    "phụ nữ",
+    "tay"
+  ],
+  "women_s_room": [
+    "nhà vệ sinh",
+    "nhà vệ sinh nữ",
+    "nữ",
+    "phòng vệ sinh",
+    "wc"
+  ],
+  "women_with_bunny_ears": [
+    "những người phụ nữ đeo tai thỏ",
+    "phụ nữ",
+    "tai thỏ",
+    "tiệc tùng",
+    "vũ công"
+  ],
+  "women_wrestling": [
+    "những người phụ nữ chơi vật",
+    "phụ nữ",
+    "vật"
+  ],
+  "wood": [
+    "gỗ",
+    "gỗ xẻ",
+    "khúc gỗ"
+  ],
+  "woozy_face": [
+    "chếnh choáng",
+    "chóng mặt",
+    "mặt choáng váng",
+    "mắt đảo điên",
+    "miệng uốn lượn",
+    "say xỉn"
+  ],
+  "world_map": [
+    "bản đồ",
+    "bản đồ thế giới",
+    "thế giới"
+  ],
+  "worm": [
+    "giun",
+    "giun đất",
+    "giun đốt",
+    "ký sinh trùng",
+    "sâu"
+  ],
+  "worried": [
+    "lo lắng",
+    "mặt",
+    "mặt lo lắng"
+  ],
+  "wrapped_gift": [
+    "gói quà",
+    "hộp",
+    "lễ kỷ niệm",
+    "quà",
+    "quà tặng"
+  ],
+  "wrench": [
+    "chìa vặn",
+    "cờ lê",
+    "dụng cụ"
+  ],
+  "writing_hand": [
+    "bàn tay đang viết",
+    "tay",
+    "viết"
+  ],
+  "yarn": [
+    "cuộn",
+    "đan",
+    "đan bằng kim móc",
+    "sợi"
+  ],
+  "yawning_face": [
+    "chán",
+    "mặt đang ngáp",
+    "mệt mỏi",
+    "ngáp"
+  ],
+  "yellow_circle": [
+    "hình tròn",
+    "hình tròn màu vàng",
+    "màu vàng",
+    "vòng tròn"
+  ],
+  "yellow_heart": [
+    "màu vàng",
+    "trái tim màu vàng"
+  ],
+  "yellow_square": [
+    "hình vuông",
+    "hình vuông màu vàng",
+    "màu vàng",
+    "ô vuông"
+  ],
+  "yemen": [
+    "cờ"
+  ],
+  "yen_banknote": [
+    "hoá đơn",
+    "tiền",
+    "tiền giấy",
+    "tiền giấy yên",
+    "tiền tệ",
+    "yên"
+  ],
+  "yin_yang": [
+    "âm",
+    "đạo",
+    "dương",
+    "người theo đạo",
+    "tôn giáo"
+  ],
+  "yoyo": [
+    "dao động",
+    "đồ chơi",
+    "yo-yo"
+  ],
+  "zambia": [
+    "cờ"
+  ],
+  "zany_face": [
+    "lớn",
+    "mắt",
+    "mặt làm trò hề",
+    "ngốc",
+    "nhỏ"
+  ],
+  "zebra": [
+    "ngựa vằn",
+    "sọc"
+  ],
+  "zero": [
+    "mũ phím"
+  ],
+  "zimbabwe": [
+    "cờ"
+  ],
+  "zipper_mouth_face": [
+    "khóa kéo",
+    "mặt",
+    "mặt có miệng bị kéo khóa",
+    "miệng"
+  ],
+  "zombie": [
+    "xác chết sống lại",
+    "xác sống"
+  ],
+  "zzz": [
+    "buồn ngủ",
+    "hài hước",
+    "ngủ"
+  ],
+  "åland_islands": [
+    "cờ"
+  ]
+}

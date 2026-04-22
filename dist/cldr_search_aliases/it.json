@@ -1,0 +1,9570 @@
+{
+  "+1": [
+    "mano",
+    "pollice",
+    "pollice in su",
+    "segno",
+    "su"
+  ],
+  "-1": [
+    "giù",
+    "mano",
+    "pollice",
+    "pollice in giù",
+    "pollice verso"
+  ],
+  "100": [
+    "punteggio pieno",
+    "punti"
+  ],
+  "1234": [
+    "inserire",
+    "numeri",
+    "pulsante con numeri",
+    "tastierino numerico"
+  ],
+  "1st_place_medal": [
+    "medaglia",
+    "medaglia d’oro",
+    "oro",
+    "primo posto"
+  ],
+  "2nd_place_medal": [
+    "argento",
+    "medaglia",
+    "medaglia d’argento",
+    "secondo posto"
+  ],
+  "3rd_place_medal": [
+    "bronzo",
+    "medaglia",
+    "medaglia di bronzo",
+    "terzo posto"
+  ],
+  "a_button_blood_type": [
+    "gruppo a",
+    "gruppo sanguigno a"
+  ],
+  "ab_button_blood_type": [
+    "gruppo ab",
+    "gruppo sanguigno ab"
+  ],
+  "abacus": [
+    "abaco",
+    "fare i calcoli"
+  ],
+  "accordion": [
+    "concertina",
+    "fisarmonica",
+    "organetto"
+  ],
+  "adhesive_bandage": [
+    "cerotto",
+    "cerotto adesivo"
+  ],
+  "admission_tickets": [
+    "biglietto",
+    "biglietto d’ingresso",
+    "cinema",
+    "ingresso",
+    "spettacolo"
+  ],
+  "aerial_tramway": [
+    "aerea",
+    "funivia",
+    "veicolo"
+  ],
+  "afghanistan": [
+    "bandiera"
+  ],
+  "airplane": [
+    "aeroplano",
+    "velivolo"
+  ],
+  "airplane_arrival": [
+    "aereo",
+    "arrivi",
+    "arrivo",
+    "atterraggio",
+    "pista d’atterraggio"
+  ],
+  "airplane_departure": [
+    "aereo",
+    "check-in",
+    "decollo",
+    "partenza",
+    "partenze"
+  ],
+  "alarm_clock": [
+    "suono",
+    "sveglia",
+    "svegliarsi"
+  ],
+  "albania": [
+    "bandiera"
+  ],
+  "alembic": [
+    "alambicco",
+    "chimica",
+    "esperimento",
+    "strumento"
+  ],
+  "algeria": [
+    "bandiera"
+  ],
+  "alien": [
+    "alieno",
+    "extraterrestre",
+    "faccina",
+    "ufo"
+  ],
+  "alien_monster": [
+    "faccina",
+    "favola",
+    "mostro",
+    "mostro alieno",
+    "ufo"
+  ],
+  "ambulance": [
+    "ambulanza",
+    "veicolo"
+  ],
+  "american_football": [
+    "americano",
+    "football americano",
+    "palla",
+    "sport"
+  ],
+  "american_samoa": [
+    "bandiera"
+  ],
+  "amphora": [
+    "acquario",
+    "anfora",
+    "ornamento",
+    "reperto",
+    "segno zodiacale"
+  ],
+  "anatomical_heart": [
+    "battito",
+    "cardiologia",
+    "cuore",
+    "organo",
+    "organo del cuore",
+    "pulsazione"
+  ],
+  "anchor": [
+    "ancora",
+    "simbolo"
+  ],
+  "andorra": [
+    "bandiera"
+  ],
+  "anger_symbol": [
+    "arrabbiato",
+    "emozione",
+    "fumetto",
+    "rabbia",
+    "simbolo rabbia"
+  ],
+  "angola": [
+    "bandiera"
+  ],
+  "angry": [
+    "arrabbiata",
+    "faccina",
+    "rabbia"
+  ],
+  "angry_face_with_horns": [
+    "diavolo",
+    "faccina",
+    "faccina arrabbiata con corna"
+  ],
+  "anguilla": [
+    "bandiera"
+  ],
+  "anguished_face": [
+    "angosciata",
+    "faccina",
+    "sofferente"
+  ],
+  "ant": [
+    "animale",
+    "formica"
+  ],
+  "antarctica": [
+    "bandiera"
+  ],
+  "antenna_bars": [
+    "antenna",
+    "antenna con tacche intensità segnale",
+    "cellulare",
+    "segnale",
+    "telefono"
+  ],
+  "antigua_barbuda": [
+    "bandiera"
+  ],
+  "anxious_face_with_sweat": [
+    "faccina",
+    "faccina blu sudata",
+    "faccina frettolosa",
+    "faccina sudata in ansia",
+    "sudata"
+  ],
+  "aquarius": [
+    "acquario",
+    "segno zodiacale dell’acquario",
+    "zodiaco"
+  ],
+  "argentina": [
+    "bandiera"
+  ],
+  "aries": [
+    "ariete",
+    "segno zodiacale dell’ariete",
+    "zodiaco"
+  ],
+  "armenia": [
+    "bandiera"
+  ],
+  "articulated_lorry": [
+    "autoarticolato",
+    "camion",
+    "rimorchio",
+    "veicolo"
+  ],
+  "artist": [
+    "artista",
+    "tavolozza"
+  ],
+  "artist_palette": [
+    "arte",
+    "colori",
+    "pittura",
+    "tavolozza",
+    "tavolozza dei colori"
+  ],
+  "aruba": [
+    "bandiera"
+  ],
+  "ascension_island": [
+    "bandiera"
+  ],
+  "asterisk": [
+    "tasto"
+  ],
+  "astonished_face": [
+    "faccina",
+    "scioccata",
+    "stupita"
+  ],
+  "astronaut": [
+    "astronauta",
+    "razzo"
+  ],
+  "atm_sign": [
+    "atm",
+    "bancomat",
+    "simbolo dello sportello bancomat"
+  ],
+  "atom_symbol": [
+    "ateismo",
+    "atomo",
+    "simbolo dell’atomo"
+  ],
+  "australia": [
+    "bandiera"
+  ],
+  "austria": [
+    "bandiera"
+  ],
+  "auto_rickshaw": [
+    "risciò a motore",
+    "tuk tuk"
+  ],
+  "automobile": [
+    "auto",
+    "macchina",
+    "veicolo"
+  ],
+  "avocado": [
+    "cibo",
+    "frutta"
+  ],
+  "axe": [
+    "accetta",
+    "ascia",
+    "boscaiolo",
+    "taglialegna"
+  ],
+  "azerbaijan": [
+    "bandiera"
+  ],
+  "b_button_blood_type": [
+    "gruppo b",
+    "gruppo sanguigno b"
+  ],
+  "baby": [
+    "bebè",
+    "figlio",
+    "neonato",
+    "persone"
+  ],
+  "baby_angel": [
+    "angelo",
+    "angioletto",
+    "faccina",
+    "favola"
+  ],
+  "baby_bottle": [
+    "bere",
+    "biberon",
+    "latte"
+  ],
+  "baby_chick": [
+    "animale",
+    "cucciolo",
+    "gallina",
+    "pulcino"
+  ],
+  "baby_symbol": [
+    "bambino a bordo",
+    "cartello neonato",
+    "fasciatoio",
+    "simbolo con immagine di bambino",
+    "simbolo neonato"
+  ],
+  "back_arrow": [
+    "freccia",
+    "freccia back",
+    "freccia verso sinistra",
+    "indietro",
+    "indietro con freccia verso sinistra"
+  ],
+  "backhand_index_pointing_down": [
+    "dito abbassato",
+    "dito in giù",
+    "dito indice",
+    "indice abbassato",
+    "indice in giù"
+  ],
+  "backhand_index_pointing_left": [
+    "dito",
+    "dito indice",
+    "dito verso sinistra",
+    "indice verso sinistra"
+  ],
+  "backhand_index_pointing_right": [
+    "dito",
+    "dito indice",
+    "dito verso destra",
+    "indice verso destra"
+  ],
+  "backhand_index_pointing_up": [
+    "dito alzato",
+    "dito in su",
+    "dito indice",
+    "indice alzato",
+    "indice in su"
+  ],
+  "backpack": [
+    "cartella",
+    "cartella di scuola",
+    "scuola",
+    "zaino",
+    "zaino per la scuola"
+  ],
+  "bacon": [
+    "carne",
+    "cibo",
+    "pancetta"
+  ],
+  "badger": [
+    "infastidire",
+    "tasso",
+    "tasso del miele"
+  ],
+  "badminton": [
+    "racchetta",
+    "sport",
+    "volano"
+  ],
+  "bagel": [
+    "panetteria",
+    "spalmare formaggio sul bagel"
+  ],
+  "baggage_claim": [
+    "bagagli",
+    "ritiro",
+    "simbolo del ritiro bagagli"
+  ],
+  "baguette_bread": [
+    "baguette",
+    "cibo",
+    "filone",
+    "francese"
+  ],
+  "bahamas": [
+    "bandiera"
+  ],
+  "bahrain": [
+    "bandiera"
+  ],
+  "balance_scale": [
+    "bilancia",
+    "bilancia a doppio piatto",
+    "pesare",
+    "piatti della bilancia"
+  ],
+  "ballet_shoes": [
+    "balletto",
+    "danza",
+    "danza classica",
+    "scarpette da ballerina",
+    "scarpette da ballo"
+  ],
+  "balloon": [
+    "festa",
+    "palloncino"
+  ],
+  "ballot_box_with_ballot": [
+    "elezioni",
+    "scheda elettorale",
+    "urna elettorale",
+    "urna elettorale con scheda",
+    "votare",
+    "voto"
+  ],
+  "banana": [
+    "frutta"
+  ],
+  "bangladesh": [
+    "bandiera"
+  ],
+  "banjo": [
+    "musica",
+    "strumento a corde"
+  ],
+  "bank": [
+    "banca",
+    "denaro",
+    "edificio"
+  ],
+  "bar_chart": [
+    "barre",
+    "grafico",
+    "grafico a barre"
+  ],
+  "barbados": [
+    "bandiera"
+  ],
+  "barber_pole": [
+    "barbiere",
+    "insegna"
+  ],
+  "baseball": [
+    "guantone",
+    "palla da baseball"
+  ],
+  "basket": [
+    "bucato",
+    "cesto",
+    "orto",
+    "picnic"
+  ],
+  "basketball": [
+    "canestro",
+    "canestro da basket",
+    "palla da pallacanestro",
+    "pallone",
+    "sport"
+  ],
+  "bat": [
+    "animale",
+    "pipistrello",
+    "vampiro"
+  ],
+  "bathtub": [
+    "vasca",
+    "vasca da bagno"
+  ],
+  "battery": [
+    "autonomia",
+    "batteria",
+    "batteria carica",
+    "batteria scarica",
+    "ricaricare"
+  ],
+  "beach_with_umbrella": [
+    "estate",
+    "mare",
+    "ombrellone",
+    "ombrellone in spiaggia",
+    "spiaggia",
+    "spiaggia con ombrellone"
+  ],
+  "bear": [
+    "animale",
+    "faccina",
+    "muso di orso",
+    "orso"
+  ],
+  "beating_heart": [
+    "amore",
+    "battito",
+    "cuore",
+    "cuore che batte",
+    "pulsazione"
+  ],
+  "beaver": [
+    "castoro",
+    "diga"
+  ],
+  "bed": [
+    "dormire",
+    "hotel",
+    "letto"
+  ],
+  "beer_mug": [
+    "bar",
+    "boccale",
+    "boccale di birra",
+    "ristorante"
+  ],
+  "beetle": [
+    "cimice",
+    "coleottero",
+    "insetto"
+  ],
+  "belarus": [
+    "bandiera"
+  ],
+  "belgium": [
+    "bandiera"
+  ],
+  "belize": [
+    "bandiera"
+  ],
+  "bell": [
+    "campana",
+    "campanella"
+  ],
+  "bell_pepper": [
+    "ortaggio",
+    "peperone"
+  ],
+  "bell_with_slash": [
+    "campana",
+    "campana sbarrata",
+    "silenzio"
+  ],
+  "bellhop_bell": [
+    "campanello",
+    "campanello da hotel",
+    "hotel",
+    "reception"
+  ],
+  "benin": [
+    "bandiera"
+  ],
+  "bento_box": [
+    "lunch box",
+    "monoporzione",
+    "ristorante"
+  ],
+  "bermuda": [
+    "bandiera"
+  ],
+  "beverage_box": [
+    "bevanda in brick",
+    "bevanda monodose",
+    "succo di frutta in cartone"
+  ],
+  "bhutan": [
+    "bandiera"
+  ],
+  "bicycle": [
+    "bicicletta",
+    "veicolo"
+  ],
+  "bikini": [
+    "abbigliamento",
+    "costume due pezzi"
+  ],
+  "billed_cap": [
+    "cappello con visiera",
+    "cappello da baseball"
+  ],
+  "biohazard": [
+    "biorischio",
+    "pericolo",
+    "rischio biologico",
+    "simbolo del rischio biologico",
+    "sostanze pericolose"
+  ],
+  "bird": [
+    "animale",
+    "uccello"
+  ],
+  "birthday_cake": [
+    "compleanno",
+    "festa",
+    "torta",
+    "torta di compleanno"
+  ],
+  "bison": [
+    "bisonte",
+    "mandria"
+  ],
+  "black_cat": [
+    "gatto",
+    "nero",
+    "sfortuna"
+  ],
+  "black_circle": [
+    "cerchio",
+    "geometria",
+    "nero"
+  ],
+  "black_flag": [
+    "bandiera che sventola",
+    "bandiera nera"
+  ],
+  "black_heart": [
+    "cuore",
+    "dolore",
+    "nero",
+    "tristezza"
+  ],
+  "black_large_square": [
+    "geometria",
+    "quadrato",
+    "quadrato nero grande"
+  ],
+  "black_medium_small_square": [
+    "geometria",
+    "quadrato",
+    "quadrato nero medio-piccolo"
+  ],
+  "black_medium_square": [
+    "geometria",
+    "quadrato",
+    "quadrato nero medio"
+  ],
+  "black_nib": [
+    "calamaio",
+    "inchiostro",
+    "pennino"
+  ],
+  "black_small_square": [
+    "geometria",
+    "quadrato",
+    "quadrato nero piccolo"
+  ],
+  "black_square_button": [
+    "pulsante",
+    "pulsante quadrato pieno",
+    "quadrato",
+    "tasto quadrato bianco con bordo nero"
+  ],
+  "blonde_man": [
+    "biondo",
+    "maschio",
+    "uomo"
+  ],
+  "blonde_woman": [
+    "bionda",
+    "donna",
+    "femmina"
+  ],
+  "blossom": [
+    "bocciolo",
+    "fiore"
+  ],
+  "blowfish": [
+    "animale",
+    "pesce",
+    "pesce palla"
+  ],
+  "blue_book": [
+    "libro",
+    "libro blu"
+  ],
+  "blue_circle": [
+    "blu",
+    "cerchio",
+    "geometria"
+  ],
+  "blue_heart": [
+    "azzurro",
+    "cuore",
+    "emozione"
+  ],
+  "blue_square": [
+    "blu",
+    "quadrato",
+    "quadrato di colore blu"
+  ],
+  "blueberries": [
+    "bacca",
+    "blu",
+    "mirtilli",
+    "mirtillo"
+  ],
+  "blush": [
+    "faccina",
+    "faccina con occhi sorridenti",
+    "felice",
+    "occhi sorridenti",
+    "sorriso"
+  ],
+  "boar": [
+    "animale",
+    "cinghiale"
+  ],
+  "bolivia": [
+    "bandiera"
+  ],
+  "bomb": [
+    "bomba",
+    "emozione",
+    "fumetto"
+  ],
+  "bone": [
+    "osso",
+    "scheletro"
+  ],
+  "bookmark": [
+    "lettura",
+    "libro",
+    "segnalibro"
+  ],
+  "bookmark_tabs": [
+    "etichette segnalibro",
+    "linguette",
+    "segnalibro"
+  ],
+  "books": [
+    "libri",
+    "pila di libri"
+  ],
+  "boomerang": [
+    "australia",
+    "rimbalzo",
+    "ripercussione"
+  ],
+  "bosnia_herzegovina": [
+    "bandiera"
+  ],
+  "botswana": [
+    "bandiera"
+  ],
+  "bottle_with_popping_cork": [
+    "bar",
+    "bere",
+    "bottiglia",
+    "bottiglia stappata",
+    "festeggiare"
+  ],
+  "bouquet": [
+    "fiore",
+    "mazzo di fiori",
+    "romanticismo"
+  ],
+  "bouvet_island": [
+    "bandiera"
+  ],
+  "bow_and_arrow": [
+    "arciere",
+    "arco e freccia",
+    "tiratore d’arco",
+    "tiro con l’arco"
+  ],
+  "bowl_with_spoon": [
+    "cereali",
+    "ciotola con cucchiaio",
+    "colazione"
+  ],
+  "bowling": [
+    "gioco",
+    "palla",
+    "palla da bowling"
+  ],
+  "boxing_glove": [
+    "guantone",
+    "guantone da pugilato",
+    "pugilato",
+    "sport"
+  ],
+  "boy": [
+    "bambino",
+    "persone",
+    "ragazzino"
+  ],
+  "brain": [
+    "cervello",
+    "intelligente"
+  ],
+  "brazil": [
+    "bandiera"
+  ],
+  "bread": [
+    "pancarré",
+    "pane in cassetta"
+  ],
+  "breast_feeding": [
+    "allattamento",
+    "allattare",
+    "allattare al seno"
+  ],
+  "brick": [
+    "malta",
+    "mattone",
+    "mattoni",
+    "muro di mattoni"
+  ],
+  "bridge_at_night": [
+    "notte",
+    "ponte",
+    "ponte di notte"
+  ],
+  "briefcase": [
+    "24 ore",
+    "documenti",
+    "ufficio",
+    "valigetta",
+    "valigetta 24 ore"
+  ],
+  "briefs": [
+    "costume da bagno maschile",
+    "costume da uomo",
+    "intimo",
+    "mutande da uomo",
+    "slip"
+  ],
+  "bright_button": [
+    "alta luminosità",
+    "luminosità",
+    "luminosità elevata",
+    "luminoso",
+    "simbolo alta luminosità"
+  ],
+  "british_indian_ocean_territory": [
+    "bandiera"
+  ],
+  "british_virgin_islands": [
+    "bandiera"
+  ],
+  "broccoli": [
+    "cavolo nero"
+  ],
+  "broken_heart": [
+    "cuore",
+    "emozione",
+    "infranto",
+    "spezzato"
+  ],
+  "broom": [
+    "pulire",
+    "scopa",
+    "scopare",
+    "spazzare",
+    "strega"
+  ],
+  "brown_circle": [
+    "cerchio di colore marrone",
+    "cerchio marron",
+    "cerchio marrone",
+    "marrone"
+  ],
+  "brown_heart": [
+    "cuore",
+    "emozione",
+    "marrone"
+  ],
+  "brown_square": [
+    "quadrato",
+    "quadrato di colore marrone",
+    "quadrato marron",
+    "quadrato marrone"
+  ],
+  "brunei": [
+    "bandiera"
+  ],
+  "bubble_tea": [
+    "bolla",
+    "latte",
+    "perla",
+    "sfera",
+    "tè"
+  ],
+  "bucket": [
+    "secchia",
+    "secchio"
+  ],
+  "bug": [
+    "animale",
+    "bruco",
+    "insetto",
+    "millepiedi"
+  ],
+  "building_construction": [
+    "costruire",
+    "edifici",
+    "edificio in costruzione",
+    "edilizia"
+  ],
+  "bulgaria": [
+    "bandiera"
+  ],
+  "bullet_train": [
+    "alta velocità",
+    "punta arrotondata",
+    "treno",
+    "treno alta velocità punta arrotondata",
+    "veicolo"
+  ],
+  "bullseye": [
+    "bersaglio",
+    "colpire",
+    "gioco",
+    "target"
+  ],
+  "burkina_faso": [
+    "bandiera"
+  ],
+  "burrito": [
+    "cucina messicana",
+    "messico"
+  ],
+  "burundi": [
+    "bandiera"
+  ],
+  "bus": [
+    "autobus",
+    "veicolo"
+  ],
+  "bus_stop": [
+    "autobus",
+    "fermata",
+    "fermata dell’autobus"
+  ],
+  "bust_in_silhouette": [
+    "persona",
+    "profilo",
+    "profilo di persona"
+  ],
+  "busts_in_silhouette": [
+    "persone",
+    "profilo",
+    "profilo di due persone"
+  ],
+  "butter": [
+    "burro",
+    "latticini",
+    "latticino"
+  ],
+  "butterfly": [
+    "animale",
+    "farfalla",
+    "insetto"
+  ],
+  "cactus": [
+    "pianta"
+  ],
+  "call_me_hand": [
+    "chiamare",
+    "mano",
+    "mano con gesto di chiamata",
+    "telefonare"
+  ],
+  "cambodia": [
+    "bandiera"
+  ],
+  "camel": [
+    "animale",
+    "cammello",
+    "dromedario",
+    "gobba"
+  ],
+  "camera": [
+    "fotocamera",
+    "fotografare",
+    "macchina fotografica",
+    "ricordi",
+    "scattare foto"
+  ],
+  "camera_with_flash": [
+    "fotocamera con flash",
+    "fotografare",
+    "macchina fotografica con flash",
+    "ricordi",
+    "scattare foto"
+  ],
+  "cameroon": [
+    "bandiera"
+  ],
+  "camping": [
+    "campeggio",
+    "tenda",
+    "vacanza"
+  ],
+  "canada": [
+    "bandiera"
+  ],
+  "canary_islands": [
+    "bandiera"
+  ],
+  "cancer": [
+    "cancro",
+    "segno zodiacale del cancro",
+    "zodiaco"
+  ],
+  "candle": [
+    "a lume di candela",
+    "candela",
+    "candela accesa",
+    "cera",
+    "illuminare",
+    "luce"
+  ],
+  "candy": [
+    "caramella",
+    "dolciume"
+  ],
+  "canned_food": [
+    "cibo in scatola",
+    "scatoletta"
+  ],
+  "canoe": [
+    "canoa",
+    "imbarcazione"
+  ],
+  "cape_verde": [
+    "bandiera"
+  ],
+  "capricorn": [
+    "capricorno",
+    "segno zodiacale del capricorno",
+    "zodiaco"
+  ],
+  "card_file_box": [
+    "archiviare",
+    "archivio",
+    "contenitore",
+    "documenti",
+    "schedario",
+    "schedario da tavolo"
+  ],
+  "card_index": [
+    "rolodex",
+    "schedario",
+    "schedario girevole"
+  ],
+  "card_index_dividers": [
+    "archivio",
+    "divisori",
+    "divisori per schedario",
+    "documenti",
+    "ordinare",
+    "schedario"
+  ],
+  "caribbean_netherlands": [
+    "bandiera"
+  ],
+  "carousel_horse": [
+    "cavallo",
+    "cavallo da giostra",
+    "giostra",
+    "intrattenimento"
+  ],
+  "carp_streamer": [
+    "aquilone",
+    "aquilone a forma di carpa",
+    "carpa",
+    "festa"
+  ],
+  "carpentry_saw": [
+    "falegname",
+    "legname",
+    "sega",
+    "sega da falegname",
+    "utensile"
+  ],
+  "carrot": [
+    "carota",
+    "cibo",
+    "ortaggio",
+    "radice"
+  ],
+  "castle": [
+    "castello",
+    "edificio"
+  ],
+  "cat": [
+    "animale",
+    "gatto"
+  ],
+  "cat_face": [
+    "animale",
+    "faccina",
+    "gatto",
+    "muso di gatto"
+  ],
+  "cat_with_wry_smile": [
+    "faccina",
+    "gatto",
+    "gatto con sorriso sarcastico",
+    "gatto sorriso sarcastico",
+    "sarcastico",
+    "sorriso ironico"
+  ],
+  "cayman_islands": [
+    "bandiera"
+  ],
+  "central_african_republic": [
+    "bandiera"
+  ],
+  "ceuta_melilla": [
+    "bandiera"
+  ],
+  "chad": [
+    "bandiera"
+  ],
+  "chains": [
+    "catene",
+    "imprigionare",
+    "incatenare"
+  ],
+  "chair": [
+    "mettersi seduti",
+    "sedersi",
+    "sedia"
+  ],
+  "chart_decreasing": [
+    "andamento discendente",
+    "discendente",
+    "grafico",
+    "grafico con andamento negativo"
+  ],
+  "chart_increasing": [
+    "andamento ascendente",
+    "ascendente",
+    "grafico",
+    "grafico con andamento positivo"
+  ],
+  "chart_increasing_with_yen": [
+    "ascendente",
+    "grafico",
+    "mercato",
+    "mercato in salita"
+  ],
+  "check_box_with_check": [
+    "grigio",
+    "riquadro",
+    "riquadro con spunta",
+    "spunta"
+  ],
+  "check_mark": [
+    "baffo",
+    "segno di spunta",
+    "segno di spunta nero",
+    "spunta"
+  ],
+  "cheese_wedge": [
+    "fetta di formaggio",
+    "formaggio"
+  ],
+  "chequered_flag": [
+    "bandiera a scacchi",
+    "podio"
+  ],
+  "cherries": [
+    "ciliegia",
+    "ciliegie",
+    "frutta"
+  ],
+  "cherry_blossom": [
+    "ciliegio",
+    "fiore",
+    "fiore di ciliegio"
+  ],
+  "chess_pawn": [
+    "pedina",
+    "pedina degli scacchi",
+    "scacchi",
+    "scacco matto"
+  ],
+  "chestnut": [
+    "autunno",
+    "bosco",
+    "castagna"
+  ],
+  "chicken": [
+    "animale",
+    "gallina"
+  ],
+  "child": [
+    "bimbo",
+    "giovane"
+  ],
+  "children_crossing": [
+    "attraversamento",
+    "attraversamento bambini",
+    "attraversamento pedonale",
+    "pedoni"
+  ],
+  "chile": [
+    "bandiera"
+  ],
+  "china": [
+    "bandiera"
+  ],
+  "chipmunk": [
+    "animale",
+    "scoiattolo"
+  ],
+  "chocolate_bar": [
+    "barretta",
+    "barretta di cioccolato",
+    "cioccolato",
+    "ristorante"
+  ],
+  "chopsticks": [
+    "bacchette"
+  ],
+  "christmas_island": [
+    "bandiera"
+  ],
+  "christmas_tree": [
+    "albero",
+    "albero di natale",
+    "festa",
+    "natale"
+  ],
+  "church": [
+    "chiesa",
+    "edificio"
+  ],
+  "cigarette": [
+    "area fumatori",
+    "fumo",
+    "sigaretta"
+  ],
+  "cinema": [
+    "film",
+    "intrattenimento",
+    "simbolo del cinema",
+    "simbolo film"
+  ],
+  "circled_m": [
+    "m azzurra",
+    "metro",
+    "pulsante m cerchiata",
+    "simbolo m"
+  ],
+  "circus_tent": [
+    "circo",
+    "intrattenimento",
+    "tenda",
+    "tenda da circo"
+  ],
+  "cityscape": [
+    "città",
+    "edifici",
+    "grattacieli",
+    "paesaggio urbano"
+  ],
+  "cityscape_at_dusk": [
+    "città",
+    "città al tramonto",
+    "edifici",
+    "paesaggio",
+    "tramonto"
+  ],
+  "cl_button": [
+    "pulsante cl",
+    "simbolo cl"
+  ],
+  "clamp": [
+    "fissare",
+    "morsa",
+    "morsetto",
+    "serrare",
+    "stringere",
+    "utensile"
+  ],
+  "clap": [
+    "applaudire",
+    "applauso",
+    "mani",
+    "mani che applaudono"
+  ],
+  "clapper_board": [
+    "ciak",
+    "cinema",
+    "film",
+    "intrattenimento"
+  ],
+  "classical_building": [
+    "edificio",
+    "edificio classico",
+    "grecia",
+    "tempio"
+  ],
+  "clinking_beer_mugs": [
+    "bar",
+    "birra",
+    "boccale",
+    "boccali di birra",
+    "boccali di birra che brindano"
+  ],
+  "clinking_glasses": [
+    "auguri",
+    "bere",
+    "brindisi",
+    "cin cin",
+    "festeggiare"
+  ],
+  "clipboard": [
+    "appunti",
+    "portablocco"
+  ],
+  "clipperton_island": [
+    "bandiera"
+  ],
+  "clockwise_vertical_arrows": [
+    "frecce",
+    "frecce a cerchio verticali",
+    "frecce verticali che ruotano in senso orario",
+    "frecce verticali senso orario",
+    "ricarica",
+    "simbolo ricarica"
+  ],
+  "closed_book": [
+    "libro",
+    "libro chiuso"
+  ],
+  "closed_mailbox_with_lowered_flag": [
+    "bandierina",
+    "cassetta postale",
+    "cassetta postale chiusa bandierina abbassata",
+    "cassetta postale chiusa bandierina giù",
+    "chiusa",
+    "posta"
+  ],
+  "closed_mailbox_with_raised_flag": [
+    "bandierina",
+    "cassetta postale",
+    "cassetta postale chiusa bandierina alzata",
+    "cassetta postale chiusa bandierina su",
+    "chiusa",
+    "posta"
+  ],
+  "closed_umbrella": [
+    "ombrello chiuso",
+    "pioggia"
+  ],
+  "cloud": [
+    "meteo",
+    "nuvola"
+  ],
+  "cloud_with_lightning": [
+    "fulmini",
+    "meteo",
+    "nuvole"
+  ],
+  "cloud_with_lightning_and_rain": [
+    "fulmini",
+    "meteo",
+    "nuvole",
+    "pioggia",
+    "temporale"
+  ],
+  "cloud_with_rain": [
+    "meteo",
+    "nuvole",
+    "pioggia"
+  ],
+  "cloud_with_snow": [
+    "freddo",
+    "meteo",
+    "neve",
+    "nevica"
+  ],
+  "clown_face": [
+    "clown",
+    "faccina",
+    "pagliaccio"
+  ],
+  "club_suit": [
+    "carte",
+    "fiori",
+    "seme"
+  ],
+  "clutch_bag": [
+    "abbigliamento",
+    "borsa",
+    "pochette"
+  ],
+  "coat": [
+    "cappotto",
+    "giacca"
+  ],
+  "cockroach": [
+    "blatta",
+    "infestante",
+    "insetto",
+    "scarafaggio"
+  ],
+  "cocktail_glass": [
+    "bar",
+    "bicchiere da cocktail",
+    "cocktail",
+    "ristorante"
+  ],
+  "coconut": [
+    "cocco",
+    "noce di cocco",
+    "palma",
+    "piña colada"
+  ],
+  "cocos_keeling_islands": [
+    "bandiera"
+  ],
+  "coffin": [
+    "bara",
+    "funerale",
+    "morte",
+    "sepoltura"
+  ],
+  "coin": [
+    "argento",
+    "denaro",
+    "metallo",
+    "moneta",
+    "oro",
+    "tesoro"
+  ],
+  "cold_face": [
+    "faccina blu",
+    "faccina congelata",
+    "freddo",
+    "gelone",
+    "ipotermia"
+  ],
+  "collision": [
+    "collisione",
+    "emozione",
+    "fumetto",
+    "simbolo collisione"
+  ],
+  "colombia": [
+    "bandiera"
+  ],
+  "comet": [
+    "cometa",
+    "spazio",
+    "stella cometa"
+  ],
+  "comoros": [
+    "bandiera"
+  ],
+  "compass": [
+    "bussola",
+    "bussola magnetica",
+    "navigazione",
+    "orientamento"
+  ],
+  "computer_disk": [
+    "disc",
+    "md",
+    "mini disc",
+    "minidisc"
+  ],
+  "computer_mouse": [
+    "cursore",
+    "mouse",
+    "mouse senza fili"
+  ],
+  "confetti_ball": [
+    "coriandoli",
+    "festa",
+    "palla",
+    "palla di coriandoli"
+  ],
+  "confounded_face": [
+    "faccina",
+    "frustrata"
+  ],
+  "confused": [
+    "confusa",
+    "faccina"
+  ],
+  "congo_brazzaville": [
+    "bandiera"
+  ],
+  "congo_kinshasa": [
+    "bandiera"
+  ],
+  "construction": [
+    "area cantiere",
+    "simbolo",
+    "simbolo area cantiere"
+  ],
+  "construction_worker": [
+    "edile",
+    "operaio",
+    "persone"
+  ],
+  "construction_worker_man": [
+    "costruzioni",
+    "edificio",
+    "operaio",
+    "operaio edile uomo",
+    "uomo"
+  ],
+  "construction_worker_woman": [
+    "costruzioni",
+    "donna",
+    "edificio",
+    "operaia",
+    "operaia edile"
+  ],
+  "control_knobs": [
+    "manopole",
+    "manopole del volume",
+    "manopole di controllo",
+    "regolazione volume"
+  ],
+  "convenience_store": [
+    "edificio",
+    "minimarket",
+    "negozio"
+  ],
+  "cook": [
+    "chef",
+    "cuoco",
+    "persona che cucina"
+  ],
+  "cook_islands": [
+    "bandiera"
+  ],
+  "cooked_rice": [
+    "riso",
+    "riso bollito",
+    "ristorante"
+  ],
+  "cookie": [
+    "biscotto",
+    "ristorante"
+  ],
+  "cooking": [
+    "cucinare",
+    "ristorante"
+  ],
+  "cool_button": [
+    "pulsante cool",
+    "simbolo cool"
+  ],
+  "costa_rica": [
+    "bandiera"
+  ],
+  "couch_and_lamp": [
+    "divano",
+    "divano e lampada",
+    "relax",
+    "salotto"
+  ],
+  "counterclockwise_arrows_button": [
+    "antiorario",
+    "frecce",
+    "frecce a cerchio aperto",
+    "frecce senso antiorario",
+    "pulsante con frecce che ruotano in senso antiorario"
+  ],
+  "couple_with_heart": [
+    "coppia con cuore",
+    "cuore",
+    "persone",
+    "romanticismo",
+    "donna",
+    "uomo"
+  ],
+  "couple_with_heart_man_man": [
+    "coppia con cuore",
+    "cuore",
+    "persone",
+    "romanticismo",
+    "uomo"
+  ],
+  "couple_with_heart_woman_woman": [
+    "coppia con cuore",
+    "cuore",
+    "donna",
+    "persone",
+    "romanticismo"
+  ],
+  "cow": [
+    "animale",
+    "mucca"
+  ],
+  "cow_face": [
+    "animale",
+    "faccina",
+    "mucca",
+    "muso di mucca"
+  ],
+  "cowboy_hat_face": [
+    "cappello",
+    "cowboy",
+    "faccina",
+    "faccina con cappello da cowboy"
+  ],
+  "crab": [
+    "cancro",
+    "granchio",
+    "segno zodiacale"
+  ],
+  "crayon": [
+    "colorare",
+    "colorare con pastelli",
+    "colori",
+    "disegnare",
+    "pastello a cera"
+  ],
+  "credit_card": [
+    "carta",
+    "carta di credito",
+    "credito"
+  ],
+  "crescent_moon": [
+    "crescente",
+    "luna",
+    "spicchio di luna"
+  ],
+  "cricket": [
+    "cavalletta",
+    "grillo"
+  ],
+  "cricket_game": [
+    "cricket",
+    "mazza",
+    "palla",
+    "sport"
+  ],
+  "croatia": [
+    "bandiera"
+  ],
+  "crocodile": [
+    "animale",
+    "coccodrillo"
+  ],
+  "croissant": [
+    "cibo",
+    "colazione",
+    "cornetto",
+    "francese"
+  ],
+  "cross_mark": [
+    "croce",
+    "x"
+  ],
+  "cross_mark_button": [
+    "croce con quadrato",
+    "x con quadrato"
+  ],
+  "crossed_fingers": [
+    "dita",
+    "dita incrociate",
+    "fortuna",
+    "incrociare",
+    "mano"
+  ],
+  "crossed_flags": [
+    "bandiere del giappone incrociate"
+  ],
+  "crossed_swords": [
+    "armi",
+    "combattimento",
+    "duello",
+    "spade incrociate"
+  ],
+  "crown": [
+    "abbigliamento",
+    "corona",
+    "re",
+    "regina"
+  ],
+  "cry": [
+    "faccina",
+    "faccina che piange",
+    "lacrime",
+    "piangere",
+    "triste"
+  ],
+  "crying_cat": [
+    "faccina",
+    "gatto",
+    "gatto che piange",
+    "piangere"
+  ],
+  "crystal_ball": [
+    "chiromanzia",
+    "cristallo",
+    "futuro",
+    "sfera",
+    "sfera di cristallo"
+  ],
+  "cuba": [
+    "bandiera"
+  ],
+  "cucumber": [
+    "cetriolino sottaceto",
+    "cetriolo",
+    "cibo",
+    "ortaggio"
+  ],
+  "cup_with_straw": [
+    "bibita",
+    "bicchiere con cannuccia"
+  ],
+  "cupcake": [
+    "dolce",
+    "pasticceria"
+  ],
+  "curaçao": [
+    "bandiera"
+  ],
+  "curling_stone": [
+    "stone da curling"
+  ],
+  "curly_loop": [
+    "cerchio",
+    "occhiello"
+  ],
+  "currency_exchange": [
+    "cambio",
+    "cambio di valuta",
+    "denaro",
+    "valuta"
+  ],
+  "curry_rice": [
+    "curry",
+    "riso",
+    "riso al curry",
+    "ristorante"
+  ],
+  "custard": [
+    "budino",
+    "pudding",
+    "ristorante"
+  ],
+  "customs": [
+    "confine di stato",
+    "controllo doganale",
+    "dogana",
+    "frontiera",
+    "simbolo della dogana"
+  ],
+  "cut_of_meat": [
+    "taglio di carne"
+  ],
+  "cyclone": [
+    "ciclone",
+    "tifone",
+    "tornado"
+  ],
+  "cyprus": [
+    "bandiera"
+  ],
+  "czechia": [
+    "bandiera"
+  ],
+  "côte_d_ivoire": [
+    "bandiera"
+  ],
+  "dagger": [
+    "affilato",
+    "arma",
+    "pugnalare",
+    "pugnale"
+  ],
+  "dango": [
+    "dolcetto",
+    "palline di mochi",
+    "ristorante",
+    "spiedino di mochi"
+  ],
+  "dashing_away": [
+    "emozione",
+    "fuga",
+    "fumetto",
+    "nuvola di polvere",
+    "scappare"
+  ],
+  "date": [
+    "calendario",
+    "data",
+    "giorno",
+    "ricorrenza"
+  ],
+  "deaf_man": [
+    "sordità",
+    "sordo",
+    "uomo con difficoltà uditive",
+    "uomo con problemi di udito",
+    "uomo sordo"
+  ],
+  "deaf_person": [
+    "accessibilità",
+    "difficoltà uditive",
+    "persona con problemi di udito",
+    "problemi di udito",
+    "sordità"
+  ],
+  "deaf_woman": [
+    "donna con difficoltà uditive",
+    "donna con problemi di udito",
+    "donna sorda",
+    "sorda",
+    "sordità"
+  ],
+  "deciduous_tree": [
+    "albero",
+    "caduco",
+    "deciduo"
+  ],
+  "deer": [
+    "animale",
+    "cervo"
+  ],
+  "delivery_truck": [
+    "camion",
+    "veicolo"
+  ],
+  "denmark": [
+    "bandiera"
+  ],
+  "department_store": [
+    "centro",
+    "commerciale",
+    "grande magazzino"
+  ],
+  "derelict_house": [
+    "casa",
+    "casa in rovina",
+    "disabitata",
+    "fatiscente",
+    "rudere"
+  ],
+  "desert": [
+    "arido",
+    "caldo",
+    "deserto",
+    "sole cocente"
+  ],
+  "desert_island": [
+    "isola deserta",
+    "naufrago",
+    "solitudine"
+  ],
+  "desktop_computer": [
+    "computer fisso",
+    "desktop",
+    "desktop pc",
+    "pc tutto in uno"
+  ],
+  "detective": [
+    "investigatore",
+    "mistero"
+  ],
+  "diamond_suit": [
+    "carte",
+    "quadri",
+    "seme"
+  ],
+  "diamond_with_a_dot": [
+    "carino",
+    "diamante",
+    "emozione",
+    "fiore",
+    "forma di diamante",
+    "petalo di fiore"
+  ],
+  "diego_garcia": [
+    "bandiera"
+  ],
+  "dim_button": [
+    "bassa",
+    "luminosità",
+    "simbolo luminosità",
+    "tenue"
+  ],
+  "disappointed_face": [
+    "delusa",
+    "delusione",
+    "faccina"
+  ],
+  "disguised_face": [
+    "faccina",
+    "faccina travestita",
+    "incognito",
+    "naso",
+    "occhiali",
+    "travestimento"
+  ],
+  "divide": [
+    "divisione",
+    "diviso",
+    "simbolo della divisione"
+  ],
+  "diving_mask": [
+    "diving",
+    "fare immersioni",
+    "immersioni",
+    "maschera da sub",
+    "snorkeling"
+  ],
+  "diya_lamp": [
+    "deepak",
+    "deepam",
+    "divaa",
+    "diya",
+    "lampada a olio tradizionale"
+  ],
+  "dizzy": [
+    "emozione",
+    "fumetto",
+    "stella con scia",
+    "stelle",
+    "vedere le stelle",
+    "vorticoso"
+  ],
+  "djibouti": [
+    "bandiera"
+  ],
+  "dna": [
+    "biologo",
+    "evoluzione",
+    "genetica",
+    "geni",
+    "vita"
+  ],
+  "dodo": [
+    "estinzione",
+    "grande",
+    "mauritius"
+  ],
+  "dog": [
+    "animale",
+    "cane",
+    "cucciolo"
+  ],
+  "dog_face": [
+    "animale",
+    "cane",
+    "faccina",
+    "muso di cane"
+  ],
+  "dollar_banknote": [
+    "banconota",
+    "denaro",
+    "dollaro"
+  ],
+  "dolphin": [
+    "animale",
+    "delfino"
+  ],
+  "dominica": [
+    "bandiera"
+  ],
+  "dominican_republic": [
+    "bandiera"
+  ],
+  "door": [
+    "porta"
+  ],
+  "dotted_six_pointed_star": [
+    "chiromanzia",
+    "futuro",
+    "sei punte",
+    "stella",
+    "stella a sei punte"
+  ],
+  "double_curly_loop": [
+    "doppio",
+    "occhiello"
+  ],
+  "double_exclamation_mark": [
+    "doppio punto esclamativo",
+    "esclamazione",
+    "punteggiatura",
+    "punto esclamativo"
+  ],
+  "doughnut": [
+    "ciambella",
+    "donut",
+    "ristorante"
+  ],
+  "dove": [
+    "colomba",
+    "pace",
+    "pasqua",
+    "uccello",
+    "ulivo"
+  ],
+  "down_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in basso",
+    "freccia rivolta verso il basso",
+    "punto cardinale",
+    "sud"
+  ],
+  "down_left_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in basso a sinistra",
+    "punto intercardinale",
+    "sud-ovest"
+  ],
+  "down_right_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in basso a destra",
+    "punto intercardinale",
+    "sud-est"
+  ],
+  "downcast_face_with_sweat": [
+    "delusione",
+    "faccina",
+    "faccina sudata",
+    "sudore"
+  ],
+  "downwards_button": [
+    "basso",
+    "pulsante",
+    "pulsante a triangolo rivolto verso il basso",
+    "triangolo"
+  ],
+  "dragon": [
+    "animale",
+    "drago"
+  ],
+  "dragon_face": [
+    "animale",
+    "drago",
+    "faccina",
+    "testa di drago"
+  ],
+  "dress": [
+    "abbigliamento",
+    "abito",
+    "vestito"
+  ],
+  "drooling_face": [
+    "bava",
+    "faccina",
+    "faccina che sbava",
+    "sbavare"
+  ],
+  "drop_of_blood": [
+    "ciclo mestruale",
+    "donare il sangue",
+    "donazione di sangue",
+    "goccia di sangue",
+    "medicina",
+    "medicinale",
+    "mestruazioni"
+  ],
+  "droplet": [
+    "acqua",
+    "fumetto",
+    "goccia",
+    "sudore",
+    "sudore freddo"
+  ],
+  "drum": [
+    "bacchette",
+    "musica",
+    "tamburo"
+  ],
+  "duck": [
+    "anatra",
+    "animale",
+    "uccello"
+  ],
+  "dumpling": [
+    "empanada",
+    "gyoza",
+    "jiaozi",
+    "pierogi",
+    "ravioli",
+    "raviolo"
+  ],
+  "dvd": [
+    "blu-ray",
+    "computer disk"
+  ],
+  "e_mail": [
+    "comunicazione",
+    "e-mail",
+    "email",
+    "lettera",
+    "posta",
+    "posta elettronica"
+  ],
+  "eagle": [
+    "animale",
+    "aquila",
+    "uccello"
+  ],
+  "ear": [
+    "corpo",
+    "orecchio"
+  ],
+  "ear_of_corn": [
+    "granoturco",
+    "mais",
+    "pannocchia"
+  ],
+  "ear_with_hearing_aid": [
+    "accessibilità",
+    "apparecchio acustico",
+    "non udente",
+    "non udenti",
+    "orecchio con apparecchio acustico",
+    "protesi acustica"
+  ],
+  "ecuador": [
+    "bandiera"
+  ],
+  "egg": [
+    "cibo",
+    "uovo"
+  ],
+  "eggplant": [
+    "melanzana",
+    "verdura"
+  ],
+  "egypt": [
+    "bandiera"
+  ],
+  "eight": [
+    "tasto"
+  ],
+  "eight_o_clock": [
+    "20:00",
+    "8:00",
+    "ore otto",
+    "orologio"
+  ],
+  "eight_pointed_star": [
+    "asterisco",
+    "stella stilizzata"
+  ],
+  "eight_spoked_asterisk": [
+    "asterisco",
+    "otto punte",
+    "sfondo verde"
+  ],
+  "eight_thirty": [
+    "20:30",
+    "8:30",
+    "ore otto e mezza",
+    "orologio"
+  ],
+  "eject_button": [
+    "espulsione",
+    "pulsante",
+    "pulsante di espulsione"
+  ],
+  "el_salvador": [
+    "bandiera"
+  ],
+  "electric_plug": [
+    "elettricità",
+    "presa elettrica",
+    "spina elettrica"
+  ],
+  "elephant": [
+    "animale",
+    "elefante"
+  ],
+  "elevator": [
+    "accessibilità",
+    "ascensore",
+    "montacarichi"
+  ],
+  "eleven_o_clock": [
+    "11:00",
+    "23:00",
+    "ore undici",
+    "orologio"
+  ],
+  "eleven_thirty": [
+    "11:30",
+    "23:30",
+    "ore undici e mezza",
+    "orologio"
+  ],
+  "elf": [
+    "elfo",
+    "magico"
+  ],
+  "end_arrow": [
+    "end con freccia verso sinistra",
+    "fine",
+    "freccia",
+    "freccia end",
+    "freccia verso sinistra"
+  ],
+  "england": [
+    "bandiera"
+  ],
+  "enraged_face": [
+    "arrabbiata",
+    "broncio",
+    "faccina accigliata",
+    "faccina rossa",
+    "imbronciata",
+    "muso"
+  ],
+  "envelope": [
+    "busta",
+    "email",
+    "lettera",
+    "posta",
+    "ricevere posta"
+  ],
+  "envelope_with_arrow": [
+    "in uscita",
+    "lettera",
+    "posta",
+    "posta in uscita",
+    "posta inviata"
+  ],
+  "equatorial_guinea": [
+    "bandiera"
+  ],
+  "eritrea": [
+    "bandiera"
+  ],
+  "estonia": [
+    "bandiera"
+  ],
+  "eswatini": [
+    "bandiera"
+  ],
+  "ethiopia": [
+    "bandiera"
+  ],
+  "euro_banknote": [
+    "banconota",
+    "denaro",
+    "euro"
+  ],
+  "european_union": [
+    "bandiera"
+  ],
+  "evergreen_tree": [
+    "albero",
+    "sempreverde"
+  ],
+  "ewe": [
+    "animale",
+    "pecora"
+  ],
+  "exclamation_question_mark": [
+    "punteggiatura",
+    "punto esclamativo",
+    "punto esclamativo e interrogativo",
+    "punto interrogativo"
+  ],
+  "exploding_head": [
+    "scioccato",
+    "testa che esplode"
+  ],
+  "expressionless_face": [
+    "faccina",
+    "inespressiva",
+    "no comment"
+  ],
+  "eye": [
+    "corpo",
+    "faccia",
+    "occhio"
+  ],
+  "eye_in_speech_bubble": [
+    "fumetto",
+    "nuvoletta",
+    "occhio",
+    "occhio nel fumetto",
+    "testimone"
+  ],
+  "eyes": [
+    "faccia",
+    "occhi"
+  ],
+  "face_blowing_a_kiss": [
+    "baci",
+    "faccina",
+    "faccina che manda baci",
+    "faccina che manda un bacio"
+  ],
+  "face_savoring_food": [
+    "buono",
+    "cibo delizioso",
+    "faccina",
+    "faccina che si lecca i baffi",
+    "gnam"
+  ],
+  "face_vomiting": [
+    "faccina che vomita",
+    "nausea",
+    "vomito"
+  ],
+  "face_with_crossed_out_eyes": [
+    "faccina frastornata",
+    "testa che gira"
+  ],
+  "face_with_hand_over_mouth": [
+    "faccina con mano sulla bocca",
+    "oops"
+  ],
+  "face_with_head_bandage": [
+    "bende",
+    "dolore",
+    "faccina",
+    "faccina bendata",
+    "faccina con la testa bendata",
+    "farsi male",
+    "fasciarsi la testa"
+  ],
+  "face_with_medical_mask": [
+    "faccina",
+    "faccina con mascherina",
+    "maschera",
+    "mascherina"
+  ],
+  "face_with_monocle": [
+    "faccina con monocolo",
+    "sospetto"
+  ],
+  "face_with_raised_eyebrow": [
+    "diffidente",
+    "faccia con sopracciglia alzate",
+    "scettico"
+  ],
+  "face_with_steam_from_nose": [
+    "arrabbiarsi",
+    "faccina",
+    "faccina che sbuffa",
+    "sbuffare"
+  ],
+  "face_with_symbols_on_mouth": [
+    "faccina con simboli sulla bocca",
+    "imprecare"
+  ],
+  "face_with_thermometer": [
+    "ammalato",
+    "faccina con termometro",
+    "febbre",
+    "influenza",
+    "termometro"
+  ],
+  "face_with_tongue": [
+    "faccina",
+    "faccina che mostra la lingua",
+    "faccina con lingua fuori",
+    "linguaccia"
+  ],
+  "face_without_mouth": [
+    "faccina",
+    "faccina senza bocca",
+    "non posso parlare",
+    "senza bocca"
+  ],
+  "factory": [
+    "azienda",
+    "edificio",
+    "fabbrica",
+    "industria",
+    "produzione"
+  ],
+  "factory_worker": [
+    "assemblaggio",
+    "fabbrica",
+    "industria",
+    "operaio",
+    "persona che lavora in fabbrica"
+  ],
+  "fairy": [
+    "fata",
+    "oberon",
+    "puck",
+    "titania"
+  ],
+  "falafel": [
+    "ceci",
+    "polpette di ceci"
+  ],
+  "falkland_islands": [
+    "bandiera"
+  ],
+  "fallen_leaf": [
+    "cadute foglia",
+    "foglia caduta",
+    "foglie",
+    "foglie cadute"
+  ],
+  "family": [
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_man_boy": [
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_boy_boy": [
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_girl": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_girl_boy": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_girl_girl": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_man_boy": [
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_man_boy_boy": [
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_man_girl": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_man_girl_boy": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_man_girl_girl": [
+    "bambina",
+    "bambino",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_woman_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_woman_boy_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_woman_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_woman_girl_boy": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_man_woman_girl_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone",
+    "uomo"
+  ],
+  "family_woman_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_boy_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_girl_boy": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_girl_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_woman_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_woman_boy_boy": [
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_woman_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_woman_girl_boy": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "family_woman_woman_girl_girl": [
+    "bambina",
+    "bambino",
+    "donna",
+    "famiglia",
+    "mamma",
+    "papà",
+    "persone"
+  ],
+  "farmer": [
+    "agricoltore",
+    "allevatore",
+    "contadino",
+    "giardiniere"
+  ],
+  "faroe_islands": [
+    "bandiera"
+  ],
+  "fast_down_button": [
+    "basso",
+    "doppia freccia in basso",
+    "freccia"
+  ],
+  "fast_forward_button": [
+    "avanzamento rapido",
+    "destra",
+    "doppia freccia a destra",
+    "freccia",
+    "pulsante di avanzamento rapido"
+  ],
+  "fast_reverse_button": [
+    "doppia freccia a sinistra",
+    "freccia",
+    "pulsante di riavvolgimento rapido",
+    "riavvolgimento rapido",
+    "sinistra"
+  ],
+  "fast_up_button": [
+    "alto",
+    "doppia freccia in alto",
+    "freccia",
+    "pulsante doppia freccia in alto"
+  ],
+  "fax_machine": [
+    "comunicazione",
+    "fax"
+  ],
+  "fearful": [
+    "faccina",
+    "impaurita",
+    "paura"
+  ],
+  "feather": [
+    "leggero",
+    "piuma",
+    "piumaggio",
+    "uccello",
+    "volo"
+  ],
+  "female_sign": [
+    "donna",
+    "femmina",
+    "simbolo di femmina",
+    "simbolo genere femminile"
+  ],
+  "ferris_wheel": [
+    "intrattenimento",
+    "panoramica",
+    "parco divertimenti",
+    "ruota"
+  ],
+  "ferry": [
+    "barca",
+    "traghetto",
+    "traversata"
+  ],
+  "field_hockey": [
+    "campo",
+    "hockey su prato",
+    "mazza",
+    "palla",
+    "partita"
+  ],
+  "fiji": [
+    "bandiera"
+  ],
+  "file_cabinet": [
+    "archiviare",
+    "armadietto schedario",
+    "documenti",
+    "file",
+    "schedario",
+    "schedario da ufficio"
+  ],
+  "file_folder": [
+    "cartella",
+    "file"
+  ],
+  "film_frames": [
+    "cinema",
+    "film",
+    "fotogrammi",
+    "fotogrammi di film",
+    "pellicola",
+    "pellicola cinematografica"
+  ],
+  "film_projector": [
+    "fotocamera",
+    "fotografare",
+    "macchina fotografica",
+    "proiettore cinematografico",
+    "ricordi",
+    "scattare foto"
+  ],
+  "finland": [
+    "bandiera"
+  ],
+  "fire": [
+    "fiamma",
+    "fuoco"
+  ],
+  "fire_engine": [
+    "autopompa",
+    "camion dei pompieri",
+    "veicolo"
+  ],
+  "fire_extinguisher": [
+    "estintore",
+    "fiamme",
+    "fuoco",
+    "spegnere un incendio"
+  ],
+  "firecracker": [
+    "dinamite",
+    "esplosivo",
+    "fuochi artificiali",
+    "petardo"
+  ],
+  "firefighter": [
+    "pompiere",
+    "vigile del fuoco"
+  ],
+  "fireworks": [
+    "festa",
+    "fuochi d’artificio",
+    "fuoco d’artificio"
+  ],
+  "first_quarter_moon": [
+    "luna",
+    "primo quarto di luna",
+    "quarto"
+  ],
+  "first_quarter_moon_face": [
+    "faccina",
+    "faccina primo quarto di luna",
+    "luna",
+    "luna con faccina",
+    "primo quarto di luna"
+  ],
+  "fish": [
+    "animale",
+    "pesce"
+  ],
+  "fish_cake_with_swirl": [
+    "crocchetta di pesce",
+    "pesce",
+    "ristorante",
+    "rotolo di pesce",
+    "tortino di pesce a spirale"
+  ],
+  "fishing_pole": [
+    "canna da pesca",
+    "intrattenimento",
+    "lenza",
+    "pesca",
+    "pesce"
+  ],
+  "five": [
+    "tasto"
+  ],
+  "five_o_clock": [
+    "17:00",
+    "5:00",
+    "ore cinque",
+    "orologio"
+  ],
+  "five_thirty": [
+    "17:30",
+    "5:30",
+    "ore cinque e mezza",
+    "orologio"
+  ],
+  "flamingo": [
+    "fenicottero",
+    "fenicottero rosa",
+    "tropicale"
+  ],
+  "flashlight": [
+    "pila",
+    "torcia"
+  ],
+  "flat_shoe": [
+    "ballerina",
+    "scarpa senza lacci",
+    "scarpe da ballerina"
+  ],
+  "flatbread": [
+    "arepa",
+    "focaccia",
+    "lavash",
+    "naan",
+    "pita"
+  ],
+  "fleur_de_lis": [
+    "fiore",
+    "giglio",
+    "giglio araldico",
+    "simbolo",
+    "stemma"
+  ],
+  "flexed_biceps": [
+    "bicipite",
+    "forte",
+    "fumetto",
+    "muscolo",
+    "teso"
+  ],
+  "floppy_disk": [
+    "disc",
+    "floppy"
+  ],
+  "flower_playing_cards": [
+    "carta",
+    "carta da gioco",
+    "carta dei fiori",
+    "gioco",
+    "hanafuda"
+  ],
+  "flushed_face": [
+    "confuso",
+    "faccina",
+    "faccina con guance rosse",
+    "faccina imbarazzata",
+    "imbarazzato"
+  ],
+  "fly": [
+    "decomposizione",
+    "infestante",
+    "larva",
+    "malattia",
+    "mosca"
+  ],
+  "flying_disc": [
+    "frisbee",
+    "ultimate frisbee"
+  ],
+  "flying_saucer": [
+    "disco volante",
+    "ufo"
+  ],
+  "fog": [
+    "foschia",
+    "meteo",
+    "nebbia",
+    "visibilità ridotta"
+  ],
+  "foggy": [
+    "clima",
+    "meteo",
+    "nebbia",
+    "nebbioso"
+  ],
+  "folded_hands": [
+    "gesto",
+    "mani giunte",
+    "mano",
+    "pregare",
+    "preghiera"
+  ],
+  "fondue": [
+    "cioccolato",
+    "fonduta",
+    "formaggio",
+    "fuso",
+    "pentola",
+    "svizzero"
+  ],
+  "foot": [
+    "calciare",
+    "camminare",
+    "piede"
+  ],
+  "footprints": [
+    "corpo",
+    "impronta",
+    "impronta di piedi",
+    "piede"
+  ],
+  "fork_and_knife": [
+    "coltello",
+    "forchetta",
+    "forchetta e coltello",
+    "ristorante"
+  ],
+  "fork_and_knife_with_plate": [
+    "apparecchiare",
+    "coltello",
+    "forchetta",
+    "piatto e posate",
+    "posate"
+  ],
+  "fortune_cookie": [
+    "biscotto della fortuna",
+    "profezia"
+  ],
+  "fountain": [
+    "acqua che scorre",
+    "fontana"
+  ],
+  "fountain_pen": [
+    "cartuccia",
+    "inchiostro",
+    "penna stilografica",
+    "pennino"
+  ],
+  "four": [
+    "tasto"
+  ],
+  "four_leaf_clover": [
+    "foglia",
+    "fortuna",
+    "quadrifoglio",
+    "quattro"
+  ],
+  "four_o_clock": [
+    "16:00",
+    "4:00",
+    "ore quattro",
+    "orologio"
+  ],
+  "four_thirty": [
+    "16:30",
+    "4:30",
+    "ore quattro e mezza",
+    "orologio"
+  ],
+  "fox": [
+    "animale",
+    "faccina volpe",
+    "muso di volpe",
+    "volpe"
+  ],
+  "framed_picture": [
+    "cornice",
+    "museo",
+    "opera d’arte",
+    "quadro",
+    "quadro incorniciato"
+  ],
+  "france": [
+    "bandiera"
+  ],
+  "free_button": [
+    "gratis",
+    "pulsante free",
+    "simbolo free",
+    "simbolo gratis"
+  ],
+  "french_fries": [
+    "patatine",
+    "patatine fritte",
+    "ristorante"
+  ],
+  "french_guiana": [
+    "bandiera"
+  ],
+  "french_polynesia": [
+    "bandiera"
+  ],
+  "french_southern_territories": [
+    "bandiera"
+  ],
+  "fried_shrimp": [
+    "gambero",
+    "gambero fritto",
+    "ristorante"
+  ],
+  "frog": [
+    "animale",
+    "faccina",
+    "muso di rana",
+    "rana"
+  ],
+  "front_facing_baby_chick": [
+    "animale",
+    "cucciolo",
+    "gallina",
+    "pulcino",
+    "pulcino visto di fronte"
+  ],
+  "frowning": [
+    "corrucciato",
+    "faccina",
+    "faccina imbronciata",
+    "imbronciato",
+    "mettere il muso"
+  ],
+  "frowning_face_with_open_mouth": [
+    "bocca aperta",
+    "corrucciata",
+    "corrucciata con bocca aperta",
+    "faccina",
+    "faccina imbronciata con bocca aperta"
+  ],
+  "fu": [
+    "dito medio",
+    "insulto",
+    "offendere"
+  ],
+  "fuel_pump": [
+    "benzina",
+    "carburante",
+    "pompa di benzina",
+    "stazione",
+    "stazione di servizio"
+  ],
+  "full_moon": [
+    "luna",
+    "piena",
+    "plenilunio"
+  ],
+  "full_moon_face": [
+    "faccina",
+    "faccina luna piena",
+    "luna",
+    "luna con faccina",
+    "luna piena"
+  ],
+  "funeral_urn": [
+    "ceneri",
+    "funerale",
+    "morte",
+    "sepoltura",
+    "urna cineraria",
+    "urna funeraria"
+  ],
+  "gabon": [
+    "bandiera"
+  ],
+  "gambia": [
+    "bandiera"
+  ],
+  "game_die": [
+    "dadi",
+    "dado",
+    "gioco",
+    "gioco dei dadi"
+  ],
+  "garlic": [
+    "aglio",
+    "insaporire",
+    "insaporitore",
+    "spicchio d’aglio"
+  ],
+  "gear": [
+    "componente",
+    "ingranaggio",
+    "meccanismo",
+    "ruota dentata"
+  ],
+  "gem_stone": [
+    "diamante",
+    "gemma",
+    "pietra preziosa",
+    "romanticismo"
+  ],
+  "gemini": [
+    "gemelli",
+    "segno zodiacale dei gemelli",
+    "zodiaco"
+  ],
+  "genie": [
+    "djinn",
+    "genio"
+  ],
+  "georgia": [
+    "bandiera"
+  ],
+  "germany": [
+    "bandiera"
+  ],
+  "ghana": [
+    "bandiera"
+  ],
+  "ghost": [
+    "fantasma",
+    "favola",
+    "halloween",
+    "scherzo",
+    "storie di fantasmi"
+  ],
+  "gibraltar": [
+    "bandiera"
+  ],
+  "giraffe": [
+    "giraffa",
+    "puntini"
+  ],
+  "girl": [
+    "bambina",
+    "persone",
+    "ragazzina"
+  ],
+  "glass_of_milk": [
+    "bevanda",
+    "bicchiere",
+    "bicchiere di latte",
+    "latte"
+  ],
+  "glasses": [
+    "abbigliamento",
+    "occhiali",
+    "occhiali da vista"
+  ],
+  "globe_showing_americas": [
+    "america",
+    "americhe",
+    "terra"
+  ],
+  "globe_showing_asia_australia": [
+    "asia",
+    "asia e australia",
+    "australia",
+    "terra"
+  ],
+  "globe_showing_europe_africa": [
+    "africa",
+    "europa",
+    "europa e africa",
+    "terra"
+  ],
+  "globe_with_meridians": [
+    "globo con meridiani",
+    "meridiani"
+  ],
+  "gloves": [
+    "guanti",
+    "mano"
+  ],
+  "glowing_star": [
+    "brillante",
+    "scintillante",
+    "stella",
+    "stella che brilla"
+  ],
+  "goal_net": [
+    "gol",
+    "porta",
+    "porta da calcio",
+    "rete",
+    "sport"
+  ],
+  "goat": [
+    "animale",
+    "capra"
+  ],
+  "goblin": [
+    "elfo",
+    "folletto",
+    "malefico",
+    "mostro"
+  ],
+  "goggles": [
+    "maschera",
+    "nuoto",
+    "occhiali di protezione",
+    "occhialini",
+    "saldatura"
+  ],
+  "gorilla": [
+    "animale"
+  ],
+  "graduation_cap": [
+    "cappello",
+    "cappello da laureato",
+    "festa",
+    "laurea"
+  ],
+  "grapes": [
+    "frutta",
+    "grappolo d’uva",
+    "uva"
+  ],
+  "greece": [
+    "bandiera"
+  ],
+  "green_apple": [
+    "frutta",
+    "mela",
+    "verde"
+  ],
+  "green_book": [
+    "libro",
+    "libro verde"
+  ],
+  "green_circle": [
+    "cerchio",
+    "cerchio di colore verde",
+    "cerchio verde"
+  ],
+  "green_heart": [
+    "cuore",
+    "emozione",
+    "verde"
+  ],
+  "green_salad": [
+    "cibo",
+    "insalata",
+    "insalata verde"
+  ],
+  "green_square": [
+    "quadrato",
+    "quadrato di colore verde",
+    "verde"
+  ],
+  "greenland": [
+    "bandiera"
+  ],
+  "grenada": [
+    "bandiera"
+  ],
+  "grimacing": [
+    "faccina",
+    "faccina con smorfia"
+  ],
+  "grin": [
+    "faccina",
+    "faccina raggiante con occhi felici",
+    "occhi felici",
+    "risata",
+    "sogghignare"
+  ],
+  "grinning_cat": [
+    "aperta",
+    "bocca",
+    "faccina",
+    "gatto",
+    "gatto che sorride"
+  ],
+  "grinning_cat_with_smiling_eyes": [
+    "faccina",
+    "gatto",
+    "gatto che sogghigna",
+    "gatto con occhi sorridenti",
+    "ghigno"
+  ],
+  "grinning_face": [
+    "faccina",
+    "faccina che sogghigna",
+    "faccina con un gran sorriso",
+    "risata",
+    "sogghignare"
+  ],
+  "grinning_face_with_smiling_eyes": [
+    "bocca aperta",
+    "faccina con sorriso e occhi sorridenti",
+    "faccina con un gran sorriso e occhi sorridenti",
+    "occhi felici",
+    "risata",
+    "sorriso"
+  ],
+  "growing_heart": [
+    "amore",
+    "cuore",
+    "cuore che cresce",
+    "emozionato",
+    "nervoso"
+  ],
+  "guadeloupe": [
+    "bandiera"
+  ],
+  "guam": [
+    "bandiera"
+  ],
+  "guard": [
+    "guardia"
+  ],
+  "guatemala": [
+    "bandiera"
+  ],
+  "guernsey": [
+    "bandiera"
+  ],
+  "guide_dog": [
+    "accessibilità",
+    "cane da accompagnamento",
+    "cane guida",
+    "non vedenti"
+  ],
+  "guinea": [
+    "bandiera"
+  ],
+  "guinea_bissau": [
+    "bandiera"
+  ],
+  "guitar": [
+    "chitarra",
+    "musica",
+    "strumento",
+    "strumento musicale"
+  ],
+  "guyana": [
+    "bandiera"
+  ],
+  "haiti": [
+    "bandiera"
+  ],
+  "hamburger": [
+    "burger"
+  ],
+  "hammer": [
+    "attrezzo",
+    "martello",
+    "utensile"
+  ],
+  "hammer_and_pick": [
+    "attrezzi",
+    "lavori manuali",
+    "manodopera",
+    "piccone e martello",
+    "utensili"
+  ],
+  "hammer_and_wrench": [
+    "attrezzi",
+    "martello e chiave inglese",
+    "simbolo impostazioni",
+    "utensili"
+  ],
+  "hamster": [
+    "animale",
+    "criceto",
+    "faccina",
+    "muso di criceto"
+  ],
+  "hand_with_fingers_splayed": [
+    "cinque dita",
+    "mano alzata",
+    "mano aperta",
+    "palmo della mano"
+  ],
+  "handbag": [
+    "abbigliamento",
+    "borsa",
+    "borsetta"
+  ],
+  "handshake": [
+    "conoscere",
+    "mano",
+    "presentarsi",
+    "stretta di mano"
+  ],
+  "hash": [
+    "tasto"
+  ],
+  "hatching_chick": [
+    "gallina",
+    "pulcino",
+    "pulcino che nasce",
+    "uovo che si schiude"
+  ],
+  "headphone": [
+    "cuffie",
+    "intrattenimento"
+  ],
+  "headstone": [
+    "cimitero",
+    "lapide",
+    "pietra tombale",
+    "tomba"
+  ],
+  "health_worker": [
+    "infermiera",
+    "infermiere",
+    "medico",
+    "persona che lavora nella sanità",
+    "sanità",
+    "terapista"
+  ],
+  "hear_no_evil_monkey": [
+    "non sento",
+    "scimmietta",
+    "scimmietta non sento"
+  ],
+  "heard_mcdonald_islands": [
+    "bandiera"
+  ],
+  "heart": [
+    "amore",
+    "cuore rosso",
+    "rosso"
+  ],
+  "heart_decoration": [
+    "cuore",
+    "decorazione con cuore"
+  ],
+  "heart_exclamation": [
+    "cuore",
+    "punteggiatura",
+    "punto esclamativo",
+    "punto esclamativo a cuore",
+    "simbolo"
+  ],
+  "heart_eyes": [
+    "amore",
+    "cuore",
+    "faccina",
+    "faccina con sorriso e occhi a cuore"
+  ],
+  "heart_suit": [
+    "carte",
+    "cuori",
+    "seme"
+  ],
+  "heart_with_arrow": [
+    "amore",
+    "cuore",
+    "cuore con freccia",
+    "cupido",
+    "emozione",
+    "freccia"
+  ],
+  "heart_with_ribbon": [
+    "cuore",
+    "cuore con fiocco",
+    "emozione",
+    "fiocco",
+    "san valentino"
+  ],
+  "heavy_dollar_sign": [
+    "denaro",
+    "dollaro",
+    "simbolo del dollaro"
+  ],
+  "hedgehog": [
+    "riccio",
+    "spinoso"
+  ],
+  "helicopter": [
+    "elicottero",
+    "veicolo",
+    "velivolo"
+  ],
+  "herb": [
+    "foglia",
+    "pianta"
+  ],
+  "hibiscus": [
+    "fiore",
+    "ibisco"
+  ],
+  "high_heeled_shoe": [
+    "abbigliamento",
+    "scarpa",
+    "scarpa con il tacco",
+    "tacco"
+  ],
+  "high_speed_train": [
+    "treno",
+    "treno alta velocità",
+    "veicolo"
+  ],
+  "high_voltage": [
+    "alta",
+    "pericolo",
+    "simbolo",
+    "tensione"
+  ],
+  "hiking_boot": [
+    "campeggio",
+    "stivale",
+    "stivale da trekking",
+    "trekking",
+    "viaggio zaino in spalla",
+    "zaino in spalla"
+  ],
+  "hindu_temple": [
+    "induismo",
+    "tempio indù",
+    "tempio induista"
+  ],
+  "hippopotamus": [
+    "ippo",
+    "ippopotamo"
+  ],
+  "hole": [
+    "buco",
+    "fumetto",
+    "nero"
+  ],
+  "hollow_red_circle": [
+    "cerchio",
+    "gioco",
+    "pallino",
+    "tris"
+  ],
+  "honduras": [
+    "bandiera"
+  ],
+  "honey_pot": [
+    "barattolo di miele",
+    "miele",
+    "ristorante",
+    "vaso",
+    "vaso di miele"
+  ],
+  "honeybee": [
+    "animale",
+    "ape"
+  ],
+  "hong_kong_sar_china": [
+    "bandiera"
+  ],
+  "hook": [
+    "curva",
+    "fermaglio",
+    "gancio",
+    "intrappolare",
+    "punto vendita",
+    "uncino"
+  ],
+  "horizontal_traffic_light": [
+    "orizzontale",
+    "semaforo"
+  ],
+  "horse": [
+    "animale",
+    "cavallo"
+  ],
+  "horse_face": [
+    "animale",
+    "cavallo",
+    "faccina",
+    "muso di cavallo"
+  ],
+  "horse_racing": [
+    "cavallo",
+    "cavallo da corsa",
+    "corse",
+    "fantino",
+    "ippica"
+  ],
+  "hospital": [
+    "edificio",
+    "malattia",
+    "medici",
+    "ospedale"
+  ],
+  "hot_beverage": [
+    "bevanda",
+    "bevanda calda",
+    "caffè",
+    "fumante",
+    "tè caldo"
+  ],
+  "hot_dog": [
+    "street food"
+  ],
+  "hot_face": [
+    "caldo",
+    "faccina accaldata",
+    "faccina sudata",
+    "febbricitante",
+    "sudore"
+  ],
+  "hot_pepper": [
+    "peperoncino",
+    "piccante"
+  ],
+  "hot_springs": [
+    "acqua sorgente",
+    "acqua termale",
+    "sorgenti termali",
+    "terme"
+  ],
+  "hotel": [
+    "edificio"
+  ],
+  "hourglass_done": [
+    "clessidra",
+    "sabbia"
+  ],
+  "hourglass_not_done": [
+    "clessidra",
+    "clessidra che scorre",
+    "sabbia"
+  ],
+  "house": [
+    "abitazione",
+    "casa",
+    "edificio"
+  ],
+  "house_with_garden": [
+    "casa",
+    "casa con giardino",
+    "edificio",
+    "giardino"
+  ],
+  "houses": [
+    "case",
+    "edifici"
+  ],
+  "hugs": [
+    "abbraccio",
+    "faccina",
+    "faccina che abbraccia",
+    "sorriso"
+  ],
+  "hungary": [
+    "bandiera"
+  ],
+  "hushed_face": [
+    "faccina",
+    "sbalordita",
+    "sorpresa"
+  ],
+  "hut": [
+    "capanna",
+    "capanno",
+    "iurta"
+  ],
+  "ice": [
+    "cubetto di ghiaccio",
+    "ghiaccio in cubetti",
+    "ghiaccio in cubi"
+  ],
+  "ice_cream": [
+    "coppa di gelato",
+    "crema",
+    "gelato",
+    "ristorante"
+  ],
+  "ice_hockey": [
+    "ghiaccio",
+    "hockey su ghiaccio",
+    "hockey sul ghiaccio",
+    "mazza",
+    "puck"
+  ],
+  "ice_skate": [
+    "ghiaccio",
+    "pattinaggio artistico",
+    "pattinaggio su ghiaccio",
+    "pattini",
+    "sport"
+  ],
+  "iceland": [
+    "bandiera"
+  ],
+  "id_button": [
+    "identità",
+    "pulsante id",
+    "simbolo id"
+  ],
+  "in_hole": [
+    "bandiera golf",
+    "bandiera in buca",
+    "buca",
+    "golf"
+  ],
+  "inbox_tray": [
+    "comunicazione",
+    "posta",
+    "ricevuta",
+    "vaschetta"
+  ],
+  "incoming_envelope": [
+    "busta",
+    "comunicazione",
+    "email",
+    "in arrivo",
+    "lettera",
+    "posta in arrivo"
+  ],
+  "index_pointing_up": [
+    "dito",
+    "dito verso l’alto",
+    "indicare",
+    "indice verso l’alto",
+    "tu"
+  ],
+  "india": [
+    "bandiera"
+  ],
+  "indonesia": [
+    "bandiera"
+  ],
+  "infinity": [
+    "eternità",
+    "illimitato",
+    "per sempre",
+    "simbolo dell’infinito",
+    "universale"
+  ],
+  "information_source": [
+    "i",
+    "informazioni",
+    "punto informazioni"
+  ],
+  "innocent": [
+    "angioletto",
+    "aureola",
+    "faccina",
+    "faccina con sorriso e aureola",
+    "faccina sorridente con aureola"
+  ],
+  "input_latin_letters": [
+    "abc",
+    "alfabeto",
+    "caratteri alfabetici",
+    "inglese",
+    "inserire",
+    "pulsante con lettere latine"
+  ],
+  "input_latin_lowercase": [
+    "caratteri latini",
+    "inserire",
+    "lettere",
+    "minuscole",
+    "pulsante con lettere latine minuscole"
+  ],
+  "input_latin_uppercase": [
+    "caratteri latini",
+    "inserire",
+    "lettere",
+    "maiuscole",
+    "pulsante con lettere latine maiuscole"
+  ],
+  "input_symbols": [
+    "inserire",
+    "pulsante con simboli",
+    "simboli",
+    "tastierino simboli"
+  ],
+  "iran": [
+    "bandiera"
+  ],
+  "iraq": [
+    "bandiera"
+  ],
+  "ireland": [
+    "bandiera"
+  ],
+  "isle_of_man": [
+    "bandiera"
+  ],
+  "israel": [
+    "bandiera"
+  ],
+  "italy": [
+    "bandiera"
+  ],
+  "jack_o_lantern": [
+    "festa",
+    "halloween",
+    "zucca",
+    "zucca di halloween"
+  ],
+  "jamaica": [
+    "bandiera"
+  ],
+  "japan": [
+    "bandiera"
+  ],
+  "japanese_acceptable_button": [
+    "accettabile",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “accettabile”"
+  ],
+  "japanese_application_button": [
+    "candidarsi",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “candidatura”"
+  ],
+  "japanese_bargain_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “occasione”",
+    "vantaggio"
+  ],
+  "japanese_castle": [
+    "casa",
+    "castello giapponese",
+    "edificio"
+  ],
+  "japanese_congratulations_button": [
+    "congratulazioni",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “congratulazioni”"
+  ],
+  "japanese_discount_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “sconto”",
+    "prezzo scontato",
+    "sconto"
+  ],
+  "japanese_dolls": [
+    "bambole",
+    "festa",
+    "festa delle bambole",
+    "giapponesi"
+  ],
+  "japanese_free_of_charge_button": [
+    "giapponese",
+    "gratis",
+    "ideogramma",
+    "ideogramma giapponese di “gratis”"
+  ],
+  "japanese_here_button": [
+    "ideogramma giapponese per “qui”",
+    "ideogramma katakana qui",
+    "katakana",
+    "parola",
+    "qui",
+    "tabelloni"
+  ],
+  "japanese_monthly_amount_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “importo mensile”",
+    "luna"
+  ],
+  "japanese_no_vacancy_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “nessun posto libero”",
+    "nessun posto libero",
+    "pieno"
+  ],
+  "japanese_not_free_of_charge_button": [
+    "esistere",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “a pagamento”"
+  ],
+  "japanese_open_for_business_button": [
+    "aperto",
+    "aperto al pubblico",
+    "aperto per affari",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “aperto al pubblico”"
+  ],
+  "japanese_passing_grade_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “voto di sufficienza”",
+    "sufficienza"
+  ],
+  "japanese_post_office": [
+    "edificio",
+    "giapponese",
+    "posta",
+    "ufficio postale",
+    "ufficio postale giapponese"
+  ],
+  "japanese_prohibited_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “proibito”",
+    "proibito"
+  ],
+  "japanese_reserved_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “riservato”",
+    "riservato"
+  ],
+  "japanese_secret_button": [
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “segreto”",
+    "segreto"
+  ],
+  "japanese_service_charge_button": [
+    "ideogramma giapponese di “costo del servizio”",
+    "ideogramma katakana sa",
+    "katakana",
+    "parola",
+    "sa"
+  ],
+  "japanese_symbol_for_beginner": [
+    "etichetta gialla e verde principiante",
+    "ideogramma giapponese di “principiante”",
+    "principiante",
+    "simbolo principiante giappone"
+  ],
+  "japanese_vacancy_button": [
+    "disponibilità",
+    "giapponese",
+    "ideogramma",
+    "ideogramma giapponese di “posto libero”",
+    "libero",
+    "posto libero"
+  ],
+  "jeans": [
+    "abbigliamento"
+  ],
+  "jersey": [
+    "bandiera"
+  ],
+  "joker": [
+    "carta",
+    "carta da gioco",
+    "jolly"
+  ],
+  "jordan": [
+    "bandiera"
+  ],
+  "joy": [
+    "faccina",
+    "faccina con lacrime di gioia",
+    "gioia",
+    "lacrime",
+    "piangere dal ridere"
+  ],
+  "joy_cat": [
+    "faccina",
+    "gatto",
+    "gatto con lacrime di gioia",
+    "gatto lacrime di gioia",
+    "gioia",
+    "lacrime",
+    "lacrime di gioia"
+  ],
+  "joystick": [
+    "giocare",
+    "leva del joystick",
+    "videogioco"
+  ],
+  "judge": [
+    "bilancia",
+    "giudice",
+    "giustizia"
+  ],
+  "kaaba": [
+    "arabia saudita",
+    "islamismo",
+    "la mecca",
+    "religione"
+  ],
+  "kangaroo": [
+    "animale che salta",
+    "australia",
+    "canguro",
+    "marsupiale"
+  ],
+  "kazakhstan": [
+    "bandiera"
+  ],
+  "kenya": [
+    "bandiera"
+  ],
+  "key": [
+    "chiave",
+    "password"
+  ],
+  "keyboard": [
+    "computer",
+    "tasti",
+    "tastiera",
+    "tastiera senza fili"
+  ],
+  "kick_scooter": [
+    "monopattino"
+  ],
+  "kimono": [
+    "abbigliamento",
+    "vestito"
+  ],
+  "kiribati": [
+    "bandiera"
+  ],
+  "kiss": [
+    "baciarsi",
+    "bacio tra coppia",
+    "coppia",
+    "coppietta",
+    "persone"
+  ],
+  "kiss_man_man": [
+    "baciarsi",
+    "bacio tra coppia",
+    "coppia",
+    "coppietta",
+    "persone",
+    "uomo"
+  ],
+  "kiss_mark": [
+    "bacio",
+    "impronta della bocca",
+    "labbra",
+    "romanticismo",
+    "segno delle labbra"
+  ],
+  "kiss_woman_man": [
+    "baciarsi",
+    "bacio tra coppia",
+    "coppia",
+    "coppietta",
+    "donna",
+    "persone",
+    "uomo"
+  ],
+  "kiss_woman_woman": [
+    "baciarsi",
+    "bacio tra coppia",
+    "coppia",
+    "coppietta",
+    "donna",
+    "persone"
+  ],
+  "kissing_cat": [
+    "bacio",
+    "chiusi",
+    "faccina",
+    "gatto",
+    "gatto che manda baci"
+  ],
+  "kissing_face": [
+    "faccina",
+    "faccina che bacia",
+    "faccina che dà bacio"
+  ],
+  "kissing_face_with_closed_eyes": [
+    "baciare",
+    "bacio",
+    "faccina",
+    "faccina che bacia con occhi chiusi",
+    "occhi chiusi"
+  ],
+  "kissing_face_with_smiling_eyes": [
+    "faccina",
+    "faccina che bacia con occhi sorridenti",
+    "faccina che manda baci",
+    "faccina sorridente"
+  ],
+  "kitchen_knife": [
+    "coltello",
+    "coltello da cucina",
+    "cucina"
+  ],
+  "kite": [
+    "aquilone",
+    "planare",
+    "volare"
+  ],
+  "kiwi_fruit": [
+    "cibo",
+    "frutta",
+    "kiwi"
+  ],
+  "knot": [
+    "annodato",
+    "corda",
+    "legare",
+    "nodo",
+    "spago"
+  ],
+  "koala": [
+    "animale"
+  ],
+  "kosovo": [
+    "bandiera"
+  ],
+  "kuwait": [
+    "bandiera"
+  ],
+  "kyrgyzstan": [
+    "bandiera"
+  ],
+  "lab_coat": [
+    "camice",
+    "dottore",
+    "esperimento",
+    "scienziato"
+  ],
+  "label": [
+    "etichetta",
+    "identificativo",
+    "talloncino"
+  ],
+  "lacrosse": [
+    "goal",
+    "palla",
+    "racchetta da lacrosse"
+  ],
+  "ladder": [
+    "arrampicarsi",
+    "piolo",
+    "scala",
+    "scalino"
+  ],
+  "lady_beetle": [
+    "animale",
+    "coccinella"
+  ],
+  "laos": [
+    "bandiera"
+  ],
+  "laptop": [
+    "computer portatile",
+    "pc",
+    "portatile"
+  ],
+  "large_blue_diamond": [
+    "blu",
+    "grande",
+    "rombo"
+  ],
+  "large_orange_diamond": [
+    "arancione",
+    "grande",
+    "rombo"
+  ],
+  "last_quarter_moon": [
+    "luna",
+    "quarto",
+    "ultimo quarto di luna"
+  ],
+  "last_quarter_moon_face": [
+    "faccina",
+    "faccina ultimo quarto di luna",
+    "luna",
+    "luna con faccina",
+    "ultimo quarto di luna"
+  ],
+  "last_track_button": [
+    "freccia",
+    "pulsante",
+    "pulsante traccia precedente",
+    "traccia precedente"
+  ],
+  "latin_cross": [
+    "cristianesimo",
+    "croce",
+    "croce latina",
+    "religione"
+  ],
+  "latvia": [
+    "bandiera"
+  ],
+  "laughing": [
+    "bocca aperta",
+    "occhi chiusi",
+    "sorriso",
+    "sorriso a bocca aperta con occhi chiusi"
+  ],
+  "leaf_fluttering_in_wind": [
+    "foglia",
+    "foglia al vento",
+    "vento",
+    "vento che soffia"
+  ],
+  "leafy_green": [
+    "bok choy",
+    "cavolo nero",
+    "kale",
+    "lattuga",
+    "verdure a foglia"
+  ],
+  "lebanon": [
+    "bandiera"
+  ],
+  "ledger": [
+    "blocco",
+    "block notes",
+    "libro mastro",
+    "quaderno ad anelli",
+    "taccuino"
+  ],
+  "left_arrow": [
+    "direzione",
+    "freccia",
+    "freccia a sinistra",
+    "freccia rivolta a sinistra",
+    "ovest",
+    "punto cardinale"
+  ],
+  "left_arrow_curving_right": [
+    "curva",
+    "freccia",
+    "freccia curva a destra",
+    "verso destra"
+  ],
+  "left_facing_fist": [
+    "pugno",
+    "pugno a sinistra",
+    "sinistra"
+  ],
+  "left_luggage": [
+    "bagagli",
+    "deposito bagagli",
+    "servizio bagagli",
+    "simbolo del deposito bagagli"
+  ],
+  "left_right_arrow": [
+    "destra",
+    "doppia direzione",
+    "freccia",
+    "freccia sinistra-destra",
+    "larghezza"
+  ],
+  "left_speech_bubble": [
+    "dialogo",
+    "fumetto",
+    "nuvoletta",
+    "nuvoletta nera"
+  ],
+  "leg": [
+    "arto",
+    "calcio",
+    "gamba"
+  ],
+  "lemon": [
+    "agrume",
+    "frutta",
+    "limone"
+  ],
+  "leo": [
+    "leone",
+    "segno zodiacale del leone",
+    "zodiaco"
+  ],
+  "leopard": [
+    "animale",
+    "leopardo"
+  ],
+  "lesotho": [
+    "bandiera"
+  ],
+  "level_slider": [
+    "abbassare il volume",
+    "alzare il volume",
+    "cursore del volume",
+    "levetta del volume",
+    "regolazione volume"
+  ],
+  "liberia": [
+    "bandiera"
+  ],
+  "libra": [
+    "bilancia",
+    "segno zodiacale della bilancia",
+    "zodiaco"
+  ],
+  "libya": [
+    "bandiera"
+  ],
+  "liechtenstein": [
+    "bandiera"
+  ],
+  "light_bulb": [
+    "elettrica",
+    "fumetto",
+    "idea",
+    "lampadina",
+    "luce"
+  ],
+  "light_rail": [
+    "metrotranvia",
+    "veicolo"
+  ],
+  "link": [
+    "collegamento",
+    "due anelli",
+    "simbolo link"
+  ],
+  "linked_paperclips": [
+    "allegare",
+    "cancelleria",
+    "fermagli",
+    "graffette attaccate"
+  ],
+  "lion": [
+    "faccina",
+    "leone",
+    "muso di leone",
+    "segno zodiacale"
+  ],
+  "lipstick": [
+    "cosmetici",
+    "makeup",
+    "rossetto",
+    "trucco"
+  ],
+  "lithuania": [
+    "bandiera"
+  ],
+  "litter_in_bin_sign": [
+    "raccolta rifiuti",
+    "simbolo",
+    "simbolo per la raccolta dei rifiuti",
+    "simbolo raccolta rifiuti"
+  ],
+  "lizard": [
+    "animale",
+    "lucertola",
+    "rettile"
+  ],
+  "llama": [
+    "alpaca",
+    "lama",
+    "lana di alpaca"
+  ],
+  "lobster": [
+    "aragosta",
+    "chele",
+    "crostacei",
+    "zuppa"
+  ],
+  "locked": [
+    "chiuso",
+    "lucchetto"
+  ],
+  "locked_with_key": [
+    "chiave",
+    "lucchetto chiuso",
+    "lucchetto chiuso con chiave",
+    "sicuro"
+  ],
+  "locked_with_pen": [
+    "lucchetto",
+    "lucchetto con penna stilo",
+    "privacy",
+    "stilografica"
+  ],
+  "locomotive": [
+    "locomotiva",
+    "locomotiva a vapore",
+    "treno",
+    "veicolo"
+  ],
+  "lollipop": [
+    "caramella",
+    "lecca lecca",
+    "ristorante"
+  ],
+  "long_drum": [
+    "conga",
+    "percussioni",
+    "ritmo",
+    "tamburo",
+    "tamburo lungo"
+  ],
+  "lotion_bottle": [
+    "crema idratante",
+    "crema solare",
+    "flacone",
+    "lozione",
+    "shampoo"
+  ],
+  "loudspeaker": [
+    "altoparlante",
+    "altoparlanti",
+    "megafoni",
+    "megafono"
+  ],
+  "love_hotel": [
+    "amore",
+    "edificio",
+    "hotel",
+    "motel"
+  ],
+  "love_letter": [
+    "busta con cuore",
+    "cuore",
+    "lettera d’amore",
+    "romanticismo"
+  ],
+  "love_you_gesture": [
+    "gesto ti amo",
+    "gesto tvb"
+  ],
+  "luggage": [
+    "bagagli",
+    "partenza",
+    "valigia",
+    "viaggiare"
+  ],
+  "lungs": [
+    "espirazione",
+    "inspirazione",
+    "organo",
+    "polmoni",
+    "respirazione",
+    "respiro"
+  ],
+  "luxembourg": [
+    "bandiera"
+  ],
+  "lying_face": [
+    "bugia",
+    "bugiardo",
+    "faccina bugiarda",
+    "naso lungo",
+    "pinocchio"
+  ],
+  "macao_sar_china": [
+    "bandiera"
+  ],
+  "madagascar": [
+    "bandiera"
+  ],
+  "mage": [
+    "mago",
+    "strega",
+    "stregone"
+  ],
+  "magic_wand": [
+    "bacchetta magica",
+    "maga",
+    "magia",
+    "mago",
+    "strega",
+    "stregone"
+  ],
+  "magnet": [
+    "attrazione",
+    "calamita",
+    "ferro di cavallo",
+    "magnete",
+    "magnetica"
+  ],
+  "magnifying_glass_tilted_left": [
+    "cerca",
+    "lente",
+    "lente di ingrandimento rivolta a sinistra",
+    "lente ingrandimento",
+    "lente ingrandimento verso sinistra"
+  ],
+  "magnifying_glass_tilted_right": [
+    "cerca",
+    "lente",
+    "lente di ingrandimento rivolta a destra",
+    "lente ingrandimento",
+    "lente ingrandimento verso destra"
+  ],
+  "mahjong_red_dragon": [
+    "drago",
+    "drago rosso",
+    "mahjong",
+    "tessera"
+  ],
+  "malawi": [
+    "bandiera"
+  ],
+  "malaysia": [
+    "bandiera"
+  ],
+  "maldives": [
+    "bandiera"
+  ],
+  "male_sign": [
+    "maschio",
+    "simbolo di maschio",
+    "simbolo genere maschile",
+    "uomo"
+  ],
+  "mali": [
+    "bandiera"
+  ],
+  "malta": [
+    "bandiera"
+  ],
+  "mammoth": [
+    "estinzione",
+    "grande",
+    "lanoso",
+    "mammut",
+    "zanna"
+  ],
+  "man": [
+    "maschio",
+    "persone",
+    "uomo"
+  ],
+  "man_artist": [
+    "arte",
+    "artista",
+    "pittore",
+    "uomo"
+  ],
+  "man_astronaut": [
+    "astronauta",
+    "razzo",
+    "spazio",
+    "uomo"
+  ],
+  "man_bald": [
+    "calvo",
+    "maschio",
+    "persone",
+    "uomo"
+  ],
+  "man_biking": [
+    "bici",
+    "bicicletta",
+    "ciclista",
+    "ciclista uomo",
+    "sport"
+  ],
+  "man_bouncing_ball": [
+    "palla",
+    "sport",
+    "uomo",
+    "uomo che fa rimbalzare una palla"
+  ],
+  "man_bowing": [
+    "gesto",
+    "inchino",
+    "scuse",
+    "uomo",
+    "uomo che fa inchino profondo"
+  ],
+  "man_cartwheeling": [
+    "ginnastica",
+    "ruota",
+    "sport",
+    "uomo",
+    "uomo che fa la ruota"
+  ],
+  "man_climbing": [
+    "scalatore",
+    "uomo che scala"
+  ],
+  "man_cook": [
+    "chef",
+    "cucinare",
+    "cuoco",
+    "uomo"
+  ],
+  "man_curly_hair": [
+    "capelli ricci",
+    "maschio",
+    "persone",
+    "uomo"
+  ],
+  "man_dancing": [
+    "ballare",
+    "uomo",
+    "uomo che balla"
+  ],
+  "man_detective": [
+    "detective",
+    "investigatore",
+    "spia",
+    "uomo"
+  ],
+  "man_elf": [
+    "elfo uomo",
+    "magico"
+  ],
+  "man_facepalming": [
+    "esasperazione",
+    "facepalm",
+    "gesto",
+    "uomo",
+    "uomo esasperato"
+  ],
+  "man_factory_worker": [
+    "fabbrica",
+    "industria",
+    "operaio",
+    "uomo"
+  ],
+  "man_fairy": [
+    "folletto alato",
+    "oberon",
+    "puck"
+  ],
+  "man_farmer": [
+    "allevatore",
+    "contadino",
+    "fattoria",
+    "uomo"
+  ],
+  "man_feeding_baby": [
+    "allattamento",
+    "bebè",
+    "nutrire",
+    "uomo",
+    "uomo che allatta"
+  ],
+  "man_firefighter": [
+    "incendio",
+    "pompiere",
+    "uomo",
+    "vigile del fuoco"
+  ],
+  "man_frowning": [
+    "corrucciato",
+    "gesto",
+    "maschio",
+    "uomo"
+  ],
+  "man_genie": [
+    "djinn",
+    "genio uomo"
+  ],
+  "man_gesturing_no": [
+    "no",
+    "proibito",
+    "rifiuto",
+    "uomo",
+    "uomo con gesto di rifiuto"
+  ],
+  "man_gesturing_ok": [
+    "d’accordo",
+    "gesto",
+    "ok",
+    "uomo",
+    "uomo con gesto ok"
+  ],
+  "man_getting_haircut": [
+    "bellezza",
+    "taglio di capelli",
+    "taglio di capelli per uomo",
+    "uomo"
+  ],
+  "man_getting_massage": [
+    "faccia",
+    "massaggio",
+    "massaggio al viso per uomo",
+    "uomo",
+    "uomo che riceve un massaggio",
+    "viso"
+  ],
+  "man_golfing": [
+    "golf",
+    "golfista uomo",
+    "mazza",
+    "sport",
+    "uomo"
+  ],
+  "man_guard": [
+    "guardia",
+    "maschio",
+    "uomo"
+  ],
+  "man_health_worker": [
+    "camice",
+    "dottore",
+    "operatore sanitario",
+    "ospedale",
+    "uomo"
+  ],
+  "man_in_lotus_position": [
+    "meditazione",
+    "uomo in posizione del loto",
+    "yoga"
+  ],
+  "man_in_manual_wheelchair": [
+    "accessibilità",
+    "uomo in carrozzina",
+    "uomo in sedia a rotelle",
+    "uomo su sedia a rotelle manuale"
+  ],
+  "man_in_motorized_wheelchair": [
+    "accessibilità",
+    "uomo in carrozzina",
+    "uomo in sedia a rotelle",
+    "uomo su sedia a rotelle motorizzata"
+  ],
+  "man_in_steamy_room": [
+    "bagno turco",
+    "sauna",
+    "uomo in sauna"
+  ],
+  "man_in_tuxedo": [
+    "smoking",
+    "uomo",
+    "uomo in smoking"
+  ],
+  "man_judge": [
+    "bilancia",
+    "giudice",
+    "giustizia",
+    "uomo"
+  ],
+  "man_juggling": [
+    "abilità",
+    "equilibrio",
+    "giocoliere",
+    "uomo"
+  ],
+  "man_kneeling": [
+    "in ginocchio",
+    "inginocchiarsi",
+    "uomo",
+    "uomo inginocchiato"
+  ],
+  "man_lifting_weights": [
+    "bilanciere",
+    "pesi",
+    "sport",
+    "uomo",
+    "uomo che solleva pesi"
+  ],
+  "man_mage": [
+    "mago",
+    "mago uomo",
+    "stregone"
+  ],
+  "man_mechanic": [
+    "chiave inglese",
+    "idraulico",
+    "meccanico",
+    "uomo"
+  ],
+  "man_mountain_biking": [
+    "bici",
+    "bicicletta",
+    "ciclista uomo di mountain bike",
+    "mountain bike",
+    "sport"
+  ],
+  "man_office_worker": [
+    "business",
+    "impiegato",
+    "manager",
+    "ufficio",
+    "uomo"
+  ],
+  "man_pilot": [
+    "aereo",
+    "aeroplano",
+    "pilota",
+    "uomo"
+  ],
+  "man_playing_handball": [
+    "pallamanista uomo",
+    "pallamano",
+    "sport",
+    "uomo"
+  ],
+  "man_playing_water_polo": [
+    "pallanuotista uomo",
+    "pallanuoto",
+    "piscina",
+    "sport",
+    "uomo"
+  ],
+  "man_police_officer": [
+    "agente",
+    "divisa",
+    "polizia",
+    "poliziotto uomo",
+    "uomo"
+  ],
+  "man_pouting": [
+    "gesto",
+    "imbronciato",
+    "maschio",
+    "uomo"
+  ],
+  "man_raising_hand": [
+    "gesto",
+    "mano alzata",
+    "uomo",
+    "uomo con mano alzata"
+  ],
+  "man_red_hair": [
+    "capelli rossi",
+    "maschio",
+    "persone",
+    "uomo"
+  ],
+  "man_rowing_boat": [
+    "barca",
+    "remi",
+    "uomo",
+    "uomo in barca a remi"
+  ],
+  "man_running": [
+    "correre",
+    "corsa",
+    "sport",
+    "uomo",
+    "uomo che corre"
+  ],
+  "man_s_shoe": [
+    "abbigliamento",
+    "scarpa",
+    "scarpa da uomo"
+  ],
+  "man_scientist": [
+    "biologia",
+    "chimica",
+    "scienza",
+    "scienziato",
+    "uomo"
+  ],
+  "man_shrugging": [
+    "dubitare",
+    "gesto",
+    "indifferenza",
+    "uomo",
+    "uomo che scrolla le spalle"
+  ],
+  "man_singer": [
+    "attore",
+    "cantante",
+    "cantante uomo",
+    "musica",
+    "star"
+  ],
+  "man_standing": [
+    "in piedi",
+    "uomo",
+    "uomo in piedi"
+  ],
+  "man_student": [
+    "laurea",
+    "maschio",
+    "ragazzo",
+    "studente"
+  ],
+  "man_superhero": [
+    "eroe",
+    "supereroe",
+    "uomo"
+  ],
+  "man_supervillain": [
+    "cattivo",
+    "criminale",
+    "supercattivo uomo",
+    "superpotere",
+    "uomo"
+  ],
+  "man_surfing": [
+    "sport",
+    "surf",
+    "surfista uomo",
+    "tavola da surf",
+    "uomo"
+  ],
+  "man_swimming": [
+    "nuotatore",
+    "nuoto",
+    "piscina",
+    "sport",
+    "uomo"
+  ],
+  "man_teacher": [
+    "insegnante",
+    "professore",
+    "scuola",
+    "studio"
+  ],
+  "man_technologist": [
+    "computer",
+    "programmatore",
+    "sviluppatore",
+    "tecnologo",
+    "uomo"
+  ],
+  "man_tipping_hand": [
+    "indicazione",
+    "informazioni",
+    "uomo",
+    "uomo con suggerimento"
+  ],
+  "man_vampire": [
+    "dracula",
+    "morto vivente",
+    "vampiro uomo"
+  ],
+  "man_walking": [
+    "camminare",
+    "passeggiata",
+    "pedone",
+    "uomo",
+    "uomo che cammina"
+  ],
+  "man_wearing_turban": [
+    "maschio",
+    "turbante",
+    "uomo",
+    "uomo con turbante"
+  ],
+  "man_white_hair": [
+    "capelli bianchi",
+    "maschio",
+    "persone",
+    "uomo"
+  ],
+  "man_with_veil": [
+    "sposo",
+    "sposo con velo",
+    "velo"
+  ],
+  "man_with_white_cane": [
+    "accessibilità",
+    "cecità",
+    "ciechi",
+    "cieco",
+    "ipovedente",
+    "ipovedenti",
+    "non vedente",
+    "non vedenti",
+    "uomo",
+    "uomo con bastone bianco di orientamento"
+  ],
+  "man_zombie": [
+    "morto vivente",
+    "zombie uomo"
+  ],
+  "mango": [
+    "frutta",
+    "tropicale"
+  ],
+  "mantelpiece_clock": [
+    "ora",
+    "orologio",
+    "orologio da mensola"
+  ],
+  "manual_wheelchair": [
+    "accessibilità",
+    "carrozzina manuale",
+    "sedia a rotelle manuale"
+  ],
+  "map_of_japan": [
+    "giappone",
+    "mappa",
+    "mappa del giappone"
+  ],
+  "maple_leaf": [
+    "foglia",
+    "foglia caduta",
+    "foglia d’acero"
+  ],
+  "marshall_islands": [
+    "bandiera"
+  ],
+  "martial_arts_uniform": [
+    "arti marziali",
+    "judo",
+    "karate",
+    "kimono",
+    "kimono per arti marziali"
+  ],
+  "martinique": [
+    "bandiera"
+  ],
+  "mate": [
+    "bevanda",
+    "erba mate"
+  ],
+  "mauritania": [
+    "bandiera"
+  ],
+  "mauritius": [
+    "bandiera"
+  ],
+  "mayotte": [
+    "bandiera"
+  ],
+  "meat_on_bone": [
+    "carne",
+    "carne con osso",
+    "ristorante"
+  ],
+  "mechanic": [
+    "elettricista",
+    "idraulico",
+    "meccanico"
+  ],
+  "mechanical_arm": [
+    "accessibilità",
+    "protesi",
+    "protesi robotica per il braccio"
+  ],
+  "mechanical_leg": [
+    "accessibilità",
+    "protesi",
+    "protesi robotica per la gamba"
+  ],
+  "medical_symbol": [
+    "bastone di esculapio",
+    "medicina",
+    "simbolo della medicina"
+  ],
+  "megaphone": [
+    "altoparlante",
+    "altoparlanti",
+    "megafoni",
+    "megafono"
+  ],
+  "melon": [
+    "frutta",
+    "melone"
+  ],
+  "memo": [
+    "block notes",
+    "matita"
+  ],
+  "men_holding_hands": [
+    "coppia",
+    "due uomini che si tengono per mano",
+    "due uomini per mano",
+    "persone",
+    "tenersi per mano"
+  ],
+  "men_s_room": [
+    "bagno uomini",
+    "simbolo",
+    "simbolo bagno uomini",
+    "simbolo del bagno degli uomini",
+    "uomini"
+  ],
+  "men_with_bunny_ears": [
+    "ballerino",
+    "orecchie da coniglio",
+    "party",
+    "uomini con orecchie da coniglio",
+    "uomo"
+  ],
+  "men_wrestling": [
+    "lotta",
+    "lottatori",
+    "sport",
+    "uomo",
+    "wrestling"
+  ],
+  "menorah": [
+    "candelabro",
+    "ebraismo",
+    "sette bracci"
+  ],
+  "mermaid": [
+    "sirena",
+    "sirena donna"
+  ],
+  "merman": [
+    "tritone"
+  ],
+  "merperson": [
+    "sirena"
+  ],
+  "metro": [
+    "metropolitana",
+    "veicolo"
+  ],
+  "mexico": [
+    "bandiera"
+  ],
+  "microbe": [
+    "ameba",
+    "batteri",
+    "microbo",
+    "virus"
+  ],
+  "micronesia": [
+    "bandiera"
+  ],
+  "microphone": [
+    "karaoke",
+    "microfono"
+  ],
+  "microscope": [
+    "analisi",
+    "esperimento",
+    "microscopio",
+    "scienza",
+    "strumento"
+  ],
+  "military_helmet": [
+    "elmetto",
+    "esercito",
+    "militare",
+    "soldato"
+  ],
+  "military_medal": [
+    "medaglia",
+    "medaglia al valore",
+    "medaglia militare",
+    "riconoscimento",
+    "vittoria"
+  ],
+  "milky_way": [
+    "lattea",
+    "via lattea"
+  ],
+  "minibus": [
+    "bus",
+    "pulmino",
+    "veicolo"
+  ],
+  "minus": [
+    "meno",
+    "simbolo della sottrazione",
+    "sottrazione"
+  ],
+  "mirror": [
+    "riflesso",
+    "specchio"
+  ],
+  "moai": [
+    "moyai",
+    "statua dell’isola di pasqua"
+  ],
+  "mobile_phone": [
+    "cellulare",
+    "telefono"
+  ],
+  "mobile_phone_off": [
+    "cellulare",
+    "spento",
+    "telefono"
+  ],
+  "mobile_phone_with_arrow": [
+    "cellulare",
+    "cellulare con freccia",
+    "telefonare",
+    "telefono",
+    "telefono cellulare con freccia"
+  ],
+  "moldova": [
+    "bandiera"
+  ],
+  "monaco": [
+    "bandiera"
+  ],
+  "money_bag": [
+    "denaro",
+    "sacco",
+    "sacco di soldi"
+  ],
+  "money_mouth_face": [
+    "avidità",
+    "faccina avida di denaro",
+    "guadagnare",
+    "ricchezza",
+    "soldi"
+  ],
+  "money_with_wings": [
+    "banconota",
+    "banconota con le ali",
+    "soldi",
+    "soldi che volano",
+    "soldi con le ali"
+  ],
+  "mongolia": [
+    "bandiera"
+  ],
+  "monkey": [
+    "animale",
+    "scimmia"
+  ],
+  "monkey_face": [
+    "animale",
+    "faccina",
+    "muso di scimmia",
+    "scimmia"
+  ],
+  "monorail": [
+    "monorotaia",
+    "veicolo"
+  ],
+  "montenegro": [
+    "bandiera"
+  ],
+  "montserrat": [
+    "bandiera"
+  ],
+  "moon_cake": [
+    "autunno",
+    "festival",
+    "torta della luna",
+    "yuèbǐng"
+  ],
+  "moon_viewing_ceremony": [
+    "contemplazione della luna",
+    "contemplazione festa",
+    "festa della contemplazione della luna",
+    "luna"
+  ],
+  "morocco": [
+    "bandiera"
+  ],
+  "mosque": [
+    "islamismo",
+    "moschea",
+    "religione"
+  ],
+  "mosquito": [
+    "febbre",
+    "insetto",
+    "malaria",
+    "zanzara"
+  ],
+  "motor_boat": [
+    "barca",
+    "barca a motore",
+    "motore"
+  ],
+  "motor_scooter": [
+    "motorino",
+    "scooter"
+  ],
+  "motorcycle": [
+    "moto",
+    "motocicletta"
+  ],
+  "motorized_wheelchair": [
+    "accessibilità",
+    "carrozzina motorizzata",
+    "sedia a rotelle motorizzata"
+  ],
+  "motorway": [
+    "autostrada",
+    "pedaggio",
+    "strada veloce"
+  ],
+  "mount_fuji": [
+    "montagna",
+    "monte fuji"
+  ],
+  "mountain": [
+    "cima",
+    "montagna"
+  ],
+  "mountain_cableway": [
+    "funicolare",
+    "veicolo"
+  ],
+  "mountain_railway": [
+    "ferrovia di montagna",
+    "veicolo"
+  ],
+  "mouse": [
+    "animale",
+    "topo"
+  ],
+  "mouse_face": [
+    "animale",
+    "faccina",
+    "muso di topo",
+    "topo"
+  ],
+  "mouse_trap": [
+    "esca",
+    "trappola",
+    "trappola per topi"
+  ],
+  "mouth": [
+    "bocca",
+    "corpo",
+    "faccia",
+    "labbra"
+  ],
+  "movie_camera": [
+    "cinema",
+    "cinepresa",
+    "film",
+    "intrattenimento",
+    "telecamera"
+  ],
+  "mozambique": [
+    "bandiera"
+  ],
+  "mrs_claus": [
+    "mamma natale",
+    "natale"
+  ],
+  "multiply": [
+    "cancellare",
+    "moltiplicazione",
+    "segno moltiplicazione",
+    "segno per",
+    "x"
+  ],
+  "mushroom": [
+    "autunno",
+    "bosco",
+    "fungo"
+  ],
+  "musical_keyboard": [
+    "musica",
+    "piano",
+    "pianoforte",
+    "strumento musicale",
+    "tastiera"
+  ],
+  "musical_note": [
+    "musica",
+    "nota",
+    "nota musicale"
+  ],
+  "musical_notes": [
+    "musica",
+    "nota",
+    "note",
+    "note musicali"
+  ],
+  "musical_score": [
+    "musica",
+    "partitura",
+    "pentagramma"
+  ],
+  "muted_speaker": [
+    "altoparlante barrato",
+    "altoparlante disattivato",
+    "silenzio",
+    "suono disattivato"
+  ],
+  "mx_claus": [
+    "claus, natale",
+    "santa claus"
+  ],
+  "myanmar_burma": [
+    "bandiera"
+  ],
+  "nail_polish": [
+    "cosmetici",
+    "manicure",
+    "smalto",
+    "smalto per unghie"
+  ],
+  "name_badge": [
+    "nome",
+    "tesserino",
+    "tesserino per nome"
+  ],
+  "namibia": [
+    "bandiera"
+  ],
+  "national_park": [
+    "escursione",
+    "natura",
+    "parco nazionale"
+  ],
+  "nauru": [
+    "bandiera"
+  ],
+  "nauseated_face": [
+    "faccina",
+    "faccina nauseata",
+    "nausea",
+    "vomito"
+  ],
+  "nazar_amulet": [
+    "amuleto",
+    "malocchio",
+    "nazar",
+    "occhio di allah"
+  ],
+  "necktie": [
+    "abbigliamento",
+    "cravatta"
+  ],
+  "nepal": [
+    "bandiera"
+  ],
+  "nerd_face": [
+    "faccina nerd",
+    "nerd",
+    "occhiali da nerd",
+    "secchione",
+    "studioso"
+  ],
+  "nesting_dolls": [
+    "bambola",
+    "matrioska",
+    "russia"
+  ],
+  "netherlands": [
+    "bandiera"
+  ],
+  "neutral_face": [
+    "faccina",
+    "impassibile",
+    "neutra",
+    "no comment"
+  ],
+  "new_button": [
+    "pulsante new",
+    "simbolo new"
+  ],
+  "new_caledonia": [
+    "bandiera"
+  ],
+  "new_moon": [
+    "luna",
+    "novilunio",
+    "nuova"
+  ],
+  "new_moon_face": [
+    "faccina",
+    "faccina luna nuova",
+    "luna",
+    "luna nuova",
+    "luna nuova con faccina"
+  ],
+  "new_zealand": [
+    "bandiera"
+  ],
+  "newspaper": [
+    "giornale",
+    "quotidiano"
+  ],
+  "next_track_button": [
+    "freccia",
+    "prossima traccia",
+    "pulsante",
+    "traccia successiva"
+  ],
+  "ng_button": [
+    "pulsante ng",
+    "simbolo ng"
+  ],
+  "nicaragua": [
+    "bandiera"
+  ],
+  "niger": [
+    "bandiera"
+  ],
+  "nigeria": [
+    "bandiera"
+  ],
+  "night_with_stars": [
+    "notte",
+    "notte stellata",
+    "stelle"
+  ],
+  "nine": [
+    "tasto"
+  ],
+  "nine_o_clock": [
+    "21:00",
+    "9:00",
+    "ore nove",
+    "orologio"
+  ],
+  "nine_thirty": [
+    "21:30",
+    "9:30",
+    "ore nove e mezza",
+    "orologio"
+  ],
+  "ninja": [
+    "guerriero",
+    "invisibile",
+    "nascosto"
+  ],
+  "niue": [
+    "bandiera"
+  ],
+  "no_bicycles": [
+    "bicicletta",
+    "divieto transito biciclette",
+    "segnale di divieto di transito delle biciclette"
+  ],
+  "no_entry": [
+    "accesso",
+    "divieto",
+    "divieto di accesso",
+    "segnale di divieto di accesso",
+    "simbolo"
+  ],
+  "no_littering": [
+    "simbolo",
+    "simbolo del divieto di gettare rifiuti",
+    "simbolo vietato gettare rifiuti",
+    "vietato gettare rifiuti"
+  ],
+  "no_mobile_phones": [
+    "cellulare vietato",
+    "cellulari vietati",
+    "niente cellulare",
+    "niente cellulari",
+    "simbolo che vieta l’utilizzo dei telefoni cellulari"
+  ],
+  "no_one_under_eighteen": [
+    "divieto ai minori",
+    "simbolo di divieto ai minorenni",
+    "vietato ai minori",
+    "vietato ai minori di anni 18"
+  ],
+  "no_pedestrians": [
+    "divieto transito pedoni",
+    "pedone",
+    "simbolo",
+    "simbolo del divieto di transito pedoni"
+  ],
+  "no_smoking": [
+    "segnale di vietato fumare",
+    "simbolo",
+    "simbolo vietato fumare",
+    "vietato fumare"
+  ],
+  "non_potable_water": [
+    "acqua",
+    "acqua non potabile",
+    "non potabile",
+    "simbolo",
+    "simbolo acqua non potabile",
+    "simbolo di acqua non potabile"
+  ],
+  "norfolk_island": [
+    "bandiera"
+  ],
+  "north_korea": [
+    "bandiera"
+  ],
+  "north_macedonia": [
+    "bandiera"
+  ],
+  "northern_mariana_islands": [
+    "bandiera"
+  ],
+  "norway": [
+    "bandiera"
+  ],
+  "nose": [
+    "corpo",
+    "faccia",
+    "naso"
+  ],
+  "notebook": [
+    "appunti",
+    "prendere nota",
+    "quaderno",
+    "taccuino"
+  ],
+  "notebook_with_decorative_cover": [
+    "copertina",
+    "quaderno con copertina decorata",
+    "taccuino",
+    "taccuino con decorazione",
+    "taccuino copertina decorata",
+    "taccuino decorato"
+  ],
+  "nut_and_bolt": [
+    "bullonare",
+    "bullone",
+    "fissare",
+    "vite e bullone"
+  ],
+  "o_button_blood_type": [
+    "gruppo 0",
+    "gruppo sanguigno 0"
+  ],
+  "ocean": [
+    "onda",
+    "onda d’acqua",
+    "onda del mare"
+  ],
+  "octopus": [
+    "animale",
+    "polpo"
+  ],
+  "oden": [
+    "oden giapponese",
+    "pesce",
+    "ristorante",
+    "spiedino",
+    "spiedino di pesce"
+  ],
+  "office_building": [
+    "edificio",
+    "edifico di uffici",
+    "ufficio"
+  ],
+  "office_worker": [
+    "architetto",
+    "business",
+    "impiegato",
+    "manager",
+    "persona che fa un lavoro d’ufficio"
+  ],
+  "ogre": [
+    "faccina",
+    "favola",
+    "mostro",
+    "orco",
+    "orco giapponese"
+  ],
+  "oil_drum": [
+    "barile",
+    "barile di petrolio",
+    "bidone",
+    "fusto",
+    "petrolio"
+  ],
+  "ok_button": [
+    "pulsante ok",
+    "simbolo ok"
+  ],
+  "ok_hand": [
+    "mano",
+    "mano che fa ok",
+    "ok",
+    "segno di ok"
+  ],
+  "old_key": [
+    "chiave",
+    "chiave antica",
+    "chiudere a chiave",
+    "serratura"
+  ],
+  "old_man": [
+    "anziano",
+    "nonno",
+    "persone",
+    "uomo"
+  ],
+  "old_woman": [
+    "anziana",
+    "donna",
+    "nonna",
+    "persone"
+  ],
+  "older_person": [
+    "adulto anziano",
+    "anziano",
+    "persona anziana"
+  ],
+  "olive": [
+    "cibo",
+    "oliva"
+  ],
+  "om": [
+    "induismo",
+    "mantra",
+    "religione induista"
+  ],
+  "oman": [
+    "bandiera"
+  ],
+  "on_arrow": [
+    "freccia",
+    "freccia on",
+    "on con freccia e punto esclamativo",
+    "punto esclamativo"
+  ],
+  "oncoming_automobile": [
+    "auto in arrivo",
+    "automobile",
+    "automobile in arrivo",
+    "in arrivo",
+    "veicolo"
+  ],
+  "oncoming_bus": [
+    "bus",
+    "bus in arrivo",
+    "in arrivo",
+    "veicolo"
+  ],
+  "oncoming_fist": [
+    "mano",
+    "pugno",
+    "pugno chiuso"
+  ],
+  "oncoming_police_car": [
+    "auto",
+    "macchina",
+    "macchina della polizia in arrivo",
+    "polizia",
+    "veicolo"
+  ],
+  "oncoming_taxi": [
+    "taxi",
+    "taxi in arrivo",
+    "veicolo"
+  ],
+  "one": [
+    "tasto"
+  ],
+  "one_o_clock": [
+    "1:00",
+    "13:00",
+    "ore una",
+    "orologio"
+  ],
+  "one_piece_swimsuit": [
+    "costume da bagno",
+    "costume da bagno intero"
+  ],
+  "one_thirty": [
+    "1:30",
+    "13:30",
+    "ore una e mezza",
+    "orologio"
+  ],
+  "onion": [
+    "cipolla",
+    "insaporire",
+    "insaporitore",
+    "soffritto"
+  ],
+  "open_book": [
+    "libro",
+    "libro aperto"
+  ],
+  "open_file_folder": [
+    "aperta",
+    "cartella",
+    "file"
+  ],
+  "open_hands": [
+    "aperta",
+    "mani aperte",
+    "mano",
+    "segno",
+    "segno delle mani aperte"
+  ],
+  "open_mailbox_with_lowered_flag": [
+    "aperta",
+    "bandierina",
+    "casetta postale aperta bandierina giù",
+    "cassetta postale",
+    "cassetta postale con bandierina abbassata",
+    "posta"
+  ],
+  "open_mailbox_with_raised_flag": [
+    "aperta",
+    "bandierina",
+    "cassetta postale",
+    "cassetta postale aperta bandierina alzata",
+    "cassetta postale aperta bandierina su",
+    "posta"
+  ],
+  "open_mouth": [
+    "bocca",
+    "faccina",
+    "faccina con bocca aperta",
+    "sorpreso",
+    "stupito"
+  ],
+  "ophiuchus": [
+    "ofiuco",
+    "segno zodiacale dell’ofiuco",
+    "zodiaco"
+  ],
+  "optical_disk": [
+    "blu-ray",
+    "cd",
+    "disco",
+    "disco ottico",
+    "dvd"
+  ],
+  "orange_book": [
+    "libro",
+    "libro arancione"
+  ],
+  "orange_circle": [
+    "cerchio",
+    "cerchio arancio",
+    "cerchio arancione"
+  ],
+  "orange_heart": [
+    "arancione",
+    "cuore",
+    "emozione"
+  ],
+  "orange_square": [
+    "arancione",
+    "quadrato",
+    "quadrato di colore arancione"
+  ],
+  "orangutan": [
+    "orango",
+    "orangotango",
+    "scimmia",
+    "scimmione"
+  ],
+  "orthodox_cross": [
+    "cristianesimo",
+    "croce",
+    "croce ortodossa",
+    "ortodossi",
+    "religione"
+  ],
+  "otter": [
+    "lontra",
+    "lontra marina"
+  ],
+  "outbox_tray": [
+    "comunicazione",
+    "in uscita",
+    "inviata",
+    "posta",
+    "vaschetta"
+  ],
+  "owl": [
+    "animale",
+    "fortuna",
+    "gufo",
+    "saggezza",
+    "uccello"
+  ],
+  "ox": [
+    "animale",
+    "bue"
+  ],
+  "oyster": [
+    "ostrea",
+    "ostrica",
+    "perla"
+  ],
+  "p_button": [
+    "area di parcheggio",
+    "pulsante p"
+  ],
+  "package": [
+    "collo",
+    "pacco",
+    "scatola"
+  ],
+  "page_facing_up": [
+    "documento",
+    "pagina"
+  ],
+  "page_with_curl": [
+    "documento",
+    "pagina",
+    "pagina arricciata",
+    "pagina con piega"
+  ],
+  "pager": [
+    "cercapersone",
+    "comunicazione"
+  ],
+  "paintbrush": [
+    "artista",
+    "dipingere",
+    "pennello",
+    "pittore",
+    "pittrice"
+  ],
+  "pakistan": [
+    "bandiera"
+  ],
+  "palau": [
+    "bandiera"
+  ],
+  "palestinian_territories": [
+    "bandiera"
+  ],
+  "palm_tree": [
+    "albero",
+    "palma"
+  ],
+  "palms_up_together": [
+    "mani unite in alto",
+    "preghiera"
+  ],
+  "panama": [
+    "bandiera"
+  ],
+  "pancakes": [
+    "americano",
+    "cibo",
+    "colazione",
+    "crêpe",
+    "pancake"
+  ],
+  "panda": [
+    "animale",
+    "faccina",
+    "muso di panda"
+  ],
+  "paperclip": [
+    "fermaglio",
+    "graffetta"
+  ],
+  "papua_new_guinea": [
+    "bandiera"
+  ],
+  "parachute": [
+    "paracadute",
+    "paracadute ascensionale",
+    "paracadutismo",
+    "parasailing",
+    "skydiving"
+  ],
+  "paraguay": [
+    "bandiera"
+  ],
+  "parrot": [
+    "pappagallo",
+    "pirati",
+    "uccello parlante"
+  ],
+  "part_alternation_mark": [
+    "canzone",
+    "divisione spartito",
+    "parti musicali",
+    "segno",
+    "simbolo di alternanza delle parti",
+    "suddivisione parti"
+  ],
+  "partying_face": [
+    "cappellino",
+    "faccina che festeggia",
+    "festa",
+    "festeggiamenti",
+    "party",
+    "trombetta"
+  ],
+  "passenger_ship": [
+    "crociera",
+    "nave",
+    "nave da crociera",
+    "vacanza"
+  ],
+  "passport_control": [
+    "controllo",
+    "dogana",
+    "passaporti",
+    "simbolo del controllo passaporti"
+  ],
+  "pause_button": [
+    "mettere in pausa",
+    "pausa",
+    "pulsante"
+  ],
+  "paw_prints": [
+    "animale",
+    "impronta",
+    "impronta di zampa",
+    "impronte di zampe"
+  ],
+  "peace_symbol": [
+    "pace",
+    "pace e amore",
+    "peace and love",
+    "simbolo della pace"
+  ],
+  "peach": [
+    "frutta",
+    "pesca"
+  ],
+  "peacock": [
+    "pavone",
+    "pavoneggiarsi",
+    "uccello",
+    "volatile"
+  ],
+  "peanuts": [
+    "arachide",
+    "arachidi",
+    "cibo",
+    "frutta secca",
+    "nocciolina",
+    "noccioline"
+  ],
+  "pear": [
+    "frutta",
+    "pera"
+  ],
+  "pen": [
+    "penna a sfera",
+    "scrivere a penna"
+  ],
+  "pencil": [
+    "matita",
+    "matita con gomma",
+    "scrivere",
+    "scrivere a matita"
+  ],
+  "penguin": [
+    "animale",
+    "pinguino"
+  ],
+  "pensive_face": [
+    "faccina",
+    "pensierosa",
+    "scoraggiata"
+  ],
+  "people_holding_hands": [
+    "coppia",
+    "coppia che si tiene per mano",
+    "coppia per mano",
+    "persone che si tengono per mano",
+    "tenersi per mano"
+  ],
+  "people_hugging": [
+    "abbraccio",
+    "addio",
+    "ciao",
+    "grazie",
+    "persone che si abbracciano"
+  ],
+  "people_with_bunny_ears": [
+    "donna",
+    "orecchie da coniglio",
+    "persone",
+    "persone con orecchie da coniglio",
+    "ragazza"
+  ],
+  "people_wrestling": [
+    "persone",
+    "persone che fanno la lotta",
+    "sport",
+    "wrestler",
+    "wrestling"
+  ],
+  "performing_arts": [
+    "arte",
+    "arti performative",
+    "intrattenimento",
+    "maschere",
+    "performance"
+  ],
+  "persevering_face": [
+    "faccina",
+    "perseverante"
+  ],
+  "person": [
+    "adulto",
+    "persona"
+  ],
+  "person_bald": [
+    "adulto",
+    "calvo",
+    "persona"
+  ],
+  "person_beard": [
+    "barba",
+    "persona con la barba",
+    "uomo con la barba"
+  ],
+  "person_biking": [
+    "bici",
+    "ciclista"
+  ],
+  "person_blond_hair": [
+    "biondo",
+    "persona bionda",
+    "persone"
+  ],
+  "person_bouncing_ball": [
+    "basket",
+    "campo",
+    "giocatore",
+    "palla",
+    "persona che fa rimbalzare una palla"
+  ],
+  "person_bowing": [
+    "gesto",
+    "mi dispiace",
+    "persona",
+    "persona che fa un inchino profondo"
+  ],
+  "person_cartwheeling": [
+    "ginnasta",
+    "ginnastica",
+    "persona",
+    "persona che fa la ruota",
+    "ruota"
+  ],
+  "person_climbing": [
+    "persona che scala",
+    "scalatore"
+  ],
+  "person_curly_hair": [
+    "adulto",
+    "capelli ricci",
+    "persona"
+  ],
+  "person_facepalming": [
+    "esasperazione",
+    "facepalm",
+    "incredulità",
+    "mano in fronte",
+    "persona esasperata"
+  ],
+  "person_feeding_baby": [
+    "allattamento",
+    "bebè",
+    "nutrire",
+    "persona",
+    "persona che allatta"
+  ],
+  "person_fencing": [
+    "fioretto",
+    "persona",
+    "scherma",
+    "schermidore",
+    "spada"
+  ],
+  "person_frowning": [
+    "corrucciata",
+    "gesto",
+    "persona"
+  ],
+  "person_gesturing_no": [
+    "faccina",
+    "gesto di rifiuto",
+    "non bene",
+    "persona che fa segno di no",
+    "rifiuto",
+    "vietato"
+  ],
+  "person_gesturing_ok": [
+    "gesto",
+    "ok",
+    "persona con gesto ok",
+    "tutto bene"
+  ],
+  "person_getting_haircut": [
+    "bellezza",
+    "salone",
+    "salone di bellezza",
+    "taglio di capelli"
+  ],
+  "person_getting_massage": [
+    "centro estetico",
+    "massaggio",
+    "massaggio facciale",
+    "persona che riceve un massaggio"
+  ],
+  "person_golfing": [
+    "buca",
+    "giocatore di golf",
+    "mazza",
+    "pallina",
+    "persona che gioca a golf",
+    "tiro"
+  ],
+  "person_in_bed": [
+    "dormire",
+    "hotel",
+    "letto",
+    "notte",
+    "persona a letto"
+  ],
+  "person_in_lotus_position": [
+    "meditazione",
+    "persona in posizione del loto",
+    "yoga"
+  ],
+  "person_in_manual_wheelchair": [
+    "accessibilità",
+    "persona su sedia a rotelle manuale",
+    "sedia a rotelle"
+  ],
+  "person_in_motorized_wheelchair": [
+    "accessibilità",
+    "persona su sedia a rotelle motorizzata",
+    "sedia a rotelle"
+  ],
+  "person_in_steamy_room": [
+    "bagno turco",
+    "persona in sauna",
+    "sauna"
+  ],
+  "person_in_suit_levitating": [
+    "uomo",
+    "uomo con completo che levita",
+    "uomo elegante che levita",
+    "vestito elegante"
+  ],
+  "person_in_tuxedo": [
+    "persona",
+    "persona in smoking",
+    "smoking",
+    "sposo"
+  ],
+  "person_juggling": [
+    "abilità",
+    "equilibrio",
+    "giocoliere",
+    "persona che fa giocoleria"
+  ],
+  "person_kneeling": [
+    "in ginocchio",
+    "inginocchiarsi",
+    "persona inginocchiata"
+  ],
+  "person_lifting_weights": [
+    "bilanciere",
+    "persona che solleva pesi",
+    "pesi massimi",
+    "sollevamento pesi",
+    "sport"
+  ],
+  "person_mountain_biking": [
+    "ciclista",
+    "ciclista di mountain bike",
+    "mountain bike"
+  ],
+  "person_playing_handball": [
+    "palla",
+    "pallamano",
+    "persona",
+    "persona che gioca a pallamano",
+    "sport"
+  ],
+  "person_playing_water_polo": [
+    "acqua",
+    "pallanuoto",
+    "persona",
+    "persona che gioca a pallanuoto",
+    "piscina"
+  ],
+  "person_pouting": [
+    "gesto",
+    "imbronciata",
+    "persona"
+  ],
+  "person_raising_hand": [
+    "felice",
+    "gesto",
+    "mano alzata",
+    "persona",
+    "persona con mano alzata"
+  ],
+  "person_red_hair": [
+    "adulto",
+    "capelli rossi",
+    "persona"
+  ],
+  "person_rowing_boat": [
+    "barca",
+    "persona",
+    "persona in barca a remi",
+    "remi"
+  ],
+  "person_running": [
+    "corsa",
+    "maratona",
+    "persona che corre",
+    "sport"
+  ],
+  "person_shrugging": [
+    "dubbio",
+    "indifferenza",
+    "noncuranza",
+    "persona che scrolla le spalle",
+    "spalle alzate"
+  ],
+  "person_standing": [
+    "in piedi",
+    "persona in piedi",
+    "stare in piedi"
+  ],
+  "person_surfing": [
+    "persona che fa surf",
+    "sport"
+  ],
+  "person_swimming": [
+    "nuotare",
+    "nuoto",
+    "persona che nuota",
+    "sport"
+  ],
+  "person_taking_bath": [
+    "fare il bagno",
+    "lavarsi",
+    "persona che fa il bagno"
+  ],
+  "person_tipping_hand": [
+    "assistenza",
+    "informazioni",
+    "persona al punto informazioni",
+    "persone"
+  ],
+  "person_walking": [
+    "camminare",
+    "passeggiata",
+    "pedone",
+    "uomo"
+  ],
+  "person_wearing_turban": [
+    "persona con turbante",
+    "persone",
+    "turbante"
+  ],
+  "person_white_hair": [
+    "adulto",
+    "capelli bianchi",
+    "persona"
+  ],
+  "person_with_skullcap": [
+    "persone",
+    "uomo con zucchetto",
+    "uomo con zucchetto cinese",
+    "zucchetto"
+  ],
+  "person_with_veil": [
+    "matrimonio persone",
+    "persona con velo",
+    "sposa",
+    "sposa con il velo",
+    "velo"
+  ],
+  "person_with_white_cane": [
+    "accessibilità",
+    "cecità",
+    "persona con bastone di orientamento"
+  ],
+  "peru": [
+    "bandiera"
+  ],
+  "petri_dish": [
+    "batteri",
+    "biologia",
+    "biologo",
+    "cultura",
+    "piastra di petri"
+  ],
+  "philippines": [
+    "bandiera"
+  ],
+  "pick": [
+    "attrezzo",
+    "miniera",
+    "picconare",
+    "piccone",
+    "scavare"
+  ],
+  "pickup_truck": [
+    "camioncino",
+    "pick-up",
+    "pickup"
+  ],
+  "pie": [
+    "apple pie",
+    "torta",
+    "torta di mele",
+    "tortino"
+  ],
+  "pig": [
+    "animale",
+    "maiale"
+  ],
+  "pig_face": [
+    "animale",
+    "faccina",
+    "maiale",
+    "muso di maiale"
+  ],
+  "pig_nose": [
+    "animale",
+    "faccina",
+    "maiale",
+    "naso",
+    "naso da maiale"
+  ],
+  "pill": [
+    "dottore",
+    "medicina",
+    "pillola"
+  ],
+  "pilot": [
+    "aereo",
+    "pilota"
+  ],
+  "pinched_fingers": [
+    "dita",
+    "dita unite",
+    "gesto della mano",
+    "interrogativo",
+    "mano a pigna",
+    "sarcastico"
+  ],
+  "pinching_hand": [
+    "mano che fa il gesto del pizzico",
+    "piccola quantità",
+    "poco",
+    "un po’",
+    "un pochino"
+  ],
+  "pine_decoration": [
+    "bambù",
+    "bambù decorato",
+    "decorazione kadomatsu",
+    "giapponese"
+  ],
+  "pineapple": [
+    "ananas",
+    "frutta"
+  ],
+  "ping_pong": [
+    "pallina",
+    "racchetta",
+    "rete",
+    "tennis da tavolo"
+  ],
+  "pirate_flag": [
+    "bandiera dei pirati",
+    "corsari",
+    "corsaro",
+    "pirata",
+    "pirati"
+  ],
+  "pisces": [
+    "pesci",
+    "segno zodiacale dei pesci",
+    "zodiaco"
+  ],
+  "pitcairn_islands": [
+    "bandiera"
+  ],
+  "pizza": [
+    "fetta",
+    "ristorante"
+  ],
+  "piñata": [
+    "divertimento",
+    "festa",
+    "pentolaccia"
+  ],
+  "placard": [
+    "cartello",
+    "corteo",
+    "manifestazione",
+    "picchetto",
+    "protesta",
+    "striscione"
+  ],
+  "place_of_worship": [
+    "luogo di culto",
+    "luogo di preghiera",
+    "luogo sacro",
+    "pregare",
+    "preghiera"
+  ],
+  "play_button": [
+    "freccia",
+    "play",
+    "pulsante di riproduzione",
+    "pulsante play",
+    "riproduzione",
+    "triangolo"
+  ],
+  "play_or_pause_button": [
+    "destra",
+    "freccia",
+    "play e pausa",
+    "play o pausa",
+    "pulsante riproduci/pausa",
+    "triangolo"
+  ],
+  "pleading_face": [
+    "faccina sull’orlo delle lacrime",
+    "faccina supplichevole",
+    "implorare",
+    "lacrime",
+    "quasi in lacrime"
+  ],
+  "plunger": [
+    "aspirazione",
+    "idraulico",
+    "scarico",
+    "sturalavandini",
+    "ventosa"
+  ],
+  "plus": [
+    "addizione",
+    "più",
+    "simbolo dell’addizione"
+  ],
+  "poland": [
+    "bandiera"
+  ],
+  "polar_bear": [
+    "bianco",
+    "orso",
+    "polare"
+  ],
+  "police_car": [
+    "auto",
+    "macchina",
+    "macchina della polizia",
+    "polizia",
+    "veicolo"
+  ],
+  "police_car_light": [
+    "lampeggiante",
+    "sirena della polizia"
+  ],
+  "police_officer": [
+    "agente",
+    "agente di polizia",
+    "persone",
+    "polizia",
+    "poliziotto"
+  ],
+  "poodle": [
+    "animale",
+    "barboncino",
+    "cane"
+  ],
+  "pool_8_ball": [
+    "biliardo",
+    "gioco",
+    "palla da biliardo",
+    "palla otto"
+  ],
+  "poop": [
+    "cacca",
+    "popò",
+    "pupù"
+  ],
+  "popcorn": [
+    "cinema",
+    "mais"
+  ],
+  "portugal": [
+    "bandiera"
+  ],
+  "post_office": [
+    "edificio",
+    "europeo",
+    "posta",
+    "ufficio postale"
+  ],
+  "postal_horn": [
+    "cornetta da postiglione",
+    "cornetto postale",
+    "corno postale"
+  ],
+  "postbox": [
+    "buca delle lettere",
+    "cassetta delle lettere",
+    "posta",
+    "ricevere posta",
+    "spedire posta"
+  ],
+  "pot_of_food": [
+    "ciotola di cibo",
+    "ristorante",
+    "stufato",
+    "zuppa"
+  ],
+  "potable_water": [
+    "acqua",
+    "potabile",
+    "simbolo"
+  ],
+  "potato": [
+    "cibo",
+    "ortaggio",
+    "patata",
+    "tubero"
+  ],
+  "potted_plant": [
+    "casa",
+    "coltivare",
+    "curare",
+    "inutile",
+    "noioso",
+    "pianta",
+    "pianta in vaso"
+  ],
+  "poultry_leg": [
+    "coscia",
+    "coscia di pollo",
+    "pollo",
+    "ristorante"
+  ],
+  "pound_banknote": [
+    "banconota",
+    "denaro",
+    "sterlina"
+  ],
+  "pouting_cat": [
+    "broncio",
+    "faccina",
+    "gatto",
+    "gatto imbronciato",
+    "muso"
+  ],
+  "prayer_beads": [
+    "preghiera",
+    "rosario"
+  ],
+  "pregnant_woman": [
+    "donna",
+    "gravidanza",
+    "incinta"
+  ],
+  "prince": [
+    "principe"
+  ],
+  "princess": [
+    "favola",
+    "persone",
+    "principessa"
+  ],
+  "printer": [
+    "stampante",
+    "stampare",
+    "stampe"
+  ],
+  "prohibited": [
+    "divieto",
+    "segnale di divieto",
+    "simbolo",
+    "simbolo di divieto"
+  ],
+  "puerto_rico": [
+    "bandiera"
+  ],
+  "purple_circle": [
+    "cerchio",
+    "cerchio di colore viola",
+    "cerchio viola"
+  ],
+  "purple_heart": [
+    "cuore",
+    "emozione",
+    "viola"
+  ],
+  "purple_square": [
+    "quadrato",
+    "quadrato di colore viola",
+    "viola"
+  ],
+  "purse": [
+    "abbigliamento",
+    "borsellino",
+    "moneta",
+    "porta monete"
+  ],
+  "pushpin": [
+    "puntina",
+    "puntina da disegno"
+  ],
+  "puzzle_piece": [
+    "pezzo di puzzle",
+    "puzzle",
+    "tessera del puzzle"
+  ],
+  "qatar": [
+    "bandiera"
+  ],
+  "rabbit": [
+    "animale",
+    "coniglietto",
+    "coniglio"
+  ],
+  "rabbit_face": [
+    "animale",
+    "coniglio",
+    "faccina",
+    "muso di coniglio"
+  ],
+  "raccoon": [
+    "animale furbo",
+    "curiosità",
+    "furbizia",
+    "procione"
+  ],
+  "racing_car": [
+    "auto da corsa",
+    "f1",
+    "gran premio"
+  ],
+  "radio": [
+    "ascoltare la radio",
+    "musica",
+    "stazioni radio"
+  ],
+  "radio_button": [
+    "opzione",
+    "pulsante",
+    "pulsante rotondo"
+  ],
+  "radioactive": [
+    "radioattività",
+    "radioattivo",
+    "rifiuti tossici",
+    "scorie",
+    "simbolo della radioattività"
+  ],
+  "railway_car": [
+    "elettrico",
+    "ferrovia",
+    "tram",
+    "treno",
+    "vagone"
+  ],
+  "railway_track": [
+    "binari",
+    "treno"
+  ],
+  "rainbow": [
+    "arcobaleno",
+    "pioggia",
+    "sette colori"
+  ],
+  "rainbow_flag": [
+    "bandiera arcobaleno",
+    "pride"
+  ],
+  "raised_back_of_hand": [
+    "alzata",
+    "dorso mano alzata",
+    "mano"
+  ],
+  "raised_fist": [
+    "alzato",
+    "pugno",
+    "sasso"
+  ],
+  "raised_hand": [
+    "alzata",
+    "carta",
+    "mano"
+  ],
+  "raising_hands": [
+    "evviva",
+    "mani",
+    "mani alzate",
+    "urrà",
+    "vittoria"
+  ],
+  "ram": [
+    "animale",
+    "montone"
+  ],
+  "rat": [
+    "animale",
+    "ratto"
+  ],
+  "razor": [
+    "farsi la barba",
+    "lama da barba",
+    "lama da barbiere",
+    "radersi",
+    "rasoio",
+    "rasoio da barbiere"
+  ],
+  "receipt": [
+    "contabilità",
+    "ricevuta di pagamento",
+    "scontrino"
+  ],
+  "record_button": [
+    "cerchio",
+    "pulsante",
+    "pulsante di registrazione",
+    "registrazione"
+  ],
+  "recycling_symbol": [
+    "raccolta differenziata",
+    "riciclaggio",
+    "riciclare",
+    "riciclo",
+    "simbolo",
+    "simbolo del riciclaggio"
+  ],
+  "red_apple": [
+    "frutta",
+    "mela",
+    "rossa"
+  ],
+  "red_circle": [
+    "cerchio",
+    "geometria",
+    "rosso"
+  ],
+  "red_envelope": [
+    "buono auspicio",
+    "busta rossa",
+    "hongbao",
+    "lai see",
+    "regalo",
+    "soldi"
+  ],
+  "red_exclamation_mark": [
+    "esclamazione",
+    "punteggiatura",
+    "punto esclamativo",
+    "punto esclamativo pieno",
+    "punto esclamativo rosso"
+  ],
+  "red_paper_lantern": [
+    "izakaya",
+    "lanterna",
+    "lanterna giapponese",
+    "lanterna rossa"
+  ],
+  "red_question_mark": [
+    "domanda",
+    "punto di domanda pieno",
+    "punto interrogativo rosso"
+  ],
+  "red_square": [
+    "quadrato",
+    "quadrato di colore rosso",
+    "rosso"
+  ],
+  "red_triangle_pointed_down": [
+    "basso",
+    "rosso",
+    "triangolo",
+    "triangolo rosso con punta verso il basso",
+    "triangolo rosso punta in basso"
+  ],
+  "red_triangle_pointed_up": [
+    "alto",
+    "rosso",
+    "triangolo",
+    "triangolo rosso con punta verso l’alto",
+    "triangolo rosso punta in alto"
+  ],
+  "registered": [
+    "marchio registrato",
+    "marchio registrato cerchiato"
+  ],
+  "relieved_face": [
+    "faccina",
+    "faccina sollevata"
+  ],
+  "reminder_ribbon": [
+    "festa",
+    "festeggiamenti",
+    "fiocco",
+    "nastro",
+    "nodo"
+  ],
+  "repeat_button": [
+    "frecce",
+    "frecce a cerchio",
+    "frecce senso orario",
+    "pulsante di ripetizione della riproduzione",
+    "senso orario"
+  ],
+  "repeat_single_button": [
+    "frecce",
+    "frecce a cerchio numero 1",
+    "frecce senso orario",
+    "frecce senso orario numero 1",
+    "pulsante di ripetizione della riproduzione di una traccia",
+    "senso orario"
+  ],
+  "rescue_worker_s_helmet": [
+    "bianca",
+    "croce",
+    "elmetto",
+    "elmetto con croce bianca"
+  ],
+  "restroom": [
+    "bagni",
+    "simbolo",
+    "simbolo dei servizi igienici",
+    "wc"
+  ],
+  "reunion": [
+    "bandiera"
+  ],
+  "reverse_button": [
+    "pulsante",
+    "pulsante di riavvolgimento",
+    "pulsante riavvolgimento",
+    "sinistra",
+    "triangolo"
+  ],
+  "revolving_hearts": [
+    "adorabile",
+    "amore",
+    "carino",
+    "cuore",
+    "cuori che girano"
+  ],
+  "rhinoceros": [
+    "animale",
+    "rinoceronte"
+  ],
+  "ribbon": [
+    "festa",
+    "fiocco"
+  ],
+  "rice_ball": [
+    "arancino di riso giapponese",
+    "onigiri",
+    "polpetta di riso giapponese",
+    "ristorante"
+  ],
+  "rice_cracker": [
+    "galletta di riso",
+    "riso"
+  ],
+  "right_anger_bubble": [
+    "dialogo",
+    "fumetto",
+    "nuvoletta rabbia",
+    "rabbia"
+  ],
+  "right_arrow": [
+    "direzione",
+    "est",
+    "freccia",
+    "freccia a destra",
+    "freccia rivolta verso destra",
+    "punto cardinale"
+  ],
+  "right_arrow_curving_down": [
+    "curva",
+    "freccia",
+    "freccia curva in basso",
+    "verso il basso"
+  ],
+  "right_arrow_curving_left": [
+    "curva",
+    "freccia",
+    "freccia curva a sinistra",
+    "verso sinistra"
+  ],
+  "right_arrow_curving_up": [
+    "curva",
+    "freccia",
+    "freccia curva in alto",
+    "verso l’alto"
+  ],
+  "right_facing_fist": [
+    "destra",
+    "pugno",
+    "pugno a destra"
+  ],
+  "ring": [
+    "anello",
+    "anello di diamanti",
+    "diamante"
+  ],
+  "ringed_planet": [
+    "pianeta con satellite",
+    "saturno"
+  ],
+  "roasted_sweet_potato": [
+    "arrosto",
+    "dolce",
+    "patata arrosto",
+    "patata dolce",
+    "patata dolce arrosto"
+  ],
+  "robot": [
+    "faccina",
+    "faccina di robot"
+  ],
+  "rock": [
+    "masso",
+    "pesante",
+    "pietra",
+    "roccia",
+    "solido"
+  ],
+  "rocket": [
+    "razzo",
+    "veicolo",
+    "viaggio"
+  ],
+  "rofl": [
+    "crepapelle",
+    "ridere",
+    "ridere a crepapelle"
+  ],
+  "roll_eyes": [
+    "faccina",
+    "faccina con occhi al cielo",
+    "guardare altrove",
+    "roteare gli occhi",
+    "sollevare gli occhi al cielo"
+  ],
+  "roll_of_paper": [
+    "carta igienica",
+    "rotolo",
+    "rotolo di carta igienica"
+  ],
+  "rolled_up_newspaper": [
+    "giornale",
+    "giornale arrotolato",
+    "giornali",
+    "giornali arrotolati",
+    "quotidiani",
+    "quotidiano",
+    "quotidiano arrotolato"
+  ],
+  "roller_coaster": [
+    "intrattenimento",
+    "montagne",
+    "parco divertimenti",
+    "russe"
+  ],
+  "roller_skate": [
+    "pattini",
+    "pattini a rotelle",
+    "rotelle"
+  ],
+  "romania": [
+    "bandiera"
+  ],
+  "rooster": [
+    "animale",
+    "gallo"
+  ],
+  "rose": [
+    "fiore",
+    "rosa"
+  ],
+  "rosette": [
+    "fiore",
+    "rosetta"
+  ],
+  "round_pushpin": [
+    "puntina",
+    "puntina arrotondata",
+    "puntina da disegno"
+  ],
+  "rugby_football": [
+    "pallone",
+    "pallone da rugby",
+    "sport"
+  ],
+  "running_shirt": [
+    "corsa",
+    "maglia",
+    "maglia da corsa",
+    "maglia da corsa con fascia"
+  ],
+  "running_shoe": [
+    "abbigliamento",
+    "scarpa",
+    "scarpa sportiva",
+    "sneaker"
+  ],
+  "russia": [
+    "bandiera"
+  ],
+  "rwanda": [
+    "bandiera"
+  ],
+  "sad_but_relieved_face": [
+    "deluso",
+    "faccina",
+    "faccina delusa ma sollevata",
+    "sollevato"
+  ],
+  "safety_pin": [
+    "pannolone",
+    "punk rock",
+    "spilla da balia"
+  ],
+  "safety_vest": [
+    "antinfortunistica",
+    "emergenza",
+    "gilet antinfortunistica",
+    "gilet di sicurezza"
+  ],
+  "sagittarius": [
+    "sagittario",
+    "segno zodiacale del saggitario",
+    "zodiaco"
+  ],
+  "sailboat": [
+    "barca",
+    "barca a vela",
+    "località balneare",
+    "vela",
+    "yacht"
+  ],
+  "sake": [
+    "bar",
+    "bere",
+    "bottiglia",
+    "bottiglia e bicchiere di sake"
+  ],
+  "salt": [
+    "condimento",
+    "sale",
+    "saliera"
+  ],
+  "samoa": [
+    "bandiera"
+  ],
+  "san_marino": [
+    "bandiera"
+  ],
+  "sandwich": [
+    "pane"
+  ],
+  "santa_claus": [
+    "babbo natale",
+    "festa",
+    "natale"
+  ],
+  "sao_tome_principe": [
+    "bandiera"
+  ],
+  "sari": [
+    "abbigliamento",
+    "abito tradizionale indiano",
+    "vestito tradizionale"
+  ],
+  "satellite": [
+    "spazio"
+  ],
+  "satellite_antenna": [
+    "antenna parabolica",
+    "antenna satellitare",
+    "antenne paraboliche",
+    "antenne satellitari",
+    "satellite"
+  ],
+  "saudi_arabia": [
+    "bandiera"
+  ],
+  "sauropod": [
+    "brachiosauro",
+    "brontosauro",
+    "diplodoco",
+    "sauropode"
+  ],
+  "saxophone": [
+    "musica",
+    "sassofono",
+    "sax",
+    "strumento",
+    "strumento musicale"
+  ],
+  "scarf": [
+    "collo",
+    "sciarpa"
+  ],
+  "school": [
+    "alunni",
+    "classi",
+    "edificio",
+    "imparare",
+    "scuola"
+  ],
+  "scientist": [
+    "biologo",
+    "chimico",
+    "fisico",
+    "ingegnere",
+    "persona che lavora in campo scientifico",
+    "scienziato"
+  ],
+  "scissors": [
+    "forbici",
+    "strumento",
+    "tagliare"
+  ],
+  "scorpio": [
+    "scorpione",
+    "segno zodiacale dello scorpione",
+    "zodiaco"
+  ],
+  "scorpion": [
+    "animale",
+    "scorpione",
+    "segno zodiacale"
+  ],
+  "scotland": [
+    "bandiera"
+  ],
+  "scream": [
+    "faccina",
+    "grido di paura",
+    "paura",
+    "terrorizzata"
+  ],
+  "screwdriver": [
+    "avvitare",
+    "cacciavite",
+    "utensile",
+    "vite"
+  ],
+  "scroll": [
+    "decreto",
+    "laurea",
+    "pergamena",
+    "rotolo"
+  ],
+  "seal": [
+    "foca",
+    "leone marino",
+    "otaria"
+  ],
+  "seat": [
+    "sedia",
+    "sedile"
+  ],
+  "see_no_evil_monkey": [
+    "non vedo",
+    "scimmietta",
+    "scimmietta non vedo"
+  ],
+  "seedling": [
+    "germoglio",
+    "piantina"
+  ],
+  "selfie": [
+    "autoscatto",
+    "fotocamera",
+    "telefono"
+  ],
+  "senegal": [
+    "bandiera"
+  ],
+  "serbia": [
+    "bandiera"
+  ],
+  "service_dog": [
+    "accessibilità",
+    "cane d’assistenza",
+    "cane da assistenza",
+    "cane di servizio"
+  ],
+  "seven": [
+    "tasto"
+  ],
+  "seven_o_clock": [
+    "19:00",
+    "7:00",
+    "ore sette",
+    "orologio"
+  ],
+  "seven_thirty": [
+    "19:30",
+    "7:30",
+    "ore sette e mezza",
+    "orologio"
+  ],
+  "sewing_needle": [
+    "ago",
+    "ago da cucito",
+    "cucito",
+    "punti",
+    "ricamo",
+    "sartoria",
+    "suture"
+  ],
+  "seychelles": [
+    "bandiera"
+  ],
+  "shallow_pan_of_food": [
+    "casseruola",
+    "cibo",
+    "padella",
+    "padella con cibo",
+    "paella"
+  ],
+  "shamrock": [
+    "foglia",
+    "irlanda",
+    "trifoglio"
+  ],
+  "shark": [
+    "aggressività",
+    "animale",
+    "pesce",
+    "squalo"
+  ],
+  "shaved_ice": [
+    "estate",
+    "ghiaccio",
+    "granita",
+    "granita siciliana",
+    "sicilia"
+  ],
+  "sheaf_of_rice": [
+    "pianta di riso",
+    "riso",
+    "spiga",
+    "spiga di riso"
+  ],
+  "shield": [
+    "medioevo",
+    "protezione",
+    "scudo",
+    "simbolo",
+    "torneo"
+  ],
+  "shinto_shrine": [
+    "jinja",
+    "religione",
+    "santuario shintoista"
+  ],
+  "ship": [
+    "imbarcazione",
+    "nave",
+    "veicolo"
+  ],
+  "shooting_star": [
+    "cadente",
+    "stella"
+  ],
+  "shopping_bags": [
+    "borse della spesa",
+    "sacchetti",
+    "sacchetti regalo"
+  ],
+  "shopping_cart": [
+    "carrello",
+    "carrello della spesa",
+    "centro commerciale",
+    "fare la spesa",
+    "supermercato"
+  ],
+  "shortcake": [
+    "fetta",
+    "fetta di torta",
+    "ristorante",
+    "torta"
+  ],
+  "shorts": [
+    "boxer",
+    "costume da bagno maschile",
+    "costume da uomo",
+    "intimo",
+    "mutande da uomo",
+    "pantaloncini"
+  ],
+  "shower": [
+    "doccia",
+    "fare la doccia",
+    "lavarsi"
+  ],
+  "shrimp": [
+    "animale",
+    "cibo",
+    "crostaceo",
+    "gamberetto",
+    "gambero"
+  ],
+  "shuffle_tracks_button": [
+    "frecce",
+    "frecce incrociate",
+    "frecce incrociate verso destra",
+    "pulsante di riproduzione casuale"
+  ],
+  "shushing_face": [
+    "faccina che zittisce",
+    "silenzio",
+    "zittire"
+  ],
+  "sierra_leone": [
+    "bandiera"
+  ],
+  "sign_of_the_horns": [
+    "corna",
+    "fare le corna",
+    "rock and roll",
+    "segno delle corna"
+  ],
+  "singapore": [
+    "bandiera"
+  ],
+  "singer": [
+    "attore",
+    "cantante",
+    "intrattenitore",
+    "rock",
+    "star"
+  ],
+  "sint_maarten": [
+    "bandiera"
+  ],
+  "six": [
+    "tasto"
+  ],
+  "six_o_clock": [
+    "18:00",
+    "6:00",
+    "ore sei",
+    "orologio"
+  ],
+  "six_thirty": [
+    "18:30",
+    "6:30",
+    "ore sei e mezza",
+    "orologio"
+  ],
+  "skateboard": [
+    "tavola da skateboard"
+  ],
+  "skier": [
+    "neve",
+    "sci",
+    "sciatore",
+    "settimana bianca",
+    "sport"
+  ],
+  "skis": [
+    "scarpone",
+    "scarpone da sci",
+    "sci",
+    "sport"
+  ],
+  "skull": [
+    "favola",
+    "morte",
+    "mostro",
+    "teschio"
+  ],
+  "skull_and_crossbones": [
+    "letale",
+    "morte",
+    "pericolo",
+    "teschio",
+    "teschio con ossa incrociate"
+  ],
+  "skunk": [
+    "puzza",
+    "puzzola"
+  ],
+  "sled": [
+    "slitta",
+    "slittino"
+  ],
+  "sleeping_face": [
+    "faccina",
+    "faccina che dorme",
+    "sonno"
+  ],
+  "sleepy_face": [
+    "assonnato",
+    "dormire",
+    "faccina",
+    "faccina assonnata",
+    "sonno"
+  ],
+  "slightly_frowning_face": [
+    "corrucciato",
+    "faccina",
+    "faccina leggermente imbronciata",
+    "imbronciato",
+    "mettere il muso"
+  ],
+  "slightly_smiling_face": [
+    "faccina con sorriso accennato",
+    "mezzo sorriso",
+    "sorriso",
+    "sorriso a bocca chiusa"
+  ],
+  "slot_machine": [
+    "gioco",
+    "slot"
+  ],
+  "sloth": [
+    "bradipo",
+    "calma",
+    "lenta",
+    "lente",
+    "lentezza",
+    "lenti",
+    "lento",
+    "pigra",
+    "pigre",
+    "pigri",
+    "pigrizia",
+    "pigro"
+  ],
+  "slovakia": [
+    "bandiera"
+  ],
+  "slovenia": [
+    "bandiera"
+  ],
+  "small_airplane": [
+    "aereo turistico",
+    "velivolo"
+  ],
+  "small_blue_diamond": [
+    "blu",
+    "piccolo",
+    "rombo"
+  ],
+  "small_orange_diamond": [
+    "arancione",
+    "piccolo",
+    "rombo"
+  ],
+  "smiley": [
+    "faccina",
+    "faccina con un gran sorriso e occhi spalancati",
+    "faccina sorridente",
+    "risata",
+    "sorridere"
+  ],
+  "smiling_cat_with_heart_eyes": [
+    "amore",
+    "cuore",
+    "faccina",
+    "gatto",
+    "gatto innamorato",
+    "gatto sorridente con occhi a cuore"
+  ],
+  "smiling_face": [
+    "contorno faccina sorridente",
+    "emozionarsi",
+    "faccina",
+    "sorridente"
+  ],
+  "smiling_face_with_horns": [
+    "corna",
+    "faccina",
+    "faccina con sorriso e corna",
+    "sorriso"
+  ],
+  "smiling_face_with_sunglasses": [
+    "faccina",
+    "faccina con sorriso e occhiali da sole",
+    "occhiali da sole",
+    "sorriso",
+    "spensierato"
+  ],
+  "smiling_face_with_tear": [
+    "emozionato",
+    "faccina sorridente con lacrima",
+    "grato",
+    "lacrima",
+    "orgoglioso",
+    "rincuorato",
+    "sorridente"
+  ],
+  "smiling_face_with_three_hearts": [
+    "adorazione",
+    "colpo di fulmine",
+    "faccina con cuoricini",
+    "faccina innamorata"
+  ],
+  "smirking_face": [
+    "faccina",
+    "faccina che sorride",
+    "faccina con sorrisetto",
+    "furbetto",
+    "malizioso"
+  ],
+  "snail": [
+    "animale",
+    "lumaca"
+  ],
+  "snake": [
+    "animale",
+    "serpente"
+  ],
+  "sneezing_face": [
+    "faccina",
+    "faccina che starnutisce",
+    "raffreddore",
+    "starnuto"
+  ],
+  "snow_capped_mountain": [
+    "cima",
+    "ghiacciaio",
+    "inverno",
+    "montagna",
+    "montagna innevata"
+  ],
+  "snowboarder": [
+    "persona sullo snowboard",
+    "snowboard",
+    "sport",
+    "uomo sullo snowboard"
+  ],
+  "snowflake": [
+    "fiocco di neve",
+    "freddo",
+    "ghiaccio",
+    "inverno",
+    "neve"
+  ],
+  "snowman": [
+    "freddo",
+    "inverno",
+    "neve",
+    "pupazzo",
+    "pupazzo di neve",
+    "pupazzo innevato"
+  ],
+  "snowman_without_snow": [
+    "neve",
+    "pupazzo",
+    "pupazzo di neve",
+    "pupazzo di neve senza neve"
+  ],
+  "soap": [
+    "bagno",
+    "sapone",
+    "saponetta",
+    "schiuma"
+  ],
+  "sob": [
+    "faccina",
+    "faccina disperata",
+    "lacrime",
+    "piangere",
+    "pianto"
+  ],
+  "soccer_ball": [
+    "calcio",
+    "pallone",
+    "pallone da calcio"
+  ],
+  "socks": [
+    "calze",
+    "calzini"
+  ],
+  "soft_ice_cream": [
+    "cono gelato",
+    "crema",
+    "gelato",
+    "ristorante"
+  ],
+  "softball": [
+    "guantone",
+    "palla",
+    "palla da softball"
+  ],
+  "solomon_islands": [
+    "bandiera"
+  ],
+  "somalia": [
+    "bandiera"
+  ],
+  "soon_arrow": [
+    "freccia",
+    "freccia soon",
+    "presto",
+    "simbolo soon",
+    "soon con freccia verso destra"
+  ],
+  "sos_button": [
+    "pulsante sos",
+    "segnale di sos",
+    "simbolo di sos",
+    "soccorsi",
+    "soccorso",
+    "sos"
+  ],
+  "south_africa": [
+    "bandiera"
+  ],
+  "south_georgia_south_sandwich_islands": [
+    "bandiera"
+  ],
+  "south_korea": [
+    "bandiera"
+  ],
+  "south_sudan": [
+    "bandiera"
+  ],
+  "spade_suit": [
+    "carte",
+    "picche",
+    "seme"
+  ],
+  "spaghetti": [
+    "pasta",
+    "ristorante"
+  ],
+  "spain": [
+    "bandiera"
+  ],
+  "sparkle": [
+    "scintilla",
+    "scintilla stilizzata",
+    "sfondo verde"
+  ],
+  "sparkler": [
+    "festa",
+    "fuoco d’artificio",
+    "stellina scintillante",
+    "stelline scintillanti"
+  ],
+  "sparkles": [
+    "scintille",
+    "stelle",
+    "stelline"
+  ],
+  "sparkling_heart": [
+    "amore",
+    "cuore che luccica",
+    "emozionato",
+    "emozione",
+    "luccichio"
+  ],
+  "speak_no_evil_monkey": [
+    "non parlo",
+    "scimmietta",
+    "scimmietta non parlo"
+  ],
+  "speaker_high_volume": [
+    "altoparlante a volume alto",
+    "volume alto"
+  ],
+  "speaker_low_volume": [
+    "altoparlante a basso volume",
+    "altoparlante a volume basso",
+    "basso volume",
+    "volume basso"
+  ],
+  "speaker_medium_volume": [
+    "altoparlante a volume intermedio",
+    "volume intermedio",
+    "volume medio"
+  ],
+  "speaking_head": [
+    "parlare",
+    "persona",
+    "persona che parla",
+    "profilo"
+  ],
+  "speech_balloon": [
+    "dialogo",
+    "fumetto"
+  ],
+  "speedboat": [
+    "barca",
+    "motoscafo",
+    "veicolo"
+  ],
+  "spider": [
+    "animale",
+    "insetto",
+    "ragno"
+  ],
+  "spider_web": [
+    "ragnatela",
+    "ragno"
+  ],
+  "spiral_calendar": [
+    "calendario a spirale",
+    "giorni"
+  ],
+  "spiral_notepad": [
+    "appuntare",
+    "appunti",
+    "blocchetto degli appunti",
+    "blocco",
+    "blocco a spirale",
+    "blocco per appunti con spirale",
+    "scrivere"
+  ],
+  "spiral_shell": [
+    "animale",
+    "conchiglia",
+    "conchiglia a spirale"
+  ],
+  "sponge": [
+    "assorbenza",
+    "pulizia",
+    "spugna",
+    "spugna porosa"
+  ],
+  "spoon": [
+    "cucchiaio",
+    "posate"
+  ],
+  "sport_utility_vehicle": [
+    "auto",
+    "suv",
+    "veicolo"
+  ],
+  "sports_medal": [
+    "gara",
+    "medaglia",
+    "medaglia sportiva",
+    "podio"
+  ],
+  "spouting_whale": [
+    "animale",
+    "balena",
+    "balena che spruzza acqua",
+    "spruzzare"
+  ],
+  "squid": [
+    "animale",
+    "calamaro",
+    "cibo",
+    "mollusco",
+    "totano"
+  ],
+  "squinting_face_with_tongue": [
+    "bleah",
+    "faccina",
+    "faccina con un gran sorriso che mostra la lingua",
+    "linguaccia",
+    "orribile"
+  ],
+  "sri_lanka": [
+    "bandiera"
+  ],
+  "st_barthelemy": [
+    "bandiera"
+  ],
+  "st_helena": [
+    "bandiera"
+  ],
+  "st_kitts_nevis": [
+    "bandiera"
+  ],
+  "st_lucia": [
+    "bandiera"
+  ],
+  "st_martin": [
+    "bandiera"
+  ],
+  "st_pierre_miquelon": [
+    "bandiera"
+  ],
+  "st_vincent_grenadines": [
+    "bandiera"
+  ],
+  "stadium": [
+    "competizione",
+    "partita",
+    "sfida",
+    "stadio"
+  ],
+  "star": [
+    "astro",
+    "stella"
+  ],
+  "star_and_crescent": [
+    "islamismo",
+    "mezzaluna",
+    "mezzaluna e stella",
+    "religione",
+    "stella"
+  ],
+  "star_of_david": [
+    "david",
+    "ebraismo",
+    "ebreo",
+    "simbolo ebraico",
+    "stella di david"
+  ],
+  "star_struck": [
+    "colpo di fulmine",
+    "faccia sorridente",
+    "occhi",
+    "stelline"
+  ],
+  "station": [
+    "stazione",
+    "treno"
+  ],
+  "statue_of_liberty": [
+    "libertà",
+    "statua",
+    "statua della libertà"
+  ],
+  "steaming_bowl": [
+    "ciotola di noodle",
+    "ciotola fumante",
+    "noodle",
+    "piatto caldo",
+    "ramen",
+    "ristorante"
+  ],
+  "stethoscope": [
+    "cardiologo",
+    "dottore",
+    "fonendoscopio",
+    "medico",
+    "stetoscopio"
+  ],
+  "stop_button": [
+    "pulsante",
+    "quadrato",
+    "stop"
+  ],
+  "stop_sign": [
+    "ottagonale",
+    "segnale",
+    "segnale di stop",
+    "stop"
+  ],
+  "stopwatch": [
+    "cronometrare",
+    "cronometro",
+    "gara",
+    "prendere il tempo"
+  ],
+  "straight_ruler": [
+    "geometria",
+    "misurare",
+    "righello",
+    "scuola",
+    "strumento"
+  ],
+  "strawberry": [
+    "fragola",
+    "frutta"
+  ],
+  "student": [
+    "diploma",
+    "studente",
+    "studentessa"
+  ],
+  "studio_microphone": [
+    "microfoni",
+    "microfoni da studio",
+    "microfono",
+    "microfono da studio",
+    "microfono radiofonico"
+  ],
+  "stuffed_flatbread": [
+    "falafel",
+    "gyro",
+    "kebab",
+    "pita farcita",
+    "ripieno"
+  ],
+  "sudan": [
+    "bandiera"
+  ],
+  "sun": [
+    "calore",
+    "luce",
+    "raggi",
+    "sole",
+    "splendente"
+  ],
+  "sun_behind_cloud": [
+    "nuvola",
+    "sole",
+    "sole con nuvole",
+    "sole coperto"
+  ],
+  "sun_behind_large_cloud": [
+    "coperto",
+    "meteo",
+    "molto nuvoloso",
+    "nuvoloso"
+  ],
+  "sun_behind_rain_cloud": [
+    "meteo",
+    "pioggia",
+    "sole",
+    "sole coperto e pioggia"
+  ],
+  "sun_behind_small_cloud": [
+    "meteo",
+    "nuvole",
+    "parzialmente nuvoloso",
+    "sole",
+    "variabile"
+  ],
+  "sun_with_face": [
+    "faccina",
+    "sole"
+  ],
+  "sunflower": [
+    "fiore",
+    "girasole"
+  ],
+  "sunglasses": [
+    "occhiali da sole",
+    "occhiali scuri"
+  ],
+  "sunrise": [
+    "alba",
+    "sole che sorge"
+  ],
+  "sunrise_over_mountains": [
+    "alba sulle montagne",
+    "sole che sorge"
+  ],
+  "sunset": [
+    "sole che tramonta sulla città",
+    "tramonto"
+  ],
+  "superhero": [
+    "eroina",
+    "supereroe",
+    "supereroina",
+    "superpoteri"
+  ],
+  "supervillain": [
+    "cattivo",
+    "criminale",
+    "supercattivo",
+    "superpotere"
+  ],
+  "suriname": [
+    "bandiera"
+  ],
+  "sushi": [
+    "ristorante"
+  ],
+  "suspension_railway": [
+    "funivia",
+    "veicolo"
+  ],
+  "svalbard_jan_mayen": [
+    "bandiera"
+  ],
+  "swan": [
+    "brutto anatroccolo",
+    "cigno",
+    "uccello",
+    "volatile"
+  ],
+  "sweat_droplets": [
+    "bagno di sudore",
+    "emozione",
+    "fumetto",
+    "gocce di sudore",
+    "sudato",
+    "sudore"
+  ],
+  "sweat_smile": [
+    "faccina con un gran sorriso e goccia di sudore",
+    "goccia",
+    "sorriso teso",
+    "sudore"
+  ],
+  "sweden": [
+    "bandiera"
+  ],
+  "switzerland": [
+    "bandiera"
+  ],
+  "synagogue": [
+    "ebraismo",
+    "religione",
+    "sinagoga",
+    "tempio ebraico"
+  ],
+  "syria": [
+    "bandiera"
+  ],
+  "syringe": [
+    "ago",
+    "dottore",
+    "iniezione",
+    "medicina",
+    "siringa"
+  ],
+  "t_rex": [
+    "t-rex",
+    "tirannosauro rex"
+  ],
+  "t_shirt": [
+    "abbigliamento",
+    "maglietta",
+    "t-shirt"
+  ],
+  "taco": [
+    "cucina messicana",
+    "messico"
+  ],
+  "tada": [
+    "coriandoli",
+    "festa",
+    "party",
+    "spara coriandoli"
+  ],
+  "taiwan": [
+    "bandiera"
+  ],
+  "tajikistan": [
+    "bandiera"
+  ],
+  "takeout_box": [
+    "confezione da asporto",
+    "scatola d’asporto"
+  ],
+  "tamale": [
+    "involtino",
+    "messicano",
+    "tamal"
+  ],
+  "tanabata_tree": [
+    "albero",
+    "albero decorato",
+    "decorazioni di carta",
+    "festa",
+    "festa delle stelle"
+  ],
+  "tangerine": [
+    "arancia",
+    "frutta",
+    "mandarino"
+  ],
+  "tanzania": [
+    "bandiera"
+  ],
+  "taurus": [
+    "segno zodiacale del toro",
+    "toro",
+    "zodiaco"
+  ],
+  "taxi": [
+    "veicolo"
+  ],
+  "teacher": [
+    "insegnante",
+    "maestra",
+    "maestro",
+    "professore",
+    "professoressa"
+  ],
+  "teacup_without_handle": [
+    "bere",
+    "tazza",
+    "tazza da tè senza manico",
+    "tazza di tè",
+    "tè"
+  ],
+  "teapot": [
+    "bere",
+    "tè",
+    "teiera"
+  ],
+  "tear_off_calendar": [
+    "calendario",
+    "calendario a strappo"
+  ],
+  "technologist": [
+    "inventore",
+    "persona esperta di tecnologia",
+    "programmatore",
+    "software",
+    "sviluppatore",
+    "tecnologo"
+  ],
+  "teddy_bear": [
+    "giocattolo",
+    "orsetto",
+    "peluche"
+  ],
+  "telephone": [
+    "telefono di casa",
+    "telefono fisso"
+  ],
+  "telephone_receiver": [
+    "comunicazione",
+    "cornetta",
+    "cornetta del telefono",
+    "telefono"
+  ],
+  "telescope": [
+    "astronomia",
+    "osservazione delle stelle",
+    "telescopi",
+    "telescopio"
+  ],
+  "television": [
+    "televisione",
+    "televisore"
+  ],
+  "ten": [
+    "tasto"
+  ],
+  "ten_o_clock": [
+    "10:00",
+    "22:00",
+    "ore dieci",
+    "orologio"
+  ],
+  "ten_thirty": [
+    "10:30",
+    "22:30",
+    "ore dieci e mezza",
+    "orologio"
+  ],
+  "tennis": [
+    "palla",
+    "palla da tennis",
+    "racchetta e palla da tennis",
+    "sport"
+  ],
+  "tent": [
+    "campeggio",
+    "tenda"
+  ],
+  "test_tube": [
+    "chimica",
+    "chimico",
+    "esperimenti",
+    "laboratorio",
+    "provetta"
+  ],
+  "thailand": [
+    "bandiera"
+  ],
+  "thermometer": [
+    "clima",
+    "temperatura",
+    "termometro"
+  ],
+  "thinking": [
+    "concentrarsi",
+    "faccina",
+    "faccina concentrata",
+    "pensare"
+  ],
+  "thong_sandal": [
+    "ciabatte",
+    "infradito",
+    "sandali",
+    "spiaggia"
+  ],
+  "thought_balloon": [
+    "fumetto",
+    "nuvoletta"
+  ],
+  "thread": [
+    "ago",
+    "filo",
+    "rocchetto"
+  ],
+  "three": [
+    "tasto"
+  ],
+  "three_o_clock": [
+    "15:00",
+    "3:00",
+    "ore tre",
+    "orologio"
+  ],
+  "three_thirty": [
+    "15:00",
+    "3:30",
+    "ore tre e mezza",
+    "orologio"
+  ],
+  "ticket": [
+    "biglietto",
+    "ingresso"
+  ],
+  "tiger": [
+    "animale",
+    "tigre"
+  ],
+  "tiger_face": [
+    "animale",
+    "faccina",
+    "muso di tigre",
+    "tigre"
+  ],
+  "timer_clock": [
+    "orologio",
+    "timer"
+  ],
+  "timor_leste": [
+    "bandiera"
+  ],
+  "tired_face": [
+    "faccina",
+    "stanca"
+  ],
+  "togo": [
+    "bandiera"
+  ],
+  "toilet": [
+    "toilette",
+    "water"
+  ],
+  "tokelau": [
+    "bandiera"
+  ],
+  "tokyo_tower": [
+    "tokyo",
+    "torre",
+    "torre di tokyo"
+  ],
+  "tomato": [
+    "pomodoro",
+    "verdura"
+  ],
+  "tonga": [
+    "bandiera"
+  ],
+  "tongue": [
+    "corpo",
+    "faccia",
+    "lingua"
+  ],
+  "toolbox": [
+    "attrezzi",
+    "cassetta degli attrezzi",
+    "meccanico",
+    "strumenti"
+  ],
+  "tooth": [
+    "dente",
+    "dentista"
+  ],
+  "toothbrush": [
+    "bagno",
+    "dentale",
+    "denti",
+    "igiene",
+    "pulito",
+    "spazzolino",
+    "spazzolino da denti"
+  ],
+  "top_arrow": [
+    "alto",
+    "freccia top",
+    "freccia verso l’alto",
+    "simbolo top",
+    "top con freccia verso l’alto"
+  ],
+  "top_hat": [
+    "cappello",
+    "cilindro",
+    "intrattenimento"
+  ],
+  "tornado": [
+    "tromba d’aria"
+  ],
+  "trackball": [
+    "mouse a sfera",
+    "mouse con trackball",
+    "puntamento"
+  ],
+  "tractor": [
+    "trattore",
+    "veicolo"
+  ],
+  "trade_mark": [
+    "marchio",
+    "marchio commerciale",
+    "marchio di fabbrica",
+    "marchio registrato",
+    "tm",
+    "trademark"
+  ],
+  "train": [
+    "ferrovia",
+    "treno",
+    "veicolo"
+  ],
+  "tram": [
+    "veicolo"
+  ],
+  "tram_car": [
+    "tram",
+    "vagone",
+    "vagone del tram",
+    "veicolo"
+  ],
+  "transgender_flag": [
+    "azzurro",
+    "bandiera",
+    "bianco",
+    "rosa",
+    "transgender"
+  ],
+  "transgender_symbol": [
+    "simbolo transgender",
+    "transgender"
+  ],
+  "triangular_flag": [
+    "bandierina rossa",
+    "bandierina rossa triangolare"
+  ],
+  "triangular_ruler": [
+    "angoli",
+    "geometria",
+    "misurare",
+    "scuola",
+    "squadra"
+  ],
+  "trident_emblem": [
+    "ancora",
+    "simbolo tridente",
+    "tridente"
+  ],
+  "trinidad_tobago": [
+    "bandiera"
+  ],
+  "tristan_da_cunha": [
+    "bandiera"
+  ],
+  "trolleybus": [
+    "bus",
+    "filobus",
+    "veicolo"
+  ],
+  "trophy": [
+    "coppa",
+    "premio",
+    "trofeo"
+  ],
+  "tropical_drink": [
+    "bar",
+    "bere",
+    "cocktail tropicale",
+    "ristorante",
+    "tropicale"
+  ],
+  "tropical_fish": [
+    "animale",
+    "pesce",
+    "pesce tropicale"
+  ],
+  "trumpet": [
+    "musica",
+    "strumento",
+    "strumento musicale",
+    "tromba"
+  ],
+  "tulip": [
+    "fiore",
+    "tulipano"
+  ],
+  "tumbler_glass": [
+    "bicchiere",
+    "liquore",
+    "tumbler",
+    "whisky"
+  ],
+  "tunisia": [
+    "bandiera"
+  ],
+  "turkey": [
+    "animale",
+    "tacchino"
+  ],
+  "turkmenistan": [
+    "bandiera"
+  ],
+  "turks_caicos_islands": [
+    "bandiera"
+  ],
+  "turtle": [
+    "animale",
+    "tartaruga"
+  ],
+  "tuvalu": [
+    "bandiera"
+  ],
+  "twelve_o_clock": [
+    "12:00",
+    "mezzanotte",
+    "mezzogiorno",
+    "ore dodici",
+    "orologio"
+  ],
+  "twelve_thirty": [
+    "12:30",
+    "mezzanotte e mezza",
+    "mezzogiorno e mezza",
+    "ore dodici e mezza"
+  ],
+  "two": [
+    "tasto"
+  ],
+  "two_hearts": [
+    "amore",
+    "due cuori",
+    "emozione",
+    "innamorati"
+  ],
+  "two_hump_camel": [
+    "animale",
+    "cammello",
+    "gobba"
+  ],
+  "two_o_clock": [
+    "14:00",
+    "2:00",
+    "ore due",
+    "orologio"
+  ],
+  "two_thirty": [
+    "14:30",
+    "2:30",
+    "ore due e mezza",
+    "orologio"
+  ],
+  "türkiye": [
+    "bandiera"
+  ],
+  "uganda": [
+    "bandiera"
+  ],
+  "ukraine": [
+    "bandiera"
+  ],
+  "umbrella": [
+    "meteo",
+    "ombrello",
+    "pioggia"
+  ],
+  "umbrella_on_ground": [
+    "meteo",
+    "ombrellone",
+    "sole",
+    "spiaggia",
+    "vacanza"
+  ],
+  "umbrella_with_rain_drops": [
+    "gocce d’acqua",
+    "meteo",
+    "ombrello",
+    "ombrello bagnato",
+    "ombrello con gocce di pioggia",
+    "pioggia"
+  ],
+  "unamused_face": [
+    "contrariata",
+    "faccina",
+    "triste"
+  ],
+  "unicorn": [
+    "faccina",
+    "unicorno"
+  ],
+  "united_arab_emirates": [
+    "bandiera"
+  ],
+  "united_kingdom": [
+    "bandiera"
+  ],
+  "united_nations": [
+    "bandiera"
+  ],
+  "united_states": [
+    "bandiera"
+  ],
+  "unlocked": [
+    "aperto",
+    "lucchetto"
+  ],
+  "up_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in alto",
+    "freccia rivolta verso l’alto",
+    "nord",
+    "punto cardinale"
+  ],
+  "up_button": [
+    "pulsante up!",
+    "simbolo up!"
+  ],
+  "up_down_arrow": [
+    "altezza",
+    "doppia direzione",
+    "freccia",
+    "freccia su-giù"
+  ],
+  "up_left_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in alto a sinistra",
+    "nord-ovest",
+    "punto intercardinale"
+  ],
+  "up_right_arrow": [
+    "direzione",
+    "freccia",
+    "freccia in alto a destra",
+    "freccia rivolta verso destra che punta in alto",
+    "nord-est",
+    "punto intercardinale"
+  ],
+  "upside_down_face": [
+    "capovolta",
+    "faccina",
+    "scombussolata",
+    "sottosopra"
+  ],
+  "upwards_button": [
+    "alto",
+    "pulsante",
+    "pulsante a triangolo rivolto verso l’alto",
+    "triangolo"
+  ],
+  "uruguay": [
+    "bandiera"
+  ],
+  "us_outlying_islands": [
+    "bandiera"
+  ],
+  "us_virgin_islands": [
+    "bandiera"
+  ],
+  "uzbekistan": [
+    "bandiera"
+  ],
+  "vampire": [
+    "dracula",
+    "morto vivente",
+    "vampiro"
+  ],
+  "vanuatu": [
+    "bandiera"
+  ],
+  "vatican_city": [
+    "bandiera"
+  ],
+  "venezuela": [
+    "bandiera"
+  ],
+  "vertical_traffic_light": [
+    "semaforo",
+    "verticale"
+  ],
+  "vibration_mode": [
+    "cellulare",
+    "modalità vibrazione",
+    "telefono modalità"
+  ],
+  "victory_hand": [
+    "forbice",
+    "mano",
+    "segno di vittoria",
+    "vittoria",
+    "yeah"
+  ],
+  "video_camera": [
+    "telecamera",
+    "video",
+    "videocamera"
+  ],
+  "video_game": [
+    "console",
+    "console videogioco",
+    "gamepad",
+    "gioco"
+  ],
+  "videocassette": [
+    "cassetta",
+    "vhs",
+    "video",
+    "videocassetta"
+  ],
+  "vietnam": [
+    "bandiera"
+  ],
+  "violin": [
+    "musica",
+    "strumento",
+    "strumento musicale",
+    "violino"
+  ],
+  "virgo": [
+    "segno zodiacale della vergine",
+    "vergine",
+    "zodiaco"
+  ],
+  "volcano": [
+    "vulcano",
+    "vulcano in eruzione"
+  ],
+  "volleyball": [
+    "palla",
+    "palla da pallavolo",
+    "pallavolo",
+    "rete",
+    "sport"
+  ],
+  "vs_button": [
+    "pulsante vs",
+    "simbolo contro",
+    "versus",
+    "vs"
+  ],
+  "vulcan_salute": [
+    "saluto",
+    "saluto vulcaniano",
+    "spock",
+    "star trek"
+  ],
+  "waffle": [
+    "gaufre"
+  ],
+  "wales": [
+    "bandiera"
+  ],
+  "wallis_futuna": [
+    "bandiera"
+  ],
+  "waning_crescent_moon": [
+    "calante",
+    "luna"
+  ],
+  "waning_gibbous_moon": [
+    "calante",
+    "gibbosa",
+    "luna"
+  ],
+  "warning": [
+    "attenzione",
+    "pericolo",
+    "simbolo di avviso"
+  ],
+  "wastebasket": [
+    "buttare",
+    "cartacce",
+    "cestino",
+    "rifiuti"
+  ],
+  "watch": [
+    "orologio",
+    "orologio da polso",
+    "tempo"
+  ],
+  "water_buffalo": [
+    "animale",
+    "bufalo d’acqua"
+  ],
+  "water_closet": [
+    "bagno",
+    "gabinetto",
+    "simbolo del wc",
+    "wc"
+  ],
+  "water_pistol": [
+    "arma",
+    "pistola",
+    "revolver"
+  ],
+  "watermelon": [
+    "anguria",
+    "frutta"
+  ],
+  "waving_hand": [
+    "mano",
+    "mano che saluta",
+    "salutare"
+  ],
+  "wavy_dash": [
+    "ondulato",
+    "trattino"
+  ],
+  "waxing_crescent_moon": [
+    "crescente",
+    "luna"
+  ],
+  "waxing_gibbous_moon": [
+    "crescente",
+    "gibbosa",
+    "luna"
+  ],
+  "weary_cat": [
+    "esterrefatto",
+    "faccina",
+    "gatto",
+    "oh mio dio"
+  ],
+  "weary_face": [
+    "esausta",
+    "faccina",
+    "sfinita"
+  ],
+  "wedding": [
+    "cappella",
+    "chiesa",
+    "chiesa per matrimonio",
+    "matrimonio",
+    "romanticismo"
+  ],
+  "western_sahara": [
+    "bandiera"
+  ],
+  "whale": [
+    "animale",
+    "balena"
+  ],
+  "wheel_of_dharma": [
+    "buddhismo",
+    "dharmacakra",
+    "religione buddhista",
+    "ruota a otto raggi",
+    "ruota del dharma"
+  ],
+  "wheelchair_symbol": [
+    "accesso",
+    "accesso sedia a rotelle",
+    "sedia a rotelle",
+    "simbolo",
+    "simbolo della disabilità",
+    "simbolo sedia a rotelle"
+  ],
+  "white_cane": [
+    "accessibilità",
+    "bastone bianco",
+    "bastone per ipovedenti",
+    "bastone per non vedenti"
+  ],
+  "white_check_mark": [
+    "baffo",
+    "segno di spunta",
+    "segno di spunta grande"
+  ],
+  "white_circle": [
+    "bianco",
+    "cerchio",
+    "geometria"
+  ],
+  "white_exclamation_mark": [
+    "esclamazione",
+    "punto esclamativo bianco",
+    "punto esclamativo vuoto"
+  ],
+  "white_flag": [
+    "arrendersi",
+    "bandiera bianca",
+    "bandiera che sventola",
+    "sventolare bandiera bianca"
+  ],
+  "white_flower": [
+    "fiore",
+    "fiore bianco",
+    "simbolo ben fatto"
+  ],
+  "white_heart": [
+    "bianco",
+    "cuore",
+    "emozione"
+  ],
+  "white_large_square": [
+    "geometria",
+    "quadrato",
+    "quadrato bianco grande"
+  ],
+  "white_medium_small_square": [
+    "geometria",
+    "quadrato",
+    "quadrato bianco medio-piccolo"
+  ],
+  "white_medium_square": [
+    "geometria",
+    "quadrato",
+    "quadrato bianco medio"
+  ],
+  "white_question_mark": [
+    "domanda",
+    "punto di domanda vuoto",
+    "punto interrogativo bianco"
+  ],
+  "white_small_square": [
+    "geometria",
+    "quadrato",
+    "quadrato bianco piccolo"
+  ],
+  "white_square_button": [
+    "contorno",
+    "pulsante",
+    "pulsante quadrato con contorno",
+    "tasto quadrato nero con bordo bianco"
+  ],
+  "wilted_flower": [
+    "appassito",
+    "fiore"
+  ],
+  "wind_chime": [
+    "campana",
+    "campana al vento",
+    "festa",
+    "vento"
+  ],
+  "wind_face": [
+    "aria",
+    "eolo",
+    "vento"
+  ],
+  "window": [
+    "apertura",
+    "aria fresca",
+    "finestra",
+    "telaio",
+    "trasparente",
+    "vista"
+  ],
+  "wine_glass": [
+    "bar",
+    "bere",
+    "bicchiere",
+    "bicchiere di vino",
+    "ristorante"
+  ],
+  "wink": [
+    "faccina",
+    "faccina che fa l’occhiolino",
+    "fare l’occhiolino"
+  ],
+  "winking_face_with_tongue": [
+    "faccina",
+    "faccina che fa l’occhiolino e mostra la lingua",
+    "linguaccia con occhiolino",
+    "occhiolino",
+    "scherzo"
+  ],
+  "wolf": [
+    "animale",
+    "faccina",
+    "lupo",
+    "muso di lupo"
+  ],
+  "woman": [
+    "donna",
+    "femmina",
+    "persone"
+  ],
+  "woman_and_man_holding_hands": [
+    "coppia",
+    "tenersi per mano",
+    "uomo",
+    "uomo e donna che si tengono per mano",
+    "uomo e donna per mano"
+  ],
+  "woman_artist": [
+    "arte",
+    "artista",
+    "donna",
+    "pittrice"
+  ],
+  "woman_astronaut": [
+    "astronauta",
+    "donna",
+    "razzo",
+    "spazio"
+  ],
+  "woman_bald": [
+    "calvo",
+    "donna",
+    "femmina",
+    "persone"
+  ],
+  "woman_biking": [
+    "bici",
+    "bicicletta",
+    "ciclista",
+    "ciclista donna",
+    "sport"
+  ],
+  "woman_bouncing_ball": [
+    "donna",
+    "donna che fa rimbalzare una palla",
+    "palla",
+    "sport"
+  ],
+  "woman_bowing": [
+    "donna",
+    "donna che fa inchino profondo",
+    "gesto",
+    "inchino",
+    "scuse"
+  ],
+  "woman_cartwheeling": [
+    "donna",
+    "donna che fa la ruota",
+    "ginnastica",
+    "ruota",
+    "sport"
+  ],
+  "woman_climbing": [
+    "donna che scala",
+    "scalatrice"
+  ],
+  "woman_cook": [
+    "chef",
+    "cucinare",
+    "cuoca",
+    "donna"
+  ],
+  "woman_curly_hair": [
+    "capelli ricci",
+    "donna",
+    "femmina",
+    "persone"
+  ],
+  "woman_dancing": [
+    "ballare",
+    "donna",
+    "donna che balla"
+  ],
+  "woman_detective": [
+    "detective",
+    "donna",
+    "investigatrice",
+    "spia"
+  ],
+  "woman_elf": [
+    "elfo donna",
+    "magico"
+  ],
+  "woman_facepalming": [
+    "donna",
+    "donna esasperata",
+    "esasperazione",
+    "facepalm",
+    "gesto"
+  ],
+  "woman_factory_worker": [
+    "donna",
+    "fabbrica",
+    "industria",
+    "operaia"
+  ],
+  "woman_fairy": [
+    "fata donna",
+    "titania"
+  ],
+  "woman_farmer": [
+    "allevatrice",
+    "contadina",
+    "donna",
+    "fattoria"
+  ],
+  "woman_feeding_baby": [
+    "allattamento",
+    "bebè",
+    "donna",
+    "donna che allatta",
+    "nutrire"
+  ],
+  "woman_firefighter": [
+    "donna",
+    "incendio",
+    "pompiere",
+    "vigile del fuoco"
+  ],
+  "woman_frowning": [
+    "corrucciata",
+    "donna",
+    "femmina",
+    "gesto"
+  ],
+  "woman_genie": [
+    "djinn",
+    "genio donna"
+  ],
+  "woman_gesturing_no": [
+    "donna",
+    "donna con gesto di rifiuto",
+    "no",
+    "proibito",
+    "rifiuto"
+  ],
+  "woman_gesturing_ok": [
+    "d’accordo",
+    "donna",
+    "donna con gesto ok",
+    "gesto",
+    "ok"
+  ],
+  "woman_getting_haircut": [
+    "bellezza",
+    "donna",
+    "taglio di capelli",
+    "taglio di capelli per donna"
+  ],
+  "woman_getting_massage": [
+    "donna",
+    "donna che riceve un massaggio",
+    "faccia",
+    "massaggio",
+    "massaggio al viso per donna",
+    "viso"
+  ],
+  "woman_golfing": [
+    "donna",
+    "golf",
+    "golfista donna",
+    "mazza",
+    "sport"
+  ],
+  "woman_guard": [
+    "donna",
+    "femmina",
+    "guardia"
+  ],
+  "woman_health_worker": [
+    "camice",
+    "donna",
+    "dottoressa",
+    "operatrice sanitaria",
+    "ospedale"
+  ],
+  "woman_in_lotus_position": [
+    "donna in posizione del loto",
+    "meditazione",
+    "yoga"
+  ],
+  "woman_in_manual_wheelchair": [
+    "accessibilità",
+    "donna in carrozzina",
+    "donna in sedia a rotelle",
+    "donna su sedia a rotelle manuale"
+  ],
+  "woman_in_motorized_wheelchair": [
+    "accessibilità",
+    "donna in carrozzina",
+    "donna in sedia a rotelle",
+    "donna su sedia a rotelle motorizzata"
+  ],
+  "woman_in_steamy_room": [
+    "bagno turco",
+    "donna in sauna",
+    "sauna"
+  ],
+  "woman_in_tuxedo": [
+    "donna",
+    "donna in smoking",
+    "smoking"
+  ],
+  "woman_judge": [
+    "bilancia",
+    "donna",
+    "giudice",
+    "giustizia"
+  ],
+  "woman_juggling": [
+    "abilità",
+    "donna",
+    "equilibrio",
+    "giocoliere"
+  ],
+  "woman_kneeling": [
+    "donna",
+    "donna inginocchiata",
+    "in ginocchio",
+    "inginocchiarsi"
+  ],
+  "woman_lifting_weights": [
+    "bilanciere",
+    "donna",
+    "donna che solleva pesi",
+    "pesi",
+    "sport"
+  ],
+  "woman_mage": [
+    "maga",
+    "strega"
+  ],
+  "woman_mechanic": [
+    "chiave inglese",
+    "donna",
+    "idraulico donna",
+    "meccanico"
+  ],
+  "woman_mountain_biking": [
+    "bici",
+    "bicicletta",
+    "ciclista donna di mountain bike",
+    "mountain bike",
+    "sport"
+  ],
+  "woman_office_worker": [
+    "business",
+    "donna",
+    "impiegata",
+    "manager",
+    "ufficio"
+  ],
+  "woman_pilot": [
+    "aereo",
+    "aeroplano",
+    "donna",
+    "pilota"
+  ],
+  "woman_playing_handball": [
+    "donna",
+    "pallamanista donna",
+    "pallamano",
+    "sport"
+  ],
+  "woman_playing_water_polo": [
+    "donna",
+    "pallanuotista donna",
+    "pallanuoto",
+    "piscina",
+    "sport"
+  ],
+  "woman_police_officer": [
+    "agente",
+    "divisa",
+    "donna",
+    "polizia",
+    "poliziotta"
+  ],
+  "woman_pouting": [
+    "donna",
+    "femmina",
+    "gesto",
+    "imbronciata"
+  ],
+  "woman_raising_hand": [
+    "donna",
+    "donna con mano alzata",
+    "gesto",
+    "mano alzata"
+  ],
+  "woman_red_hair": [
+    "capelli rossi",
+    "donna",
+    "femmina",
+    "persone"
+  ],
+  "woman_rowing_boat": [
+    "barca",
+    "donna",
+    "donna in barca a remi",
+    "remi"
+  ],
+  "woman_running": [
+    "correre",
+    "corsa",
+    "donna",
+    "donna che corre",
+    "sport"
+  ],
+  "woman_s_boot": [
+    "abbigliamento",
+    "donna",
+    "stivale",
+    "stivale da donna"
+  ],
+  "woman_s_clothes": [
+    "abbigliamento",
+    "maglietta da donna",
+    "vestiti"
+  ],
+  "woman_s_hat": [
+    "abbigliamento",
+    "cappello",
+    "cappello da donna"
+  ],
+  "woman_s_sandal": [
+    "abbigliamento",
+    "donna",
+    "sandalo",
+    "sandalo da donna"
+  ],
+  "woman_scientist": [
+    "biologia",
+    "chimica",
+    "donna",
+    "scienza",
+    "scienziata"
+  ],
+  "woman_shrugging": [
+    "donna",
+    "donna che scrolla le spalle",
+    "dubitare",
+    "gesto",
+    "indifferenza"
+  ],
+  "woman_singer": [
+    "attrice",
+    "cantante",
+    "cantante donna",
+    "musica",
+    "star"
+  ],
+  "woman_standing": [
+    "donna",
+    "donna in piedi",
+    "in piedi"
+  ],
+  "woman_student": [
+    "femmina",
+    "laurea",
+    "ragazza",
+    "studentessa"
+  ],
+  "woman_superhero": [
+    "donna",
+    "supereroina",
+    "superpoteri"
+  ],
+  "woman_supervillain": [
+    "cattivo",
+    "criminale",
+    "donna",
+    "supercattiva",
+    "superpotere"
+  ],
+  "woman_surfing": [
+    "donna",
+    "sport",
+    "surf",
+    "surfista donna",
+    "tavola da surf"
+  ],
+  "woman_swimming": [
+    "donna",
+    "nuotatrice",
+    "nuoto",
+    "piscina",
+    "sport"
+  ],
+  "woman_teacher": [
+    "insegnante",
+    "professoressa",
+    "scuola",
+    "studio"
+  ],
+  "woman_technologist": [
+    "computer",
+    "donna",
+    "programmatrice",
+    "sviluppatrice",
+    "tecnologa"
+  ],
+  "woman_tipping_hand": [
+    "donna",
+    "donna con suggerimento",
+    "indicazione",
+    "informazioni"
+  ],
+  "woman_vampire": [
+    "non morto",
+    "vampira"
+  ],
+  "woman_walking": [
+    "camminare",
+    "donna",
+    "donna che cammina",
+    "passeggiata",
+    "pedone"
+  ],
+  "woman_wearing_turban": [
+    "donna",
+    "donna con turbante",
+    "femmina",
+    "turbante"
+  ],
+  "woman_white_hair": [
+    "capelli bianchi",
+    "donna",
+    "femmina",
+    "persone"
+  ],
+  "woman_with_headscarf": [
+    "donna con foulard",
+    "donna con hijab",
+    "donna con velo"
+  ],
+  "woman_with_veil": [
+    "sposa",
+    "sposa con velo",
+    "velo"
+  ],
+  "woman_with_white_cane": [
+    "accessibilità",
+    "cecità",
+    "cieca",
+    "cieche",
+    "donna con bastone bianco di orientamento",
+    "donna non vedente",
+    "donne non vedenti",
+    "ipovedente",
+    "ipovedenti"
+  ],
+  "woman_zombie": [
+    "morto vivente",
+    "zombie donna"
+  ],
+  "women_holding_hands": [
+    "coppia",
+    "due donne che si tengono per mano",
+    "due donne per mano",
+    "tenersi per mano"
+  ],
+  "women_s_room": [
+    "bagno donne",
+    "donne",
+    "simbolo",
+    "simbolo bagno donne",
+    "simbolo del bagno delle donne"
+  ],
+  "women_with_bunny_ears": [
+    "ballerina",
+    "donna",
+    "donne con orecchie da coniglio",
+    "orecchie da coniglio",
+    "party"
+  ],
+  "women_wrestling": [
+    "donna",
+    "lotta",
+    "lottatrici",
+    "sport",
+    "wrestling"
+  ],
+  "wood": [
+    "alberi",
+    "legna",
+    "legname",
+    "tronco"
+  ],
+  "woozy_face": [
+    "faccina con occhi semiaperti",
+    "faccina stordita",
+    "frastornato",
+    "vertigini"
+  ],
+  "world_map": [
+    "cartina",
+    "mappa",
+    "mappa mondiale",
+    "mondo"
+  ],
+  "worm": [
+    "anellide",
+    "lombrico",
+    "parassita",
+    "verme"
+  ],
+  "worried": [
+    "faccina",
+    "faccina preoccupata",
+    "preoccupazione preoccupata"
+  ],
+  "wrapped_gift": [
+    "dono",
+    "festa",
+    "pacchetto",
+    "regalo"
+  ],
+  "wrench": [
+    "attrezzo",
+    "chiave",
+    "inglese",
+    "utensile"
+  ],
+  "writing_hand": [
+    "mano che scrive",
+    "scrivere",
+    "scrivere a mano"
+  ],
+  "yarn": [
+    "fare a maglia",
+    "gomitolo",
+    "palla",
+    "uncinetto"
+  ],
+  "yawning_face": [
+    "annoiata",
+    "annoiate",
+    "annoiati",
+    "annoiato",
+    "faccina che sbadiglia",
+    "mi annoio",
+    "noia",
+    "sbadigliare",
+    "sbadiglio",
+    "sonno",
+    "stanca",
+    "stanche",
+    "stanchezza",
+    "stanchi",
+    "stanco"
+  ],
+  "yellow_circle": [
+    "cerchio",
+    "cerchio di colore giallo",
+    "cerchio giallo"
+  ],
+  "yellow_heart": [
+    "cuore",
+    "emozione",
+    "giallo"
+  ],
+  "yellow_square": [
+    "giallo",
+    "quadrato",
+    "quadrato di colore giallo"
+  ],
+  "yemen": [
+    "bandiera"
+  ],
+  "yen_banknote": [
+    "banconota",
+    "denaro",
+    "yen"
+  ],
+  "yin_yang": [
+    "confucianesimo",
+    "simbolo",
+    "taoismo",
+    "yin e yang"
+  ],
+  "yoyo": [
+    "giocattolo",
+    "rocchetto",
+    "yo-yo"
+  ],
+  "zambia": [
+    "bandiera"
+  ],
+  "zany_face": [
+    "faccina impazzita",
+    "grande",
+    "occhio",
+    "piccolo"
+  ],
+  "zebra": [
+    "strisce"
+  ],
+  "zero": [
+    "tasto"
+  ],
+  "zimbabwe": [
+    "bandiera"
+  ],
+  "zipper_mouth_face": [
+    "bocca cucita",
+    "faccina con bocca con cerniera",
+    "no comment",
+    "non posso parlare",
+    "zitto"
+  ],
+  "zombie": [
+    "morto vivente"
+  ],
+  "zzz": [
+    "dormire",
+    "russare",
+    "sonno"
+  ],
+  "åland_islands": [
+    "bandiera"
+  ]
+}

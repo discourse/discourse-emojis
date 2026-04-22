@@ -15,7 +15,8 @@
     "dacord",
     "agrada",
     "like",
-    "bé"
+    "bé",
+    "polze cap amunt"
   ],
   "-1": [
     "mà",
@@ -41,7 +42,8 @@
   "1234": [
     "dígits",
     "xifres",
-    "números"
+    "números",
+    "botó de números"
   ],
   "1st_place_medal": [
     "competició",
@@ -82,7 +84,8 @@
     "àbac"
   ],
   "accordion": [
-    "acordió"
+    "acordió",
+    "concertina"
   ],
   "adhesive_bandage": [
     "malalt",
@@ -176,7 +179,8 @@
     "ovni",
     "alienígena",
     "monstre",
-    "àlien"
+    "àlien",
+    "cara"
   ],
   "alien_monster": [
     "joc",
@@ -233,7 +237,11 @@
     "anatomia",
     "bombejar",
     "auricula",
-    "anatomic"
+    "anatomic",
+    "batec",
+    "cardiologia",
+    "centre",
+    "pols"
   ],
   "anchor": [
     "eina",
@@ -279,7 +287,8 @@
     "embromada",
     "molèstia",
     "molest",
-    "molesta"
+    "molesta",
+    "cara"
   ],
   "angry_face_with_horns": [
     "banyes",
@@ -295,7 +304,10 @@
     "porpra",
     "diable",
     "dimoniet",
-    "maligne"
+    "maligne",
+    "cara",
+    "cara enfadada amb banyes",
+    "fantasia"
   ],
   "anguilla": [
     "ai",
@@ -319,7 +331,10 @@
     "sorpresa",
     "preocupat",
     "angoixat",
-    "preocupacio"
+    "preocupacio",
+    "angoixada",
+    "cara",
+    "cara d’angoixa"
   ],
   "ant": [
     "insecte",
@@ -361,7 +376,11 @@
     "incredulitat",
     "espantada",
     "temor",
-    "nervis"
+    "nervis",
+    "boca oberta",
+    "cara",
+    "cara amb la boca oberta i suor freda",
+    "suor freda"
   ],
   "aquarius": [
     "aigua",
@@ -392,7 +411,8 @@
   "artist": [
     "artista",
     "pintor",
-    "pintora"
+    "pintora",
+    "paleta"
   ],
   "artist_palette": [
     "pintura",
@@ -418,7 +438,8 @@
   "asterisk": [
     "tecla asterisc",
     "tecla *",
-    "*"
+    "*",
+    "tecla"
   ],
   "astonished_face": [
     "celles",
@@ -433,12 +454,14 @@
     "sorpresa",
     "uala",
     "estupefacte",
-    "meravella"
+    "meravella",
+    "cara"
   ],
   "astronaut": [
     "espai",
     "cosmonauta",
-    "astronauta"
+    "astronauta",
+    "coet"
   ],
   "atm_sign": [
     "diners",
@@ -490,7 +513,9 @@
   ],
   "axe": [
     "destral",
-    "llenyataire"
+    "llenyataire",
+    "llenya",
+    "tallar"
   ],
   "azerbaijan": [
     "bandera",
@@ -581,7 +606,8 @@
     "assenyalar",
     "marcar",
     "costat",
-    "sota"
+    "sota",
+    "dit índex que apunta cap avall"
   ],
   "backhand_index_pointing_left": [
     "mà",
@@ -594,7 +620,8 @@
     "índex",
     "assenyalar",
     "marcar",
-    "costat"
+    "costat",
+    "dit índex que apunta cap a l’esquerra"
   ],
   "backhand_index_pointing_right": [
     "mà",
@@ -607,7 +634,8 @@
     "índex",
     "assenyalar",
     "marcar",
-    "costat"
+    "costat",
+    "dit índex que apunta cap a la dreta"
   ],
   "backhand_index_pointing_up": [
     "mà",
@@ -622,7 +650,9 @@
     "assenyalar",
     "sobre",
     "marcar",
-    "costat"
+    "costat",
+    "dit índex",
+    "dit índex que apunta cap amunt"
   ],
   "backpack": [
     "viatjar",
@@ -687,7 +717,8 @@
     "ferrament",
     "pes",
     "justícia",
-    "aparell"
+    "aparell",
+    "balança (aparell)"
   ],
   "ballet_shoes": [
     "dansa",
@@ -722,6 +753,10 @@
     "bangla desh",
     "dacca",
     "bd"
+  ],
+  "banjo": [
+    "corda",
+    "música"
   ],
   "bank": [
     "edifici",
@@ -902,7 +937,9 @@
     "pebrina",
     "pebrera",
     "bajoca verda",
-    "pimentó"
+    "pimentó",
+    "capsicum",
+    "pebrot vermell"
   ],
   "bell_with_slash": [
     "mode de silenci",
@@ -950,7 +987,8 @@
     "envàs",
     "sed",
     "bric",
-    "suc"
+    "suc",
+    "bric de suc"
   ],
   "bhutan": [
     "bandera",
@@ -1044,7 +1082,9 @@
   "black_cat": [
     "animal",
     "gat",
-    "gat negre"
+    "gat negre",
+    "mala sort",
+    "negre"
   ],
   "black_circle": [
     "geometria",
@@ -1111,12 +1151,18 @@
   "blonde_man": [
     "persona amb els cabells rossos",
     "persona",
-    "cabells rossos"
+    "cabells rossos",
+    "cabell",
+    "home",
+    "home: cabell ros",
+    "ros"
   ],
   "blonde_woman": [
     "dona",
     "femení",
-    "rossa"
+    "rossa",
+    "cabell",
+    "dona: cabell ros"
   ],
   "blossom": [
     "planta",
@@ -1177,7 +1223,10 @@
     "vergonya",
     "enrogir",
     "il·lusió",
-    "timidesa"
+    "timidesa",
+    "cara",
+    "cara somrient amb els ulls alegres",
+    "galtes vermelles"
   ],
   "boar": [
     "porc",
@@ -1222,7 +1271,10 @@
     "cole"
   ],
   "boomerang": [
-    "bumerang"
+    "bumerang",
+    "austràlia",
+    "rebot",
+    "repercussió"
   ],
   "bosnia_herzegovina": [
     "bandera",
@@ -1249,12 +1301,16 @@
     "ampolla",
     "cava",
     "xampany",
-    "tap"
+    "tap",
+    "ampolla de cava"
   ],
   "bouquet": [
     "planta",
     "flor",
     "ram de flors"
+  ],
+  "bouvet_island": [
+    "bandera"
   ],
   "bow_and_arrow": [
     "zodíac",
@@ -1415,7 +1471,8 @@
     "estimo",
     "estima",
     "sant donís",
-    "cor marró"
+    "cor marró",
+    "marró"
   ],
   "brown_mushroom": [
     "esclatasang",
@@ -1455,7 +1512,8 @@
   "bucket": [
     "poal",
     "netejar",
-    "galleda"
+    "galleda",
+    "cubell"
   ],
   "bug": [
     "insecte",
@@ -1537,7 +1595,8 @@
     "silueta",
     "perfil",
     "bust",
-    "frontal"
+    "frontal",
+    "silueta d’un bust"
   ],
   "busts_in_silhouette": [
     "amic",
@@ -1549,14 +1608,16 @@
     "siluetes",
     "perfils",
     "bustos",
-    "companyia"
+    "companyia",
+    "silueta de bustos"
   ],
   "butter": [
     "saïm",
     "greix",
     "margarina",
     "llard",
-    "mantega"
+    "mantega",
+    "producte lacti"
   ],
   "butterfly": [
     "insecte",
@@ -1580,7 +1641,8 @@
     "tranqui",
     "cool",
     "menuell",
-    "menovell"
+    "menovell",
+    "mà que representa una trucada"
   ],
   "cambodia": [
     "bandera",
@@ -1768,7 +1830,9 @@
     "desafiament",
     "malicia",
     "irònic",
-    "ironic"
+    "ironic",
+    "cara",
+    "gat amb somriure irònic"
   ],
   "cayman_islands": [
     "bandera",
@@ -1783,7 +1847,8 @@
     "república centreafricana"
   ],
   "ceuta_melilla": [
-    "ceuta i melilla"
+    "ceuta i melilla",
+    "bandera"
   ],
   "chad": [
     "bandera",
@@ -1797,7 +1862,8 @@
   ],
   "chair": [
     "cadira",
-    "seient"
+    "seient",
+    "seure"
   ],
   "chart_decreasing": [
     "gràfic de disminució",
@@ -1827,13 +1893,16 @@
     "verificació",
     "selecció",
     "marca",
-    "casella amb marca de verificació"
+    "casella amb marca de verificació",
+    "✓"
   ],
   "check_mark": [
     "gran",
     "verificació",
     "marca de verificació gran",
-    "marca"
+    "marca",
+    "✓",
+    "marca de verificació"
   ],
   "cheese_wedge": [
     "tall",
@@ -2050,7 +2119,8 @@
     "plas",
     "palmes",
     "aplaudint",
-    "aplaudiment"
+    "aplaudiment",
+    "mans que aplaudeixen"
   ],
   "clapper_board": [
     "pel·lícula",
@@ -2091,6 +2161,9 @@
     "clip",
     "petjapapers",
     "notes"
+  ],
+  "clipperton_island": [
+    "bandera"
   ],
   "clockwise_vertical_arrows": [
     "repetir",
@@ -2178,7 +2251,9 @@
     "pallasso",
     "pallassa",
     "arlequí",
-    "saltimbanqui"
+    "saltimbanqui",
+    "cara",
+    "cara de pallasso"
   ],
   "club_suit": [
     "pal de trèvols",
@@ -2203,7 +2278,8 @@
     "ballarola",
     "panerola",
     "panderola",
-    "cuca molla"
+    "cuca molla",
+    "corredora"
   ],
   "cocktail_glass": [
     "beure",
@@ -2239,7 +2315,11 @@
     "moneda",
     "pempins",
     "diners",
-    "efectiu"
+    "efectiu",
+    "metall",
+    "or",
+    "plata",
+    "tresor"
   ],
   "cold_face": [
     "glaçada",
@@ -2259,7 +2339,9 @@
     "glaçó",
     "congelada",
     "frescor",
-    "hipotèrmia"
+    "hipotèrmia",
+    "cara blava",
+    "cara de fred"
   ],
   "collision": [
     "correfoc",
@@ -2334,7 +2416,9 @@
     "desconcert",
     "cagada",
     "frustració",
-    "frustrada"
+    "frustrada",
+    "cara",
+    "cara de frustració"
   ],
   "confused": [
     "confosa",
@@ -2343,7 +2427,9 @@
     ":/",
     "confusió",
     "/",
-    "confós"
+    "confós",
+    "cara",
+    "cara de confusió"
   ],
   "congo_brazzaville": [
     "bandera",
@@ -2372,7 +2458,9 @@
     "treball",
     "treballador",
     "constructora",
-    "construcció"
+    "construcció",
+    "paleta",
+    "treballador de la construcció"
   ],
   "construction_worker_man": [
     "masculí",
@@ -2403,7 +2491,8 @@
   ],
   "cook": [
     "cuina",
-    "xef"
+    "xef",
+    "cuiner"
   ],
   "cook_islands": [
     "bandera",
@@ -2546,7 +2635,9 @@
     "camp",
     "ramat",
     "vaques",
-    "cowboy"
+    "cowboy",
+    "cara",
+    "cara amb barret de vaquer"
   ],
   "crab": [
     "zodíac",
@@ -2587,7 +2678,8 @@
     "joc",
     "bola",
     "parti",
-    "bat"
+    "bat",
+    "partit"
   ],
   "croatia": [
     "bandera",
@@ -2614,14 +2706,21 @@
     "multiplicar",
     "multiplicació",
     "marca",
-    "marca de creu"
+    "marca de creu",
+    "×",
+    "creu",
+    "x"
   ],
   "cross_mark_button": [
     "botó",
     "mal",
     "no",
     "creu",
-    "botó de creu"
+    "botó de creu",
+    "×",
+    "marca",
+    "quadrat",
+    "x"
   ],
   "crossed_fingers": [
     "mà",
@@ -2679,7 +2778,8 @@
     "gota",
     "plorar",
     "llàgrima",
-    "trist"
+    "trist",
+    "cara que plora"
   ],
   "crying_cat": [
     "llàgrimes",
@@ -2692,7 +2792,9 @@
     "llagrima",
     "llàgrima",
     "patiment",
-    "patir"
+    "patir",
+    "cara",
+    "gat que plora"
   ],
   "crystal_ball": [
     "sort",
@@ -2733,7 +2835,8 @@
   "cupcake": [
     "dolç",
     "fleca",
-    "forn"
+    "forn",
+    "magdalena"
   ],
   "curaçao": [
     "bandera",
@@ -2860,7 +2963,8 @@
     "oïda",
     "sentir",
     "sord",
-    "home sord"
+    "home sord",
+    "home"
   ],
   "deaf_person": [
     "accessibilitat",
@@ -2875,7 +2979,8 @@
     "oïda",
     "sentir",
     "sord",
-    "sorda"
+    "sorda",
+    "dona"
   ],
   "deciduous_tree": [
     "arbre",
@@ -2933,7 +3038,8 @@
     "detectiu",
     "inspector",
     "sherlock",
-    "investigador"
+    "investigador",
+    "espia"
   ],
   "diamond_suit": [
     "cartes",
@@ -2949,6 +3055,9 @@
     "rombe",
     "rombe amb punt"
   ],
+  "diego_garcia": [
+    "bandera"
+  ],
   "dim_button": [
     "botó",
     "botó d’atenuar la brillantor",
@@ -2963,7 +3072,9 @@
     "decepció",
     "abatiment",
     "decebut",
-    "decebuda"
+    "decebuda",
+    "cara",
+    "cara de decepció"
   ],
   "disguised_face": [
     "ulleres",
@@ -2971,13 +3082,18 @@
     "nas",
     "disfressa",
     "incògnit",
-    "bigot"
+    "bigot",
+    "cara",
+    "cara disfressada"
   ],
   "divide": [
     "gran",
     "signe",
     "divisió",
-    "signe de dividir gran"
+    "signe de dividir gran",
+    "÷",
+    "matemàtiques",
+    "signe de dividir"
   ],
   "diving_mask": [
     "ulleres per bussejar",
@@ -3133,7 +3249,10 @@
     "signe",
     "signe d’exclamació doble",
     "puntuació",
-    "doble"
+    "doble",
+    "!",
+    "!!",
+    "doble exclamació"
   ],
   "doughnut": [
     "postres",
@@ -3181,12 +3300,16 @@
     "decepció",
     "cansat",
     "incredulitat",
-    "esgotament"
+    "esgotament",
+    "cara",
+    "cara amb suor freda",
+    "suor freda"
   ],
   "downwards_button": [
     "botó",
     "avall",
-    "botó d’anar avall"
+    "botó d’anar avall",
+    "vermell"
   ],
   "dragon": [
     "drac",
@@ -3217,7 +3340,10 @@
     "salivar",
     "fam",
     "gola",
-    "fartar"
+    "fartar",
+    "bavejant",
+    "cara",
+    "cara que baveja"
   ],
   "drop_of_blood": [
     "gota",
@@ -3228,7 +3354,8 @@
     "donació de sang",
     "sagnat",
     "menstruar",
-    "gota de sang"
+    "gota de sang",
+    "medicina"
   ],
   "droplet": [
     "aigua",
@@ -3323,7 +3450,10 @@
     "lobul",
     "peço",
     "oit",
-    "lòbul"
+    "lòbul",
+    "accessibilitat",
+    "orella amb audiòfon",
+    "problema d’audició"
   ],
   "ecuador": [
     "bandera",
@@ -3367,7 +3497,8 @@
     "tecla dígit huit",
     "tecla dígit vuit",
     "tecla dígit 8",
-    "huit"
+    "huit",
+    "tecla"
   ],
   "eight_o_clock": [
     "rellotge",
@@ -3382,12 +3513,14 @@
   "eight_pointed_star": [
     "estrella",
     "estrella de vuit puntes",
-    "vuit puntes"
+    "vuit puntes",
+    "*"
   ],
   "eight_spoked_asterisk": [
     "vuit radis",
     "asterisc",
-    "asterisc de vuit radis"
+    "asterisc de vuit radis",
+    "*"
   ],
   "eight_thirty": [
     "dos quarts",
@@ -3422,7 +3555,8 @@
   "elevator": [
     "muntacàrregues",
     "elevador",
-    "ascensor"
+    "ascensor",
+    "accessibilitat"
   ],
   "eleven_o_clock": [
     "rellotge",
@@ -3485,7 +3619,9 @@
     "embromada",
     "enutjada",
     "fúria",
-    "enfurida"
+    "enfurida",
+    "cara",
+    "cara vermella"
   ],
   "envelope": [
     "correu",
@@ -3579,7 +3715,11 @@
     "signe",
     "interrogació",
     "puntuació",
-    "signe d’exclamació i d’interrogació"
+    "signe d’exclamació i d’interrogació",
+    "!",
+    "!?",
+    "?",
+    "pregunta"
   ],
   "exploding_head": [
     "al·lucinant",
@@ -3596,7 +3736,8 @@
     "esglai",
     "estupefacte",
     "esclatar",
-    "mindblow"
+    "mindblow",
+    "cap que explota"
   ],
   "expressionless_face": [
     "adormit",
@@ -3610,7 +3751,8 @@
     "inexpressiva",
     ":|",
     "inexpressiu",
-    "penedit"
+    "penedit",
+    "cara"
   ],
   "eye": [
     "pupil·la",
@@ -3624,7 +3766,8 @@
     "mirar",
     "atencio",
     "iris",
-    "ull"
+    "ull",
+    "cos"
   ],
   "eye_in_speech_bubble": [
     "bafarada",
@@ -3654,7 +3797,9 @@
     "atencio",
     "ull",
     "abús",
-    "abus"
+    "abus",
+    "cara",
+    "cos"
   ],
   "face_blowing_a_kiss": [
     "beset",
@@ -3680,7 +3825,9 @@
     "petonet",
     "ullet",
     "picar",
-    ";3"
+    ";3",
+    "cara",
+    "cara que llança un petó"
   ],
   "face_exhaling": [
     "calor",
@@ -3747,7 +3894,10 @@
     "revoltós",
     ":9",
     "llèpol",
-    "deliciós"
+    "deliciós",
+    "cara",
+    "cara d’assaborir un menjar deliciós",
+    "llépol cara d’assaborir un menjar deliciós"
   ],
   "face_vomiting": [
     "verd",
@@ -3769,7 +3919,9 @@
     "vòmit",
     "vomitant",
     "fàstic",
-    "fastigosa"
+    "fastigosa",
+    "cara",
+    "cara que vomita"
   ],
   "face_with_crossed_out_eyes": [
     "ics",
@@ -3781,7 +3933,8 @@
     "mort",
     "morir",
     "xo",
-    "morta"
+    "morta",
+    "cara"
   ],
   "face_with_diagonal_mouth": [
     "dubte",
@@ -3821,7 +3974,9 @@
     "mut",
     "vergonya",
     "mutis",
-    "badall"
+    "badall",
+    "cara amb la mà sobre la boca",
+    "tapant-se la boca"
   ],
   "face_with_head_bandage": [
     "malalt",
@@ -3841,7 +3996,10 @@
     "colp",
     "bac",
     "embenat",
-    "trinxo"
+    "trinxo",
+    "cap embenat",
+    "cara",
+    "cara amb el cap embenat"
   ],
   "face_with_medical_mask": [
     "malalt",
@@ -3858,7 +4016,10 @@
     "grip",
     "mocs",
     "contagi",
-    "tos"
+    "tos",
+    "cara",
+    "cara amb màscara",
+    "cara amb mascareta"
   ],
   "face_with_monocle": [
     "raonament",
@@ -3878,7 +4039,8 @@
     "mirar",
     "milionari",
     "pregunta",
-    "mira"
+    "mira",
+    "cara amb monocle"
   ],
   "face_with_open_eyes_and_hand_over_mouth": [
     "por",
@@ -3934,7 +4096,8 @@
     "pregunta",
     "desconfiada",
     "com?",
-    "desconfiat"
+    "desconfiat",
+    "cara amb una cella aixecada"
   ],
   "face_with_spiral_eyes": [
     "maldecap",
@@ -3962,7 +4125,9 @@
     "fum",
     "èxit",
     "esforç",
-    "exit"
+    "exit",
+    "cara",
+    "cara que treu fum del nas"
   ],
   "face_with_symbols_on_mouth": [
     "embromat",
@@ -3989,7 +4154,8 @@
     "marmolar",
     "remuc",
     "furiosa",
-    "insultar"
+    "insultar",
+    "cara amb símbols a la boca"
   ],
   "face_with_thermometer": [
     "malalt",
@@ -4008,7 +4174,9 @@
     "fotut",
     "decimes",
     "dècimes",
-    "malestar"
+    "malestar",
+    "cara",
+    "cara amb termòmetre"
   ],
   "face_with_tongue": [
     "punxar",
@@ -4020,7 +4188,10 @@
     "llengotes",
     "burla",
     "llengota",
-    ":p"
+    ":p",
+    "cara",
+    "cara que fa llengotes",
+    "llengua fora"
   ],
   "face_without_mouth": [
     "secret",
@@ -4031,7 +4202,10 @@
     "mutis",
     "xoc",
     "callat",
-    "callada"
+    "callada",
+    "cara",
+    "cara sense boca",
+    "sense boca"
   ],
   "factory": [
     "edifici",
@@ -4042,10 +4216,15 @@
     "mà d'obra",
     "treball",
     "treballador",
-    "fàbrica"
+    "fàbrica",
+    "industrial",
+    "operari"
   ],
   "fairy": [
-    "fada"
+    "fada",
+    "oberó",
+    "puck",
+    "titània"
   ],
   "falafel": [
     "pilota",
@@ -4168,7 +4347,10 @@
     "criatura",
     "pare",
     "nen",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noi"
   ],
   "family_man_boy_boy": [
     "nena",
@@ -4179,7 +4361,10 @@
     "nens",
     "nen",
     "xiquets",
-    "infants"
+    "infants",
+    "home",
+    "mare",
+    "noi"
   ],
   "family_man_girl": [
     "fill",
@@ -4188,7 +4373,10 @@
     "criatura",
     "pare",
     "nen",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noia"
   ],
   "family_man_girl_boy": [
     "nena",
@@ -4199,7 +4387,11 @@
     "nens",
     "nen",
     "xiquets",
-    "infants"
+    "infants",
+    "home",
+    "mare",
+    "noi",
+    "noia"
   ],
   "family_man_girl_girl": [
     "nena",
@@ -4208,7 +4400,10 @@
     "pare",
     "nenes",
     "filles",
-    "infants"
+    "infants",
+    "home",
+    "mare",
+    "noia"
   ],
   "family_man_man_boy": [
     "fill",
@@ -4217,7 +4412,10 @@
     "criatura",
     "pare",
     "nen",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noi"
   ],
   "family_man_man_boy_boy": [
     "fill",
@@ -4230,7 +4428,10 @@
     "nens",
     "nen",
     "xiquets",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noi"
   ],
   "family_man_man_girl": [
     "pares",
@@ -4240,7 +4441,10 @@
     "criatura",
     "filla",
     "pare",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noia"
   ],
   "family_man_man_girl_boy": [
     "pares",
@@ -4252,7 +4456,11 @@
     "nens",
     "nen",
     "xiquets",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noi",
+    "noia"
   ],
   "family_man_man_girl_girl": [
     "pares",
@@ -4262,13 +4470,20 @@
     "pare",
     "nenes",
     "filles",
-    "infant"
+    "infant",
+    "home",
+    "mare",
+    "noia"
   ],
   "family_man_woman_boy": [
     "fill",
     "mare",
     "família",
-    "pare"
+    "pare",
+    "criatura",
+    "dona",
+    "home",
+    "noi"
   ],
   "family_man_woman_boy_boy": [
     "mare",
@@ -4279,7 +4494,10 @@
     "nens",
     "nen",
     "xiquets",
-    "criatures"
+    "criatures",
+    "dona",
+    "home",
+    "noi"
   ],
   "family_man_woman_girl": [
     "nena",
@@ -4288,7 +4506,10 @@
     "criatura",
     "filla",
     "pare",
-    "infant"
+    "infant",
+    "dona",
+    "home",
+    "noia"
   ],
   "family_man_woman_girl_boy": [
     "fill",
@@ -4301,7 +4522,11 @@
     "pare",
     "nen",
     "infants",
-    "criatures"
+    "criatures",
+    "dona",
+    "home",
+    "noi",
+    "noia"
   ],
   "family_man_woman_girl_girl": [
     "mare",
@@ -4311,7 +4536,10 @@
     "nenes",
     "filles",
     "infants",
-    "criatures"
+    "criatures",
+    "dona",
+    "home",
+    "noia"
   ],
   "family_woman_boy": [
     "fill",
@@ -4319,7 +4547,10 @@
     "família",
     "criatura",
     "nen",
-    "infant"
+    "infant",
+    "dona",
+    "noi",
+    "pare"
   ],
   "family_woman_boy_boy": [
     "mare",
@@ -4329,7 +4560,10 @@
     "nens",
     "nen",
     "xiquets",
-    "infant"
+    "infant",
+    "dona",
+    "noi",
+    "pare"
   ],
   "family_woman_girl": [
     "nena",
@@ -4337,7 +4571,10 @@
     "família",
     "criatura",
     "filla",
-    "infant"
+    "infant",
+    "dona",
+    "noia",
+    "pare"
   ],
   "family_woman_girl_boy": [
     "nena",
@@ -4348,7 +4585,12 @@
     "nen",
     "xiquets",
     "infants",
-    "criatures"
+    "criatures",
+    "criatura",
+    "dona",
+    "noi",
+    "noia",
+    "pare"
   ],
   "family_woman_girl_girl": [
     "mare",
@@ -4356,7 +4598,11 @@
     "nenes",
     "filles",
     "infants",
-    "criatures"
+    "criatures",
+    "criatura",
+    "dona",
+    "noia",
+    "pare"
   ],
   "family_woman_woman_boy": [
     "fill",
@@ -4365,7 +4611,10 @@
     "criatura",
     "nen",
     "mares",
-    "infant"
+    "infant",
+    "dona",
+    "noi",
+    "pare"
   ],
   "family_woman_woman_boy_boy": [
     "mare",
@@ -4377,7 +4626,10 @@
     "xiquets",
     "infants",
     "criatures",
-    "mares"
+    "mares",
+    "dona",
+    "noi",
+    "pare"
   ],
   "family_woman_woman_girl": [
     "nena",
@@ -4385,7 +4637,10 @@
     "família",
     "criatura",
     "mares",
-    "infant"
+    "infant",
+    "dona",
+    "noia",
+    "pare"
   ],
   "family_woman_woman_girl_boy": [
     "nena",
@@ -4397,7 +4652,11 @@
     "infants",
     "criatures",
     "mares",
-    "infant"
+    "infant",
+    "dona",
+    "noi",
+    "noia",
+    "pare"
   ],
   "family_woman_woman_girl_girl": [
     "nena",
@@ -4409,7 +4668,10 @@
     "infants",
     "criatures",
     "mares",
-    "infant"
+    "infant",
+    "dona",
+    "noia",
+    "pare"
   ],
   "farmer": [
     "llauro",
@@ -4422,7 +4684,8 @@
     "camp",
     "mas",
     "pagès",
-    "hortolà"
+    "hortolà",
+    "agricultor"
   ],
   "faroe_islands": [
     "bandera",
@@ -4475,10 +4738,21 @@
     "atemorit",
     "incredulitat",
     "espantada",
-    "temor"
+    "temor",
+    "cara de por"
   ],
   "feather": [
-    "ploma"
+    "ploma",
+    "au",
+    "lleuger",
+    "plomatge",
+    "volar"
+  ],
+  "female_sign": [
+    "dona",
+    "femella",
+    "femení",
+    "símbol femení"
   ],
   "ferris_wheel": [
     "roda",
@@ -4592,7 +4866,8 @@
   ],
   "firefighter": [
     "bomber",
-    "bombera"
+    "bombera",
+    "camió de bombers"
   ],
   "fireworks": [
     "moros i cristians",
@@ -4648,7 +4923,8 @@
     "cinc",
     "5",
     "tecla dígit cinc",
-    "tecla dígit 5"
+    "tecla dígit 5",
+    "tecla"
   ],
   "five_o_clock": [
     "17.00",
@@ -4670,7 +4946,9 @@
   ],
   "flamingo": [
     "ocell",
-    "flamenc"
+    "flamenc",
+    "cridaner",
+    "tropical"
   ],
   "flashlight": [
     "eina",
@@ -4711,7 +4989,9 @@
     "gim",
     "fort",
     "bíceps",
-    "braç"
+    "braç",
+    "bíceps tensat",
+    "flexió de bíceps"
   ],
   "floppy_disk": [
     "disc",
@@ -4740,7 +5020,9 @@
     "galtes",
     "rubor",
     "enrojolada",
-    "vergonya"
+    "vergonya",
+    "cara",
+    "galtes vermelles"
   ],
   "flute": [
     "música",
@@ -4751,7 +5033,11 @@
   ],
   "fly": [
     "insecte",
-    "mosca"
+    "mosca",
+    "epidèmia",
+    "larva",
+    "malaltia",
+    "podrit"
   ],
   "flying_disc": [
     "disc volador",
@@ -4790,7 +5076,8 @@
     "merci",
     "pregar",
     "gracies",
-    "mans en oració"
+    "mans en oració",
+    "si us plau"
   ],
   "folding_hand_fan": [
     "calor",
@@ -4834,7 +5121,8 @@
     "trepitjada",
     "xafar",
     "xapar",
-    "puntada"
+    "puntada",
+    "puntada de peu"
   ],
   "footprints": [
     "xafada",
@@ -4846,7 +5134,9 @@
     "empremta",
     "peus",
     "petja",
-    "xapada"
+    "xapada",
+    "cos",
+    "vestit"
   ],
   "fork_and_knife": [
     "dinar",
@@ -4885,7 +5175,8 @@
     "quatre",
     "4",
     "tecla dígit 4",
-    "tecla dígit quatre"
+    "tecla dígit quatre",
+    "tecla"
   ],
   "four_leaf_clover": [
     "trèvol",
@@ -4909,14 +5200,16 @@
     "dos quarts de cinc",
     "4.30",
     "16.30",
-    "rellotg"
+    "rellotg",
+    "rellotge"
   ],
   "fox": [
     "animal",
     "cara de guineu",
     "guineu",
     "cara de rabosa",
-    "rabosa"
+    "rabosa",
+    "cara"
   ],
   "framed_picture": [
     "pintura",
@@ -4998,7 +5291,9 @@
     "empipat",
     "enfadat",
     "emmurriada",
-    "empipada"
+    "empipada",
+    "cara",
+    "cara arrufada"
   ],
   "frowning_face_with_open_mouth": [
     "por",
@@ -5014,7 +5309,10 @@
     "estupor",
     "sorpresa",
     "preocupat",
-    "preocupacio"
+    "preocupacio",
+    "boca oberta",
+    "cara",
+    "cara emmurriada amb la boca oberta"
   ],
   "fu": [
     "mà",
@@ -5033,7 +5331,10 @@
     "cabrona",
     "insult",
     "mig",
-    "peineta"
+    "peineta",
+    "dit cor",
+    "dit del cor",
+    "dit del mig"
   ],
   "fuel_pump": [
     "assortidor de gasolina",
@@ -5085,7 +5386,8 @@
   "garlic": [
     "condiment",
     "cabeça",
-    "all"
+    "all",
+    "aromatitzant"
   ],
   "gear": [
     "eina",
@@ -5151,7 +5453,11 @@
     "espant",
     "monstre",
     "uuu",
-    "sobresalt"
+    "sobresalt",
+    "cara",
+    "conte",
+    "criatura",
+    "fantasia"
   ],
   "gibraltar": [
     "bandera",
@@ -5262,7 +5568,8 @@
     "vermell",
     "correfoc",
     "conte",
-    "follet"
+    "follet",
+    "cara"
   ],
   "goggles": [
     "protecció ocular",
@@ -5405,7 +5712,9 @@
     "carassa",
     "cagada",
     "incomode",
-    "ganyota"
+    "ganyota",
+    "cara",
+    "cara que fa una ganyota amb les dents"
   ],
   "grin": [
     "alegre",
@@ -5422,7 +5731,11 @@
     "content",
     "dentadura",
     "contenta",
-    "felicitat"
+    "felicitat",
+    "cara",
+    "cara molt somrient amb els ulls alegres",
+    "gran somriure",
+    "ulls"
   ],
   "grinning_cat": [
     "alegre",
@@ -5431,7 +5744,10 @@
     "somrient",
     "bocabadat",
     "boca",
-    "gat"
+    "gat",
+    "boca oberta",
+    "cara",
+    "gat somrient amb la boca oberta"
   ],
   "grinning_cat_with_smiling_eyes": [
     "alegre",
@@ -5440,7 +5756,10 @@
     "somrient",
     "bocabadat",
     "boca",
-    "gat"
+    "gat",
+    "cara",
+    "gat somrient amb els ulls alegres",
+    "ulls alegres"
   ],
   "grinning_face": [
     "alegre",
@@ -5450,7 +5769,11 @@
     "alegria",
     "content",
     "contenta",
-    "felicitat"
+    "felicitat",
+    "cara",
+    "cara molt somrient",
+    "rialla",
+    "ulls"
   ],
   "grinning_face_with_smiling_eyes": [
     "alegre",
@@ -5465,7 +5788,10 @@
     "content",
     "contenta",
     "felicitat",
-    "rialla"
+    "rialla",
+    "boca oberta",
+    "cara",
+    "cara amb rialla i els ulls somrients"
   ],
   "growing_heart": [
     "estimar",
@@ -5623,7 +5949,8 @@
   "hamster": [
     "cara",
     "hàmster",
-    "cara d’hàmster"
+    "cara d’hàmster",
+    "mascota"
   ],
   "hand_with_fingers_splayed": [
     "mà",
@@ -5632,7 +5959,10 @@
     "separats",
     "pam",
     "dits",
-    "oberts"
+    "oberts",
+    "dits oberts",
+    "mà amb els dits oberts",
+    "mà oberta"
   ],
   "hand_with_index_finger_and_thumb_crossed": [
     "mà amb el dit índex i el polze creuats",
@@ -5681,7 +6011,8 @@
     "salutació",
     "encaixada",
     "reconciliació",
-    "saludar"
+    "saludar",
+    "encaixada de mans"
   ],
   "hash": [
     "coixinet",
@@ -5690,7 +6021,8 @@
     "hashtag",
     "tecla sostingut",
     "#",
-    "sostingut"
+    "sostingut",
+    "tecla"
   ],
   "hatching_chick": [
     "au",
@@ -5740,7 +6072,11 @@
     "doctor",
     "metge",
     "dentista",
-    "dr"
+    "dr",
+    "infermer",
+    "professional de la salut",
+    "salut",
+    "terapeuta"
   ],
   "hear_no_evil_monkey": [
     "mona",
@@ -5748,6 +6084,9 @@
     "mico",
     "mico tapant-se les orelles",
     "mona que no escolta"
+  ],
+  "heard_mcdonald_islands": [
+    "bandera"
   ],
   "heart": [
     "estimar",
@@ -5813,7 +6152,9 @@
     "sant donís",
     "estimat",
     "cors",
-    "xulo"
+    "xulo",
+    "cara",
+    "cara somrient amb ulls en forma de cor"
   ],
   "heart_hands": [
     "estimar",
@@ -5979,7 +6320,11 @@
   "hollow_red_circle": [
     "cercle",
     "cercle gran",
-    "cercle vermell"
+    "cercle vermell",
+    "cercle buit vermell",
+    "gran",
+    "o",
+    "vermell"
   ],
   "honduras": [
     "bandera",
@@ -6008,7 +6353,12 @@
   ],
   "hook": [
     "garfi",
-    "ganxo"
+    "ganxo",
+    "atrapar",
+    "corba",
+    "ham",
+    "pescar",
+    "punt de venda"
   ],
   "horizontal_traffic_light": [
     "senyal",
@@ -6074,7 +6424,9 @@
     "hipertèrmia",
     "suant",
     "suada",
-    "basca"
+    "basca",
+    "cara de calor",
+    "cara vermella"
   ],
   "hot_pepper": [
     "planta",
@@ -6144,7 +6496,9 @@
     "abraçar",
     "abraçada",
     "galtes",
-    "ànim"
+    "ànim",
+    "cara",
+    "cara amb abraçada"
   ],
   "hungary": [
     "bandera",
@@ -6163,12 +6517,17 @@
     ":o",
     "cella",
     "sorpresa",
-    "meravella"
+    "meravella",
+    "cara",
+    "cara de sorpresa"
   ],
   "hut": [
     "cabanya",
     "barraca",
-    "cabana"
+    "cabana",
+    "casa",
+    "casa rodona",
+    "iurta"
   ],
   "hyacinth": [
     "flor",
@@ -6186,7 +6545,9 @@
     "desgel",
     "cub de gel",
     "glaç",
-    "glaçó"
+    "glaçó",
+    "fred",
+    "iceberg"
   ],
   "ice_cream": [
     "postres",
@@ -6285,7 +6646,8 @@
     "jo",
     "present",
     "sobre",
-    "pregunta"
+    "pregunta",
+    "índex que apunta cap amunt"
   ],
   "india": [
     "bandera",
@@ -6321,7 +6683,8 @@
     "angelet",
     "santa",
     "angel",
-    "sant"
+    "sant",
+    "cara somrient amb aurèola"
   ],
   "input_latin_letters": [
     "lletres",
@@ -6347,7 +6710,9 @@
     "♪",
     "símbol",
     "%",
-    "〒♪&%"
+    "〒♪&%",
+    "botó de símbols",
+    "símbols"
   ],
   "iran": [
     "bandera",
@@ -6408,7 +6773,8 @@
     "halloween",
     "totsants",
     "llanterna",
-    "novembre"
+    "novembre",
+    "carabassa de halloween"
   ],
   "jamaica": [
     "bandera",
@@ -6445,7 +6811,8 @@
     "japonès",
     "ideograma",
     "kanji",
-    "botó japonès \"ganga\""
+    "botó japonès \"ganga\"",
+    "\"ganga\""
   ],
   "japanese_castle": [
     "japonès",
@@ -6479,7 +6846,8 @@
     "botó japonès \"gratis\"",
     "gratis",
     "botó japonès \"gratuït\"",
-    "gratuït"
+    "gratuït",
+    "\"gratis\""
   ],
   "japanese_here_button": [
     "quadre",
@@ -6492,7 +6860,8 @@
     "japonès",
     "ideograma",
     "kanji",
-    "botó japonès \"import mensual\""
+    "botó japonès \"import mensual\"",
+    "\"quantitat mensual\""
   ],
   "japanese_no_vacancy_button": [
     "japonès",
@@ -6506,7 +6875,8 @@
     "ideograma",
     "kanji",
     "botó japonès \"de pagament\"",
-    "pagament"
+    "pagament",
+    "\"de pagament\""
   ],
   "japanese_open_for_business_button": [
     "obert",
@@ -6521,7 +6891,8 @@
     "kanji",
     "botó japonès \"qualificació de reeixida\"",
     "botó japonès \"qualificació d’aprovat\"",
-    "reeixit"
+    "reeixit",
+    "\"qualificació d’aprovat\""
   ],
   "japanese_post_office": [
     "oficina",
@@ -6541,14 +6912,16 @@
     "ideograma",
     "kanji",
     "reservat",
-    "botó japonès \"reservat\""
+    "botó japonès \"reservat\"",
+    "\"reservat\""
   ],
   "japanese_secret_button": [
     "japonès",
     "ideograma",
     "secret",
     "kanji",
-    "botó japonès \"secret\""
+    "botó japonès \"secret\"",
+    "\"secret\""
   ],
   "japanese_service_charge_button": [
     "botó japonès \"càrrec per servei\"",
@@ -6641,7 +7014,8 @@
     "content",
     "contenta",
     "felicitat",
-    "rialla"
+    "rialla",
+    "cara amb llàgrimes d’alegria"
   ],
   "joy_cat": [
     "llàgrimes",
@@ -6655,13 +7029,19 @@
     "xd",
     "gat",
     "gota",
-    "llàgrima"
+    "llàgrima",
+    "cara",
+    "gat amb llàgrimes d’alegria"
   ],
   "joystick": [
     "videojoc",
     "palanca",
     "palanca de control",
     "control"
+  ],
+  "judge": [
+    "balança",
+    "jutge"
   ],
   "kaaba": [
     "ka’ba",
@@ -6794,7 +7174,9 @@
     "petó",
     "pintallavis",
     "llavis",
-    "peto"
+    "peto",
+    "marca",
+    "marca de petó"
   ],
   "kiss_woman_man": [
     "enamorada",
@@ -6863,7 +7245,10 @@
     "galta",
     "petó",
     "rubor",
-    "enrogir"
+    "enrogir",
+    "cara",
+    "gat que fa un petó",
+    "ulls tancats"
   ],
   "kissing_face": [
     "beset",
@@ -6885,7 +7270,9 @@
     "petó",
     "3",
     "petonet",
-    "llavis"
+    "llavis",
+    "cara",
+    "cara que fa un petó"
   ],
   "kissing_face_with_closed_eyes": [
     "beset",
@@ -6911,7 +7298,10 @@
     "galtes",
     "rubor",
     "petonet",
-    "vergonya"
+    "vergonya",
+    "cara",
+    "cara que fa un petó amb els ulls tancats",
+    "ulls tancats"
   ],
   "kissing_face_with_smiling_eyes": [
     "beset",
@@ -6932,7 +7322,10 @@
     ":3",
     "petó",
     "3",
-    "petonet"
+    "petonet",
+    "cara",
+    "cara que fa un petó amb els ulls alegres",
+    "ulls alegres"
   ],
   "kitchen_knife": [
     "ganivet",
@@ -6943,7 +7336,9 @@
   "kite": [
     "mona",
     "estel",
-    "pasqua"
+    "pasqua",
+    "enlairar-se",
+    "volar"
   ],
   "kiwi_fruit": [
     "menjar",
@@ -6998,7 +7393,11 @@
     "estic"
   ],
   "ladder": [
-    "escala"
+    "escala",
+    "escala de mà",
+    "esglaó",
+    "graó",
+    "pujar"
   ],
   "lady_beetle": [
     "insecte",
@@ -7090,7 +7489,11 @@
     "content",
     "contenta",
     "felicitat",
-    "rialla"
+    "rialla",
+    "boca oberta",
+    "cara",
+    "cara somrient amb els ulls tancats fortament",
+    "ulls tancats"
   ],
   "leaf_fluttering_in_wind": [
     "fulla",
@@ -7158,6 +7561,12 @@
     "dreta",
     "fletxa cap a l’esquerra i cap a la dreta"
   ],
+  "left_speech_bubble": [
+    "bafarada",
+    "bafarada de parlar cap a l’esquerra",
+    "esquerra",
+    "parlar"
+  ],
   "leftwards_hand": [
     "mà",
     "palma",
@@ -7203,7 +7612,8 @@
     "cuixa",
     "peu",
     "anca",
-    "extremitat"
+    "extremitat",
+    "puntada de peu"
   ],
   "lemon": [
     "planta",
@@ -7299,7 +7709,9 @@
   "lion": [
     "cara",
     "lleó",
-    "cara de lleó"
+    "cara de lleó",
+    "leo",
+    "zodíac"
   ],
   "lipstick": [
     "roja",
@@ -7394,7 +7806,8 @@
     "loció",
     "xampú",
     "suavitzant",
-    "protecció solar"
+    "protecció solar",
+    "ampolla de crema"
   ],
   "lotus": [
     "flor",
@@ -7410,7 +7823,8 @@
     "moros i cristians",
     "mic",
     "megafonia",
-    "altaveu"
+    "altaveu",
+    "altaveu de megafonia"
   ],
   "love_hotel": [
     "hotel",
@@ -7442,7 +7856,8 @@
     "ily",
     "enamorar",
     "signes",
-    "testime"
+    "testime",
+    "gest de t’estimo"
   ],
   "low_battery": [
     "bateria",
@@ -7466,7 +7881,9 @@
     "òrgan",
     "cancer",
     "oxigen",
-    "respiració"
+    "respiració",
+    "exhalació",
+    "inhalació"
   ],
   "luxembourg": [
     "bandera",
@@ -7483,7 +7900,9 @@
     "mentidera",
     "falsedat",
     "mentira",
-    "mentider"
+    "mentider",
+    "cara",
+    "cara de mentider"
   ],
   "macao_sar_china": [
     "bandera",
@@ -7501,7 +7920,10 @@
   "mage": [
     "màgic",
     "mag",
-    "bruixot"
+    "bruixot",
+    "bruixa",
+    "fetiller",
+    "fetillera"
   ],
   "magic_wand": [
     "màgica",
@@ -7510,7 +7932,9 @@
     "vareta",
     "màgia",
     "maga",
-    "vareta màgica"
+    "vareta màgica",
+    "bruixa",
+    "bruixot"
   ],
   "magnet": [
     "ferradura",
@@ -7563,6 +7987,12 @@
     "bandera_mv",
     "mv"
   ],
+  "male_sign": [
+    "home",
+    "mascle",
+    "masculí",
+    "símbol masculí"
+  ],
   "mali": [
     "bandera",
     "malià",
@@ -7581,7 +8011,11 @@
   ],
   "mammoth": [
     "animal",
-    "mamut"
+    "mamut",
+    "extició",
+    "gran",
+    "llanut",
+    "ullal"
   ],
   "man": [
     "masculí",
@@ -7603,7 +8037,8 @@
     "masculí",
     "home",
     "sense cabells",
-    "calb"
+    "calb",
+    "calvície"
   ],
   "man_beard": [
     "home amb barba",
@@ -7695,7 +8130,8 @@
     "treballador",
     "industrial",
     "operari",
-    "fàbrica"
+    "fàbrica",
+    "home operari"
   ],
   "man_fairy": [
     "home fada",
@@ -7724,7 +8160,8 @@
     "alimentar",
     "bebè",
     "home que alleta un bebé",
-    "home que alleta un bebè"
+    "home que alleta un bebè",
+    "dona"
   ],
   "man_firefighter": [
     "masculí",
@@ -7803,7 +8240,8 @@
     "salut",
     "metge",
     "dentista",
-    "infermer"
+    "infermer",
+    "home professional de la salut"
   ],
   "man_in_lotus_position": [
     "vacances",
@@ -7817,17 +8255,22 @@
     "accessibilitat",
     "home amb una cadira de rodes manual",
     "cadira de rodes manual",
-    "home en cadira de rodes"
+    "home en cadira de rodes",
+    "home"
   ],
   "man_in_motorized_wheelchair": [
     "cadira de rodes",
     "accessibilitat",
-    "home amb una cadira de rodes manual"
+    "home amb una cadira de rodes manual",
+    "home",
+    "home amb una cadira de rodes elèctrica"
   ],
   "man_in_steamy_room": [
     "sauna",
     "steamy room",
-    "bath"
+    "bath",
+    "home a la sauna",
+    "vapor"
   ],
   "man_in_tuxedo": [
     "esmòquing",
@@ -7906,7 +8349,8 @@
     "home",
     "negoci",
     "treballador d’oficina",
-    "arquitecte"
+    "arquitecte",
+    "home treballador d’oficina"
   ],
   "man_pilot": [
     "masculí",
@@ -7934,7 +8378,8 @@
     "polici",
     "policia",
     "agent",
-    "policia home"
+    "policia home",
+    "agent de policia home"
   ],
   "man_pouting": [
     "masculí",
@@ -7963,7 +8408,8 @@
     "masculí",
     "home",
     "panotxo",
-    "pel-roig"
+    "pel-roig",
+    "cabells vermells"
   ],
   "man_rowing_boat": [
     "masculí",
@@ -7994,7 +8440,8 @@
     "científic",
     "físic",
     "biòleg",
-    "enginyer"
+    "enginyer",
+    "home científic"
   ],
   "man_shrugging": [
     "home",
@@ -8017,7 +8464,8 @@
   "man_standing": [
     "dempeus",
     "dret",
-    "home dret"
+    "home dret",
+    "home"
   ],
   "man_student": [
     "masculí",
@@ -8118,7 +8566,8 @@
     "accessibilitat",
     "invident",
     "cec",
-    "home amb un bastó per a invidents"
+    "home amb un bastó per a invidents",
+    "home"
   ],
   "man_zombie": [
     "mort vivent",
@@ -8139,7 +8588,8 @@
   "manual_wheelchair": [
     "cadira de rodes",
     "accessibilitat",
-    "cadira"
+    "cadira",
+    "cadira de rodes manual"
   ],
   "map_of_japan": [
     "japó",
@@ -8213,7 +8663,9 @@
   ],
   "mechanic": [
     "mecànica",
-    "mecànic"
+    "mecànic",
+    "electricista",
+    "lampista"
   ],
   "mechanical_arm": [
     "força",
@@ -8227,7 +8679,9 @@
     "fort",
     "bíceps",
     "braç",
-    "pròtesi"
+    "pròtesi",
+    "accessibilitat",
+    "pròtesi de braç"
   ],
   "mechanical_leg": [
     "turmell",
@@ -8239,7 +8693,16 @@
     "anca",
     "mecànic",
     "extremitat",
-    "pròtesi"
+    "pròtesi",
+    "accessibilitat",
+    "pr`òtesi de cama"
+  ],
+  "medical_symbol": [
+    "esculapi",
+    "medicina",
+    "personal",
+    "serp",
+    "símbol mèdic"
   ],
   "megaphone": [
     "moros i cristians",
@@ -8298,7 +8761,10 @@
     "hòmens",
     "homens",
     "homes",
-    "homes que s’agafen de la mà"
+    "homes que s’agafen de la mà",
+    "bessons",
+    "gèmini",
+    "zodíac"
   ],
   "men_s_room": [
     "lavabo",
@@ -8314,7 +8780,10 @@
     "festa",
     "conillet",
     "orelles de conill",
-    "persones que ballen disfressades"
+    "persones que ballen disfressades",
+    "ballarí",
+    "ballarins amb orelles de conill",
+    "homes que ballen disfressats"
   ],
   "men_wrestling": [
     "masculí",
@@ -8356,7 +8825,8 @@
   "merperson": [
     "tritó",
     "sirena",
-    "persona sirena"
+    "persona sirena",
+    "dona sirena"
   ],
   "metro": [
     "vehicle"
@@ -8446,12 +8916,18 @@
     "signe",
     "signe menys",
     "resta",
-    "signe de restar gran"
+    "signe de restar gran",
+    "-",
+    "−",
+    "matemàtiques",
+    "menys",
+    "signe de restar"
   ],
   "mirror": [
     "mirall",
     "espill",
-    "reflex"
+    "reflex",
+    "reflector"
   ],
   "mirror_ball": [
     "cap d'any",
@@ -8533,7 +9009,9 @@
     "pasta",
     "guanyar",
     "pela",
-    "calers"
+    "calers",
+    "cara",
+    "cara de diners"
   ],
   "money_with_wings": [
     "pèmpins",
@@ -8705,7 +9183,8 @@
     "parany",
     "ratera",
     "trampa",
-    "atolí"
+    "atolí",
+    "ratolí"
   ],
   "mouth": [
     "roja",
@@ -8717,7 +9196,8 @@
     "pintallavis",
     "llavis",
     "sensual",
-    "sexi"
+    "sexi",
+    "cos"
   ],
   "movie_camera": [
     "càmera",
@@ -8746,7 +9226,12 @@
     "signe",
     "signe de multiplicar gran",
     "multiplicar",
-    "signe x"
+    "signe x",
+    "×",
+    "cancel·lar",
+    "multiplicació",
+    "signe de multiplicar",
+    "x"
   ],
   "mushroom": [
     "planta",
@@ -8805,13 +9290,16 @@
     "inhabilita",
     "silenciat",
     "silenciar",
-    "altaveu"
+    "altaveu",
+    "altaveu desactivat"
   ],
   "mx_claus": [
     "nadal",
     "santa claus",
     "santa",
-    "mare noel"
+    "mare noel",
+    "noel",
+    "noel, nadal"
   ],
   "myanmar_burma": [
     "bandera",
@@ -8868,7 +9356,9 @@
     "arrojar",
     "fastigós",
     "fàstic",
-    "fastigosa"
+    "fastigosa",
+    "cara",
+    "cara de nàusees"
   ],
   "nazar_amulet": [
     "pedra del mal d’ull",
@@ -8902,7 +9392,8 @@
     "sabut",
     "estudiós",
     "aplicada",
-    "estudiosa"
+    "estudiosa",
+    "cara de setciències"
   ],
   "nest_with_eggs": [
     "mona",
@@ -8943,7 +9434,9 @@
     "impassible",
     "neutral",
     ":|",
-    "seriosa"
+    "seriosa",
+    "cara",
+    "cara neutra"
   ],
   "new_button": [
     "paraula",
@@ -9037,7 +9530,8 @@
     "9",
     "tecla dígit nou",
     "tecla dígit 9",
-    "nou"
+    "nou",
+    "tecla"
   ],
   "nine_o_clock": [
     "rellotge",
@@ -9056,6 +9550,12 @@
     "9.30",
     "2/4 de 9",
     "dos quarts de deu"
+  ],
+  "ninja": [
+    "guerrer",
+    "lluitador",
+    "ocult",
+    "sigilós"
   ],
   "niue": [
     "bandera",
@@ -9157,7 +9657,8 @@
   ],
   "norway": [
     "noruec",
-    "noruega"
+    "noruega",
+    "bandera"
   ],
   "nose": [
     "olfacte",
@@ -9169,7 +9670,8 @@
     "olfactiu",
     "oldre",
     "esnifar",
-    "tabic"
+    "tabic",
+    "cos"
   ],
   "notebook": [
     "quadern",
@@ -9190,7 +9692,8 @@
   ],
   "o_button_blood_type": [
     "botó",
-    "botó o (grup sanguini)"
+    "botó o (grup sanguini)",
+    "o"
   ],
   "ocean": [
     "aigua",
@@ -9248,7 +9751,8 @@
     "roig",
     "vermell",
     "correfoc",
-    "conte"
+    "conte",
+    "cara"
   ],
   "oil_drum": [
     "petroli",
@@ -9280,7 +9784,10 @@
     "acceptació",
     "bé",
     "aprovació",
-    "perfecte"
+    "perfecte",
+    "mà d’acceptació",
+    "senyal d’aprovació",
+    "senyal d’aprovació amb la mà"
   ],
   "old_key": [
     "obrir",
@@ -9319,7 +9826,8 @@
   ],
   "olive": [
     "olives",
-    "oliva"
+    "oliva",
+    "menjar"
   ],
   "om": [
     "religió",
@@ -9367,7 +9875,9 @@
     "colp",
     "nyesprol",
     "bascollada",
-    "bescollada"
+    "bescollada",
+    "a prop",
+    "cop de puny"
   ],
   "oncoming_police_car": [
     "proper",
@@ -9390,7 +9900,8 @@
     "tecla dígit u",
     "1",
     "tecla dígit un",
-    "tecla dígit 1"
+    "tecla dígit 1",
+    "tecla"
   ],
   "one_o_clock": [
     "rellotge",
@@ -9406,7 +9917,8 @@
     "nedar",
     "piscina",
     "banyador",
-    "nadar"
+    "nadar",
+    "vestit de bany"
   ],
   "one_thirty": [
     "dos quarts",
@@ -9419,7 +9931,8 @@
   "onion": [
     "condiment",
     "ceba",
-    "cabeça"
+    "cabeça",
+    "aromatitzant"
   ],
   "open_book": [
     "col·legi",
@@ -9450,7 +9963,9 @@
     "suport",
     "mans",
     "abraçada",
-    "obertes"
+    "obertes",
+    "cos",
+    "mans obertes"
   ],
   "open_mailbox_with_lowered_flag": [
     "correu",
@@ -9479,7 +9994,10 @@
     "sorpresa",
     "wow",
     "uala",
-    "apa"
+    "apa",
+    "boca oberta",
+    "cara",
+    "cara amb la boca oberta"
   ],
   "ophiuchus": [
     "zodíac",
@@ -9539,7 +10057,9 @@
   ],
   "otter": [
     "llúdria",
-    "llúdriga"
+    "llúdriga",
+    "juganera",
+    "pescadora"
   ],
   "outbox_tray": [
     "correu",
@@ -9562,13 +10082,15 @@
   "oyster": [
     "ostra",
     "perla",
-    "mol·lusc"
+    "mol·lusc",
+    "busseig"
   ],
   "p_button": [
     "botó p",
     "lletra p",
     "pàrquing",
-    "aparcament"
+    "aparcament",
+    "p"
   ],
   "package": [
     "capsa",
@@ -9666,7 +10188,8 @@
     "rebre",
     "pregar",
     "llegir",
-    "pregària"
+    "pregària",
+    "mans juntes amb els palmells cap amunt"
   ],
   "panama": [
     "bandera",
@@ -9698,7 +10221,10 @@
   ],
   "parachute": [
     "paracaigudista",
-    "paracaigudes"
+    "paracaigudes",
+    "ala delta",
+    "paracaigudisme",
+    "parapent"
   ],
   "paraguay": [
     "bandera",
@@ -9727,7 +10253,8 @@
     "festa",
     "confeti",
     "aniversari",
-    "espanta-sogres"
+    "espanta-sogres",
+    "cara festiva"
   ],
   "passenger_ship": [
     "vaixell",
@@ -9845,7 +10372,18 @@
     "desanimat",
     "desanimada",
     "abatuda",
-    "desànim"
+    "desànim",
+    "cara",
+    "pensativa"
+  ],
+  "people_holding_hands": [
+    "agafar",
+    "agafar-se de la mà",
+    "mà",
+    "mans agafades",
+    "parella",
+    "persona",
+    "persones que s’agafen de la mà"
   ],
   "people_hugging": [
     "amic",
@@ -9859,7 +10397,11 @@
     "abraçada",
     "abraçant",
     "ànim",
-    "perfils"
+    "perfils",
+    "adeu",
+    "gràcies",
+    "hola",
+    "persones que s’abracen"
   ],
   "people_with_bunny_ears": [
     "amic",
@@ -9874,7 +10416,11 @@
   "people_wrestling": [
     "esport",
     "lluita lliure",
-    "lluita"
+    "lluita",
+    "lluitadores",
+    "lluitadors",
+    "persones lluitant",
+    "persones que lluiten"
   ],
   "performing_arts": [
     "arts interpretatives",
@@ -9891,7 +10437,9 @@
     "ui",
     "esforç",
     "cagada",
-    "perseverança"
+    "perseverança",
+    "cara",
+    "cara de perseverança"
   ],
   "person": [
     "home",
@@ -9903,12 +10451,18 @@
     "cabell",
     "calb",
     "rapat",
-    "pèl"
+    "pèl",
+    "adult",
+    "calvície",
+    "persona"
   ],
   "person_beard": [
     "home amb barba",
     "persona amb barba",
-    "barba"
+    "barba",
+    "home",
+    "home: barba",
+    "persona"
   ],
   "person_biking": [
     "ciclisme",
@@ -9922,7 +10476,9 @@
     "cabells",
     "rossa",
     "ros",
-    "pentinat"
+    "pentinat",
+    "persona amb els cabells rossos",
+    "persona: cabells rossos"
   ],
   "person_bouncing_ball": [
     "pilota",
@@ -9950,20 +10506,34 @@
     "roca",
     "escalada",
     "rocòdrom",
-    "escalador"
+    "escalador",
+    "persona que escala"
   ],
   "person_curly_hair": [
     "monyo",
     "cabell",
-    "rissat"
+    "rissat",
+    "adult",
+    "cabells arrissats",
+    "persona"
   ],
   "person_facepalming": [
     "face palm",
     "facepalm",
-    "mà a la cara"
+    "mà a la cara",
+    "exasperació",
+    "frustració",
+    "incredulitat",
+    "persona amb la mà a la cara",
+    "vergonya"
   ],
   "person_feeding_baby": [
-    "persona alimentant un nadó"
+    "persona alimentant un nadó",
+    "alimentar",
+    "alletar",
+    "bebè",
+    "persona",
+    "persona que alleta un bebè"
   ],
   "person_fencing": [
     "esport",
@@ -9977,7 +10547,11 @@
   "person_frowning": [
     "trista",
     "trist",
-    "cara trista"
+    "cara trista",
+    "emmurriament",
+    "persona",
+    "persona arrufada",
+    "persona emmurriada"
   ],
   "person_gesturing_no": [
     "gest",
@@ -9987,7 +10561,11 @@
     "gens",
     "mai",
     "negatiu",
-    "negativa"
+    "negativa",
+    "gest de negació",
+    "mà",
+    "negació",
+    "prohibit"
   ],
   "person_gesturing_ok": [
     "gest",
@@ -9996,12 +10574,17 @@
     "cercle",
     "ok",
     "okay",
-    "senya"
+    "senya",
+    "aprovació",
+    "gest d’aprovació"
   ],
   "person_getting_haircut": [
     "cabells",
     "tisores",
-    "tall de cabells"
+    "tall de cabells",
+    "persona a la perruqueria",
+    "persona que es talla els cabells",
+    "tallada de cabells"
   ],
   "person_getting_massage": [
     "cara",
@@ -10016,7 +10599,10 @@
   "person_golfing": [
     "golfista",
     "club de golf",
-    "golf"
+    "golf",
+    "bola",
+    "pal",
+    "pilota"
   ],
   "person_in_bed": [
     "hotel",
@@ -10031,22 +10617,28 @@
     "meditació",
     "nirvana",
     "lotus",
-    "vipassana"
+    "vipassana",
+    "persona en la posició de lotus"
   ],
   "person_in_manual_wheelchair": [
     "cadira de rodes",
     "accessibilitat",
     "cadira",
-    "persona en cadira de rodes"
+    "persona en cadira de rodes",
+    "cadira de rodes manual",
+    "persona amb una cadira de rodes manual"
   ],
   "person_in_motorized_wheelchair": [
     "cadira de rodes",
-    "accessibilitat"
+    "accessibilitat",
+    "cadira de rodes elèctrica",
+    "persona amb una cadira de rodes elèctrica"
   ],
   "person_in_steamy_room": [
     "bany",
     "sauna",
-    "vapor"
+    "vapor",
+    "persona a la sauna"
   ],
   "person_in_suit_levitating": [
     "home",
@@ -10057,13 +10649,20 @@
   "person_in_tuxedo": [
     "esmòquing",
     "home",
-    "elegant"
+    "elegant",
+    "nuvi",
+    "persona",
+    "persona amb esmòquing"
   ],
   "person_juggling": [
     "malabars",
     "pallassi",
     "pallasso",
-    "malabarista"
+    "malabarista",
+    "circ",
+    "joc malabar",
+    "malabarisme",
+    "persona que fa malabars"
   ],
   "person_kneeling": [
     "genoll",
@@ -10098,12 +10697,16 @@
     "bici",
     "bicicleta de muntanya",
     "mountain bike",
-    "bici de muntanya"
+    "bici de muntanya",
+    "ciclista de muntanya",
+    "muntanya"
   ],
   "person_playing_handball": [
     "esport",
     "handbol",
-    "handball"
+    "handball",
+    "persona que juga a handbol",
+    "pilota"
   ],
   "person_playing_water_polo": [
     "aigua",
@@ -10123,13 +10726,21 @@
   "person_raising_hand": [
     "mà",
     "gest",
-    "mà alçada"
+    "mà alçada",
+    "mà aixecada",
+    "persona",
+    "persona amb la mà aixecada",
+    "persona contenta que aixeca la mà",
+    "somriure"
   ],
   "person_red_hair": [
     "monyo",
     "vermell",
     "cabell",
-    "pèl-roig"
+    "pèl-roig",
+    "adult",
+    "cabells vermells",
+    "persona"
   ],
   "person_rowing_boat": [
     "esport",
@@ -10145,7 +10756,9 @@
     "carrera",
     "marató",
     "cursa",
-    "persona que corre"
+    "persona que corre",
+    "corredor",
+    "persona corrent"
   ],
   "person_shrugging": [
     "ni idea",
@@ -10168,13 +10781,17 @@
     "humà",
     "dret",
     "alçat",
-    "de peu"
+    "de peu",
+    "persona dreta"
   ],
   "person_surfing": [
     "estiu",
     "surf",
     "surfista",
-    "taula de surf"
+    "taula de surf",
+    "onada",
+    "persona que fa surf",
+    "taula"
   ],
   "person_swimming": [
     "estiu",
@@ -10183,7 +10800,10 @@
     "nedant",
     "neda",
     "nadant",
-    "nadar"
+    "nadar",
+    "natació",
+    "persona nedant",
+    "persona que neda"
   ],
   "person_taking_bath": [
     "banyera",
@@ -10227,7 +10847,10 @@
     "cabell",
     "tallar",
     "cabell curt",
-    "cabell blanc"
+    "cabell blanc",
+    "adult",
+    "cabells blancs",
+    "persona"
   ],
   "person_with_crown": [
     "rei",
@@ -10250,7 +10873,10 @@
   "person_with_veil": [
     "vel",
     "núvia amb vel",
-    "núvia"
+    "núvia",
+    "casament",
+    "persona",
+    "persona amb vel"
   ],
   "person_with_white_cane": [
     "ceguesa",
@@ -10357,6 +10983,9 @@
     "píndola",
     "pastilla"
   ],
+  "pilot": [
+    "avió"
+  ],
   "pinched_fingers": [
     "italia",
     "mà",
@@ -10375,7 +11004,11 @@
     "boníssim",
     "cormull",
     "som-hi",
-    "bonissim"
+    "bonissim",
+    "dits junts",
+    "gest de la mà",
+    "interrogació",
+    "sarcàstic"
   ],
   "pinching_hand": [
     "ma",
@@ -10396,7 +11029,9 @@
     "xicotet",
     "reduït",
     "xicotiu",
-    "poc"
+    "poc",
+    "mà que pessiga",
+    "quantitat petita"
   ],
   "pine_decoration": [
     "celebració",
@@ -10453,14 +11088,18 @@
     "coca"
   ],
   "piñata": [
-    "pinyata"
+    "pinyata",
+    "celebració",
+    "festa"
   ],
   "placard": [
     "cartell",
     "protesta",
     "senyal de protesta",
     "protestar",
-    "pancarta"
+    "pancarta",
+    "manifestació",
+    "senyal"
   ],
   "place_of_worship": [
     "religió",
@@ -10512,7 +11151,9 @@
     "cadell",
     "per favor",
     "solitud",
-    "súplica"
+    "súplica",
+    "cara de súplica",
+    "ulls de cadell"
   ],
   "plunger": [
     "desembussar",
@@ -10525,14 +11166,22 @@
     "èmbol",
     "desembossadora",
     "desembussadora",
-    "desembussador"
+    "desembussador",
+    "embós",
+    "lampista",
+    "lavabo",
+    "succió"
   ],
   "plus": [
     "gran",
     "suma",
     "signe",
     "signe més",
-    "signe de sumar gran"
+    "signe de sumar gran",
+    "+",
+    "matemàtiques",
+    "més",
+    "signe de sumar"
   ],
   "poland": [
     "bandera",
@@ -10546,7 +11195,10 @@
   ],
   "polar_bear": [
     "animal",
-    "os polar"
+    "os polar",
+    "àrtic",
+    "blanc",
+    "os"
   ],
   "police_car": [
     "cotxe de policia",
@@ -10567,7 +11219,8 @@
     "mossos",
     "guàrdia",
     "mosso",
-    "mossos d'esquadra"
+    "mossos d'esquadra",
+    "agent de policia"
   ],
   "poodle": [
     "gos",
@@ -10593,7 +11246,10 @@
     "marró",
     "cagalló",
     "marro",
-    "tifa"
+    "tifa",
+    "cara",
+    "còmic",
+    "monstre"
   ],
   "popcorn": [
     "blat de moro",
@@ -10661,7 +11317,12 @@
   "potted_plant": [
     "planta",
     "test",
-    "cossiol"
+    "cossiol",
+    "avorrit",
+    "casa",
+    "créixer",
+    "inútil",
+    "planta amb test"
   ],
   "poultry_leg": [
     "cuixa",
@@ -10709,7 +11370,9 @@
     "embromada",
     "enutjada",
     "fúria",
-    "enfurida"
+    "enfurida",
+    "cara",
+    "gat enutjat"
   ],
   "prayer_beads": [
     "rosari",
@@ -10837,7 +11500,9 @@
     "puzle",
     "pista",
     "trencaclosques",
-    "peça"
+    "peça",
+    "encaixar",
+    "peces de trencaclosques"
   ],
   "qatar": [
     "bandera",
@@ -10953,7 +11618,8 @@
     "5",
     "revers",
     "dits",
-    "dors"
+    "dors",
+    "revers de la mà"
   ],
   "raised_fist": [
     "mà",
@@ -10966,7 +11632,8 @@
     "reivindicar",
     "dits",
     "puny",
-    "alçat"
+    "alçat",
+    "puny alçat"
   ],
   "raised_hand": [
     "mà",
@@ -10980,7 +11647,9 @@
     "jo",
     "present",
     "èxit",
-    "pregunta"
+    "pregunta",
+    "cos",
+    "mà aixecada"
   ],
   "raising_hands": [
     "aixecades",
@@ -10994,7 +11663,9 @@
     "aixecada",
     "pregar",
     "perfavor",
-    "hurra"
+    "hurra",
+    "mans aixecades",
+    "mans enlaire"
   ],
   "ram": [
     "zodíac",
@@ -11017,7 +11688,10 @@
     "màquina d'afaitar",
     "rasurar",
     "afaitat",
-    "maquineta d'afaitar"
+    "maquineta d'afaitar",
+    "afaitada",
+    "esmolada",
+    "navalla d’afaitar"
   ],
   "receipt": [
     "llibres",
@@ -11074,7 +11748,8 @@
     "signe",
     "signe d’exclamació",
     "puntuació",
-    "signe d’exclamació vermell"
+    "signe d’exclamació vermell",
+    "!"
   ],
   "red_paper_lantern": [
     "roig",
@@ -11093,7 +11768,8 @@
     "ajuda",
     "interrogació",
     "puntuació",
-    "signe d’interrogació vermell"
+    "signe d’interrogació vermell",
+    "?"
   ],
   "red_square": [
     "roig",
@@ -11146,7 +11822,9 @@
     "xuleta",
     "còmoda",
     "còmode",
-    "adormida"
+    "adormida",
+    "cara",
+    "cara d’alleujament"
   ],
   "reminder_ribbon": [
     "llaç commemoratiu",
@@ -11338,7 +12016,9 @@
     "planeta",
     "saturn",
     "anelles",
-    "sideral"
+    "sideral",
+    "planeta amb anell",
+    "saturní"
   ],
   "roasted_sweet_potato": [
     "moniato",
@@ -11350,14 +12030,21 @@
     "androide",
     "ia",
     "automatic",
-    "automàtic"
+    "automàtic",
+    "cara",
+    "monstre"
   ],
   "rock": [
     "perda",
     "cudol",
     "roca",
     "còdol",
-    "cantal"
+    "cantal",
+    "pedra",
+    "penyal",
+    "pesat",
+    "roc",
+    "sòlid"
   ],
   "rocket": [
     "vehicle",
@@ -11382,7 +12069,10 @@
     "felicitat",
     "partir-se",
     "pixar-se",
-    "rialla"
+    "rialla",
+    "cara",
+    "cara que es peta de riure",
+    "petar-se de riure"
   ],
   "roll_eyes": [
     "ai",
@@ -11395,7 +12085,10 @@
     "paciencia",
     "exasperat",
     "maeu",
-    "exasperacio"
+    "exasperacio",
+    "cara",
+    "cara amb els ulls en blanc",
+    "ulls en blanc"
   ],
   "roll_of_paper": [
     "dutxa",
@@ -11422,7 +12115,9 @@
     "fila",
     "patina",
     "rollerblade",
-    "rollergrind"
+    "rollergrind",
+    "patí de rodes",
+    "rodes"
   ],
   "romania": [
     "bandera",
@@ -11507,7 +12202,8 @@
     "preocupat",
     "alleujament",
     "uf",
-    "cara de decepció, però alleujada"
+    "cara de decepció, però alleujada",
+    "cara"
   ],
   "safety_pin": [
     "imperdible",
@@ -11517,7 +12213,10 @@
   "safety_vest": [
     "salvavides",
     "armilla de seguretat",
-    "armilla"
+    "armilla",
+    "armilla salvavides",
+    "emergència",
+    "seguretat"
   ],
   "sagittarius": [
     "zodíac",
@@ -11608,7 +12307,8 @@
   ],
   "satellite_antenna": [
     "satèl·lit",
-    "antena"
+    "antena",
+    "antena de satèl·lit"
   ],
   "saudi_arabia": [
     "bandera",
@@ -11658,7 +12358,11 @@
     "investigació",
     "científica",
     "investigador",
-    "investigadora"
+    "investigadora",
+    "biòleg",
+    "enginyer",
+    "físic",
+    "químic"
   ],
   "scissors": [
     "eina",
@@ -11715,7 +12419,10 @@
     "nooo",
     "redeu",
     "collons",
-    "pànic"
+    "pànic",
+    "cara",
+    "cara que crida de por",
+    "crit de por"
   ],
   "screwdriver": [
     "eina",
@@ -11786,7 +12493,8 @@
     "7",
     "set",
     "tecla dígit set",
-    "tecla dígit 7"
+    "tecla dígit 7",
+    "tecla"
   ],
   "seven_o_clock": [
     "les set en punt",
@@ -11984,7 +12692,11 @@
   ],
   "shorts": [
     "pantalons curts",
-    "pantalons"
+    "pantalons",
+    "banyador",
+    "pantaló",
+    "roba interior",
+    "vestit de bany"
   ],
   "shower": [
     "aigua",
@@ -12013,7 +12725,8 @@
     "mut",
     "mutis",
     "callar",
-    "tranquil"
+    "tranquil",
+    "cara que demana silenci"
   ],
   "sierra_leone": [
     "bandera",
@@ -12029,7 +12742,8 @@
     "dits",
     "musica",
     "metal",
-    "banya"
+    "banya",
+    "dits en forma de banyes"
   ],
   "singapore": [
     "bandera",
@@ -12042,7 +12756,10 @@
     "cantant",
     "cantar",
     "actuació",
-    "actuar"
+    "actuar",
+    "actor",
+    "estrella",
+    "presentador"
   ],
   "sint_maarten": [
     "bandera",
@@ -12053,7 +12770,8 @@
     "sis",
     "6",
     "tecla dígit 6",
-    "tecla dígit sis"
+    "tecla dígit sis",
+    "tecla"
   ],
   "six_o_clock": [
     "rellotge",
@@ -12097,7 +12815,10 @@
     "calavera",
     "crani",
     "mort",
-    "ossos"
+    "ossos",
+    "cara",
+    "conte",
+    "monstre"
   ],
   "skull_and_crossbones": [
     "os",
@@ -12107,7 +12828,10 @@
     "calavera",
     "crani",
     "mort",
-    "ossos"
+    "ossos",
+    "cara",
+    "crani amb ossos",
+    "monstre"
   ],
   "skunk": [
     "olor",
@@ -12132,7 +12856,9 @@
     "adormint",
     "mort",
     "dormint",
-    "zzz"
+    "zzz",
+    "cara",
+    "cara de dormir"
   ],
   "sleepy_face": [
     "pesat",
@@ -12146,7 +12872,9 @@
     "bambolla",
     "cansat",
     "adormint",
-    "dormint"
+    "dormint",
+    "cara",
+    "cara de son"
   ],
   "slightly_frowning_face": [
     "tristor",
@@ -12156,7 +12884,9 @@
     "empipat",
     "enfadat",
     "emmurriada",
-    "empipada"
+    "empipada",
+    "cara",
+    "cara una mica arrufada"
   ],
   "slightly_smiling_face": [
     "somriure",
@@ -12166,7 +12896,10 @@
     "timida",
     "indiferent",
     "tímida",
-    "tímid"
+    "tímid",
+    "cara",
+    "cara que somriu una mica",
+    "somriure tímid"
   ],
   "slot_machine": [
     "joc",
@@ -12234,7 +12967,10 @@
     "bocabadada",
     "content",
     "contenta",
-    "felicitat"
+    "felicitat",
+    "boca oberta",
+    "cara",
+    "cara molt somrient amb els ulls ben oberts"
   ],
   "smiling_cat_with_heart_eyes": [
     "enamorada",
@@ -12247,7 +12983,9 @@
     "somrient",
     "enamorat",
     "gat",
-    "cors"
+    "cors",
+    "cara",
+    "gat somrient amb cors als ulls"
   ],
   "smiling_face": [
     "relaxat",
@@ -12262,7 +13000,10 @@
     "rubor",
     "relaxada",
     "vergonya",
-    "timidesa"
+    "timidesa",
+    "cara",
+    "cara relaxada",
+    "cara somrient"
   ],
   "smiling_face_with_horns": [
     "banyes",
@@ -12279,7 +13020,9 @@
     "manifasser",
     "malifeta",
     "manifesser",
-    "idea"
+    "idea",
+    "cara",
+    "cara somrient amb banyes"
   ],
   "smiling_face_with_sunglasses": [
     "ulleres",
@@ -12293,7 +13036,9 @@
     "xulet",
     "cool",
     "xuleta",
-    "sobrat"
+    "sobrat",
+    "cara",
+    "cara somrient amb ulleres de sol"
   ],
   "smiling_face_with_tear": [
     "plor",
@@ -12301,7 +13046,12 @@
     "pena",
     "gota",
     "llagrima",
-    "llàgrima"
+    "llàgrima",
+    "agraïment",
+    "alleujament",
+    "cara somrient amb una llàgrima",
+    "emoció",
+    "orgull"
   ],
   "smiling_face_with_three_hearts": [
     "estimar",
@@ -12324,7 +13074,9 @@
     "enamorament",
     "cuki",
     "sentiment",
-    "cuqui"
+    "cuqui",
+    "cara somrient amb 3 cors",
+    "cara somrient amb cors"
   ],
   "smirking_face": [
     "astut",
@@ -12335,7 +13087,10 @@
     "múrria",
     "sensual",
     "sexi",
-    "astuta"
+    "astuta",
+    "cara",
+    "cara somrient amb superioritat",
+    "somriure astut"
   ],
   "snail": [
     "caragol",
@@ -12368,7 +13123,9 @@
     "fotut",
     "grip",
     "mocs",
-    "congestió"
+    "congestió",
+    "cara",
+    "cara que esternuda"
   ],
   "snow_capped_mountain": [
     "mondúber",
@@ -12439,7 +13196,9 @@
     "plor",
     "tristesa",
     "plorar",
-    "desconsol"
+    "desconsol",
+    "cara que plora desconsoladament",
+    "llàgrimes de desconsol"
   ],
   "soccer_ball": [
     "pilota",
@@ -12461,7 +13220,8 @@
     "pilota",
     "guant",
     "softbol",
-    "pilota de softbol"
+    "pilota de softbol",
+    "amb mà baixa"
   ],
   "solomon_islands": [
     "bandera",
@@ -12544,7 +13304,8 @@
     "espanyola"
   ],
   "sparkle": [
-    "espurna"
+    "espurna",
+    "*"
   ],
   "sparkler": [
     "foc",
@@ -12577,7 +13338,8 @@
     "estrelles",
     "espurna",
     "estrellat",
-    "espurnes"
+    "espurnes",
+    "*"
   ],
   "sparkling_heart": [
     "estimar",
@@ -12604,16 +13366,19 @@
     "distorsió",
     "activa",
     "volum fort",
-    "habilita"
+    "habilita",
+    "altaveu amb el volum alt"
   ],
   "speaker_low_volume": [
     "volum",
     "volum suau",
-    "baix"
+    "baix",
+    "altaveu amb el volum baix"
   ],
   "speaker_medium_volume": [
     "mitjà",
-    "volum mitjà"
+    "volum mitjà",
+    "altaveu amb el volum mitjà"
   ],
   "speaking_head": [
     "cridar",
@@ -12622,7 +13387,9 @@
     "silueta",
     "parlar",
     "perfil",
-    "veu"
+    "veu",
+    "persona que parla",
+    "silueta que parla"
   ],
   "speech_balloon": [
     "bafarada",
@@ -12712,7 +13479,11 @@
     "burla",
     "llengota",
     "ecs",
-    "xp"
+    "xp",
+    "cara",
+    "cara amb els ulls tancats i la llengua fora",
+    "cara que fa llengotes i amb els ulls tancats",
+    "ulls tancats"
   ],
   "sri_lanka": [
     "bandera",
@@ -12748,6 +13519,9 @@
     "lc",
     "bandera_lc",
     "st. lucia"
+  ],
+  "st_martin": [
+    "bandera"
   ],
   "st_pierre_miquelon": [
     "bandera",
@@ -12812,7 +13586,9 @@
     "estrellat",
     "il·lusió",
     "fantàstic",
-    "magnífic"
+    "magnífic",
+    "cara",
+    "cara amb estrelles als ulls"
   ],
   "station": [
     "fgv",
@@ -12847,7 +13623,8 @@
     "doctora",
     "medicina",
     "estetoscopi",
-    "fonendoscopi"
+    "fonendoscopi",
+    "cor"
   ],
   "stop_button": [
     "botó",
@@ -12990,7 +13767,8 @@
     "dia",
     "muntanyes",
     "alba",
-    "trenc d'alba"
+    "trenc d'alba",
+    "alba sobre les muntanyes"
   ],
   "sunset": [
     "dia",
@@ -13001,7 +13779,10 @@
   ],
   "superhero": [
     "superheroi",
-    "heroi"
+    "heroi",
+    "bo",
+    "heroïna",
+    "súperpoder"
   ],
   "supervillain": [
     "malvat",
@@ -13036,6 +13817,9 @@
     "suspensió",
     "tramvia elevat"
   ],
+  "svalbard_jan_mayen": [
+    "bandera"
+  ],
   "swan": [
     "aneguet lleig",
     "cigne",
@@ -13056,7 +13840,10 @@
     "lol",
     "hahaha",
     "gota",
-    "vergonya"
+    "vergonya",
+    "cara",
+    "cara somrient amb una gota de suor",
+    "suor freda"
   ],
   "sweden": [
     "bandera",
@@ -13206,7 +13993,9 @@
     "professor",
     "classe",
     "aula",
-    "pissarra"
+    "pissarra",
+    "instructor",
+    "mestre"
   ],
   "teacup_without_handle": [
     "tassa de te",
@@ -13238,7 +14027,9 @@
     "programador",
     "dev",
     "codi",
-    "tecnològic"
+    "tecnològic",
+    "inventor",
+    "tecnòleg"
   ],
   "teddy_bear": [
     "joc",
@@ -13272,7 +14063,8 @@
     "deu",
     "10",
     "tecla dígit deu",
-    "tecla dígit 10"
+    "tecla dígit 10",
+    "tecla"
   ],
   "ten_o_clock": [
     "rellotge",
@@ -13304,7 +14096,8 @@
     "càmping",
     "tenda",
     "campament",
-    "acampada"
+    "acampada",
+    "tenda de campanya"
   ],
   "test_tube": [
     "ciència",
@@ -13349,13 +14142,17 @@
     "inseguritat",
     "meditar",
     "pensant",
-    "barbeta"
+    "barbeta",
+    "cara"
   ],
   "thong_sandal": [
     "sandàlies",
     "xancles",
     "xancla",
-    "sandàlia"
+    "sandàlia",
+    "xancleta",
+    "xancleta de dit",
+    "xancleta de platja"
   ],
   "thought_balloon": [
     "pensar",
@@ -13373,7 +14170,8 @@
     "tres",
     "3",
     "tecla dígit 3",
-    "tecla dígit tres"
+    "tecla dígit tres",
+    "tecla"
   ],
   "three_o_clock": [
     "rellotge",
@@ -13432,7 +14230,9 @@
     "perea",
     "esgotament",
     "maledicció",
-    "maleït"
+    "maleït",
+    "cara",
+    "cara de cansament"
   ],
   "togo": [
     "bandera",
@@ -13479,7 +14279,8 @@
     "llengua",
     "xuclar",
     "tastar",
-    "llepar"
+    "llepar",
+    "cos"
   ],
   "toolbox": [
     "capsa d’eines",
@@ -13508,7 +14309,12 @@
     "dents",
     "dent",
     "dentista",
-    "raspall de dents"
+    "raspall de dents",
+    "dental",
+    "higiene",
+    "lavabo",
+    "raspall",
+    "rentar"
   ],
   "top_arrow": [
     "paraula",
@@ -13573,7 +14379,10 @@
     "bandera trans",
     "transexual",
     "bandera transgènere",
-    "transgènere"
+    "transgènere",
+    "blanc",
+    "blau cel",
+    "rosa"
   ],
   "transgender_symbol": [
     "trans",
@@ -13606,6 +14415,9 @@
     "tt",
     "bandera_tt",
     "trinitat i tobago"
+  ],
+  "tristan_da_cunha": [
+    "bandera"
   ],
   "troll": [
     "fantasia",
@@ -13719,7 +14531,8 @@
     "2",
     "tecla dígit dos",
     "dues",
-    "tecla dígit 2"
+    "tecla dígit 2",
+    "tecla"
   ],
   "two_hearts": [
     "estimar",
@@ -13830,7 +14643,9 @@
     "decebut",
     "emprenyat",
     "decebuda",
-    "avorriment"
+    "avorriment",
+    "cara",
+    "cara de desaprovació"
   ],
   "unicorn": [
     "cara",
@@ -13906,13 +14721,15 @@
     "direcció",
     "fletxa",
     "fletxa cap amunt a l’esquerra",
-    "nord-oest"
+    "nord-oest",
+    "amunt a l’esquerra"
   ],
   "up_right_arrow": [
     "direcció",
     "fletxa",
     "fletxa cap amunt a la dreta",
-    "nord-est"
+    "nord-est",
+    "amunt a la dreta"
   ],
   "upside_down_face": [
     "somriure",
@@ -13928,12 +14745,15 @@
     "simpàtic",
     "sarcàstic",
     "babau",
-    "simpatic"
+    "simpatic",
+    "cara",
+    "cara de cap per avall"
   ],
   "upwards_button": [
     "amunt",
     "botó",
-    "botó d’anar amunt"
+    "botó d’anar amunt",
+    "vermell"
   ],
   "uruguay": [
     "bandera",
@@ -13943,6 +14763,9 @@
     "uruguaiana",
     "uruguaia",
     "bandera_uy"
+  ],
+  "us_outlying_islands": [
+    "bandera"
   ],
   "us_virgin_islands": [
     "bandera",
@@ -14008,7 +14831,8 @@
     "guanyar",
     "vencedora",
     "victoria",
-    "victoriosa"
+    "victoriosa",
+    "senyal de la victòria"
   ],
   "video_camera": [
     "vídeo",
@@ -14072,11 +14896,13 @@
     "separats",
     "salutació",
     "spock",
-    "klingon"
+    "klingon",
+    "salutació vulcaniana"
   ],
   "waffle": [
     "gofrera",
-    "gofre"
+    "gofre",
+    "gofra"
   ],
   "wales": [
     "bandera",
@@ -14165,7 +14991,8 @@
     "sacseig",
     "adeu",
     "adéu",
-    "apa"
+    "apa",
+    "mà que saluda"
   ],
   "wavy_dash": [
     "puntuació",
@@ -14214,7 +15041,8 @@
     "nooo",
     "redeu",
     "collons",
-    "pànic"
+    "pànic",
+    "cara"
   ],
   "weary_face": [
     "cansament",
@@ -14232,7 +15060,9 @@
     "esgotament",
     "maledicció",
     "derrota",
-    "maleït"
+    "maleït",
+    "cara",
+    "cara d’esgotament"
   ],
   "wedding": [
     "enamorada",
@@ -14291,7 +15121,8 @@
     "invident",
     "cega",
     "cec",
-    "bastó blanc"
+    "bastó blanc",
+    "bastó per a invidents"
   ],
   "white_check_mark": [
     "gran",
@@ -14300,7 +15131,10 @@
     "correcte",
     "bé",
     "marca",
-    "marca de verificació blanca gran"
+    "marca de verificació blanca gran",
+    "✓",
+    "botó",
+    "botó de marca de verificació"
   ],
   "white_circle": [
     "blanc",
@@ -14313,7 +15147,8 @@
     "atenció",
     "signe",
     "puntuació",
-    "signe d’exclamació blanc"
+    "signe d’exclamació blanc",
+    "!"
   ],
   "white_flag": [
     "bandera",
@@ -14339,7 +15174,8 @@
     "estimo",
     "estima",
     "sant donís",
-    "cor blanc"
+    "cor blanc",
+    "blanc"
   ],
   "white_large_square": [
     "blanc",
@@ -14366,7 +15202,8 @@
     "ajuda",
     "interrogació",
     "puntuació",
-    "signe d’interrogació blanc"
+    "signe d’interrogació blanc",
+    "?"
   ],
   "white_small_square": [
     "blanc",
@@ -14405,7 +15242,12 @@
   ],
   "window": [
     "finestres",
-    "finestra"
+    "finestra",
+    "aire fresc",
+    "marc",
+    "obertura",
+    "transparent",
+    "vista"
   ],
   "wine_glass": [
     "beure",
@@ -14431,7 +15273,9 @@
     "complicitat",
     "picar",
     ";)",
-    "ull"
+    "ull",
+    "cara",
+    "cara que pica l’ullet"
   ],
   "winking_face_with_tongue": [
     "punxar",
@@ -14447,7 +15291,9 @@
     "complicitat",
     "picar",
     "llengota",
-    ";p"
+    ";p",
+    "cara",
+    "cara que fa llengotes i pica l’ullet"
   ],
   "wireless": [
     "sense fils",
@@ -14496,7 +15342,8 @@
     "dona",
     "femení",
     "sense cabells",
-    "calba"
+    "calba",
+    "calvície"
   ],
   "woman_beard": [
     "barbut",
@@ -14600,7 +15447,12 @@
     "agricultora"
   ],
   "woman_feeding_baby": [
-    "dóna alimentant un nadó"
+    "dóna alimentant un nadó",
+    "alimentar",
+    "alletar",
+    "bebè",
+    "dona",
+    "dona que alleta un bebè"
   ],
   "woman_firefighter": [
     "dona",
@@ -14680,7 +15532,11 @@
     "salut",
     "metge",
     "dentista",
-    "infermera"
+    "infermera",
+    "dona",
+    "dona professional de la salut",
+    "professional de la salut",
+    "terapeuta"
   ],
   "woman_in_lotus_position": [
     "vacances",
@@ -14691,11 +15547,15 @@
   ],
   "woman_in_manual_wheelchair": [
     "cadira de rodes",
-    "accessibilitat"
+    "accessibilitat",
+    "dona",
+    "dona amb una cadira de rodes manual"
   ],
   "woman_in_motorized_wheelchair": [
     "cadira de rodes",
-    "accessibilitat"
+    "accessibilitat",
+    "dona",
+    "dona amb una cadira de rodes elèctrica"
   ],
   "woman_in_steamy_room": [
     "sauna",
@@ -14803,7 +15663,8 @@
     "femení",
     "policia",
     "agent",
-    "policia dona"
+    "policia dona",
+    "agent de policia dona"
   ],
   "woman_pouting": [
     "gest",
@@ -14830,7 +15691,8 @@
     "dona",
     "femení",
     "panotxa",
-    "pel-roja"
+    "pel-roja",
+    "cabells vermells"
   ],
   "woman_rowing_boat": [
     "dona",
@@ -14901,7 +15763,8 @@
   "woman_standing": [
     "dempeus",
     "dreta",
-    "persona dreta"
+    "persona dreta",
+    "dona"
   ],
   "woman_student": [
     "dona",
@@ -15015,7 +15878,8 @@
     "accessibilitat",
     "invident",
     "cega",
-    "dona amb un bastó per a invidents"
+    "dona amb un bastó per a invidents",
+    "dona"
   ],
   "woman_zombie": [
     "dona zombi",
@@ -15030,7 +15894,8 @@
     "mans agafades",
     "homo",
     "homosexual",
-    "dones que s’agafen de la mà"
+    "dones que s’agafen de la mà",
+    "parella de dones"
   ],
   "women_s_room": [
     "dones",
@@ -15093,7 +15958,10 @@
     "borratxo",
     "borratxera",
     "engatat",
-    "bufat"
+    "bufat",
+    "boca ondulada",
+    "cara de mareig",
+    "ulls desiguals"
   ],
   "world_map": [
     "món",
@@ -15112,7 +15980,9 @@
     "preocupació",
     "decepció",
     "preocupat",
-    "impressió"
+    "impressió",
+    "cara",
+    "cara de preocupació"
   ],
   "wrapped_gift": [
     "celebració",
@@ -15146,7 +16016,8 @@
     "redactar",
     "retolar",
     "llapissera",
-    "escriure"
+    "escriure",
+    "mà que escriu"
   ],
   "x_ray": [
     "malalt",
@@ -15181,7 +16052,10 @@
     "avorrida",
     "dorm",
     "badall",
-    "badar"
+    "badar",
+    "avorriment",
+    "cansament",
+    "cara que badalla"
   ],
   "yellow_circle": [
     "cercle",
@@ -15236,7 +16110,9 @@
   ],
   "yoyo": [
     "io-io",
-    "ioio"
+    "ioio",
+    "fluctuar",
+    "joguina"
   ],
   "zambia": [
     "bandera",
@@ -15250,7 +16126,10 @@
     "bogeria",
     "boig",
     "boja",
-    "acudit"
+    "acudit",
+    "cara de bogeria",
+    "ull gran",
+    "ull petit"
   ],
   "zebra": [
     "ratlla"
@@ -15258,7 +16137,8 @@
   "zero": [
     "0",
     "tecla dígit zero",
-    "tecla dígit 0"
+    "tecla dígit 0",
+    "tecla"
   ],
   "zimbabwe": [
     "bandera",
@@ -15274,13 +16154,18 @@
     "cremallera",
     "mut",
     "muda",
-    "confessar"
+    "confessar",
+    "boca tancada",
+    "cara",
+    "cara amb cremallera a la boca"
   ],
   "zombie": [
     "vivent",
     "cervell",
     "cervells",
-    "zombi"
+    "zombi",
+    "mort vivent",
+    "walking dead"
   ],
   "zzz": [
     "son",
