@@ -579,4 +579,4 @@ https://googlefonts.github.io/noto-emoji-animation/
 
 By Google, licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
-The original 512 × 512 animated WebP files have been resized to 128 × 128 and encoded as animated AVIFs (quality 50, 4:4:4 color, libaom speed 2).
+The original 512 × 512 animated WebP files have been resized to 128 × 128 and encoded as animated AVIFs (color CRF 31, alpha CRF 32, 4:4:4 color, libaom CPU preset 2).

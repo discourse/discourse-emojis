@@ -33,11 +33,13 @@ On macOS:
 brew install imagemagick
 ```
 
-The `noto_animated` set is a separate collection of 128 × 128 animated AVIFs, intended for larger animations rather than inline emoji replacements. It contains only available animations, with emoji names, skin tones, and aliases using `.avif` paths; there are no static fallbacks. The 861 images total approximately 41.7 MiB.
+The `noto_animated` set is a separate collection of 128 × 128 animated AVIFs, intended for larger animations rather than inline emoji replacements. It contains only available animations, with emoji names, skin tones, and aliases using `.avif` paths; there are no static fallbacks. The 861 images total approximately 42.2 MiB.
 
 Animated Noto Emoji by [Google](https://googlefonts.github.io/noto-emoji-animation/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). These assets have been resized and converted to AVIF. Retain the attribution and license information when redistributing them; see [attributions.md](attributions.md).
 
-Regenerate it with `bundle exec rake emojis:noto_animated_emoji`. Generation downloads Google's 512 × 512 WebPs and requires Python 3 with Pillow 13.0.0 (`python3 -m pip install Pillow==13.0.0`) built with AVIF/libaom support. The encoder uses Lanczos resizing, AVIF quality 50, 4:4:4 color, and libaom speed 2. These settings were selected by comparing 14 presets on 15 varied emoji and inspecting image quality. Python and Pillow are only needed for regeneration; the gem ships the encoded assets.
+Regenerate it with `bundle exec rake emojis:noto_animated_emoji`. Generation downloads Google's 512 × 512 WebPs and requires FFmpeg 9 or newer, built with the animated WebP decoder and libaom AV1 encoder. Ruby invokes FFmpeg directly; FFmpeg is only needed for regeneration, as the gem ships the encoded assets.
+
+Encoding uses Lanczos resizing with premultiplied alpha, full-range 4:4:4 color, color CRF 31, alpha CRF 32, and libaom CPU preset 2. Color uses SSIM tuning and alpha uses PSNR tuning, with lookahead disabled. Frame timestamps are preserved at millisecond precision and animations loop indefinitely. These settings were tested on 15 varied emoji against the original AVIF preset to match image quality with similar file sizes.
 
 ## Updating the emojis
 

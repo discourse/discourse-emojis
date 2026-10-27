@@ -45,11 +45,11 @@ RSpec.describe DiscourseEmojis::NotoAnimatedEmojiProcessor do
           response
         end
 
-        allow(Open3).to receive(:capture3) do |python, script, source, target|
-          expect(python).to eq("python3")
-          expect(File.basename(script)).to eq("encode_noto_animation.py")
+        allow(Open3).to receive(:capture3) do |command, *arguments|
+          expect(command).to eq("ffmpeg")
+          source = arguments[arguments.index("-i") + 1]
           expect(File.binread(source)).to eq("original webp")
-          File.binwrite(target, "encoded avif")
+          File.binwrite(arguments.last, "encoded avif")
           ["", "", instance_double(Process::Status, success?: true)]
         end
 
