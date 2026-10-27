@@ -4,7 +4,7 @@ A Discourse gem to provide all the necessary emoji data:
 
 - emoji names
 - toned emojis
-- images for sets (noto, twemoji, openmoji, fluentui...)
+- images for sets (noto, noto_animated, twemoji, openmoji, fluentui...)
 - aliases
 - search aliases
 - groups
@@ -32,6 +32,8 @@ On macOS:
 ```sh
 brew install imagemagick
 ```
+
+The `noto_animated` set is a separate collection of Google's original 512 × 512 animated WebPs, intended for larger animations rather than inline emoji replacements. It contains only available animations, with emoji names, skin tones, and aliases using `.webp` paths; there are no static fallbacks. Regenerate it with `bundle exec rake emojis:noto_animated_emoji`. No image conversion tools are required for this set.
 
 ## Updating the emojis
 

@@ -27,35 +27,42 @@ module DiscourseEmojis
 
     def create_aliases_for_directory(dir)
       Dir
-        .glob("#{dir}/*.png")
+        .glob("#{dir}/*.{png,webp}")
         .each do |emoji_file|
-          base_name = File.basename(emoji_file, ".png")
-          create_aliases_for_emoji(dir, base_name) if EMOJI_ALIASES[base_name]
+          extension = File.extname(emoji_file)
+          base_name = File.basename(emoji_file, extension)
+          create_aliases_for_emoji(dir, base_name, extension) if EMOJI_ALIASES[base_name]
         end
     end
 
-    def create_aliases_for_emoji(dir, base_name)
-      EMOJI_ALIASES[base_name].each { |alias_name| create_alias_files(dir, base_name, alias_name) }
+    def create_aliases_for_emoji(dir, base_name, extension)
+      EMOJI_ALIASES[base_name].each do |alias_name|
+        create_alias_files(dir, base_name, alias_name, extension)
+      end
     end
 
-    def create_alias_files(dir, original_name, alias_name)
+    def create_alias_files(dir, original_name, alias_name, extension)
       FileUtils.cd(dir) do
-        FileUtils.ln_s("#{original_name}.png", "#{alias_name}.png")
+        FileUtils.ln_s("#{original_name}#{extension}", "#{alias_name}#{extension}")
 
         variations_dir = File.join(dir, original_name)
         return if !File.directory?(variations_dir)
 
-        create_tone_variations(original_name, alias_name)
+        create_tone_variations(original_name, alias_name, extension)
       end
     end
 
-    def create_tone_variations(original_name, alias_name)
+    def create_tone_variations(original_name, alias_name, extension)
       FileUtils.mkdir_p(alias_name)
 
       (2..6).each do |tone|
+        if extension == ".webp" && !File.exist?(File.join(original_name, "#{tone}#{extension}"))
+          next
+        end
+
         FileUtils.ln_s(
-          File.join("..", original_name, "#{tone}.png"),
-          File.join(alias_name, "#{tone}.png"),
+          File.join("..", original_name, "#{tone}#{extension}"),
+          File.join(alias_name, "#{tone}#{extension}"),
         )
       end
     end
