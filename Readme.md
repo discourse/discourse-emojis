@@ -33,7 +33,9 @@ On macOS:
 brew install imagemagick
 ```
 
-The `noto_animated` set is a separate collection of Google's original 512 × 512 animated WebPs, intended for larger animations rather than inline emoji replacements. It contains only available animations, with emoji names, skin tones, and aliases using `.webp` paths; there are no static fallbacks. Regenerate it with `bundle exec rake emojis:noto_animated_emoji`. No image conversion tools are required for this set.
+The `noto_animated` set is a separate collection of 128 × 128 animated AVIFs, intended for larger animations rather than inline emoji replacements. It contains only available animations, with emoji names, skin tones, and aliases using `.avif` paths; there are no static fallbacks. The 861 images total approximately 41.7 MiB.
+
+Regenerate it with `bundle exec rake emojis:noto_animated_emoji`. Generation downloads Google's 512 × 512 WebPs and requires Python 3 with Pillow 13.0.0 (`python3 -m pip install Pillow==13.0.0`) built with AVIF/libaom support. The encoder uses Lanczos resizing, AVIF quality 50, 4:4:4 color, and libaom speed 2. These settings were selected by comparing 14 presets on 15 varied emoji and inspecting image quality. Python and Pillow are only needed for regeneration; the gem ships the encoded assets.
 
 ## Updating the emojis
 

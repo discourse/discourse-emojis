@@ -27,7 +27,7 @@ module DiscourseEmojis
 
     def create_aliases_for_directory(dir)
       Dir
-        .glob("#{dir}/*.{png,webp}")
+        .glob("#{dir}/*.{png,avif}")
         .each do |emoji_file|
           extension = File.extname(emoji_file)
           base_name = File.basename(emoji_file, extension)
@@ -56,7 +56,7 @@ module DiscourseEmojis
       FileUtils.mkdir_p(alias_name)
 
       (2..6).each do |tone|
-        if extension == ".webp" && !File.exist?(File.join(original_name, "#{tone}#{extension}"))
+        if extension == ".avif" && !File.exist?(File.join(original_name, "#{tone}#{extension}"))
           next
         end
 

@@ -11,7 +11,7 @@ require "discourse_emojis/emoji_synchronizer"
 
 RSpec.describe DiscourseEmojis::NotoAnimatedEmojiProcessor do
   describe ".process" do
-    it "preserves original WebPs and maps names, skin tones, and aliases without static fallbacks" do
+    it "encodes animated AVIFs and maps names, skin tones, and aliases without static fallbacks" do
       Dir.mktmpdir do |root|
         emoji_dir = File.join(root, "emoji")
         noto_dir = File.join(emoji_dir, "noto")
@@ -19,6 +19,10 @@ RSpec.describe DiscourseEmojis::NotoAnimatedEmojiProcessor do
         %w[grinning.png smile.png +1.png +1/2.png +1/3.png].each do |file|
           File.write(File.join(noto_dir, file), "static")
         end
+        unicode_dir = File.join(emoji_dir, "unicode")
+        FileUtils.mkdir_p(unicode_dir)
+        File.write(File.join(unicode_dir, "smile.png"), "unicode fallback")
+        stub_const("DiscourseEmojis::EmojiSynchronizer::UNICODE_DIR", unicode_dir)
         output_dir = File.join(emoji_dir, "noto_animated")
         FileUtils.mkdir_p(output_dir)
         mapping = { "😀️" => "grinning", "😄️" => "smile", "👍️" => "+1", "©️" => "copyright" }
@@ -41,17 +45,26 @@ RSpec.describe DiscourseEmojis::NotoAnimatedEmojiProcessor do
           response
         end
 
+        allow(Open3).to receive(:capture3) do |python, script, source, target|
+          expect(python).to eq("python3")
+          expect(File.basename(script)).to eq("encode_noto_animation.py")
+          expect(File.binread(source)).to eq("original webp")
+          File.binwrite(target, "encoded avif")
+          ["", "", instance_double(Process::Status, success?: true)]
+        end
+
         described_class.process
 
         DiscourseEmojis::EmojiAliasCreator.create_aliases
         DiscourseEmojis::EmojiSynchronizer.sync_missing_emojis
 
-        expect(File.binread(File.join(output_dir, "copyright.webp"))).to eq("original webp")
-        expect(File.binread(File.join(output_dir, "grinning.webp"))).to eq("original webp")
-        expect(File.binread(File.join(output_dir, "+1/2.webp"))).to eq("original webp")
-        expect(File.binread(File.join(output_dir, "thumbs_up/2.webp"))).to eq("original webp")
-        expect(File.exist?(File.join(output_dir, "thumbs_up/3.webp"))).to eq(false)
-        expect(File.exist?(File.join(output_dir, "smile.webp"))).to eq(false)
+        expect(File.binread(File.join(output_dir, "copyright.avif"))).to eq("encoded avif")
+        expect(File.binread(File.join(output_dir, "grinning.avif"))).to eq("encoded avif")
+        expect(File.binread(File.join(output_dir, "+1/2.avif"))).to eq("encoded avif")
+        expect(File.binread(File.join(output_dir, "thumbs_up/2.avif"))).to eq("encoded avif")
+        expect(File.exist?(File.join(output_dir, "thumbs_up/3.avif"))).to eq(false)
+        expect(File.exist?(File.join(output_dir, "smile.avif"))).to eq(false)
+        expect(Dir.glob(File.join(output_dir, "**", "*.webp"))).to eq([])
         expect(Dir.glob(File.join(output_dir, "**", "*.png"))).to eq([])
       end
     end
