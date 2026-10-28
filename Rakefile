@@ -7,6 +7,7 @@ gemfile do
 
   gem "rubyzip", "~> 2.4"
   gem "nokogiri", "~> 1.8"
+  gem "rexml", "~> 3.4"
   gem "i18n", "~> 1.14", ">= 1.14.7"
   gem "selenium-webdriver", "~> 4.25"
 end
