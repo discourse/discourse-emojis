@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.description = "Bundle of emojis sets for Discourse"
   s.authors = ["Joffrey Jaffeux"]
   s.email = "joffrey.jaffeux@discourse.org"
-  s.files = Dir["dist/**/*", "lib/**/*.rb", "vendor/assets/emojis/**/*.png"]
+  s.files = Dir["dist/**/*", "lib/**/*.rb", "vendor/assets/emojis/**/*.png", "attributions.md"]
   s.homepage = "https://github.com/discourse/discourse-emojis"
   s.license = "MIT"
 

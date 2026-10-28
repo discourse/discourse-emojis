@@ -28,8 +28,11 @@ module DiscourseEmojis
 
     def emoji_dirs
       Dir
-        .glob("dist/emoji/*")
-        .select { |d| File.directory?(d) && !d.end_with?("/unicode") && !File.symlink?(d) }
+        .glob(File.join(DiscourseEmojis.path_for_emojis, "*"))
+        .select do |d|
+          File.directory?(d) && !%w[unicode noto_animated].include?(File.basename(d)) &&
+            !File.symlink?(d)
+        end
     end
 
     def unicode_files
