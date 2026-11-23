@@ -21,6 +21,7 @@ require "discourse_emojis/zip_processor"
 require "discourse_emojis/emoji_synchronizer"
 require "discourse_emojis/unicode_emoji_processor"
 require "discourse_emojis/codepoints_emoji_processor"
+require "discourse_emojis/noto_3d_emoji_processor"
 require "discourse_emojis/noto_animated_emoji_processor"
 require "discourse_emojis/fluentui_emoji_processor"
 require "discourse_emojis/emoji_alias_creator"
@@ -38,6 +39,7 @@ namespace :emojis do
 
     Rake::Task["emojis:fluentui_emoji"].invoke
     Rake::Task["emojis:noto_emoji"].invoke
+    Rake::Task["emojis:noto_3d_emoji"].invoke
     Rake::Task["emojis:noto_animated_emoji"].invoke
     Rake::Task["emojis:twemoji"].invoke
     Rake::Task["emojis:openmoji"].invoke

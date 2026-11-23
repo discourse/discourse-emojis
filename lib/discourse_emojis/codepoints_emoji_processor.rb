@@ -73,12 +73,14 @@ module DiscourseEmojis
       def process_image_files(asset_path, output_dir, supported_emojis, tonable_emojis)
         Dir
           .glob(File.join(asset_path, "*.png"))
+          .sort
           .each { |file| process_single_image(file, output_dir, supported_emojis, tonable_emojis) }
       end
 
       def process_single_image(file, output_dir, supported_emojis, tonable_emojis)
         filename = normalize_filename(file)
         codepoints = filename.split("_")
+        return if mixed_fitzpatrick_tones?(codepoints)
 
         fitzpatrick_level, base_codepoints = extract_fitzpatrick_scale(codepoints)
         emoji = convert_to_emoji(base_codepoints)
@@ -88,6 +90,10 @@ module DiscourseEmojis
         return if fitzpatrick_level && !tonable_emojis.include?(emoji_name)
 
         save_emoji_image(file, output_dir, emoji_name, fitzpatrick_level)
+      end
+
+      def mixed_fitzpatrick_tones?(codepoints)
+        codepoints.select { |cp| FITZPATRICK_SCALE.key?(cp) }.uniq.size > 1
       end
 
       def normalize_filename(file)

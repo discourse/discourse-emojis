@@ -22,7 +22,9 @@ module DiscourseEmojis
     private
 
     def emoji_dirs
-      Dir.glob("#{DiscourseEmojis.path_for_emojis}/*").select { |d| File.directory?(d) }
+      Dir
+        .glob("#{DiscourseEmojis.path_for_emojis}/*")
+        .select { |d| File.directory?(d) && !File.symlink?(d) }
     end
 
     def create_aliases_for_directory(dir)
@@ -43,7 +45,10 @@ module DiscourseEmojis
 
     def create_alias_files(dir, original_name, alias_name, extension)
       FileUtils.cd(dir) do
-        FileUtils.ln_s("#{original_name}#{extension}", "#{alias_name}#{extension}")
+        alias_path = "#{alias_name}#{extension}"
+        if !File.exist?(alias_path) && !File.symlink?(alias_path)
+          FileUtils.ln_s("#{original_name}#{extension}", alias_path)
+        end
 
         variations_dir = File.join(dir, original_name)
         return if !File.directory?(variations_dir)
@@ -56,14 +61,13 @@ module DiscourseEmojis
       FileUtils.mkdir_p(alias_name)
 
       (2..6).each do |tone|
-        if extension == ".avif" && !File.exist?(File.join(original_name, "#{tone}#{extension}"))
-          next
-        end
+        source = File.join(original_name, "#{tone}#{extension}")
+        next if extension == ".avif" && !File.exist?(source)
 
-        FileUtils.ln_s(
-          File.join("..", original_name, "#{tone}#{extension}"),
-          File.join(alias_name, "#{tone}#{extension}"),
-        )
+        target = File.join(alias_name, "#{tone}#{extension}")
+        next if File.exist?(target) || File.symlink?(target)
+
+        FileUtils.ln_s(File.join("..", source), target)
       end
     end
   end
