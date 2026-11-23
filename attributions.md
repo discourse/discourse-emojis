@@ -449,9 +449,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**Noto**
+**Noto & Noto 3D**
 
 https://github.com/googlefonts/noto-emoji
+
+Covers both the `noto` (2D) and `noto_3d` (3D) emoji sets from `googlefonts/noto-emoji`.
 
 Copyright 2013 Google LLC
 
